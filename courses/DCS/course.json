@@ -2,9 +2,26 @@
   "course_id": "DCS",
   "title": "Digital Citizenship & Online Safety",
   "credit": 0.5,
-  "category": "Technology",
+  "category": "Elective",
+  "course_type": "half_credit",
   "units": 6,
   "lessons_per_unit": 5,
-  "course_type": "half_credit",
+  "has_unit_pretest": true,
+  "has_unit_assessment": true,
+  "lesson_components": {
+    "notebook_task": true,
+    "concept_instruction": true,
+    "worked_example": true,
+    "guided_practice": true,
+    "checkpoint": true,
+    "lesson_quiz": true
+  },
+  "graded_components": {
+    "notebook": true,
+    "checkpoint": true,
+    "lesson_quiz": true,
+    "unit_assessment": true
+  },
+  "pretest_counts_toward_grade": false,
   "mastery_threshold": 80
 }
