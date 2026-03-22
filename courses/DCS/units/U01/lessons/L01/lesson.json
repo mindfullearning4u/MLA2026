@@ -1,9 +1,10 @@
 {
   "lesson_id": "DCS-U01-L01",
-  "title": "What Is Digital Citizenship?",
+  "course_id": "DCS",
   "unit_id": "U01",
   "lesson_number": 1,
-  "description": "Core definitions, rights, responsibilities, digital behavior expectations.",
+  "title": "What Is Digital Citizenship?",
+  "description": "Core definitions, rights, responsibilities, and digital behavior expectations.",
   "pages": [
     "P01-lesson-overview.html",
     "P02-notebook-task.html",
@@ -14,18 +15,20 @@
     "P07-checkpoint-assignment-text.html"
   ],
   "graded_components": {
-    "notes": {
+    "notebook": {
       "type": "notebook",
       "graded": true
     },
     "checkpoint": {
-      "type": "assignment",
+      "type": "checkpoint",
       "graded": true
     },
     "quiz": {
-      "type": "lesson_quiz",
-      "graded": true
+      "type": "quiz",
+      "graded": true,
+      "quiz_id": "DCS-U01-L01-QUIZ"
     }
   },
-  "mastery_required": true
+  "mastery_required": true,
+  "display_order": 1
 }
