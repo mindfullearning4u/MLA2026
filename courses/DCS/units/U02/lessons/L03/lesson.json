@@ -1,8 +1,9 @@
 {
   "lesson_id": "DCS-U02-L03",
-  "title": "Digital Footprints & Reputation",
+  "course_id": "DCS",
   "unit_id": "U02",
   "lesson_number": 3,
+  "title": "Digital Footprints & Reputation",
   "description": "Permanence, searchability, long-term consequences of online actions.",
   "pages": [
     "P01-lesson-overview.html",
@@ -14,18 +15,26 @@
     "P07-checkpoint-assignment-text.html"
   ],
   "graded_components": {
-    "notes": {
+    "notebook": {
       "type": "notebook",
-      "graded": true
+      "graded": true,
+      "submission_required": true,
+      "submission_mode": "attachment_upload",
+      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
     },
     "checkpoint": {
-      "type": "assignment",
-      "graded": true
+      "type": "checkpoint",
+      "graded": true,
+      "submission_required": true,
+      "submission_mode": "attachment_upload",
+      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
     },
     "quiz": {
-      "type": "lesson_quiz",
-      "graded": true
+      "type": "quiz",
+      "graded": true,
+      "quiz_id": "DCS-U02-L03-QUIZ"
     }
   },
-  "mastery_required": true
+  "mastery_required": true,
+  "display_order": 3
 }
