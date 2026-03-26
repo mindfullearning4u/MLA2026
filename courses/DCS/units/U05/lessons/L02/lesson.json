@@ -1,8 +1,9 @@
 {
   "lesson_id": "DCS-U05-L02",
-  "title": "Copyright, Fair Use & Creative Rights",
+  "course_id": "DCS",
   "unit_id": "U05",
   "lesson_number": 2,
+  "title": "Copyright, Fair Use & Creative Rights",
   "description": "Legal use of content, attribution, permissions, creator rights.",
   "pages": [
     "P01-lesson-overview.html",
@@ -14,18 +15,26 @@
     "P07-checkpoint-assignment-text.html"
   ],
   "graded_components": {
-    "notes": {
+    "notebook": {
       "type": "notebook",
-      "graded": true
+      "graded": true,
+      "submission_required": true,
+      "submission_mode": "attachment_upload",
+      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
     },
     "checkpoint": {
-      "type": "assignment",
-      "graded": true
+      "type": "checkpoint",
+      "graded": true,
+      "submission_required": true,
+      "submission_mode": "attachment_upload",
+      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
     },
     "quiz": {
-      "type": "lesson_quiz",
-      "graded": true
+      "type": "quiz",
+      "graded": true,
+      "quiz_id": "DCS-U05-L02-QUIZ"
     }
   },
-  "mastery_required": true
+  "mastery_required": true,
+  "display_order": 2
 }
