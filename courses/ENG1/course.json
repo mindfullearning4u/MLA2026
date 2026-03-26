@@ -1,0 +1,35 @@
+{
+  "course_id": "ENG1",
+  "title": "English 1",
+  "credit": 1.0,
+  "category": "English Language Arts",
+  "pathway": "English",
+  "course_type": "full_credit",
+  "units": 6,
+  "lessons_per_unit": 8,
+  "has_unit_pretest": true,
+  "has_unit_final": true,
+  "lesson_components": {
+    "notebook": true,
+    "concept_instruction": true,
+    "worked_example": true,
+    "guided_practice": true,
+    "checkpoint": true,
+    "quiz": true
+  },
+  "graded_components": {
+    "notebook": true,
+    "checkpoint": true,
+    "quiz": true,
+    "unit_final": true
+  },
+  "grading_weights": {
+    "notebook": 10,
+    "checkpoint": 20,
+    "quiz": 30,
+    "unit_final": 40
+  },
+  "pretest_counts_toward_grade": false,
+  "mastery_threshold": 80,
+  "acceleration_threshold": 90
+}
