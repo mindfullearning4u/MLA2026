@@ -13,5 +13,232 @@
   "acceleration_eligible_threshold": 90,
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
-  "paired_final_assessment_id": "DCS-U05-UNIT-FINAL"
-}
+  "paired_final_assessment_id": "DCS-U05-UNIT-FINAL",
+
+  "questions": [
+  {
+    "question_id": "DCS-U05-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is the main purpose of digital ethics?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To increase the number of posts shared online",
+        "is_correct": false,
+        "feedback": "Digital ethics focuses on responsible behavior, not increasing activity."
+      },
+      {
+        "id": "B",
+        "text": "To guide responsible and respectful behavior when using technology",
+        "is_correct": true,
+        "feedback": "Correct. Digital ethics provides guidance for making responsible online decisions."
+      },
+      {
+        "id": "C",
+        "text": "To prevent all online communication",
+        "is_correct": false,
+        "feedback": "Digital ethics supports responsible use, not avoidance."
+      },
+      {
+        "id": "D",
+        "text": "To allow unrestricted sharing of information",
+        "is_correct": false,
+        "feedback": "Ethics involves limits and responsibility, not unrestricted behavior."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q02",
+    "type": "multiple_choice",
+    "prompt": "Which example best represents fair use of content?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Copying an entire article and posting it as your own",
+        "is_correct": false,
+        "feedback": "This is plagiarism, not fair use."
+      },
+      {
+        "id": "B",
+        "text": "Using a small portion of content with proper attribution for educational purposes",
+        "is_correct": true,
+        "feedback": "Correct. Fair use often allows limited use with attribution for learning."
+      },
+      {
+        "id": "C",
+        "text": "Downloading and sharing copyrighted material without permission",
+        "is_correct": false,
+        "feedback": "Sharing without permission violates copyright."
+      },
+      {
+        "id": "D",
+        "text": "Using any content found online without credit",
+        "is_correct": false,
+        "feedback": "Attribution is required in most cases."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q03",
+    "type": "true_false",
+    "prompt": "Plagiarism includes using someone else's work without giving credit.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Plagiarism occurs when work is used without proper attribution."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Using work without credit is a clear example of plagiarism."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "Which action could lead to legal consequences online?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Respecting copyright rules",
+        "is_correct": false,
+        "feedback": "Following rules reduces risk, not increases it."
+      },
+      {
+        "id": "B",
+        "text": "Giving credit to original creators",
+        "is_correct": false,
+        "feedback": "Attribution is a responsible action."
+      },
+      {
+        "id": "C",
+        "text": "Sharing copyrighted material without permission",
+        "is_correct": true,
+        "feedback": "Correct. Unauthorized sharing can lead to legal consequences."
+      },
+      {
+        "id": "D",
+        "text": "Creating original content",
+        "is_correct": false,
+        "feedback": "Creating original content does not violate laws."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q05",
+    "type": "multiple_choice",
+    "prompt": "What is an important ethical consideration when using AI tools?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Using AI to replace all personal effort",
+        "is_correct": false,
+        "feedback": "AI should support learning, not replace responsibility."
+      },
+      {
+        "id": "B",
+        "text": "Using AI without checking accuracy",
+        "is_correct": false,
+        "feedback": "AI outputs should always be verified."
+      },
+      {
+        "id": "C",
+        "text": "Using AI responsibly and ensuring work remains accurate and original",
+        "is_correct": true,
+        "feedback": "Correct. Ethical AI use requires accuracy, honesty, and responsibility."
+      },
+      {
+        "id": "D",
+        "text": "Submitting AI-generated work as entirely your own without review",
+        "is_correct": false,
+        "feedback": "This raises issues of academic integrity."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "A student copies part of a website into an assignment but includes a citation. What is the best evaluation?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It is acceptable because the source was credited",
+        "is_correct": true,
+        "feedback": "Correct. Proper citation can make use of content acceptable, depending on context."
+      },
+      {
+        "id": "B",
+        "text": "It is always plagiarism even with citation",
+        "is_correct": false,
+        "feedback": "Citation distinguishes proper use from plagiarism."
+      },
+      {
+        "id": "C",
+        "text": "It is only acceptable if no one notices",
+        "is_correct": false,
+        "feedback": "Ethical decisions are not based on whether someone notices."
+      },
+      {
+        "id": "D",
+        "text": "It is acceptable only if the entire article is copied",
+        "is_correct": false,
+        "feedback": "Copying entire works is typically not acceptable."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q07",
+    "type": "true_false",
+    "prompt": "Digital actions can have legal and academic consequences.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Online behavior can result in real-world consequences."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Digital actions are subject to rules and consequences."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U05-PRETEST-Q08",
+    "type": "multiple_choice",
+    "prompt": "Which question best supports ethical decision-making online?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Will this get more attention?",
+        "is_correct": false,
+        "feedback": "Attention is not the key factor in ethical decisions."
+      },
+      {
+        "id": "B",
+        "text": "Is this allowed and respectful to others?",
+        "is_correct": true,
+        "feedback": "Correct. Ethical decisions consider rules and respect for others."
+      },
+      {
+        "id": "C",
+        "text": "Will others copy me?",
+        "is_correct": false,
+        "feedback": "Other people’s actions are not the primary factor."
+      },
+      {
+        "id": "D",
+        "text": "Is this the fastest option?",
+        "is_correct": false,
+        "feedback": "Speed does not determine ethical behavior."
+      }
+    ]
+  }
+]
+
