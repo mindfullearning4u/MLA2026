@@ -13,5 +13,232 @@
   "acceleration_eligible_threshold": 90,
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
-  "paired_final_assessment_id": "DCS-U02-UNIT-FINAL"
-}
+  "paired_final_assessment_id": "DCS-U02-UNIT-FINAL",
+
+
+  "questions": [
+  {
+    "question_id": "DCS-U02-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "What best describes online identity?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A person’s appearance in a video call only",
+        "is_correct": false,
+        "feedback": "Online identity is broader than appearance during a video call."
+      },
+      {
+        "id": "B",
+        "text": "How a person is represented and perceived in digital spaces",
+        "is_correct": true,
+        "feedback": "Correct. Online identity is shaped by how someone presents themselves and how others perceive them online."
+      },
+      {
+        "id": "C",
+        "text": "A password used to log into a website",
+        "is_correct": false,
+        "feedback": "A password protects access, but it is not the same as online identity."
+      },
+      {
+        "id": "D",
+        "text": "A private message that disappears after being read",
+        "is_correct": false,
+        "feedback": "A disappearing message is a type of communication, not a definition of online identity."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q02",
+    "type": "multiple_choice",
+    "prompt": "Which example is most likely personal information that should be protected online?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A favorite movie genre",
+        "is_correct": false,
+        "feedback": "This is generally low-risk preference information, not highly personal identifying information."
+      },
+      {
+        "id": "B",
+        "text": "A school mascot",
+        "is_correct": false,
+        "feedback": "This is general school-related information, not usually sensitive personal information by itself."
+      },
+      {
+        "id": "C",
+        "text": "A home address",
+        "is_correct": true,
+        "feedback": "Correct. A home address is personal information that should be protected for safety and privacy."
+      },
+      {
+        "id": "D",
+        "text": "A public team name",
+        "is_correct": false,
+        "feedback": "A team name is not typically sensitive personal information."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q03",
+    "type": "true_false",
+    "prompt": "Posts made online can affect a person’s reputation even after time has passed.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Digital footprints can remain searchable and may influence how others view a person later."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Online posts can have lasting effects on reputation, even long after they are shared."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is a digital footprint?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A temporary message that disappears immediately",
+        "is_correct": false,
+        "feedback": "A digital footprint refers to the trace left by online activity, not just disappearing messages."
+      },
+      {
+        "id": "B",
+        "text": "A tool used to block websites",
+        "is_correct": false,
+        "feedback": "Blocking tools manage access, but they are not digital footprints."
+      },
+      {
+        "id": "C",
+        "text": "The record or trail created by actions taken online",
+        "is_correct": true,
+        "feedback": "Correct. A digital footprint is the trail of information left behind through online behavior."
+      },
+      {
+        "id": "D",
+        "text": "A device used to store passwords",
+        "is_correct": false,
+        "feedback": "Password storage is unrelated to the definition of a digital footprint."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q05",
+    "type": "multiple_choice",
+    "prompt": "Which action best supports a positive online presence?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Posting quickly without reviewing the message",
+        "is_correct": false,
+        "feedback": "Posting without reviewing increases the risk of mistakes or harmful content."
+      },
+      {
+        "id": "B",
+        "text": "Sharing private details to seem more interesting",
+        "is_correct": false,
+        "feedback": "Oversharing can create privacy and safety risks."
+      },
+      {
+        "id": "C",
+        "text": "Reviewing content before posting and considering how others may interpret it",
+        "is_correct": true,
+        "feedback": "Correct. Thoughtful posting supports a safer and more positive online presence."
+      },
+      {
+        "id": "D",
+        "text": "Using multiple fake profiles to control what people think",
+        "is_correct": false,
+        "feedback": "Fake profiles are deceptive and do not support responsible profile management."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "A student wants to post a photo that includes a school ID badge in the background. What is the best choice?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Post it because most people will not notice",
+        "is_correct": false,
+        "feedback": "Sensitive details in the background can still be noticed and misused."
+      },
+      {
+        "id": "B",
+        "text": "Crop or edit the photo before posting",
+        "is_correct": true,
+        "feedback": "Correct. Reviewing and editing content before posting helps protect personal information."
+      },
+      {
+        "id": "C",
+        "text": "Post it and delete it later if needed",
+        "is_correct": false,
+        "feedback": "Deleting later does not guarantee others have not already saved or shared it."
+      },
+      {
+        "id": "D",
+        "text": "Ask friends if they think it is funny",
+        "is_correct": false,
+        "feedback": "Safety decisions should be based on risk, not only peer opinion."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q07",
+    "type": "true_false",
+    "prompt": "If an account is set to private, nothing shared there can ever spread beyond the intended audience.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "Privacy settings help, but screenshots, resharing, and other actions can still spread content."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. Privacy settings reduce risk, but they do not guarantee total control over content."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U02-PRETEST-Q08",
+    "type": "multiple_choice",
+    "prompt": "Which question is most important to ask before posting something online?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Will it get a lot of likes?",
+        "is_correct": false,
+        "feedback": "Popularity should not be the main factor in deciding whether to post."
+      },
+      {
+        "id": "B",
+        "text": "Is it longer than my last post?",
+        "is_correct": false,
+        "feedback": "Length is not the most important factor in responsible posting."
+      },
+      {
+        "id": "C",
+        "text": "Does it protect privacy and reflect the image I want others to see?",
+        "is_correct": true,
+        "feedback": "Correct. Responsible posting considers both privacy and long-term reputation."
+      },
+      {
+        "id": "D",
+        "text": "Did someone else already post something similar?",
+        "is_correct": false,
+        "feedback": "Other people’s choices do not determine whether a post is responsible."
+      }
+    ]
+  }
+]
