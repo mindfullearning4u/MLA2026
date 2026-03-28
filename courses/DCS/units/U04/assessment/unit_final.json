@@ -13,5 +13,283 @@
   "display_order": 6,
   "question_count": 10,
   "randomize_questions": true,
-  "show_feedback": true
+  "show_feedback": true,
+  
+  {
+  "questions": [
+    {
+      "question_id": "DCS-U04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of media literacy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To believe all information online",
+          "is_correct": false,
+          "feedback": "Media literacy involves questioning information, not accepting it blindly."
+        },
+        {
+          "id": "B",
+          "text": "To evaluate and understand information from different sources",
+          "is_correct": true,
+          "feedback": "Correct. Media literacy focuses on analyzing and evaluating information."
+        },
+        {
+          "id": "C",
+          "text": "To avoid using media completely",
+          "is_correct": false,
+          "feedback": "Media literacy is about using media responsibly, not avoiding it."
+        },
+        {
+          "id": "D",
+          "text": "To only follow popular opinions",
+          "is_correct": false,
+          "feedback": "Popularity does not determine accuracy."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q02",
+      "type": "true_false",
+      "prompt": "All information found online is accurate and reliable.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Not all online information is accurate. Verification is important."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Online information must be evaluated for accuracy."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q03",
+      "type": "multiple_choice",
+      "prompt": "What is bias in media?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A completely neutral presentation of facts",
+          "is_correct": false,
+          "feedback": "Bias means the information is not completely neutral."
+        },
+        {
+          "id": "B",
+          "text": "A personal or organizational perspective that influences how information is presented",
+          "is_correct": true,
+          "feedback": "Correct. Bias reflects a particular point of view."
+        },
+        {
+          "id": "C",
+          "text": "A random mistake in writing",
+          "is_correct": false,
+          "feedback": "Bias is intentional or influenced, not random."
+        },
+        {
+          "id": "D",
+          "text": "A type of computer virus",
+          "is_correct": false,
+          "feedback": "Bias is related to information, not technology threats."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows loaded language?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A neutral report describing events with facts",
+          "is_correct": false,
+          "feedback": "Neutral language avoids emotional influence."
+        },
+        {
+          "id": "B",
+          "text": "A headline using strong emotional words to influence opinions",
+          "is_correct": true,
+          "feedback": "Correct. Loaded language uses emotion to influence readers."
+        },
+        {
+          "id": "C",
+          "text": "A list of statistics with no commentary",
+          "is_correct": false,
+          "feedback": "Statistics alone are typically neutral."
+        },
+        {
+          "id": "D",
+          "text": "A textbook definition of a topic",
+          "is_correct": false,
+          "feedback": "Definitions are generally neutral."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q05",
+      "type": "true_false",
+      "prompt": "Misinformation is false information shared without the intent to harm.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Misinformation is incorrect but not intentionally harmful."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This definition correctly describes misinformation."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q06",
+      "type": "multiple_choice",
+      "prompt": "How do algorithms influence what people see online?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "They show random content with no pattern",
+          "is_correct": false,
+          "feedback": "Algorithms are designed to personalize content."
+        },
+        {
+          "id": "B",
+          "text": "They block all new information",
+          "is_correct": false,
+          "feedback": "Algorithms filter and prioritize, not block everything."
+        },
+        {
+          "id": "C",
+          "text": "They select content based on user behavior and preferences",
+          "is_correct": true,
+          "feedback": "Correct. Algorithms personalize content based on activity."
+        },
+        {
+          "id": "D",
+          "text": "They only show educational material",
+          "is_correct": false,
+          "feedback": "Algorithms are not limited to educational content."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q07",
+      "type": "multiple_choice",
+      "prompt": "A student sees a shocking headline online. What is the best first step?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Share it immediately with friends",
+          "is_correct": false,
+          "feedback": "Sharing without verification can spread misinformation."
+        },
+        {
+          "id": "B",
+          "text": "Assume it is true because it is popular",
+          "is_correct": false,
+          "feedback": "Popularity does not equal accuracy."
+        },
+        {
+          "id": "C",
+          "text": "Ignore it completely",
+          "is_correct": false,
+          "feedback": "It is better to evaluate information rather than ignore it."
+        },
+        {
+          "id": "D",
+          "text": "Check other sources to verify the information",
+          "is_correct": true,
+          "feedback": "Correct. Verification is a key media literacy skill."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which tool helps verify the accuracy of information?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Fact-checking websites",
+          "is_correct": true,
+          "feedback": "Correct. Fact-checking tools help confirm accuracy."
+        },
+        {
+          "id": "B",
+          "text": "Anonymous comment sections",
+          "is_correct": false,
+          "feedback": "Comments are not reliable sources."
+        },
+        {
+          "id": "C",
+          "text": "Unverified social media posts",
+          "is_correct": false,
+          "feedback": "These may spread misinformation."
+        },
+        {
+          "id": "D",
+          "text": "Random online forums",
+          "is_correct": false,
+          "feedback": "Forums may not provide reliable information."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q09",
+      "type": "true_false",
+      "prompt": "Disinformation is false information shared intentionally to mislead people.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Disinformation is intentionally misleading."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is the correct definition of disinformation."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U04-Q10",
+      "type": "multiple_choice",
+      "prompt": "A student reads two articles with very different viewpoints. What should they do?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Choose the one they agree with and ignore the other",
+          "is_correct": false,
+          "feedback": "Ignoring other perspectives limits understanding."
+        },
+        {
+          "id": "B",
+          "text": "Assume both are false",
+          "is_correct": false,
+          "feedback": "Not all differing viewpoints are false."
+        },
+        {
+          "id": "C",
+          "text": "Analyze both sources for bias and evidence before forming a conclusion",
+          "is_correct": true,
+          "feedback": "Correct. Evaluating multiple perspectives improves understanding."
+        },
+        {
+          "id": "D",
+          "text": "Share both without reading them",
+          "is_correct": false,
+          "feedback": "Sharing without evaluation is not responsible."
+        }
+      ]
+    }
+  ]
 }
