@@ -1,0 +1,35 @@
+{
+  "course_id": "ECON",
+  "title": "Economics",
+  "credit": 0.5,
+  "category": "Social Studies",
+  "pathway": "Social Studies",
+  "course_type": "half_credit",
+  "units": 6,
+  "lessons_per_unit": 5,
+  "has_unit_pretest": true,
+  "has_unit_final": true,
+  "lesson_components": {
+    "notebook": true,
+    "concept_instruction": true,
+    "worked_example": true,
+    "guided_practice": true,
+    "checkpoint": true,
+    "quiz": true
+  },
+  "graded_components": {
+    "notebook": true,
+    "checkpoint": true,
+    "quiz": true,
+    "unit_final": true
+  },
+  "grading_weights": {
+    "notebook": 10,
+    "checkpoint": 20,
+    "quiz": 30,
+    "unit_final": 40
+  },
+  "pretest_counts_toward_grade": false,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90
+}
