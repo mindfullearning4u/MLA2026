@@ -3,8 +3,8 @@
     "course_id":  "DCS",
     "unit_id":  "U01",
     "lesson_id":  "DCS-U01-L04",
-    "title":  "Lesson Quiz: Digital Footprint \u0026 Online Identity",
-    "description":  "Assessment of key concepts aligned to the lesson objective.",
+    "title":  "Managing Online Conflict & Responsible Decision-Making",
+    "description":  "Assessment of de-escalation, reporting, safe responses, and ethical choices in online conflict.",
     "type":  "quiz",
     "counts_toward_grade":  true,
     "graded_category":  "quiz",
@@ -15,5 +15,151 @@
     "display_order":  8,
     "question_count":  5,
     "randomize_questions":  true,
-    "show_feedback":  true
-}
+    "show_feedback":  true,
+    
+[
+  {
+    "question_id": "DCS-U01-L04-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is the most appropriate first step when encountering conflict online?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Respond immediately with strong language",
+        "is_correct": false,
+        "feedback": "Responding emotionally can escalate the situation."
+      },
+      {
+        "id": "B",
+        "text": "Pause and think before responding",
+        "is_correct": true,
+        "feedback": "Correct. Taking time to think helps prevent escalation and supports responsible decisions."
+      },
+      {
+        "id": "C",
+        "text": "Ignore all online communication permanently",
+        "is_correct": false,
+        "feedback": "Avoiding all communication is not a balanced or effective response."
+      },
+      {
+        "id": "D",
+        "text": "Share the conflict publicly",
+        "is_correct": false,
+        "feedback": "Public sharing can escalate conflict and create additional issues."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L04-Q02",
+    "type": "true_false",
+    "prompt": "Responding calmly can help de-escalate online conflict.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Calm responses reduce tension and help resolve conflict."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Calm communication is a key strategy for de-escalation."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L04-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which action is an example of responsible decision-making during an online conflict?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Posting personal information about the other person",
+        "is_correct": false,
+        "feedback": "Sharing personal information is unsafe and inappropriate."
+      },
+      {
+        "id": "B",
+        "text": "Reporting harmful behavior to a trusted adult or platform",
+        "is_correct": true,
+        "feedback": "Correct. Reporting is a safe and responsible action."
+      },
+      {
+        "id": "C",
+        "text": "Continuing the argument to prove a point",
+        "is_correct": false,
+        "feedback": "Continuing conflict often makes the situation worse."
+      },
+      {
+        "id": "D",
+        "text": "Encouraging others to join the conflict",
+        "is_correct": false,
+        "feedback": "Involving others can escalate the situation further."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L04-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is a safe response to harmful or inappropriate online behavior?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Responding with similar behavior",
+        "is_correct": false,
+        "feedback": "Responding negatively can escalate the situation."
+      },
+      {
+        "id": "B",
+        "text": "Ignoring safety concerns",
+        "is_correct": false,
+        "feedback": "Safety concerns should always be addressed."
+      },
+      {
+        "id": "C",
+        "text": "Blocking, reporting, or seeking help",
+        "is_correct": true,
+        "feedback": "Correct. These actions help protect yourself and others."
+      },
+      {
+        "id": "D",
+        "text": "Sharing the situation publicly",
+        "is_correct": false,
+        "feedback": "Public sharing can make the situation worse."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L04-Q05",
+    "type": "multiple_choice",
+    "prompt": "Why is it important to make ethical choices during online conflicts?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Because ethical choices help resolve conflict safely and respectfully",
+        "is_correct": true,
+        "feedback": "Correct. Ethical decisions promote safety and respect."
+      },
+      {
+        "id": "B",
+        "text": "Because ethical choices make conflicts last longer",
+        "is_correct": false,
+        "feedback": "Ethical choices help resolve, not prolong, conflicts."
+      },
+      {
+        "id": "C",
+        "text": "Because ethical choices are only required in school settings",
+        "is_correct": false,
+        "feedback": "Ethical behavior applies in all digital environments."
+      },
+      {
+        "id": "D",
+        "text": "Because ethical choices are optional online",
+        "is_correct": false,
+        "feedback": "Ethical behavior is always important online."
+      }
+    ]
+  }
+]
+
