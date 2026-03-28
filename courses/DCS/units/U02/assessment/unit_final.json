@@ -13,5 +13,283 @@
   "display_order": 6,
   "question_count": 10,
   "randomize_questions": true,
-  "show_feedback": true
-}
+  "show_feedback": true,
+
+  {
+  "questions": [
+    {
+      "question_id": "DCS-U02-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which statement best explains online identity?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It is only the username a person chooses online.",
+          "is_correct": false,
+          "feedback": "A username is only one part of online identity."
+        },
+        {
+          "id": "B",
+          "text": "It is how a person is represented and perceived through their online actions, profiles, and interactions.",
+          "is_correct": true,
+          "feedback": "Correct. Online identity is shaped by what a person shares, does, and how others perceive them online."
+        },
+        {
+          "id": "C",
+          "text": "It is the password used to enter websites and apps.",
+          "is_correct": false,
+          "feedback": "A password protects an account, but it is not an online identity."
+        },
+        {
+          "id": "D",
+          "text": "It is only the profile picture attached to an account.",
+          "is_correct": false,
+          "feedback": "A profile picture may contribute to identity, but it does not define it by itself."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q02",
+      "type": "true_false",
+      "prompt": "Information posted online can influence how other people see and judge a person.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Online posts, comments, and profiles can shape reputation and perception."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Online content often affects how others view a person."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example is the best example of personal information that should usually stay private?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A favorite school subject",
+          "is_correct": false,
+          "feedback": "This is generally low-risk information."
+        },
+        {
+          "id": "B",
+          "text": "A favorite movie",
+          "is_correct": false,
+          "feedback": "This is generally not sensitive personal information."
+        },
+        {
+          "id": "C",
+          "text": "A home address",
+          "is_correct": true,
+          "feedback": "Correct. A home address is sensitive personal information and should usually remain private."
+        },
+        {
+          "id": "D",
+          "text": "A favorite hobby",
+          "is_correct": false,
+          "feedback": "This is usually safe to share in appropriate settings."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student wants to post a picture showing their school ID badge. What is the safest choice?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Post it because school IDs are public information.",
+          "is_correct": false,
+          "feedback": "School IDs may contain identifying information and should not be casually shared."
+        },
+        {
+          "id": "B",
+          "text": "Post it only if friends promise not to share it.",
+          "is_correct": false,
+          "feedback": "Once posted, control over sharing can be lost."
+        },
+        {
+          "id": "C",
+          "text": "Post it after adding a funny caption.",
+          "is_correct": false,
+          "feedback": "A caption does not remove the privacy risk."
+        },
+        {
+          "id": "D",
+          "text": "Avoid posting it because it may expose private information.",
+          "is_correct": true,
+          "feedback": "Correct. Avoiding the post protects personal information and reduces risk."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q05",
+      "type": "true_false",
+      "prompt": "A digital footprint can include posts, comments, photos, likes, and search activity.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A digital footprint can be made up of many kinds of online activity."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Digital footprints include much more than just posts."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q06",
+      "type": "multiple_choice",
+      "prompt": "Why can digital footprints have long-term consequences?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because online content can be permanent, copied, and found later",
+          "is_correct": true,
+          "feedback": "Correct. Digital content can remain searchable and resurface over time."
+        },
+        {
+          "id": "B",
+          "text": "Because deleted posts are always erased instantly from everywhere",
+          "is_correct": false,
+          "feedback": "Deleted posts may still exist in screenshots, archives, or reposts."
+        },
+        {
+          "id": "C",
+          "text": "Because only adults are affected by online reputations",
+          "is_correct": false,
+          "feedback": "Online reputation can affect people of all ages."
+        },
+        {
+          "id": "D",
+          "text": "Because online actions never influence real-world opportunities",
+          "is_correct": false,
+          "feedback": "Online behavior can affect trust, relationships, and opportunities."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q07",
+      "type": "multiple_choice",
+      "prompt": "A student finds an old embarrassing post on their profile. What is the most responsible action?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Leave it because old posts do not matter",
+          "is_correct": false,
+          "feedback": "Old posts can still affect reputation and how others view someone."
+        },
+        {
+          "id": "B",
+          "text": "Review the post and remove or update it if it does not reflect the image they want to present",
+          "is_correct": true,
+          "feedback": "Correct. Managing older content is part of building a positive digital presence."
+        },
+        {
+          "id": "C",
+          "text": "Share it again to make fun of it before others do",
+          "is_correct": false,
+          "feedback": "This may increase attention to the negative content."
+        },
+        {
+          "id": "D",
+          "text": "Ignore it and assume no one can find it",
+          "is_correct": false,
+          "feedback": "Old content can often still be found."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which action best supports smart posting and profile management?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Posting quickly without reviewing the content first",
+          "is_correct": false,
+          "feedback": "Smart posting involves pausing and reviewing before sharing."
+        },
+        {
+          "id": "B",
+          "text": "Sharing every detail of daily life to appear more interesting",
+          "is_correct": false,
+          "feedback": "Oversharing can create privacy and safety risks."
+        },
+        {
+          "id": "C",
+          "text": "Checking privacy settings and thinking about how a post may affect reputation before sharing",
+          "is_correct": true,
+          "feedback": "Correct. Smart posting includes managing privacy and considering consequences."
+        },
+        {
+          "id": "D",
+          "text": "Using any profile picture, even if it is inappropriate or misleading",
+          "is_correct": false,
+          "feedback": "Profiles should reflect responsible choices."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q09",
+      "type": "true_false",
+      "prompt": "Even if a post is intended for friends only, it can still be copied or shared beyond the original audience.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Posts can be screenshot, copied, or reshared by others."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Private settings reduce risk, but they do not guarantee complete control."
+        }
+      ]
+    },
+    {
+      "question_id": "DCS-U02-Q10",
+      "type": "multiple_choice",
+      "prompt": "A student is updating a profile for a school-related online platform. Which choice is most appropriate?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use a respectful photo and accurate information that supports a positive reputation",
+          "is_correct": true,
+          "feedback": "Correct. Appropriate profile choices help build a positive and responsible online presence."
+        },
+        {
+          "id": "B",
+          "text": "Use a fake name and misleading details to seem more interesting",
+          "is_correct": false,
+          "feedback": "Misleading profile information can harm trust and credibility."
+        },
+        {
+          "id": "C",
+          "text": "Post private personal details so others know more about you",
+          "is_correct": false,
+          "feedback": "Private details should be protected."
+        },
+        {
+          "id": "D",
+          "text": "Choose profile content without thinking about audience or purpose",
+          "is_correct": false,
+          "feedback": "Profile management should be thoughtful and appropriate to context."
+        }
+      ]
+    }
+  ]
+}}
