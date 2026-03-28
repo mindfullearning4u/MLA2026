@@ -15,5 +15,150 @@
     "display_order":  8,
     "question_count":  5,
     "randomize_questions":  true,
-    "show_feedback":  true
-}
+    "show_feedback":  true,
+
+    [
+  {
+    "question_id": "DCS-U01-L02-Q01",
+    "type": "multiple_choice",
+    "prompt": "What does the term \"digital divide\" refer to?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Differences in access to technology and the internet",
+        "is_correct": true,
+        "feedback": "Correct. The digital divide refers to gaps in access to digital resources."
+      },
+      {
+        "id": "B",
+        "text": "Different types of digital devices",
+        "is_correct": false,
+        "feedback": "The digital divide is about access, not device types."
+      },
+      {
+        "id": "C",
+        "text": "How people communicate online",
+        "is_correct": false,
+        "feedback": "Communication styles are not related to access gaps."
+      },
+      {
+        "id": "D",
+        "text": "Rules for using the internet",
+        "is_correct": false,
+        "feedback": "The digital divide focuses on access, not rules."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L02-Q02",
+    "type": "multiple_choice",
+    "prompt": "Which example best demonstrates digital inclusion?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Limiting access to certain users",
+        "is_correct": false,
+        "feedback": "Inclusion removes barriers, not creates them."
+      },
+      {
+        "id": "B",
+        "text": "Designing technology that is accessible to all users, including those with disabilities",
+        "is_correct": true,
+        "feedback": "Correct. Inclusion ensures everyone can participate in digital environments."
+      },
+      {
+        "id": "C",
+        "text": "Requiring advanced skills to use basic tools",
+        "is_correct": false,
+        "feedback": "Inclusion simplifies access, not complicates it."
+      },
+      {
+        "id": "D",
+        "text": "Ignoring accessibility needs",
+        "is_correct": false,
+        "feedback": "Accessibility is essential for inclusion."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L02-Q03",
+    "type": "true_false",
+    "prompt": "Digital participation means actively engaging and contributing in online environments.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Participation involves active engagement, communication, and contribution."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Participation is about active involvement, not passive use."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L02-Q04",
+    "type": "multiple_choice",
+    "prompt": "Why is digital access important?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It ensures only advanced users can use technology",
+        "is_correct": false,
+        "feedback": "Digital access is about inclusion, not exclusivity."
+      },
+      {
+        "id": "B",
+        "text": "It allows individuals to participate, learn, and communicate online",
+        "is_correct": true,
+        "feedback": "Correct. Access enables participation in digital environments."
+      },
+      {
+        "id": "C",
+        "text": "It limits how people use technology",
+        "is_correct": false,
+        "feedback": "Access expands opportunities, not limits them."
+      },
+      {
+        "id": "D",
+        "text": "It replaces the need for communication",
+        "is_correct": false,
+        "feedback": "Technology supports communication, it does not replace it."
+      }
+    ]
+  },
+  {
+    "question_id": "DCS-U01-L02-Q05",
+    "type": "multiple_choice",
+    "prompt": "Which action best supports digital equity?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Providing equal access to devices and internet resources",
+        "is_correct": true,
+        "feedback": "Correct. Digital equity ensures fair access for all users."
+      },
+      {
+        "id": "B",
+        "text": "Allowing access only to experienced users",
+        "is_correct": false,
+        "feedback": "Equity supports all users, not just experienced ones."
+      },
+      {
+        "id": "C",
+        "text": "Ignoring gaps in access",
+        "is_correct": false,
+        "feedback": "Addressing gaps is essential for equity."
+      },
+      {
+        "id": "D",
+        "text": "Focusing only on high-end technology",
+        "is_correct": false,
+        "feedback": "Equity is about access, not device quality."
+      }
+    ]
+  }
+]
