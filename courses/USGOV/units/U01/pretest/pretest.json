@@ -15,5 +15,254 @@
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "USGOV-U01-UNIT-FINAL",
 
- "questions": []
+ "questions": [
+  {
+    "question_id": "USGOV-U01-P01",
+    "type": "multiple_choice",
+    "prompt": "What is the main purpose of government?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To remove all rules",
+        "is_correct": false,
+        "feedback": "Incorrect. Governments create and enforce rules."
+      },
+      {
+        "id": "B",
+        "text": "To maintain order and provide services",
+        "is_correct": true,
+        "feedback": "Correct. This is a core idea from Unit 01."
+      },
+      {
+        "id": "C",
+        "text": "To eliminate all conflict",
+        "is_correct": false,
+        "feedback": "Incorrect. Governments manage conflict, not eliminate it."
+      },
+      {
+        "id": "D",
+        "text": "To avoid decision-making",
+        "is_correct": false,
+        "feedback": "Incorrect. Governments make decisions for society."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P02",
+    "type": "multiple_choice",
+    "prompt": "Why do governments form?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To create confusion",
+        "is_correct": false,
+        "feedback": "Incorrect. Governments create structure."
+      },
+      {
+        "id": "B",
+        "text": "To maintain order and protect people",
+        "is_correct": true,
+        "feedback": "Correct. This reflects Lesson 2."
+      },
+      {
+        "id": "C",
+        "text": "To remove cooperation",
+        "is_correct": false,
+        "feedback": "Incorrect. Governments support cooperation."
+      },
+      {
+        "id": "D",
+        "text": "To eliminate all laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Governments create laws."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P03",
+    "type": "multiple_choice",
+    "prompt": "What does power mean in government?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The ability to influence or control",
+        "is_correct": true,
+        "feedback": "Correct. This is the definition of power."
+      },
+      {
+        "id": "B",
+        "text": "The right to vote",
+        "is_correct": false,
+        "feedback": "Incorrect. That is a civic right, not power."
+      },
+      {
+        "id": "C",
+        "text": "A type of law",
+        "is_correct": false,
+        "feedback": "Incorrect. Power is not a law."
+      },
+      {
+        "id": "D",
+        "text": "A form of government",
+        "is_correct": false,
+        "feedback": "Incorrect. Power exists within governments."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P04",
+    "type": "multiple_choice",
+    "prompt": "What is authority?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The ability to ignore laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Authority is not ignoring rules."
+      },
+      {
+        "id": "B",
+        "text": "The recognized right to use power",
+        "is_correct": true,
+        "feedback": "Correct. This is the definition of authority."
+      },
+      {
+        "id": "C",
+        "text": "Public disagreement",
+        "is_correct": false,
+        "feedback": "Incorrect. Authority is not disagreement."
+      },
+      {
+        "id": "D",
+        "text": "A government service",
+        "is_correct": false,
+        "feedback": "Incorrect. Authority is not a service."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P05",
+    "type": "true_false",
+    "prompt": "Legitimacy means people accept authority as rightful.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Legitimacy depends on public acceptance."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. That is the definition of legitimacy."
+      },
+      {
+        "id": "C",
+        "text": "Partially true",
+        "is_correct": false,
+        "feedback": "Incorrect. This is a clear true statement."
+      },
+      {
+        "id": "D",
+        "text": "Not enough information",
+        "is_correct": false,
+        "feedback": "Incorrect. The concept is clearly defined."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P06",
+    "type": "multiple_choice",
+    "prompt": "Which best describes citizenship?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Avoiding all laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Citizenship includes following laws."
+      },
+      {
+        "id": "B",
+        "text": "Being a member of a country with rights and responsibilities",
+        "is_correct": true,
+        "feedback": "Correct. This is the definition of citizenship."
+      },
+      {
+        "id": "C",
+        "text": "Ignoring civic duties",
+        "is_correct": false,
+        "feedback": "Incorrect. Citizenship includes responsibilities."
+      },
+      {
+        "id": "D",
+        "text": "Controlling government completely",
+        "is_correct": false,
+        "feedback": "Incorrect. Citizenship does not mean unlimited control."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P07",
+    "type": "multiple_choice",
+    "prompt": "Which is an example of civic responsibility?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Breaking laws when convenient",
+        "is_correct": false,
+        "feedback": "Incorrect. That is not responsible behavior."
+      },
+      {
+        "id": "B",
+        "text": "Voting and staying informed",
+        "is_correct": true,
+        "feedback": "Correct. These are key civic responsibilities."
+      },
+      {
+        "id": "C",
+        "text": "Avoiding all participation",
+        "is_correct": false,
+        "feedback": "Incorrect. Civic responsibility involves participation."
+      },
+      {
+        "id": "D",
+        "text": "Ignoring community issues",
+        "is_correct": false,
+        "feedback": "Incorrect. Citizens should engage with issues."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U01-P08",
+    "type": "multiple_choice",
+    "prompt": "Which example shows government providing a service?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A student doing homework",
+        "is_correct": false,
+        "feedback": "Incorrect. That is not a government service."
+      },
+      {
+        "id": "B",
+        "text": "A city maintaining public roads",
+        "is_correct": true,
+        "feedback": "Correct. Infrastructure is a public service."
+      },
+      {
+        "id": "C",
+        "text": "A person watching TV",
+        "is_correct": false,
+        "feedback": "Incorrect. This is not a government action."
+      },
+      {
+        "id": "D",
+        "text": "A business setting prices",
+        "is_correct": false,
+        "feedback": "Incorrect. That is a private sector activity."
+      }
+    ]
+  }
+ ]
 }
