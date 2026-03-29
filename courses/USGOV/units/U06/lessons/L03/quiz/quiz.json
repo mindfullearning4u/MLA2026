@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "USGOV-U06-L03-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is digital citizenship?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Responsible behavior online",
+        "is_correct": true,
+        "feedback": "Correct. Digital citizenship involves responsible use of technology."
+      },
+      {
+        "id": "B",
+        "text": "Avoiding technology completely",
+        "is_correct": false,
+        "feedback": "Incorrect. It involves responsible use."
+      },
+      {
+        "id": "C",
+        "text": "Only voting online",
+        "is_correct": false,
+        "feedback": "Incorrect. It is broader than voting."
+      },
+      {
+        "id": "D",
+        "text": "Ignoring online information",
+        "is_correct": false,
+        "feedback": "Incorrect. It involves evaluating information."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U06-L03-Q02",
+    "type": "true_false",
+    "prompt": "Citizenship includes responsibilities beyond voting.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Citizenship involves many responsibilities."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. It includes more than voting."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U06-L03-Q03",
+    "type": "multiple_choice",
+    "prompt": "Why is verifying information important?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To avoid spreading false information",
+        "is_correct": true,
+        "feedback": "Correct. Verification prevents misinformation."
+      },
+      {
+        "id": "B",
+        "text": "To eliminate all opinions",
+        "is_correct": false,
+        "feedback": "Incorrect. Opinions still exist."
+      },
+      {
+        "id": "C",
+        "text": "To control the internet",
+        "is_correct": false,
+        "feedback": "Incorrect. Individuals do not control the internet."
+      },
+      {
+        "id": "D",
+        "text": "To avoid participation",
+        "is_correct": false,
+        "feedback": "Incorrect. Participation should be informed."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U06-L03-Q04",
+    "type": "true_false",
+    "prompt": "Online behavior can impact society.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Online actions affect others."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. Digital actions matter."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U06-L03-Q05",
+    "type": "multiple_choice",
+    "prompt": "Which is an example of responsible citizenship?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Respecting others and verifying information",
+        "is_correct": true,
+        "feedback": "Correct. Responsibility includes respect and accuracy."
+      },
+      {
+        "id": "B",
+        "text": "Spreading unverified claims",
+        "is_correct": false,
+        "feedback": "Incorrect. That is irresponsible."
+      },
+      {
+        "id": "C",
+        "text": "Ignoring issues",
+        "is_correct": false,
+        "feedback": "Incorrect. Citizenship requires engagement."
+      },
+      {
+        "id": "D",
+        "text": "Avoiding communication",
+        "is_correct": false,
+        "feedback": "Incorrect. Participation involves communication."
+      }
+    ]
+  }
+ ]
 }
