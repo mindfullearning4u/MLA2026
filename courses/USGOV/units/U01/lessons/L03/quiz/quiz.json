@@ -1,21 +1,177 @@
 {
-    "assessment_id":  "USGOV-U01-L03-QUIZ",
-    "course_id":  "USGOV",
-    "unit_id":  "U01",
-    "lesson_id":  "USGOV-U01-L03",
-    "title":  "Lesson Quiz: Power, Authority, and Legitimacy — How governments gain power and why citizens accept authority.",
-    "description":  "Assessment of the concept that How governments gain power and why citizens accept authority.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
+  "assessment_id": "USGOV-U01-L03-QUIZ",
+  "course_id": "USGOV",
+  "unit_id": "U01",
+  "lesson_id": "USGOV-U01-L03",
+  "title": "Lesson Quiz: Power, Authority, and Legitimacy",
+  "description": "Assessment of the concept that power is the ability to control, authority is the right to use power, and legitimacy is public acceptance of that authority.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
 
-    "questions": []
+  "questions": [
+    {
+      "question_id": "USGOV-U01-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is power?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The ability to influence or control people and decisions",
+          "is_correct": true,
+          "feedback": "Correct. Power is the ability to influence or control."
+        },
+        {
+          "id": "B",
+          "text": "The public acceptance of a leader",
+          "is_correct": false,
+          "feedback": "Incorrect. That describes legitimacy, not power."
+        },
+        {
+          "id": "C",
+          "text": "The right to use authority only during elections",
+          "is_correct": false,
+          "feedback": "Incorrect. That does not define power."
+        },
+        {
+          "id": "D",
+          "text": "A list of citizen rights",
+          "is_correct": false,
+          "feedback": "Incorrect. Rights are not the same as power."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L03-Q02",
+      "type": "multiple_choice",
+      "prompt": "What is authority?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The ability to ignore laws",
+          "is_correct": false,
+          "feedback": "Incorrect. Authority is not ignoring laws."
+        },
+        {
+          "id": "B",
+          "text": "The recognized right to use power",
+          "is_correct": true,
+          "feedback": "Correct. Authority is accepted as the right to use power."
+        },
+        {
+          "id": "C",
+          "text": "Public disagreement with leaders",
+          "is_correct": false,
+          "feedback": "Incorrect. That does not define authority."
+        },
+        {
+          "id": "D",
+          "text": "The same thing as legitimacy",
+          "is_correct": false,
+          "feedback": "Incorrect. Authority and legitimacy are related but not identical."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "What does legitimacy mean?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The government has no power",
+          "is_correct": false,
+          "feedback": "Incorrect. Legitimacy is not the absence of power."
+        },
+        {
+          "id": "B",
+          "text": "People believe the government’s authority is rightful",
+          "is_correct": true,
+          "feedback": "Correct. Legitimacy means authority is accepted as justified."
+        },
+        {
+          "id": "C",
+          "text": "Citizens never question leaders",
+          "is_correct": false,
+          "feedback": "Incorrect. People may still question leaders even in legitimate systems."
+        },
+        {
+          "id": "D",
+          "text": "Only one person makes all decisions",
+          "is_correct": false,
+          "feedback": "Incorrect. That describes a power arrangement, not legitimacy."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is legitimacy important?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It makes rules less clear",
+          "is_correct": false,
+          "feedback": "Incorrect. Legitimacy supports order and clarity, not confusion."
+        },
+        {
+          "id": "B",
+          "text": "It helps build trust and stability",
+          "is_correct": true,
+          "feedback": "Correct. Public acceptance of authority helps create stability."
+        },
+        {
+          "id": "C",
+          "text": "It removes the need for laws",
+          "is_correct": false,
+          "feedback": "Incorrect. Legitimacy does not remove the need for laws."
+        },
+        {
+          "id": "D",
+          "text": "It prevents any disagreement in society",
+          "is_correct": false,
+          "feedback": "Incorrect. Disagreement can still happen even when legitimacy exists."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L03-Q05",
+      "type": "multiple_choice",
+      "prompt": "What may happen if a government has power but lacks legitimacy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Citizens may resist or refuse to cooperate",
+          "is_correct": true,
+          "feedback": "Correct. If authority is not accepted, resistance becomes more likely."
+        },
+        {
+          "id": "B",
+          "text": "Citizens automatically trust every decision",
+          "is_correct": false,
+          "feedback": "Incorrect. Lack of legitimacy reduces trust."
+        },
+        {
+          "id": "C",
+          "text": "Authority becomes stronger because people disagree",
+          "is_correct": false,
+          "feedback": "Incorrect. Disagreement does not automatically strengthen authority."
+        },
+        {
+          "id": "D",
+          "text": "Rules no longer matter in society",
+          "is_correct": false,
+          "feedback": "Incorrect. Rules may still exist even if legitimacy is weak."
+        }
+      ]
+    }
+  ]
 }

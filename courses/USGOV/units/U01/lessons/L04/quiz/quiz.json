@@ -1,21 +1,177 @@
 {
-    "assessment_id":  "USGOV-U01-L04-QUIZ",
-    "course_id":  "USGOV",
-    "unit_id":  "U01",
-    "lesson_id":  "USGOV-U01-L04",
-    "title":  "Lesson Quiz: Citizenship and Civic Responsibility — Rights, duties, rule of law, and civic participation.",
-    "description":  "Assessment of the concept that Rights, duties, rule of law, and civic participation.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
+  "assessment_id": "USGOV-U01-L04-QUIZ",
+  "course_id": "USGOV",
+  "unit_id": "U01",
+  "lesson_id": "USGOV-U01-L04",
+  "title": "Lesson Quiz: Citizenship and Civic Responsibility",
+  "description": "Assessment of the concept that citizenship includes rights and responsibilities, and civic participation supports society.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
 
-    "questions": []
+  "questions": [
+    {
+      "question_id": "USGOV-U01-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does citizenship mean?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Avoiding all public responsibilities",
+          "is_correct": false,
+          "feedback": "Incorrect. Citizenship includes responsibilities, not avoiding them."
+        },
+        {
+          "id": "B",
+          "text": "Being a member of a country with rights and responsibilities",
+          "is_correct": true,
+          "feedback": "Correct. This is the lesson definition of citizenship."
+        },
+        {
+          "id": "C",
+          "text": "Having power over all laws",
+          "is_correct": false,
+          "feedback": "Incorrect. Citizenship does not mean controlling all laws."
+        },
+        {
+          "id": "D",
+          "text": "Only voting in elections",
+          "is_correct": false,
+          "feedback": "Incorrect. Voting is one example of participation, not the full definition of citizenship."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L04-Q02",
+      "type": "multiple_choice",
+      "prompt": "What are rights?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Duties citizens must fulfill",
+          "is_correct": false,
+          "feedback": "Incorrect. Duties describe responsibilities, not rights."
+        },
+        {
+          "id": "B",
+          "text": "Freedoms and protections given to citizens",
+          "is_correct": true,
+          "feedback": "Correct. Rights are freedoms and protections."
+        },
+        {
+          "id": "C",
+          "text": "Penalties for not following laws",
+          "is_correct": false,
+          "feedback": "Incorrect. Penalties are not rights."
+        },
+        {
+          "id": "D",
+          "text": "Types of government authority",
+          "is_correct": false,
+          "feedback": "Incorrect. Rights are not forms of authority."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "What are responsibilities?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Optional actions citizens never need to consider",
+          "is_correct": false,
+          "feedback": "Incorrect. Responsibilities are expected duties, not optional ideas."
+        },
+        {
+          "id": "B",
+          "text": "Freedoms protected by law",
+          "is_correct": false,
+          "feedback": "Incorrect. That describes rights, not responsibilities."
+        },
+        {
+          "id": "C",
+          "text": "Duties citizens are expected to fulfill",
+          "is_correct": true,
+          "feedback": "Correct. Responsibilities are duties such as following laws and contributing to society."
+        },
+                {
+          "id": "D",
+          "text": "Government services provided by cities and states",
+          "is_correct": false,
+          "feedback": "Incorrect. Government services are not the same as citizen responsibilities."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows civic participation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignoring elections and community issues",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignoring public issues is not civic participation."
+        },
+        {
+          "id": "B",
+          "text": "Voting in an election and staying informed",
+          "is_correct": true,
+          "feedback": "Correct. Voting and staying informed are clear examples of civic participation."
+        },
+        {
+          "id": "C",
+          "text": "Avoiding all laws that seem inconvenient",
+          "is_correct": false,
+          "feedback": "Incorrect. Avoiding laws is not responsible civic behavior."
+        },
+        {
+          "id": "D",
+          "text": "Letting others make every public decision",
+          "is_correct": false,
+          "feedback": "Incorrect. Civic participation means being involved, not withdrawing completely."
+        }
+      ]
+    },
+    {
+      "question_id": "USGOV-U01-L04-Q05",
+      "type": "multiple_choice",
+      "prompt": "Why is civic responsibility important?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It helps society function and supports the common good",
+          "is_correct": true,
+          "feedback": "Correct. The lesson explains that civic responsibility helps society function effectively."
+        },
+        {
+          "id": "B",
+          "text": "It removes the need for rights",
+          "is_correct": false,
+          "feedback": "Incorrect. Civic responsibility does not replace rights."
+        },
+        {
+          "id": "C",
+          "text": "It only matters during elections",
+          "is_correct": false,
+          "feedback": "Incorrect. Civic responsibility includes many actions beyond elections."
+        },
+        {
+          "id": "D",
+          "text": "It allows citizens to ignore community needs",
+          "is_correct": false,
+          "feedback": "Incorrect. Civic responsibility involves supporting, not ignoring, community needs."
+        }
+      ]
+    }
+  ]
 }
