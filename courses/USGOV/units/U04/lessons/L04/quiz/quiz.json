@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "USGOV-U04-L04-Q01",
+    "type": "multiple_choice",
+    "prompt": "Why can the government place limits on rights in some situations?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To eliminate all freedoms",
+        "is_correct": false,
+        "feedback": "Incorrect. Rights are protected, not eliminated."
+      },
+      {
+        "id": "B",
+        "text": "To protect public safety, order, and the rights of others",
+        "is_correct": true,
+        "feedback": "Correct. Rights can be limited when necessary to protect society and others."
+      },
+      {
+        "id": "C",
+        "text": "To ignore the Constitution",
+        "is_correct": false,
+        "feedback": "Incorrect. Any limits must still follow constitutional rules."
+      },
+      {
+        "id": "D",
+        "text": "To give one group more rights than another",
+        "is_correct": false,
+        "feedback": "Incorrect. Limits are not meant to create unfair treatment."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U04-L04-Q02",
+    "type": "true_false",
+    "prompt": "Rights in the Constitution are always unlimited.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "Incorrect. Rights are protected, but they are not unlimited."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. Rights can be limited in certain situations."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U04-L04-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which situation best shows a lawful limit on a right?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A protest must follow permit and safety rules",
+        "is_correct": true,
+        "feedback": "Correct. Safety rules can be used to balance rights with public order."
+      },
+      {
+        "id": "B",
+        "text": "A person loses all rights permanently for expressing an opinion",
+        "is_correct": false,
+        "feedback": "Incorrect. That would be an unfair and excessive restriction."
+      },
+      {
+        "id": "C",
+        "text": "A government official ignores the Constitution",
+        "is_correct": false,
+        "feedback": "Incorrect. Limits must still follow constitutional law."
+      },
+      {
+        "id": "D",
+        "text": "A law is applied randomly with no reason",
+        "is_correct": false,
+        "feedback": "Incorrect. Limits must be based on lawful reasons, not random action."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U04-L04-Q04",
+    "type": "true_false",
+    "prompt": "Courts may help decide whether a limit on a right is reasonable.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Courts often review whether limits on rights are lawful and reasonable."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. Courts do help decide whether limits are allowed."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U04-L04-Q05",
+    "type": "multiple_choice",
+    "prompt": "What is the main idea behind limits on rights?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Rights should only apply to certain groups",
+        "is_correct": false,
+        "feedback": "Incorrect. Rights are broadly protected, not limited to certain groups."
+      },
+      {
+        "id": "B",
+        "text": "Rights should never be questioned",
+        "is_correct": false,
+        "feedback": "Incorrect. Rights are protected, but their limits may be evaluated in real situations."
+      },
+      {
+        "id": "C",
+        "text": "The government should always win conflicts over rights",
+        "is_correct": false,
+        "feedback": "Incorrect. Limits must be justified and balanced."
+      },
+      {
+        "id": "D",
+        "text": "Rights must be balanced with safety, order, and the rights of others",
+        "is_correct": true,
+        "feedback": "Correct. The central idea is balance between individual freedom and the needs of society."
+      }
+    ]
+  }
+ ]
 }
