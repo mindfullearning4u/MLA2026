@@ -15,5 +15,218 @@
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "USGOV-U05-UNIT-FINAL",
 
- "questions": []
+ "questions": [
+  {
+    "question_id": "USGOV-U05-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is the main purpose of voting in an election?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To choose leaders and influence government decisions",
+        "is_correct": true,
+        "feedback": "Correct. Voting allows citizens to select leaders and influence government."
+      },
+      {
+        "id": "B",
+        "text": "To create laws directly",
+        "is_correct": false,
+        "feedback": "Incorrect. Laws are created by elected officials."
+      },
+      {
+        "id": "C",
+        "text": "To replace the Constitution",
+        "is_correct": false,
+        "feedback": "Incorrect. Voting does not replace the Constitution."
+      },
+      {
+        "id": "D",
+        "text": "To control the courts",
+        "is_correct": false,
+        "feedback": "Incorrect. Courts are separate from voting decisions."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q02",
+    "type": "true_false",
+    "prompt": "Elections are the process used to choose government leaders.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Elections are used to select leaders."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. That is the purpose of elections."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q03",
+    "type": "multiple_choice",
+    "prompt": "What is the main role of political parties?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To enforce laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Enforcement is a role of the executive branch."
+      },
+      {
+        "id": "B",
+        "text": "To elect candidates and organize government leadership",
+        "is_correct": true,
+        "feedback": "Correct. Political parties focus on elections and leadership."
+      },
+      {
+        "id": "C",
+        "text": "To interpret laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Courts interpret laws."
+      },
+      {
+        "id": "D",
+        "text": "To create the Constitution",
+        "is_correct": false,
+        "feedback": "Incorrect. The Constitution was created historically, not by parties."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "What do interest groups mainly try to do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Elect all government officials",
+        "is_correct": false,
+        "feedback": "Incorrect. That is the role of elections and parties."
+      },
+      {
+        "id": "B",
+        "text": "Influence public policy and government decisions",
+        "is_correct": true,
+        "feedback": "Correct. Interest groups advocate for specific issues."
+      },
+      {
+        "id": "C",
+        "text": "Replace political parties",
+        "is_correct": false,
+        "feedback": "Incorrect. Interest groups and parties serve different roles."
+      },
+      {
+        "id": "D",
+        "text": "Control the military",
+        "is_correct": false,
+        "feedback": "Incorrect. That is not their role."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q05",
+    "type": "true_false",
+    "prompt": "Media can influence how people think about political issues.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Media shapes how people understand information."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. Media does influence public opinion."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "What is public opinion?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The decisions made by government officials",
+        "is_correct": false,
+        "feedback": "Incorrect. Public opinion refers to people's views."
+      },
+      {
+        "id": "B",
+        "text": "The beliefs and views people hold about issues",
+        "is_correct": true,
+        "feedback": "Correct. Public opinion is what people think about issues."
+      },
+      {
+        "id": "C",
+        "text": "The laws passed by Congress",
+        "is_correct": false,
+        "feedback": "Incorrect. That is legislation."
+      },
+      {
+        "id": "D",
+        "text": "The decisions of the courts",
+        "is_correct": false,
+        "feedback": "Incorrect. That is judicial action."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q07",
+    "type": "true_false",
+    "prompt": "Voting is the only way citizens can participate in government.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "Incorrect. There are many forms of civic participation."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. Citizens can participate in many ways beyond voting."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U05-PRETEST-Q08",
+    "type": "multiple_choice",
+    "prompt": "Which is an example of civic participation beyond voting?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Serving on a jury or volunteering in the community",
+        "is_correct": true,
+        "feedback": "Correct. Civic participation includes actions beyond voting."
+      },
+      {
+        "id": "B",
+        "text": "Ignoring public issues",
+        "is_correct": false,
+        "feedback": "Incorrect. That is not participation."
+      },
+      {
+        "id": "C",
+        "text": "Avoiding elections completely",
+        "is_correct": false,
+        "feedback": "Incorrect. That reduces participation."
+      },
+      {
+        "id": "D",
+        "text": "Only watching political news without action",
+        "is_correct": false,
+        "feedback": "Incorrect. Participation requires action."
+      }
+    ]
+  }
+ ]
 }
