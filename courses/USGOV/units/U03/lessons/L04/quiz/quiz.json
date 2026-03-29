@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "USGOV-U03-L04-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is the main purpose of checks and balances?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To allow one branch to control all decisions",
+        "is_correct": false,
+        "feedback": "Incorrect. Checks and balances prevents one branch from having total control."
+      },
+      {
+        "id": "B",
+        "text": "To ensure each branch can limit the power of the others",
+        "is_correct": true,
+        "feedback": "Correct. Checks and balances allows each branch to limit the others."
+      },
+      {
+        "id": "C",
+        "text": "To eliminate the need for laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Laws are still necessary in a constitutional system."
+      },
+      {
+        "id": "D",
+        "text": "To give the judicial branch all authority",
+        "is_correct": false,
+        "feedback": "Incorrect. No branch has all authority."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L04-Q02",
+    "type": "true_false",
+    "prompt": "Checks and balances helps prevent one branch of government from becoming too powerful.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. This is the purpose of checks and balances."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. Checks and balances is designed to prevent too much power in one branch."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L04-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which situation best shows checks and balances in action?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Congress makes a law and no other branch is involved",
+        "is_correct": false,
+        "feedback": "Incorrect. Checks and balances involves interaction between branches."
+      },
+      {
+        "id": "B",
+        "text": "The president enforces a law without any limits",
+        "is_correct": false,
+        "feedback": "Incorrect. Checks and balances means there are limits."
+      },
+      {
+        "id": "C",
+        "text": "A court reviews a law passed by Congress and determines if it is constitutional",
+        "is_correct": true,
+        "feedback": "Correct. This shows the judicial branch limiting the legislative branch."
+      },
+      {
+        "id": "D",
+        "text": "Citizens vote in an election",
+        "is_correct": false,
+        "feedback": "Incorrect. Voting is civic participation, not checks and balances."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L04-Q04",
+    "type": "true_false",
+    "prompt": "Checks and balances and separation of powers mean exactly the same thing.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "Incorrect. They are related but not the same."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. Separation of powers divides roles, while checks and balances allows branches to limit each other."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L04-Q05",
+    "type": "multiple_choice",
+    "prompt": "Why is checks and balances important in a constitutional government?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It allows one branch to act without limits",
+        "is_correct": false,
+        "feedback": "Incorrect. The system is designed to limit power."
+      },
+      {
+        "id": "B",
+        "text": "It prevents laws from being created",
+        "is_correct": false,
+        "feedback": "Incorrect. Laws are still created through the legislative process."
+      },
+      {
+        "id": "C",
+        "text": "It ensures power is shared and prevents abuse of power",
+        "is_correct": true,
+        "feedback": "Correct. Checks and balances protects against misuse of power."
+      },
+      {
+        "id": "D",
+        "text": "It removes the need for courts",
+        "is_correct": false,
+        "feedback": "Incorrect. Courts are an essential part of the system."
+      }
+    ]
+  }
+]
 }
