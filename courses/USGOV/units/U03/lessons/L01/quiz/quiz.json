@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "USGOV-U03-L01-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is the main job of the legislative branch?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To interpret laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Interpreting laws is the role of the judicial branch."
+      },
+      {
+        "id": "B",
+        "text": "To make laws",
+        "is_correct": true,
+        "feedback": "Correct. The legislative branch makes national laws through Congress."
+      },
+      {
+        "id": "C",
+        "text": "To enforce laws",
+        "is_correct": false,
+        "feedback": "Incorrect. Enforcing laws is the role of the executive branch."
+      },
+      {
+        "id": "D",
+        "text": "To lead the military",
+        "is_correct": false,
+        "feedback": "Incorrect. Leading the military is connected to the executive branch."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L01-Q02",
+    "type": "true_false",
+    "prompt": "Congress is the legislative branch of the national government.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Congress is the legislative branch."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. Congress is the legislative branch of the national government."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L01-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which two parts make up Congress?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The House of Governors and the Senate",
+        "is_correct": false,
+        "feedback": "Incorrect. Congress does not include a House of Governors."
+      },
+      {
+        "id": "B",
+        "text": "The President and the Senate",
+        "is_correct": false,
+        "feedback": "Incorrect. The president is part of the executive branch."
+      },
+      {
+        "id": "C",
+        "text": "The House of Representatives and the Senate",
+        "is_correct": true,
+        "feedback": "Correct. Congress has two chambers: the House of Representatives and the Senate."
+      },
+      {
+        "id": "D",
+        "text": "The Supreme Court and the Senate",
+        "is_correct": false,
+        "feedback": "Incorrect. The Supreme Court is part of the judicial branch."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L01-Q04",
+    "type": "true_false",
+    "prompt": "Representation means elected officials speak and act on behalf of the people or the states.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Representation connects citizens and states to lawmaking."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. That statement correctly explains representation."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U03-L01-Q05",
+    "type": "multiple_choice",
+    "prompt": "Which situation best shows the legislative branch in action?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The president signs and enforces a law",
+        "is_correct": false,
+        "feedback": "Incorrect. That is the executive branch."
+      },
+      {
+        "id": "B",
+        "text": "A court reviews whether a law follows the Constitution",
+        "is_correct": false,
+        "feedback": "Incorrect. That is the judicial branch."
+      },
+      {
+        "id": "C",
+        "text": "Congress debates and votes on a proposed bill",
+        "is_correct": true,
+        "feedback": "Correct. Debating and voting on bills is part of the legislative branch’s lawmaking role."
+      },
+      {
+        "id": "D",
+        "text": "An agency carries out a national law",
+        "is_correct": false,
+        "feedback": "Incorrect. Carrying out laws is part of the executive branch."
+      }
+    ]
+  }
+]
 }
