@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "USGOV-U02-L01-Q01",
+    "type": "multiple_choice",
+    "prompt": "Which weakness of the Articles of Confederation made it difficult for the national government to raise money?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It could not tax",
+        "is_correct": true,
+        "feedback": "Correct. Congress could ask states for money, but it could not directly tax."
+      },
+      {
+        "id": "B",
+        "text": "It could not declare war",
+        "is_correct": false,
+        "feedback": "Incorrect. The national government could declare war under the Articles of Confederation."
+      },
+      {
+        "id": "C",
+        "text": "It could not manage western lands",
+        "is_correct": false,
+        "feedback": "Incorrect. Managing western lands was one of the powers the national government did have."
+      },
+      {
+        "id": "D",
+        "text": "It could not make treaties",
+        "is_correct": false,
+        "feedback": "Incorrect. The national government could conduct foreign affairs and make treaties."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U02-L01-Q02",
+    "type": "true_false",
+    "prompt": "Under the Articles of Confederation, the national government had an executive branch to enforce laws.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "Incorrect. The Articles of Confederation did not create an executive branch."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. One major weakness of the Articles was that there was no executive branch to enforce laws."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U02-L01-Q03",
+    "type": "multiple_choice",
+    "prompt": "Why did many leaders believe a new Constitution was necessary?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They wanted each state to become its own country",
+        "is_correct": false,
+        "feedback": "Incorrect. The goal was to strengthen the union, not break it apart."
+      },
+      {
+        "id": "B",
+        "text": "They wanted to remove all state governments",
+        "is_correct": false,
+        "feedback": "Incorrect. The Constitution kept state governments while creating a stronger national government."
+      },
+      {
+        "id": "C",
+        "text": "They wanted to fix the weaknesses of the Articles of Confederation",
+        "is_correct": true,
+        "feedback": "Correct. Leaders believed the Articles created a national government that was too weak to solve major problems."
+      },
+      {
+        "id": "D",
+        "text": "They wanted to end all taxation",
+        "is_correct": false,
+        "feedback": "Incorrect. The Constitution gave the national government the power to tax."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U02-L01-Q04",
+    "type": "true_false",
+    "prompt": "Shays’ Rebellion helped show that the national government under the Articles of Confederation was too weak.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Shays’ Rebellion showed that the government struggled to maintain order and respond effectively."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "Incorrect. Shays’ Rebellion is one of the clearest examples of the weaknesses of the Articles of Confederation."
+      }
+    ]
+  },
+  {
+    "question_id": "USGOV-U02-L01-Q05",
+    "type": "multiple_choice",
+    "prompt": "Which statement best describes the Articles of Confederation?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They created a strong central government with broad power",
+        "is_correct": false,
+        "feedback": "Incorrect. The Articles created a weak national government."
+      },
+      {
+        "id": "B",
+        "text": "They created a loose alliance of states with limited national power",
+        "is_correct": true,
+        "feedback": "Correct. The Articles created a confederation in which states kept most of the power."
+      },
+      {
+        "id": "C",
+        "text": "They eliminated state governments",
+        "is_correct": false,
+        "feedback": "Incorrect. State governments remained very powerful."
+      },
+      {
+        "id": "D",
+        "text": "They gave the president the power to enforce laws",
+        "is_correct": false,
+        "feedback": "Incorrect. There was no president under the Articles of Confederation."
+      }
+    ]
+  }
+]
 }
