@@ -15,5 +15,217 @@
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "ECON-U05-UNIT-FINAL",
 
- "questions": []
+ "questions": [
+  {
+    "question_id": "ECON-U05-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is a budget?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A plan for how money will be earned, spent, and saved",
+        "is_correct": true,
+        "feedback": "Correct. A budget is a plan for managing money."
+      },
+      {
+        "id": "B",
+        "text": "A list of only luxury purchases",
+        "is_correct": false,
+        "feedback": "A budget includes more than luxury purchases."
+      },
+      {
+        "id": "C",
+        "text": "Money borrowed from a lender",
+        "is_correct": false,
+        "feedback": "That describes credit or a loan, not a budget."
+      },
+      {
+        "id": "D",
+        "text": "A rule used by government to regulate markets",
+        "is_correct": false,
+        "feedback": "That is not related to personal budgeting."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q02",
+    "type": "true_false",
+    "prompt": "Needs are expenses that are necessary, while wants are expenses that are optional.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Needs are necessary expenses, while wants are optional."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. The distinction between needs and wants is an important part of budgeting."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which statement best describes saving?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Borrowing money to buy something right away",
+        "is_correct": false,
+        "feedback": "That describes borrowing, not saving."
+      },
+      {
+        "id": "B",
+        "text": "Setting money aside for future use",
+        "is_correct": true,
+        "feedback": "Correct. Saving means keeping money for future needs or goals."
+      },
+      {
+        "id": "C",
+        "text": "Spending all income as soon as it is earned",
+        "is_correct": false,
+        "feedback": "Saving involves setting money aside, not spending it all immediately."
+      },
+      {
+        "id": "D",
+        "text": "Choosing the most expensive product to reduce risk",
+        "is_correct": false,
+        "feedback": "That does not define saving."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is interest in personal finance?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A type of product warranty",
+        "is_correct": false,
+        "feedback": "Interest is not a warranty."
+      },
+      {
+        "id": "B",
+        "text": "A fee paid only when buying groceries",
+        "is_correct": false,
+        "feedback": "Interest is not limited to groceries or shopping."
+      },
+      {
+        "id": "C",
+        "text": "Money earned on savings or paid on borrowed money",
+        "is_correct": true,
+        "feedback": "Correct. Interest can help savings grow or increase the cost of borrowing."
+      },
+      {
+        "id": "D",
+        "text": "A list of monthly expenses in a budget",
+        "is_correct": false,
+        "feedback": "That does not define interest."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q05",
+    "type": "true_false",
+    "prompt": "Credit allows a person to borrow money now and repay it later.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Credit is the ability to borrow now and repay later."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. That is the basic meaning of credit."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "Which choice best shows responsible use of debt?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Borrowing more than can be repaid",
+        "is_correct": false,
+        "feedback": "Responsible borrowing means choosing debt that can be repaid."
+      },
+      {
+        "id": "B",
+        "text": "Ignoring the interest rate on a loan",
+        "is_correct": false,
+        "feedback": "Understanding interest is part of responsible borrowing."
+      },
+      {
+        "id": "C",
+        "text": "Making payments on time and understanding the full cost of borrowing",
+        "is_correct": true,
+        "feedback": "Correct. Responsible debt use includes timely repayment and awareness of total cost."
+      },
+      {
+        "id": "D",
+        "text": "Using debt for every purchase without a plan",
+        "is_correct": false,
+        "feedback": "Borrowing without a plan is not financially responsible."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q07",
+    "type": "multiple_choice",
+    "prompt": "Why is it important to compare purchase options before buying?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To choose based only on the lowest price",
+        "is_correct": false,
+        "feedback": "Price matters, but it is not the only factor."
+      },
+      {
+        "id": "B",
+        "text": "To avoid thinking about quality or long-term value",
+        "is_correct": false,
+        "feedback": "Good consumer decisions consider quality and long-term value."
+      },
+      {
+        "id": "C",
+        "text": "To reduce financial risk and find the choice that best fits needs and budget",
+        "is_correct": true,
+        "feedback": "Correct. Comparing options helps consumers make more responsible financial choices."
+      },
+      {
+        "id": "D",
+        "text": "To make sure all purchases take the same amount of time",
+        "is_correct": false,
+        "feedback": "Time is not the main reason consumers compare options."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-PRETEST-Q08",
+    "type": "true_false",
+    "prompt": "Investing usually involves more risk than keeping money in a basic savings account.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Investing generally has more risk, but it may also offer greater growth over time."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Basic saving is usually lower risk than investing."
+      }
+    ]
+  }]
 }
