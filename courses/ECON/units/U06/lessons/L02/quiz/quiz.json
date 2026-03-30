@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+      {
+        "question_id": "ECON-U06-L02-Q01",
+        "type": "multiple_choice",
+        "prompt": "What is comparative advantage?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "The ability to produce a good at a lower opportunity cost",
+            "is_correct": true,
+            "feedback": "Correct. Comparative advantage means producing something at a lower opportunity cost than another producer."
+          },
+          {
+            "id": "B",
+            "text": "The ability to produce every good in larger amounts",
+            "is_correct": false,
+            "feedback": "That does not define comparative advantage. Comparative advantage is based on opportunity cost."
+          },
+          {
+            "id": "C",
+            "text": "The decision to avoid trade completely",
+            "is_correct": false,
+            "feedback": "Comparative advantage helps explain why trade can be beneficial."
+          },
+          {
+            "id": "D",
+            "text": "Government control over production",
+            "is_correct": false,
+            "feedback": "Comparative advantage is not about government control."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L02-Q02",
+        "type": "true_false",
+        "prompt": "Opportunity cost is the value of the next best alternative given up.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. Opportunity cost is the next best alternative that must be given up."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This statement is true because opportunity cost means the value of the next best alternative."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L02-Q03",
+        "type": "multiple_choice",
+        "prompt": "Why can specialization improve efficiency?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Because it forces all countries to produce the same goods",
+            "is_correct": false,
+            "feedback": "Specialization does not mean all countries produce the same goods."
+          },
+          {
+            "id": "B",
+            "text": "Because it allows producers to focus on goods they make at lower opportunity cost",
+            "is_correct": true,
+            "feedback": "Correct. Specialization can improve efficiency when producers focus on goods they can make relatively more efficiently."
+          },
+          {
+            "id": "C",
+            "text": "Because trade becomes unnecessary",
+            "is_correct": false,
+            "feedback": "Specialization often works together with trade rather than replacing it."
+          },
+          {
+            "id": "D",
+            "text": "Because opportunity cost no longer matters",
+            "is_correct": false,
+            "feedback": "Opportunity cost is central to understanding specialization and comparative advantage."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L02-Q04",
+        "type": "multiple_choice",
+        "prompt": "If Country A has comparative advantage in wheat and Country B has comparative advantage in cloth, what is the best general outcome?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Country A should produce only cloth and Country B should produce only wheat",
+            "is_correct": false,
+            "feedback": "That would go against the idea of comparative advantage."
+          },
+          {
+            "id": "B",
+            "text": "Both countries should avoid trade",
+            "is_correct": false,
+            "feedback": "Comparative advantage helps explain why trade can help both countries."
+          },
+          {
+            "id": "C",
+            "text": "Both countries should produce equal amounts of both goods",
+            "is_correct": false,
+            "feedback": "Equal production of both goods does not use comparative advantage effectively."
+          },
+          {
+            "id": "D",
+            "text": "Each country should specialize more in the good where it has comparative advantage and trade",
+            "is_correct": true,
+            "feedback": "Correct. Specializing based on comparative advantage and then trading can improve efficiency and benefit both countries."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L02-Q05",
+        "type": "true_false",
+        "prompt": "Comparative advantage is based on lower opportunity cost, not just producing more units.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. Comparative advantage depends on lower opportunity cost, not simply greater total output."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This statement is true because comparative advantage focuses on opportunity cost."
+          }
+        ]
+      }
+    ]
 }
