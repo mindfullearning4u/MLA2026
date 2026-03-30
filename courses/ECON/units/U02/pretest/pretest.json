@@ -15,5 +15,218 @@
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "ECON-U02-UNIT-FINAL",
 
- "questions": []
+ "questions": [
+  {
+    "question_id": "ECON-U02-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "According to the law of demand, what happens when price increases?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Quantity demanded increases",
+        "is_correct": false,
+        "feedback": "This is incorrect. When price increases, consumers usually buy less, not more."
+      },
+      {
+        "id": "B",
+        "text": "Quantity demanded decreases",
+        "is_correct": true,
+        "feedback": "Correct. The law of demand states that as price increases, quantity demanded decreases."
+      },
+      {
+        "id": "C",
+        "text": "Supply increases",
+        "is_correct": false,
+        "feedback": "This choice refers to producer behavior, not what happens to quantity demanded."
+      },
+      {
+        "id": "D",
+        "text": "Demand shifts right",
+        "is_correct": false,
+        "feedback": "A price change causes movement along the demand curve, not a shift in demand."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q02",
+    "type": "true_false",
+    "prompt": "A change in consumer income can shift the demand curve.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Income is one of the factors that can shift demand."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Changes in income can change consumer buying behavior and shift demand."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q03",
+    "type": "multiple_choice",
+    "prompt": "What does the law of supply state?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "As price increases, quantity supplied increases",
+        "is_correct": true,
+        "feedback": "Correct. The law of supply states that higher prices usually lead producers to supply more."
+      },
+      {
+        "id": "B",
+        "text": "As price increases, demand increases",
+        "is_correct": false,
+        "feedback": "This choice describes demand and is also inaccurate in this context."
+      },
+      {
+        "id": "C",
+        "text": "Supply decreases when price increases",
+        "is_correct": false,
+        "feedback": "This is the opposite of the law of supply."
+      },
+      {
+        "id": "D",
+        "text": "Price does not affect supply",
+        "is_correct": false,
+        "feedback": "Price does affect the quantity producers are willing to supply."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is market equilibrium?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "When supply exceeds demand",
+        "is_correct": false,
+        "feedback": "This describes a surplus, not equilibrium."
+      },
+      {
+        "id": "B",
+        "text": "When demand exceeds supply",
+        "is_correct": false,
+        "feedback": "This describes a shortage, not equilibrium."
+      },
+      {
+        "id": "C",
+        "text": "When quantity demanded equals quantity supplied",
+        "is_correct": true,
+        "feedback": "Correct. Equilibrium is the point where quantity demanded and quantity supplied are equal."
+      },
+      {
+        "id": "D",
+        "text": "When prices are fixed",
+        "is_correct": false,
+        "feedback": "Equilibrium is based on balance between buyers and sellers, not simply fixed prices."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q05",
+    "type": "true_false",
+    "prompt": "A shortage occurs when quantity demanded is greater than quantity supplied.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. A shortage exists when buyers want more than sellers are offering at the current price."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. That statement is the definition of a shortage."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "Which situation represents a shift in supply?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Price increases and producers supply more",
+        "is_correct": false,
+        "feedback": "This is a movement along the supply curve caused by a price change."
+      },
+      {
+        "id": "B",
+        "text": "Consumers buy less due to higher prices",
+        "is_correct": false,
+        "feedback": "This describes demand behavior, not a shift in supply."
+      },
+      {
+        "id": "C",
+        "text": "New technology improves production efficiency",
+        "is_correct": true,
+        "feedback": "Correct. New technology can shift supply by changing production conditions."
+      },
+      {
+        "id": "D",
+        "text": "Price decreases and supply decreases",
+        "is_correct": false,
+        "feedback": "This is also movement along the supply curve caused by a price change."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q07",
+    "type": "multiple_choice",
+    "prompt": "Which market structure has only one seller?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Perfect competition",
+        "is_correct": false,
+        "feedback": "Perfect competition has many sellers, not one."
+      },
+      {
+        "id": "B",
+        "text": "Monopolistic competition",
+        "is_correct": false,
+        "feedback": "Monopolistic competition has many sellers offering similar but different products."
+      },
+      {
+        "id": "C",
+        "text": "Oligopoly",
+        "is_correct": false,
+        "feedback": "An oligopoly has a few large sellers, not just one."
+      },
+      {
+        "id": "D",
+        "text": "Monopoly",
+        "is_correct": true,
+        "feedback": "Correct. A monopoly is a market structure with only one seller."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U02-PRETEST-Q08",
+    "type": "true_false",
+    "prompt": "In perfect competition, businesses have strong control over price.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "This is incorrect. In perfect competition, no single business has strong control over price."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. In perfect competition, prices are determined by the market rather than by one seller."
+      }
+    ]
+  }
+]
 }
