@@ -14,5 +14,268 @@
   "question_count": 10,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does the law of demand state?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "As price increases, quantity demanded increases",
+          "is_correct": false,
+          "feedback": "This is incorrect. The law of demand describes an inverse relationship between price and quantity demanded."
+        },
+        {
+          "id": "B",
+          "text": "As price increases, quantity demanded decreases",
+          "is_correct": true,
+          "feedback": "Correct. The law of demand states that higher prices usually lead to lower quantity demanded."
+        },
+        {
+          "id": "C",
+          "text": "As price decreases, supply decreases",
+          "is_correct": false,
+          "feedback": "This answer refers to supply, not demand."
+        },
+        {
+          "id": "D",
+          "text": "Demand never changes when price changes",
+          "is_correct": false,
+          "feedback": "This is incorrect. Price changes affect quantity demanded."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q02",
+      "type": "true_false",
+      "prompt": "A change in production costs can shift the supply curve.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Production costs are a determinant of supply and can shift the supply curve."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect. Changes in production costs can shift supply."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q03",
+      "type": "multiple_choice",
+      "prompt": "What is market equilibrium?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "When quantity demanded equals quantity supplied",
+          "is_correct": true,
+          "feedback": "Correct. Market equilibrium is the point where quantity demanded equals quantity supplied."
+        },
+        {
+          "id": "B",
+          "text": "When supply is greater than demand",
+          "is_correct": false,
+          "feedback": "That describes a surplus, not equilibrium."
+        },
+        {
+          "id": "C",
+          "text": "When demand is greater than supply",
+          "is_correct": false,
+          "feedback": "That describes a shortage, not equilibrium."
+        },
+        {
+          "id": "D",
+          "text": "When prices are fixed by the government",
+          "is_correct": false,
+          "feedback": "Equilibrium is determined by market forces, not by fixed pricing alone."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q04",
+      "type": "true_false",
+      "prompt": "A surplus occurs when quantity supplied is greater than quantity demanded.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A surplus exists when sellers offer more than buyers want at the current price."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect. A surplus means quantity supplied exceeds quantity demanded."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q05",
+      "type": "multiple_choice",
+      "prompt": "Which market structure has only one seller?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Perfect competition",
+          "is_correct": false,
+          "feedback": "Perfect competition has many sellers."
+        },
+        {
+          "id": "B",
+          "text": "Monopolistic competition",
+          "is_correct": false,
+          "feedback": "Monopolistic competition has many sellers with differentiated products."
+        },
+        {
+          "id": "C",
+          "text": "Monopoly",
+          "is_correct": true,
+          "feedback": "Correct. A monopoly is a market with one seller."
+        },
+        {
+          "id": "D",
+          "text": "Oligopoly",
+          "is_correct": false,
+          "feedback": "An oligopoly has a few dominant firms, not one seller."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which situation best shows a shift in demand rather than movement along the demand curve?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The price of the product decreases, so more consumers buy it",
+          "is_correct": false,
+          "feedback": "That is movement along the demand curve because the product's own price changed."
+        },
+        {
+          "id": "B",
+          "text": "A product becomes more popular on social media, so more consumers want it at every price",
+          "is_correct": true,
+          "feedback": "Correct. A change in preferences shifts the demand curve."
+        },
+        {
+          "id": "C",
+          "text": "The product's price rises, so fewer consumers buy it",
+          "is_correct": false,
+          "feedback": "That is movement along the demand curve caused by price."
+        },
+        {
+          "id": "D",
+          "text": "A sale lowers the price for one weekend",
+          "is_correct": false,
+          "feedback": "A sale changes price and causes movement along the demand curve."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q07",
+      "type": "true_false",
+      "prompt": "In perfect competition, firms have little control over price.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. In perfect competition, many sellers offer identical products and have little pricing power."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect. Perfect competition gives firms very little control over price."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q08",
+      "type": "multiple_choice",
+      "prompt": "A new machine helps factories produce more goods at a lower cost. What is the most likely effect?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Demand shifts left",
+          "is_correct": false,
+          "feedback": "This scenario affects supply, not demand."
+        },
+        {
+          "id": "B",
+          "text": "Supply shifts left",
+          "is_correct": false,
+          "feedback": "Lower costs and better technology usually increase supply, not decrease it."
+        },
+        {
+          "id": "C",
+          "text": "Supply shifts right",
+          "is_correct": true,
+          "feedback": "Correct. Better technology and lower costs increase supply."
+        },
+        {
+          "id": "D",
+          "text": "Equilibrium becomes impossible",
+          "is_correct": false,
+          "feedback": "Markets still move toward equilibrium after supply changes."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q09",
+      "type": "multiple_choice",
+      "prompt": "A new fashion trend causes many more consumers to want a certain brand of shoes, but production has not changed yet. What is the most likely short-run result at the old price?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A surplus",
+          "is_correct": false,
+          "feedback": "If more consumers want the product, the issue is not surplus."
+        },
+        {
+          "id": "B",
+          "text": "No market change",
+          "is_correct": false,
+          "feedback": "An increase in demand creates market pressure."
+        },
+        {
+          "id": "C",
+          "text": "A shortage",
+          "is_correct": true,
+          "feedback": "Correct. Higher demand with unchanged supply creates a shortage at the old price."
+        },
+        {
+          "id": "D",
+          "text": "A decrease in demand",
+          "is_correct": false,
+          "feedback": "The scenario states demand increased, not decreased."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U02-UNIT-FINAL-Q10",
+      "type": "true_false",
+      "prompt": "An oligopoly is a market structure in which a few large firms dominate the market.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. An oligopoly consists of a few dominant firms."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect. A few large firms dominating the market defines an oligopoly."
+        }
+      ]
+    }
+  ]
 }
