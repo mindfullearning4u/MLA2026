@@ -3,8 +3,8 @@
     "course_id":  "ECON",
     "unit_id":  "U04",
     "lesson_id":  "ECON-U04-L03",
-    "title":  "Lesson Quiz: Taxes and Revenue",
-    "description":  "Assessment of the concept that Types of taxes and their economic impact.",
+    "title":  "Lesson Quiz: Fiscal Policy",
+    "description":  "Assessment of the concept that Government spending and taxation decisions.",
     "type":  "quiz",
     "counts_toward_grade":  true,
     "graded_category":  "quiz",
@@ -17,5 +17,136 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "ECON-U04-L03-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is fiscal policy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The use of government spending and taxation decisions to influence the economy",
+        "is_correct": true,
+        "feedback": "Correct. Fiscal policy uses spending and tax decisions to affect economic activity."
+      },
+      {
+        "id": "B",
+        "text": "The study of how businesses advertise products",
+        "is_correct": false,
+        "feedback": "That is not fiscal policy."
+      },
+      {
+        "id": "C",
+        "text": "The collection of property taxes only",
+        "is_correct": false,
+        "feedback": "Fiscal policy includes broader spending and tax decisions, not just one tax type."
+      },
+      {
+        "id": "D",
+        "text": "Government rules about product safety",
+        "is_correct": false,
+        "feedback": "That describes regulation, not fiscal policy."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L03-Q02",
+    "type": "true_false",
+    "prompt": "Expansionary fiscal policy may include higher government spending or lower taxes.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Expansionary fiscal policy is used to encourage economic activity."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Expansionary policy often uses more spending or lower taxes."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L03-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which action best represents contractionary fiscal policy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Increasing spending on public construction during a slowdown",
+        "is_correct": false,
+        "feedback": "That is more closely related to expansionary fiscal policy."
+      },
+      {
+        "id": "B",
+        "text": "Lowering taxes so households keep more of their income",
+        "is_correct": false,
+        "feedback": "That is also more closely related to expansionary policy."
+      },
+      {
+        "id": "C",
+        "text": "Reducing government spending or raising taxes to slow activity",
+        "is_correct": true,
+        "feedback": "Correct. Contractionary fiscal policy is meant to slow overall economic activity."
+      },
+      {
+        "id": "D",
+        "text": "Requiring businesses to test products for safety",
+        "is_correct": false,
+        "feedback": "That is a regulation example, not fiscal policy."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L03-Q04",
+    "type": "multiple_choice",
+    "prompt": "How can fiscal policy influence the economy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "By changing government spending and tax decisions that affect economic activity",
+        "is_correct": true,
+        "feedback": "Correct. Fiscal policy can influence spending, production, and other economic behavior."
+      },
+      {
+        "id": "B",
+        "text": "By deciding what color businesses must paint their buildings",
+        "is_correct": false,
+        "feedback": "That does not describe fiscal policy."
+      },
+      {
+        "id": "C",
+        "text": "By replacing all consumer decisions with government decisions",
+        "is_correct": false,
+        "feedback": "Fiscal policy influences the economy, but it does not replace all private decisions."
+      },
+      {
+        "id": "D",
+        "text": "By focusing only on property tax values each year",
+        "is_correct": false,
+        "feedback": "Fiscal policy is broader than one tax category."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L03-Q05",
+    "type": "true_false",
+    "prompt": "Fiscal policy is different from simply identifying types of taxes because it focuses on how government uses spending and taxation decisions as a strategy.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Fiscal policy is about strategy and economic influence, not just naming tax types."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Fiscal policy focuses on how government uses spending and taxes to influence the economy."
+      }
+    ]
+  }]
 }
