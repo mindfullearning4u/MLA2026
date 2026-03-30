@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+  "questions": [
+    {
+      "question_id": "ECON-U01-L02-QUIZ-001",
+      "type": "multiple_choice",
+      "prompt": "What is a trade-off?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A reward for making a good economic decision",
+          "is_correct": false,
+          "feedback": "A reward is an incentive, not a trade-off."
+        },
+        {
+          "id": "B",
+          "text": "All the alternatives given up when a choice is made",
+          "is_correct": true,
+          "feedback": "Correct. A trade-off includes the options given up when one alternative is chosen."
+        },
+        {
+          "id": "C",
+          "text": "The money spent on a purchase",
+          "is_correct": false,
+          "feedback": "Spending money can be part of a decision, but a trade-off is about alternatives given up."
+        },
+        {
+          "id": "D",
+          "text": "A decision made by the government",
+          "is_correct": false,
+          "feedback": "A trade-off can occur in any decision, not just government decisions."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L02-QUIZ-002",
+      "type": "true_false",
+      "prompt": "Opportunity cost is the value of the next best alternative that is not chosen.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Opportunity cost is the value of the next best option given up."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This statement is accurate. Opportunity cost refers to the next best alternative not chosen."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L02-QUIZ-003",
+      "type": "multiple_choice",
+      "prompt": "A student chooses to work after school instead of going to a game. If the game was the next best option, what is the opportunity cost?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The student's homework",
+          "is_correct": false,
+          "feedback": "Homework is not identified as the next best alternative in this question."
+        },
+        {
+          "id": "B",
+          "text": "The money earned from working",
+          "is_correct": false,
+          "feedback": "The money earned is a benefit of the chosen option, not the opportunity cost."
+        },
+        {
+          "id": "C",
+          "text": "The value of attending the game",
+          "is_correct": true,
+          "feedback": "Correct. The opportunity cost is the value of the next best option that was given up."
+        },
+        {
+          "id": "D",
+          "text": "Every activity the student could do that evening",
+          "is_correct": false,
+          "feedback": "Opportunity cost is not every possible activity. It is the next best alternative."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L02-QUIZ-004",
+      "type": "true_false",
+      "prompt": "Every economic choice involves some kind of trade-off.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Choosing one option means giving up another, which creates a trade-off."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Economic choices do involve trade-offs because not every option can be selected."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L02-QUIZ-005",
+      "type": "multiple_choice",
+      "prompt": "Which statement best explains the difference between a trade-off and an opportunity cost?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A trade-off is the next best option, while opportunity cost is every option given up",
+          "is_correct": false,
+          "feedback": "These definitions are reversed."
+        },
+        {
+          "id": "B",
+          "text": "A trade-off applies only to money, while opportunity cost applies only to time",
+          "is_correct": false,
+          "feedback": "Both concepts can apply to time, money, effort, and other resources."
+        },
+        {
+          "id": "C",
+          "text": "A trade-off is every option given up, while opportunity cost is the next best option not chosen",
+          "is_correct": true,
+          "feedback": "Correct. A trade-off includes all alternatives given up, while opportunity cost is the next best alternative."
+        },
+        {
+          "id": "D",
+          "text": "There is no difference between the two terms",
+          "is_correct": false,
+          "feedback": "The two concepts are related, but they are not identical."
+        }
+      ]
+    }
+  ]
 }
