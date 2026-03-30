@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+      {
+        "question_id": "ECON-U02-L02-Q01",
+        "type": "multiple_choice",
+        "prompt": "What does the law of supply state?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "As price increases, quantity supplied increases",
+            "is_correct": true,
+            "feedback": "Correct. The law of supply states that higher prices usually lead producers to supply more."
+          },
+          {
+            "id": "B",
+            "text": "As price increases, quantity supplied decreases",
+            "is_correct": false,
+            "feedback": "This is incorrect. Supply and price usually move in the same direction."
+          },
+          {
+            "id": "C",
+            "text": "As price decreases, demand increases",
+            "is_correct": false,
+            "feedback": "This answer refers to demand, not supply."
+          },
+          {
+            "id": "D",
+            "text": "Supply never changes when price changes",
+            "is_correct": false,
+            "feedback": "This is incorrect. Price changes affect quantity supplied."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L02-Q02",
+        "type": "true_false",
+        "prompt": "A movement along the supply curve is caused by a change in the price of the product itself.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. A change in the product's own price causes movement along the supply curve."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This is incorrect. A price change causes movement along the supply curve, not a shift."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L02-Q03",
+        "type": "multiple_choice",
+        "prompt": "Which of the following would most likely shift supply rather than cause movement along the supply curve?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A higher price for the same product",
+            "is_correct": false,
+            "feedback": "A change in the price of the product itself causes movement along the supply curve."
+          },
+          {
+            "id": "B",
+            "text": "A lower price for the same product",
+            "is_correct": false,
+            "feedback": "A lower price changes quantity supplied, not supply itself."
+          },
+          {
+            "id": "C",
+            "text": "An improvement in production technology",
+            "is_correct": true,
+            "feedback": "Correct. Technology is a determinant of supply and can shift the entire supply curve."
+          },
+          {
+            "id": "D",
+            "text": "A temporary sale price chosen by one store",
+            "is_correct": false,
+            "feedback": "A price change affects quantity supplied, not the supply curve itself."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L02-Q04",
+        "type": "multiple_choice",
+        "prompt": "Which factor would most likely decrease supply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Lower production costs",
+            "is_correct": false,
+            "feedback": "Lower costs usually increase supply because production becomes easier or more profitable."
+          },
+          {
+            "id": "B",
+            "text": "Better technology",
+            "is_correct": false,
+            "feedback": "Better technology usually increases supply."
+          },
+          {
+            "id": "C",
+            "text": "More sellers entering the market",
+            "is_correct": false,
+            "feedback": "More sellers usually increase total market supply."
+          },
+          {
+            "id": "D",
+            "text": "Higher costs of materials",
+            "is_correct": true,
+            "feedback": "Correct. Higher production costs make it harder or less profitable to produce, which can decrease supply."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L02-Q05",
+        "type": "true_false",
+        "prompt": "If producers expect prices to rise in the future, they may reduce supply now.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. If producers expect higher prices later, they may hold back supply now."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This is incorrect. Expectations about future prices can affect current supply decisions."
+          }
+        ]
+      }
+    ]
 }
