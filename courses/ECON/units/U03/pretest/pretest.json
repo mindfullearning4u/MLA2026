@@ -15,5 +15,230 @@
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "ECON-U03-UNIT-FINAL",
 
- "questions": []
+ "questions": [
+  {
+    "question_id": "ECON-U03-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "What does Gross Domestic Product (GDP) measure?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The total value of final goods and services produced within a country over a specific period of time",
+        "is_correct": true,
+        "feedback": "Correct. GDP measures total economic output produced within a country during a period of time."
+      },
+      {
+        "id": "B",
+        "text": "The total amount of money saved by households each year",
+        "is_correct": false,
+        "feedback": "Savings can affect the economy, but GDP measures production, not total savings."
+      },
+      {
+        "id": "C",
+        "text": "The number of people who are unemployed",
+        "is_correct": false,
+        "feedback": "Unemployment is a separate economic indicator and is not the same as GDP."
+      },
+      {
+        "id": "D",
+        "text": "The change in prices over time",
+        "is_correct": false,
+        "feedback": "Price changes over time describe inflation, not GDP."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q02",
+    "type": "multiple_choice",
+    "prompt": "Which of the following is one of the main components of GDP?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Voting participation",
+        "is_correct": false,
+        "feedback": "Voting participation is not a GDP component."
+      },
+      {
+        "id": "B",
+        "text": "Consumption",
+        "is_correct": true,
+        "feedback": "Correct. Consumption is one of the four major components of GDP."
+      },
+      {
+        "id": "C",
+        "text": "Weather patterns",
+        "is_correct": false,
+        "feedback": "Weather can affect the economy, but it is not a GDP component."
+      },
+      {
+        "id": "D",
+        "text": "Personal hobbies",
+        "is_correct": false,
+        "feedback": "Hobbies are not a formal component used to calculate GDP."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q03",
+    "type": "true_false",
+    "prompt": "Frictional unemployment can happen when people are changing jobs or entering the workforce.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Frictional unemployment is often short-term and happens during job transitions."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. That statement describes frictional unemployment."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is structural unemployment?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Unemployment caused by seasonal weather changes only",
+        "is_correct": false,
+        "feedback": "Seasonal patterns may affect jobs, but that does not define structural unemployment."
+      },
+      {
+        "id": "B",
+        "text": "Unemployment caused by workers and jobs not matching because of changing skills or technology",
+        "is_correct": true,
+        "feedback": "Correct. Structural unemployment happens when workers' skills do not match available jobs."
+      },
+      {
+        "id": "C",
+        "text": "Unemployment caused by rising prices of groceries",
+        "is_correct": false,
+        "feedback": "Rising prices describe inflation, not structural unemployment."
+      },
+      {
+        "id": "D",
+        "text": "Unemployment caused by higher exports",
+        "is_correct": false,
+        "feedback": "Exports are not the defining cause of structural unemployment."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q05",
+    "type": "true_false",
+    "prompt": "Inflation reduces purchasing power when prices rise faster than income.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. When prices rise and income does not keep up, the same money buys less."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Inflation can reduce purchasing power when prices rise faster than income."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "Which example best shows inflation affecting the cost of living?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A student studies longer for a test",
+        "is_correct": false,
+        "feedback": "Studying longer is not an example of inflation or cost of living."
+      },
+      {
+        "id": "B",
+        "text": "A family notices that rent and groceries both cost more than they did last year",
+        "is_correct": true,
+        "feedback": "Correct. Rising prices for basic expenses are a clear example of inflation affecting the cost of living."
+      },
+      {
+        "id": "C",
+        "text": "A store sells one product at a discount for a weekend",
+        "is_correct": false,
+        "feedback": "A single temporary discount does not describe inflation."
+      },
+      {
+        "id": "D",
+        "text": "A company builds a new factory",
+        "is_correct": false,
+        "feedback": "Building a factory relates more to investment than to inflation."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q07",
+    "type": "multiple_choice",
+    "prompt": "Which phase of the business cycle is marked by declining economic activity?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Expansion",
+        "is_correct": false,
+        "feedback": "Expansion is a period of rising economic activity, not decline."
+      },
+      {
+        "id": "B",
+        "text": "Recovery",
+        "is_correct": false,
+        "feedback": "Recovery happens when the economy begins improving after a downturn."
+      },
+      {
+        "id": "C",
+        "text": "Recession",
+        "is_correct": true,
+        "feedback": "Correct. A recession is a period of declining economic activity."
+      },
+      {
+        "id": "D",
+        "text": "Peak",
+        "is_correct": false,
+        "feedback": "Peak is the high point before activity begins to slow."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-PRETEST-Q08",
+    "type": "multiple_choice",
+    "prompt": "If GDP is increasing and unemployment is falling, what does that most likely suggest about the economy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The economy is shrinking",
+        "is_correct": false,
+        "feedback": "Rising GDP and falling unemployment usually do not suggest a shrinking economy."
+      },
+      {
+        "id": "B",
+        "text": "The economy is showing signs of growth",
+        "is_correct": true,
+        "feedback": "Correct. Higher output and lower unemployment generally suggest economic growth."
+      },
+      {
+        "id": "C",
+        "text": "The economy has reached a trough",
+        "is_correct": false,
+        "feedback": "A trough is the low point of the cycle, which does not fit rising GDP and falling unemployment."
+      },
+      {
+        "id": "D",
+        "text": "Inflation has completely disappeared",
+        "is_correct": false,
+        "feedback": "GDP and unemployment do not show that inflation has disappeared."
+      }
+    ]
+  }
+]
 }
