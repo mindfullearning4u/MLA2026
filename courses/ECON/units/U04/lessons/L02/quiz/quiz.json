@@ -3,7 +3,7 @@
     "course_id":  "ECON",
     "unit_id":  "U04",
     "lesson_id":  "ECON-U04-L02",
-    "title":  "Lesson Quiz: Fiscal Policy",
+    "title":  "Lesson Quiz: Taxes and Revenue",
     "description":  "Assessment of the concept that Government spending and taxation.",
     "type":  "quiz",
     "counts_toward_grade":  true,
@@ -17,5 +17,136 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "ECON-U04-L02-Q01",
+    "type": "multiple_choice",
+    "prompt": "What is a tax?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Money collected by government from individuals or businesses to raise revenue",
+        "is_correct": true,
+        "feedback": "Correct. A tax is money collected by government to help fund services and operations."
+      },
+      {
+        "id": "B",
+        "text": "A payment made only between private businesses",
+        "is_correct": false,
+        "feedback": "Taxes are collected by government, not just exchanged between private businesses."
+      },
+      {
+        "id": "C",
+        "text": "A reward given to consumers after shopping",
+        "is_correct": false,
+        "feedback": "A tax is not a reward or rebate."
+      },
+      {
+        "id": "D",
+        "text": "A law that controls pollution from factories",
+        "is_correct": false,
+        "feedback": "That is a regulation, not a tax."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L02-Q02",
+    "type": "true_false",
+    "prompt": "Income tax is a tax on money earned by individuals or businesses.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Income tax is based on earnings."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Income tax is collected from earned income."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L02-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which example best shows a sales tax?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A homeowner pays a yearly charge based on the value of a house",
+        "is_correct": false,
+        "feedback": "That describes a property tax."
+      },
+      {
+        "id": "B",
+        "text": "Part of a worker's paycheck is withheld before take-home pay is received",
+        "is_correct": false,
+        "feedback": "That is more closely related to income tax."
+      },
+      {
+        "id": "C",
+        "text": "An added amount appears at checkout when a customer buys a backpack",
+        "is_correct": true,
+        "feedback": "Correct. Sales tax is added to many purchases of goods and services."
+      },
+      {
+        "id": "D",
+        "text": "A business pays a fee to advertise a product online",
+        "is_correct": false,
+        "feedback": "That is not the best example of a sales tax."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L02-Q04",
+    "type": "multiple_choice",
+    "prompt": "Why do governments collect taxes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To raise revenue for public services and government responsibilities",
+        "is_correct": true,
+        "feedback": "Correct. Governments collect taxes to fund services, programs, and operations."
+      },
+      {
+        "id": "B",
+        "text": "To make sure all products cost more every year",
+        "is_correct": false,
+        "feedback": "Taxes may affect prices, but that is not their main purpose."
+      },
+      {
+        "id": "C",
+        "text": "To prevent all households from spending money",
+        "is_correct": false,
+        "feedback": "Governments do not collect taxes to stop all spending."
+      },
+      {
+        "id": "D",
+        "text": "To remove the need for government services",
+        "is_correct": false,
+        "feedback": "Taxes help fund government services rather than remove the need for them."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-L02-Q05",
+    "type": "true_false",
+    "prompt": "Property tax is based on the value of property such as land or buildings.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Property tax is based on the value of property."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Property tax is tied to property value."
+      }
+    ]
+  }]
 }
