@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+  "questions": [
+    {
+      "question_id": "ECON-U01-L01-QUIZ-001",
+      "type": "multiple_choice",
+      "prompt": "Which statement best defines economics?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The study of how people use limited resources to meet needs and wants",
+          "is_correct": true,
+          "feedback": "Correct. Economics studies choices people make when resources are limited."
+        },
+        {
+          "id": "B",
+          "text": "The study of how people avoid making choices",
+          "is_correct": false,
+          "feedback": "Economics focuses on making choices, not avoiding them."
+        },
+        {
+          "id": "C",
+          "text": "The study of how only businesses earn profits",
+          "is_correct": false,
+          "feedback": "Economics includes businesses, but it also includes individuals, governments, scarcity, and decision-making."
+        },
+        {
+          "id": "D",
+          "text": "The study of how resources are always unlimited",
+          "is_correct": false,
+          "feedback": "Economics is based on the idea that resources are limited, not unlimited."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L01-QUIZ-002",
+      "type": "true_false",
+      "prompt": "Scarcity exists because people have limited wants.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "People often have many wants. Scarcity exists because resources are limited, not because wants are limited."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Scarcity exists because resources are limited while wants can be unlimited."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L01-QUIZ-003",
+      "type": "multiple_choice",
+      "prompt": "Which of the following is the best example of a need?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Concert tickets",
+          "is_correct": false,
+          "feedback": "Concert tickets are usually considered a want, not a need."
+        },
+        {
+          "id": "B",
+          "text": "Designer shoes",
+          "is_correct": false,
+          "feedback": "Designer shoes are generally a want because they are not required for basic survival."
+        },
+        {
+          "id": "C",
+          "text": "A gaming system",
+          "is_correct": false,
+          "feedback": "A gaming system is a want because it is optional."
+        },
+        {
+          "id": "D",
+          "text": "Basic food",
+          "is_correct": true,
+          "feedback": "Correct. Food is a basic need because it supports survival and well-being."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L01-QUIZ-004",
+      "type": "true_false",
+      "prompt": "Land, labor, capital, and entrepreneurship are the four productive resources.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. These are the four productive resources used in economics."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "These are the correct four productive resources: land, labor, capital, and entrepreneurship."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L01-QUIZ-005",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes resource allocation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The process of making all goods free for everyone",
+          "is_correct": false,
+          "feedback": "Resource allocation does not mean all goods are free."
+        },
+        {
+          "id": "B",
+          "text": "The way limited resources are distributed and used",
+          "is_correct": true,
+          "feedback": "Correct. Resource allocation is the process of distributing and using limited resources."
+        },
+        {
+          "id": "C",
+          "text": "The idea that wants always disappear over time",
+          "is_correct": false,
+          "feedback": "Resource allocation is about using limited resources, not about wants disappearing."
+        },
+        {
+          "id": "D",
+          "text": "The replacement of all human workers with machines",
+          "is_correct": false,
+          "feedback": "This is not the meaning of resource allocation."
+        }
+      ]
+    }
+  ]
 }
