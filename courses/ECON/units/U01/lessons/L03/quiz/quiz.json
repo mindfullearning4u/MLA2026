@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+  "questions": [
+    {
+      "question_id": "ECON-U01-L03-QUIZ-001",
+      "type": "multiple_choice",
+      "prompt": "What is an economic system?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A process used only to count profits and losses",
+          "is_correct": false,
+          "feedback": "An economic system is broader than profit and loss. It organizes production, distribution, and decision-making."
+        },
+        {
+          "id": "B",
+          "text": "A method a society uses to decide what to produce, how to produce it, and for whom to produce it",
+          "is_correct": true,
+          "feedback": "Correct. An economic system answers the major economic questions of production and distribution."
+        },
+        {
+          "id": "C",
+          "text": "A list of needs and wants for each family",
+          "is_correct": false,
+          "feedback": "Needs and wants are part of economics, but they do not define an economic system."
+        },
+        {
+          "id": "D",
+          "text": "A type of incentive used by businesses only",
+          "is_correct": false,
+          "feedback": "An economic system is not an incentive. It is the structure used to organize economic decisions."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L03-QUIZ-002",
+      "type": "true_false",
+      "prompt": "In a command economy, the government makes many major decisions about production and prices.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. In a command economy, the government directs major economic decisions."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This statement is true for a command economy."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L03-QUIZ-003",
+      "type": "multiple_choice",
+      "prompt": "Which example best represents a traditional economy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The government sets production targets for major industries",
+          "is_correct": false,
+          "feedback": "That example describes a command economy."
+        },
+        {
+          "id": "B",
+          "text": "People buy and sell goods mainly through private competition",
+          "is_correct": false,
+          "feedback": "That example describes a market economy."
+        },
+        {
+          "id": "C",
+          "text": "Families continue jobs and production methods passed down over generations",
+          "is_correct": true,
+          "feedback": "Correct. Traditional economies rely on customs and long-standing practices."
+        },
+        {
+          "id": "D",
+          "text": "The economy combines private business with government services and regulation",
+          "is_correct": false,
+          "feedback": "That example describes a mixed economy."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L03-QUIZ-004",
+      "type": "true_false",
+      "prompt": "Most real-world economies today are mixed economies.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Most modern economies combine market activity with some government involvement."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Most real-world economies are mixed rather than purely market, command, or traditional."
+        }
+      ]
+    },
+    {
+      "question_id": "ECON-U01-L03-QUIZ-005",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes a market economy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Customs and habits determine most production decisions",
+          "is_correct": false,
+          "feedback": "That describes a traditional economy."
+        },
+        {
+          "id": "B",
+          "text": "The government controls all production and distribution",
+          "is_correct": false,
+          "feedback": "That describes a command economy."
+        },
+        {
+          "id": "C",
+          "text": "Individuals and businesses make most economic decisions based on prices and demand",
+          "is_correct": true,
+          "feedback": "Correct. In a market economy, buyers and sellers make most economic decisions."
+        },
+        {
+          "id": "D",
+          "text": "Economic decisions are made only by workers in factories",
+          "is_correct": false,
+          "feedback": "A market economy involves many decision-makers, not only factory workers."
+        }
+      ]
+    }
+  ]
 }
