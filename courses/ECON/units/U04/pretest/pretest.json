@@ -15,5 +15,217 @@
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "ECON-U04-UNIT-FINAL",
 
- "questions": []
+ "questions": [
+  {
+    "question_id": "ECON-U04-PRETEST-Q01",
+    "type": "multiple_choice",
+    "prompt": "Why might government intervene in the economy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To provide public goods and respond when markets do not solve a problem well",
+        "is_correct": true,
+        "feedback": "Correct. Governments may intervene to provide public goods and address market failures."
+      },
+      {
+        "id": "B",
+        "text": "To make every product free for consumers",
+        "is_correct": false,
+        "feedback": "Government intervention does not mean making all goods free."
+      },
+      {
+        "id": "C",
+        "text": "To eliminate all business activity",
+        "is_correct": false,
+        "feedback": "Government usually sets rules or provides services, not eliminate all business activity."
+      },
+      {
+        "id": "D",
+        "text": "To remove every choice from consumers",
+        "is_correct": false,
+        "feedback": "Government intervention does not mean removing all consumer choice."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q02",
+    "type": "true_false",
+    "prompt": "A public good is something many people can use at the same time, such as streetlights.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Public goods are available for shared use and are often provided by government."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Streetlights are a common example of a public good."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which type of tax is added when a person buys many goods or services?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Income tax",
+        "is_correct": false,
+        "feedback": "Income tax is collected from money earned, not directly from purchases."
+      },
+      {
+        "id": "B",
+        "text": "Property tax",
+        "is_correct": false,
+        "feedback": "Property tax is based on the value of property."
+      },
+      {
+        "id": "C",
+        "text": "Sales tax",
+        "is_correct": true,
+        "feedback": "Correct. Sales tax is added to many purchases of goods and services."
+      },
+      {
+        "id": "D",
+        "text": "Payroll tax",
+        "is_correct": false,
+        "feedback": "That is not the best answer for a tax added to retail purchases."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is the main purpose of taxes in this unit?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To raise revenue for government services and responsibilities",
+        "is_correct": true,
+        "feedback": "Correct. Taxes help governments raise revenue to fund public goods, services, and operations."
+      },
+      {
+        "id": "B",
+        "text": "To guarantee that all businesses earn profits",
+        "is_correct": false,
+        "feedback": "Taxes are not designed to guarantee profits."
+      },
+      {
+        "id": "C",
+        "text": "To stop consumers from buying goods",
+        "is_correct": false,
+        "feedback": "Taxes may affect decisions, but their main purpose is revenue."
+      },
+      {
+        "id": "D",
+        "text": "To replace all other forms of government funding permanently",
+        "is_correct": false,
+        "feedback": "This is too broad and does not describe the basic purpose taught in the unit."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q05",
+    "type": "true_false",
+    "prompt": "Expansionary fiscal policy may include increased government spending or lower taxes.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Expansionary fiscal policy is used to encourage economic activity."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Expansionary policy often uses higher spending or lower taxes."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q06",
+    "type": "multiple_choice",
+    "prompt": "Which action best represents contractionary fiscal policy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Increasing spending and cutting taxes",
+        "is_correct": false,
+        "feedback": "That is closer to expansionary fiscal policy."
+      },
+      {
+        "id": "B",
+        "text": "Reducing spending or raising taxes to slow economic activity",
+        "is_correct": true,
+        "feedback": "Correct. Contractionary fiscal policy is used to slow overall economic activity."
+      },
+      {
+        "id": "C",
+        "text": "Providing a public park for community use",
+        "is_correct": false,
+        "feedback": "That example is more about public goods than fiscal policy strategy."
+      },
+      {
+        "id": "D",
+        "text": "Requiring labels on food products",
+        "is_correct": false,
+        "feedback": "That is a regulation example, not contractionary fiscal policy."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q07",
+    "type": "multiple_choice",
+    "prompt": "Why do governments use regulations in the economy?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "To protect consumers, workers, or the environment and guide business behavior",
+        "is_correct": true,
+        "feedback": "Correct. Regulations are used to protect the public and shape how markets operate."
+      },
+      {
+        "id": "B",
+        "text": "To remove all competition from the market",
+        "is_correct": false,
+        "feedback": "Regulation does not mean removing all competition."
+      },
+      {
+        "id": "C",
+        "text": "To prevent all businesses from making decisions",
+        "is_correct": false,
+        "feedback": "Businesses still make decisions within regulated markets."
+      },
+      {
+        "id": "D",
+        "text": "To ensure that every product costs the same amount",
+        "is_correct": false,
+        "feedback": "Regulations are not mainly about making all prices identical."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U04-PRETEST-Q08",
+    "type": "true_false",
+    "prompt": "Regulation can create public benefits, but it can also create economic tradeoffs.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Regulation often involves benefits for the public and costs or tradeoffs for businesses or markets."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Regulations often involve both benefits and tradeoffs."
+      }
+    ]
+  }]
 }
