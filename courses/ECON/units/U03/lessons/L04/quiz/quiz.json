@@ -17,5 +17,136 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "ECON-U03-L04-Q01",
+    "type": "multiple_choice",
+    "prompt": "What does economic growth mean?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A long-term increase in the economy's output of goods and services",
+        "is_correct": true,
+        "feedback": "Correct. Economic growth refers to producing more goods and services over time."
+      },
+      {
+        "id": "B",
+        "text": "A short-term drop in business activity",
+        "is_correct": false,
+        "feedback": "That describes economic decline, not growth."
+      },
+      {
+        "id": "C",
+        "text": "A system that measures only consumer prices",
+        "is_correct": false,
+        "feedback": "That does not define economic growth."
+      },
+      {
+        "id": "D",
+        "text": "A rule that keeps all businesses the same size",
+        "is_correct": false,
+        "feedback": "Economic growth is not about keeping businesses the same size."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-L04-Q02",
+    "type": "true_false",
+    "prompt": "An expansion is a phase of the business cycle when economic activity is increasing.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Expansion is the phase when production and economic activity rise."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Expansion means the economy is growing."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-L04-Q03",
+    "type": "multiple_choice",
+    "prompt": "Which business cycle phase is the highest point before the economy begins to slow down?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Recovery",
+        "is_correct": false,
+        "feedback": "Recovery happens after the lowest point, not before a slowdown."
+      },
+      {
+        "id": "B",
+        "text": "Trough",
+        "is_correct": false,
+        "feedback": "The trough is the lowest point of the cycle."
+      },
+      {
+        "id": "C",
+        "text": "Peak",
+        "is_correct": true,
+        "feedback": "Correct. The peak is the highest point before economic activity begins to decline."
+      },
+      {
+        "id": "D",
+        "text": "Recession",
+        "is_correct": false,
+        "feedback": "A recession is the phase of declining economic activity."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-L04-Q04",
+    "type": "multiple_choice",
+    "prompt": "What is a recession?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A phase when economic activity declines",
+        "is_correct": true,
+        "feedback": "Correct. A recession is a period when overall economic activity falls."
+      },
+      {
+        "id": "B",
+        "text": "The point when the economy reaches its highest level",
+        "is_correct": false,
+        "feedback": "That describes the peak, not a recession."
+      },
+      {
+        "id": "C",
+        "text": "A period when the economy begins growing again after a low point",
+        "is_correct": false,
+        "feedback": "That describes recovery."
+      },
+      {
+        "id": "D",
+        "text": "A time when prices stop changing completely",
+        "is_correct": false,
+        "feedback": "Recession is about declining economic activity, not prices stopping."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U03-L04-Q05",
+    "type": "true_false",
+    "prompt": "The trough is the lowest point in the business cycle before recovery begins.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. The trough is the lowest point before the economy starts to recover."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. Recovery begins after the trough."
+      }
+    ]
+  }]
 }
