@@ -4,7 +4,7 @@
     "unit_id":  "U05",
     "lesson_id":  "ECON-U05-L04",
     "title":  "Lesson Quiz: Consumer Decision-Making",
-    "description":  "Assessment of the concept that Spending choices and financial responsibility.",
+    "description":  "Assessment of the concept that Evaluating purchases and financial risk.",
     "type":  "quiz",
     "counts_toward_grade":  true,
     "graded_category":  "quiz",
@@ -17,5 +17,136 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+  {
+    "question_id": "ECON-U05-L04-Q01",
+    "type": "multiple_choice",
+    "prompt": "What does consumer decision-making mean?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Choosing what to buy by comparing costs, benefits, and risks",
+        "is_correct": true,
+        "feedback": "Correct. Consumer decision-making involves comparing options before making a purchase."
+      },
+      {
+        "id": "B",
+        "text": "Borrowing money without considering the cost",
+        "is_correct": false,
+        "feedback": "That is not a strong decision-making process."
+      },
+      {
+        "id": "C",
+        "text": "Saving every dollar and never buying anything",
+        "is_correct": false,
+        "feedback": "Consumer decision-making is about evaluating purchases, not avoiding all purchases."
+      },
+      {
+        "id": "D",
+        "text": "Paying taxes on all purchases each month",
+        "is_correct": false,
+        "feedback": "That does not define consumer decision-making."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-L04-Q02",
+    "type": "true_false",
+    "prompt": "Financial risk is the possibility that a financial choice could lead to loss or an unwanted outcome.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": true,
+        "feedback": "Correct. Financial risk means a choice could lead to wasted money or another negative result."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": false,
+        "feedback": "This is incorrect. That is the meaning of financial risk in this lesson."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-L04-Q03",
+    "type": "multiple_choice",
+    "prompt": "Why is comparing price, quality, and usefulness important before buying something?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It helps a person make a choice that fits needs and budget",
+        "is_correct": true,
+        "feedback": "Correct. Comparing options helps consumers choose the purchase that best fits their situation."
+      },
+      {
+        "id": "B",
+        "text": "It guarantees that every purchase will be risk-free",
+        "is_correct": false,
+        "feedback": "Careful comparison reduces risk, but it does not guarantee a perfect outcome."
+      },
+      {
+        "id": "C",
+        "text": "It makes quality less important than impulse",
+        "is_correct": false,
+        "feedback": "A good decision considers quality rather than ignoring it."
+      },
+      {
+        "id": "D",
+        "text": "It removes the need to think about long-term value",
+        "is_correct": false,
+        "feedback": "Long-term value is one of the things consumers should consider."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-L04-Q04",
+    "type": "multiple_choice",
+    "prompt": "Which situation best shows financial risk in a consumer choice?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Buying a cheap product that may break quickly and need replacement",
+        "is_correct": true,
+        "feedback": "Correct. A low price can create financial risk if the product does not last."
+      },
+      {
+        "id": "B",
+        "text": "Comparing two products before choosing one",
+        "is_correct": false,
+        "feedback": "That is part of responsible decision-making, not the best example of risk by itself."
+      },
+      {
+        "id": "C",
+        "text": "Recording expenses in a budget notebook",
+        "is_correct": false,
+        "feedback": "That is a budgeting activity, not a direct example of consumer risk."
+      },
+      {
+        "id": "D",
+        "text": "Saving money for a future goal",
+        "is_correct": false,
+        "feedback": "That is not the best example of risk in a purchase decision."
+      }
+    ]
+  },
+  {
+    "question_id": "ECON-U05-L04-Q05",
+    "type": "true_false",
+    "prompt": "The lowest price is always the best value for a consumer.",
+    "choices": [
+      {
+        "id": "A",
+        "text": "True",
+        "is_correct": false,
+        "feedback": "The lowest price is not always the best value if the product is poor quality or creates higher long-term cost."
+      },
+      {
+        "id": "B",
+        "text": "False",
+        "is_correct": true,
+        "feedback": "Correct. Best value depends on price, quality, usefulness, and long-term cost, not price alone."
+      }
+    ]
+  }]
 }
