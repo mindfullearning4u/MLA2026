@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+      {
+        "question_id": "ECON-U02-L01-Q01",
+        "type": "multiple_choice",
+        "prompt": "What does the law of demand state?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "As price increases, quantity demanded decreases",
+            "is_correct": true,
+            "feedback": "Correct. The law of demand states that higher prices usually lead to lower quantity demanded."
+          },
+          {
+            "id": "B",
+            "text": "As price increases, quantity demanded increases",
+            "is_correct": false,
+            "feedback": "This is incorrect. Demand and price usually move in opposite directions."
+          },
+          {
+            "id": "C",
+            "text": "As price decreases, supply increases",
+            "is_correct": false,
+            "feedback": "This answer refers to supply, not demand."
+          },
+          {
+            "id": "D",
+            "text": "Demand never changes when price changes",
+            "is_correct": false,
+            "feedback": "This is incorrect. Price changes affect quantity demanded."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L01-Q02",
+        "type": "true_false",
+        "prompt": "A movement along the demand curve is caused by a change in the price of the product itself.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. A change in the product's own price causes movement along the demand curve."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This is incorrect. A price change causes movement along the demand curve, not a shift."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L01-Q03",
+        "type": "multiple_choice",
+        "prompt": "Which of the following would most likely shift demand rather than cause movement along the demand curve?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A change in the price of the good itself",
+            "is_correct": false,
+            "feedback": "A change in the price of the good itself causes movement along the demand curve."
+          },
+          {
+            "id": "B",
+            "text": "An increase in consumer income",
+            "is_correct": true,
+            "feedback": "Correct. Income is a determinant of demand and can shift the entire demand curve."
+          },
+          {
+            "id": "C",
+            "text": "A lower price for the same product",
+            "is_correct": false,
+            "feedback": "A lower price changes quantity demanded, not demand itself."
+          },
+          {
+            "id": "D",
+            "text": "A higher price for the same product",
+            "is_correct": false,
+            "feedback": "A higher price changes quantity demanded, not demand itself."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L01-Q04",
+        "type": "multiple_choice",
+        "prompt": "What is a substitute good?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A product that must be used together with another product",
+            "is_correct": false,
+            "feedback": "That describes a complement, not a substitute."
+          },
+          {
+            "id": "B",
+            "text": "A product that consumers buy only when income falls",
+            "is_correct": false,
+            "feedback": "This does not define a substitute good."
+          },
+          {
+            "id": "C",
+            "text": "A product that can be used in place of another product",
+            "is_correct": true,
+            "feedback": "Correct. A substitute is an alternative product consumers can choose instead."
+          },
+          {
+            "id": "D",
+            "text": "A product produced by the same company",
+            "is_correct": false,
+            "feedback": "Products do not have to come from the same company to be substitutes."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U02-L01-Q05",
+        "type": "true_false",
+        "prompt": "A change in consumer preferences can shift the demand curve.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. Preferences are a determinant of demand and can shift the curve."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This is incorrect. Preferences do affect demand and can shift the demand curve."
+          }
+        ]
+      }
+    ]
 }
