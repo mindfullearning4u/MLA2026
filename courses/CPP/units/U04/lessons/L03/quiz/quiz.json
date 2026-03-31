@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U04-L03-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U04",
-    "lesson_id":  "CPP-U04-L03",
-    "title":  "Lesson Quiz: Writing a Resume",
-    "description":  "Assessment of the concept that Drafting and organizing a resume.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U04-L03-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U04",
+  "lesson_id": "CPP-U04-L03",
+  "title": "Lesson Quiz: Writing a Resume",
+  "description": "Assessment of the concept that Drafting and organizing a resume.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U04-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is a resume draft?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "An early version of a resume that can be improved",
+          "is_correct": true,
+          "feedback": "Correct. A draft is an early version that can be reviewed and revised."
+        },
+        {
+          "id": "B",
+          "text": "A final legal contract",
+          "is_correct": false,
+          "feedback": "A resume draft is not a legal contract."
+        },
+        {
+          "id": "C",
+          "text": "A casual message about a job",
+          "is_correct": false,
+          "feedback": "A resume draft is a structured professional document."
+        },
+        {
+          "id": "D",
+          "text": "A list of random personal opinions",
+          "is_correct": false,
+          "feedback": "A resume draft should contain relevant professional information, not random opinions."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L03-Q02",
+      "type": "true_false",
+      "prompt": "Relevant details are important when writing a resume.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Relevant details matter because a resume should focus on information that supports its purpose."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A resume should focus on relevant details."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which detail would be most appropriate to include in a student resume draft?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Favorite television shows",
+          "is_correct": false,
+          "feedback": "Favorite shows are not usually relevant resume content."
+        },
+        {
+          "id": "B",
+          "text": "Relevant skills and school activities",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer here is the one that more clearly emphasizes information supporting the resume purpose."
+        },
+        {
+          "id": "C",
+          "text": "Relevant skills, school information, and useful activities or experience",
+          "is_correct": true,
+          "feedback": "Correct. These are the kinds of details that belong in a student resume draft."
+        },
+        {
+          "id": "D",
+          "text": "Unrelated opinions about classmates",
+          "is_correct": false,
+          "feedback": "Unrelated opinions do not belong in a resume."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why should a student revise a resume draft?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To make the resume less organized",
+          "is_correct": false,
+          "feedback": "Revision should improve organization, not weaken it."
+        },
+        {
+          "id": "B",
+          "text": "To remove all skills and experience",
+          "is_correct": false,
+          "feedback": "Revision should strengthen relevant content, not remove useful information."
+        },
+        {
+          "id": "C",
+          "text": "To improve clarity, organization, and relevance before using the document",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that most directly emphasizes improving the draft before submission or use."
+        },
+        {
+          "id": "D",
+          "text": "To improve the draft so the information is clearer and more professional",
+          "is_correct": true,
+          "feedback": "Correct. Revision helps make a resume clearer, more relevant, and more professional."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L03-Q05",
+      "type": "true_false",
+      "prompt": "A resume should include information that supports its purpose.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Resume content should support the purpose of the document."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Resumes should focus on relevant information that supports the goal of the document."
+        }
+      ]
+    }
+  ]
 }

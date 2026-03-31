@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U04-L02-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U04",
-    "lesson_id":  "CPP-U04-L02",
-    "title":  "Lesson Quiz: Resume Structure and Content",
-    "description":  "Assessment of the concept that Sections, formatting, and key elements.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U04-L02-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U04",
+  "lesson_id": "CPP-U04-L02",
+  "title": "Lesson Quiz: Resume Structure and Content",
+  "description": "Assessment of the concept that Sections, formatting, and key elements.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U04-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is a resume section?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A category such as education, skills, or experience",
+          "is_correct": true,
+          "feedback": "Correct. Resume sections organize information into clear categories."
+        },
+        {
+          "id": "B",
+          "text": "A casual note written to a friend",
+          "is_correct": false,
+          "feedback": "A resume section is part of a professional document, not a casual note."
+        },
+        {
+          "id": "C",
+          "text": "A random detail placed anywhere on the page",
+          "is_correct": false,
+          "feedback": "Resume sections should be organized, not random."
+        },
+        {
+          "id": "D",
+          "text": "A school subject taken during one semester",
+          "is_correct": false,
+          "feedback": "A school subject is not the same as a resume section."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L02-Q02",
+      "type": "true_false",
+      "prompt": "Clear formatting can make a resume easier to read.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Clear formatting helps readers understand a resume more easily."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Clear formatting makes a resume easier to read and understand."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which group shows common parts of a student resume?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Lunch schedule, favorite music, and jokes",
+          "is_correct": false,
+          "feedback": "Those details do not belong in a resume."
+        },
+        {
+          "id": "B",
+          "text": "Education, skills, and activities or experience",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that more clearly emphasizes organized resume categories."
+        },
+        {
+          "id": "C",
+          "text": "Education, skills, and relevant experience or activities",
+          "is_correct": true,
+          "feedback": "Correct. These are common parts of a student resume."
+        },
+        {
+          "id": "D",
+          "text": "Text messages and social media comments",
+          "is_correct": false,
+          "feedback": "Those are not appropriate resume sections."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is organization important on a resume?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it makes important information easier to find",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that directly emphasizes clear readability and professional presentation."
+        },
+        {
+          "id": "B",
+          "text": "Because it removes the need for relevant information",
+          "is_correct": false,
+          "feedback": "Organization helps presentation, but relevant information is still necessary."
+        },
+        {
+          "id": "C",
+          "text": "Because it helps a resume look clear and professional",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set is the one that combines readability with professional presentation."
+        },
+        {
+          "id": "D",
+          "text": "Because organized structure helps readers quickly understand the most important details",
+          "is_correct": true,
+          "feedback": "Correct. Organization helps readers quickly find and understand important information."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L02-Q05",
+      "type": "true_false",
+      "prompt": "A strong resume should be easy to read and clearly organized.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A strong resume should be clearly organized and easy to read."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Clear organization is an important part of a strong resume."
+        }
+      ]
+    }
+  ]
 }

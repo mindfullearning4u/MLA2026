@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U04-L01-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U04",
-    "lesson_id":  "CPP-U04-L01",
-    "title":  "Lesson Quiz: Professional Communication Skills",
-    "description":  "Assessment of the concept that Formal communication, tone, and clarity.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U04-L01-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U04",
+  "lesson_id": "CPP-U04-L01",
+  "title": "Lesson Quiz: Professional Communication Skills",
+  "description": "Assessment of the concept that Formal communication, tone, and clarity.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U04-L01-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is professional communication?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Communication that is clear, respectful, and appropriate for formal settings",
+          "is_correct": true,
+          "feedback": "Correct. Professional communication should be clear, respectful, and appropriate for the setting."
+        },
+        {
+          "id": "B",
+          "text": "Communication that ignores the audience",
+          "is_correct": false,
+          "feedback": "Professional communication should consider the audience and purpose."
+        },
+        {
+          "id": "C",
+          "text": "Communication that uses only slang",
+          "is_correct": false,
+          "feedback": "Professional communication should avoid slang and overly casual language."
+        },
+        {
+          "id": "D",
+          "text": "Communication meant only for close friends",
+          "is_correct": false,
+          "feedback": "Professional communication is used in formal school or workplace situations."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L01-Q02",
+      "type": "true_false",
+      "prompt": "A formal tone is usually more appropriate than slang in a professional email.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Professional emails should usually use formal, respectful language instead of slang."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A formal tone is more appropriate in professional communication."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L01-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which message opening sounds most professional?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "hey i need help asap",
+          "is_correct": false,
+          "feedback": "This opening is too casual for a professional setting."
+        },
+        {
+          "id": "B",
+          "text": "yo can you fix this for me",
+          "is_correct": false,
+          "feedback": "This opening is too informal and not respectful enough for professional communication."
+        },
+        {
+          "id": "C",
+          "text": "Hello, I am writing to ask for help with my project",
+          "is_correct": true,
+          "feedback": "Correct. This opening is respectful, clear, and professional."
+        },
+        {
+          "id": "D",
+          "text": "what do i do now",
+          "is_correct": false,
+          "feedback": "This opening is unclear and too informal."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L01-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why does clarity matter in professional communication?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it allows a message to stay vague",
+          "is_correct": false,
+          "feedback": "Professional communication should be clear, not vague."
+        },
+        {
+          "id": "B",
+          "text": "Because it removes the need for respectful tone",
+          "is_correct": false,
+          "feedback": "Clarity and respectful tone both matter."
+        },
+        {
+          "id": "C",
+          "text": "Because the reader can understand the message more easily",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that directly connects clarity to understanding and purpose."
+        },
+        {
+          "id": "D",
+          "text": "Because clear messages help the audience understand the purpose and request",
+          "is_correct": true,
+          "feedback": "Correct. Clarity helps the audience understand what the message means and what is needed."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-L01-Q05",
+      "type": "true_false",
+      "prompt": "Professional communication should be respectful even when the message is brief.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Professional communication should stay respectful even in short messages."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Respectful language is important even in a brief message."
+        }
+      ]
+    }
+  ]
 }
