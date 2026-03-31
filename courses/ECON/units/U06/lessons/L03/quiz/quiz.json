@@ -17,5 +17,137 @@
     "randomize_questions":  true,
     "show_feedback":  true,
 
-    "questions": []
+    "questions": [
+      {
+        "question_id": "ECON-U06-L03-Q01",
+        "type": "multiple_choice",
+        "prompt": "What is globalization?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "The growing connection of countries through trade and economic activity",
+            "is_correct": true,
+            "feedback": "Correct. Globalization refers to increasing international economic connection."
+          },
+          {
+            "id": "B",
+            "text": "A system in which government controls all production",
+            "is_correct": false,
+            "feedback": "That describes a command economy, not globalization."
+          },
+          {
+            "id": "C",
+            "text": "The decision to stop all imports",
+            "is_correct": false,
+            "feedback": "Globalization increases connection rather than ending international exchange."
+          },
+          {
+            "id": "D",
+            "text": "A local market that serves one town only",
+            "is_correct": false,
+            "feedback": "This does not describe global economic connection."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L03-Q02",
+        "type": "true_false",
+        "prompt": "Interdependence means countries can rely on one another for goods, services, or production.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. Interdependence means countries are economically connected and rely on one another."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This statement is true because interdependence means countries rely on one another."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L03-Q03",
+        "type": "multiple_choice",
+        "prompt": "Which example best shows a global market?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A business sells only to people in one neighborhood",
+            "is_correct": false,
+            "feedback": "A global market involves economic exchange across countries."
+          },
+          {
+            "id": "B",
+            "text": "A company buys materials from several countries and sells products worldwide",
+            "is_correct": true,
+            "feedback": "Correct. This shows production and exchange taking place across countries."
+          },
+          {
+            "id": "C",
+            "text": "A family shops at one local store",
+            "is_correct": false,
+            "feedback": "This does not show international economic connection."
+          },
+          {
+            "id": "D",
+            "text": "A school cafeteria chooses next week's menu",
+            "is_correct": false,
+            "feedback": "This is not an example of a global market."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L03-Q04",
+        "type": "multiple_choice",
+        "prompt": "Why can a disruption in one country affect other countries in a global market?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Because countries are often economically interdependent",
+            "is_correct": true,
+            "feedback": "Correct. Interdependence means countries and businesses can be affected by changes in other places."
+          },
+          {
+            "id": "B",
+            "text": "Because trade only happens inside one country",
+            "is_correct": false,
+            "feedback": "Trade in global markets happens across countries, not only inside one country."
+          },
+          {
+            "id": "C",
+            "text": "Because globalization prevents all shortages and delays",
+            "is_correct": false,
+            "feedback": "Globalization does not prevent disruptions. It can spread their effects."
+          },
+          {
+            "id": "D",
+            "text": "Because countries never depend on foreign production",
+            "is_correct": false,
+            "feedback": "Countries often do depend on foreign production and trade."
+          }
+        ]
+      },
+      {
+        "question_id": "ECON-U06-L03-Q05",
+        "type": "true_false",
+        "prompt": "Global markets connect buyers and sellers across countries.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "True",
+            "is_correct": true,
+            "feedback": "Correct. Global markets link economic activity across national borders."
+          },
+          {
+            "id": "B",
+            "text": "False",
+            "is_correct": false,
+            "feedback": "This statement is true because global markets connect countries through trade and exchange."
+          }
+        ]
+      }
+    ]
 }
