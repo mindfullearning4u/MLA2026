@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U02-L04-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U02",
-    "lesson_id":  "CPP-U02-L04",
-    "title":  "Lesson Quiz: Evaluating Career Choices",
-    "description":  "Assessment of the concept that Comparing options and making informed decisions.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U02-L04-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U02",
+  "lesson_id": "CPP-U02-L04",
+  "title": "Lesson Quiz: Evaluating Career Choices",
+  "description": "Assessment of the concept that Comparing options and making informed decisions.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U02-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does it mean to evaluate career choices?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To compare career options carefully using evidence",
+          "is_correct": true,
+          "feedback": "Correct. Evaluating career choices means comparing options carefully and using evidence to support decisions."
+        },
+        {
+          "id": "B",
+          "text": "To choose the first option that sounds interesting",
+          "is_correct": false,
+          "feedback": "Evaluating choices involves comparison, not a quick first impression."
+        },
+        {
+          "id": "C",
+          "text": "To ignore all research once a career seems appealing",
+          "is_correct": false,
+          "feedback": "Research should still be used when evaluating a career option."
+        },
+        {
+          "id": "D",
+          "text": "To copy another person's decision",
+          "is_correct": false,
+          "feedback": "Evaluating career choices should be based on the student's own comparison and evidence."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L04-Q02",
+      "type": "true_false",
+      "prompt": "An informed career decision should be supported by facts and comparison.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Informed decisions should be based on evidence and comparison."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Informed decisions are stronger when students compare options and use facts."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which factor belongs in evaluating two career options?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Comparing requirements, duties, and personal fit",
+          "is_correct": false,
+          "feedback": "This idea is correct, but the best answer in this set is the one that more directly highlights use of multiple evidence categories."
+        },
+        {
+          "id": "B",
+          "text": "Using only one career website and no other information",
+          "is_correct": false,
+          "feedback": "Evaluating choices should include more than one kind of information."
+        },
+        {
+          "id": "C",
+          "text": "Looking at more than one piece of evidence before deciding",
+          "is_correct": true,
+          "feedback": "Correct. Career evaluation should include multiple pieces of evidence."
+        },
+        {
+          "id": "D",
+          "text": "Avoiding comparison so the decision feels easier",
+          "is_correct": false,
+          "feedback": "Comparison is an important part of evaluation."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is comparing more than one career option useful?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It helps students make more thoughtful decisions using evidence",
+          "is_correct": false,
+          "feedback": "This idea is correct, but the strongest answer in this set is the one that more directly explains how comparison supports decision quality."
+        },
+        {
+          "id": "B",
+          "text": "It guarantees the perfect career choice every time",
+          "is_correct": false,
+          "feedback": "Comparison helps, but it does not guarantee perfection."
+        },
+        {
+          "id": "C",
+          "text": "It removes the need for self-reflection",
+          "is_correct": false,
+          "feedback": "Self-reflection still matters when comparing careers."
+        },
+        {
+          "id": "D",
+          "text": "It helps students judge strengths and limits of options before choosing",
+          "is_correct": true,
+          "feedback": "Correct. Comparing more than one option helps students understand differences before deciding."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L04-Q05",
+      "type": "true_false",
+      "prompt": "Evaluating career choices can include both research evidence and personal reflection.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Good career evaluation includes both research evidence and personal reflection."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Research and personal reflection both matter in evaluating career choices."
+        }
+      ]
+    }
+  ]
 }

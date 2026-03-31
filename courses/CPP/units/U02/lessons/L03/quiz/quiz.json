@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U02-L03-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U02",
-    "lesson_id":  "CPP-U02-L03",
-    "title":  "Lesson Quiz: Job Outlook and Salary Analysis",
-    "description":  "Assessment of the concept that Demand, growth trends, and earning potential.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U02-L03-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U02",
+  "lesson_id": "CPP-U02-L03",
+  "title": "Lesson Quiz: Job Outlook and Salary Analysis",
+  "description": "Assessment of the concept that Demand, growth trends, and earning potential.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U02-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does job outlook information describe?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Whether a career is expected to grow, stay stable, or decline",
+          "is_correct": true,
+          "feedback": "Correct. Job outlook information helps students understand future growth or change in a career field."
+        },
+        {
+          "id": "B",
+          "text": "A student's favorite school subjects",
+          "is_correct": false,
+          "feedback": "Favorite subjects may connect to career interests, but they are not outlook information."
+        },
+        {
+          "id": "C",
+          "text": "A list of personal strengths",
+          "is_correct": false,
+          "feedback": "Personal strengths are different from job outlook data."
+        },
+        {
+          "id": "D",
+          "text": "A job's dress code policy",
+          "is_correct": false,
+          "feedback": "A dress code is not part of job outlook information."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L03-Q02",
+      "type": "true_false",
+      "prompt": "Salary information can help students compare career options.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Salary information is useful because it helps students compare career options."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Salary information is one factor students can use when comparing careers."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "What does demand mean in career research?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "How much employers need workers in a career field",
+          "is_correct": false,
+          "feedback": "This idea is correct, but the strongest answer in this set is the one that more clearly states the need for workers."
+        },
+        {
+          "id": "B",
+          "text": "How many assignments students complete in one week",
+          "is_correct": false,
+          "feedback": "Demand in this lesson refers to careers, not school assignments."
+        },
+        {
+          "id": "C",
+          "text": "The level of need for workers in a career area",
+          "is_correct": true,
+          "feedback": "Correct. Demand refers to how strongly workers are needed in a field."
+        },
+        {
+          "id": "D",
+          "text": "A worker's daily job schedule",
+          "is_correct": false,
+          "feedback": "A daily schedule is not the same as demand."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why should students use outlook and salary data when exploring careers?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because career data should replace personal interests completely",
+          "is_correct": false,
+          "feedback": "Career data is important, but it should not replace personal interests and goals."
+        },
+        {
+          "id": "B",
+          "text": "Because the data helps students compare careers using real information",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that directly emphasizes informed comparison."
+        },
+        {
+          "id": "C",
+          "text": "Because data should be ignored once a career sounds interesting",
+          "is_correct": false,
+          "feedback": "Students should keep using evidence even when a career sounds interesting."
+        },
+        {
+          "id": "D",
+          "text": "Because the data helps students make more informed comparisons between options",
+          "is_correct": true,
+          "feedback": "Correct. Outlook and salary data give students evidence they can use to compare career options."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L03-Q05",
+      "type": "true_false",
+      "prompt": "Job outlook and salary information should be the only factors used in choosing a career.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "This is incorrect. Job outlook and salary matter, but students should also consider personal fit and pathway requirements."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Career choices should include more than outlook and salary alone."
+        }
+      ]
+    }
+  ]
 }
