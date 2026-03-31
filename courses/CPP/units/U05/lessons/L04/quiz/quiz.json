@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U05-L04-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U05",
-    "lesson_id":  "CPP-U05-L04",
-    "title":  "Lesson Quiz: Digital vs Physical Portfolios",
-    "description":  "Assessment of the concept that Tools and formats.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U05-L04-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U05",
+  "lesson_id": "CPP-U05-L04",
+  "title": "Lesson Quiz: Digital vs Physical Portfolios",
+  "description": "Assessment of the concept that Tools and formats.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U05-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is one advantage of a digital portfolio?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It cannot include links or images",
+          "is_correct": false,
+          "feedback": "Digital portfolios can often include links, images, and other media."
+        },
+        {
+          "id": "B",
+          "text": "It removes the need to organize content",
+          "is_correct": false,
+          "feedback": "Digital portfolios still need strong organization and clear categories."
+        },
+        {
+          "id": "C",
+          "text": "It is always the best format in every situation",
+          "is_correct": false,
+          "feedback": "The best format depends on the audience, purpose, and situation."
+        },
+        {
+          "id": "D",
+          "text": "It can be easier to update and share",
+          "is_correct": true,
+          "feedback": "Correct. Digital portfolios are often easier to revise and share with others."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L04-Q02",
+      "type": "multiple_choice",
+      "prompt": "Which is a possible advantage of a physical portfolio?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It cannot be reviewed in person",
+          "is_correct": false,
+          "feedback": "A physical portfolio can be useful during in-person review."
+        },
+        {
+          "id": "B",
+          "text": "It can provide printed materials that are easy to handle directly",
+          "is_correct": true,
+          "feedback": "Correct. Physical portfolios can be useful when a reviewer wants to see printed samples in person."
+        },
+        {
+          "id": "C",
+          "text": "It never needs organization",
+          "is_correct": false,
+          "feedback": "Physical portfolios still need a clear structure."
+        },
+        {
+          "id": "D",
+          "text": "It automatically includes multimedia features",
+          "is_correct": false,
+          "feedback": "Multimedia features are more commonly associated with digital formats."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L04-Q03",
+      "type": "true_false",
+      "prompt": "The best portfolio format depends on the student's purpose and audience.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Students should choose the format that fits the situation, purpose, and audience."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Format choice should be guided by purpose and audience, not by a one-size-fits-all rule."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student wants to email a portfolio link quickly to several reviewers. Which format is likely the better choice?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A large binder that cannot be copied",
+          "is_correct": false,
+          "feedback": "A physical binder may be harder to share quickly with multiple people."
+        },
+        {
+          "id": "B",
+          "text": "A digital portfolio that can be shared online",
+          "is_correct": false,
+          "feedback": "This is a strong choice, but the correct answer in this set is the more specific statement about quick sharing with multiple reviewers."
+        },
+        {
+          "id": "C",
+          "text": "A digital portfolio that can be updated and sent by link",
+          "is_correct": true,
+          "feedback": "Correct. A digital format is usually better for quick sharing and updates."
+        },
+        {
+          "id": "D",
+          "text": "A stack of loose papers with no labels",
+          "is_correct": false,
+          "feedback": "Loose papers are hard to share and review effectively."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L04-Q05",
+      "type": "true_false",
+      "prompt": "Both digital and physical portfolios can be effective when they are organized well and used for the right purpose.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Either format can work well if it matches the purpose and is organized clearly."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Both digital and physical formats can be effective depending on the situation."
+        }
+      ]
+    }
+  ]
 }

@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U05-L02-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U05",
-    "lesson_id":  "CPP-U05-L02",
-    "title":  "Lesson Quiz: Selecting Portfolio Artifacts",
-    "description":  "Assessment of the concept that Choosing evidence of skills and achievements.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U05-L02-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U05",
+  "lesson_id": "CPP-U05-L02",
+  "title": "Lesson Quiz: Selecting Portfolio Artifacts",
+  "description": "Assessment of the concept that Choosing evidence of skills and achievements.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U05-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is a portfolio artifact?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A piece of evidence that shows skill, achievement, or growth",
+          "is_correct": true,
+          "feedback": "Correct. Portfolio artifacts are selected pieces of evidence that help demonstrate what a student can do."
+        },
+        {
+          "id": "B",
+          "text": "Any random item with no purpose",
+          "is_correct": false,
+          "feedback": "Artifacts should be selected because they support the purpose of the portfolio."
+        },
+        {
+          "id": "C",
+          "text": "Only a list of future goals",
+          "is_correct": false,
+          "feedback": "Goals may support a portfolio, but artifacts are evidence of skills, work, or accomplishments."
+        },
+        {
+          "id": "D",
+          "text": "Only papers with no explanation",
+          "is_correct": false,
+          "feedback": "Artifacts are stronger when they are selected thoughtfully and connected to what the student wants to show."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L02-Q02",
+      "type": "multiple_choice",
+      "prompt": "Which artifact would best show communication skills?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A blank notebook page",
+          "is_correct": false,
+          "feedback": "A blank page does not show evidence of communication skill."
+        },
+        {
+          "id": "B",
+          "text": "An unrelated shopping receipt",
+          "is_correct": false,
+          "feedback": "Artifacts should connect directly to the skill being shown."
+        },
+        {
+          "id": "C",
+          "text": "A list of songs",
+          "is_correct": false,
+          "feedback": "This does not give clear evidence of communication skill."
+        },
+        {
+          "id": "D",
+          "text": "A presentation outline with teacher feedback",
+          "is_correct": true,
+          "feedback": "Correct. A presentation outline and feedback can show how a student communicates ideas clearly."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L02-Q03",
+      "type": "true_false",
+      "prompt": "Strong artifact selection should connect to the student's skills, achievements, or goals.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Artifacts should be chosen because they support the student's purpose and show meaningful evidence."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Artifacts should not be random. They should match the student's skills, growth, or goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why might a student include a reflection with an artifact?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To explain why the artifact matters and what it shows",
+          "is_correct": false,
+          "feedback": "This is a strong reason, but the correct choice in this set is the more complete statement about explaining skill and growth."
+        },
+        {
+          "id": "B",
+          "text": "To make the artifact less clear",
+          "is_correct": false,
+          "feedback": "Reflections should improve clarity, not reduce it."
+        },
+        {
+          "id": "C",
+          "text": "To explain how the artifact shows skill, growth, or achievement",
+          "is_correct": true,
+          "feedback": "Correct. A reflection helps the reviewer understand why the artifact was selected and what it demonstrates."
+        },
+        {
+          "id": "D",
+          "text": "To avoid choosing strong evidence",
+          "is_correct": false,
+          "feedback": "Reflections support strong evidence; they do not replace it."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L02-Q05",
+      "type": "true_false",
+      "prompt": "A portfolio should include every available artifact, even if some do not support the portfolio purpose.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "A strong portfolio should be selective and include items that support the student's purpose."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Students should choose artifacts carefully instead of adding everything available."
+        }
+      ]
+    }
+  ]
 }

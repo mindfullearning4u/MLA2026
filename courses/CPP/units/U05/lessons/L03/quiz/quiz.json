@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U05-L03-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U05",
-    "lesson_id":  "CPP-U05-L03",
-    "title":  "Lesson Quiz: Organizing a Portfolio",
-    "description":  "Assessment of the concept that Structure, categories, and presentation.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U05-L03-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U05",
+  "lesson_id": "CPP-U05-L03",
+  "title": "Lesson Quiz: Organizing a Portfolio",
+  "description": "Assessment of the concept that Structure, categories, and presentation.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U05-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "Why is organization important in a portfolio?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it helps the reviewer find and understand evidence more easily",
+          "is_correct": true,
+          "feedback": "Correct. Good organization makes a portfolio clearer and easier to review."
+        },
+        {
+          "id": "B",
+          "text": "Because it hides the purpose of the portfolio",
+          "is_correct": false,
+          "feedback": "Organization should improve clarity, not hide the purpose."
+        },
+        {
+          "id": "C",
+          "text": "Because it removes the need for categories",
+          "is_correct": false,
+          "feedback": "Categories are one useful way to organize a portfolio."
+        },
+        {
+          "id": "D",
+          "text": "Because it makes evidence less useful",
+          "is_correct": false,
+          "feedback": "Organization helps evidence make more sense to the reviewer."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L03-Q02",
+      "type": "true_false",
+      "prompt": "Using categories such as leadership, projects, and certifications can strengthen a portfolio's structure.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Clear categories can make the portfolio stronger and easier to follow."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Categories help group related evidence and improve presentation."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which category would best fit a completed group project with a reflection on teamwork?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Favorite Foods",
+          "is_correct": false,
+          "feedback": "Portfolio categories should connect to skills, work, or achievement."
+        },
+        {
+          "id": "B",
+          "text": "Random Notes",
+          "is_correct": false,
+          "feedback": "A strong portfolio should avoid vague or random categories."
+        },
+        {
+          "id": "C",
+          "text": "Projects and Collaboration",
+          "is_correct": true,
+          "feedback": "Correct. This category clearly fits a group project and teamwork reflection."
+        },
+        {
+          "id": "D",
+          "text": "Unsorted Items",
+          "is_correct": false,
+          "feedback": "A well-organized portfolio should not rely on unsorted categories."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "What makes a portfolio presentation stronger?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Putting items in no clear order",
+          "is_correct": false,
+          "feedback": "A strong presentation needs a logical order."
+        },
+        {
+          "id": "B",
+          "text": "Using labels, categories, and a clear structure",
+          "is_correct": false,
+          "feedback": "This is a strong idea, but the correct choice in this set is the most complete explanation of how structure supports presentation."
+        },
+        {
+          "id": "C",
+          "text": "Avoiding titles and explanations",
+          "is_correct": false,
+          "feedback": "Titles and explanations help the reviewer understand the portfolio."
+        },
+        {
+          "id": "D",
+          "text": "Presenting artifacts in a way that is clear, labeled, and easy to follow",
+          "is_correct": true,
+          "feedback": "Correct. Clear presentation helps the reviewer understand the content and purpose of the portfolio."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-L03-Q05",
+      "type": "true_false",
+      "prompt": "A portfolio with strong structure should help show both content and purpose.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Strong structure helps the reviewer understand what is included and why it matters."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Good structure should support both understanding and purpose."
+        }
+      ]
+    }
+  ]
 }
