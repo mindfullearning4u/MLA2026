@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U02-L02-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U02",
-    "lesson_id":  "CPP-U02-L02",
-    "title":  "Lesson Quiz: Education and Training Pathways",
-    "description":  "Assessment of the concept that Degrees, certifications, and technical training.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U02-L02-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U02",
+  "lesson_id": "CPP-U02-L02",
+  "title": "Lesson Quiz: Education and Training Pathways",
+  "description": "Assessment of the concept that Degrees, certifications, and technical training.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U02-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is an education or training pathway?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A route a student follows to prepare for a career",
+          "is_correct": true,
+          "feedback": "Correct. A pathway is the education or training route connected to career preparation."
+        },
+        {
+          "id": "B",
+          "text": "A list of random school activities",
+          "is_correct": false,
+          "feedback": "School activities may help a student grow, but they are not the same as a pathway."
+        },
+        {
+          "id": "C",
+          "text": "A final job offer from an employer",
+          "is_correct": false,
+          "feedback": "A job offer is not an education or training pathway."
+        },
+        {
+          "id": "D",
+          "text": "A description of a worker's daily lunch schedule",
+          "is_correct": false,
+          "feedback": "A lunch schedule is unrelated to a pathway."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L02-Q02",
+      "type": "true_false",
+      "prompt": "Technical training can be part of preparing for certain careers.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Technical training can be an important part of career preparation."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Technical training is one pathway students may use to prepare for a career."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which option best describes a certification?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A free period during the school day",
+          "is_correct": false,
+          "feedback": "A free period is not a certification."
+        },
+        {
+          "id": "B",
+          "text": "Proof that a person completed training or showed skill in a specific area",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that more directly connects certification to training and assessment."
+        },
+        {
+          "id": "C",
+          "text": "Evidence that a person completed training or met a standard in a specific field",
+          "is_correct": true,
+          "feedback": "Correct. A certification shows that a person completed training or met a specific standard."
+        },
+        {
+          "id": "D",
+          "text": "A student's opinion about a career",
+          "is_correct": false,
+          "feedback": "An opinion is not a certification."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why should students learn about education and training pathways before choosing a career direction?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because pathways show what preparation a career may require",
+          "is_correct": false,
+          "feedback": "This idea is correct, but the strongest answer here emphasizes how pathway knowledge supports decision-making."
+        },
+        {
+          "id": "B",
+          "text": "Because pathway research helps students make more realistic and informed decisions",
+          "is_correct": false,
+          "feedback": "This is close, but the best answer in this set is the clearest explanation of preparation requirements."
+        },
+        {
+          "id": "C",
+          "text": "Because pathway research removes the need to compare career options",
+          "is_correct": false,
+          "feedback": "Students still need to compare options even after learning about pathways."
+        },
+        {
+          "id": "D",
+          "text": "Because it helps students understand what kind of preparation different careers may require",
+          "is_correct": true,
+          "feedback": "Correct. Pathway research helps students understand what preparation is connected to different careers."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-L02-Q05",
+      "type": "true_false",
+      "prompt": "Different careers may require different types of education or training.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Careers can require different combinations of degrees, certifications, and technical training."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Career pathways are not all the same. Different careers can require different preparation."
+        }
+      ]
+    }
+  ]
 }
