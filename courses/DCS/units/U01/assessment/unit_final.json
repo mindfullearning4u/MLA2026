@@ -1,178 +1,187 @@
 {
-  "assessment_id": "DCS-U01-UNIT-FINAL",
-  "course_id": "DCS",
-  "unit_id": "U01",
-  "title": "Unit Final: Foundations of Digital Citizenship",
-  "type": "unit_final",
-  "counts_toward_grade": true,
-  "weight": 40,
-  "max_attempts": 2,
-  "record_highest_score": true,
-  "mastery_threshold": 80,
-  "acceleration_eligible_threshold": 90,
-  "display_order": 6,
-  "question_count": 10,
-  "randomize_questions": true,
-  "show_feedback": true,
-  "questions": [
-  {
-    "question_id": "DCS-U01-Q01",
-    "type": "multiple_choice",
-    "question": "Which statement best defines digital citizenship?",
-    "options": [
-      "Using technology only for entertainment",
-      "Responsible, ethical, and safe use of technology",
-      "Owning multiple digital devices",
-      "The ability to access the internet anywhere"
-    ],
-    "correct_answer": "Responsible, ethical, and safe use of technology",
-    "feedback": {
-      "Using technology only for entertainment": "This is too limited. Digital citizenship involves more than entertainment use.",
-      "Responsible, ethical, and safe use of technology": "Correct. Digital citizenship includes behavior, responsibility, and safety online.",
-      "Owning multiple digital devices": "Ownership does not define digital citizenship.",
-      "The ability to access the internet anywhere": "Access is part of digital citizenship, but not the full definition."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q02",
-    "type": "true_false",
-    "question": "Digital citizenship only applies when you are using social media platforms.",
-    "options": ["True", "False"],
-    "correct_answer": "False",
-    "feedback": {
-      "True": "Incorrect. Digital citizenship applies to all online and digital interactions.",
-      "False": "Correct. Digital citizenship applies across all digital environments."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q03",
-    "type": "multiple_choice",
-    "question": "Which of the following is an example of digital inclusion?",
-    "options": [
-      "Blocking access to educational websites",
-      "Using only one device for all users",
-      "Ensuring everyone has equal access to digital tools and resources",
-      "Limiting internet access to certain groups"
-    ],
-    "correct_answer": "Ensuring everyone has equal access to digital tools and resources",
-    "feedback": {
-      "Blocking access to educational websites": "This restricts access rather than promotes inclusion.",
-      "Using only one device for all users": "This does not ensure equal or effective access.",
-      "Ensuring everyone has equal access to digital tools and resources": "Correct. Inclusion focuses on equitable access.",
-      "Limiting internet access to certain groups": "This goes against digital inclusion."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q04",
-    "type": "multiple_choice",
-    "question": "A student excludes a classmate from an online group project chat. What concept does this most directly relate to?",
-    "options": [
-      "Digital security",
-      "Digital access and inclusion",
-      "Digital footprint",
-      "Digital etiquette"
-    ],
-    "correct_answer": "Digital access and inclusion",
-    "feedback": {
-      "Digital security": "Security involves protecting information, not participation.",
-      "Digital access and inclusion": "Correct. Excluding someone limits their participation and access.",
-      "Digital footprint": "This refers to online presence, not access.",
-      "Digital etiquette": "Etiquette involves behavior, but this scenario focuses more on inclusion."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q05",
-    "type": "true_false",
-    "question": "Using respectful language online is part of digital etiquette.",
-    "options": ["False", "True"],
-    "correct_answer": "True",
-    "feedback": {
-      "False": "Incorrect. Respectful language is essential to proper online behavior.",
-      "True": "Correct. Respectful communication is a key part of digital etiquette."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q06",
-    "type": "multiple_choice",
-    "question": "Which response demonstrates appropriate digital etiquette?",
-    "options": [
-      "Responding respectfully even when you disagree",
-      "Sharing private messages publicly",
-      "Posting a rude comment when you disagree",
-      "Ignoring all online communication"
-    ],
-    "correct_answer": "Responding respectfully even when you disagree",
-    "feedback": {
-      "Responding respectfully even when you disagree": "Correct. Respectful communication is key.",
-      "Sharing private messages publicly": "This violates privacy and etiquette.",
-      "Posting a rude comment when you disagree": "This violates digital etiquette.",
-      "Ignoring all online communication": "This does not demonstrate engagement or etiquette."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q07",
-    "type": "multiple_choice",
-    "question": "A student receives a mean comment online and feels upset. What is the most responsible first step?",
-    "options": [
-      "Pause and decide whether to report or block the user",
-      "Respond with an equally mean comment",
-      "Share the comment publicly to embarrass the sender",
-      "Ignore it and do nothing"
-    ],
-    "correct_answer": "Pause and decide whether to report or block the user",
-    "feedback": {
-      "Pause and decide whether to report or block the user": "Correct. This shows responsible decision-making.",
-      "Respond with an equally mean comment": "Escalating conflict is not responsible behavior.",
-      "Share the comment publicly to embarrass the sender": "This escalates the situation and is not appropriate.",
-      "Ignore it and do nothing": "Ignoring may not always be the best solution."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q08",
-    "type": "true_false",
-    "question": "Thinking before posting online can help prevent digital conflicts.",
-    "options": ["False", "True"],
-    "correct_answer": "True",
-    "feedback": {
-      "False": "Incorrect. Thinking ahead is key to responsible digital behavior.",
-      "True": "Correct. Thoughtful posting reduces misunderstandings and conflict."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q09",
-    "type": "multiple_choice",
-    "question": "Which scenario best demonstrates responsible digital decision-making?",
-    "options": [
-      "Forwarding a message without verifying it",
-      "Taking time to evaluate the impact before sharing content",
-      "Reacting immediately to every online message",
-      "Posting personal information without thinking"
-    ],
-    "correct_answer": "Taking time to evaluate the impact before sharing content",
-    "feedback": {
-      "Forwarding a message without verifying it": "This can spread misinformation.",
-      "Taking time to evaluate the impact before sharing content": "Correct. Responsible decisions require careful thinking.",
-      "Reacting immediately to every online message": "Impulsive reactions can lead to problems.",
-      "Posting personal information without thinking": "This is unsafe and irresponsible."
-    }
-  },
-  {
-    "question_id": "DCS-U01-Q10",
-    "type": "multiple_choice",
-    "question": "During an online discussion, two students strongly disagree. What is the best approach to manage the conflict?",
-    "options": [
-      "Stop participating completely",
-      "Respectfully explain your perspective and listen to theirs",
-      "Report them immediately without interaction",
-      "Insult the other person to prove your point"
-    ],
-    "correct_answer": "Respectfully explain your perspective and listen to theirs",
-    "feedback": {
-      "Stop participating completely": "Avoiding the situation may not resolve the issue.",
-      "Respectfully explain your perspective and listen to theirs": "Correct. This promotes constructive conflict resolution.",
-      "Report them immediately without interaction": "Reporting is appropriate only if behavior violates guidelines.",
-      "Insult the other person to prove your point": "This escalates conflict and is inappropriate."
-    }
-  }
-  ]
+    "assessment_id":  "DCS-U01-UNIT-FINAL",
+    "course_id":  "DCS",
+    "unit_id":  "U01",
+    "title":  "Unit Final: Foundations of Digital Citizenship",
+    "type":  "unit_final",
+    "counts_toward_grade":  true,
+    "weight":  40,
+    "max_attempts":  2,
+    "record_highest_score":  true,
+    "mastery_threshold":  80,
+    "acceleration_eligible_threshold":  90,
+    "display_order":  6,
+    "question_count":  10,
+    "randomize_questions":  true,
+    "show_feedback":  true,
+    "questions":  [
+                      {
+                          "question_id":  "DCS-U01-Q01",
+                          "type":  "multiple_choice",
+                          "question":  "Which statement best defines digital citizenship?",
+                          "options":  [
+                                          "Responsible, ethical, and safe use of technology",
+                                          "Using technology only for entertainment",
+                                          "Owning multiple digital devices",
+                                          "The ability to access the internet anywhere"
+                                      ],
+                          "correct_answer":  "Responsible, ethical, and safe use of technology",
+                          "feedback":  {
+                                           "Using technology only for entertainment":  "This is too limited. Digital citizenship involves more than entertainment use.",
+                                           "Responsible, ethical, and safe use of technology":  "Correct. Digital citizenship includes behavior, responsibility, and safety online.",
+                                           "Owning multiple digital devices":  "Ownership does not define digital citizenship.",
+                                           "The ability to access the internet anywhere":  "Access is part of digital citizenship, but not the full definition."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q02",
+                          "type":  "true_false",
+                          "question":  "Digital citizenship only applies when you are using social media platforms.",
+                          "options":  [
+                                          "True",
+                                          "False"
+                                      ],
+                          "correct_answer":  "False",
+                          "feedback":  {
+                                           "True":  "Incorrect. Digital citizenship applies to all online and digital interactions.",
+                                           "False":  "Correct. Digital citizenship applies across all digital environments."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q03",
+                          "type":  "multiple_choice",
+                          "question":  "Which of the following is an example of digital inclusion?",
+                          "options":  [
+                                          "Blocking access to educational websites",
+                                          "Ensuring everyone has equal access to digital tools and resources",
+                                          "Using only one device for all users",
+                                          "Limiting internet access to certain groups"
+                                      ],
+                          "correct_answer":  "Ensuring everyone has equal access to digital tools and resources",
+                          "feedback":  {
+                                           "Blocking access to educational websites":  "This restricts access rather than promotes inclusion.",
+                                           "Using only one device for all users":  "This does not ensure equal or effective access.",
+                                           "Ensuring everyone has equal access to digital tools and resources":  "Correct. Inclusion focuses on equitable access.",
+                                           "Limiting internet access to certain groups":  "This goes against digital inclusion."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q04",
+                          "type":  "multiple_choice",
+                          "question":  "A student excludes a classmate from an online group project chat. What concept does this most directly relate to?",
+                          "options":  [
+                                          "Digital security",
+                                          "Digital footprint",
+                                          "Digital etiquette",
+                                          "Digital access and inclusion"
+                                      ],
+                          "correct_answer":  "Digital access and inclusion",
+                          "feedback":  {
+                                           "Digital security":  "Security involves protecting information, not participation.",
+                                           "Digital access and inclusion":  "Correct. Excluding someone limits their participation and access.",
+                                           "Digital footprint":  "This refers to online presence, not access.",
+                                           "Digital etiquette":  "Etiquette involves behavior, but this scenario focuses more on inclusion."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q05",
+                          "type":  "true_false",
+                          "question":  "Using respectful language online is part of digital etiquette.",
+                          "options":  [
+                                          "True",
+                                          "False"
+                                      ],
+                          "correct_answer":  "True",
+                          "feedback":  {
+                                           "False":  "Incorrect. Respectful language is essential to proper online behavior.",
+                                           "True":  "Correct. Respectful communication is a key part of digital etiquette."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q06",
+                          "type":  "multiple_choice",
+                          "question":  "Which response demonstrates appropriate digital etiquette?",
+                          "options":  [
+                                          "Sharing private messages publicly",
+                                          "Posting a rude comment when you disagree",
+                                          "Responding respectfully even when you disagree",
+                                          "Ignoring all online communication"
+                                      ],
+                          "correct_answer":  "Responding respectfully even when you disagree",
+                          "feedback":  {
+                                           "Responding respectfully even when you disagree":  "Correct. Respectful communication is key.",
+                                           "Sharing private messages publicly":  "This violates privacy and etiquette.",
+                                           "Posting a rude comment when you disagree":  "This violates digital etiquette.",
+                                           "Ignoring all online communication":  "This does not demonstrate engagement or etiquette."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q07",
+                          "type":  "multiple_choice",
+                          "question":  "A student receives a mean comment online and feels upset. What is the most responsible first step?",
+                          "options":  [
+                                          "Respond with an equally mean comment",
+                                          "Share the comment publicly to embarrass the sender",
+                                          "Ignore it and do nothing",
+                                          "Pause and decide whether to report or block the user"
+                                      ],
+                          "correct_answer":  "Pause and decide whether to report or block the user",
+                          "feedback":  {
+                                           "Pause and decide whether to report or block the user":  "Correct. This shows responsible decision-making.",
+                                           "Respond with an equally mean comment":  "Escalating conflict is not responsible behavior.",
+                                           "Share the comment publicly to embarrass the sender":  "This escalates the situation and is not appropriate.",
+                                           "Ignore it and do nothing":  "Ignoring may not always be the best solution."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q08",
+                          "type":  "true_false",
+                          "question":  "Thinking before posting online can help prevent digital conflicts.",
+                          "options":  [
+                                          "True",
+                                          "False"
+                                      ],
+                          "correct_answer":  "True",
+                          "feedback":  {
+                                           "False":  "Incorrect. Thinking ahead is key to responsible digital behavior.",
+                                           "True":  "Correct. Thoughtful posting reduces misunderstandings and conflict."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q09",
+                          "type":  "multiple_choice",
+                          "question":  "Which scenario best demonstrates responsible digital decision-making?",
+                          "options":  [
+                                          "Forwarding a message without verifying it",
+                                          "Taking time to evaluate the impact before sharing content",
+                                          "Reacting immediately to every online message",
+                                          "Posting personal information without thinking"
+                                      ],
+                          "correct_answer":  "Taking time to evaluate the impact before sharing content",
+                          "feedback":  {
+                                           "Forwarding a message without verifying it":  "This can spread misinformation.",
+                                           "Taking time to evaluate the impact before sharing content":  "Correct. Responsible decisions require careful thinking.",
+                                           "Reacting immediately to every online message":  "Impulsive reactions can lead to problems.",
+                                           "Posting personal information without thinking":  "This is unsafe and irresponsible."
+                                       }
+                      },
+                      {
+                          "question_id":  "DCS-U01-Q10",
+                          "type":  "multiple_choice",
+                          "question":  "During an online discussion, two students strongly disagree. What is the best approach to manage the conflict?",
+                          "options":  [
+                                          "Stop participating completely",
+                                          "Report them immediately without interaction",
+                                          "Respectfully explain your perspective and listen to theirs",
+                                          "Insult the other person to prove your point"
+                                      ],
+                          "correct_answer":  "Respectfully explain your perspective and listen to theirs",
+                          "feedback":  {
+                                           "Stop participating completely":  "Avoiding the situation may not resolve the issue.",
+                                           "Respectfully explain your perspective and listen to theirs":  "Correct. This promotes constructive conflict resolution.",
+                                           "Report them immediately without interaction":  "Reporting is appropriate only if behavior violates guidelines.",
+                                           "Insult the other person to prove your point":  "This escalates conflict and is inappropriate."
+                                       }
+                      }
+                  ]
 }

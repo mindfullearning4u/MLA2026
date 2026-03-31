@@ -1,40 +1,50 @@
 {
-  "lesson_id": "DCS-U01-L02",
-  "course_id": "DCS",
-  "unit_id": "U01",
-  "lesson_number": 2,
-  "title": "Digital Access, Inclusion & Participation",
-  "description": "Students learn how digital access, the digital divide, and inclusion affect participation in online spaces.",
-  "pages": [
-    "P01-lesson-overview.html",
-    "P02-notebook-task.html",
-    "P03-concept-instruction.html",
-    "P04-worked-example.html",
-    "P05-guided-practice.html",
-    "P06-lesson-checkpoint.html",
-    "P07-checkpoint-assignment-text.html"
-  ],
-  "graded_components": {
-    "notebook": {
-      "type": "notebook",
-      "graded": true,
-      "submission_required": true,
-      "submission_mode": "attachment_upload",
-      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
-    },
-    "checkpoint": {
-      "type": "checkpoint",
-      "graded": true,
-      "submission_required": true,
-      "submission_mode": "attachment_upload",
-      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
-    },
-    "quiz": {
-      "type": "quiz",
-      "graded": true,
-      "quiz_id": "DCS-U01-L02-QUIZ"
-    }
-  },
-  "mastery_required": true,
-  "display_order": 2
+    "lesson_id":  "DCS-U01-L02",
+    "course_id":  "DCS",
+    "unit_id":  "U01",
+    "lesson_number":  2,
+    "title":  "Digital Access, Inclusion \u0026 Participation",
+    "description":  "Equity, access barriers, digital divide, inclusive participation.",
+    "pages":  [
+                  "P01-lesson-overview.html",
+                  "P02-notebook-task.html",
+                  "P03-concept-instruction.html",
+                  "P04-worked-example.html",
+                  "P05-guided-practice.html",
+                  "P06-lesson-checkpoint.html",
+                  "P07-checkpoint-assignment-text.html"
+              ],
+    "graded_components":  {
+                              "notebook":  {
+                                               "type":  "notebook",
+                                               "graded":  true,
+                                               "submission_required":  true,
+                                               "submission_mode":  "attachment_upload",
+                                               "accepted_formats":  [
+                                                                        "jpg",
+                                                                        "jpeg",
+                                                                        "png",
+                                                                        "pdf"
+                                                                    ]
+                                           },
+                              "checkpoint":  {
+                                                 "type":  "checkpoint",
+                                                 "graded":  true,
+                                                 "submission_required":  true,
+                                                 "submission_mode":  "attachment_upload",
+                                                 "accepted_formats":  [
+                                                                          "jpg",
+                                                                          "jpeg",
+                                                                          "png",
+                                                                          "pdf"
+                                                                      ]
+                                             },
+                              "quiz":  {
+                                           "type":  "quiz",
+                                           "graded":  true,
+                                           "quiz_id":  "DCS-U01-L02-QUIZ"
+                                       }
+                          },
+    "mastery_required":  true,
+    "display_order":  2
 }

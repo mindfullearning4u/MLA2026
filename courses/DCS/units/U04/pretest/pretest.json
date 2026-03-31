@@ -1,244 +1,243 @@
 {
-  "assessment_id": "DCS-U04-PRETEST",
-  "course_id": "DCS",
-  "unit_id": "U04",
-  "title": "Unit 04 Pretest",
-  "description": "Diagnostic pretest for Media Literacy & Misinformation.",
-  "type": "pretest",
-  "counts_toward_grade": false,
-  "required_before_lessons": true,
-  "display_order": 0,
-  "question_count": 8,
-  "mastery_threshold": 80,
-  "acceleration_eligible_threshold": 90,
-  "used_for_acceleration": true,
-  "used_for_baseline_measurement": true,
-  "paired_final_assessment_id": "DCS-U04-UNIT-FINAL",
-
-  "questions": [
-  {
-    "question_id": "DCS-U04-PRETEST-Q01",
-    "type": "multiple_choice",
-    "prompt": "What is the main goal of media literacy?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To create media content professionally",
-        "is_correct": false,
-        "feedback": "Media literacy focuses on understanding and evaluating media, not just creating it."
-      },
-      {
-        "id": "B",
-        "text": "To understand how media is created and evaluate its messages",
-        "is_correct": true,
-        "feedback": "Correct. Media literacy involves understanding how media works and analyzing its messages."
-      },
-      {
-        "id": "C",
-        "text": "To increase the number of posts shared online",
-        "is_correct": false,
-        "feedback": "Sharing more content is not the goal of media literacy."
-      },
-      {
-        "id": "D",
-        "text": "To avoid all forms of digital media",
-        "is_correct": false,
-        "feedback": "Media literacy helps users engage critically, not avoid media entirely."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q02",
-    "type": "multiple_choice",
-    "prompt": "Which example best shows bias in a news source?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Providing multiple viewpoints with supporting evidence",
-        "is_correct": false,
-        "feedback": "Multiple viewpoints typically reduce bias rather than show it."
-      },
-      {
-        "id": "B",
-        "text": "Using emotionally charged language to influence the reader’s opinion",
-        "is_correct": true,
-        "feedback": "Correct. Loaded language is a key indicator of bias."
-      },
-      {
-        "id": "C",
-        "text": "Including verified data and statistics",
-        "is_correct": false,
-        "feedback": "Verified data supports credibility, not bias."
-      },
-      {
-        "id": "D",
-        "text": "Citing reliable expert sources",
-        "is_correct": false,
-        "feedback": "Reliable sources strengthen credibility rather than indicate bias."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q03",
-    "type": "true_false",
-    "prompt": "Misinformation and disinformation both involve false information, but disinformation is intentionally misleading.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Disinformation is intentionally false, while misinformation may be shared without intent to deceive."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "There is an important difference: intent separates misinformation from disinformation."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q04",
-    "type": "multiple_choice",
-    "prompt": "How can algorithms influence the information people see online?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "They show random content without patterns",
-        "is_correct": false,
-        "feedback": "Algorithms are not random; they are designed to prioritize certain content."
-      },
-      {
-        "id": "B",
-        "text": "They organize content based only on time posted",
-        "is_correct": false,
-        "feedback": "Algorithms consider many factors beyond timing."
-      },
-      {
-        "id": "C",
-        "text": "They prioritize content based on user behavior and preferences",
-        "is_correct": true,
-        "feedback": "Correct. Algorithms shape what users see based on interactions and interests."
-      },
-      {
-        "id": "D",
-        "text": "They block all content that is repeated",
-        "is_correct": false,
-        "feedback": "Algorithms do not block repeated content by default."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q05",
-    "type": "multiple_choice",
-    "prompt": "Which action is most effective when fact-checking information online?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Checking multiple credible sources to confirm the information",
-        "is_correct": true,
-        "feedback": "Correct. Verifying information across reliable sources is a key fact-checking strategy."
-      },
-      {
-        "id": "B",
-        "text": "Trusting the first result in a search",
-        "is_correct": false,
-        "feedback": "The first result is not always the most reliable."
-      },
-      {
-        "id": "C",
-        "text": "Relying on how many people liked the post",
-        "is_correct": false,
-        "feedback": "Popularity does not equal accuracy."
-      },
-      {
-        "id": "D",
-        "text": "Assuming it is correct if it looks professional",
-        "is_correct": false,
-        "feedback": "Professional appearance does not guarantee accuracy."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q06",
-    "type": "multiple_choice",
-    "prompt": "A student sees a viral post making a strong claim without sources. What is the best next step?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Share it quickly before it disappears",
-        "is_correct": false,
-        "feedback": "Sharing unverified claims spreads misinformation."
-      },
-      {
-        "id": "B",
-        "text": "Ignore it without thinking further",
-        "is_correct": false,
-        "feedback": "Ignoring does not build evaluation skills."
-      },
-      {
-        "id": "C",
-        "text": "Verify the claim using trusted sources before reacting",
-        "is_correct": true,
-        "feedback": "Correct. Verification is the responsible response to questionable content."
-      },
-      {
-        "id": "D",
-        "text": "Assume it is true because it is popular",
-        "is_correct": false,
-        "feedback": "Popularity does not determine accuracy."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q07",
-    "type": "true_false",
-    "prompt": "A headline designed to make people feel strong emotions may be a sign of unreliable information.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Emotional manipulation is a common feature of misleading content."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Strong emotional language can signal bias or manipulation."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U04-PRETEST-Q08",
-    "type": "multiple_choice",
-    "prompt": "Which question best supports evaluating a media message?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Does this match what I already believe?",
-        "is_correct": false,
-        "feedback": "Personal bias can interfere with accurate evaluation."
-      },
-      {
-        "id": "B",
-        "text": "Who created this and what is their purpose?",
-        "is_correct": true,
-        "feedback": "Correct. Identifying source and purpose is key to media analysis."
-      },
-      {
-        "id": "C",
-        "text": "How many people shared it?",
-        "is_correct": false,
-        "feedback": "Popularity does not determine credibility."
-      },
-      {
-        "id": "D",
-        "text": "Is it easy to understand?",
-        "is_correct": false,
-        "feedback": "Clarity does not guarantee accuracy."
-      }
-    ]
-  }
-  ]
+    "assessment_id":  "DCS-U04-PRETEST",
+    "course_id":  "DCS",
+    "unit_id":  "U04",
+    "title":  "Unit 04 Pretest",
+    "description":  "Diagnostic pretest for Media Literacy \u0026 Misinformation.",
+    "type":  "pretest",
+    "counts_toward_grade":  false,
+    "required_before_lessons":  true,
+    "display_order":  0,
+    "question_count":  8,
+    "mastery_threshold":  80,
+    "acceleration_eligible_threshold":  90,
+    "used_for_acceleration":  true,
+    "used_for_baseline_measurement":  true,
+    "paired_final_assessment_id":  "DCS-U04-UNIT-FINAL",
+    "questions":  [
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is the main goal of media literacy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To understand how media is created and evaluate its messages",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Media literacy involves understanding how media works and analyzing its messages."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To create media content professionally",
+                                              "is_correct":  false,
+                                              "feedback":  "Media literacy focuses on understanding and evaluating media, not just creating it."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To increase the number of posts shared online",
+                                              "is_correct":  false,
+                                              "feedback":  "Sharing more content is not the goal of media literacy."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To avoid all forms of digital media",
+                                              "is_correct":  false,
+                                              "feedback":  "Media literacy helps users engage critically, not avoid media entirely."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q02",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which example best shows bias in a news source?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Providing multiple viewpoints with supporting evidence",
+                                              "is_correct":  false,
+                                              "feedback":  "Multiple viewpoints typically reduce bias rather than show it."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Using emotionally charged language to influence the reader\u0027s opinion",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Loaded language is a key indicator of bias."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Including verified data and statistics",
+                                              "is_correct":  false,
+                                              "feedback":  "Verified data supports credibility, not bias."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Citing reliable expert sources",
+                                              "is_correct":  false,
+                                              "feedback":  "Reliable sources strengthen credibility rather than indicate bias."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q03",
+                          "type":  "true_false",
+                          "prompt":  "Misinformation and disinformation both involve false information, but disinformation is intentionally misleading.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Disinformation is intentionally false, while misinformation may be shared without intent to deceive."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "There is an important difference: intent separates misinformation from disinformation."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q04",
+                          "type":  "multiple_choice",
+                          "prompt":  "How can algorithms influence the information people see online?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "They show random content without patterns",
+                                              "is_correct":  false,
+                                              "feedback":  "Algorithms are not random; they are designed to prioritize certain content."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "They organize content based only on time posted",
+                                              "is_correct":  false,
+                                              "feedback":  "Algorithms consider many factors beyond timing."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "They prioritize content based on user behavior and preferences",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Algorithms shape what users see based on interactions and interests."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "They block all content that is repeated",
+                                              "is_correct":  false,
+                                              "feedback":  "Algorithms do not block repeated content by default."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which action is most effective when fact-checking information online?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Trusting the first result in a search",
+                                              "is_correct":  false,
+                                              "feedback":  "The first result is not always the most reliable."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Relying on how many people liked the post",
+                                              "is_correct":  false,
+                                              "feedback":  "Popularity does not equal accuracy."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Checking multiple credible sources to confirm the information",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Verifying information across reliable sources is a key fact-checking strategy."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Assuming it is correct if it looks professional",
+                                              "is_correct":  false,
+                                              "feedback":  "Professional appearance does not guarantee accuracy."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q06",
+                          "type":  "multiple_choice",
+                          "prompt":  "A student sees a viral post making a strong claim without sources. What is the best next step?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Share it quickly before it disappears",
+                                              "is_correct":  false,
+                                              "feedback":  "Sharing unverified claims spreads misinformation."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Ignore it without thinking further",
+                                              "is_correct":  false,
+                                              "feedback":  "Ignoring does not build evaluation skills."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Assume it is true because it is popular",
+                                              "is_correct":  false,
+                                              "feedback":  "Popularity does not determine accuracy."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Verify the claim using trusted sources before reacting",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Verification is the responsible response to questionable content."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q07",
+                          "type":  "true_false",
+                          "prompt":  "A headline designed to make people feel strong emotions may be a sign of unreliable information.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Strong emotional language can signal bias or manipulation."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Emotional manipulation is a common feature of misleading content."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U04-PRETEST-Q08",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which question best supports evaluating a media message?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Does this match what I already believe?",
+                                              "is_correct":  false,
+                                              "feedback":  "Personal bias can interfere with accurate evaluation."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "How many people shared it?",
+                                              "is_correct":  false,
+                                              "feedback":  "Popularity does not determine credibility."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Is it easy to understand?",
+                                              "is_correct":  false,
+                                              "feedback":  "Clarity does not guarantee accuracy."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Who created this and what is their purpose?",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Identifying source and purpose is key to media analysis."
+                                          }
+                                      ]
+                      }
+                  ]
 }

@@ -1,244 +1,243 @@
 {
-  "assessment_id": "DCS-U03-PRETEST",
-  "course_id": "DCS",
-  "unit_id": "U03",
-  "title": "Unit 03 Pretest",
-  "description": "Diagnostic pretest for Privacy, Security & Cyber Safety.",
-  "type": "pretest",
-  "counts_toward_grade": false,
-  "required_before_lessons": true,
-  "display_order": 0,
-  "question_count": 8,
-  "mastery_threshold": 80,
-  "acceleration_eligible_threshold": 90,
-  "used_for_acceleration": true,
-  "used_for_baseline_measurement": true,
-  "paired_final_assessment_id": "DCS-U03-UNIT-FINAL",
-
-  "questions": [
-  {
-    "question_id": "DCS-U03-PRETEST-Q01",
-    "type": "multiple_choice",
-    "prompt": "What is the main purpose of online privacy settings?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To make websites load faster",
-        "is_correct": false,
-        "feedback": "Privacy settings control who can see or access information, not website speed."
-      },
-      {
-        "id": "B",
-        "text": "To organize files on a device",
-        "is_correct": false,
-        "feedback": "File organization is different from online privacy control."
-      },
-      {
-        "id": "C",
-        "text": "To help protect personal information from unwanted access",
-        "is_correct": true,
-        "feedback": "Correct. Privacy settings help limit access to personal information and content."
-      },
-      {
-        "id": "D",
-        "text": "To improve battery life on phones",
-        "is_correct": false,
-        "feedback": "Battery life is unrelated to the main purpose of privacy settings."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q02",
-    "type": "multiple_choice",
-    "prompt": "Which password is the strongest example?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "password123",
-        "is_correct": false,
-        "feedback": "This password is predictable and easy to guess."
-      },
-      {
-        "id": "B",
-        "text": "Emma2026",
-        "is_correct": false,
-        "feedback": "Using names and common numbers makes passwords weaker."
-      },
-      {
-        "id": "C",
-        "text": "qwerty",
-        "is_correct": false,
-        "feedback": "This is a very common and weak password."
-      },
-      {
-        "id": "D",
-        "text": "R7!mQ2#zLp9",
-        "is_correct": true,
-        "feedback": "Correct. A strong password is longer and uses a mix of letters, numbers, and symbols."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q03",
-    "type": "true_false",
-    "prompt": "Using the same password for multiple accounts increases security because it is easier to remember.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": false,
-        "feedback": "Using the same password across accounts creates greater risk if one account is compromised."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": true,
-        "feedback": "Correct. Reusing passwords makes multiple accounts vulnerable if one password is exposed."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q04",
-    "type": "multiple_choice",
-    "prompt": "Which is the strongest warning sign that an email may be a phishing attempt?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "It includes a school announcement you expected",
-        "is_correct": false,
-        "feedback": "Expected announcements are not automatically suspicious."
-      },
-      {
-        "id": "B",
-        "text": "It asks you to click a link immediately to avoid losing access to your account",
-        "is_correct": true,
-        "feedback": "Correct. Urgent pressure and suspicious links are common phishing signs."
-      },
-      {
-        "id": "C",
-        "text": "It uses complete sentences and a logo",
-        "is_correct": false,
-        "feedback": "Scam messages can still look polished and professional."
-      },
-      {
-        "id": "D",
-        "text": "It comes during the school week",
-        "is_correct": false,
-        "feedback": "The timing of an email does not determine whether it is a phishing attempt."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q05",
-    "type": "multiple_choice",
-    "prompt": "What is the safest action before downloading a file from an unfamiliar website?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Download it quickly before the page changes",
-        "is_correct": false,
-        "feedback": "Speed is not the priority when evaluating safety."
-      },
-      {
-        "id": "B",
-        "text": "Check whether the site and file appear trustworthy before downloading",
-        "is_correct": true,
-        "feedback": "Correct. Safe downloading starts with checking credibility and possible risks."
-      },
-      {
-        "id": "C",
-        "text": "Ask a friend whether they think it looks fine",
-        "is_correct": false,
-        "feedback": "A friend's opinion is not a substitute for evaluating safety."
-      },
-      {
-        "id": "D",
-        "text": "Disable security tools so the download finishes faster",
-        "is_correct": false,
-        "feedback": "Disabling security tools increases risk and is not safe."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q06",
-    "type": "multiple_choice",
-    "prompt": "A student receives repeated insulting messages in a group chat. What is the most responsible response?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Respond with harsher insults to stop the behavior",
-        "is_correct": false,
-        "feedback": "Escalating the conflict usually makes the situation worse."
-      },
-      {
-        "id": "B",
-        "text": "Share screenshots publicly to embarrass the sender",
-        "is_correct": false,
-        "feedback": "Public retaliation can increase harm rather than solve the problem."
-      },
-      {
-        "id": "C",
-        "text": "Save evidence, block or report the behavior, and seek help if needed",
-        "is_correct": true,
-        "feedback": "Correct. This is a responsible and safer response to cyberbullying."
-      },
-      {
-        "id": "D",
-        "text": "Ignore every harmful message no matter how serious it becomes",
-        "is_correct": false,
-        "feedback": "Some situations require reporting and support, not total inaction."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q07",
-    "type": "true_false",
-    "prompt": "Two-factor or multi-factor authentication can improve account security.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Multi-factor authentication adds an extra layer of protection beyond a password."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Authentication methods beyond a password increase security, not reduce it."
-      }
-    ]
-  },
-  {
-    "question_id": "DCS-U03-PRETEST-Q08",
-    "type": "multiple_choice",
-    "prompt": "Which question is most important to ask before clicking a link or opening a message attachment?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Will it make me more popular online?",
-        "is_correct": false,
-        "feedback": "Popularity should not guide cybersecurity decisions."
-      },
-      {
-        "id": "B",
-        "text": "Was it sent at a convenient time of day?",
-        "is_correct": false,
-        "feedback": "Timing alone does not determine whether something is safe."
-      },
-      {
-        "id": "C",
-        "text": "Does it come from a trusted source and seem safe to open?",
-        "is_correct": true,
-        "feedback": "Correct. Verifying trust and safety is the most important first step."
-      },
-      {
-        "id": "D",
-        "text": "Will my friends think it is interesting?",
-        "is_correct": false,
-        "feedback": "Other people's reactions are not the priority when evaluating cyber safety."
-      }
-    ]
-  }
-  ]
+    "assessment_id":  "DCS-U03-PRETEST",
+    "course_id":  "DCS",
+    "unit_id":  "U03",
+    "title":  "Unit 03 Pretest",
+    "description":  "Diagnostic pretest for Privacy, Security \u0026 Cyber Safety.",
+    "type":  "pretest",
+    "counts_toward_grade":  false,
+    "required_before_lessons":  true,
+    "display_order":  0,
+    "question_count":  8,
+    "mastery_threshold":  80,
+    "acceleration_eligible_threshold":  90,
+    "used_for_acceleration":  true,
+    "used_for_baseline_measurement":  true,
+    "paired_final_assessment_id":  "DCS-U03-UNIT-FINAL",
+    "questions":  [
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is the main purpose of online privacy settings?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To make websites load faster",
+                                              "is_correct":  false,
+                                              "feedback":  "Privacy settings control who can see or access information, not website speed."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To organize files on a device",
+                                              "is_correct":  false,
+                                              "feedback":  "File organization is different from online privacy control."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To help protect personal information from unwanted access",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Privacy settings help limit access to personal information and content."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To improve battery life on phones",
+                                              "is_correct":  false,
+                                              "feedback":  "Battery life is unrelated to the main purpose of privacy settings."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q02",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which password is the strongest example?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "password123",
+                                              "is_correct":  false,
+                                              "feedback":  "This password is predictable and easy to guess."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Emma2026",
+                                              "is_correct":  false,
+                                              "feedback":  "Using names and common numbers makes passwords weaker."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "qwerty",
+                                              "is_correct":  false,
+                                              "feedback":  "This is a very common and weak password."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "R7!mQ2#zLp9",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A strong password is longer and uses a mix of letters, numbers, and symbols."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q03",
+                          "type":  "true_false",
+                          "prompt":  "Using the same password for multiple accounts increases security because it is easier to remember.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  false,
+                                              "feedback":  "Using the same password across accounts creates greater risk if one account is compromised."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Reusing passwords makes multiple accounts vulnerable if one password is exposed."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q04",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which is the strongest warning sign that an email may be a phishing attempt?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "It includes a school announcement you expected",
+                                              "is_correct":  false,
+                                              "feedback":  "Expected announcements are not automatically suspicious."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "It uses complete sentences and a logo",
+                                              "is_correct":  false,
+                                              "feedback":  "Scam messages can still look polished and professional."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "It comes during the school week",
+                                              "is_correct":  false,
+                                              "feedback":  "The timing of an email does not determine whether it is a phishing attempt."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "It asks you to click a link immediately to avoid losing access to your account",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Urgent pressure and suspicious links are common phishing signs."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is the safest action before downloading a file from an unfamiliar website?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Download it quickly before the page changes",
+                                              "is_correct":  false,
+                                              "feedback":  "Speed is not the priority when evaluating safety."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Ask a friend whether they think it looks fine",
+                                              "is_correct":  false,
+                                              "feedback":  "A friend\u0027s opinion is not a substitute for evaluating safety."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Check whether the site and file appear trustworthy before downloading",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Safe downloading starts with checking credibility and possible risks."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Disable security tools so the download finishes faster",
+                                              "is_correct":  false,
+                                              "feedback":  "Disabling security tools increases risk and is not safe."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q06",
+                          "type":  "multiple_choice",
+                          "prompt":  "A student receives repeated insulting messages in a group chat. What is the most responsible response?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Respond with harsher insults to stop the behavior",
+                                              "is_correct":  false,
+                                              "feedback":  "Escalating the conflict usually makes the situation worse."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Save evidence, block or report the behavior, and seek help if needed",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. This is a responsible and safer response to cyberbullying."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Share screenshots publicly to embarrass the sender",
+                                              "is_correct":  false,
+                                              "feedback":  "Public retaliation can increase harm rather than solve the problem."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Ignore every harmful message no matter how serious it becomes",
+                                              "is_correct":  false,
+                                              "feedback":  "Some situations require reporting and support, not total inaction."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q07",
+                          "type":  "true_false",
+                          "prompt":  "Two-factor or multi-factor authentication can improve account security.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Multi-factor authentication adds an extra layer of protection beyond a password."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Authentication methods beyond a password increase security, not reduce it."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "DCS-U03-PRETEST-Q08",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which question is most important to ask before clicking a link or opening a message attachment?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Does it come from a trusted source and seem safe to open?",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Verifying trust and safety is the most important first step."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Will it make me more popular online?",
+                                              "is_correct":  false,
+                                              "feedback":  "Popularity should not guide cybersecurity decisions."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Was it sent at a convenient time of day?",
+                                              "is_correct":  false,
+                                              "feedback":  "Timing alone does not determine whether something is safe."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Will my friends think it is interesting?",
+                                              "is_correct":  false,
+                                              "feedback":  "Other people\u0027s reactions are not the priority when evaluating cyber safety."
+                                          }
+                                      ]
+                      }
+                  ]
 }
