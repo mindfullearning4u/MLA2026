@@ -1,20 +1,243 @@
 {
-    "assessment_id":  "CPP-U06-PRETEST",
-    "course_id":  "CPP",
-    "unit_id":  "U06",
-    "title":  "Unit 06 Pretest",
-    "description":  "Diagnostic pretest for Reflection, Presentation, and Professional Growth.",
-    "type":  "pretest",
-    "counts_toward_grade":  false,
-    "required_before_lessons":  true,
-    "display_order":  0,
-    "question_count":  8,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "used_for_acceleration":  true,
-    "used_for_baseline_measurement":  true,
-    "paired_final_assessment_id":  "CPP-U06-UNIT-FINAL",
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U06-PRETEST",
+  "course_id": "CPP",
+  "unit_id": "U06",
+  "title": "Unit 06 Pretest",
+  "description": "Diagnostic pretest for Reflection, Presentation, and Professional Growth.",
+  "type": "pretest",
+  "counts_toward_grade": false,
+  "required_before_lessons": true,
+  "display_order": 0,
+  "question_count": 8,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "used_for_acceleration": true,
+  "used_for_baseline_measurement": true,
+  "paired_final_assessment_id": "CPP-U06-UNIT-FINAL",
+  "questions": [
+    {
+      "question_id": "CPP-U06-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of reflection in career development?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To avoid reviewing past work",
+          "is_correct": false,
+          "feedback": "Reflection requires looking back at work and progress, not avoiding it."
+        },
+        {
+          "id": "B",
+          "text": "To remove the need for goals",
+          "is_correct": false,
+          "feedback": "Reflection can support goal setting and revision rather than replace it."
+        },
+        {
+          "id": "C",
+          "text": "To focus only on mistakes with no strengths",
+          "is_correct": false,
+          "feedback": "Strong reflection includes both strengths and areas for improvement."
+        },
+        {
+          "id": "D",
+          "text": "To think about growth, strengths, and areas for improvement",
+          "is_correct": true,
+          "feedback": "Correct. Reflection helps students review their progress and identify both strengths and next steps."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "Feedback can be used to improve portfolio items or other work.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Feedback is useful because it can help students revise and strengthen their work."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Feedback can help identify what should be revised or improved."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which action best shows revision?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Submitting a weak first draft without changes",
+          "is_correct": false,
+          "feedback": "Revision involves making improvements, not leaving work unchanged."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring comments from a teacher or reviewer",
+          "is_correct": false,
+          "feedback": "Revision often begins by using feedback from others."
+        },
+        {
+          "id": "C",
+          "text": "Improving wording, organization, or detail after review",
+          "is_correct": true,
+          "feedback": "Correct. Revision means making a piece of work stronger after reviewing it."
+        },
+        {
+          "id": "D",
+          "text": "Replacing every item without checking quality",
+          "is_correct": false,
+          "feedback": "Revision should be purposeful and focused on quality."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "Which presentation habit is most professional?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Reading every word in a rushed voice",
+          "is_correct": false,
+          "feedback": "A rushed reading style usually makes a presentation harder to follow."
+        },
+        {
+          "id": "B",
+          "text": "Speaking clearly and organizing ideas in a logical order",
+          "is_correct": true,
+          "feedback": "Correct. Clear delivery and logical organization are important presentation skills."
+        },
+        {
+          "id": "C",
+          "text": "Skipping the main point of the presentation",
+          "is_correct": false,
+          "feedback": "A strong presentation should make the main point clear."
+        },
+        {
+          "id": "D",
+          "text": "Using no preparation at all",
+          "is_correct": false,
+          "feedback": "Preparation usually improves clarity and confidence."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "A portfolio presentation should explain why selected artifacts matter.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A strong portfolio presentation explains what the artifacts are and why they are important."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Artifacts should be explained so the audience understands their purpose."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "What should a student do before giving a portfolio presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Avoid planning the order of ideas",
+          "is_correct": false,
+          "feedback": "Planning helps a presentation stay clear and organized."
+        },
+        {
+          "id": "B",
+          "text": "Show every item without deciding what matters most",
+          "is_correct": false,
+          "feedback": "A strong presentation is selective and focused."
+        },
+        {
+          "id": "C",
+          "text": "Choose a few strong artifacts and prepare how to explain them",
+          "is_correct": true,
+          "feedback": "Correct. Preparation should include selecting strong evidence and planning how to present it."
+        },
+        {
+          "id": "D",
+          "text": "Rely only on guessing during the presentation",
+          "is_correct": false,
+          "feedback": "Preparation usually leads to stronger delivery and clearer explanation."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "A student says, \"I improved because my newer portfolio items are clearer and better organized.\" What skill is the student showing?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Reflection",
+          "is_correct": true,
+          "feedback": "Correct. The student is reflecting on growth by identifying changes and evidence of improvement."
+        },
+        {
+          "id": "B",
+          "text": "Avoiding revision",
+          "is_correct": false,
+          "feedback": "The statement shows awareness of improvement, not avoidance of revision."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring presentation skills",
+          "is_correct": false,
+          "feedback": "The statement is about reflection on growth, not ignoring presentation."
+        },
+        {
+          "id": "D",
+          "text": "Choosing random artifacts",
+          "is_correct": false,
+          "feedback": "The statement focuses on improvement, not random selection."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Why is organization important in a portfolio presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it makes the presentation harder to follow",
+          "is_correct": false,
+          "feedback": "Organization should improve understanding, not make it harder."
+        },
+        {
+          "id": "B",
+          "text": "Because it removes the need to explain artifacts",
+          "is_correct": false,
+          "feedback": "Artifacts still need explanation even when the presentation is organized well."
+        },
+        {
+          "id": "C",
+          "text": "Because it means every slide or item should be read word for word",
+          "is_correct": false,
+          "feedback": "Organization helps structure ideas, but it does not mean reading everything word for word."
+        },
+        {
+          "id": "D",
+          "text": "Because it helps the audience understand the order and purpose of the content",
+          "is_correct": true,
+          "feedback": "Correct. Clear organization helps the audience follow the presentation and understand the message."
+        }
+      ]
+    }
+  ]
 }
