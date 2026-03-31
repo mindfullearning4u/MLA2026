@@ -1,20 +1,243 @@
 {
-    "assessment_id":  "CPP-U04-PRETEST",
-    "course_id":  "CPP",
-    "unit_id":  "U04",
-    "title":  "Unit 04 Pretest",
-    "description":  "Diagnostic pretest for Professional Communication and Resume Development.",
-    "type":  "pretest",
-    "counts_toward_grade":  false,
-    "required_before_lessons":  true,
-    "display_order":  0,
-    "question_count":  8,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "used_for_acceleration":  true,
-    "used_for_baseline_measurement":  true,
-    "paired_final_assessment_id":  "CPP-U04-UNIT-FINAL",
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U04-PRETEST",
+  "course_id": "CPP",
+  "unit_id": "U04",
+  "title": "Unit 04 Pretest",
+  "description": "Diagnostic pretest for Professional Communication and Resume Development.",
+  "type": "pretest",
+  "counts_toward_grade": false,
+  "required_before_lessons": true,
+  "display_order": 0,
+  "question_count": 8,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "used_for_acceleration": true,
+  "used_for_baseline_measurement": true,
+  "paired_final_assessment_id": "CPP-U04-UNIT-FINAL",
+  "questions": [
+    {
+      "question_id": "CPP-U04-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is professional communication?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Communication that is clear, respectful, and appropriate for formal settings",
+          "is_correct": true,
+          "feedback": "Correct. Professional communication should be clear, respectful, and appropriate for school or workplace settings."
+        },
+        {
+          "id": "B",
+          "text": "Communication that uses as much slang as possible",
+          "is_correct": false,
+          "feedback": "Professional communication should avoid slang and overly casual language."
+        },
+        {
+          "id": "C",
+          "text": "Communication that ignores the audience",
+          "is_correct": false,
+          "feedback": "Professional communication should consider the audience and purpose."
+        },
+        {
+          "id": "D",
+          "text": "Communication used only with close friends",
+          "is_correct": false,
+          "feedback": "Professional communication is meant for formal situations, not only personal conversations."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "A resume often includes sections such as education and skills.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Resumes often include sections such as education, skills, and experience or activities."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Education and skills are common resume sections."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Why does formatting matter on a resume?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because formatting helps organize information clearly",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that more directly explains readability and organization."
+        },
+        {
+          "id": "B",
+          "text": "Because formatting makes the resume easier to read and understand",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that more directly connects formatting to professional organization."
+        },
+        {
+          "id": "C",
+          "text": "Because formatting helps present information in a clear and organized way",
+          "is_correct": true,
+          "feedback": "Correct. Good formatting helps a resume look organized and easy to read."
+        },
+        {
+          "id": "D",
+          "text": "Because formatting replaces the need for relevant content",
+          "is_correct": false,
+          "feedback": "Formatting helps presentation, but strong content is still necessary."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student writes, 'hey, i want this job because it sounds cool.' What is the biggest communication problem?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The message is too formal",
+          "is_correct": false,
+          "feedback": "The message is actually too informal, not too formal."
+        },
+        {
+          "id": "B",
+          "text": "The message includes too many section headings",
+          "is_correct": false,
+          "feedback": "The issue is tone, not section headings."
+        },
+        {
+          "id": "C",
+          "text": "The message uses an overly casual tone for a professional setting",
+          "is_correct": true,
+          "feedback": "Correct. Professional communication should use a more formal and respectful tone."
+        },
+        {
+          "id": "D",
+          "text": "The message is too long",
+          "is_correct": false,
+          "feedback": "The main issue is the informal tone, not message length."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "A cover letter is used to explain interest and qualifications for an opportunity.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A cover letter helps explain interest and qualifications in a professional way."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A cover letter does help explain interest and qualifications."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which detail would be most appropriate in a student resume?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A list of favorite snacks",
+          "is_correct": false,
+          "feedback": "Favorite snacks are not relevant resume content."
+        },
+        {
+          "id": "B",
+          "text": "Relevant skills, school information, and activities",
+          "is_correct": true,
+          "feedback": "Correct. A student resume should include relevant skills, education, and activities or experience."
+        },
+        {
+          "id": "C",
+          "text": "A casual message to friends",
+          "is_correct": false,
+          "feedback": "A casual message is not resume content."
+        },
+        {
+          "id": "D",
+          "text": "Unrelated personal opinions",
+          "is_correct": false,
+          "feedback": "A resume should focus on relevant and professional information."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "What should a strong application submission show?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "That the student can follow directions and submit complete professional materials",
+          "is_correct": true,
+          "feedback": "Correct. Strong application submissions show completeness, professionalism, and attention to directions."
+        },
+        {
+          "id": "B",
+          "text": "That the student can submit materials that are complete and professional",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that more directly emphasizes completeness and professionalism together."
+        },
+        {
+          "id": "C",
+          "text": "That the student can avoid revising anything",
+          "is_correct": false,
+          "feedback": "Revision is often an important part of preparing strong documents."
+        },
+        {
+          "id": "D",
+          "text": "That the student can write without considering the opportunity",
+          "is_correct": false,
+          "feedback": "Applications should match the purpose of the opportunity."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which action best supports professional document quality?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignoring spelling and organization",
+          "is_correct": false,
+          "feedback": "Document quality depends on clear and organized writing."
+        },
+        {
+          "id": "B",
+          "text": "Submitting without checking for completeness",
+          "is_correct": false,
+          "feedback": "Students should review documents before submitting them."
+        },
+        {
+          "id": "C",
+          "text": "Using clear writing, organized structure, and careful review",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set is the one that most directly emphasizes revision before submission."
+        },
+        {
+          "id": "D",
+          "text": "Reviewing documents for clarity, organization, and completeness before submission",
+          "is_correct": true,
+          "feedback": "Correct. Reviewing documents before submission helps improve professionalism and quality."
+        }
+      ]
+    }
+  ]
 }
