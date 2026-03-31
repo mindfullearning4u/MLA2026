@@ -1,20 +1,243 @@
 {
-    "assessment_id":  "CPP-U02-PRETEST",
-    "course_id":  "CPP",
-    "unit_id":  "U02",
-    "title":  "Unit 02 Pretest",
-    "description":  "Diagnostic pretest for Career Research and Decision-Making.",
-    "type":  "pretest",
-    "counts_toward_grade":  false,
-    "required_before_lessons":  true,
-    "display_order":  0,
-    "question_count":  8,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "used_for_acceleration":  true,
-    "used_for_baseline_measurement":  true,
-    "paired_final_assessment_id":  "CPP-U02-UNIT-FINAL",
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U02-PRETEST",
+  "course_id": "CPP",
+  "unit_id": "U02",
+  "title": "Unit 02 Pretest",
+  "description": "Diagnostic pretest for Career Research and Decision-Making.",
+  "type": "pretest",
+  "counts_toward_grade": false,
+  "required_before_lessons": true,
+  "display_order": 0,
+  "question_count": 8,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "used_for_acceleration": true,
+  "used_for_baseline_measurement": true,
+  "paired_final_assessment_id": "CPP-U02-UNIT-FINAL",
+  "questions": [
+    {
+      "question_id": "CPP-U02-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the purpose of researching career information?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To learn about job roles, responsibilities, and requirements",
+          "is_correct": true,
+          "feedback": "Correct. Career research helps students learn specific facts about job roles, responsibilities, and requirements."
+        },
+        {
+          "id": "B",
+          "text": "To choose a career without comparing options",
+          "is_correct": false,
+          "feedback": "Career research is meant to support comparison, not avoid it."
+        },
+        {
+          "id": "C",
+          "text": "To skip learning about training pathways",
+          "is_correct": false,
+          "feedback": "Training pathways are an important part of career research."
+        },
+        {
+          "id": "D",
+          "text": "To focus only on hobbies instead of careers",
+          "is_correct": false,
+          "feedback": "Career research should stay focused on career information."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "A certification is one type of preparation that may be connected to a career pathway.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A certification can be part of a career pathway because it shows training or skill in a specific area."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Certifications can be an important part of education and training pathways."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows job outlook information?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A description of what a worker does every hour",
+          "is_correct": false,
+          "feedback": "That describes job duties, not job outlook."
+        },
+        {
+          "id": "B",
+          "text": "A list of school clubs a student enjoys",
+          "is_correct": false,
+          "feedback": "School clubs are not job outlook information."
+        },
+        {
+          "id": "C",
+          "text": "Information showing whether a career is expected to grow or decline",
+          "is_correct": true,
+          "feedback": "Correct. Job outlook information shows future demand or growth trends for a career."
+        },
+        {
+          "id": "D",
+          "text": "A summary of a student's favorite classes",
+          "is_correct": false,
+          "feedback": "Favorite classes may connect to career interests, but they are not outlook data."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student is comparing two careers and wants to make an informed decision. What should the student do?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Choose the first option without reviewing any evidence",
+          "is_correct": false,
+          "feedback": "An informed decision should be based on evidence, not a quick guess."
+        },
+        {
+          "id": "B",
+          "text": "Ignore job duties and pathway requirements",
+          "is_correct": false,
+          "feedback": "Job duties and pathway requirements are important when comparing careers."
+        },
+        {
+          "id": "C",
+          "text": "Pick the option a friend likes most",
+          "is_correct": false,
+          "feedback": "A friend's opinion is not enough evidence for career decision-making."
+        },
+        {
+          "id": "D",
+          "text": "Compare information such as role, training, outlook, and personal fit",
+          "is_correct": true,
+          "feedback": "Correct. Informed decisions come from comparing clear evidence across more than one factor."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "Technical training is one possible pathway students can research for a career.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Technical training is one possible education and training pathway for many careers."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Technical training can absolutely be part of a career pathway."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "What does salary information help a student understand?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Which career cluster is most popular at school",
+          "is_correct": false,
+          "feedback": "Popularity at school is not the purpose of salary information."
+        },
+        {
+          "id": "B",
+          "text": "How much workers may earn in a career",
+          "is_correct": true,
+          "feedback": "Correct. Salary information helps students understand possible earnings in a career."
+        },
+        {
+          "id": "C",
+          "text": "Whether a student likes group projects",
+          "is_correct": false,
+          "feedback": "That is a personal preference, not salary information."
+        },
+        {
+          "id": "D",
+          "text": "Which teacher gives the easiest assignments",
+          "is_correct": false,
+          "feedback": "Salary data is about careers, not classroom assignments."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes an informed career choice?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A choice based only on one quick impression",
+          "is_correct": false,
+          "feedback": "An informed choice should include more than one quick impression."
+        },
+        {
+          "id": "B",
+          "text": "A choice based only on salary",
+          "is_correct": false,
+          "feedback": "Salary matters, but informed choices should include more than one factor."
+        },
+        {
+          "id": "C",
+          "text": "A choice based on comparing evidence and reflecting on options",
+          "is_correct": true,
+          "feedback": "Correct. Informed career choices use research evidence and reflection together."
+        },
+        {
+          "id": "D",
+          "text": "A choice made without looking at training requirements",
+          "is_correct": false,
+          "feedback": "Training requirements are an important part of career decision-making."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U02-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which factor belongs in evaluating career choices?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignoring all research once a career sounds interesting",
+          "is_correct": false,
+          "feedback": "Research should still be used even when a career sounds interesting."
+        },
+        {
+          "id": "B",
+          "text": "Avoiding any comparison between options",
+          "is_correct": false,
+          "feedback": "Comparing options is part of evaluating career choices."
+        },
+        {
+          "id": "C",
+          "text": "Choosing based only on what someone else recommends",
+          "is_correct": false,
+          "feedback": "Other opinions may help, but evaluation should include the student's own research."
+        },
+        {
+          "id": "D",
+          "text": "Looking at evidence from different sources before deciding",
+          "is_correct": true,
+          "feedback": "Correct. Evaluating career choices means reviewing evidence before making a decision."
+        }
+      ]
+    }
+  ]
 }
