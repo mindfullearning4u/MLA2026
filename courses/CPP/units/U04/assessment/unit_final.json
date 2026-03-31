@@ -1,20 +1,293 @@
 {
-    "assessment_id":  "CPP-U04-UNIT-FINAL",
-    "course_id":  "CPP",
-    "unit_id":  "U04",
-    "title":  "Unit Final: Professional Communication and Resume Development",
-    "type":  "unit_final",
-    "counts_toward_grade":  true,
-    "weight":  40,
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  6,
-    "question_count":  10,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U04-UNIT-FINAL",
+  "course_id": "CPP",
+  "unit_id": "U04",
+  "title": "Unit Final: Professional Communication and Resume Development",
+  "type": "unit_final",
+  "counts_toward_grade": true,
+  "weight": 40,
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 6,
+  "question_count": 10,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of professional communication?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To communicate clearly and respectfully in formal situations",
+          "is_correct": true,
+          "feedback": "Correct. Professional communication should be clear, respectful, and appropriate for the setting."
+        },
+        {
+          "id": "B",
+          "text": "To sound as casual as possible",
+          "is_correct": false,
+          "feedback": "Professional communication should avoid overly casual language."
+        },
+        {
+          "id": "C",
+          "text": "To ignore the audience and purpose",
+          "is_correct": false,
+          "feedback": "Audience and purpose matter in professional communication."
+        },
+        {
+          "id": "D",
+          "text": "To avoid using complete sentences",
+          "is_correct": false,
+          "feedback": "Professional communication should be clear and complete."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q02",
+      "type": "true_false",
+      "prompt": "A strong resume should be organized and easy to read.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A strong resume should be organized and easy to read."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Resume organization and readability are important."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which group shows common resume sections?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Education, skills, and experience or activities",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that most clearly emphasizes structured resume categories."
+        },
+        {
+          "id": "B",
+          "text": "Favorite movies, hobbies, and lunch choices",
+          "is_correct": false,
+          "feedback": "Those details are not typical resume sections."
+        },
+        {
+          "id": "C",
+          "text": "Education, skills, and relevant experiences or activities",
+          "is_correct": true,
+          "feedback": "Correct. These are common sections in a student resume."
+        },
+        {
+          "id": "D",
+          "text": "Personal jokes, game scores, and playlists",
+          "is_correct": false,
+          "feedback": "Those details do not belong in a professional resume."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student is revising a resume before applying for a leadership program. Which change would most improve the document?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Replacing section headings with random sentences",
+          "is_correct": false,
+          "feedback": "That would make the resume harder to read."
+        },
+        {
+          "id": "B",
+          "text": "Adding casual phrases to sound more friendly",
+          "is_correct": false,
+          "feedback": "Casual language can weaken professional documents."
+        },
+        {
+          "id": "C",
+          "text": "Organizing the information clearly and removing unrelated details",
+          "is_correct": true,
+          "feedback": "Correct. Clear organization and relevant content improve resume quality."
+        },
+        {
+          "id": "D",
+          "text": "Removing the skills section entirely",
+          "is_correct": false,
+          "feedback": "Relevant sections such as skills should usually remain in the resume."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q05",
+      "type": "true_false",
+      "prompt": "A cover letter can help explain why a student is interested in an opportunity.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A cover letter helps explain interest and qualifications."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Cover letters are used to explain interest and qualifications."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is most appropriate for a professional application response?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yo i just want to try this out",
+          "is_correct": false,
+          "feedback": "This response is too informal for a professional application."
+        },
+        {
+          "id": "B",
+          "text": "i forgot the details but maybe i qualify",
+          "is_correct": false,
+          "feedback": "This response is unclear and unprofessional."
+        },
+        {
+          "id": "C",
+          "text": "I am interested in this opportunity and believe my skills would support the role",
+          "is_correct": true,
+          "feedback": "Correct. This sentence is clear, professional, and focused on the opportunity."
+        },
+        {
+          "id": "D",
+          "text": "pick me because i need something to do",
+          "is_correct": false,
+          "feedback": "This wording is too casual and does not show professionalism."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q07",
+      "type": "multiple_choice",
+      "prompt": "A student is preparing a resume and short application statement for a volunteer opportunity. What should the student do first?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use random information to fill space",
+          "is_correct": false,
+          "feedback": "Professional documents should include relevant information, not random details."
+        },
+        {
+          "id": "B",
+          "text": "Ignore the purpose of the opportunity",
+          "is_correct": false,
+          "feedback": "Documents should connect to the purpose of the opportunity."
+        },
+        {
+          "id": "C",
+          "text": "Submit without reviewing anything",
+          "is_correct": false,
+          "feedback": "Review is important before submission."
+        },
+        {
+          "id": "D",
+          "text": "Gather relevant information and organize it clearly before submission",
+          "is_correct": true,
+          "feedback": "Correct. Strong professional documents begin with organized, relevant information."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q08",
+      "type": "multiple_choice",
+      "prompt": "Why is revision important before submitting professional documents?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because revision can improve clarity, organization, and professionalism",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that more directly emphasizes improving quality before submission."
+        },
+        {
+          "id": "B",
+          "text": "Because revision can help documents become clearer, more complete, and more professional",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that most directly ties revision to submission readiness."
+        },
+        {
+          "id": "C",
+          "text": "Because revision is only for fixing spelling and nothing else",
+          "is_correct": false,
+          "feedback": "Revision can improve much more than spelling."
+        },
+        {
+          "id": "D",
+          "text": "Because revision helps make documents stronger before they are submitted",
+          "is_correct": true,
+          "feedback": "Correct. Revision improves quality, clarity, and readiness before submission."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q09",
+      "type": "true_false",
+      "prompt": "A complete application submission should include the materials required by the opportunity.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "A complete application submission should include the materials required by the opportunity."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. A strong application submission includes the required materials."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U04-UNIT-FINAL-Q10",
+      "type": "multiple_choice",
+      "prompt": "A student has a resume draft, a cover letter draft, and application instructions. What does this situation best require?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Reviewing all documents for professionalism, completeness, and alignment with the opportunity",
+          "is_correct": true,
+          "feedback": "Correct. Students should review all documents for professionalism, completeness, and fit before submission."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring the instructions and submitting quickly",
+          "is_correct": false,
+          "feedback": "Students should review instructions carefully before submitting."
+        },
+        {
+          "id": "C",
+          "text": "Removing all details so the documents stay short",
+          "is_correct": false,
+          "feedback": "Documents still need relevant information."
+        },
+        {
+          "id": "D",
+          "text": "Using informal tone so the documents sound more personal",
+          "is_correct": false,
+          "feedback": "Professional documents should use an appropriate tone."
+        }
+      ]
+    }
+  ]
 }
