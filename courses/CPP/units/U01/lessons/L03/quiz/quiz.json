@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U01-L03-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U01",
-    "lesson_id":  "CPP-U01-L03",
-    "title":  "Lesson Quiz: Career Clusters and Pathways",
-    "description":  "Assessment of the concept that Exploring career categories and industries.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U01-L03-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U01",
+  "lesson_id": "CPP-U01-L03",
+  "title": "Lesson Quiz: Career Clusters and Pathways",
+  "description": "Assessment of the concept that Exploring career categories and industries.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U01-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is a career cluster?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A group of related jobs and industries",
+          "is_correct": true,
+          "feedback": "Correct. A career cluster is a broad category that includes related jobs and industries."
+        },
+        {
+          "id": "B",
+          "text": "One class a student takes in high school",
+          "is_correct": false,
+          "feedback": "A class may support career learning, but it is not a career cluster."
+        },
+        {
+          "id": "C",
+          "text": "A single employer's application form",
+          "is_correct": false,
+          "feedback": "An application form is not a career cluster."
+        },
+        {
+          "id": "D",
+          "text": "A list of personal hobbies only",
+          "is_correct": false,
+          "feedback": "Hobbies may connect to careers, but they are not career clusters."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L03-Q02",
+      "type": "true_false",
+      "prompt": "A career pathway is a more specific route within a broader career cluster.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A career pathway is a more specific area within a larger cluster."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Pathways help students explore more specific options inside a broad career cluster."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows a career pathway?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A report card with semester grades",
+          "is_correct": false,
+          "feedback": "A report card is not a career pathway."
+        },
+        {
+          "id": "B",
+          "text": "A school's lunch menu",
+          "is_correct": false,
+          "feedback": "A lunch menu does not describe a career pathway."
+        },
+        {
+          "id": "C",
+          "text": "A more focused area within a broad career field",
+          "is_correct": true,
+          "feedback": "Correct. A pathway is a narrower route within a larger career cluster."
+        },
+        {
+          "id": "D",
+          "text": "A student's weekend plans",
+          "is_correct": false,
+          "feedback": "Weekend plans are unrelated to the idea of a career pathway."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is learning about career clusters useful?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It guarantees one final career choice right away",
+          "is_correct": false,
+          "feedback": "Career clusters help with exploration, but they do not guarantee one final choice."
+        },
+        {
+          "id": "B",
+          "text": "It removes the need for self-assessment",
+          "is_correct": false,
+          "feedback": "Self-assessment still matters when exploring careers."
+        },
+        {
+          "id": "C",
+          "text": "It helps students organize options and explore related careers",
+          "is_correct": false,
+          "feedback": "This is close, but the best answer here is the clearer connection to exploring categories and industries."
+        },
+        {
+          "id": "D",
+          "text": "It helps students see how jobs can be grouped into related categories",
+          "is_correct": true,
+          "feedback": "Correct. Career clusters help students understand how jobs connect across related industries."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L03-Q05",
+      "type": "true_false",
+      "prompt": "Career clusters and pathways can help students explore more than one possible future career option.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Clusters and pathways help students compare several related options."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Career clusters are useful because they open up multiple connected options, not just one."
+        }
+      ]
+    }
+  ]
 }

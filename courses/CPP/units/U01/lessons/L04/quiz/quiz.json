@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U01-L04-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U01",
-    "lesson_id":  "CPP-U01-L04",
-    "title":  "Lesson Quiz: Matching Self to Careers",
-    "description":  "Assessment of the concept that Connecting personal traits to career options.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U01-L04-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U01",
+  "lesson_id": "CPP-U01-L04",
+  "title": "Lesson Quiz: Matching Self to Careers",
+  "description": "Assessment of the concept that Connecting personal traits to career options.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U01-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does it mean to match self to careers?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Connecting personal traits and preferences to possible career options",
+          "is_correct": true,
+          "feedback": "Correct. Matching self to careers means comparing personal traits to career possibilities."
+        },
+        {
+          "id": "B",
+          "text": "Choosing a career based only on what friends prefer",
+          "is_correct": false,
+          "feedback": "Career choices should be based on personal evidence, not only peer opinions."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring interests and values during career planning",
+          "is_correct": false,
+          "feedback": "Interests and values are important when matching self to careers."
+        },
+        {
+          "id": "D",
+          "text": "Selecting a job at random to save time",
+          "is_correct": false,
+          "feedback": "Random choice does not reflect careful career matching."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L04-Q02",
+      "type": "true_false",
+      "prompt": "A good career match can be supported by interests, strengths, values, and work preferences.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A strong career match should use several personal factors together."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Career matching works best when students use multiple types of personal evidence."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "A student enjoys solving problems, likes math, and prefers detailed work. Which option best explains how this information helps?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It proves the student should never explore any other field",
+          "is_correct": false,
+          "feedback": "Self-information helps narrow options, but it does not eliminate all other possibilities."
+        },
+        {
+          "id": "B",
+          "text": "It shows patterns that may connect the student to careers with similar demands",
+          "is_correct": false,
+          "feedback": "This is close, but the best answer here is the more direct statement about matching traits to careers."
+        },
+        {
+          "id": "C",
+          "text": "It provides evidence that can help match personal traits to career options",
+          "is_correct": true,
+          "feedback": "Correct. Personal traits can help students identify careers that may be a stronger fit."
+        },
+        {
+          "id": "D",
+          "text": "It means salary should be ignored completely",
+          "is_correct": false,
+          "feedback": "This lesson focuses on matching self to careers, not ignoring all other considerations."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is it useful to compare yourself with more than one career option?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because one quick guess is always enough",
+          "is_correct": false,
+          "feedback": "Students should compare options carefully rather than rely on one quick guess."
+        },
+        {
+          "id": "B",
+          "text": "Because comparing options can help students find better career matches",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer is the one that directly ties comparison to informed decision-making."
+        },
+        {
+          "id": "C",
+          "text": "Because it removes the need for future reflection",
+          "is_correct": false,
+          "feedback": "Career planning still involves reflection over time."
+        },
+        {
+          "id": "D",
+          "text": "Because comparing options supports more informed and thoughtful choices",
+          "is_correct": true,
+          "feedback": "Correct. Comparing options helps students make stronger career matches based on evidence."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-L04-Q05",
+      "type": "true_false",
+      "prompt": "Matching self to careers is a process that can involve reflection and adjustment over time.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Career matching can change as students learn more about themselves and different careers."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Career matching is not always fixed. It can develop over time with more reflection and information."
+        }
+      ]
+    }
+  ]
 }
