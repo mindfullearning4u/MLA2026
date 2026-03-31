@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-  "questions": [
-    {
-      "question_id": "ECON-U01-L04-QUIZ-001",
-      "type": "multiple_choice",
-      "prompt": "What is an incentive?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "Something that motivates a person or organization to act",
-          "is_correct": true,
-          "feedback": "Correct. An incentive encourages or discourages behavior."
-        },
-        {
-          "id": "B",
-          "text": "A type of economic system used by governments",
-          "is_correct": false,
-          "feedback": "An incentive is not an economic system."
-        },
-        {
-          "id": "C",
-          "text": "A productive resource used in manufacturing",
-          "is_correct": false,
-          "feedback": "An incentive influences behavior. It is not a productive resource."
-        },
-        {
-          "id": "D",
-          "text": "A cost that has no effect on decisions",
-          "is_correct": false,
-          "feedback": "Incentives are important because they affect decisions and behavior."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-L04-QUIZ-002",
-      "type": "true_false",
-      "prompt": "A positive incentive is a reward that encourages a choice or behavior.",
-      "choices": [
-        {
-          "id": "A",
-          "text": "True",
-          "is_correct": true,
-          "feedback": "Correct. Positive incentives reward behavior and encourage action."
-        },
-        {
-          "id": "B",
-          "text": "False",
-          "is_correct": false,
-          "feedback": "This statement is true. Positive incentives are rewards that encourage behavior."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-L04-QUIZ-003",
-      "type": "multiple_choice",
-      "prompt": "Which of the following is the best example of a negative incentive?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "A scholarship for strong grades",
-          "is_correct": false,
-          "feedback": "A scholarship is a reward, so it is a positive incentive."
-        },
-        {
-          "id": "B",
-          "text": "A discount offered during a sale",
-          "is_correct": false,
-          "feedback": "A discount is a reward to encourage buying, so it is a positive incentive."
-        },
-        {
-          "id": "C",
-          "text": "A late fee for paying a bill after the deadline",
-          "is_correct": true,
-          "feedback": "Correct. A late fee is a penalty that discourages late payment, so it is a negative incentive."
-        },
-        {
-          "id": "D",
-          "text": "A bonus for perfect attendance",
-          "is_correct": false,
-          "feedback": "A bonus is a reward, so it is a positive incentive."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-L04-QUIZ-004",
-      "type": "true_false",
-      "prompt": "Incentives can include money, time, convenience, privileges, penalties, or risk.",
-      "choices": [
-        {
-          "id": "A",
-          "text": "True",
-          "is_correct": true,
-          "feedback": "Correct. Incentives are not limited to money. They can include many kinds of rewards or consequences."
-        },
-        {
-          "id": "B",
-          "text": "False",
-          "is_correct": false,
-          "feedback": "Incentives can involve many things besides money, including time, convenience, penalties, and privileges."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-L04-QUIZ-005",
-      "type": "multiple_choice",
-      "prompt": "Why do economists pay attention to incentives?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "Because incentives eliminate scarcity",
-          "is_correct": false,
-          "feedback": "Incentives do not eliminate scarcity. They influence how people respond to choices and costs."
-        },
-        {
-          "id": "B",
-          "text": "Because incentives help explain how and why people change behavior",
-          "is_correct": true,
-          "feedback": "Correct. Incentives matter because they influence decision-making and behavior."
-        },
-        {
-          "id": "C",
-          "text": "Because incentives replace all trade-offs",
-          "is_correct": false,
-          "feedback": "Trade-offs still exist. Incentives influence choices, but they do not replace trade-offs."
-        },
-        {
-          "id": "D",
-          "text": "Because incentives apply only to businesses",
-          "is_correct": false,
-          "feedback": "Incentives apply to individuals, businesses, and governments."
-        }
-      ]
-    }
-  ]
+    "questions":  [
+                      {
+                          "question_id":  "ECON-U01-L04-QUIZ-001",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is an incentive?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Something that motivates a person or organization to act",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. An incentive encourages or discourages behavior."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "A type of economic system used by governments",
+                                              "is_correct":  false,
+                                              "feedback":  "An incentive is not an economic system."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "A productive resource used in manufacturing",
+                                              "is_correct":  false,
+                                              "feedback":  "An incentive influences behavior. It is not a productive resource."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "A cost that has no effect on decisions",
+                                              "is_correct":  false,
+                                              "feedback":  "Incentives are important because they affect decisions and behavior."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-L04-QUIZ-002",
+                          "type":  "true_false",
+                          "prompt":  "A positive incentive is a reward that encourages a choice or behavior.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This statement is true. Positive incentives are rewards that encourage behavior."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Positive incentives reward behavior and encourage action."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-L04-QUIZ-003",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which of the following is the best example of a negative incentive?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "A scholarship for strong grades",
+                                              "is_correct":  false,
+                                              "feedback":  "A scholarship is a reward, so it is a positive incentive."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "A discount offered during a sale",
+                                              "is_correct":  false,
+                                              "feedback":  "A discount is a reward to encourage buying, so it is a positive incentive."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "A late fee for paying a bill after the deadline",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A late fee is a penalty that discourages late payment, so it is a negative incentive."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "A bonus for perfect attendance",
+                                              "is_correct":  false,
+                                              "feedback":  "A bonus is a reward, so it is a positive incentive."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-L04-QUIZ-004",
+                          "type":  "true_false",
+                          "prompt":  "Incentives can include money, time, convenience, privileges, penalties, or risk.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Incentives are not limited to money. They can include many kinds of rewards or consequences."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incentives can involve many things besides money, including time, convenience, penalties, and privileges."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-L04-QUIZ-005",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why do economists pay attention to incentives?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Because incentives eliminate scarcity",
+                                              "is_correct":  false,
+                                              "feedback":  "Incentives do not eliminate scarcity. They influence how people respond to choices and costs."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Because incentives replace all trade-offs",
+                                              "is_correct":  false,
+                                              "feedback":  "Trade-offs still exist. Incentives influence choices, but they do not replace trade-offs."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Because incentives apply only to businesses",
+                                              "is_correct":  false,
+                                              "feedback":  "Incentives apply to individuals, businesses, and governments."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Because incentives help explain how and why people change behavior",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Incentives matter because they influence decision-making and behavior."
+                                          }
+                                      ]
+                      }
+                  ]
 }

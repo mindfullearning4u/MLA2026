@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-      {
-        "question_id": "ECON-U06-L04-Q01",
-        "type": "multiple_choice",
-        "prompt": "What is a market economy?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "An economy in which the government makes many major production decisions",
-            "is_correct": false,
-            "feedback": "That best describes a command economy."
-          },
-          {
-            "id": "B",
-            "text": "An economy in which individuals and businesses make many economic decisions",
-            "is_correct": true,
-            "feedback": "Correct. In a market economy, private individuals and businesses make many key decisions."
-          },
-          {
-            "id": "C",
-            "text": "An economy with no trade at all",
-            "is_correct": false,
-            "feedback": "Market economy refers to how decisions are made, not whether trade exists."
-          },
-          {
-            "id": "D",
-            "text": "An economy that combines only foreign and domestic trade",
-            "is_correct": false,
-            "feedback": "This does not define a market economy."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U06-L04-Q02",
-        "type": "true_false",
-        "prompt": "A command economy is one in which the government makes many major economic decisions.",
-        "choices": [
-          {
-            "id": "A",
-            "text": "True",
-            "is_correct": true,
-            "feedback": "Correct. In a command economy, the government plays the main decision-making role."
-          },
-          {
-            "id": "B",
-            "text": "False",
-            "is_correct": false,
-            "feedback": "This statement is true because command economies involve major government control of decisions."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U06-L04-Q03",
-        "type": "multiple_choice",
-        "prompt": "What is a mixed economy?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "An economy that avoids all government involvement",
-            "is_correct": false,
-            "feedback": "A mixed economy includes some government role rather than avoiding it completely."
-          },
-          {
-            "id": "B",
-            "text": "An economy that combines features of market and command systems",
-            "is_correct": true,
-            "feedback": "Correct. A mixed economy includes elements of both market and command systems."
-          },
-          {
-            "id": "C",
-            "text": "An economy where trade happens only within one country",
-            "is_correct": false,
-            "feedback": "This does not define a mixed economy."
-          },
-          {
-            "id": "D",
-            "text": "An economy where consumers make no decisions",
-            "is_correct": false,
-            "feedback": "Consumers and businesses still make many decisions in mixed economies."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U06-L04-Q04",
-        "type": "multiple_choice",
-        "prompt": "Why is it useful to compare economic systems across countries?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Because all countries organize their economies in exactly the same way",
-            "is_correct": false,
-            "feedback": "Countries do not all organize economic decisions in the same way."
-          },
-          {
-            "id": "B",
-            "text": "Because comparison helps explain how different countries make economic decisions and still participate in global trade",
-            "is_correct": true,
-            "feedback": "Correct. Comparing systems helps explain how countries organize decisions and operate in the global economy."
-          },
-          {
-            "id": "C",
-            "text": "Because only command economies participate in trade",
-            "is_correct": false,
-            "feedback": "Countries with different systems can all participate in trade."
-          },
-          {
-            "id": "D",
-            "text": "Because economic systems never affect production decisions",
-            "is_correct": false,
-            "feedback": "Economic systems do affect how production and resource decisions are made."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U06-L04-Q05",
-        "type": "true_false",
-        "prompt": "Countries with different economic systems can still participate in global trade.",
-        "choices": [
-          {
-            "id": "A",
-            "text": "True",
-            "is_correct": true,
-            "feedback": "Correct. Countries with different economic systems can still trade with one another."
-          },
-          {
-            "id": "B",
-            "text": "False",
-            "is_correct": false,
-            "feedback": "This statement is true because countries with different systems can participate in global trade."
-          }
-        ]
-      }
-    ]
+    "questions":  [
+                      {
+                          "question_id":  "ECON-U06-L04-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is a market economy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "An economy in which individuals and businesses make many economic decisions",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. In a market economy, private individuals and businesses make many key decisions."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "An economy in which the government makes many major production decisions",
+                                              "is_correct":  false,
+                                              "feedback":  "That best describes a command economy."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "An economy with no trade at all",
+                                              "is_correct":  false,
+                                              "feedback":  "Market economy refers to how decisions are made, not whether trade exists."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "An economy that combines only foreign and domestic trade",
+                                              "is_correct":  false,
+                                              "feedback":  "This does not define a market economy."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U06-L04-Q02",
+                          "type":  "true_false",
+                          "prompt":  "A command economy is one in which the government makes many major economic decisions.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This statement is true because command economies involve major government control of decisions."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. In a command economy, the government plays the main decision-making role."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U06-L04-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is a mixed economy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "An economy that avoids all government involvement",
+                                              "is_correct":  false,
+                                              "feedback":  "A mixed economy includes some government role rather than avoiding it completely."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "An economy where trade happens only within one country",
+                                              "is_correct":  false,
+                                              "feedback":  "This does not define a mixed economy."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "An economy that combines features of market and command systems",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A mixed economy includes elements of both market and command systems."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "An economy where consumers make no decisions",
+                                              "is_correct":  false,
+                                              "feedback":  "Consumers and businesses still make many decisions in mixed economies."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U06-L04-Q04",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why is it useful to compare economic systems across countries?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Because all countries organize their economies in exactly the same way",
+                                              "is_correct":  false,
+                                              "feedback":  "Countries do not all organize economic decisions in the same way."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Because only command economies participate in trade",
+                                              "is_correct":  false,
+                                              "feedback":  "Countries with different systems can all participate in trade."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Because economic systems never affect production decisions",
+                                              "is_correct":  false,
+                                              "feedback":  "Economic systems do affect how production and resource decisions are made."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Because comparison helps explain how different countries make economic decisions and still participate in global trade",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Comparing systems helps explain how countries organize decisions and operate in the global economy."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U06-L04-Q05",
+                          "type":  "true_false",
+                          "prompt":  "Countries with different economic systems can still participate in global trade.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Countries with different economic systems can still trade with one another."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This statement is true because countries with different systems can participate in global trade."
+                                          }
+                                      ]
+                      }
+                  ]
 }

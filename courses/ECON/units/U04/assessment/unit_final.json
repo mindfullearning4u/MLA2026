@@ -1,292 +1,293 @@
 {
-  "assessment_id": "ECON-U04-UNIT-FINAL",
-  "course_id": "ECON",
-  "unit_id": "U04",
-  "title": "Unit Final: Government Policy, Taxes, and Regulation",
-  "type": "unit_final",
-  "counts_toward_grade": true,
-  "weight": 40,
-  "max_attempts": 2,
-  "record_highest_score": true,
-  "mastery_threshold": 80,
-  "acceleration_eligible_threshold": 90,
-  "display_order": 6,
-  "question_count": 10,
-  "randomize_questions": true,
-  "show_feedback": true,
-  "questions": [
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q01",
-    "type": "multiple_choice",
-    "prompt": "Why might government intervene in the economy?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To respond when markets do not provide enough public goods or solve certain problems well",
-        "is_correct": true,
-        "feedback": "Correct. Government may intervene when markets do not fully meet public needs or when market failures occur."
-      },
-      {
-        "id": "B",
-        "text": "To make all businesses identical",
-        "is_correct": false,
-        "feedback": "Government intervention does not mean making all businesses the same."
-      },
-      {
-        "id": "C",
-        "text": "To prevent all consumers from making choices",
-        "is_correct": false,
-        "feedback": "Consumers still make many economic decisions in most economies."
-      },
-      {
-        "id": "D",
-        "text": "To eliminate every market transaction",
-        "is_correct": false,
-        "feedback": "Government intervention usually addresses problems or provides services rather than eliminating all market activity."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q02",
-    "type": "true_false",
-    "prompt": "A public good is a product or service that many people can use at the same time, such as streetlights.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Streetlights are a common example of a public good."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "This is incorrect. Public goods can often be used by many people at once."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q03",
-    "type": "multiple_choice",
-    "prompt": "Which type of tax is usually added when a consumer buys a product at a store?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Income tax",
-        "is_correct": false,
-        "feedback": "Income tax is collected from earnings, not directly added at checkout."
-      },
-      {
-        "id": "B",
-        "text": "Property tax",
-        "is_correct": false,
-        "feedback": "Property tax is based on property value."
-      },
-      {
-        "id": "C",
-        "text": "Sales tax",
-        "is_correct": true,
-        "feedback": "Correct. Sales tax is commonly added to the purchase price of goods and services."
-      },
-      {
-        "id": "D",
-        "text": "Payroll tax",
-        "is_correct": false,
-        "feedback": "That is not the best answer for a tax added at the point of sale."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q04",
-    "type": "multiple_choice",
-    "prompt": "A city increases spending on road repairs and lowers some taxes during an economic slowdown. Which policy is the city most likely using?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Expansionary fiscal policy",
-        "is_correct": true,
-        "feedback": "Correct. Increasing spending and lowering taxes are expansionary actions meant to encourage economic activity."
-      },
-      {
-        "id": "B",
-        "text": "Contractionary fiscal policy",
-        "is_correct": false,
-        "feedback": "Contractionary policy usually reduces spending or raises taxes."
-      },
-      {
-        "id": "C",
-        "text": "Property taxation policy only",
-        "is_correct": false,
-        "feedback": "The scenario is broader than one tax category and focuses on overall fiscal strategy."
-      },
-      {
-        "id": "D",
-        "text": "Consumer labeling regulation",
-        "is_correct": false,
-        "feedback": "That would be a regulation example, not fiscal policy."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q05",
-    "type": "true_false",
-    "prompt": "Contractionary fiscal policy may involve reducing government spending or raising taxes.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Contractionary fiscal policy is used to slow economic activity."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "This is incorrect. Cutting spending or raising taxes are common contractionary actions."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q06",
-    "type": "multiple_choice",
-    "prompt": "Why do governments collect taxes?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To raise revenue for public services and government responsibilities",
-        "is_correct": true,
-        "feedback": "Correct. Taxes help fund public services, programs, and government operations."
-      },
-      {
-        "id": "B",
-        "text": "To remove all consumer spending from the economy",
-        "is_correct": false,
-        "feedback": "Taxes may affect decisions, but that is not their main purpose."
-      },
-      {
-        "id": "C",
-        "text": "To eliminate the need for regulation",
-        "is_correct": false,
-        "feedback": "Taxes and regulation are different government tools."
-      },
-      {
-        "id": "D",
-        "text": "To guarantee that every business makes a profit",
-        "is_correct": false,
-        "feedback": "Taxes are not collected to guarantee profits."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q07",
-    "type": "multiple_choice",
-    "prompt": "A government requires food companies to list ingredients and nutrition information on packages. What is the main purpose of this regulation?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Consumer protection",
-        "is_correct": true,
-        "feedback": "Correct. Labeling rules help consumers make informed and safer decisions."
-      },
-      {
-        "id": "B",
-        "text": "Expansionary fiscal policy",
-        "is_correct": false,
-        "feedback": "This is not a spending or tax decision meant to influence the economy broadly."
-      },
-      {
-        "id": "C",
-        "text": "Income taxation",
-        "is_correct": false,
-        "feedback": "The scenario is about regulation, not a tax category."
-      },
-      {
-        "id": "D",
-        "text": "Public transportation funding",
-        "is_correct": false,
-        "feedback": "That is unrelated to the scenario."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q08",
-    "type": "multiple_choice",
-    "prompt": "A city limits pollution from factories near neighborhoods. Which statement best describes a likely tradeoff of this regulation?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "The rule may improve public health, but businesses may face higher costs to comply",
-        "is_correct": true,
-        "feedback": "Correct. Many regulations provide public benefits while also creating costs for businesses."
-      },
-      {
-        "id": "B",
-        "text": "The rule has no effect on business decisions at all",
-        "is_correct": false,
-        "feedback": "Regulations often affect business costs and choices."
-      },
-      {
-        "id": "C",
-        "text": "The rule automatically eliminates all pollution forever",
-        "is_correct": false,
-        "feedback": "Regulations may reduce harm, but they do not guarantee perfect outcomes."
-      },
-      {
-        "id": "D",
-        "text": "The rule is the same as lowering taxes for households",
-        "is_correct": false,
-        "feedback": "That would be a different policy tool."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q09",
-    "type": "multiple_choice",
-    "prompt": "A state raises gasoline taxes to repair roads and bridges. What is the best explanation of this policy?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "The state is raising revenue through taxes to support public infrastructure",
-        "is_correct": true,
-        "feedback": "Correct. The policy uses taxes to raise revenue for a public purpose."
-      },
-      {
-        "id": "B",
-        "text": "The state is using environmental regulation only",
-        "is_correct": false,
-        "feedback": "The main tool in the scenario is taxation to fund infrastructure."
-      },
-      {
-        "id": "C",
-        "text": "The state is removing all government intervention from the economy",
-        "is_correct": false,
-        "feedback": "Raising taxes for road repair is clearly a government action."
-      },
-      {
-        "id": "D",
-        "text": "The state is using contractionary fiscal policy because no public purpose is involved",
-        "is_correct": false,
-        "feedback": "The scenario directly shows a public purpose: road and bridge repair."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U04-UNIT-FINAL-Q10",
-    "type": "true_false",
-    "prompt": "When governments create regulations, they often try to balance public protection with economic freedom.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Good policy design often tries to protect the public without restricting economic activity more than necessary."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "This is incorrect. A common goal of regulation is to balance protection with economic freedom."
-      }
-    ]
-  }]
+    "assessment_id":  "ECON-U04-UNIT-FINAL",
+    "course_id":  "ECON",
+    "unit_id":  "U04",
+    "title":  "Unit Final: Government Policy, Taxes, and Regulation",
+    "type":  "unit_final",
+    "counts_toward_grade":  true,
+    "weight":  40,
+    "max_attempts":  2,
+    "record_highest_score":  true,
+    "mastery_threshold":  80,
+    "acceleration_eligible_threshold":  90,
+    "display_order":  6,
+    "question_count":  10,
+    "randomize_questions":  true,
+    "show_feedback":  true,
+    "questions":  [
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why might government intervene in the economy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To respond when markets do not provide enough public goods or solve certain problems well",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Government may intervene when markets do not fully meet public needs or when market failures occur."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To make all businesses identical",
+                                              "is_correct":  false,
+                                              "feedback":  "Government intervention does not mean making all businesses the same."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To prevent all consumers from making choices",
+                                              "is_correct":  false,
+                                              "feedback":  "Consumers still make many economic decisions in most economies."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To eliminate every market transaction",
+                                              "is_correct":  false,
+                                              "feedback":  "Government intervention usually addresses problems or provides services rather than eliminating all market activity."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q02",
+                          "type":  "true_false",
+                          "prompt":  "A public good is a product or service that many people can use at the same time, such as streetlights.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. Public goods can often be used by many people at once."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Streetlights are a common example of a public good."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which type of tax is usually added when a consumer buys a product at a store?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Income tax",
+                                              "is_correct":  false,
+                                              "feedback":  "Income tax is collected from earnings, not directly added at checkout."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Property tax",
+                                              "is_correct":  false,
+                                              "feedback":  "Property tax is based on property value."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Sales tax",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Sales tax is commonly added to the purchase price of goods and services."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Payroll tax",
+                                              "is_correct":  false,
+                                              "feedback":  "That is not the best answer for a tax added at the point of sale."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q04",
+                          "type":  "multiple_choice",
+                          "prompt":  "A city increases spending on road repairs and lowers some taxes during an economic slowdown. Which policy is the city most likely using?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Contractionary fiscal policy",
+                                              "is_correct":  false,
+                                              "feedback":  "Contractionary policy usually reduces spending or raises taxes."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Property taxation policy only",
+                                              "is_correct":  false,
+                                              "feedback":  "The scenario is broader than one tax category and focuses on overall fiscal strategy."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Consumer labeling regulation",
+                                              "is_correct":  false,
+                                              "feedback":  "That would be a regulation example, not fiscal policy."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Expansionary fiscal policy",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Increasing spending and lowering taxes are expansionary actions meant to encourage economic activity."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q05",
+                          "type":  "true_false",
+                          "prompt":  "Contractionary fiscal policy may involve reducing government spending or raising taxes.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Contractionary fiscal policy is used to slow economic activity."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. Cutting spending or raising taxes are common contractionary actions."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q06",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why do governments collect taxes?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To remove all consumer spending from the economy",
+                                              "is_correct":  false,
+                                              "feedback":  "Taxes may affect decisions, but that is not their main purpose."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To raise revenue for public services and government responsibilities",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Taxes help fund public services, programs, and government operations."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To eliminate the need for regulation",
+                                              "is_correct":  false,
+                                              "feedback":  "Taxes and regulation are different government tools."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To guarantee that every business makes a profit",
+                                              "is_correct":  false,
+                                              "feedback":  "Taxes are not collected to guarantee profits."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q07",
+                          "type":  "multiple_choice",
+                          "prompt":  "A government requires food companies to list ingredients and nutrition information on packages. What is the main purpose of this regulation?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Expansionary fiscal policy",
+                                              "is_correct":  false,
+                                              "feedback":  "This is not a spending or tax decision meant to influence the economy broadly."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Income taxation",
+                                              "is_correct":  false,
+                                              "feedback":  "The scenario is about regulation, not a tax category."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Consumer protection",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Labeling rules help consumers make informed and safer decisions."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Public transportation funding",
+                                              "is_correct":  false,
+                                              "feedback":  "That is unrelated to the scenario."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q08",
+                          "type":  "multiple_choice",
+                          "prompt":  "A city limits pollution from factories near neighborhoods. Which statement best describes a likely tradeoff of this regulation?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "The rule has no effect on business decisions at all",
+                                              "is_correct":  false,
+                                              "feedback":  "Regulations often affect business costs and choices."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "The rule automatically eliminates all pollution forever",
+                                              "is_correct":  false,
+                                              "feedback":  "Regulations may reduce harm, but they do not guarantee perfect outcomes."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The rule is the same as lowering taxes for households",
+                                              "is_correct":  false,
+                                              "feedback":  "That would be a different policy tool."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "The rule may improve public health, but businesses may face higher costs to comply",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Many regulations provide public benefits while also creating costs for businesses."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q09",
+                          "type":  "multiple_choice",
+                          "prompt":  "A state raises gasoline taxes to repair roads and bridges. What is the best explanation of this policy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "The state is raising revenue through taxes to support public infrastructure",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. The policy uses taxes to raise revenue for a public purpose."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "The state is using environmental regulation only",
+                                              "is_correct":  false,
+                                              "feedback":  "The main tool in the scenario is taxation to fund infrastructure."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The state is removing all government intervention from the economy",
+                                              "is_correct":  false,
+                                              "feedback":  "Raising taxes for road repair is clearly a government action."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "The state is using contractionary fiscal policy because no public purpose is involved",
+                                              "is_correct":  false,
+                                              "feedback":  "The scenario directly shows a public purpose: road and bridge repair."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U04-UNIT-FINAL-Q10",
+                          "type":  "true_false",
+                          "prompt":  "When governments create regulations, they often try to balance public protection with economic freedom.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. A common goal of regulation is to balance protection with economic freedom."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Good policy design often tries to protect the public without restricting economic activity more than necessary."
+                                          }
+                                      ]
+                      }
+                  ]
 }

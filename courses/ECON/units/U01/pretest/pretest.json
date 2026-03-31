@@ -1,220 +1,219 @@
 {
-  "assessment_id": "ECON-U01-PRETEST",
-  "course_id": "ECON",
-  "unit_id": "U01",
-  "title": "Unit 01 Pretest",
-  "description": "Diagnostic pretest for Economic Thinking and Scarcity.",
-  "type": "pretest",
-  "counts_toward_grade": false,
-  "required_before_lessons": true,
-  "display_order": 0,
-  "question_count": 8,
-  "mastery_threshold": 80,
-  "acceleration_eligible_threshold": 90,
-  "used_for_acceleration": true,
-  "used_for_baseline_measurement": true,
-  "paired_final_assessment_id": "ECON-U01-UNIT-FINAL",
-
-  "questions": [
-    {
-      "question_id": "ECON-U01-PRETEST-001",
-      "type": "multiple_choice",
-      "prompt": "Which statement best describes economics?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "The study of how governments print and control money",
-          "is_correct": false,
-          "feedback": "Economics includes much more than government money policies. It studies choices about limited resources."
-        },
-        {
-          "id": "B",
-          "text": "The study of how people use limited resources to meet needs and wants",
-          "is_correct": true,
-          "feedback": "Correct. Economics examines how individuals and societies make choices when resources are limited."
-        },
-        {
-          "id": "C",
-          "text": "The study of how businesses earn profits only",
-          "is_correct": false,
-          "feedback": "Economics includes business decisions, but it also includes individuals, governments, scarcity, and choice."
-        },
-        {
-          "id": "D",
-          "text": "The study of why all people want the same goods and services",
-          "is_correct": false,
-          "feedback": "Economics does not assume all people want the same things. It focuses on choices under scarcity."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-002",
-      "type": "true_false",
-      "prompt": "Scarcity means resources are limited, so people must make choices.",
-      "choices": [
-        {
-          "id": "A",
-          "text": "True",
-          "is_correct": true,
-          "feedback": "Correct. Scarcity exists because resources are limited, and that forces decision-making."
-        },
-        {
-          "id": "B",
-          "text": "False",
-          "is_correct": false,
-          "feedback": "Scarcity does mean resources are limited. That is why choices must be made."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-003",
-      "type": "multiple_choice",
-      "prompt": "A student chooses to spend Saturday studying instead of working a part-time shift. What is the opportunity cost if the next best alternative was working?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "The textbook the student used while studying",
-          "is_correct": false,
-          "feedback": "A textbook used during studying is not the next best alternative that was given up."
-        },
-        {
-          "id": "B",
-          "text": "All activities the student could ever do on Saturday",
-          "is_correct": false,
-          "feedback": "Opportunity cost is not every possible option. It is the next best alternative not chosen."
-        },
-        {
-          "id": "C",
-          "text": "The grade the student hopes to earn",
-          "is_correct": false,
-          "feedback": "The hoped-for grade is a possible benefit of studying, not the opportunity cost of the decision."
-        },
-        {
-          "id": "D",
-          "text": "The money and work experience the student gave up by not working",
-          "is_correct": true,
-          "feedback": "Correct. Opportunity cost is the value of the next best alternative that was not chosen."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-004",
-      "type": "true_false",
-      "prompt": "In a market economy, the government makes all major decisions about production and prices.",
-      "choices": [
-        {
-          "id": "A",
-          "text": "True",
-          "is_correct": false,
-          "feedback": "That describes a command economy more closely, not a market economy."
-        },
-        {
-          "id": "B",
-          "text": "False",
-          "is_correct": true,
-          "feedback": "Correct. In a market economy, individuals and businesses make most economic decisions."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-005",
-      "type": "multiple_choice",
-      "prompt": "Which of the following is the best example of a positive incentive?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "A company offers workers a bonus for perfect attendance",
-          "is_correct": true,
-          "feedback": "Correct. A bonus is a reward that encourages a specific behavior, so it is a positive incentive."
-        },
-        {
-          "id": "B",
-          "text": "A school removes extra recess because students were late",
-          "is_correct": false,
-          "feedback": "This is a penalty or consequence, so it is a negative incentive, not a positive one."
-        },
-        {
-          "id": "C",
-          "text": "A store runs out of a product because demand increased",
-          "is_correct": false,
-          "feedback": "Running out of stock is not an incentive. It is a result of supply and demand conditions."
-        },
-        {
-          "id": "D",
-          "text": "A family must choose between groceries and entertainment",
-          "is_correct": false,
-          "feedback": "This example shows scarcity and trade-offs, not a positive incentive."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-006",
-      "type": "true_false",
-      "prompt": "A mixed economy combines elements of market and command systems.",
-      "choices": [
-        {
-          "id": "A",
-          "text": "True",
-          "is_correct": true,
-          "feedback": "Correct. A mixed economy includes both private decision-making and government involvement."
-        },
-        {
-          "id": "B",
-          "text": "False",
-          "is_correct": false,
-          "feedback": "A mixed economy does combine features of market and command systems."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-007",
-      "type": "multiple_choice",
-      "prompt": "Which example best shows a trade-off?",
-      "choices": [
-        {
-          "id": "A",
-          "text": "A student receives a scholarship for strong grades",
-          "is_correct": false,
-          "feedback": "This example shows a reward or positive incentive, not a trade-off."
-        },
-        {
-          "id": "B",
-          "text": "A business increases prices after production costs rise",
-          "is_correct": false,
-          "feedback": "This shows a business response to costs, but it does not directly illustrate choosing between alternatives."
-        },
-        {
-          "id": "C",
-          "text": "A student chooses to buy a calculator instead of saving the money for concert tickets",
-          "is_correct": true,
-          "feedback": "Correct. A trade-off involves giving up one option when choosing another."
-        },
-        {
-          "id": "D",
-          "text": "A factory uses machines to produce more goods",
-          "is_correct": false,
-          "feedback": "This example shows the use of capital resources, not a trade-off between alternatives."
-        }
-      ]
-    },
-    {
-      "question_id": "ECON-U01-PRETEST-008",
-      "type": "true_false",
-      "prompt": "Opportunity cost includes every option a person gives up when making a choice.",
-      "choices": [
-        {
-          "id": "A",
-          "text": "True",
-          "is_correct": false,
-          "feedback": "Opportunity cost is not every option given up. It is the value of the next best alternative."
-        },
-        {
-          "id": "B",
-          "text": "False",
-          "is_correct": true,
-          "feedback": "Correct. Opportunity cost refers only to the next best alternative that was not chosen."
-        }
-      ]
-    }
-  ]
+    "assessment_id":  "ECON-U01-PRETEST",
+    "course_id":  "ECON",
+    "unit_id":  "U01",
+    "title":  "Unit 01 Pretest",
+    "description":  "Diagnostic pretest for Economic Thinking and Scarcity.",
+    "type":  "pretest",
+    "counts_toward_grade":  false,
+    "required_before_lessons":  true,
+    "display_order":  0,
+    "question_count":  8,
+    "mastery_threshold":  80,
+    "acceleration_eligible_threshold":  90,
+    "used_for_acceleration":  true,
+    "used_for_baseline_measurement":  true,
+    "paired_final_assessment_id":  "ECON-U01-UNIT-FINAL",
+    "questions":  [
+                      {
+                          "question_id":  "ECON-U01-PRETEST-001",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which statement best describes economics?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "The study of how people use limited resources to meet needs and wants",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Economics examines how individuals and societies make choices when resources are limited."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "The study of how governments print and control money",
+                                              "is_correct":  false,
+                                              "feedback":  "Economics includes much more than government money policies. It studies choices about limited resources."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The study of how businesses earn profits only",
+                                              "is_correct":  false,
+                                              "feedback":  "Economics includes business decisions, but it also includes individuals, governments, scarcity, and choice."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "The study of why all people want the same goods and services",
+                                              "is_correct":  false,
+                                              "feedback":  "Economics does not assume all people want the same things. It focuses on choices under scarcity."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-002",
+                          "type":  "true_false",
+                          "prompt":  "Scarcity means resources are limited, so people must make choices.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Scarcity does mean resources are limited. That is why choices must be made."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Scarcity exists because resources are limited, and that forces decision-making."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-003",
+                          "type":  "multiple_choice",
+                          "prompt":  "A student chooses to spend Saturday studying instead of working a part-time shift. What is the opportunity cost if the next best alternative was working?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "The textbook the student used while studying",
+                                              "is_correct":  false,
+                                              "feedback":  "A textbook used during studying is not the next best alternative that was given up."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "All activities the student could ever do on Saturday",
+                                              "is_correct":  false,
+                                              "feedback":  "Opportunity cost is not every possible option. It is the next best alternative not chosen."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The money and work experience the student gave up by not working",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Opportunity cost is the value of the next best alternative that was not chosen."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "The grade the student hopes to earn",
+                                              "is_correct":  false,
+                                              "feedback":  "The hoped-for grade is a possible benefit of studying, not the opportunity cost of the decision."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-004",
+                          "type":  "true_false",
+                          "prompt":  "In a market economy, the government makes all major decisions about production and prices.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. In a market economy, individuals and businesses make most economic decisions."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  false,
+                                              "feedback":  "That describes a command economy more closely, not a market economy."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-005",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which of the following is the best example of a positive incentive?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "A school removes extra recess because students were late",
+                                              "is_correct":  false,
+                                              "feedback":  "This is a penalty or consequence, so it is a negative incentive, not a positive one."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "A store runs out of a product because demand increased",
+                                              "is_correct":  false,
+                                              "feedback":  "Running out of stock is not an incentive. It is a result of supply and demand conditions."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "A family must choose between groceries and entertainment",
+                                              "is_correct":  false,
+                                              "feedback":  "This example shows scarcity and trade-offs, not a positive incentive."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "A company offers workers a bonus for perfect attendance",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A bonus is a reward that encourages a specific behavior, so it is a positive incentive."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-006",
+                          "type":  "true_false",
+                          "prompt":  "A mixed economy combines elements of market and command systems.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "A mixed economy does combine features of market and command systems."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A mixed economy includes both private decision-making and government involvement."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-007",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which example best shows a trade-off?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "A student receives a scholarship for strong grades",
+                                              "is_correct":  false,
+                                              "feedback":  "This example shows a reward or positive incentive, not a trade-off."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "A business increases prices after production costs rise",
+                                              "is_correct":  false,
+                                              "feedback":  "This shows a business response to costs, but it does not directly illustrate choosing between alternatives."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "A factory uses machines to produce more goods",
+                                              "is_correct":  false,
+                                              "feedback":  "This example shows the use of capital resources, not a trade-off between alternatives."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "A student chooses to buy a calculator instead of saving the money for concert tickets",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A trade-off involves giving up one option when choosing another."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U01-PRETEST-008",
+                          "type":  "true_false",
+                          "prompt":  "Opportunity cost includes every option a person gives up when making a choice.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Opportunity cost refers only to the next best alternative that was not chosen."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  false,
+                                              "feedback":  "Opportunity cost is not every option given up. It is the value of the next best alternative."
+                                          }
+                                      ]
+                      }
+                  ]
 }

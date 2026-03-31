@@ -16,137 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-  {
-    "question_id": "ECON-U03-L02-Q01",
-    "type": "multiple_choice",
-    "prompt": "What does unemployment mean in economics?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "People choose not to work because they do not like their jobs",
-        "is_correct": false,
-        "feedback": "Unemployment refers to people who are willing and able to work but do not currently have a job."
-      },
-      {
-        "id": "B",
-        "text": "All adults in a country, whether they work or not",
-        "is_correct": false,
-        "feedback": "This describes a broad population, not unemployment."
-      },
-      {
-        "id": "C",
-        "text": "People who are willing and able to work but cannot find jobs",
-        "is_correct": true,
-        "feedback": "Correct. Unemployment refers to people who want to work and are able to work but do not have jobs."
-      },
-      {
-        "id": "D",
-        "text": "Workers who change jobs after getting a promotion",
-        "is_correct": false,
-        "feedback": "Changing jobs does not necessarily mean a person is unemployed."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U03-L02-Q02",
-    "type": "true_false",
-    "prompt": "Frictional unemployment happens when people are between jobs or entering the workforce.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Frictional unemployment often happens when workers are moving between jobs or looking for their first job."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "This is incorrect. Being between jobs is a common example of frictional unemployment."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U03-L02-Q03",
-    "type": "multiple_choice",
-    "prompt": "Which example best shows structural unemployment?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "A student is searching for a summer job",
-        "is_correct": false,
-        "feedback": "This is closer to frictional unemployment because the worker is searching for a job."
-      },
-      {
-        "id": "B",
-        "text": "A factory worker loses a job because machines now do the work",
-        "is_correct": true,
-        "feedback": "Correct. Structural unemployment happens when changes in the economy or technology reduce the need for certain jobs."
-      },
-      {
-        "id": "C",
-        "text": "A store hires fewer workers during a short holiday break",
-        "is_correct": false,
-        "feedback": "This does not best represent a long-term mismatch between skills and jobs."
-      },
-      {
-        "id": "D",
-        "text": "A worker gets a raise and changes companies",
-        "is_correct": false,
-        "feedback": "This does not describe structural unemployment."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U03-L02-Q04",
-    "type": "multiple_choice",
-    "prompt": "What is cyclical unemployment most closely related to?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Changes in the economy that reduce overall hiring",
-        "is_correct": true,
-        "feedback": "Correct. Cyclical unemployment rises when the economy slows and businesses need fewer workers."
-      },
-      {
-        "id": "B",
-        "text": "Workers taking time to find jobs that match their interests",
-        "is_correct": false,
-        "feedback": "That is closer to frictional unemployment."
-      },
-      {
-        "id": "C",
-        "text": "New technology replacing outdated job skills",
-        "is_correct": false,
-        "feedback": "That is closer to structural unemployment."
-      },
-      {
-        "id": "D",
-        "text": "Students choosing electives at school",
-        "is_correct": false,
-        "feedback": "This does not relate to cyclical unemployment."
-      }
-    ]
-  },
-  {
-    "question_id": "ECON-U03-L02-Q05",
-    "type": "true_false",
-    "prompt": "A labor market is the system in which workers look for jobs and employers look for workers.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. A labor market connects people offering their labor with employers seeking workers."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "This is incorrect. Labor markets involve the relationship between workers and employers."
-      }
-    ]
-  }]
+    "questions":  [
+                      {
+                          "question_id":  "ECON-U03-L02-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What does unemployment mean in economics?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "People who are willing and able to work but cannot find jobs",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Unemployment refers to people who want to work and are able to work but do not have jobs."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "People choose not to work because they do not like their jobs",
+                                              "is_correct":  false,
+                                              "feedback":  "Unemployment refers to people who are willing and able to work but do not currently have a job."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "All adults in a country, whether they work or not",
+                                              "is_correct":  false,
+                                              "feedback":  "This describes a broad population, not unemployment."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Workers who change jobs after getting a promotion",
+                                              "is_correct":  false,
+                                              "feedback":  "Changing jobs does not necessarily mean a person is unemployed."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U03-L02-Q02",
+                          "type":  "true_false",
+                          "prompt":  "Frictional unemployment happens when people are between jobs or entering the workforce.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. Being between jobs is a common example of frictional unemployment."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Frictional unemployment often happens when workers are moving between jobs or looking for their first job."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U03-L02-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which example best shows structural unemployment?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "A student is searching for a summer job",
+                                              "is_correct":  false,
+                                              "feedback":  "This is closer to frictional unemployment because the worker is searching for a job."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "A store hires fewer workers during a short holiday break",
+                                              "is_correct":  false,
+                                              "feedback":  "This does not best represent a long-term mismatch between skills and jobs."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "A factory worker loses a job because machines now do the work",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Structural unemployment happens when changes in the economy or technology reduce the need for certain jobs."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "A worker gets a raise and changes companies",
+                                              "is_correct":  false,
+                                              "feedback":  "This does not describe structural unemployment."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U03-L02-Q04",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is cyclical unemployment most closely related to?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Workers taking time to find jobs that match their interests",
+                                              "is_correct":  false,
+                                              "feedback":  "That is closer to frictional unemployment."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "New technology replacing outdated job skills",
+                                              "is_correct":  false,
+                                              "feedback":  "That is closer to structural unemployment."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Students choosing electives at school",
+                                              "is_correct":  false,
+                                              "feedback":  "This does not relate to cyclical unemployment."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Changes in the economy that reduce overall hiring",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Cyclical unemployment rises when the economy slows and businesses need fewer workers."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U03-L02-Q05",
+                          "type":  "true_false",
+                          "prompt":  "A labor market is the system in which workers look for jobs and employers look for workers.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A labor market connects people offering their labor with employers seeking workers."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. Labor markets involve the relationship between workers and employers."
+                                          }
+                                      ]
+                      }
+                  ]
 }

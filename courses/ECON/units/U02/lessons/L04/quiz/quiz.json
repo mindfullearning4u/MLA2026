@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-      {
-        "question_id": "ECON-U02-L04-Q01",
-        "type": "multiple_choice",
-        "prompt": "Which market structure is characterized by many sellers offering identical products?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Monopoly",
-            "is_correct": false,
-            "feedback": "A monopoly has only one seller, not many."
-          },
-          {
-            "id": "B",
-            "text": "Oligopoly",
-            "is_correct": false,
-            "feedback": "An oligopoly has a few dominant firms, not many sellers."
-          },
-          {
-            "id": "C",
-            "text": "Perfect competition",
-            "is_correct": true,
-            "feedback": "Correct. Perfect competition includes many sellers offering identical products."
-          },
-          {
-            "id": "D",
-            "text": "Monopolistic competition",
-            "is_correct": false,
-            "feedback": "Monopolistic competition involves many sellers, but products are differentiated."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U02-L04-Q02",
-        "type": "true_false",
-        "prompt": "A monopoly is a market structure with a single seller.",
-        "choices": [
-          {
-            "id": "A",
-            "text": "True",
-            "is_correct": true,
-            "feedback": "Correct. A monopoly exists when one seller controls the entire market."
-          },
-          {
-            "id": "B",
-            "text": "False",
-            "is_correct": false,
-            "feedback": "This is incorrect. A monopoly has only one seller."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U02-L04-Q03",
-        "type": "multiple_choice",
-        "prompt": "Which market structure is dominated by a few large firms?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Perfect competition",
-            "is_correct": false,
-            "feedback": "Perfect competition has many small firms, not a few large ones."
-          },
-          {
-            "id": "B",
-            "text": "Monopolistic competition",
-            "is_correct": false,
-            "feedback": "Monopolistic competition has many firms with differentiated products."
-          },
-          {
-            "id": "C",
-            "text": "Oligopoly",
-            "is_correct": true,
-            "feedback": "Correct. An oligopoly is controlled by a small number of large firms."
-          },
-          {
-            "id": "D",
-            "text": "Monopoly",
-            "is_correct": false,
-            "feedback": "A monopoly has one seller, not a few."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U02-L04-Q04",
-        "type": "multiple_choice",
-        "prompt": "Which market structure involves many sellers offering slightly different products?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Perfect competition",
-            "is_correct": false,
-            "feedback": "Perfect competition involves identical products."
-          },
-          {
-            "id": "B",
-            "text": "Monopoly",
-            "is_correct": false,
-            "feedback": "A monopoly has only one seller."
-          },
-          {
-            "id": "C",
-            "text": "Oligopoly",
-            "is_correct": false,
-            "feedback": "An oligopoly has a few dominant firms."
-          },
-          {
-            "id": "D",
-            "text": "Monopolistic competition",
-            "is_correct": true,
-            "feedback": "Correct. This structure includes many sellers offering differentiated products."
-          }
-        ]
-      },
-      {
-        "question_id": "ECON-U02-L04-Q05",
-        "type": "true_false",
-        "prompt": "Market structure affects how much control a firm has over price.",
-        "choices": [
-          {
-            "id": "A",
-            "text": "True",
-            "is_correct": true,
-            "feedback": "Correct. Different market structures give firms different levels of pricing power."
-          },
-          {
-            "id": "B",
-            "text": "False",
-            "is_correct": false,
-            "feedback": "This is incorrect. Market structure directly affects pricing power."
-          }
-        ]
-      }
-    ]
+    "questions":  [
+                      {
+                          "question_id":  "ECON-U02-L04-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which market structure is characterized by many sellers offering identical products?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Perfect competition",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Perfect competition includes many sellers offering identical products."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Monopoly",
+                                              "is_correct":  false,
+                                              "feedback":  "A monopoly has only one seller, not many."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Oligopoly",
+                                              "is_correct":  false,
+                                              "feedback":  "An oligopoly has a few dominant firms, not many sellers."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Monopolistic competition",
+                                              "is_correct":  false,
+                                              "feedback":  "Monopolistic competition involves many sellers, but products are differentiated."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U02-L04-Q02",
+                          "type":  "true_false",
+                          "prompt":  "A monopoly is a market structure with a single seller.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. A monopoly has only one seller."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. A monopoly exists when one seller controls the entire market."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U02-L04-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which market structure is dominated by a few large firms?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Perfect competition",
+                                              "is_correct":  false,
+                                              "feedback":  "Perfect competition has many small firms, not a few large ones."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Monopolistic competition",
+                                              "is_correct":  false,
+                                              "feedback":  "Monopolistic competition has many firms with differentiated products."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Oligopoly",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. An oligopoly is controlled by a small number of large firms."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Monopoly",
+                                              "is_correct":  false,
+                                              "feedback":  "A monopoly has one seller, not a few."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U02-L04-Q04",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which market structure involves many sellers offering slightly different products?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Perfect competition",
+                                              "is_correct":  false,
+                                              "feedback":  "Perfect competition involves identical products."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Monopoly",
+                                              "is_correct":  false,
+                                              "feedback":  "A monopoly has only one seller."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Oligopoly",
+                                              "is_correct":  false,
+                                              "feedback":  "An oligopoly has a few dominant firms."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Monopolistic competition",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. This structure includes many sellers offering differentiated products."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "ECON-U02-L04-Q05",
+                          "type":  "true_false",
+                          "prompt":  "Market structure affects how much control a firm has over price.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Different market structures give firms different levels of pricing power."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "This is incorrect. Market structure directly affects pricing power."
+                                          }
+                                      ]
+                      }
+                  ]
 }
