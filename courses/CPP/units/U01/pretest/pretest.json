@@ -1,19 +1,243 @@
 {
-    "assessment_id":  "CPP-U01-PRETEST",
-    "course_id":  "CPP",
-    "unit_id":  "U01",
-    "title":  "Unit 01 Pretest",
-    "description":  "Diagnostic pretest for Self-Assessment and Career Exploration.",
-    "type":  "pretest",
-    "counts_toward_grade":  false,
-    "required_before_lessons":  true,
-    "display_order":  0,
-    "question_count":  8,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "used_for_acceleration":  true,
-    "used_for_baseline_measurement":  true,
-    "paired_final_assessment_id":  "CPP-U01-UNIT-FINAL",
-    "questions":  [ ]
-
+  "assessment_id": "CPP-U01-PRETEST",
+  "course_id": "CPP",
+  "unit_id": "U01",
+  "title": "Unit 01 Pretest",
+  "description": "Diagnostic pretest for Self-Assessment and Career Exploration.",
+  "type": "pretest",
+  "counts_toward_grade": false,
+  "required_before_lessons": true,
+  "display_order": 0,
+  "question_count": 8,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "used_for_acceleration": true,
+  "used_for_baseline_measurement": true,
+  "paired_final_assessment_id": "CPP-U01-UNIT-FINAL",
+  "questions": [
+    {
+      "question_id": "CPP-U01-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does self-assessment help a student identify?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Personal interests and strengths",
+          "is_correct": true,
+          "feedback": "Correct. Self-assessment helps students recognize interests, strengths, and other personal traits."
+        },
+        {
+          "id": "B",
+          "text": "Only the highest-paying careers",
+          "is_correct": false,
+          "feedback": "Self-assessment focuses on the student, not only salary."
+        },
+        {
+          "id": "C",
+          "text": "Only college majors",
+          "is_correct": false,
+          "feedback": "Self-assessment is broader than choosing a college major."
+        },
+        {
+          "id": "D",
+          "text": "Only job application rules",
+          "is_correct": false,
+          "feedback": "Job application rules are not the focus of self-assessment."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "Values can influence which careers feel like a good fit.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Values do affect career fit because they shape priorities and preferences."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Values help students decide which work and environments matter most to them."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes a career cluster?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A single job opening at one company",
+          "is_correct": false,
+          "feedback": "A career cluster is broader than one job opening."
+        },
+        {
+          "id": "B",
+          "text": "A form used to apply for a job",
+          "is_correct": false,
+          "feedback": "Applications are not part of the definition of a career cluster."
+        },
+        {
+          "id": "C",
+          "text": "A group of related jobs and industries",
+          "is_correct": true,
+          "feedback": "Correct. Career clusters organize similar occupations into larger categories."
+        },
+        {
+          "id": "D",
+          "text": "A list of school clubs a student can join",
+          "is_correct": false,
+          "feedback": "School clubs are not career clusters."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student enjoys teamwork, helping others, and speaking clearly. Which is the best reason this matters for career exploration?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It guarantees one final career choice immediately",
+          "is_correct": false,
+          "feedback": "Career exploration supports decisions, but it does not guarantee one final answer."
+        },
+        {
+          "id": "B",
+          "text": "It means the student should ignore all other career options",
+          "is_correct": false,
+          "feedback": "Students should explore options rather than ignore them."
+        },
+        {
+          "id": "C",
+          "text": "It removes the need to learn about career pathways",
+          "is_correct": false,
+          "feedback": "Students still need to explore clusters and pathways."
+        },
+        {
+          "id": "D",
+          "text": "It gives evidence about careers that may be a strong fit",
+          "is_correct": true,
+          "feedback": "Correct. Interests and strengths can support more thoughtful career matching."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "Work preferences can include the type of environment or schedule a student wants in a future job.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Work preferences often include schedule, environment, and the way a person likes to work."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Work preferences do include workplace conditions and routines."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows a career pathway?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Health Science",
+          "is_correct": false,
+          "feedback": "Health Science is a broad career cluster, not a narrower pathway."
+        },
+        {
+          "id": "B",
+          "text": "A more specific group of jobs within a larger cluster",
+          "is_correct": true,
+          "feedback": "Correct. A pathway is a narrower set of related jobs within a broad career cluster."
+        },
+        {
+          "id": "C",
+          "text": "A list of personal hobbies",
+          "is_correct": false,
+          "feedback": "Hobbies can connect to careers, but they are not pathways."
+        },
+        {
+          "id": "D",
+          "text": "A student's report card",
+          "is_correct": false,
+          "feedback": "A report card is not a career pathway."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "What does it mean to match self to careers?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Choosing a career based only on what friends like",
+          "is_correct": false,
+          "feedback": "Career matching should be based on self-awareness, not peer choices."
+        },
+        {
+          "id": "B",
+          "text": "Selecting the most popular career without reflection",
+          "is_correct": false,
+          "feedback": "Popularity does not determine career fit."
+        },
+        {
+          "id": "C",
+          "text": "Connecting interests, strengths, values, and preferences to possible careers",
+          "is_correct": true,
+          "feedback": "Correct. Matching self to careers means comparing personal traits to career options using evidence."
+        },
+        {
+          "id": "D",
+          "text": "Ignoring values and work preferences during career planning",
+          "is_correct": false,
+          "feedback": "Values and work preferences are important parts of career matching."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U01-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which factor should best support a student's career match?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A random guess about what sounds interesting",
+          "is_correct": false,
+          "feedback": "Career matches should be supported by evidence, not random guesses."
+        },
+        {
+          "id": "B",
+          "text": "Only what a student dislikes",
+          "is_correct": false,
+          "feedback": "Dislikes can help narrow choices, but they are not enough by themselves."
+        },
+        {
+          "id": "C",
+          "text": "Only what a student can do in one school subject",
+          "is_correct": false,
+          "feedback": "Career matching should use more than one factor."
+        },
+        {
+          "id": "D",
+          "text": "Clear evidence from interests, strengths, values, and work preferences",
+          "is_correct": true,
+          "feedback": "Correct. Strong career matches are based on multiple pieces of personal evidence."
+        }
+      ]
+    }
+  ]
 }
