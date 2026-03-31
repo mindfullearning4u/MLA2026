@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U03-L03-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U03",
-    "lesson_id":  "CPP-U03-L03",
-    "title":  "Lesson Quiz: Academic Planning for Career Goals",
-    "description":  "Assessment of the concept that Course selection and preparation strategies.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U03-L03-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U03",
+  "lesson_id": "CPP-U03-L03",
+  "title": "Lesson Quiz: Academic Planning for Career Goals",
+  "description": "Assessment of the concept that Course selection and preparation strategies.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U03-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is academic planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Making school choices that support future goals",
+          "is_correct": true,
+          "feedback": "Correct. Academic planning means making school choices that support future goals."
+        },
+        {
+          "id": "B",
+          "text": "Waiting until graduation to think about classes",
+          "is_correct": false,
+          "feedback": "Academic planning involves making decisions before graduation, not waiting until the end."
+        },
+        {
+          "id": "C",
+          "text": "Choosing classes with no connection to future plans",
+          "is_correct": false,
+          "feedback": "Academic planning connects current school choices to future goals."
+        },
+        {
+          "id": "D",
+          "text": "Ignoring career goals while selecting courses",
+          "is_correct": false,
+          "feedback": "Academic planning should connect school decisions to future goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L03-Q02",
+      "type": "true_false",
+      "prompt": "Course selection can be one part of preparing for a future career goal.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Course selection can help students prepare for future goals."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Course selection can support career preparation."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows a preparation strategy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Choosing a lunch seat with friends",
+          "is_correct": false,
+          "feedback": "That is not a preparation strategy for a career goal."
+        },
+        {
+          "id": "B",
+          "text": "Joining a school activity connected to a career interest",
+          "is_correct": false,
+          "feedback": "This is a good example, but the strongest answer in this set is the one that most directly emphasizes intentional preparation."
+        },
+        {
+          "id": "C",
+          "text": "Taking steps now that help support a future goal",
+          "is_correct": true,
+          "feedback": "Correct. A preparation strategy is a step that helps support future readiness."
+        },
+        {
+          "id": "D",
+          "text": "Ignoring planning until later in high school",
+          "is_correct": false,
+          "feedback": "Preparation strategies involve active planning now."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is academic planning useful in career preparation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it helps students connect current school choices to future goals",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that most clearly emphasizes purposeful support for future goals."
+        },
+        {
+          "id": "B",
+          "text": "Because it guarantees the perfect career path",
+          "is_correct": false,
+          "feedback": "Academic planning can help, but it does not guarantee perfection."
+        },
+        {
+          "id": "C",
+          "text": "Because it removes the need for future adjustments",
+          "is_correct": false,
+          "feedback": "Plans may still need adjustments later."
+        },
+        {
+          "id": "D",
+          "text": "Because it helps students make school choices that support future preparation",
+          "is_correct": true,
+          "feedback": "Correct. Academic planning helps students choose useful school steps that support future goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L03-Q05",
+      "type": "true_false",
+      "prompt": "Academic planning should have no connection to future career interests.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Academic planning should connect to future interests and goals."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Academic planning is stronger when it connects to future career interests."
+        }
+      ]
+    }
+  ]
 }
