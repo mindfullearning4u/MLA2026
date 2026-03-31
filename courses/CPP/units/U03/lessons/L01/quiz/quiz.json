@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U03-L01-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U03",
-    "lesson_id":  "CPP-U03-L01",
-    "title":  "Lesson Quiz: Setting SMART Goals",
-    "description":  "Assessment of the concept that Specific, measurable, achievable, relevant, time-bound goals.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U03-L01-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U03",
+  "lesson_id": "CPP-U03-L01",
+  "title": "Lesson Quiz: Setting SMART Goals",
+  "description": "Assessment of the concept that Specific, measurable, achievable, relevant, time-bound goals.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U03-L01-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does the M in SMART goals stand for?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Measurable",
+          "is_correct": true,
+          "feedback": "Correct. The M in SMART stands for measurable."
+        },
+        {
+          "id": "B",
+          "text": "Meaningful",
+          "is_correct": false,
+          "feedback": "A goal may be meaningful, but the M stands for measurable."
+        },
+        {
+          "id": "C",
+          "text": "Motivating",
+          "is_correct": false,
+          "feedback": "SMART goals can be motivating, but the M stands for measurable."
+        },
+        {
+          "id": "D",
+          "text": "Managed",
+          "is_correct": false,
+          "feedback": "Managed is not the M in SMART."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L01-Q02",
+      "type": "true_false",
+      "prompt": "A SMART goal should include a clear time frame.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "SMART goals should include a time frame because they are time-bound."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A SMART goal should be time-bound."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L01-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows a specific goal?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "I want to do better someday",
+          "is_correct": false,
+          "feedback": "This goal is too vague to be specific."
+        },
+        {
+          "id": "B",
+          "text": "I will improve my presentation score by practicing once each week",
+          "is_correct": false,
+          "feedback": "This is a strong goal idea, but the clearest specific element in this set is the answer that directly states the focused action."
+        },
+        {
+          "id": "C",
+          "text": "I will raise my math grade by completing every assignment this quarter",
+          "is_correct": true,
+          "feedback": "Correct. This goal clearly states what the student plans to do."
+        },
+        {
+          "id": "D",
+          "text": "I might try harder later if I remember",
+          "is_correct": false,
+          "feedback": "This goal is not clear or specific."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L01-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why are SMART goals useful in planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "They remove the need for action steps",
+          "is_correct": false,
+          "feedback": "SMART goals should support action, not remove it."
+        },
+        {
+          "id": "B",
+          "text": "They help students create goals that are clear and realistic",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that directly emphasizes structure and trackability."
+        },
+        {
+          "id": "C",
+          "text": "They allow students to avoid deadlines",
+          "is_correct": false,
+          "feedback": "SMART goals include deadlines through the time-bound part."
+        },
+        {
+          "id": "D",
+          "text": "They help students organize goals in a way that can be tracked and completed",
+          "is_correct": true,
+          "feedback": "Correct. SMART goals make planning clearer, more organized, and easier to track."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-L01-Q05",
+      "type": "true_false",
+      "prompt": "A goal can still be considered SMART even if it is not realistic.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "This is incorrect. A SMART goal should be achievable, which means realistic."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. SMART goals should be realistic and achievable."
+        }
+      ]
+    }
+  ]
 }
