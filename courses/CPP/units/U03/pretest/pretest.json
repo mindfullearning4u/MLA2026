@@ -1,20 +1,243 @@
 {
-    "assessment_id":  "CPP-U03-PRETEST",
-    "course_id":  "CPP",
-    "unit_id":  "U03",
-    "title":  "Unit 03 Pretest",
-    "description":  "Diagnostic pretest for Goal Setting and Career Planning.",
-    "type":  "pretest",
-    "counts_toward_grade":  false,
-    "required_before_lessons":  true,
-    "display_order":  0,
-    "question_count":  8,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "used_for_acceleration":  true,
-    "used_for_baseline_measurement":  true,
-    "paired_final_assessment_id":  "CPP-U03-UNIT-FINAL",
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U03-PRETEST",
+  "course_id": "CPP",
+  "unit_id": "U03",
+  "title": "Unit 03 Pretest",
+  "description": "Diagnostic pretest for Goal Setting and Career Planning.",
+  "type": "pretest",
+  "counts_toward_grade": false,
+  "required_before_lessons": true,
+  "display_order": 0,
+  "question_count": 8,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "used_for_acceleration": true,
+  "used_for_baseline_measurement": true,
+  "paired_final_assessment_id": "CPP-U03-UNIT-FINAL",
+  "questions": [
+    {
+      "question_id": "CPP-U03-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does the S in SMART goals stand for?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Specific",
+          "is_correct": true,
+          "feedback": "Correct. The S in SMART stands for specific."
+        },
+        {
+          "id": "B",
+          "text": "Simple",
+          "is_correct": false,
+          "feedback": "SMART goals should be clear, but the S stands for specific."
+        },
+        {
+          "id": "C",
+          "text": "Scheduled",
+          "is_correct": false,
+          "feedback": "A timeline matters, but the S does not stand for scheduled."
+        },
+        {
+          "id": "D",
+          "text": "Strategic",
+          "is_correct": false,
+          "feedback": "SMART goals may be strategic, but the S stands for specific."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "A long-term goal usually takes more time to complete than a short-term goal.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Long-term goals typically take more time than short-term goals."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Long-term goals usually take more time to complete."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example best shows academic planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Choosing classes that support a future career goal",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that more clearly emphasizes connection between school choices and future preparation."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring course choices until graduation",
+          "is_correct": false,
+          "feedback": "Academic planning requires active decision-making, not ignoring choices."
+        },
+        {
+          "id": "C",
+          "text": "Making school choices that support future goals",
+          "is_correct": true,
+          "feedback": "Correct. Academic planning means making school choices that connect to future goals."
+        },
+        {
+          "id": "D",
+          "text": "Choosing activities with no connection to goals",
+          "is_correct": false,
+          "feedback": "Planning should connect current actions to future goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student wants to improve attendance, finish assignments on time, and raise grades by the end of the quarter. What idea does this best connect to?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A barrier with no possible solution",
+          "is_correct": false,
+          "feedback": "This situation is more connected to planning a goal than to giving up on a barrier."
+        },
+        {
+          "id": "B",
+          "text": "A random decision with no structure",
+          "is_correct": false,
+          "feedback": "The example includes structure and direction."
+        },
+        {
+          "id": "C",
+          "text": "A plan that avoids measurement",
+          "is_correct": false,
+          "feedback": "The example includes goals that can be checked and measured."
+        },
+        {
+          "id": "D",
+          "text": "A SMART goal with clear actions and a deadline",
+          "is_correct": true,
+          "feedback": "Correct. This example includes clear actions and a time frame, which connect to SMART goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "A timeline can help a student organize steps in the order they should happen.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A timeline helps students organize steps in a clear sequence."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Timelines are useful because they show the order of steps."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "What is a barrier in a career or school plan?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A step that always guarantees success",
+          "is_correct": false,
+          "feedback": "A barrier is a challenge, not a guarantee of success."
+        },
+        {
+          "id": "B",
+          "text": "A challenge that can make progress more difficult",
+          "is_correct": true,
+          "feedback": "Correct. A barrier is something that makes progress harder."
+        },
+        {
+          "id": "C",
+          "text": "A reward for completing a goal",
+          "is_correct": false,
+          "feedback": "A reward is not the same as a barrier."
+        },
+        {
+          "id": "D",
+          "text": "A final job offer",
+          "is_correct": false,
+          "feedback": "A job offer is not a barrier."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes adaptability in planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Changing a plan when needed so progress can continue",
+          "is_correct": false,
+          "feedback": "This is the right idea, but the strongest answer in this set is the one that more directly emphasizes responding to change."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring all problems and hoping they disappear",
+          "is_correct": false,
+          "feedback": "Adaptability means responding to challenges, not ignoring them."
+        },
+        {
+          "id": "C",
+          "text": "The ability to adjust when plans or conditions change",
+          "is_correct": true,
+          "feedback": "Correct. Adaptability means adjusting when plans or conditions change."
+        },
+        {
+          "id": "D",
+          "text": "Refusing to change a goal under any condition",
+          "is_correct": false,
+          "feedback": "Adaptability requires flexibility."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U03-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which action best supports a long-term career goal?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignoring current school choices",
+          "is_correct": false,
+          "feedback": "Current school choices can support long-term goals."
+        },
+        {
+          "id": "B",
+          "text": "Avoiding all planning until senior year",
+          "is_correct": false,
+          "feedback": "Planning earlier usually helps students stay prepared."
+        },
+        {
+          "id": "C",
+          "text": "Choosing current steps that connect to a future goal",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set is the one that most clearly highlights purposeful planning."
+        },
+        {
+          "id": "D",
+          "text": "Taking action now that supports future preparation",
+          "is_correct": true,
+          "feedback": "Correct. Long-term goals are supported by useful actions taken in the present."
+        }
+      ]
+    }
+  ]
 }
