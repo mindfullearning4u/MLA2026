@@ -3,7 +3,7 @@
     "course_id":  "USGOV",
     "unit_id":  "U06",
     "lesson_id":  "USGOV-U06-L04",
-    "title":  "Lesson Quiz: Evaluating Government Action — Analyzing effectiveness, fairness, and consequences of policy decisions.",
+    "title":  "Lesson Quiz: Evaluating Government Action",
     "description":  "Assessment of the concept that Analyzing effectiveness, fairness, and consequences of policy decisions.",
     "type":  "quiz",
     "counts_toward_grade":  true,
@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-  {
-    "question_id": "USGOV-U06-L04-Q01",
-    "type": "multiple_choice",
-    "prompt": "What does evaluating government action involve?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Examining effectiveness, fairness, and consequences",
-        "is_correct": true,
-        "feedback": "Correct. These are key evaluation factors."
-      },
-      {
-        "id": "B",
-        "text": "Ignoring outcomes",
-        "is_correct": false,
-        "feedback": "Incorrect. Evaluation requires analysis."
-      },
-      {
-        "id": "C",
-        "text": "Automatically accepting policies",
-        "is_correct": false,
-        "feedback": "Incorrect. Policies should be examined."
-      },
-      {
-        "id": "D",
-        "text": "Eliminating all policies",
-        "is_correct": false,
-        "feedback": "Incorrect. Evaluation improves policies."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L04-Q02",
-    "type": "true_false",
-    "prompt": "A policy can be effective but still unfair.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Effectiveness and fairness are separate factors."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. A policy can succeed but still raise fairness concerns."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L04-Q03",
-    "type": "multiple_choice",
-    "prompt": "What is an unintended consequence?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "An unexpected result of a policy",
-        "is_correct": true,
-        "feedback": "Correct. Policies can create unexpected effects."
-      },
-      {
-        "id": "B",
-        "text": "The main goal of a policy",
-        "is_correct": false,
-        "feedback": "Incorrect. That is an intended outcome."
-      },
-      {
-        "id": "C",
-        "text": "A court decision",
-        "is_correct": false,
-        "feedback": "Incorrect. This is unrelated."
-      },
-      {
-        "id": "D",
-        "text": "A personal opinion",
-        "is_correct": false,
-        "feedback": "Incorrect. Consequences relate to policy outcomes."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L04-Q04",
-    "type": "true_false",
-    "prompt": "Evaluation should consider multiple perspectives.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Multiple viewpoints improve evaluation."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Evaluation requires different perspectives."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L04-Q05",
-    "type": "multiple_choice",
-    "prompt": "Why is fairness important in evaluating policy?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "It ensures people are treated appropriately",
-        "is_correct": true,
-        "feedback": "Correct. Fairness considers impact on groups."
-      },
-      {
-        "id": "B",
-        "text": "It eliminates all disagreement",
-        "is_correct": false,
-        "feedback": "Incorrect. Disagreement may still exist."
-      },
-      {
-        "id": "C",
-        "text": "It avoids evaluation",
-        "is_correct": false,
-        "feedback": "Incorrect. Fairness is part of evaluation."
-      },
-      {
-        "id": "D",
-        "text": "It replaces effectiveness",
-        "is_correct": false,
-        "feedback": "Incorrect. Both must be considered."
-      }
-    ]
-  }
- ]
+    "questions":  [
+                      {
+                          "question_id":  "USGOV-U06-L04-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What does evaluating government action involve?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Ignoring outcomes",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Evaluation requires analysis."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Automatically accepting policies",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Policies should be examined."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Eliminating all policies",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Evaluation improves policies."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Examining effectiveness, fairness, and consequences",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. These are key evaluation factors."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L04-Q02",
+                          "type":  "true_false",
+                          "prompt":  "A policy can be effective but still unfair.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. A policy can succeed but still raise fairness concerns."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Effectiveness and fairness are separate factors."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L04-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is an unintended consequence?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "An unexpected result of a policy",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Policies can create unexpected effects."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "The main goal of a policy",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is an intended outcome."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "A court decision",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. This is unrelated."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "A personal opinion",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Consequences relate to policy outcomes."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L04-Q04",
+                          "type":  "true_false",
+                          "prompt":  "Evaluation should consider multiple perspectives.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Multiple viewpoints improve evaluation."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Evaluation requires different perspectives."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L04-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why is fairness important in evaluating policy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "It eliminates all disagreement",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Disagreement may still exist."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "It avoids evaluation",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Fairness is part of evaluation."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "It ensures people are treated appropriately",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Fairness considers impact on groups."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "It replaces effectiveness",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Both must be considered."
+                                          }
+                                      ]
+                      }
+                  ]
 }

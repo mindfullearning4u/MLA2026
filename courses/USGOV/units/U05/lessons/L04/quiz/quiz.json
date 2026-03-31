@@ -3,7 +3,7 @@
     "course_id":  "USGOV",
     "unit_id":  "U05",
     "lesson_id":  "USGOV-U05-L04",
-    "title":  "Lesson Quiz: Civic Participation Beyond Voting — Community involvement, advocacy, and service.",
+    "title":  "Lesson Quiz: Civic Participation Beyond Voting",
     "description":  "Assessment of the concept that Community involvement, advocacy, and service.",
     "type":  "quiz",
     "counts_toward_grade":  true,
@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-  {
-    "question_id": "USGOV-U05-L04-Q01",
-    "type": "multiple_choice",
-    "prompt": "What is civic participation?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Only voting in elections",
-        "is_correct": false,
-        "feedback": "Incorrect. Participation includes more than voting."
-      },
-      {
-        "id": "B",
-        "text": "Actions that allow citizens to influence government or community",
-        "is_correct": true,
-        "feedback": "Correct. Civic participation includes many forms of involvement."
-      },
-      {
-        "id": "C",
-        "text": "Avoiding political issues",
-        "is_correct": false,
-        "feedback": "Incorrect. That is not participation."
-      },
-      {
-        "id": "D",
-        "text": "Only working in government jobs",
-        "is_correct": false,
-        "feedback": "Incorrect. Participation is broader than employment."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L04-Q02",
-    "type": "true_false",
-    "prompt": "Civic participation can include volunteering.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Volunteering is a form of participation."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Volunteering is participation."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L04-Q03",
-    "type": "multiple_choice",
-    "prompt": "What is advocacy?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Supporting a cause or influencing decisions",
-        "is_correct": true,
-        "feedback": "Correct. Advocacy involves promoting ideas or causes."
-      },
-      {
-        "id": "B",
-        "text": "Avoiding participation",
-        "is_correct": false,
-        "feedback": "Incorrect. That is not advocacy."
-      },
-      {
-        "id": "C",
-        "text": "Creating laws directly",
-        "is_correct": false,
-        "feedback": "Incorrect. Laws are made by lawmakers."
-      },
-      {
-        "id": "D",
-        "text": "Running courts",
-        "is_correct": false,
-        "feedback": "Incorrect. Courts are separate."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L04-Q04",
-    "type": "true_false",
-    "prompt": "Citizens can influence government by communicating with leaders.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Communication is a form of participation."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Citizens can contact leaders."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L04-Q05",
-    "type": "multiple_choice",
-    "prompt": "Why is civic participation important?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "It helps influence government and improve communities",
-        "is_correct": true,
-        "feedback": "Correct. Participation strengthens democracy."
-      },
-      {
-        "id": "B",
-        "text": "It eliminates the need for laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Laws are still necessary."
-      },
-      {
-        "id": "C",
-        "text": "It replaces elections",
-        "is_correct": false,
-        "feedback": "Incorrect. Elections remain important."
-      },
-      {
-        "id": "D",
-        "text": "It removes all government authority",
-        "is_correct": false,
-        "feedback": "Incorrect. Government still functions."
-      }
-    ]
-  }
- ]
+    "questions":  [
+                      {
+                          "question_id":  "USGOV-U05-L04-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is civic participation?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Actions that allow citizens to influence government or community",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Civic participation includes many forms of involvement."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Only voting in elections",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Participation includes more than voting."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Avoiding political issues",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is not participation."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Only working in government jobs",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Participation is broader than employment."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L04-Q02",
+                          "type":  "true_false",
+                          "prompt":  "Civic participation can include volunteering.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Volunteering is a form of participation."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Volunteering is participation."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L04-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is advocacy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Avoiding participation",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is not advocacy."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Creating laws directly",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Laws are made by lawmakers."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Running courts",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Courts are separate."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Supporting a cause or influencing decisions",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Advocacy involves promoting ideas or causes."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L04-Q04",
+                          "type":  "true_false",
+                          "prompt":  "Citizens can influence government by communicating with leaders.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Citizens can contact leaders."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Communication is a form of participation."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L04-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why is civic participation important?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "It eliminates the need for laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Laws are still necessary."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "It replaces elections",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Elections remain important."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "It helps influence government and improve communities",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Participation strengthens democracy."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "It removes all government authority",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Government still functions."
+                                          }
+                                      ]
+                      }
+                  ]
 }

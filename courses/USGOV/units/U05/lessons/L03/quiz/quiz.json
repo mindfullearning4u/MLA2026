@@ -3,7 +3,7 @@
     "course_id":  "USGOV",
     "unit_id":  "U05",
     "lesson_id":  "USGOV-U05-L03",
-    "title":  "Lesson Quiz: Media and Public Opinion — The role of media in shaping political beliefs.",
+    "title":  "Lesson Quiz: Media and Public Opinion",
     "description":  "Assessment of the concept that The role of media in shaping political beliefs.",
     "type":  "quiz",
     "counts_toward_grade":  true,
@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-  {
-    "question_id": "USGOV-U05-L03-Q01",
-    "type": "multiple_choice",
-    "prompt": "What is the role of media in government?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To provide information and influence opinions",
-        "is_correct": true,
-        "feedback": "Correct. Media informs and influences public opinion."
-      },
-      {
-        "id": "B",
-        "text": "To enforce laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Enforcement is not media’s role."
-      },
-      {
-        "id": "C",
-        "text": "To run elections",
-        "is_correct": false,
-        "feedback": "Incorrect. Elections are run by government systems."
-      },
-      {
-        "id": "D",
-        "text": "To write the Constitution",
-        "is_correct": false,
-        "feedback": "Incorrect. Media does not create the Constitution."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L03-Q02",
-    "type": "true_false",
-    "prompt": "Public opinion refers to what people think about political issues.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Public opinion reflects people's views."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. That is the definition of public opinion."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L03-Q03",
-    "type": "multiple_choice",
-    "prompt": "Why is it important to evaluate media sources?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To understand different perspectives",
-        "is_correct": true,
-        "feedback": "Correct. Different sources present information differently."
-      },
-      {
-        "id": "B",
-        "text": "To eliminate all opinions",
-        "is_correct": false,
-        "feedback": "Incorrect. Opinions cannot be eliminated."
-      },
-      {
-        "id": "C",
-        "text": "To control the government",
-        "is_correct": false,
-        "feedback": "Incorrect. Media does not control government."
-      },
-      {
-        "id": "D",
-        "text": "To avoid learning new information",
-        "is_correct": false,
-        "feedback": "Incorrect. Evaluating sources improves understanding."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L03-Q04",
-    "type": "true_false",
-    "prompt": "All media sources present information in the same way.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": false,
-        "feedback": "Incorrect. Sources present information differently."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": true,
-        "feedback": "Correct. Media can present different perspectives."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L03-Q05",
-    "type": "multiple_choice",
-    "prompt": "How can media influence participation?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "By shaping what people know and believe",
-        "is_correct": true,
-        "feedback": "Correct. Information affects decisions and actions."
-      },
-      {
-        "id": "B",
-        "text": "By replacing elections",
-        "is_correct": false,
-        "feedback": "Incorrect. Elections still occur."
-      },
-      {
-        "id": "C",
-        "text": "By enforcing laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Media does not enforce laws."
-      },
-      {
-        "id": "D",
-        "text": "By controlling courts",
-        "is_correct": false,
-        "feedback": "Incorrect. Courts are independent."
-      }
-    ]
-  }
- ]
+    "questions":  [
+                      {
+                          "question_id":  "USGOV-U05-L03-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is the role of media in government?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To enforce laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Enforcement is not mediaÃ¢â‚¬â„¢s role."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To run elections",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Elections are run by government systems."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To write the Constitution",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Media does not create the Constitution."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To provide information and influence opinions",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Media informs and influences public opinion."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L03-Q02",
+                          "type":  "true_false",
+                          "prompt":  "Public opinion refers to what people think about political issues.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Public opinion reflects people\u0027s views."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is the definition of public opinion."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L03-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why is it important to evaluate media sources?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To understand different perspectives",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Different sources present information differently."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To eliminate all opinions",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Opinions cannot be eliminated."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To control the government",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Media does not control government."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To avoid learning new information",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Evaluating sources improves understanding."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L03-Q04",
+                          "type":  "true_false",
+                          "prompt":  "All media sources present information in the same way.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Sources present information differently."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Media can present different perspectives."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L03-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "How can media influence participation?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "By replacing elections",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Elections still occur."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "By enforcing laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Media does not enforce laws."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "By shaping what people know and believe",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Information affects decisions and actions."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "By controlling courts",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Courts are independent."
+                                          }
+                                      ]
+                      }
+                  ]
 }

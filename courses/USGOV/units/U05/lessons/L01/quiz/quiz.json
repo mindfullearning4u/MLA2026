@@ -3,7 +3,7 @@
     "course_id":  "USGOV",
     "unit_id":  "U05",
     "lesson_id":  "USGOV-U05-L01",
-    "title":  "Lesson Quiz: Voting and Elections — Election processes and the importance of civic participation.",
+    "title":  "Lesson Quiz: Voting and Elections",
     "description":  "Assessment of the concept that Election processes and the importance of civic participation.",
     "type":  "quiz",
     "counts_toward_grade":  true,
@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-  {
-    "question_id": "USGOV-U05-L01-Q01",
-    "type": "multiple_choice",
-    "prompt": "What is the main purpose of elections?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To select government leaders",
-        "is_correct": true,
-        "feedback": "Correct. Elections are used to choose leaders."
-      },
-      {
-        "id": "B",
-        "text": "To eliminate laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Elections do not remove laws."
-      },
-      {
-        "id": "C",
-        "text": "To control the courts",
-        "is_correct": false,
-        "feedback": "Incorrect. Courts are separate from elections."
-      },
-      {
-        "id": "D",
-        "text": "To replace the Constitution",
-        "is_correct": false,
-        "feedback": "Incorrect. Elections do not change the Constitution."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L01-Q02",
-    "type": "true_false",
-    "prompt": "Voting allows citizens to influence government decisions.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Voting helps shape government leadership."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Voting is a key way to influence government."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L01-Q03",
-    "type": "multiple_choice",
-    "prompt": "What happens during an election?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Citizens vote for candidates",
-        "is_correct": true,
-        "feedback": "Correct. Elections involve voting for candidates."
-      },
-      {
-        "id": "B",
-        "text": "Courts create laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Courts interpret laws."
-      },
-      {
-        "id": "C",
-        "text": "Interest groups enforce laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Interest groups do not enforce laws."
-      },
-      {
-        "id": "D",
-        "text": "Media controls government decisions",
-        "is_correct": false,
-        "feedback": "Incorrect. Media does not control decisions."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L01-Q04",
-    "type": "true_false",
-    "prompt": "All citizens automatically vote in elections.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": false,
-        "feedback": "Incorrect. Voting is a choice, not automatic."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": true,
-        "feedback": "Correct. Citizens choose whether to vote."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U05-L01-Q05",
-    "type": "multiple_choice",
-    "prompt": "Why is voting important in a democracy?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "It allows citizens to participate in government",
-        "is_correct": true,
-        "feedback": "Correct. Voting is a key form of participation."
-      },
-      {
-        "id": "B",
-        "text": "It replaces the need for laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Laws are still necessary."
-      },
-      {
-        "id": "C",
-        "text": "It removes all government power",
-        "is_correct": false,
-        "feedback": "Incorrect. Government still functions."
-      },
-      {
-        "id": "D",
-        "text": "It eliminates political parties",
-        "is_correct": false,
-        "feedback": "Incorrect. Parties remain part of elections."
-      }
-    ]
-  }
- ]
+    "questions":  [
+                      {
+                          "question_id":  "USGOV-U05-L01-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is the main purpose of elections?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To eliminate laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Elections do not remove laws."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To control the courts",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Courts are separate from elections."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To replace the Constitution",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Elections do not change the Constitution."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To select government leaders",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Elections are used to choose leaders."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L01-Q02",
+                          "type":  "true_false",
+                          "prompt":  "Voting allows citizens to influence government decisions.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Voting helps shape government leadership."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Voting is a key way to influence government."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L01-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "What happens during an election?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Citizens vote for candidates",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Elections involve voting for candidates."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Courts create laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Courts interpret laws."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Interest groups enforce laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Interest groups do not enforce laws."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Media controls government decisions",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Media does not control decisions."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L01-Q04",
+                          "type":  "true_false",
+                          "prompt":  "All citizens automatically vote in elections.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Voting is a choice, not automatic."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Citizens choose whether to vote."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U05-L01-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why is voting important in a democracy?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "It replaces the need for laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Laws are still necessary."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "It removes all government power",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Government still functions."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "It allows citizens to participate in government",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Voting is a key form of participation."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "It eliminates political parties",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Parties remain part of elections."
+                                          }
+                                      ]
+                      }
+                  ]
 }

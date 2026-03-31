@@ -1,232 +1,231 @@
 {
-  "assessment_id": "USGOV-U03-PRETEST",
-  "course_id": "USGOV",
-  "unit_id": "U03",
-  "title": "Unit 03 Pretest",
-  "description": "Diagnostic pretest for Branches of Government and Checks and Balances.",
-  "type": "pretest",
-  "counts_toward_grade": false,
-  "required_before_lessons": true,
-  "display_order": 0,
-  "question_count": 8,
-  "mastery_threshold": 80,
-  "acceleration_eligible_threshold": 90,
-  "used_for_acceleration": true,
-  "used_for_baseline_measurement": true,
-  "paired_final_assessment_id": "USGOV-U03-UNIT-FINAL",
-
- "questions": [
-  {
-    "question_id": "USGOV-U03-PRETEST-Q01",
-    "type": "multiple_choice",
-    "prompt": "Which branch of government makes national laws?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "The executive branch",
-        "is_correct": false,
-        "feedback": "Incorrect. The executive branch carries out and enforces laws."
-      },
-      {
-        "id": "B",
-        "text": "The legislative branch",
-        "is_correct": true,
-        "feedback": "Correct. The legislative branch makes national laws through Congress."
-      },
-      {
-        "id": "C",
-        "text": "The judicial branch",
-        "is_correct": false,
-        "feedback": "Incorrect. The judicial branch interprets laws."
-      },
-      {
-        "id": "D",
-        "text": "The cabinet branch",
-        "is_correct": false,
-        "feedback": "Incorrect. There is no separate cabinet branch of government."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q02",
-    "type": "true_false",
-    "prompt": "The president leads the executive branch.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. The president is the head of the executive branch."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. The president does lead the executive branch."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q03",
-    "type": "multiple_choice",
-    "prompt": "What is the main job of the judicial branch?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "To enforce laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Enforcing laws is the role of the executive branch."
-      },
-      {
-        "id": "B",
-        "text": "To create new laws",
-        "is_correct": false,
-        "feedback": "Incorrect. Making laws is the role of the legislative branch."
-      },
-      {
-        "id": "C",
-        "text": "To interpret laws",
-        "is_correct": true,
-        "feedback": "Correct. The judicial branch interprets laws through the courts."
-      },
-      {
-        "id": "D",
-        "text": "To elect representatives",
-        "is_correct": false,
-        "feedback": "Incorrect. Citizens elect representatives; that is not the judicial branch’s role."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q04",
-    "type": "true_false",
-    "prompt": "Congress is part of the legislative branch.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Congress is the legislative branch of the national government."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Congress is part of the legislative branch."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q05",
-    "type": "multiple_choice",
-    "prompt": "Which branch is most directly responsible for carrying out and enforcing laws?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "The judicial branch",
-        "is_correct": false,
-        "feedback": "Incorrect. The judicial branch interprets laws."
-      },
-      {
-        "id": "B",
-        "text": "The legislative branch",
-        "is_correct": false,
-        "feedback": "Incorrect. The legislative branch makes laws."
-      },
-      {
-        "id": "C",
-        "text": "The executive branch",
-        "is_correct": true,
-        "feedback": "Correct. The executive branch carries out and enforces laws."
-      },
-      {
-        "id": "D",
-        "text": "The state branch",
-        "is_correct": false,
-        "feedback": "Incorrect. There is no national branch called the state branch."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q06",
-    "type": "multiple_choice",
-    "prompt": "What does judicial review allow courts to do?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Decide whether a law follows the Constitution",
-        "is_correct": true,
-        "feedback": "Correct. Judicial review allows courts to determine whether laws are constitutional."
-      },
-      {
-        "id": "B",
-        "text": "Write new laws for Congress",
-        "is_correct": false,
-        "feedback": "Incorrect. Courts do not write laws."
-      },
-      {
-        "id": "C",
-        "text": "Elect the president",
-        "is_correct": false,
-        "feedback": "Incorrect. Courts do not elect the president."
-      },
-      {
-        "id": "D",
-        "text": "Create executive agencies",
-        "is_correct": false,
-        "feedback": "Incorrect. That is not the role of judicial review."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q07",
-    "type": "true_false",
-    "prompt": "Checks and balances helps prevent one branch of government from becoming too powerful.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Checks and balances allows branches to limit one another."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Preventing too much power in one branch is the purpose of checks and balances."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U03-PRETEST-Q08",
-    "type": "multiple_choice",
-    "prompt": "Which situation best shows the legislative branch in action?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "A court reviews whether a law is constitutional",
-        "is_correct": false,
-        "feedback": "Incorrect. That is the judicial branch."
-      },
-      {
-        "id": "B",
-        "text": "The president signs and enforces a law",
-        "is_correct": false,
-        "feedback": "Incorrect. That is the executive branch."
-      },
-      {
-        "id": "C",
-        "text": "Congress debates and votes on a bill",
-        "is_correct": true,
-        "feedback": "Correct. Debating and voting on bills is part of the lawmaking role of the legislative branch."
-      },
-      {
-        "id": "D",
-        "text": "Judges interpret what a law means in a court case",
-        "is_correct": false,
-        "feedback": "Incorrect. That is the judicial branch."
-      }
-    ]
-  }
- ]
+    "assessment_id":  "USGOV-U03-PRETEST",
+    "course_id":  "USGOV",
+    "unit_id":  "U03",
+    "title":  "Unit 03 Pretest",
+    "description":  "Diagnostic pretest for Branches of Government and Checks and Balances.",
+    "type":  "pretest",
+    "counts_toward_grade":  false,
+    "required_before_lessons":  true,
+    "display_order":  0,
+    "question_count":  8,
+    "mastery_threshold":  80,
+    "acceleration_eligible_threshold":  90,
+    "used_for_acceleration":  true,
+    "used_for_baseline_measurement":  true,
+    "paired_final_assessment_id":  "USGOV-U03-UNIT-FINAL",
+    "questions":  [
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which branch of government makes national laws?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "The executive branch",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. The executive branch carries out and enforces laws."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "The judicial branch",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. The judicial branch interprets laws."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The cabinet branch",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. There is no separate cabinet branch of government."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "The legislative branch",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. The legislative branch makes national laws through Congress."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q02",
+                          "type":  "true_false",
+                          "prompt":  "The president leads the executive branch.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. The president does lead the executive branch."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. The president is the head of the executive branch."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "What is the main job of the judicial branch?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "To enforce laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Enforcing laws is the role of the executive branch."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "To create new laws",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Making laws is the role of the legislative branch."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "To interpret laws",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. The judicial branch interprets laws through the courts."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "To elect representatives",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Citizens elect representatives; that is not the judicial branchâ€™s role."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q04",
+                          "type":  "true_false",
+                          "prompt":  "Congress is part of the legislative branch.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Congress is the legislative branch of the national government."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Congress is part of the legislative branch."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which branch is most directly responsible for carrying out and enforcing laws?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "The judicial branch",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. The judicial branch interprets laws."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "The legislative branch",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. The legislative branch makes laws."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The state branch",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. There is no national branch called the state branch."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "The executive branch",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. The executive branch carries out and enforces laws."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q06",
+                          "type":  "multiple_choice",
+                          "prompt":  "What does judicial review allow courts to do?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Write new laws for Congress",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Courts do not write laws."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Elect the president",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Courts do not elect the president."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Decide whether a law follows the Constitution",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Judicial review allows courts to determine whether laws are constitutional."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Create executive agencies",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is not the role of judicial review."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q07",
+                          "type":  "true_false",
+                          "prompt":  "Checks and balances helps prevent one branch of government from becoming too powerful.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Checks and balances allows branches to limit one another."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Preventing too much power in one branch is the purpose of checks and balances."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U03-PRETEST-Q08",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which situation best shows the legislative branch in action?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "A court reviews whether a law is constitutional",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is the judicial branch."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Congress debates and votes on a bill",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Debating and voting on bills is part of the lawmaking role of the legislative branch."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "The president signs and enforces a law",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is the executive branch."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Judges interpret what a law means in a court case",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is the judicial branch."
+                                          }
+                                      ]
+                      }
+                  ]
 }

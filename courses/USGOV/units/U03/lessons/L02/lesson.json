@@ -1,40 +1,50 @@
 {
-  "lesson_id": "USGOV-U03-L02",
-  "course_id": "USGOV",
-  "unit_id": "U03",
-  "lesson_number": 2,
-  "title": "The Executive Branch — Presidential powers, enforcement of laws, and leadership roles.",
-  "description": "Presidential powers, enforcement of laws, and leadership roles.",
-  "pages": [
-    "P01-lesson-overview.html",
-    "P02-notebook-task.html",
-    "P03-concept-instruction.html",
-    "P04-worked-example.html",
-    "P05-guided-practice.html",
-    "P06-lesson-checkpoint.html",
-    "P07-checkpoint-assignment-text.html"
-  ],
-  "graded_components": {
-    "notebook": {
-      "type": "notebook",
-      "graded": true,
-      "submission_required": true,
-      "submission_mode": "attachment_upload",
-      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
-    },
-    "checkpoint": {
-      "type": "checkpoint",
-      "graded": true,
-      "submission_required": true,
-      "submission_mode": "attachment_upload",
-      "accepted_formats": ["jpg", "jpeg", "png", "pdf"]
-    },
-    "quiz": {
-      "type": "quiz",
-      "graded": true,
-      "quiz_id": "USGOV-U03-L02-QUIZ"
-    }
-  },
-  "mastery_required": true,
-  "display_order": 2
+    "lesson_id":  "USGOV-U03-L02",
+    "course_id":  "USGOV",
+    "unit_id":  "U03",
+    "lesson_number":  2,
+    "title":  "The Executive Branch",
+    "description":  "Presidential powers, enforcement of laws, and leadership roles.",
+    "pages":  [
+                  "P01-lesson-overview.html",
+                  "P02-notebook-task.html",
+                  "P03-concept-instruction.html",
+                  "P04-worked-example.html",
+                  "P05-guided-practice.html",
+                  "P06-lesson-checkpoint.html",
+                  "P07-checkpoint-assignment-text.html"
+              ],
+    "graded_components":  {
+                              "notebook":  {
+                                               "type":  "notebook",
+                                               "graded":  true,
+                                               "submission_required":  true,
+                                               "submission_mode":  "attachment_upload",
+                                               "accepted_formats":  [
+                                                                        "jpg",
+                                                                        "jpeg",
+                                                                        "png",
+                                                                        "pdf"
+                                                                    ]
+                                           },
+                              "checkpoint":  {
+                                                 "type":  "checkpoint",
+                                                 "graded":  true,
+                                                 "submission_required":  true,
+                                                 "submission_mode":  "attachment_upload",
+                                                 "accepted_formats":  [
+                                                                          "jpg",
+                                                                          "jpeg",
+                                                                          "png",
+                                                                          "pdf"
+                                                                      ]
+                                             },
+                              "quiz":  {
+                                           "type":  "quiz",
+                                           "graded":  true,
+                                           "quiz_id":  "USGOV-U03-L02-QUIZ"
+                                       }
+                          },
+    "mastery_required":  true,
+    "display_order":  2
 }

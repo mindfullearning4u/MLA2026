@@ -3,7 +3,7 @@
     "course_id":  "USGOV",
     "unit_id":  "U06",
     "lesson_id":  "USGOV-U06-L02",
-    "title":  "Lesson Quiz: Government and Contemporary Issues — Government responses to modern social and economic challenges.",
+    "title":  "Lesson Quiz: Government and Contemporary Issues",
     "description":  "Assessment of the concept that Government responses to modern social and economic challenges.",
     "type":  "quiz",
     "counts_toward_grade":  true,
@@ -16,138 +16,137 @@
     "question_count":  5,
     "randomize_questions":  true,
     "show_feedback":  true,
-
-    "questions": [
-  {
-    "question_id": "USGOV-U06-L02-Q01",
-    "type": "multiple_choice",
-    "prompt": "What are contemporary issues?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Current challenges affecting society",
-        "is_correct": true,
-        "feedback": "Correct. These are modern issues."
-      },
-      {
-        "id": "B",
-        "text": "Past historical events",
-        "is_correct": false,
-        "feedback": "Incorrect. Contemporary means current."
-      },
-      {
-        "id": "C",
-        "text": "Court decisions only",
-        "is_correct": false,
-        "feedback": "Incorrect. Issues are broader."
-      },
-      {
-        "id": "D",
-        "text": "Personal opinions",
-        "is_correct": false,
-        "feedback": "Incorrect. Issues affect society."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L02-Q02",
-    "type": "true_false",
-    "prompt": "Government responds to issues through policies.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Policy is the main response."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Policy is used to respond."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L02-Q03",
-    "type": "multiple_choice",
-    "prompt": "Which is an example of government response?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Creating programs to address unemployment",
-        "is_correct": true,
-        "feedback": "Correct. Programs are policy responses."
-      },
-      {
-        "id": "B",
-        "text": "Ignoring problems",
-        "is_correct": false,
-        "feedback": "Incorrect. That is not a response."
-      },
-      {
-        "id": "C",
-        "text": "Avoiding action",
-        "is_correct": false,
-        "feedback": "Incorrect. Government must act."
-      },
-      {
-        "id": "D",
-        "text": "Only discussing issues",
-        "is_correct": false,
-        "feedback": "Incorrect. Policy requires action."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L02-Q04",
-    "type": "true_false",
-    "prompt": "Policies must adapt to changing conditions.",
-    "choices": [
-      {
-        "id": "A",
-        "text": "True",
-        "is_correct": true,
-        "feedback": "Correct. Issues change over time."
-      },
-      {
-        "id": "B",
-        "text": "False",
-        "is_correct": false,
-        "feedback": "Incorrect. Policies must adapt."
-      }
-    ]
-  },
-  {
-    "question_id": "USGOV-U06-L02-Q05",
-    "type": "multiple_choice",
-    "prompt": "Why do people disagree on policy solutions?",
-    "choices": [
-      {
-        "id": "A",
-        "text": "Different perspectives on solutions",
-        "is_correct": true,
-        "feedback": "Correct. People have different views."
-      },
-      {
-        "id": "B",
-        "text": "No one understands issues",
-        "is_correct": false,
-        "feedback": "Incorrect. Disagreement is normal."
-      },
-      {
-        "id": "C",
-        "text": "Policies do not matter",
-        "is_correct": false,
-        "feedback": "Incorrect. Policies are important."
-      },
-      {
-        "id": "D",
-        "text": "Government avoids decisions",
-        "is_correct": false,
-        "feedback": "Incorrect. Decisions are made regularly."
-      }
-    ]
-  }
- ]
+    "questions":  [
+                      {
+                          "question_id":  "USGOV-U06-L02-Q01",
+                          "type":  "multiple_choice",
+                          "prompt":  "What are contemporary issues?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Past historical events",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Contemporary means current."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Court decisions only",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Issues are broader."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Personal opinions",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Issues affect society."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Current challenges affecting society",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. These are modern issues."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L02-Q02",
+                          "type":  "true_false",
+                          "prompt":  "Government responds to issues through policies.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Policy is used to respond."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Policy is the main response."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L02-Q03",
+                          "type":  "multiple_choice",
+                          "prompt":  "Which is an example of government response?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "Creating programs to address unemployment",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Programs are policy responses."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Ignoring problems",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. That is not a response."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Avoiding action",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Government must act."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Only discussing issues",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Policy requires action."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L02-Q04",
+                          "type":  "true_false",
+                          "prompt":  "Policies must adapt to changing conditions.",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "True",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. Issues change over time."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "False",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Policies must adapt."
+                                          }
+                                      ]
+                      },
+                      {
+                          "question_id":  "USGOV-U06-L02-Q05",
+                          "type":  "multiple_choice",
+                          "prompt":  "Why do people disagree on policy solutions?",
+                          "choices":  [
+                                          {
+                                              "id":  "A",
+                                              "text":  "No one understands issues",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Disagreement is normal."
+                                          },
+                                          {
+                                              "id":  "B",
+                                              "text":  "Policies do not matter",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Policies are important."
+                                          },
+                                          {
+                                              "id":  "C",
+                                              "text":  "Different perspectives on solutions",
+                                              "is_correct":  true,
+                                              "feedback":  "Correct. People have different views."
+                                          },
+                                          {
+                                              "id":  "D",
+                                              "text":  "Government avoids decisions",
+                                              "is_correct":  false,
+                                              "feedback":  "Incorrect. Decisions are made regularly."
+                                          }
+                                      ]
+                      }
+                  ]
 }
