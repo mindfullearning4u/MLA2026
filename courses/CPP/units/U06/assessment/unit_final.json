@@ -1,20 +1,305 @@
 {
-    "assessment_id":  "CPP-U06-UNIT-FINAL",
-    "course_id":  "CPP",
-    "unit_id":  "U06",
-    "title":  "Unit Final: Reflection, Presentation, and Professional Growth",
-    "type":  "unit_final",
-    "counts_toward_grade":  true,
-    "weight":  40,
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  6,
-    "question_count":  10,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U06-UNIT-FINAL",
+  "course_id": "CPP",
+  "unit_id": "U06",
+  "title": "Unit Final: Reflection, Presentation, and Professional Growth",
+  "type": "unit_final",
+  "counts_toward_grade": true,
+  "weight": 40,
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 6,
+  "question_count": 10,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of reflection in professional growth?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To review progress, recognize strengths, and identify next steps",
+          "is_correct": true,
+          "feedback": "Correct. Reflection supports professional growth by helping students evaluate progress and plan future improvement."
+        },
+        {
+          "id": "B",
+          "text": "To avoid thinking about completed work",
+          "is_correct": false,
+          "feedback": "Reflection requires looking back at work and progress, not avoiding it."
+        },
+        {
+          "id": "C",
+          "text": "To focus only on mistakes and ignore growth",
+          "is_correct": false,
+          "feedback": "Strong reflection includes strengths, progress, and areas for improvement."
+        },
+        {
+          "id": "D",
+          "text": "To remove the need for revision",
+          "is_correct": false,
+          "feedback": "Reflection can support revision, but it does not replace it."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q02",
+      "type": "multiple_choice",
+      "prompt": "Which action is the best example of revision?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Leaving a draft unchanged after feedback",
+          "is_correct": false,
+          "feedback": "Revision involves using review or feedback to improve the work."
+        },
+        {
+          "id": "B",
+          "text": "Improving labels, organization, and explanations after review",
+          "is_correct": true,
+          "feedback": "Correct. Revision means making work clearer and stronger after evaluating it."
+        },
+        {
+          "id": "C",
+          "text": "Submitting a first draft because revision takes too much effort",
+          "is_correct": false,
+          "feedback": "Revision is part of strengthening quality and professionalism."
+        },
+        {
+          "id": "D",
+          "text": "Removing useful evidence so the work is shorter",
+          "is_correct": false,
+          "feedback": "Revision should improve quality, not weaken the final product."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q03",
+      "type": "true_false",
+      "prompt": "Good presentation skills include clear delivery, professional tone, and organized ideas.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Strong presentation skills help an audience understand ideas clearly and professionally."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Presentation skills are stronger when ideas are organized and delivered clearly."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student is preparing to present a career portfolio. Which plan is strongest?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Show random artifacts with no explanation",
+          "is_correct": false,
+          "feedback": "A strong portfolio presentation should be organized and should explain each artifact clearly."
+        },
+        {
+          "id": "B",
+          "text": "Introduce the portfolio, explain selected artifacts, and close with a summary of growth",
+          "is_correct": true,
+          "feedback": "Correct. This plan gives the presentation a clear beginning, middle, and end."
+        },
+        {
+          "id": "C",
+          "text": "Skip the introduction and read every label word for word",
+          "is_correct": false,
+          "feedback": "A strong presentation should be explained, not only read."
+        },
+        {
+          "id": "D",
+          "text": "Use every portfolio item even if it weakens the focus",
+          "is_correct": false,
+          "feedback": "A strong presentation should be selective and purposeful."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q05",
+      "type": "multiple_choice",
+      "prompt": "Why is audience awareness important during a portfolio presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it helps the speaker decide what to explain and how to present it",
+          "is_correct": false,
+          "feedback": "This is a strong idea, but the correct answer in this set gives the fuller reason about clarity and audience needs."
+        },
+        {
+          "id": "B",
+          "text": "Because the audience should guess what each artifact means",
+          "is_correct": false,
+          "feedback": "The speaker should help the audience understand the artifacts."
+        },
+        {
+          "id": "C",
+          "text": "Because audience needs help determine what evidence and explanations will be most useful",
+          "is_correct": true,
+          "feedback": "Correct. Audience awareness helps the speaker choose and explain content more effectively."
+        },
+        {
+          "id": "D",
+          "text": "Because the audience does not need a clear purpose",
+          "is_correct": false,
+          "feedback": "A clear purpose matters even more when presenting to an audience."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q06",
+      "type": "multiple_choice",
+      "prompt": "A student says, \"My portfolio is stronger now because I added clearer labels, revised my explanations, and practiced speaking about my work.\" What does this best show?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The student used reflection, revision, and presentation preparation together",
+          "is_correct": false,
+          "feedback": "This is close, but the correct answer in this set is the fuller explanation of how multiple Unit 6 skills are being combined."
+        },
+        {
+          "id": "B",
+          "text": "The student should avoid presenting the portfolio",
+          "is_correct": false,
+          "feedback": "The statement shows preparation for presenting, not avoidance."
+        },
+        {
+          "id": "C",
+          "text": "The student combined reflection, revision, and presentation skills to improve readiness",
+          "is_correct": true,
+          "feedback": "Correct. The statement shows several Unit 6 skills working together."
+        },
+        {
+          "id": "D",
+          "text": "The student no longer needs feedback",
+          "is_correct": false,
+          "feedback": "Feedback can still support continued growth."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q07",
+      "type": "true_false",
+      "prompt": "A strong closing statement in a portfolio presentation can summarize growth and readiness.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A closing statement can help summarize the main message of a portfolio presentation."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A strong closing can connect the portfolio evidence to growth and readiness."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q08",
+      "type": "multiple_choice",
+      "prompt": "A student has strong portfolio artifacts but presents them in random order with little explanation. What is the biggest problem?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The presentation may be harder for the audience to understand",
+          "is_correct": false,
+          "feedback": "This is a real problem, but the correct answer in this set explains both organization and explanation together."
+        },
+        {
+          "id": "B",
+          "text": "The student has too much evidence",
+          "is_correct": false,
+          "feedback": "The issue described is the lack of clear organization and explanation, not simply the amount of evidence."
+        },
+        {
+          "id": "C",
+          "text": "The presentation lacks clear structure and explanation, which weakens understanding of the artifacts",
+          "is_correct": true,
+          "feedback": "Correct. Strong artifacts still need clear organization and explanation during presentation."
+        },
+        {
+          "id": "D",
+          "text": "The audience should organize the presentation themselves",
+          "is_correct": false,
+          "feedback": "The presenter is responsible for organizing and explaining the content."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q09",
+      "type": "multiple_choice",
+      "prompt": "Before a final portfolio presentation, which step would best improve the student's readiness?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Reviewing key artifacts, revising weak areas, and practicing explanations",
+          "is_correct": false,
+          "feedback": "This is a strong preparation step, but the correct answer in this set is the fuller version that emphasizes both reflection and presentation readiness."
+        },
+        {
+          "id": "B",
+          "text": "Skipping reflection and relying only on memory",
+          "is_correct": false,
+          "feedback": "Reflection can help a student prepare more effectively."
+        },
+        {
+          "id": "C",
+          "text": "Presenting without choosing the strongest evidence",
+          "is_correct": false,
+          "feedback": "A strong presentation should focus on selected evidence."
+        },
+        {
+          "id": "D",
+          "text": "Reviewing growth, revising key items, and practicing how to present the strongest evidence",
+          "is_correct": true,
+          "feedback": "Correct. This combines the main preparation steps for Unit 6."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-UNIT-FINAL-Q10",
+      "type": "multiple_choice",
+      "prompt": "Why does Unit 6 focus on both presentation and reflection?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because students should only talk about artifacts without evaluating growth",
+          "is_correct": false,
+          "feedback": "Unit 6 is meant to include both explanation of evidence and reflection on growth."
+        },
+        {
+          "id": "B",
+          "text": "Because reflection removes the need for revision",
+          "is_correct": false,
+          "feedback": "Reflection, revision, and presentation all support one another."
+        },
+        {
+          "id": "C",
+          "text": "Because presentation matters more than the quality of the portfolio",
+          "is_correct": false,
+          "feedback": "Presentation matters, but strong evidence and reflection also matter."
+        },
+        {
+          "id": "D",
+          "text": "Because students must be able to explain their work and evaluate how they have developed",
+          "is_correct": true,
+          "feedback": "Correct. Unit 6 combines communication and self-evaluation to show professional growth."
+        }
+      ]
+    }
+  ]
 }
