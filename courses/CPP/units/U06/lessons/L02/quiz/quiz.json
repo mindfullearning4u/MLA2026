@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U06-L02-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U06",
-    "lesson_id":  "CPP-U06-L02",
-    "title":  "Lesson Quiz: Revising and Improving Work",
-    "description":  "Assessment of the concept that Using feedback to refine portfolio.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U06-L02-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U06",
+  "lesson_id": "CPP-U06-L02",
+  "title": "Lesson Quiz: Revising and Improving Work",
+  "description": "Assessment of the concept that Using feedback to refine portfolio.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U06-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is revision?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Improving work after reviewing it",
+          "is_correct": true,
+          "feedback": "Correct. Revision means making work stronger after reviewing it and identifying changes."
+        },
+        {
+          "id": "B",
+          "text": "Turning in the first draft without changes",
+          "is_correct": false,
+          "feedback": "Revision involves improvement, not leaving a first draft unchanged."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring feedback completely",
+          "is_correct": false,
+          "feedback": "Feedback is often an important part of revision."
+        },
+        {
+          "id": "D",
+          "text": "Changing every detail without purpose",
+          "is_correct": false,
+          "feedback": "Revision should be purposeful and focused on improvement."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L02-Q02",
+      "type": "true_false",
+      "prompt": "Feedback can help a student identify weak or unclear parts of a portfolio item.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Feedback can point out areas that need stronger wording, organization, or explanation."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Feedback can guide revision by showing what needs improvement."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which revision would most improve a portfolio artifact?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Removing all labels and explanations",
+          "is_correct": false,
+          "feedback": "Labels and explanations often make a portfolio artifact easier to understand."
+        },
+        {
+          "id": "B",
+          "text": "Adding a clear title and explaining what skill the artifact shows",
+          "is_correct": false,
+          "feedback": "This is a strong revision choice, but the correct answer in this set includes both explanation and better organization."
+        },
+        {
+          "id": "C",
+          "text": "Leaving the artifact unclear so the audience guesses its purpose",
+          "is_correct": false,
+          "feedback": "Artifacts should be clear and purposeful, not left for the audience to guess."
+        },
+        {
+          "id": "D",
+          "text": "Adding clearer labels, explanations, and structure to help the reviewer understand the artifact",
+          "is_correct": true,
+          "feedback": "Correct. Strong revision often improves clarity, explanation, and organization."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why does revision matter in a professional setting?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because revision shows responsibility and helps improve quality",
+          "is_correct": false,
+          "feedback": "This is a strong reason, but the correct answer in this set is the fuller explanation about professional quality and responsiveness to feedback."
+        },
+        {
+          "id": "B",
+          "text": "Because revision means the first draft was worthless",
+          "is_correct": false,
+          "feedback": "Revision does not mean a draft has no value. It means it can be improved."
+        },
+        {
+          "id": "C",
+          "text": "Because revision helps improve quality and shows that feedback is being used responsibly",
+          "is_correct": true,
+          "feedback": "Correct. Revision matters because it strengthens the work and shows professionalism."
+        },
+        {
+          "id": "D",
+          "text": "Because revision removes the need for reflection",
+          "is_correct": false,
+          "feedback": "Revision and reflection can support each other."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L02-Q05",
+      "type": "true_false",
+      "prompt": "A revised portfolio item should usually be clearer than the first draft.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Revision should improve clarity, quality, and presentation."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "The purpose of revision is to make the item stronger and easier to understand."
+        }
+      ]
+    }
+  ]
 }

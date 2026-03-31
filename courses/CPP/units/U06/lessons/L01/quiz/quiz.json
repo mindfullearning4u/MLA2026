@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U06-L01-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U06",
-    "lesson_id":  "CPP-U06-L01",
-    "title":  "Lesson Quiz: Reflecting on Career Development",
-    "description":  "Assessment of the concept that Self-evaluation and growth.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U06-L01-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U06",
+  "lesson_id": "CPP-U06-L01",
+  "title": "Lesson Quiz: Reflecting on Career Development",
+  "description": "Assessment of the concept that Self-evaluation and growth.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U06-L01-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does reflection help a student do?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Identify growth, strengths, and areas for improvement",
+          "is_correct": true,
+          "feedback": "Correct. Reflection helps students think carefully about progress, strengths, and next steps."
+        },
+        {
+          "id": "B",
+          "text": "Avoid looking at completed work",
+          "is_correct": false,
+          "feedback": "Reflection usually involves reviewing completed work and thinking about what it shows."
+        },
+        {
+          "id": "C",
+          "text": "Ignore evidence of progress",
+          "is_correct": false,
+          "feedback": "Strong reflection depends on evidence of progress and performance."
+        },
+        {
+          "id": "D",
+          "text": "Focus only on weaknesses",
+          "is_correct": false,
+          "feedback": "Reflection should include strengths and areas for improvement."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L01-Q02",
+      "type": "true_false",
+      "prompt": "A strong reflection should include specific evidence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Specific evidence makes reflection clearer and more useful."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Reflection is stronger when it points to clear evidence of growth or need."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L01-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which statement is the best example of reflection?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "I finished my work, so there is nothing to think about",
+          "is_correct": false,
+          "feedback": "Reflection goes beyond completion and considers quality, growth, and next steps."
+        },
+        {
+          "id": "B",
+          "text": "I improved my organization because my portfolio now has clearer labels and categories",
+          "is_correct": false,
+          "feedback": "This is a strong reflection statement, but the correct answer in this set is the version that includes both growth and future improvement."
+        },
+        {
+          "id": "C",
+          "text": "I improved my organization because my portfolio is clearer, and I still want to improve my speaking confidence",
+          "is_correct": true,
+          "feedback": "Correct. This statement identifies a strength, gives evidence, and names an area for improvement."
+        },
+        {
+          "id": "D",
+          "text": "My work is done, so reflection is not necessary",
+          "is_correct": false,
+          "feedback": "Reflection remains useful even after work is complete."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L01-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is reflection useful for future planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it removes the need to improve",
+          "is_correct": false,
+          "feedback": "Reflection helps students improve; it does not remove that need."
+        },
+        {
+          "id": "B",
+          "text": "Because it helps students understand what to improve next",
+          "is_correct": false,
+          "feedback": "This is a good idea, but the strongest answer in this set more fully explains how reflection supports future decisions."
+        },
+        {
+          "id": "C",
+          "text": "Because it guarantees every future choice will be easy",
+          "is_correct": false,
+          "feedback": "Reflection can guide future choices, but it does not guarantee easy decisions."
+        },
+        {
+          "id": "D",
+          "text": "Because it helps students use what they learned to make better next-step decisions",
+          "is_correct": true,
+          "feedback": "Correct. Reflection supports future planning by showing what has been learned and what should happen next."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L01-Q05",
+      "type": "true_false",
+      "prompt": "Reflection should only focus on mistakes and should not mention strengths.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Strong reflection should include both strengths and areas for improvement."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Reflection is stronger when it recognizes progress as well as future needs."
+        }
+      ]
+    }
+  ]
 }

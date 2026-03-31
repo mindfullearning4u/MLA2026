@@ -1,22 +1,152 @@
 {
-    "assessment_id":  "CPP-U06-L04-QUIZ",
-    "course_id":  "CPP",
-    "unit_id":  "U06",
-    "lesson_id":  "CPP-U06-L04",
-    "title":  "Lesson Quiz: Presenting a Career Portfolio",
-    "description":  "Assessment of the concept that Organizing and delivering a presentation.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U06-L04-QUIZ",
+  "course_id": "CPP",
+  "unit_id": "U06",
+  "lesson_id": "CPP-U06-L04",
+  "title": "Lesson Quiz: Presenting a Career Portfolio",
+  "description": "Assessment of the concept that Organizing and delivering a presentation.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U06-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What should a portfolio presentation include?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "An introduction, selected artifacts, and explanation of what they show",
+          "is_correct": true,
+          "feedback": "Correct. A portfolio presentation should introduce the portfolio and explain selected evidence clearly."
+        },
+        {
+          "id": "B",
+          "text": "Only titles with no explanation",
+          "is_correct": false,
+          "feedback": "A strong presentation should explain the purpose of the artifacts, not just name them."
+        },
+        {
+          "id": "C",
+          "text": "Artifacts shown in random order with no closing statement",
+          "is_correct": false,
+          "feedback": "Organization and a clear closing help the audience understand the presentation."
+        },
+        {
+          "id": "D",
+          "text": "Every portfolio item without deciding which ones matter most",
+          "is_correct": false,
+          "feedback": "A presentation should be selective and focused on the strongest evidence."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L04-Q02",
+      "type": "true_false",
+      "prompt": "Artifacts in a portfolio presentation should be explained instead of only displayed.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Artifacts should be explained so the audience understands why they matter."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Explaining artifacts helps connect them to skills, growth, and readiness."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "Why is a logical order important in a portfolio presentation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it helps the audience follow the presentation more easily",
+          "is_correct": false,
+          "feedback": "This is a good reason, but the correct answer in this set explains both order and understanding of purpose."
+        },
+        {
+          "id": "B",
+          "text": "Because it removes the need for transitions",
+          "is_correct": false,
+          "feedback": "Transitions still help connect ideas clearly."
+        },
+        {
+          "id": "C",
+          "text": "Because random order makes ideas stronger",
+          "is_correct": false,
+          "feedback": "Random order usually makes a presentation harder to follow."
+        },
+        {
+          "id": "D",
+          "text": "Because it helps the audience understand the sequence and purpose of the information",
+          "is_correct": true,
+          "feedback": "Correct. Logical order helps the audience follow the presentation and understand why each part matters."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student plans to present a leadership artifact first, then a resume draft, then a closing statement about readiness. What does this show?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The student has no structure",
+          "is_correct": false,
+          "feedback": "The order described shows structure, not the absence of it."
+        },
+        {
+          "id": "B",
+          "text": "The student is organizing the presentation in a purposeful way",
+          "is_correct": false,
+          "feedback": "This is close, but the correct answer in this set more fully explains the role of order and evidence."
+        },
+        {
+          "id": "C",
+          "text": "The student is using a clear presentation plan that connects evidence to readiness",
+          "is_correct": true,
+          "feedback": "Correct. The student has chosen an order that helps explain the evidence and its purpose."
+        },
+        {
+          "id": "D",
+          "text": "The student should remove the closing statement",
+          "is_correct": false,
+          "feedback": "A closing statement can help summarize the main message of the presentation."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U06-L04-Q05",
+      "type": "true_false",
+      "prompt": "A portfolio presentation should connect artifacts to strengths, growth, or readiness.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Artifacts are stronger when the presenter explains what they show."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Portfolio presentations should clearly connect evidence to strengths, growth, or readiness."
+        }
+      ]
+    }
+  ]
 }
