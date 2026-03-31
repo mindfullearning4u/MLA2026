@@ -1,20 +1,305 @@
 {
-    "assessment_id":  "CPP-U05-UNIT-FINAL",
-    "course_id":  "CPP",
-    "unit_id":  "U05",
-    "title":  "Unit Final: Portfolio Development and Organization",
-    "type":  "unit_final",
-    "counts_toward_grade":  true,
-    "weight":  40,
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  6,
-    "question_count":  10,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-    "questions":  [
-
-                  ]
+  "assessment_id": "CPP-U05-UNIT-FINAL",
+  "course_id": "CPP",
+  "unit_id": "U05",
+  "title": "Unit Final: Portfolio Development and Organization",
+  "type": "unit_final",
+  "counts_toward_grade": true,
+  "weight": 40,
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 6,
+  "question_count": 10,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the strongest reason for creating a career portfolio?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To show evidence of skills, growth, and readiness",
+          "is_correct": true,
+          "feedback": "Correct. A career portfolio is meant to provide clear evidence of what a student has done and is prepared to do next."
+        },
+        {
+          "id": "B",
+          "text": "To collect random papers with no explanation",
+          "is_correct": false,
+          "feedback": "A strong portfolio should be purposeful and should help explain the value of its contents."
+        },
+        {
+          "id": "C",
+          "text": "To avoid choosing the best work samples",
+          "is_correct": false,
+          "feedback": "A portfolio should include selected evidence that best supports the student's purpose."
+        },
+        {
+          "id": "D",
+          "text": "To replace every school assignment permanently",
+          "is_correct": false,
+          "feedback": "A portfolio can include selected work, but it does not replace every assignment."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q02",
+      "type": "multiple_choice",
+      "prompt": "Which item is the best example of a useful portfolio artifact?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A blank page with no title",
+          "is_correct": false,
+          "feedback": "Artifacts should provide meaningful evidence, not empty or unfinished material."
+        },
+        {
+          "id": "B",
+          "text": "A certificate, project sample, or reflection connected to a skill",
+          "is_correct": true,
+          "feedback": "Correct. A useful portfolio artifact is evidence that shows a specific skill, achievement, or area of growth."
+        },
+        {
+          "id": "C",
+          "text": "A stack of unrelated papers",
+          "is_correct": false,
+          "feedback": "Artifacts should be selected because they connect to the portfolio purpose."
+        },
+        {
+          "id": "D",
+          "text": "An unlabeled item with no explanation",
+          "is_correct": false,
+          "feedback": "Strong artifacts should be clear, relevant, and connected to the student's goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q03",
+      "type": "true_false",
+      "prompt": "Portfolio categories can help a reviewer understand how the included evidence is organized.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Categories such as projects, certifications, or leadership can make a portfolio easier to review."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Categories improve organization and help a reviewer understand the portfolio structure."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student includes a leadership certificate, a group project summary, and a reflection on problem-solving. What does this best show?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Artifacts should be unrelated to each other",
+          "is_correct": false,
+          "feedback": "Strong artifact selection is usually connected by purpose, not random."
+        },
+        {
+          "id": "B",
+          "text": "A portfolio should only contain one kind of evidence",
+          "is_correct": false,
+          "feedback": "A good portfolio often uses different kinds of evidence to show multiple strengths."
+        },
+        {
+          "id": "C",
+          "text": "The student selected several artifacts that show different strengths and achievements",
+          "is_correct": true,
+          "feedback": "Correct. This set of artifacts shows thoughtful selection and evidence from different areas."
+        },
+        {
+          "id": "D",
+          "text": "Reflections should never be part of a portfolio",
+          "is_correct": false,
+          "feedback": "Reflections can strengthen a portfolio by explaining why an artifact matters."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q05",
+      "type": "multiple_choice",
+      "prompt": "Which category would best fit a resume draft, a cover letter, and an application sample?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Career Documents",
+          "is_correct": false,
+          "feedback": "This is a strong category idea, but the correct answer in this set is the more complete label for these professional materials."
+        },
+        {
+          "id": "B",
+          "text": "Professional Documents and Applications",
+          "is_correct": true,
+          "feedback": "Correct. This category clearly describes the type and purpose of those portfolio items."
+        },
+        {
+          "id": "C",
+          "text": "Favorite Activities",
+          "is_correct": false,
+          "feedback": "This category would not clearly describe professional documents."
+        },
+        {
+          "id": "D",
+          "text": "Unsorted Pages",
+          "is_correct": false,
+          "feedback": "A strong portfolio should avoid vague or disorganized categories."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q06",
+      "type": "multiple_choice",
+      "prompt": "A student wants to share a portfolio link with several reviewers and update it easily over time. Which format is likely the best choice?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A digital portfolio",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer here is the one that explains why the format fits the student's purpose."
+        },
+        {
+          "id": "B",
+          "text": "A large paper binder only",
+          "is_correct": false,
+          "feedback": "A physical binder can work in some settings, but it is less efficient for repeated online sharing."
+        },
+        {
+          "id": "C",
+          "text": "A digital portfolio because it can be updated and shared quickly",
+          "is_correct": true,
+          "feedback": "Correct. A digital portfolio is often the best choice when sharing and revising quickly are priorities."
+        },
+        {
+          "id": "D",
+          "text": "A set of loose papers with no labels",
+          "is_correct": false,
+          "feedback": "Loose papers are difficult to organize, update, and share effectively."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q07",
+      "type": "true_false",
+      "prompt": "Both digital and physical portfolios can be effective when the format matches the student's purpose and audience.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Either format can work well if it is organized clearly and fits the situation."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. The best format depends on audience, purpose, and how the portfolio will be used."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q08",
+      "type": "multiple_choice",
+      "prompt": "A student's portfolio contains strong artifacts but no labels, categories, or explanations. What is the biggest problem?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The portfolio may be hard for the reviewer to understand",
+          "is_correct": false,
+          "feedback": "This is a real concern, but the correct answer in this set is the fuller explanation of how missing organization affects review."
+        },
+        {
+          "id": "B",
+          "text": "The portfolio has too much structure",
+          "is_correct": false,
+          "feedback": "The problem described is not too much structure, but too little."
+        },
+        {
+          "id": "C",
+          "text": "Organization and explanation are missing, so the evidence may be harder to understand and use",
+          "is_correct": true,
+          "feedback": "Correct. Strong artifacts are more effective when they are clearly organized and explained."
+        },
+        {
+          "id": "D",
+          "text": "A portfolio should never include explanations",
+          "is_correct": false,
+          "feedback": "Explanations can help connect artifacts to skills, growth, and goals."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q09",
+      "type": "multiple_choice",
+      "prompt": "A student is preparing a draft portfolio for review. Which step would most improve the draft before submission?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Adding every document available without checking quality",
+          "is_correct": false,
+          "feedback": "A strong portfolio should be selective and organized."
+        },
+        {
+          "id": "B",
+          "text": "Removing all categories from the portfolio",
+          "is_correct": false,
+          "feedback": "Categories usually help make the portfolio easier to review."
+        },
+        {
+          "id": "C",
+          "text": "Keeping weak artifacts because they fill space",
+          "is_correct": false,
+          "feedback": "Artifacts should be chosen for quality and relevance, not just to add more pages."
+        },
+        {
+          "id": "D",
+          "text": "Reviewing the purpose, checking artifact quality, and organizing items clearly",
+          "is_correct": true,
+          "feedback": "Correct. Revisiting purpose, quality, and organization is a strong way to improve a portfolio draft."
+        }
+      ]
+    },
+    {
+      "question_id": "CPP-U05-UNIT-FINAL-Q10",
+      "type": "multiple_choice",
+      "prompt": "Why should a student think about audience when building a portfolio?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because audience can affect what evidence and format will be most useful",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set gives the fuller reason audience matters."
+        },
+        {
+          "id": "B",
+          "text": "Because audience does not matter once artifacts are collected",
+          "is_correct": false,
+          "feedback": "Audience still matters when deciding how to present the portfolio."
+        },
+        {
+          "id": "C",
+          "text": "Because the student should always choose the same format for every situation",
+          "is_correct": false,
+          "feedback": "Different audiences and purposes may call for different portfolio choices."
+        },
+        {
+          "id": "D",
+          "text": "Because audience helps guide what to include, how to organize it, and which format to use",
+          "is_correct": true,
+          "feedback": "Correct. Audience affects selection, organization, and presentation choices in a strong portfolio."
+        }
+      ]
+    }
+  ]
 }
