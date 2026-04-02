@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U05-L04-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U05",
-    "lesson_id":  "PFL-U05-L04",
-    "title":  "Lesson Quiz: Long-Term Wealth Building",
-    "description":  "Assessment of the concept that Compounding, diversification, and planning.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U05-L04-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U05",
+  "lesson_id": "PFL-U05-L04",
+  "title": "Lesson Quiz: Compound Interest and Long-Term Growth",
+  "description": "Assessment of the concept that Time value of money and exponential growth.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U05-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is compound interest or compound growth?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Growth that builds on both the original amount and earlier growth",
+          "is_correct": true,
+          "feedback": "Correct. Compound growth builds on previous growth as well as the starting amount."
+        },
+        {
+          "id": "B",
+          "text": "A one-time fee charged on an account",
+          "is_correct": false,
+          "feedback": "A fee is not the same as compound growth."
+        },
+        {
+          "id": "C",
+          "text": "Growth that happens only in one single month",
+          "is_correct": false,
+          "feedback": "Compound growth can continue over time rather than only once."
+        },
+        {
+          "id": "D",
+          "text": "A type of tax on investments",
+          "is_correct": false,
+          "feedback": "Compound growth is not a tax."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L04-Q02",
+      "type": "true_false",
+      "prompt": "Time can strengthen long-term investment growth.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Time can strengthen growth because it gives value more opportunity to build."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Longer time periods can lead to stronger growth outcomes."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "If $800 grows to $920, how much growth occurred?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$100",
+          "is_correct": false,
+          "feedback": "Subtract the starting amount from the later amount carefully."
+        },
+        {
+          "id": "B",
+          "text": "$140",
+          "is_correct": false,
+          "feedback": "This total is too high for the values in the comparison."
+        },
+        {
+          "id": "C",
+          "text": "$120",
+          "is_correct": true,
+          "feedback": "Correct. $920 minus $800 equals $120 growth."
+        },
+        {
+          "id": "D",
+          "text": "$180",
+          "is_correct": false,
+          "feedback": "The growth amount is lower than $180."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why can earlier investing produce stronger long-term outcomes?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because earlier investing gives growth more time to build",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because earlier investing removes all uncertainty",
+          "is_correct": false,
+          "feedback": "Earlier investing does not remove all uncertainty."
+        },
+        {
+          "id": "C",
+          "text": "Because earlier investing makes planning unnecessary",
+          "is_correct": false,
+          "feedback": "Planning is still important in investment decisions."
+        },
+        {
+          "id": "D",
+          "text": "Because earlier investing gives growth more time to build",
+          "is_correct": true,
+          "feedback": "Correct. Earlier investing can strengthen long-term growth because time allows more value to build."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L04-Q05",
+      "type": "true_false",
+      "prompt": "Long-term growth should be judged only by the starting amount and not by the time invested.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Time is an important factor in long-term investment growth."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Long-term growth should consider both the amount invested and the time available for growth."
+        }
+      ]
+    }
+  ]
 }

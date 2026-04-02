@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U05-L02-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U05",
-    "lesson_id":  "PFL-U05-L02",
-    "title":  "Lesson Quiz: Types of Investments",
-    "description":  "Assessment of the concept that Stocks, bonds, mutual funds, and other assets.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U05-L02-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U05",
+  "lesson_id": "PFL-U05-L02",
+  "title": "Lesson Quiz: Types of Investments",
+  "description": "Assessment of the concept that Stocks, bonds, mutual funds, and retirement accounts.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U05-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which investment type is most closely connected to company ownership?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stocks",
+          "is_correct": true,
+          "feedback": "Correct. Stocks are associated with ownership in a company."
+        },
+        {
+          "id": "B",
+          "text": "Bonds",
+          "is_correct": false,
+          "feedback": "Bonds are more closely associated with lending than ownership."
+        },
+        {
+          "id": "C",
+          "text": "Retirement account",
+          "is_correct": false,
+          "feedback": "A retirement account is a long-term investment account, not specifically a company ownership type."
+        },
+        {
+          "id": "D",
+          "text": "Fee schedule",
+          "is_correct": false,
+          "feedback": "A fee schedule is not an investment type."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L02-Q02",
+      "type": "true_false",
+      "prompt": "A mutual fund is an investment made up of multiple assets.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A mutual fund does combine multiple assets together."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Mutual funds are built from multiple investments grouped together."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which option is most closely connected to long-term retirement planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Retirement account",
+          "is_correct": false,
+          "feedback": "This is the strongest match, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Transportation tax",
+          "is_correct": false,
+          "feedback": "A transportation tax is not an investment type."
+        },
+        {
+          "id": "C",
+          "text": "Retirement account",
+          "is_correct": true,
+          "feedback": "Correct. Retirement accounts are designed for long-term future planning."
+        },
+        {
+          "id": "D",
+          "text": "Short-term purchase fee",
+          "is_correct": false,
+          "feedback": "A purchase fee is not an investment type."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is it important to match an investment type to the financial goal?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because all investment types serve the exact same purpose",
+          "is_correct": false,
+          "feedback": "Different investment types can fit different goals."
+        },
+        {
+          "id": "B",
+          "text": "Because the strongest investment option is the one that fits the actual goal and timeline",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "Because goals should be ignored during investing",
+          "is_correct": false,
+          "feedback": "Investment choices are stronger when they are linked to the intended goal."
+        },
+        {
+          "id": "D",
+          "text": "Because the strongest investment option is the one that fits the actual goal and timeline",
+          "is_correct": true,
+          "feedback": "Correct. Strong investment decisions match the type of investment to the purpose of the money."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-L02-Q05",
+      "type": "true_false",
+      "prompt": "Choosing an investment without considering the goal is always the strongest strategy.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Strong investment choices should consider the purpose and goal of the money."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Matching the investment type to the goal is part of strong financial reasoning."
+        }
+      ]
+    }
+  ]
 }

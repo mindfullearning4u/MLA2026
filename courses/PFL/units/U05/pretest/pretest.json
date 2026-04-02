@@ -14,6 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "PFL-U05-UNIT-FINAL",
-
- "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U05-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is investing mainly intended to do?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Help money grow over time",
+          "is_correct": true,
+          "feedback": "Correct. Investing is meant to support financial growth over time."
+        },
+        {
+          "id": "B",
+          "text": "Remove all financial risk permanently",
+          "is_correct": false,
+          "feedback": "Investing does not remove all risk."
+        },
+        {
+          "id": "C",
+          "text": "Guarantee immediate profit in every case",
+          "is_correct": false,
+          "feedback": "Investing does not guarantee immediate or certain profit."
+        },
+        {
+          "id": "D",
+          "text": "Replace the need for long-term planning",
+          "is_correct": false,
+          "feedback": "Investing is stronger when it is part of long-term planning."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "Time can make investment growth stronger.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Time can increase the opportunity for investment growth."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Longer time periods can strengthen growth outcomes."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which investment type is most closely connected to company ownership?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stocks",
+          "is_correct": false,
+          "feedback": "Stocks are the strongest match, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Bonds",
+          "is_correct": false,
+          "feedback": "Bonds are associated with lending rather than company ownership."
+        },
+        {
+          "id": "C",
+          "text": "Stocks",
+          "is_correct": true,
+          "feedback": "Correct. Stocks are associated with ownership in a company."
+        },
+        {
+          "id": "D",
+          "text": "Savings fee",
+          "is_correct": false,
+          "feedback": "A savings fee is not an investment type."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "What does diversification mean in investing?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Putting all money into one investment only",
+          "is_correct": false,
+          "feedback": "That is the opposite of diversification."
+        },
+        {
+          "id": "B",
+          "text": "Spreading investments across more than one option",
+          "is_correct": false,
+          "feedback": "This is the strongest definition, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "Avoiding all long-term planning",
+          "is_correct": false,
+          "feedback": "Diversification is part of investment planning, not the avoidance of it."
+        },
+        {
+          "id": "D",
+          "text": "Spreading investments across more than one option",
+          "is_correct": true,
+          "feedback": "Correct. Diversification means not depending on one investment alone."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "Risk and return should both be considered in investment decisions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Strong investment reasoning considers possible growth and possible risk together."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Risk and return are both important in investment analysis."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Why can diversification be a stronger strategy than relying on one investment only?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it can reduce the risk of depending on one result",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because it guarantees that no investment will ever lose value",
+          "is_correct": false,
+          "feedback": "Diversification can reduce some risk, but it does not guarantee no loss."
+        },
+        {
+          "id": "C",
+          "text": "Because it removes the need to compare investment choices",
+          "is_correct": false,
+          "feedback": "Investment choices still need to be compared carefully."
+        },
+        {
+          "id": "D",
+          "text": "Because it can reduce the risk of depending on one result",
+          "is_correct": true,
+          "feedback": "Correct. Diversification helps spread risk rather than concentrating it in one choice."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "If $700 grows to $790 over time, how much growth occurred?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$70",
+          "is_correct": false,
+          "feedback": "Subtract the starting value from the later value carefully."
+        },
+        {
+          "id": "B",
+          "text": "$90",
+          "is_correct": false,
+          "feedback": "This is the correct amount, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "$90",
+          "is_correct": true,
+          "feedback": "Correct. $790 minus $700 equals $90 growth."
+        },
+        {
+          "id": "D",
+          "text": "$100",
+          "is_correct": false,
+          "feedback": "The growth amount is slightly lower than $100."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U05-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which is the strongest reason to start investing earlier rather than later?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because earlier investing can give money more time to grow",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because earlier investing can give money more time to grow",
+          "is_correct": true,
+          "feedback": "Correct. Time can strengthen long-term growth opportunities."
+        },
+        {
+          "id": "C",
+          "text": "Because later investing never allows any growth",
+          "is_correct": false,
+          "feedback": "Later investing can still allow growth, though the time period may be shorter."
+        },
+        {
+          "id": "D",
+          "text": "Because earlier investing removes all investment risk",
+          "is_correct": false,
+          "feedback": "Earlier investing does not remove all risk."
+        }
+      ]
+    }
+  ]
 }
