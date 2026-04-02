@@ -14,6 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "PFL-U01-UNIT-FINAL",
-
- "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U01-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is opportunity cost?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The value of the next best option not chosen",
+          "is_correct": true,
+          "feedback": "Correct. Opportunity cost is what a person gives up by choosing one option instead of another."
+        },
+        {
+          "id": "B",
+          "text": "The total amount spent on all options",
+          "is_correct": false,
+          "feedback": "Opportunity cost is about the next best alternative, not the total of every option."
+        },
+        {
+          "id": "C",
+          "text": "Money earned after making a decision",
+          "is_correct": false,
+          "feedback": "Opportunity cost is not the income earned after a decision."
+        },
+        {
+          "id": "D",
+          "text": "A reward given for good budgeting",
+          "is_correct": false,
+          "feedback": "Opportunity cost is a comparison idea, not a reward."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "A financial need usually has a higher priority than an optional want.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Needs usually come before wants when money is limited."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Financial priorities usually place needs ahead of optional wants."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which choice is the best example of a short-term financial goal?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Saving $30 each month for retirement in 40 years",
+          "is_correct": false,
+          "feedback": "That is a long-term goal because the timeline is far in the future."
+        },
+        {
+          "id": "B",
+          "text": "Building wealth over the next 20 years",
+          "is_correct": false,
+          "feedback": "That is a long-term goal because it takes many years."
+        },
+        {
+          "id": "C",
+          "text": "Saving $120 in three months for a class fee",
+          "is_correct": true,
+          "feedback": "Correct. A goal with a near deadline and a clear amount is a strong short-term financial goal."
+        },
+        {
+          "id": "D",
+          "text": "Owning a home someday without a timeline",
+          "is_correct": false,
+          "feedback": "That is not a clear short-term goal because the timeline is not near or specific."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student has $50 and chooses between a required activity fee and a new game. Which question best supports strong decision-making?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Which option is more exciting right now?",
+          "is_correct": false,
+          "feedback": "Excitement alone is not enough for a strong financial decision."
+        },
+        {
+          "id": "B",
+          "text": "Which choice best matches my priorities and consequences?",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the best answer in this set is the one that includes both priorities and future impact more directly."
+        },
+        {
+          "id": "C",
+          "text": "Which choice has the strongest value after considering needs and future effects?",
+          "is_correct": false,
+          "feedback": "This is close, but the correct answer in this set most directly frames the decision around needs, consequences, and goals."
+        },
+        {
+          "id": "D",
+          "text": "Which option supports my need or goal and avoids a bigger future problem?",
+          "is_correct": true,
+          "feedback": "Correct. Strong financial decisions compare needs, goals, and likely future consequences."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "A good financial goal should usually include a clear amount and a time frame.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Clear amounts and timelines make a financial goal measurable and realistic."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A strong financial goal is easier to follow when it includes a target amount and a time frame."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "A student needs $150 in 5 months for a course expense. How much should the student save each month?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$20",
+          "is_correct": false,
+          "feedback": "Saving $20 for 5 months would only reach $100."
+        },
+        {
+          "id": "B",
+          "text": "$30",
+          "is_correct": true,
+          "feedback": "Correct. $150 divided by 5 months equals $30 per month."
+        },
+        {
+          "id": "C",
+          "text": "$35",
+          "is_correct": false,
+          "feedback": "Saving $35 per month for 5 months would be more than needed."
+        },
+        {
+          "id": "D",
+          "text": "$50",
+          "is_correct": false,
+          "feedback": "Saving $50 per month would reach the goal too quickly for this calculation."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes a financial priority?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A random purchase made without comparison",
+          "is_correct": false,
+          "feedback": "A priority should be based on importance, not randomness."
+        },
+        {
+          "id": "B",
+          "text": "A purchase that always costs the most money",
+          "is_correct": false,
+          "feedback": "The highest price does not automatically make something a priority."
+        },
+        {
+          "id": "C",
+          "text": "An expense or goal that should be handled before less important choices",
+          "is_correct": true,
+          "feedback": "Correct. A financial priority is something that should come first because it matters more."
+        },
+        {
+          "id": "D",
+          "text": "A want that replaces every need",
+          "is_correct": false,
+          "feedback": "Priorities usually help distinguish important needs and goals from optional wants."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Why should a person compare consequences before making a financial decision?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because consequences do not matter after a purchase",
+          "is_correct": false,
+          "feedback": "Consequences matter because decisions can affect future options and goals."
+        },
+        {
+          "id": "B",
+          "text": "Because the lowest-cost option is always the best option",
+          "is_correct": false,
+          "feedback": "A lower price may not be the strongest value after comparing consequences."
+        },
+        {
+          "id": "C",
+          "text": "Because comparing outcomes helps a person make a more informed choice",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set more clearly connects consequence-checking to short-term and long-term impact."
+        },
+        {
+          "id": "D",
+          "text": "Because a decision can create short-term and long-term effects that should be weighed first",
+          "is_correct": true,
+          "feedback": "Correct. Comparing consequences helps a person evaluate both immediate and future outcomes."
+        }
+      ]
+    }
+  ]
 }

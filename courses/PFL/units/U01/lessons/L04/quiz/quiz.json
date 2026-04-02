@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U01-L04-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U01",
-    "lesson_id":  "PFL-U01-L04",
-    "title":  "Lesson Quiz: Needs, Wants, and Priorities",
-    "description":  "Assessment of the concept that Distinguishing essential expenses from discretionary spending.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U01-L04-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U01",
+  "lesson_id": "PFL-U01-L04",
+  "title": "Lesson Quiz: Decision-Making Strategies in Personal Finance",
+  "description": "Assessment of the concept that Evaluating options and making informed financial decisions.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U01-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the first useful step in a financial decision strategy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignore the options and act quickly",
+          "is_correct": false,
+          "feedback": "A strong decision strategy begins by slowing down and identifying the choices."
+        },
+        {
+          "id": "B",
+          "text": "Identify the decision and the available options",
+          "is_correct": true,
+          "feedback": "Correct. Good decision-making starts by clearly identifying what must be decided and what the options are."
+        },
+        {
+          "id": "C",
+          "text": "Choose the cheapest option without comparison",
+          "is_correct": false,
+          "feedback": "The lowest-cost option is not always the strongest value."
+        },
+        {
+          "id": "D",
+          "text": "Avoid thinking about consequences",
+          "is_correct": false,
+          "feedback": "Consequences are an important part of strong financial reasoning."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L04-Q02",
+      "type": "true_false",
+      "prompt": "A strong financial decision should compare cost, value, and consequences.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Strong financial decisions compare multiple factors instead of focusing on only one."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Cost, value, and consequences are all important parts of financial comparison."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "A student must choose between a $48 bus pass and $75 in ride-share costs for the month. Which option is the stronger decision if both provide transportation?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The ride-share option, because it costs more",
+          "is_correct": false,
+          "feedback": "A higher cost does not automatically make an option stronger."
+        },
+        {
+          "id": "B",
+          "text": "The bus pass, because it meets the same need at a lower monthly cost",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the correct answer in this set more clearly connects the choice to value and consequence."
+        },
+        {
+          "id": "C",
+          "text": "The bus pass, because it covers the transportation need while leaving more money for other priorities",
+          "is_correct": true,
+          "feedback": "Correct. If both meet the need, the lower-cost option leaves more money available for other goals or expenses."
+        },
+        {
+          "id": "D",
+          "text": "The ride-share option, because no comparison is needed",
+          "is_correct": false,
+          "feedback": "A strong decision requires comparison, especially when costs differ."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is the cheapest option not always the best financial decision?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because price is never relevant",
+          "is_correct": false,
+          "feedback": "Price still matters, but it is not the only factor."
+        },
+        {
+          "id": "B",
+          "text": "Because value, reliability, and future costs can change which option is stronger",
+          "is_correct": false,
+          "feedback": "This is a strong idea, but the best answer in this set states the comparison more fully."
+        },
+        {
+          "id": "C",
+          "text": "Because only future goals matter, not current cost",
+          "is_correct": false,
+          "feedback": "Both current cost and future impact can matter in financial decisions."
+        },
+        {
+          "id": "D",
+          "text": "Because a lower price may still be weaker if the option creates more problems or replacement costs later",
+          "is_correct": true,
+          "feedback": "Correct. Good decision-making compares value and consequences, not price alone."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L04-Q05",
+      "type": "true_false",
+      "prompt": "Impulse decisions can weaken financial decision-making because they often ignore future effects.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Impulse decisions often skip comparison and consequence-checking."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Impulse decisions can be weaker because they often ignore future impact."
+        }
+      ]
+    }
+  ]
 }

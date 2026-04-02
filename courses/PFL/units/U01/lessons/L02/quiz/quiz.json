@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U01-L02-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U01",
-    "lesson_id":  "PFL-U01-L02",
-    "title":  "Lesson Quiz: Goal Setting and Financial Planning",
-    "description":  "Assessment of the concept that Short-term and long-term financial goals.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U01-L02-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U01",
+  "lesson_id": "PFL-U01-L02",
+  "title": "Lesson Quiz: Needs, Wants, and Financial Priorities",
+  "description": "Assessment of the concept that Distinguishing spending priorities and value-based decision-making.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U01-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which example is most likely a financial need?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A required school fee",
+          "is_correct": true,
+          "feedback": "Correct. A required fee is a stronger example of a financial need than an optional purchase."
+        },
+        {
+          "id": "B",
+          "text": "A new video game",
+          "is_correct": false,
+          "feedback": "A video game is usually a want, not a need."
+        },
+        {
+          "id": "C",
+          "text": "Extra snacks for entertainment",
+          "is_correct": false,
+          "feedback": "Optional snacks are usually wants rather than financial needs."
+        },
+        {
+          "id": "D",
+          "text": "A fashion accessory",
+          "is_correct": false,
+          "feedback": "A fashion accessory is usually a want unless there is a clear required need."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L02-Q02",
+      "type": "true_false",
+      "prompt": "When money is limited, priorities help a person decide what should be paid first.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Priorities do help a person choose which expenses should come first."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Priorities help rank expenses when not every option can be paid at once."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Why should needs usually come before wants in financial planning?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because wants always cost more than needs",
+          "is_correct": false,
+          "feedback": "A want does not always cost more than a need."
+        },
+        {
+          "id": "B",
+          "text": "Because needs often support responsibilities, safety, or required costs",
+          "is_correct": false,
+          "feedback": "This is a strong reason, but the correct answer in this set most directly connects priorities to consequences."
+        },
+        {
+          "id": "C",
+          "text": "Because wants never have any value",
+          "is_correct": false,
+          "feedback": "Wants can still have value, but they are not always the first priority."
+        },
+        {
+          "id": "D",
+          "text": "Because paying needs first helps avoid bigger problems later",
+          "is_correct": true,
+          "feedback": "Correct. Paying needs first often prevents future problems and protects financial stability."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student has enough money for either a bus pass or a concert ticket, but not both. Which is the strongest financial priority?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The concert ticket, because it is more exciting",
+          "is_correct": false,
+          "feedback": "Excitement does not automatically make something the stronger financial priority."
+        },
+        {
+          "id": "B",
+          "text": "The bus pass, because it supports transportation needs",
+          "is_correct": false,
+          "feedback": "This is a strong answer, but the correct choice in this set more directly connects the bus pass to priority-based decision-making."
+        },
+        {
+          "id": "C",
+          "text": "The bus pass, because a required transportation expense should come before an optional want",
+          "is_correct": true,
+          "feedback": "Correct. The bus pass is the stronger financial priority because it supports a need."
+        },
+        {
+          "id": "D",
+          "text": "Neither option, because priorities do not matter",
+          "is_correct": false,
+          "feedback": "Priorities do matter when a person must choose between limited options."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L02-Q05",
+      "type": "true_false",
+      "prompt": "A want can still be purchased later after stronger financial priorities are handled.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Wants may still matter, but they usually come after stronger priorities are handled."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Wants can still be part of spending decisions, but usually after stronger priorities are covered."
+        }
+      ]
+    }
+  ]
 }

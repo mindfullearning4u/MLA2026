@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U01-L03-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U01",
-    "lesson_id":  "PFL-U01-L03",
-    "title":  "Lesson Quiz: Opportunity Cost and Trade-Offs",
-    "description":  "Assessment of the concept that Evaluating alternatives and consequences of decisions.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U01-L03-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U01",
+  "lesson_id": "PFL-U01-L03",
+  "title": "Lesson Quiz: Short-Term and Long-Term Financial Goals",
+  "description": "Assessment of the concept that Setting realistic and measurable financial goals.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U01-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which statement is the best example of a measurable financial goal?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "I want more money someday",
+          "is_correct": false,
+          "feedback": "That goal is too vague because it does not include a clear amount or time frame."
+        },
+        {
+          "id": "B",
+          "text": "I will save $180 in 6 months by setting aside $30 each month",
+          "is_correct": true,
+          "feedback": "Correct. This goal includes a target amount, a timeline, and a monthly plan."
+        },
+        {
+          "id": "C",
+          "text": "I might save for something later",
+          "is_correct": false,
+          "feedback": "That goal is not specific enough to guide decisions."
+        },
+        {
+          "id": "D",
+          "text": "I hope to spend less somehow",
+          "is_correct": false,
+          "feedback": "That goal is too vague because it does not give a measurable target."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L03-Q02",
+      "type": "true_false",
+      "prompt": "A short-term financial goal usually has a nearer time frame than a long-term financial goal.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Short-term goals generally have nearer deadlines than long-term goals."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Short-term goals are typically reached sooner than long-term goals."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "A student wants to save $240 in 8 months. How much should the student save each month?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$20",
+          "is_correct": false,
+          "feedback": "Saving $20 for 8 months would only total $160."
+        },
+        {
+          "id": "B",
+          "text": "$25",
+          "is_correct": false,
+          "feedback": "Saving $25 for 8 months would only total $200."
+        },
+        {
+          "id": "C",
+          "text": "$30",
+          "is_correct": true,
+          "feedback": "Correct. $240 divided by 8 months equals $30 per month."
+        },
+        {
+          "id": "D",
+          "text": "$40",
+          "is_correct": false,
+          "feedback": "Saving $40 per month would reach the goal too quickly for this calculation."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why do financial goals help decision-making?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because they help a person judge whether current spending supports future plans",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the best answer in this set more directly connects goals to comparing financial choices."
+        },
+        {
+          "id": "B",
+          "text": "Because goals remove the need to compare options",
+          "is_correct": false,
+          "feedback": "Goals help with comparison, but they do not remove the need for it."
+        },
+        {
+          "id": "C",
+          "text": "Because goals help a person compare choices against a target amount and timeline",
+          "is_correct": false,
+          "feedback": "This is close, but the correct answer in this set combines future planning and choice evaluation most clearly."
+        },
+        {
+          "id": "D",
+          "text": "Because goals give direction and help a person choose options that support future outcomes",
+          "is_correct": true,
+          "feedback": "Correct. Financial goals give direction and make it easier to compare choices."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U01-L03-Q05",
+      "type": "true_false",
+      "prompt": "A realistic financial goal should match both the person's timeline and the amount that can actually be saved.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Realistic goals fit the person's time frame and saving ability."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A realistic goal needs to match what the person can actually save over time."
+        }
+      ]
+    }
+  ]
 }
