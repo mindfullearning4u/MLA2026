@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U03-L04-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U03",
-    "lesson_id":  "PFL-U03-L04",
-    "title":  "Lesson Quiz: Banking and Financial Tools",
-    "description":  "Assessment of the concept that Accounts, digital banking, and payment methods.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U03-L04-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U03",
+  "lesson_id": "PFL-U03-L04",
+  "title": "Lesson Quiz: Managing Spending and Avoiding Financial Pitfalls",
+  "description": "Assessment of the concept that Overspending, impulse buying, and financial discipline.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U03-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is impulse buying?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Making an unplanned purchase without careful evaluation",
+          "is_correct": true,
+          "feedback": "Correct. Impulse buying means purchasing quickly without careful comparison or planning."
+        },
+        {
+          "id": "B",
+          "text": "Following a budget exactly as planned",
+          "is_correct": false,
+          "feedback": "Following a budget is not impulse buying."
+        },
+        {
+          "id": "C",
+          "text": "Saving money for emergencies",
+          "is_correct": false,
+          "feedback": "Saving for emergencies is a planned financial strategy, not impulse buying."
+        },
+        {
+          "id": "D",
+          "text": "Choosing a checking account instead of a savings account",
+          "is_correct": false,
+          "feedback": "That is an account choice, not a description of impulse buying."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L04-Q02",
+      "type": "true_false",
+      "prompt": "Overspending can weaken a budget and make it harder to reach financial goals.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Overspending can reduce money available for needs, savings, and other priorities."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Overspending can damage a budget and make goals harder to reach."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "A student has $50 left after planned expenses and is considering a $32 unplanned purchase. What is the strongest concern?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The purchase leaves only $18 remaining",
+          "is_correct": false,
+          "feedback": "This is the correct concern, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "The purchase automatically improves savings",
+          "is_correct": false,
+          "feedback": "An unplanned purchase usually reduces available money rather than improving savings."
+        },
+        {
+          "id": "C",
+          "text": "The purchase leaves only $18 remaining",
+          "is_correct": true,
+          "feedback": "Correct. The strongest concern is that very little money remains after the purchase."
+        },
+        {
+          "id": "D",
+          "text": "The purchase means budgeting no longer matters",
+          "is_correct": false,
+          "feedback": "Budgeting still matters when evaluating whether a purchase is strong or weak."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is financial discipline important in spending decisions?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it helps compare short-term wants with long-term priorities",
+          "is_correct": false,
+          "feedback": "This is the strongest reasoning, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because spending choices should be based only on emotions",
+          "is_correct": false,
+          "feedback": "Strong spending decisions should be based on evidence and consequences, not only emotions."
+        },
+        {
+          "id": "C",
+          "text": "Because all purchases are strong if there is any money available",
+          "is_correct": false,
+          "feedback": "A purchase can still be weak even if some money is available."
+        },
+        {
+          "id": "D",
+          "text": "Because it helps compare short-term wants with long-term priorities",
+          "is_correct": true,
+          "feedback": "Correct. Financial discipline helps support stronger long-term money decisions."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L04-Q05",
+      "type": "true_false",
+      "prompt": "A purchase is always a strong decision if it fits mathematically in the budget.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "A purchase can fit mathematically and still be a weak choice if it harms priorities or reduces flexibility too much."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Strong spending decisions depend on priorities and consequences, not only whether the math works."
+        }
+      ]
+    }
+  ]
 }

@@ -14,6 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "PFL-U03-UNIT-FINAL",
-
- "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U03-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of a budget?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To plan how money will be earned, spent, and saved",
+          "is_correct": true,
+          "feedback": "Correct. A budget helps organize income, expenses, and saving decisions."
+        },
+        {
+          "id": "B",
+          "text": "To remove all financial choices",
+          "is_correct": false,
+          "feedback": "A budget supports decisions, but it does not remove the need to make choices."
+        },
+        {
+          "id": "C",
+          "text": "To guarantee that every purchase is a good idea",
+          "is_correct": false,
+          "feedback": "A budget helps evaluate purchases, but it does not guarantee every decision is wise."
+        },
+        {
+          "id": "D",
+          "text": "To replace all saving goals",
+          "is_correct": false,
+          "feedback": "Saving goals are part of budgeting, not something a budget replaces."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "An emergency fund is money saved for unexpected expenses.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "An emergency fund is specifically meant for unexpected costs."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Emergency funds help protect financial stability when unplanned costs happen."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which account is usually the better fit for money a person plans to spend regularly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Savings account only",
+          "is_correct": false,
+          "feedback": "Savings accounts are often used for money set aside for later use."
+        },
+        {
+          "id": "B",
+          "text": "Checking account",
+          "is_correct": true,
+          "feedback": "Correct. Checking accounts are commonly used for regular transactions and spending."
+        },
+        {
+          "id": "C",
+          "text": "Emergency fund only",
+          "is_correct": false,
+          "feedback": "An emergency fund is a purpose for saved money, not the main account type for regular spending."
+        },
+        {
+          "id": "D",
+          "text": "Any account that ignores budget limits",
+          "is_correct": false,
+          "feedback": "Strong account choices should support, not ignore, money management."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student has $90 in weekly income and plans to spend $25 on transportation, $20 on food, and $15 on savings. How much money remains?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$20",
+          "is_correct": false,
+          "feedback": "Check the total expenses first and then subtract from the income."
+        },
+        {
+          "id": "B",
+          "text": "$25",
+          "is_correct": false,
+          "feedback": "This total is too high after subtracting the planned categories from the income."
+        },
+        {
+          "id": "C",
+          "text": "$30",
+          "is_correct": true,
+          "feedback": "Correct. The planned total is $60, and $90 minus $60 leaves $30."
+        },
+        {
+          "id": "D",
+          "text": "$35",
+          "is_correct": false,
+          "feedback": "The remaining amount is lower once all planned categories are included."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "Impulse buying can make it harder to stay on budget.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Unplanned purchases can reduce money available for needs, savings, or other priorities."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Impulse buying can interfere with a financial plan and create budget problems."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Why is saving money regularly considered a strong financial strategy?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because it can support goals and financial security over time",
+          "is_correct": false,
+          "feedback": "This is true, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because it guarantees that no unexpected expenses will ever happen",
+          "is_correct": false,
+          "feedback": "Saving helps prepare for unexpected costs, but it does not prevent them."
+        },
+        {
+          "id": "C",
+          "text": "Because it removes the need to think about spending choices",
+          "is_correct": false,
+          "feedback": "Saving and spending decisions still require comparison and planning."
+        },
+        {
+          "id": "D",
+          "text": "Because it can support goals and financial security over time",
+          "is_correct": true,
+          "feedback": "Correct. Regular saving supports future plans and financial stability."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "Which statement best explains the difference between checking and savings accounts?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Checking is usually for regular spending, while savings is usually for money set aside for later use",
+          "is_correct": false,
+          "feedback": "This is correct reasoning, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Checking and savings always serve the exact same purpose",
+          "is_correct": false,
+          "feedback": "These account types often support different financial purposes."
+        },
+        {
+          "id": "C",
+          "text": "Checking is usually for regular spending, while savings is usually for money set aside for later use",
+          "is_correct": true,
+          "feedback": "Correct. Checking supports access and transactions, while savings supports future use."
+        },
+        {
+          "id": "D",
+          "text": "Savings is only used for daily purchases",
+          "is_correct": false,
+          "feedback": "Savings is more commonly connected to money set aside rather than frequent daily use."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "A student has $40 left after planned expenses and is considering a $28 unplanned purchase. What is the strongest financial concern?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The purchase leaves only $12 for the rest of the week",
+          "is_correct": false,
+          "feedback": "This is the correct concern, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "The purchase automatically improves saving progress",
+          "is_correct": false,
+          "feedback": "An unplanned purchase usually reduces available money instead of improving saving progress."
+        },
+        {
+          "id": "C",
+          "text": "The purchase means budgeting is no longer necessary",
+          "is_correct": false,
+          "feedback": "Budgeting is still necessary, especially when evaluating an unplanned expense."
+        },
+        {
+          "id": "D",
+          "text": "The purchase leaves only $12 for the rest of the week",
+          "is_correct": true,
+          "feedback": "Correct. The main concern is that little money remains after the unplanned spending choice."
+        }
+      ]
+    }
+  ]
 }

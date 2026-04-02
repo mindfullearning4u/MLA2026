@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U03-L03-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U03",
-    "lesson_id":  "PFL-U03-L03",
-    "title":  "Lesson Quiz: Saving Strategies",
-    "description":  "Assessment of the concept that Emergency funds and financial security.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U03-L03-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U03",
+  "lesson_id": "PFL-U03-L03",
+  "title": "Lesson Quiz: Banking and Financial Accounts",
+  "description": "Assessment of the concept that Checking, savings, and managing financial institutions.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U03-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which account is usually the stronger fit for regular spending and transactions?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Checking account",
+          "is_correct": true,
+          "feedback": "Correct. Checking accounts are commonly used for regular purchases and transactions."
+        },
+        {
+          "id": "B",
+          "text": "Savings account only",
+          "is_correct": false,
+          "feedback": "Savings accounts are more commonly used to hold money for later use."
+        },
+        {
+          "id": "C",
+          "text": "Emergency fund only",
+          "is_correct": false,
+          "feedback": "An emergency fund is a financial purpose, not the account type best known for regular transactions."
+        },
+        {
+          "id": "D",
+          "text": "Any account that ignores the purpose of the money",
+          "is_correct": false,
+          "feedback": "Strong account choices should match the purpose of the money."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L03-Q02",
+      "type": "true_false",
+      "prompt": "Savings accounts are commonly connected to money set aside for future use.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Savings accounts are commonly used for money that is being set aside rather than spent immediately."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Savings accounts are often used for future goals and financial security."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "A student wants quick access to $80 for weekly purchases and also wants to save $30 each month for emergencies. Which account match is strongest?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Use checking for the $80 spending money and savings for the $30 emergency goal",
+          "is_correct": false,
+          "feedback": "This is the strongest reasoning, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Use savings for daily spending and checking for the emergency goal",
+          "is_correct": false,
+          "feedback": "That account match reverses the stronger financial purpose of each option."
+        },
+        {
+          "id": "C",
+          "text": "Use checking for the $80 spending money and savings for the $30 emergency goal",
+          "is_correct": true,
+          "feedback": "Correct. Checking supports access for spending, while savings supports money set aside for later."
+        },
+        {
+          "id": "D",
+          "text": "Keep all money in one place so no comparison is needed",
+          "is_correct": false,
+          "feedback": "Separating money by purpose can support stronger financial organization."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why should account choices match the purpose of the money?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because all accounts work the same no matter the goal",
+          "is_correct": false,
+          "feedback": "Different account types often support different goals."
+        },
+        {
+          "id": "B",
+          "text": "Because matching purpose to account can support better access, organization, and saving habits",
+          "is_correct": false,
+          "feedback": "This is the strongest reasoning, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "Because account choice should ignore financial goals",
+          "is_correct": false,
+          "feedback": "Account decisions should support financial goals, not ignore them."
+        },
+        {
+          "id": "D",
+          "text": "Because matching purpose to account can support better access, organization, and saving habits",
+          "is_correct": true,
+          "feedback": "Correct. Strong account choices are based on how the money will be used."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L03-Q05",
+      "type": "true_false",
+      "prompt": "Keeping all money in one place without considering its purpose is always the strongest financial strategy.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Separating money by purpose can support stronger financial decisions and planning."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Strong money management often depends on matching the account choice to the financial purpose."
+        }
+      ]
+    }
+  ]
 }

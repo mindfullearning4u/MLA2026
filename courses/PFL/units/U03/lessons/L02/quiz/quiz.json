@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U03-L02-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U03",
-    "lesson_id":  "PFL-U03-L02",
-    "title":  "Lesson Quiz: Spending and Expense Tracking",
-    "description":  "Assessment of the concept that Monitoring income and expenses.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U03-L02-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U03",
+  "lesson_id": "PFL-U03-L02",
+  "title": "Lesson Quiz: Saving Strategies and Emergency Funds",
+  "description": "Assessment of the concept that Importance of saving and financial security planning.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U03-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main purpose of an emergency fund?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To pay for only entertainment spending",
+          "is_correct": false,
+          "feedback": "An emergency fund is not mainly for entertainment spending."
+        },
+        {
+          "id": "B",
+          "text": "To prepare for unexpected expenses",
+          "is_correct": true,
+          "feedback": "Correct. Emergency funds help protect financial stability when unplanned costs happen."
+        },
+        {
+          "id": "C",
+          "text": "To remove the need for all other planning",
+          "is_correct": false,
+          "feedback": "Emergency funds support planning, but they do not replace all other financial decisions."
+        },
+        {
+          "id": "D",
+          "text": "To guarantee that no financial problems will ever happen",
+          "is_correct": false,
+          "feedback": "Emergency funds help reduce risk, but they do not guarantee that no problems will occur."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L02-Q02",
+      "type": "true_false",
+      "prompt": "Saving regularly can support financial security over time.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Regular saving does support financial security and future goals."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Saving consistently helps build security and prepare for future needs."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "A student wants to save $200 and can save $25 each week. How many weeks will it take to reach the goal?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "6 weeks",
+          "is_correct": false,
+          "feedback": "Divide the total goal by the weekly saving amount carefully."
+        },
+        {
+          "id": "B",
+          "text": "7 weeks",
+          "is_correct": false,
+          "feedback": "This is too low for a $200 goal saved at $25 per week."
+        },
+        {
+          "id": "C",
+          "text": "8 weeks",
+          "is_correct": true,
+          "feedback": "Correct. $200 divided by $25 equals 8 weeks."
+        },
+        {
+          "id": "D",
+          "text": "10 weeks",
+          "is_correct": false,
+          "feedback": "That timeline is longer than needed for this goal and saving rate."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is a specific savings amount and timeline stronger than a vague plan to save later?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because a clear amount and timeline make the plan easier to follow and measure",
+          "is_correct": false,
+          "feedback": "This is the strongest reasoning, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because saving plans should avoid numbers",
+          "is_correct": false,
+          "feedback": "Saving plans are stronger when they use numbers."
+        },
+        {
+          "id": "C",
+          "text": "Because emergency funds only matter for adults",
+          "is_correct": false,
+          "feedback": "Saving and emergency planning matter whenever financial decisions are being made."
+        },
+        {
+          "id": "D",
+          "text": "Because a clear amount and timeline make the plan easier to follow and measure",
+          "is_correct": true,
+          "feedback": "Correct. Specific saving plans are stronger because progress can be checked and justified."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U03-L02-Q05",
+      "type": "true_false",
+      "prompt": "A strong saving strategy should connect to a clear purpose or goal.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Strong saving plans explain what the money is for and how the goal will be reached."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Saving strategies are stronger when they are connected to a clear purpose."
+        }
+      ]
+    }
+  ]
 }
