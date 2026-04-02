@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U02-L02-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U02",
-    "lesson_id":  "PFL-U02-L02",
-    "title":  "Lesson Quiz: Paychecks and Compensation",
-    "description":  "Assessment of the concept that Gross vs. net income and deductions.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U02-L02-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U02",
+  "lesson_id": "PFL-U02-L02",
+  "title": "Lesson Quiz: Employment and Career Income Factors",
+  "description": "Assessment of the concept that Education, skills, and job choices affecting income potential.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U02-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which factor can affect a person's income potential?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Education and skills",
+          "is_correct": true,
+          "feedback": "Correct. Education and skills can influence what jobs are available and what income those jobs may offer."
+        },
+        {
+          "id": "B",
+          "text": "Only favorite color",
+          "is_correct": false,
+          "feedback": "Favorite color does not affect income potential in this context."
+        },
+        {
+          "id": "C",
+          "text": "Only entertainment choices",
+          "is_correct": false,
+          "feedback": "Entertainment choices are not a direct employment income factor."
+        },
+        {
+          "id": "D",
+          "text": "Only the weather",
+          "is_correct": false,
+          "feedback": "Weather is not a core career income factor in this lesson."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L02-Q02",
+      "type": "true_false",
+      "prompt": "Two jobs with different training requirements may lead to different income opportunities.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Training requirements can affect which jobs a person qualifies for and what those jobs may pay."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Training and preparation can affect earnings opportunities."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "Why is it not enough to compare careers using only one pay number?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because preparation, time, and long-term earnings can also matter",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the correct answer in this set more fully connects multiple career-income factors."
+        },
+        {
+          "id": "B",
+          "text": "Because income never matters when choosing a career",
+          "is_correct": false,
+          "feedback": "Income does matter, but it should not be the only factor."
+        },
+        {
+          "id": "C",
+          "text": "Because job choice should also consider training, skills, time, and future earnings opportunities",
+          "is_correct": true,
+          "feedback": "Correct. Strong comparisons use more than one number."
+        },
+        {
+          "id": "D",
+          "text": "Because all jobs pay the same over time",
+          "is_correct": false,
+          "feedback": "Jobs do not all pay the same over time."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "A student compares a job paying $17 per hour now with a career path requiring certification before paying $21 per hour. Which statement is strongest?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The $17 job may be stronger for immediate income, while the $21 path may be stronger for future earnings",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the correct answer in this set states the comparison more fully."
+        },
+        {
+          "id": "B",
+          "text": "The $17 job is always better because it starts sooner",
+          "is_correct": false,
+          "feedback": "Immediate start is important, but not always enough to make it the best long-term choice."
+        },
+        {
+          "id": "C",
+          "text": "The $21 path is automatically better in every situation",
+          "is_correct": false,
+          "feedback": "Long-term higher pay does not automatically make a path best for every situation."
+        },
+        {
+          "id": "D",
+          "text": "The stronger choice depends on whether the priority is immediate income or higher future earnings after training",
+          "is_correct": true,
+          "feedback": "Correct. The best decision depends on the person's goals, timeline, and situation."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L02-Q05",
+      "type": "true_false",
+      "prompt": "Career income decisions should be justified with evidence instead of assumptions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Strong financial and career reasoning should be supported by evidence."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Career-income decisions are stronger when they use evidence and comparison."
+        }
+      ]
+    }
+  ]
 }

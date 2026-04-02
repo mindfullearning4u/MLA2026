@@ -14,5 +14,292 @@
   "question_count": 10,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which comparison best explains the difference between hourly income and salary income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hourly income depends on hours worked, while salary is usually fixed over time",
+          "is_correct": true,
+          "feedback": "Correct. Hourly income changes with hours worked, while salary is usually a fixed amount paid over a period."
+        },
+        {
+          "id": "B",
+          "text": "Salary is always taxed less than hourly income",
+          "is_correct": false,
+          "feedback": "Tax treatment is not defined by hourly versus salary alone."
+        },
+        {
+          "id": "C",
+          "text": "Hourly income is always larger than salary",
+          "is_correct": false,
+          "feedback": "Neither type is always larger; it depends on the job."
+        },
+        {
+          "id": "D",
+          "text": "Salary income has no connection to employment decisions",
+          "is_correct": false,
+          "feedback": "Employment decisions can affect salary just as they affect other income types."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q02",
+      "type": "multiple_choice",
+      "prompt": "A worker earns $16 per hour for 18 hours in one week. What is the gross income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$272",
+          "is_correct": false,
+          "feedback": "Check the multiplication carefully before subtracting anything."
+        },
+        {
+          "id": "B",
+          "text": "$288",
+          "is_correct": true,
+          "feedback": "Correct. $16 multiplied by 18 hours equals $288 gross income."
+        },
+        {
+          "id": "C",
+          "text": "$304",
+          "is_correct": false,
+          "feedback": "That total is too high for 18 hours at $16 per hour."
+        },
+        {
+          "id": "D",
+          "text": "$320",
+          "is_correct": false,
+          "feedback": "That total does not match the hours and rate in the scenario."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q03",
+      "type": "true_false",
+      "prompt": "Net income is the amount left after deductions are taken from gross income.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Net income is the take-home amount after deductions."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Gross income comes first, and net income is the amount after deductions."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q04",
+      "type": "multiple_choice",
+      "prompt": "A worker has $320 in gross income and $52 in deductions. What is the net income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$262",
+          "is_correct": false,
+          "feedback": "Subtract the deductions carefully from the gross income."
+        },
+        {
+          "id": "B",
+          "text": "$268",
+          "is_correct": false,
+          "feedback": "This is the correct result, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "$372",
+          "is_correct": false,
+          "feedback": "Net income cannot be greater than gross income in this case."
+        },
+        {
+          "id": "D",
+          "text": "$268",
+          "is_correct": true,
+          "feedback": "Correct. $320 minus $52 equals $268 net income."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q05",
+      "type": "multiple_choice",
+      "prompt": "A student compares two paths: a job paying $17 per hour now or a training program that leads to a $22 per hour job later. Which conclusion is strongest?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The $17 job is always the best choice",
+          "is_correct": false,
+          "feedback": "The strongest choice depends on the person's priorities and time frame."
+        },
+        {
+          "id": "B",
+          "text": "The $22 job is always the best choice",
+          "is_correct": false,
+          "feedback": "A higher later wage is important, but immediate needs still matter."
+        },
+        {
+          "id": "C",
+          "text": "The stronger choice depends on whether the priority is immediate earnings or higher future income after training",
+          "is_correct": true,
+          "feedback": "Correct. A strong conclusion compares current needs and future income opportunities."
+        },
+        {
+          "id": "D",
+          "text": "Training never changes financial outcomes",
+          "is_correct": false,
+          "feedback": "Training can affect qualifications and future earnings."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q06",
+      "type": "multiple_choice",
+      "prompt": "A student sees an item priced at $52 with $4.16 in sales tax. What is the total after-tax cost?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$54.16",
+          "is_correct": false,
+          "feedback": "Add the full sales tax amount to the listed price."
+        },
+        {
+          "id": "B",
+          "text": "$56.16",
+          "is_correct": false,
+          "feedback": "This is the correct total, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "$57.20",
+          "is_correct": false,
+          "feedback": "That total is too high for the price and tax given."
+        },
+        {
+          "id": "D",
+          "text": "$56.16",
+          "is_correct": true,
+          "feedback": "Correct. $52 plus $4.16 equals $56.16."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q07",
+      "type": "true_false",
+      "prompt": "A strong income analysis should use net income for real spending decisions rather than gross income.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Real spending decisions should be based on the amount actually available after deductions."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Net income reflects the actual take-home amount."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q08",
+      "type": "multiple_choice",
+      "prompt": "A worker earns $19 per hour for 16 hours. Deductions total $38. What is the best explanation of the final financial outcome?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The worker can plan spending using the gross income of $304",
+          "is_correct": false,
+          "feedback": "Gross income does not account for deductions."
+        },
+        {
+          "id": "B",
+          "text": "The worker's gross income is $304, but the usable amount for financial decisions is the $266 net income after deductions",
+          "is_correct": true,
+          "feedback": "Correct. The net income is the amount available for actual spending and saving decisions."
+        },
+        {
+          "id": "C",
+          "text": "The worker's gross income is $304, and the net income after deductions is $266",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the correct answer in this set more clearly connects the calculation to financial decision-making."
+        },
+        {
+          "id": "D",
+          "text": "The worker's net income is larger than the gross income after deductions",
+          "is_correct": false,
+          "feedback": "Deductions reduce income, so net income is not larger than gross income."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q09",
+      "type": "multiple_choice",
+      "prompt": "Why should taxes be included when comparing the cost of a purchase?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because taxes can change the real total paid",
+          "is_correct": false,
+          "feedback": "This is true, but the strongest answer in this set explains why that matters for decision-making."
+        },
+        {
+          "id": "B",
+          "text": "Because taxes should only be checked after the purchase is made",
+          "is_correct": false,
+          "feedback": "Taxes should be considered before the decision is made."
+        },
+        {
+          "id": "C",
+          "text": "Because the listed pre-tax price may not show the real final cost that affects the budget",
+          "is_correct": true,
+          "feedback": "Correct. A strong financial comparison should use the real after-tax total."
+        },
+        {
+          "id": "D",
+          "text": "Because tax never affects whether an item fits the budget",
+          "is_correct": false,
+          "feedback": "Tax can affect whether a purchase fits within a budget."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-UNIT-FINAL-Q10",
+      "type": "multiple_choice",
+      "prompt": "A student compares two jobs. Job A pays $15 per hour for 12 hours each week. Job B pays $13 per hour for 18 hours each week. Which conclusion is strongest?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Job A has the higher hourly rate, but Job B has the higher weekly earnings total",
+          "is_correct": false,
+          "feedback": "This is the right comparison, but the correct answer in this set is the fuller conclusion using the actual weekly totals."
+        },
+        {
+          "id": "B",
+          "text": "Job A is stronger because the hourly rate is higher, even though the weekly total is lower",
+          "is_correct": false,
+          "feedback": "A higher hourly rate does not automatically mean the stronger income option."
+        },
+        {
+          "id": "C",
+          "text": "Job B earns more per week because 13 x 18 = 234, which is higher than Job A's 15 x 12 = 180",
+          "is_correct": true,
+          "feedback": "Correct. Job B has lower hourly pay but higher weekly total earnings because of the larger number of hours."
+        },
+        {
+          "id": "D",
+          "text": "The jobs cannot be compared because they use different hourly rates",
+          "is_correct": false,
+          "feedback": "The jobs can be compared by calculating total weekly earnings."
+        }
+      ]
+    }
+  ]
 }

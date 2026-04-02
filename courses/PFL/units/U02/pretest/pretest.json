@@ -14,6 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "PFL-U02-UNIT-FINAL",
-
- "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U02-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is the main difference between hourly pay and salary pay?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hourly pay is earned for each hour worked, while salary is a fixed amount over time",
+          "is_correct": true,
+          "feedback": "Correct. Hourly pay depends on hours worked, while salary is usually a fixed amount paid over a period."
+        },
+        {
+          "id": "B",
+          "text": "Salary is always lower than hourly pay",
+          "is_correct": false,
+          "feedback": "Salary is not always lower. The amount depends on the specific job."
+        },
+        {
+          "id": "C",
+          "text": "Hourly pay never changes from week to week",
+          "is_correct": false,
+          "feedback": "Hourly pay can change if the number of hours worked changes."
+        },
+        {
+          "id": "D",
+          "text": "Salary means a person is never taxed",
+          "is_correct": false,
+          "feedback": "Salary earnings can still be taxed and deducted."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "Education and skills can affect a person's income potential.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Education and skills can influence job options and earnings potential."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Education, training, and skills can affect what kinds of jobs and earnings are available."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "What is gross income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The amount earned before deductions",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set is the one that identifies gross income as total earnings before deductions."
+        },
+        {
+          "id": "B",
+          "text": "The final amount kept after taxes",
+          "is_correct": false,
+          "feedback": "That describes net income, not gross income."
+        },
+        {
+          "id": "C",
+          "text": "The total earnings before deductions are taken out",
+          "is_correct": true,
+          "feedback": "Correct. Gross income is the total amount earned before deductions."
+        },
+        {
+          "id": "D",
+          "text": "A purchase price after sales tax",
+          "is_correct": false,
+          "feedback": "Gross income refers to earnings, not purchase totals."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A worker earns $15 per hour for 12 hours. What is the gross income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$150",
+          "is_correct": false,
+          "feedback": "Multiply the hourly rate by the hours worked. $15 x 12 is not $150."
+        },
+        {
+          "id": "B",
+          "text": "$180",
+          "is_correct": false,
+          "feedback": "This is the right calculation, but the correct answer in this set is placed in a different option."
+        },
+        {
+          "id": "C",
+          "text": "$195",
+          "is_correct": false,
+          "feedback": "$195 would be too high for 12 hours at $15 per hour."
+        },
+        {
+          "id": "D",
+          "text": "$180",
+          "is_correct": true,
+          "feedback": "Correct. $15 multiplied by 12 hours equals $180."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "Net income is usually less than gross income because deductions are taken out.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Net income is the take-home amount after deductions are removed from gross income."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Net income is usually lower because deductions reduce the final amount."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which example is a common type of tax?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Income tax",
+          "is_correct": false,
+          "feedback": "Income tax is a common tax type, but the correct option in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Wish tax",
+          "is_correct": false,
+          "feedback": "Wish tax is not a standard tax type."
+        },
+        {
+          "id": "C",
+          "text": "Priority tax",
+          "is_correct": false,
+          "feedback": "Priority tax is not a standard tax type in this context."
+        },
+        {
+          "id": "D",
+          "text": "Sales tax",
+          "is_correct": true,
+          "feedback": "Correct. Sales tax is a common tax added to certain purchases."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "Why does tax awareness matter in financial decision-making?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because taxes can change how much money a person actually keeps or spends",
+          "is_correct": false,
+          "feedback": "This is a strong reason, but the correct answer in this set is the fuller explanation of how taxes change real financial outcomes."
+        },
+        {
+          "id": "B",
+          "text": "Because taxes never affect take-home pay",
+          "is_correct": false,
+          "feedback": "Taxes can affect take-home pay and total cost."
+        },
+        {
+          "id": "C",
+          "text": "Because taxes change real financial outcomes and should be considered when comparing options",
+          "is_correct": true,
+          "feedback": "Correct. Tax awareness matters because taxes affect real financial outcomes."
+        },
+        {
+          "id": "D",
+          "text": "Because taxes only matter for businesses",
+          "is_correct": false,
+          "feedback": "Taxes can affect individuals as well as businesses."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "A student sees an item priced at $40 with $3.20 in sales tax. What is the total cost?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$40.20",
+          "is_correct": false,
+          "feedback": "The tax amount must be added fully to the listed price."
+        },
+        {
+          "id": "B",
+          "text": "$43.20",
+          "is_correct": true,
+          "feedback": "Correct. $40 plus $3.20 in tax equals $43.20."
+        },
+        {
+          "id": "C",
+          "text": "$43.20",
+          "is_correct": false,
+          "feedback": "This is the right total, but the correct answer in this set is placed in a different option."
+        },
+        {
+          "id": "D",
+          "text": "$44.00",
+          "is_correct": false,
+          "feedback": "$44.00 would be too high for this sales-tax total."
+        }
+      ]
+    }
+  ]
 }

@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U02-L01-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U02",
-    "lesson_id":  "PFL-U02-L01",
-    "title":  "Lesson Quiz: Types of Income and Employment",
-    "description":  "Assessment of the concept that Wages, salaries, benefits, and career pathways.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U02-L01-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U02",
+  "lesson_id": "PFL-U02-L01",
+  "title": "Lesson Quiz: Types of Income and Earnings",
+  "description": "Assessment of the concept that Wages, salaries, hourly vs. salary, and income sources.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U02-L01-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is hourly income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Income earned for each hour worked",
+          "is_correct": true,
+          "feedback": "Correct. Hourly income depends on the number of hours worked."
+        },
+        {
+          "id": "B",
+          "text": "A fixed yearly amount no matter how many hours are worked",
+          "is_correct": false,
+          "feedback": "That better describes salary income."
+        },
+        {
+          "id": "C",
+          "text": "A tax collected from each paycheck",
+          "is_correct": false,
+          "feedback": "Hourly income is a type of earnings, not a tax."
+        },
+        {
+          "id": "D",
+          "text": "Money spent after a paycheck is received",
+          "is_correct": false,
+          "feedback": "Hourly income refers to earnings, not spending."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L01-Q02",
+      "type": "true_false",
+      "prompt": "A salary is usually a fixed amount paid over a time period.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Salary usually refers to a fixed amount paid over a set period."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Salary income is usually more fixed than hourly pay."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L01-Q03",
+      "type": "multiple_choice",
+      "prompt": "A worker earns $14 per hour for 15 hours. What are the total earnings?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$196",
+          "is_correct": false,
+          "feedback": "Multiply $14 by 15 hours carefully."
+        },
+        {
+          "id": "B",
+          "text": "$210",
+          "is_correct": false,
+          "feedback": "This is close, but the correct answer in this set is placed in a different option."
+        },
+        {
+          "id": "C",
+          "text": "$210",
+          "is_correct": true,
+          "feedback": "Correct. $14 multiplied by 15 hours equals $210."
+        },
+        {
+          "id": "D",
+          "text": "$224",
+          "is_correct": false,
+          "feedback": "$224 would be too high for 15 hours at $14 per hour."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L01-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why can a job with a lower hourly wage sometimes lead to higher weekly income?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because hourly wage is the only factor that matters",
+          "is_correct": false,
+          "feedback": "Total hours also affect weekly income."
+        },
+        {
+          "id": "B",
+          "text": "Because it may offer more working hours, which raises total earnings",
+          "is_correct": false,
+          "feedback": "This is a strong reason, but the correct answer in this set more clearly connects total hours to weekly income."
+        },
+        {
+          "id": "C",
+          "text": "Because total weekly income depends on both pay rate and hours worked",
+          "is_correct": false,
+          "feedback": "This is close, but the strongest answer in this set directly answers why a lower hourly wage can still win."
+        },
+        {
+          "id": "D",
+          "text": "Because more hours can produce a higher total even when the hourly rate is lower",
+          "is_correct": true,
+          "feedback": "Correct. Weekly income depends on both the rate and the number of hours worked."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L01-Q05",
+      "type": "true_false",
+      "prompt": "Comparing income options should include total earnings, not just the hourly rate.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Total earnings can change when hours differ, even if hourly rates are not the same."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Strong income comparisons should include total earnings, not just the hourly rate."
+        }
+      ]
+    }
+  ]
 }

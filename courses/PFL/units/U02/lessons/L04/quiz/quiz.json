@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U02-L04-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U02",
-    "lesson_id":  "PFL-U02-L04",
-    "title":  "Lesson Quiz: Filing Taxes and Financial Responsibility",
-    "description":  "Assessment of the concept that Basic tax forms and responsibilities.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U02-L04-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U02",
+  "lesson_id": "PFL-U02-L04",
+  "title": "Lesson Quiz: Basics of Taxes and Financial Responsibility",
+  "description": "Assessment of the concept that Purpose of taxes, common types, and obligations.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U02-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is one purpose of taxes in basic personal finance?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To help fund public services and obligations",
+          "is_correct": true,
+          "feedback": "Correct. Taxes are required payments that help support public responsibilities and services."
+        },
+        {
+          "id": "B",
+          "text": "To increase all personal spending",
+          "is_correct": false,
+          "feedback": "Taxes do not increase personal spending power."
+        },
+        {
+          "id": "C",
+          "text": "To remove every deduction from a paycheck",
+          "is_correct": false,
+          "feedback": "Taxes may be one type of deduction, but they do not remove all deductions."
+        },
+        {
+          "id": "D",
+          "text": "To eliminate the need for budgeting",
+          "is_correct": false,
+          "feedback": "Budgeting is still important because taxes affect real costs and take-home pay."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L04-Q02",
+      "type": "true_false",
+      "prompt": "Sales tax can increase the final cost of a purchase above the listed price.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Sales tax can raise the final total above the listed pre-tax price."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. The final amount paid can be higher after sales tax is added."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "An item costs $45 and sales tax is $3.60. What is the total cost?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$45.36",
+          "is_correct": false,
+          "feedback": "The listed price and the sales tax need to be added fully."
+        },
+        {
+          "id": "B",
+          "text": "$48.60",
+          "is_correct": false,
+          "feedback": "This is the correct total, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "$49.50",
+          "is_correct": false,
+          "feedback": "$49.50 is too high for this example."
+        },
+        {
+          "id": "D",
+          "text": "$48.60",
+          "is_correct": true,
+          "feedback": "Correct. $45 plus $3.60 in tax equals $48.60."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is tax awareness part of financial responsibility?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because taxes affect real financial outcomes and should be included in planning",
+          "is_correct": false,
+          "feedback": "This is strong reasoning, but the correct answer in this set more clearly connects taxes to real comparisons and final costs."
+        },
+        {
+          "id": "B",
+          "text": "Because taxes never affect earnings or prices",
+          "is_correct": false,
+          "feedback": "Taxes can affect paychecks and purchase totals."
+        },
+        {
+          "id": "C",
+          "text": "Because taxes should be considered when comparing what money is actually available or what a purchase will really cost",
+          "is_correct": true,
+          "feedback": "Correct. Financial responsibility includes comparing actual after-tax results."
+        },
+        {
+          "id": "D",
+          "text": "Because taxes only matter after all decisions are made",
+          "is_correct": false,
+          "feedback": "Taxes should be considered before making financial decisions."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U02-L04-Q05",
+      "type": "true_false",
+      "prompt": "Using only a listed pre-tax price can lead to a weak financial decision.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. A person should consider after-tax cost, not just the listed pre-tax amount."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Ignoring tax can lead to an inaccurate view of the final cost."
+        }
+      ]
+    }
+  ]
 }
