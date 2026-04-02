@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U04-L03-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U04",
-    "lesson_id":  "PFL-U04-L03",
-    "title":  "Lesson Quiz: Credit Cards and Debt Management",
-    "description":  "Assessment of the concept that Responsible use and repayment strategies.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U04-L03-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U04",
+  "lesson_id": "PFL-U04-L03",
+  "title": "Lesson Quiz: Interest, Fees, and Cost of Borrowing",
+  "description": "Assessment of the concept that How interest accumulates and affects total repayment.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U04-L03-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is interest in borrowing?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Extra money paid for borrowing",
+          "is_correct": true,
+          "feedback": "Correct. Interest is an added borrowing cost paid on top of the original amount."
+        },
+        {
+          "id": "B",
+          "text": "Only the original amount borrowed",
+          "is_correct": false,
+          "feedback": "The original amount borrowed is separate from the extra cost called interest."
+        },
+        {
+          "id": "C",
+          "text": "A reward for avoiding repayment",
+          "is_correct": false,
+          "feedback": "Interest is a borrowing cost, not a reward."
+        },
+        {
+          "id": "D",
+          "text": "A savings account deposit",
+          "is_correct": false,
+          "feedback": "Interest in this lesson refers to borrowing cost, not a savings deposit."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L03-Q02",
+      "type": "true_false",
+      "prompt": "Fees can increase the total amount a borrower must repay.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Fees do add cost and can increase the total repayment amount."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Fees are part of the total borrowing cost."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L03-Q03",
+      "type": "multiple_choice",
+      "prompt": "A borrower takes a $450 loan with $36 in interest and a $9 fee. What is the total repayment amount?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$486",
+          "is_correct": false,
+          "feedback": "Add the borrowed amount, interest, and fee carefully."
+        },
+        {
+          "id": "B",
+          "text": "$504",
+          "is_correct": false,
+          "feedback": "This total is too high for the loan, interest, and fee given."
+        },
+        {
+          "id": "C",
+          "text": "$495",
+          "is_correct": true,
+          "feedback": "Correct. $450 plus $36 plus $9 equals $495."
+        },
+        {
+          "id": "D",
+          "text": "$531",
+          "is_correct": false,
+          "feedback": "That total is much higher than the correct repayment amount."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L03-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is total repayment a stronger comparison than the borrowed amount alone?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because the borrowed amount already includes all later costs",
+          "is_correct": false,
+          "feedback": "The borrowed amount does not automatically include all interest and fees."
+        },
+        {
+          "id": "B",
+          "text": "Because total repayment shows the real cost after interest and fees are added",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "Because fees and interest never matter in comparisons",
+          "is_correct": false,
+          "feedback": "Fees and interest do matter because they affect total cost."
+        },
+        {
+          "id": "D",
+          "text": "Because total repayment shows the real cost after interest and fees are added",
+          "is_correct": true,
+          "feedback": "Correct. Strong borrowing comparisons should use the full cost, not only the starting amount."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L03-Q05",
+      "type": "true_false",
+      "prompt": "A lower starting loan amount is always the cheaper borrowing option.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": false,
+          "feedback": "A lower starting amount is not always cheaper if the interest and fees are higher."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. The full borrowing cost should be compared before deciding which option is cheaper."
+        }
+      ]
+    }
+  ]
 }

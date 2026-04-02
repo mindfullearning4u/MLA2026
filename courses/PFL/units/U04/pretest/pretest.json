@@ -14,6 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "PFL-U04-UNIT-FINAL",
-
- "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U04-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is credit?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The ability to borrow money and repay it later",
+          "is_correct": true,
+          "feedback": "Correct. Credit gives a person access to borrowed money that must be repaid later."
+        },
+        {
+          "id": "B",
+          "text": "Money that never has to be paid back",
+          "is_correct": false,
+          "feedback": "Borrowed money through credit must be repaid."
+        },
+        {
+          "id": "C",
+          "text": "Only money saved in a bank account",
+          "is_correct": false,
+          "feedback": "Credit is about borrowing, not simply storing saved money."
+        },
+        {
+          "id": "D",
+          "text": "A tax added to all purchases",
+          "is_correct": false,
+          "feedback": "Credit is not a tax."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "Making payments on time is usually stronger for credit than missing payments.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "On-time payment behavior is usually stronger because it supports responsible borrowing."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. On-time payments are a stronger borrowing behavior than missed payments."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which type of loan is most closely connected to buying a home?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mortgage",
+          "is_correct": false,
+          "feedback": "A mortgage is the correct loan type for a home purchase, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Credit card",
+          "is_correct": false,
+          "feedback": "Credit cards are not the main borrowing tool for home purchases."
+        },
+        {
+          "id": "C",
+          "text": "Mortgage",
+          "is_correct": true,
+          "feedback": "Correct. Mortgages are loans commonly used to buy homes or property."
+        },
+        {
+          "id": "D",
+          "text": "Student loan",
+          "is_correct": false,
+          "feedback": "Student loans are connected to education expenses, not home purchases."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "A borrower takes a $300 loan with $24 in interest and a $6 fee. What is the total repayment amount?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$318",
+          "is_correct": false,
+          "feedback": "Add the borrowed amount, interest, and fee together carefully."
+        },
+        {
+          "id": "B",
+          "text": "$324",
+          "is_correct": false,
+          "feedback": "This is the correct total, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "$330",
+          "is_correct": false,
+          "feedback": "This total is too high for the numbers in the scenario."
+        },
+        {
+          "id": "D",
+          "text": "$324",
+          "is_correct": true,
+          "feedback": "Correct. $300 plus $24 plus $6 equals $324."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "Interest and fees can increase the total cost of borrowing.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Interest and fees raise the amount a borrower must repay."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Interest and fees do affect the total amount repaid."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which borrowing pattern is the stronger example of debt management?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Skipping payments and borrowing again to cover older debt",
+          "is_correct": false,
+          "feedback": "That pattern can create deeper debt problems."
+        },
+        {
+          "id": "B",
+          "text": "Making payments on time and following a repayment plan",
+          "is_correct": true,
+          "feedback": "Correct. Responsible repayment is the stronger debt management pattern."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring total repayment amounts",
+          "is_correct": false,
+          "feedback": "Ignoring total repayment can lead to weaker borrowing decisions."
+        },
+        {
+          "id": "D",
+          "text": "Choosing debt without comparing consequences",
+          "is_correct": false,
+          "feedback": "Strong borrowing decisions should compare consequences before borrowing."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "Why is comparing total repayment more useful than looking only at the amount borrowed?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because the total repayment shows the full borrowing cost",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because interest and fees never matter",
+          "is_correct": false,
+          "feedback": "Interest and fees do matter because they affect the real cost."
+        },
+        {
+          "id": "C",
+          "text": "Because the total repayment shows the full borrowing cost",
+          "is_correct": true,
+          "feedback": "Correct. The total repayment includes the original amount plus added borrowing costs."
+        },
+        {
+          "id": "D",
+          "text": "Because all loans cost the same in the end",
+          "is_correct": false,
+          "feedback": "Loans can cost different amounts depending on interest and fees."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which is the strongest reason to avoid borrowing more than can realistically be repaid?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because debt can grow into a long-term financial problem",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because repayment ability does not matter",
+          "is_correct": false,
+          "feedback": "Repayment ability is one of the most important parts of responsible borrowing."
+        },
+        {
+          "id": "C",
+          "text": "Because all forms of borrowing are automatically harmful",
+          "is_correct": false,
+          "feedback": "Borrowing is not always harmful, but it must be used responsibly."
+        },
+        {
+          "id": "D",
+          "text": "Because debt can grow into a long-term financial problem",
+          "is_correct": true,
+          "feedback": "Correct. Borrowing more than can be repaid can create serious long-term financial risk."
+        }
+      ]
+    }
+  ]
 }

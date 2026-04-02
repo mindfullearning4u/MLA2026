@@ -1,21 +1,152 @@
 {
-    "assessment_id":  "PFL-U04-L04-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U04",
-    "lesson_id":  "PFL-U04-L04",
-    "title":  "Lesson Quiz: Risks of Debt and Financial Consequences",
-    "description":  "Assessment of the concept that Overuse of credit and long-term impacts.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U04-L04-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U04",
+  "lesson_id": "PFL-U04-L04",
+  "title": "Lesson Quiz: Responsible Credit Use and Debt Management",
+  "description": "Assessment of the concept that Avoiding debt traps and managing repayment strategies.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U04-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What is responsible credit use?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Borrowing in a way that can be repaid on time and managed safely",
+          "is_correct": true,
+          "feedback": "Correct. Responsible credit use means borrowing with a realistic repayment plan."
+        },
+        {
+          "id": "B",
+          "text": "Borrowing without checking repayment ability",
+          "is_correct": false,
+          "feedback": "Responsible borrowing should include checking repayment ability."
+        },
+        {
+          "id": "C",
+          "text": "Using new debt to ignore older debt",
+          "is_correct": false,
+          "feedback": "That is a warning sign of weak debt management."
+        },
+        {
+          "id": "D",
+          "text": "Treating borrowed money as if it never needs to be repaid",
+          "is_correct": false,
+          "feedback": "Borrowed money still creates repayment responsibility."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L04-Q02",
+      "type": "true_false",
+      "prompt": "Borrowing again to cover older debt can be a warning sign of weak debt management.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Using new debt to cover old debt can be a sign that debt is no longer being managed safely."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. That pattern can create deeper debt problems over time."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which repayment pattern is stronger for long-term financial stability?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Skipping payments whenever money feels tight and adding new borrowing later",
+          "is_correct": false,
+          "feedback": "That pattern can increase long-term financial risk."
+        },
+        {
+          "id": "B",
+          "text": "Choosing repayment without comparing consequences",
+          "is_correct": false,
+          "feedback": "Strong repayment decisions compare consequences before acting."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring due dates as long as some borrowing remains available",
+          "is_correct": false,
+          "feedback": "Ignoring due dates weakens debt management."
+        },
+        {
+          "id": "D",
+          "text": "Following a repayment plan and paying on time",
+          "is_correct": true,
+          "feedback": "Correct. A clear repayment plan is the stronger strategy for debt management."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Why is repayment planning important before using credit?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because repayment planning helps compare current borrowing with future ability to manage the debt",
+          "is_correct": false,
+          "feedback": "This is the strongest reasoning, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Because repayment ability does not matter if the credit is approved",
+          "is_correct": false,
+          "feedback": "Approval alone does not mean the debt will be manageable."
+        },
+        {
+          "id": "C",
+          "text": "Because repayment planning helps compare current borrowing with future ability to manage the debt",
+          "is_correct": true,
+          "feedback": "Correct. A strong credit decision checks future repayment ability before borrowing."
+        },
+        {
+          "id": "D",
+          "text": "Because long-term consequences should be ignored in favor of short-term access",
+          "is_correct": false,
+          "feedback": "Strong borrowing decisions should consider long-term consequences."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U04-L04-Q05",
+      "type": "true_false",
+      "prompt": "A debt decision can seem helpful in the short term but still create long-term problems.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Short-term help can still lead to long-term repayment problems."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Borrowing decisions should be evaluated for both immediate benefit and long-term consequences."
+        }
+      ]
+    }
+  ]
 }
