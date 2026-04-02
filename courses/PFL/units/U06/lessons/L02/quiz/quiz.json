@@ -1,21 +1,164 @@
 {
-    "assessment_id":  "PFL-U06-L02-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U06",
-    "lesson_id":  "PFL-U06-L02",
-    "title":  "Lesson Quiz: Insurance and Risk Protection",
-    "description":  "Assessment of the concept that Types of insurance and financial protection.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U06-L02-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U06",
+  "lesson_id": "PFL-U06-L02",
+  "title": "Lesson Quiz: Insurance and Risk Protection",
+  "description": "Assessment of the concept that Health, auto, life, and property insurance basics.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U06-L02-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which type of insurance is most directly connected to vehicle-related risk?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Life insurance",
+          "is_correct": false,
+          "feedback": "Life insurance is connected to financial support after a death, not vehicle-related risk."
+        },
+        {
+          "id": "B",
+          "text": "Auto insurance",
+          "is_correct": true,
+          "feedback": "Correct. Auto insurance is associated with vehicle-related losses and liability."
+        },
+        {
+          "id": "C",
+          "text": "Health insurance",
+          "is_correct": false,
+          "feedback": "Health insurance is connected to medical costs."
+        },
+        {
+          "id": "D",
+          "text": "Property insurance only for medical bills",
+          "is_correct": false,
+          "feedback": "That is not the best match for vehicle-related risk."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L02-Q02",
+      "type": "true_false",
+      "prompt": "Insurance can help reduce the financial shock of an unexpected loss.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Insurance is designed to help reduce the financial shock of covered losses."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Insurance helps manage the financial impact of risk."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L02-Q03",
+      "type": "multiple_choice",
+      "prompt": "If a monthly insurance premium is $70, how much is paid over 12 months?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$700",
+          "is_correct": false,
+          "feedback": "Multiply the monthly premium by 12 carefully."
+        },
+        {
+          "id": "B",
+          "text": "$770",
+          "is_correct": false,
+          "feedback": "This total is too low."
+        },
+        {
+          "id": "C",
+          "text": "$840",
+          "is_correct": true,
+          "feedback": "Correct. $70 times 12 equals $840."
+        },
+        {
+          "id": "D",
+          "text": "$910",
+          "is_correct": false,
+          "feedback": "This total is too high."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L02-Q04",
+      "type": "multiple_choice",
+      "prompt": "What is the strongest reason a person might choose insurance coverage?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "To remove every possible risk permanently",
+          "is_correct": false,
+          "feedback": "Insurance can reduce financial risk, but it does not remove all risk permanently."
+        },
+        {
+          "id": "B",
+          "text": "To avoid thinking about future financial needs",
+          "is_correct": false,
+          "feedback": "Insurance is part of financial planning, not a way to ignore planning."
+        },
+        {
+          "id": "C",
+          "text": "To reduce the financial impact of a costly unexpected event",
+          "is_correct": false,
+          "feedback": "This is the strongest reason, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "D",
+          "text": "To reduce the financial impact of a costly unexpected event",
+          "is_correct": true,
+          "feedback": "Correct. Insurance can reduce the financial impact of major covered losses."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L02-Q05",
+      "type": "multiple_choice",
+      "prompt": "Which insurance type is most directly connected to protecting a home or belongings?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Property insurance",
+          "is_correct": true,
+          "feedback": "Correct. Property insurance is associated with protecting homes or belongings."
+        },
+        {
+          "id": "B",
+          "text": "Health insurance",
+          "is_correct": false,
+          "feedback": "Health insurance is associated with medical expenses."
+        },
+        {
+          "id": "C",
+          "text": "Auto insurance only for hospital costs",
+          "is_correct": false,
+          "feedback": "That is not the best match for protecting a home or belongings."
+        },
+        {
+          "id": "D",
+          "text": "Life insurance for transportation fuel",
+          "is_correct": false,
+          "feedback": "That is not an appropriate match for property protection."
+        }
+      ]
+    }
+  ]
 }

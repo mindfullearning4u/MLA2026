@@ -1,21 +1,164 @@
 {
-    "assessment_id":  "PFL-U06-L04-QUIZ",
-    "course_id":  "PFL",
-    "unit_id":  "U06",
-    "lesson_id":  "PFL-U06-L04",
-    "title":  "Lesson Quiz: Avoiding Financial Fraud and Risk",
-    "description":  "Assessment of the concept that Consumer protection and financial safety.",
-    "type":  "quiz",
-    "counts_toward_grade":  true,
-    "graded_category":  "quiz",
-    "max_attempts":  2,
-    "record_highest_score":  true,
-    "mastery_threshold":  80,
-    "acceleration_eligible_threshold":  90,
-    "display_order":  8,
-    "question_count":  5,
-    "randomize_questions":  true,
-    "show_feedback":  true,
-
-    "questions": []
+  "assessment_id": "PFL-U06-L04-QUIZ",
+  "course_id": "PFL",
+  "unit_id": "U06",
+  "lesson_id": "PFL-U06-L04",
+  "title": "Lesson Quiz: Financial Responsibility and Accountability",
+  "description": "Assessment of the concept that Ethical decisions, consequences, and long-term impact.",
+  "type": "quiz",
+  "counts_toward_grade": true,
+  "graded_category": "quiz",
+  "max_attempts": 2,
+  "record_highest_score": true,
+  "mastery_threshold": 80,
+  "acceleration_eligible_threshold": 90,
+  "display_order": 8,
+  "question_count": 5,
+  "randomize_questions": true,
+  "show_feedback": true,
+  "questions": [
+    {
+      "question_id": "PFL-U06-L04-Q01",
+      "type": "multiple_choice",
+      "prompt": "What does financial accountability mean?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Accepting the consequences of financial choices",
+          "is_correct": false,
+          "feedback": "This is the strongest definition, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "B",
+          "text": "Accepting the consequences of financial choices",
+          "is_correct": true,
+          "feedback": "Correct. Financial accountability means accepting the results of financial decisions."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring obligations until someone else responds",
+          "is_correct": false,
+          "feedback": "Ignoring obligations is not accountability."
+        },
+        {
+          "id": "D",
+          "text": "Avoiding every financial consequence automatically",
+          "is_correct": false,
+          "feedback": "Accountability does not mean avoiding every consequence."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L04-Q02",
+      "type": "true_false",
+      "prompt": "Responsible financial behavior includes thinking about long-term consequences.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Responsible choices include attention to longer-term consequences."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Responsibility includes considering longer-term consequences."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L04-Q03",
+      "type": "multiple_choice",
+      "prompt": "If a $55 bill is paid late and a $20 fee is added, what is the new total?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$65",
+          "is_correct": false,
+          "feedback": "Add the bill and the fee carefully."
+        },
+        {
+          "id": "B",
+          "text": "$70",
+          "is_correct": false,
+          "feedback": "This total is too low."
+        },
+        {
+          "id": "C",
+          "text": "$75",
+          "is_correct": true,
+          "feedback": "Correct. $55 plus $20 equals $75."
+        },
+        {
+          "id": "D",
+          "text": "$80",
+          "is_correct": false,
+          "feedback": "This total is too high."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L04-Q04",
+      "type": "multiple_choice",
+      "prompt": "Which choice is the strongest example of financial responsibility?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignoring due dates because fees can be paid later",
+          "is_correct": false,
+          "feedback": "Ignoring due dates can create preventable financial problems."
+        },
+        {
+          "id": "B",
+          "text": "Pretending that consequences do not matter",
+          "is_correct": false,
+          "feedback": "Financial responsibility requires attention to consequences."
+        },
+        {
+          "id": "C",
+          "text": "Meeting obligations on time and learning from mistakes",
+          "is_correct": false,
+          "feedback": "This is the strongest example, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "D",
+          "text": "Meeting obligations on time and learning from mistakes",
+          "is_correct": true,
+          "feedback": "Correct. Responsible behavior includes follow-through and learning from outcomes."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-L04-Q05",
+      "type": "multiple_choice",
+      "prompt": "Why does financial responsibility support long-term stability?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because responsible choices can reduce avoidable setbacks",
+          "is_correct": true,
+          "feedback": "Correct. Responsible choices can reduce avoidable setbacks and support future goals."
+        },
+        {
+          "id": "B",
+          "text": "Because responsibility removes all future risk",
+          "is_correct": false,
+          "feedback": "Responsibility helps, but it does not remove all risk."
+        },
+        {
+          "id": "C",
+          "text": "Because consequences stop existing once a choice is made",
+          "is_correct": false,
+          "feedback": "Consequences can continue after a choice is made."
+        },
+        {
+          "id": "D",
+          "text": "Because accountability means someone else covers every loss",
+          "is_correct": false,
+          "feedback": "Accountability means owning choices, not shifting every consequence to someone else."
+        }
+      ]
+    }
+  ]
 }

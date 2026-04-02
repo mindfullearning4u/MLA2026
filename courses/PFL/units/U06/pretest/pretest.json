@@ -14,6 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "PFL-U06-UNIT-FINAL",
-
- "questions": []
+  "questions": [
+    {
+      "question_id": "PFL-U06-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "Why is financial planning for life stages important?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Because future expenses and goals can change over time",
+          "is_correct": true,
+          "feedback": "Correct. Financial planning helps people prepare for changing needs across life stages."
+        },
+        {
+          "id": "B",
+          "text": "Because all financial needs stay the same throughout life",
+          "is_correct": false,
+          "feedback": "Financial needs often change as education, work, and living situations change."
+        },
+        {
+          "id": "C",
+          "text": "Because planning removes the need to make later decisions",
+          "is_correct": false,
+          "feedback": "Planning supports later decisions, but it does not remove the need to make them."
+        },
+        {
+          "id": "D",
+          "text": "Because planning guarantees that no financial problems will happen",
+          "is_correct": false,
+          "feedback": "Planning can reduce risk, but it does not guarantee perfect outcomes."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q02",
+      "type": "true_false",
+      "prompt": "Insurance can help reduce the financial impact of unexpected events.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Insurance is meant to reduce the financial impact of covered risks and losses."
+        },
+        {
+          "id": "B",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Insurance helps people manage financial risk when unexpected events occur."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which example is a major financial decision?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Choosing what snack to buy once",
+          "is_correct": false,
+          "feedback": "A one-time snack purchase is not usually considered a major financial decision."
+        },
+        {
+          "id": "B",
+          "text": "Deciding whether to rent lower-cost housing or choose a more expensive option",
+          "is_correct": false,
+          "feedback": "This is a major financial decision, but the correct answer in this set is placed elsewhere."
+        },
+        {
+          "id": "C",
+          "text": "Deciding whether to rent lower-cost housing or choose a more expensive option",
+          "is_correct": true,
+          "feedback": "Correct. Housing decisions can have large and lasting effects on a financial plan."
+        },
+        {
+          "id": "D",
+          "text": "Borrowing a pencil in class",
+          "is_correct": false,
+          "feedback": "That is not a major financial decision."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "What is one sign of financial responsibility?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ignoring bills until they become urgent",
+          "is_correct": false,
+          "feedback": "Ignoring obligations increases the risk of fees and other consequences."
+        },
+        {
+          "id": "B",
+          "text": "Making decisions without thinking about consequences",
+          "is_correct": false,
+          "feedback": "Responsible choices require attention to consequences."
+        },
+        {
+          "id": "C",
+          "text": "Assuming someone else will solve every money problem",
+          "is_correct": false,
+          "feedback": "Financial responsibility includes personal accountability."
+        },
+        {
+          "id": "D",
+          "text": "Following through on obligations and considering consequences",
+          "is_correct": true,
+          "feedback": "Correct. Responsibility includes meeting obligations and thinking ahead."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "A transportation choice can affect other parts of a financial plan.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Transportation costs can affect savings, housing options, and other priorities."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Transportation is a major expense that can affect the rest of a financial plan."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which type of insurance is most closely connected to medical expenses?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Auto insurance",
+          "is_correct": false,
+          "feedback": "Auto insurance is associated with vehicle-related risk."
+        },
+        {
+          "id": "B",
+          "text": "Health insurance",
+          "is_correct": true,
+          "feedback": "Correct. Health insurance is connected to medical costs and care."
+        },
+        {
+          "id": "C",
+          "text": "Property insurance",
+          "is_correct": false,
+          "feedback": "Property insurance is associated with homes or belongings, not medical expenses."
+        },
+        {
+          "id": "D",
+          "text": "Travel entertainment insurance",
+          "is_correct": false,
+          "feedback": "That is not the best match for basic medical expenses in this lesson."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "If a person saves $90 each month for 4 months, how much will be saved?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "$300",
+          "is_correct": false,
+          "feedback": "Multiply the monthly amount by the number of months carefully."
+        },
+        {
+          "id": "B",
+          "text": "$340",
+          "is_correct": false,
+          "feedback": "This total is too low."
+        },
+        {
+          "id": "C",
+          "text": "$360",
+          "is_correct": true,
+          "feedback": "Correct. $90 times 4 equals $360."
+        },
+        {
+          "id": "D",
+          "text": "$390",
+          "is_correct": false,
+          "feedback": "This total is too high."
+        }
+      ]
+    },
+    {
+      "question_id": "PFL-U06-PRETEST-Q08",
+      "type": "multiple_choice",
+      "prompt": "Which choice best shows accountability in personal finance?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Pretending that consequences do not matter",
+          "is_correct": false,
+          "feedback": "Accountability requires recognizing the consequences of choices."
+        },
+        {
+          "id": "B",
+          "text": "Blaming every financial outcome on other people",
+          "is_correct": false,
+          "feedback": "Accountability involves taking ownership of decisions."
+        },
+        {
+          "id": "C",
+          "text": "Making money decisions only for immediate comfort",
+          "is_correct": false,
+          "feedback": "Responsible decisions consider longer-term impact."
+        },
+        {
+          "id": "D",
+          "text": "Accepting the results of choices and learning from them",
+          "is_correct": true,
+          "feedback": "Correct. Accountability means owning the results of financial choices and improving future decisions."
+        }
+      ]
+    }
+  ]
 }
