@@ -1,10 +1,10 @@
-﻿{
+{
   "assessment_id": "ENG1-U01-L06-QUIZ",
   "course_id": "ENG1",
   "unit_id": "U01",
   "lesson_id": "ENG1-U01-L06",
-  "title": "Lesson Quiz: Objective Summary",
-  "description": "Assessment of the concept that An objective summary restates central idea and key points without opinion.",
+  "title": "Objective Summary",
+  "description": "Assessment of the concept that an objective summary restates central idea and key points without opinion.",
   "type": "quiz",
   "counts_toward_grade": true,
   "graded_category": "quiz",
@@ -16,5 +16,121 @@
   "question_count": 5,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "prompt": "Which statement best describes an objective summary?",
+      "choices": [
+        {
+          "text": "A short restatement of the central idea and key points without personal opinion",
+          "is_correct": true,
+          "feedback": "This is correct because an objective summary focuses on the text's main ideas and avoids judgment."
+        },
+        {
+          "text": "A list of every detail the reader can remember",
+          "is_correct": false,
+          "feedback": "A summary should be selective, not a full list of details."
+        },
+        {
+          "text": "A paragraph that explains whether the reader liked the text",
+          "is_correct": false,
+          "feedback": "Personal opinion does not belong in an objective summary."
+        },
+        {
+          "text": "A sentence copied directly from the introduction",
+          "is_correct": false,
+          "feedback": "Copying one sentence does not necessarily summarize the whole text objectively."
+        }
+      ]
+    },
+    {
+      "prompt": "A student writes this summary of an article about community gardens: \"The article explains that community gardens provide fresh food, build neighborhood cooperation, and improve unused spaces.\" Why is this a strong objective summary?",
+      "choices": [
+        {
+          "text": "It includes the main idea and key points without adding opinion",
+          "is_correct": true,
+          "feedback": "This is correct because the summary states the article's meaning clearly and remains neutral."
+        },
+        {
+          "text": "It uses a dramatic tone to persuade the reader",
+          "is_correct": false,
+          "feedback": "An objective summary should not try to persuade with dramatic language."
+        },
+        {
+          "text": "It focuses only on the least important detail",
+          "is_correct": false,
+          "feedback": "The summary actually addresses broad key points, not one minor detail."
+        },
+        {
+          "text": "It explains how the student personally feels about gardens",
+          "is_correct": false,
+          "feedback": "The statement does not include personal feelings, which is why it stays objective."
+        }
+      ]
+    },
+    {
+      "prompt": "Which sentence makes a summary less objective?",
+      "choices": [
+        {
+          "text": "The article states that later start times improve student focus.",
+          "is_correct": false,
+          "feedback": "This remains objective because it reports the article's idea without judgment."
+        },
+        {
+          "text": "The author explains that students get more sleep when school begins later.",
+          "is_correct": false,
+          "feedback": "This also stays objective because it restates content from the text."
+        },
+        {
+          "text": "Clearly, every school should adopt this brilliant plan immediately.",
+          "is_correct": true,
+          "feedback": "This is correct because words like clearly and brilliant add opinion instead of objective summary."
+        },
+        {
+          "text": "The article connects school schedules to attention in class.",
+          "is_correct": false,
+          "feedback": "This is a neutral restatement of the article's message."
+        }
+      ]
+    },
+    {
+      "prompt": "After reading a text about recycling programs, which summary is most objective?",
+      "choices": [
+        {
+          "text": "The article explains how recycling programs reduce waste, lower disposal costs, and encourage responsible habits.",
+          "is_correct": true,
+          "feedback": "This is correct because it captures the central idea and key points without opinion."
+        },
+        {
+          "text": "The article is exciting because recycling is obviously the smartest policy.",
+          "is_correct": false,
+          "feedback": "This includes judgment and persuasive language, so it is not objective."
+        },
+        {
+          "text": "Recycling bins are blue, and one school bought thirty of them last year.",
+          "is_correct": false,
+          "feedback": "This is too narrow because it focuses on isolated details rather than the main idea."
+        },
+        {
+          "text": "I think the article should have included more interviews with students.",
+          "is_correct": false,
+          "feedback": "This is the reader's opinion, not a summary of the text."
+        }
+      ]
+    },
+    {
+      "prompt": "True or False: An objective summary should avoid personal reactions and focus on the text's central idea and key points.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "This is correct because objective summaries restate what the text says without personal opinion."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because adding personal reactions makes a summary less objective."
+        }
+      ]
+    }
+  ]
 }

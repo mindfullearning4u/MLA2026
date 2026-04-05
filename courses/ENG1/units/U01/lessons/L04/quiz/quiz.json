@@ -1,10 +1,10 @@
-﻿{
+{
   "assessment_id": "ENG1-U01-L04-QUIZ",
   "course_id": "ENG1",
   "unit_id": "U01",
   "lesson_id": "ENG1-U01-L04",
-  "title": "Lesson Quiz: Vocabulary in Context",
-  "description": "Assessment of the concept that Context clues allow you to infer meaning without a dictionary, using evidence from the text.",
+  "title": "Vocabulary in Context",
+  "description": "Assessment of the concept that context clues allow you to infer meaning without a dictionary, using evidence from the text.",
   "type": "quiz",
   "counts_toward_grade": true,
   "graded_category": "quiz",
@@ -16,5 +16,121 @@
   "question_count": 5,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "prompt": "What does it mean to determine a word's meaning using context clues?",
+      "choices": [
+        {
+          "text": "To guess without looking at the sentence around the word",
+          "is_correct": false,
+          "feedback": "This is incorrect because context clues depend on evidence from the surrounding text."
+        },
+        {
+          "text": "To use nearby words and ideas in the text to infer the meaning",
+          "is_correct": true,
+          "feedback": "This is correct because vocabulary in context relies on surrounding evidence to determine meaning."
+        },
+        {
+          "text": "To skip the word and continue reading without thinking about it",
+          "is_correct": false,
+          "feedback": "Skipping the word does not show use of context clues."
+        },
+        {
+          "text": "To replace the word with any synonym that sounds familiar",
+          "is_correct": false,
+          "feedback": "A synonym must fit the context. Familiarity alone is not enough."
+        }
+      ]
+    },
+    {
+      "prompt": "Read the sentence: \"After the storm, the playground was barren, with no grass, flowers, or shade left.\" What does barren most likely mean?",
+      "choices": [
+        {
+          "text": "Crowded",
+          "is_correct": false,
+          "feedback": "This is incorrect because the sentence describes a place with nothing growing, not many people."
+        },
+        {
+          "text": "Empty and bare",
+          "is_correct": true,
+          "feedback": "This is correct because the clues \"no grass, flowers, or shade\" show that barren means empty or bare."
+        },
+        {
+          "text": "Bright and colorful",
+          "is_correct": false,
+          "feedback": "The context suggests the opposite of colorful because the storm removed the plants and shade."
+        },
+        {
+          "text": "Safe from damage",
+          "is_correct": false,
+          "feedback": "The description shows damage, so this meaning does not fit the context."
+        }
+      ]
+    },
+    {
+      "prompt": "A student says the word reluctant means \"excited\" in the sentence \"Maya was reluctant to speak because she worried her answer was wrong.\" Why is that inference incorrect?",
+      "choices": [
+        {
+          "text": "Because the sentence shows hesitation, not eagerness",
+          "is_correct": true,
+          "feedback": "This is correct because Maya's worry is a context clue showing reluctance means unwilling or hesitant."
+        },
+        {
+          "text": "Because reluctant is always a positive word",
+          "is_correct": false,
+          "feedback": "The issue is not positivity. The issue is that the context does not show excitement."
+        },
+        {
+          "text": "Because only dictionaries can define the word accurately",
+          "is_correct": false,
+          "feedback": "This lesson focuses on using context clues, so the surrounding sentence can support an accurate inference."
+        },
+        {
+          "text": "Because the sentence does not include any context clues",
+          "is_correct": false,
+          "feedback": "The sentence does include clues, especially Maya's worry about speaking."
+        }
+      ]
+    },
+    {
+      "prompt": "Read the sentence: \"The coach praised Lena's resilience because she kept practicing even after two difficult losses.\" Which meaning of resilience best fits the sentence?",
+      "choices": [
+        {
+          "text": "The ability to recover and continue after difficulty",
+          "is_correct": true,
+          "feedback": "This is correct because the clue about continuing to practice after losses shows recovery and persistence."
+        },
+        {
+          "text": "A talent for giving long speeches",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence suggests public speaking."
+        },
+        {
+          "text": "A habit of avoiding competition",
+          "is_correct": false,
+          "feedback": "The sentence shows Lena continuing to compete, not avoiding challenge."
+        },
+        {
+          "text": "A desire to change the rules",
+          "is_correct": false,
+          "feedback": "The context focuses on persistence after setbacks, not changing rules."
+        }
+      ]
+    },
+    {
+      "prompt": "True or False: When using vocabulary in context, a reader should justify the word meaning with clues from the surrounding text.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "This is correct because context-clue reasoning depends on evidence from nearby words, phrases, and ideas."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because a strong inference about meaning should be supported by textual context."
+        }
+      ]
+    }
+  ]
 }

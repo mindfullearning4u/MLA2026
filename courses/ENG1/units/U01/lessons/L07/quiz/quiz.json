@@ -1,10 +1,10 @@
-﻿{
+{
   "assessment_id": "ENG1-U01-L07-QUIZ",
   "course_id": "ENG1",
   "unit_id": "U01",
   "lesson_id": "ENG1-U01-L07",
-  "title": "Lesson Quiz: Monitoring Comprehension",
-  "description": "Assessment of the concept that Skilled readers notice confusion and apply a specific fix-up strategy.",
+  "title": "Monitoring Comprehension",
+  "description": "Assessment of the concept that skilled readers notice confusion and apply a specific fix-up strategy.",
   "type": "quiz",
   "counts_toward_grade": true,
   "graded_category": "quiz",
@@ -16,5 +16,121 @@
   "question_count": 5,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "prompt": "What does it mean to monitor comprehension while reading?",
+      "choices": [
+        {
+          "text": "To notice when meaning breaks down and respond with a strategy",
+          "is_correct": true,
+          "feedback": "This is correct because monitoring comprehension means recognizing confusion and taking action to fix it."
+        },
+        {
+          "text": "To read at the same speed no matter how confusing the text becomes",
+          "is_correct": false,
+          "feedback": "This is incorrect because monitoring comprehension requires adjustment when understanding weakens."
+        },
+        {
+          "text": "To wait until a quiz to see whether the text made sense",
+          "is_correct": false,
+          "feedback": "Monitoring comprehension happens during reading, not only after reading is finished."
+        },
+        {
+          "text": "To highlight every sentence so nothing is missed",
+          "is_correct": false,
+          "feedback": "Highlighting everything is not a focused strategy for identifying and repairing confusion."
+        }
+      ]
+    },
+    {
+      "prompt": "A reader reaches the sentence \"The policy increased access, but participation still fell\" and realizes the two ideas seem to clash. What is the best first response?",
+      "choices": [
+        {
+          "text": "Skip the sentence and hope the ending explains it",
+          "is_correct": false,
+          "feedback": "Skipping confusion does not show monitoring comprehension."
+        },
+        {
+          "text": "Reread the sentence and surrounding lines to identify the source of confusion",
+          "is_correct": true,
+          "feedback": "This is correct because an effective first step is to locate the confusion clearly before choosing a fix-up strategy."
+        },
+        {
+          "text": "Replace the sentence with a personal opinion",
+          "is_correct": false,
+          "feedback": "Opinion does not help resolve textual confusion."
+        },
+        {
+          "text": "Assume the author made a mistake and stop reading",
+          "is_correct": false,
+          "feedback": "A skilled reader should first investigate the confusion using evidence from the text."
+        }
+      ]
+    },
+    {
+      "prompt": "A student does not understand the word scarce in a paragraph about water shortages. Which strategy best shows monitoring comprehension?",
+      "choices": [
+        {
+          "text": "Ignore the word because one word never matters",
+          "is_correct": false,
+          "feedback": "This is incorrect because difficult vocabulary can block understanding and should be addressed."
+        },
+        {
+          "text": "Use nearby clues about limited water supply to infer the word's meaning",
+          "is_correct": true,
+          "feedback": "This is correct because the reader notices confusion and applies the vocabulary-in-context strategy to repair meaning."
+        },
+        {
+          "text": "Copy the sentence into notes without thinking about it",
+          "is_correct": false,
+          "feedback": "Copying alone does not resolve confusion."
+        },
+        {
+          "text": "Decide the paragraph is unimportant and move on",
+          "is_correct": false,
+          "feedback": "Monitoring comprehension requires purposeful action, not avoidance."
+        }
+      ]
+    },
+    {
+      "prompt": "Which response best analyzes a comprehension problem and matches it to an effective fix-up strategy?",
+      "choices": [
+        {
+          "text": "I do not understand the text, so I will read faster to get it over with.",
+          "is_correct": false,
+          "feedback": "Reading faster usually increases confusion instead of repairing it."
+        },
+        {
+          "text": "I lost track of the main point, so I will stop and identify the central idea before continuing.",
+          "is_correct": true,
+          "feedback": "This is correct because the reader names the exact problem and selects a strategy that addresses it directly."
+        },
+        {
+          "text": "I saw an unfamiliar example, so I will focus only on punctuation marks.",
+          "is_correct": false,
+          "feedback": "Punctuation focus does not match the stated comprehension problem."
+        },
+        {
+          "text": "I feel uncertain, so I will rewrite the article from memory.",
+          "is_correct": false,
+          "feedback": "That response does not directly target the source of confusion in the text."
+        }
+      ]
+    },
+    {
+      "prompt": "True or False: Monitoring comprehension means a reader should choose a fix-up strategy that matches the specific confusion in the text.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "This is correct because effective monitoring requires matching the strategy to the actual comprehension problem."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because a fix-up strategy should be chosen based on the kind of confusion the reader notices."
+        }
+      ]
+    }
+  ]
 }

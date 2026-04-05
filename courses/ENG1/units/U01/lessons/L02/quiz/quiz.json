@@ -1,10 +1,10 @@
-﻿{
+{
   "assessment_id": "ENG1-U01-L02-QUIZ",
   "course_id": "ENG1",
   "unit_id": "U01",
   "lesson_id": "ENG1-U01-L02",
-  "title": "Lesson Quiz: Central Idea",
-  "description": "Assessment of the concept that The central idea is what the text is mostly saying, supported across the whole text.",
+  "title": "Central Idea",
+  "description": "Assessment of the concept that the central idea is what the text is mostly saying, supported across the whole text.",
   "type": "quiz",
   "counts_toward_grade": true,
   "graded_category": "quiz",
@@ -16,5 +16,121 @@
   "question_count": 5,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "prompt": "What is the best definition of central idea?",
+      "choices": [
+        {
+          "text": "A minor fact that appears in one paragraph",
+          "is_correct": false,
+          "feedback": "A central idea is broader than one small fact. It is supported across the text."
+        },
+        {
+          "text": "What the entire text is mostly saying",
+          "is_correct": true,
+          "feedback": "This is correct because the central idea is the main message developed across the whole text."
+        },
+        {
+          "text": "The most interesting opinion a reader has after reading",
+          "is_correct": false,
+          "feedback": "A central idea comes from the text itself, not from a reader's personal opinion."
+        },
+        {
+          "text": "A title chosen to make the text sound dramatic",
+          "is_correct": false,
+          "feedback": "A title may hint at meaning, but it is not the same as the central idea."
+        }
+      ]
+    },
+    {
+      "prompt": "An article explains that students perform better when they sleep enough, gives research on attention and memory, and describes school start-time debates. Which statement is the best central idea?",
+      "choices": [
+        {
+          "text": "Some schools begin classes earlier than others.",
+          "is_correct": false,
+          "feedback": "This is a supporting detail, not the main idea developed across the article."
+        },
+        {
+          "text": "Sleep affects student learning, so school schedules matter.",
+          "is_correct": true,
+          "feedback": "This is correct because it captures the main point supported by the research and discussion in the article."
+        },
+        {
+          "text": "Memory is an important brain function.",
+          "is_correct": false,
+          "feedback": "This is too narrow because it focuses on one detail instead of the overall message."
+        },
+        {
+          "text": "Students should always go to bed at the same time.",
+          "is_correct": false,
+          "feedback": "This adds advice that may not be the main point the article develops."
+        }
+      ]
+    },
+    {
+      "prompt": "A student says the central idea of a text is \"Paragraph 2 explains one cause of the problem.\" Why is that response weak?",
+      "choices": [
+        {
+          "text": "It focuses on one section instead of the meaning of the whole text",
+          "is_correct": true,
+          "feedback": "This is correct because a central idea must represent the text as a whole, not just one paragraph."
+        },
+        {
+          "text": "It uses too many words to be a central idea",
+          "is_correct": false,
+          "feedback": "Length is not the main issue. The problem is that the response is too limited in scope."
+        },
+        {
+          "text": "It should include the author's exact wording only",
+          "is_correct": false,
+          "feedback": "A central idea can be stated in your own words as long as it accurately reflects the text."
+        },
+        {
+          "text": "It must mention every supporting detail in the article",
+          "is_correct": false,
+          "feedback": "A strong central idea does not list every detail; it captures the overall message."
+        }
+      ]
+    },
+    {
+      "prompt": "Which question would best help a reader identify a central idea while reading?",
+      "choices": [
+        {
+          "text": "Which sentence has the most difficult vocabulary word?",
+          "is_correct": false,
+          "feedback": "This question focuses on vocabulary, not the overall meaning of the text."
+        },
+        {
+          "text": "What is the author mostly trying to say across the entire text?",
+          "is_correct": true,
+          "feedback": "This is correct because central idea depends on the main message developed throughout the text."
+        },
+        {
+          "text": "Which paragraph is the shortest?",
+          "is_correct": false,
+          "feedback": "Paragraph length does not help identify the central idea."
+        },
+        {
+          "text": "What punctuation mark appears most often?",
+          "is_correct": false,
+          "feedback": "Punctuation frequency does not determine the text's central idea."
+        }
+      ]
+    },
+    {
+      "prompt": "True or False: A central idea should be supported by multiple details across the text, not by a single isolated fact.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "This is correct because a central idea is developed and supported across the text as a whole."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because one isolated fact is not enough to establish a central idea."
+        }
+      ]
+    }
+  ]
 }

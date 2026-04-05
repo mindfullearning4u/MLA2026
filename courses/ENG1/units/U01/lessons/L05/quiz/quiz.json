@@ -1,10 +1,10 @@
-﻿{
+{
   "assessment_id": "ENG1-U01-L05-QUIZ",
   "course_id": "ENG1",
   "unit_id": "U01",
   "lesson_id": "ENG1-U01-L05",
-  "title": "Lesson Quiz: Basic Text Structure",
-  "description": "Assessment of the concept that Text structure is how ideas are organized, and structure shapes meaning.",
+  "title": "Basic Text Structure",
+  "description": "Assessment of the concept that text structure is how ideas are organized, and structure shapes meaning.",
   "type": "quiz",
   "counts_toward_grade": true,
   "graded_category": "quiz",
@@ -16,5 +16,121 @@
   "question_count": 5,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "prompt": "What is text structure?",
+      "choices": [
+        {
+          "text": "The way ideas are organized in a text",
+          "is_correct": true,
+          "feedback": "This is correct because text structure refers to how the author arranges ideas to build meaning."
+        },
+        {
+          "text": "The length of each sentence in a paragraph",
+          "is_correct": false,
+          "feedback": "Sentence length may affect style, but it is not the overall structure of the text."
+        },
+        {
+          "text": "The topic a reader likes best",
+          "is_correct": false,
+          "feedback": "Reader preference is not text structure."
+        },
+        {
+          "text": "The number of difficult words in the article",
+          "is_correct": false,
+          "feedback": "Vocabulary difficulty does not define how ideas are organized."
+        }
+      ]
+    },
+    {
+      "prompt": "A passage explains a problem with food waste at school and then describes a composting plan to solve it. Which text structure is used most clearly?",
+      "choices": [
+        {
+          "text": "Compare and contrast",
+          "is_correct": false,
+          "feedback": "The passage is not mainly comparing two subjects. It presents a problem and a solution."
+        },
+        {
+          "text": "Sequence",
+          "is_correct": false,
+          "feedback": "There may be steps in the plan, but the main organization is a problem followed by a solution."
+        },
+        {
+          "text": "Problem and solution",
+          "is_correct": true,
+          "feedback": "This is correct because the passage first identifies an issue and then explains how to address it."
+        },
+        {
+          "text": "Description",
+          "is_correct": false,
+          "feedback": "The text does more than describe; it organizes ideas around a problem and a fix."
+        }
+      ]
+    },
+    {
+      "prompt": "Why does identifying text structure help a reader?",
+      "choices": [
+        {
+          "text": "It shows how the author builds meaning and connects ideas",
+          "is_correct": true,
+          "feedback": "This is correct because structure helps readers understand how information is arranged and why it matters."
+        },
+        {
+          "text": "It proves whether the author is always correct",
+          "is_correct": false,
+          "feedback": "Text structure does not prove accuracy. It helps readers interpret organization."
+        },
+        {
+          "text": "It tells readers which vocabulary words to ignore",
+          "is_correct": false,
+          "feedback": "Text structure is about organization, not ignoring vocabulary."
+        },
+        {
+          "text": "It replaces the need to identify a central idea",
+          "is_correct": false,
+          "feedback": "Structure supports understanding, but readers still need to identify the central idea."
+        }
+      ]
+    },
+    {
+      "prompt": "A writer describes how the library changed before and after a renovation to show what improved. Which text structure best fits this approach?",
+      "choices": [
+        {
+          "text": "Cause and effect",
+          "is_correct": false,
+          "feedback": "The passage may imply effects, but the main organization compares two versions of the library."
+        },
+        {
+          "text": "Compare and contrast",
+          "is_correct": true,
+          "feedback": "This is correct because the writer is showing differences between the library before and after renovation."
+        },
+        {
+          "text": "Sequence",
+          "is_correct": false,
+          "feedback": "The organization is not mainly step-by-step in time; it is based on comparison."
+        },
+        {
+          "text": "Definition",
+          "is_correct": false,
+          "feedback": "The writer is not primarily defining a term."
+        }
+      ]
+    },
+    {
+      "prompt": "True or False: Text structure matters because the way ideas are arranged can shape how a reader understands the text.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "This is correct because organization influences how readers follow relationships among ideas."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because text structure does affect interpretation and understanding."
+        }
+      ]
+    }
+  ]
 }

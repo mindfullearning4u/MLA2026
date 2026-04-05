@@ -1,10 +1,10 @@
-﻿{
+{
   "assessment_id": "ENG1-U01-L03-QUIZ",
   "course_id": "ENG1",
   "unit_id": "U01",
   "lesson_id": "ENG1-U01-L03",
-  "title": "Lesson Quiz: Supporting Details",
-  "description": "Assessment of the concept that Strong supporting details are relevant, specific, and directly connected to the central idea.",
+  "title": "Supporting Details",
+  "description": "Assessment of the concept that strong supporting details are relevant, specific, and directly connected to the central idea.",
   "type": "quiz",
   "counts_toward_grade": true,
   "graded_category": "quiz",
@@ -16,5 +16,121 @@
   "question_count": 5,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "prompt": "Which description best fits a strong supporting detail?",
+      "choices": [
+        {
+          "text": "A statement that is relevant, specific, and connected to the central idea",
+          "is_correct": true,
+          "feedback": "This is correct because strong supporting details clearly connect to and develop the central idea."
+        },
+        {
+          "text": "A sentence that sounds impressive even if it does not relate to the topic",
+          "is_correct": false,
+          "feedback": "A supporting detail must be relevant to the central idea, not just interesting."
+        },
+        {
+          "text": "Any fact that appears in the text, no matter its purpose",
+          "is_correct": false,
+          "feedback": "Not every fact is a strong supporting detail. It must directly support the main idea."
+        },
+        {
+          "text": "A reader's personal reaction to the topic",
+          "is_correct": false,
+          "feedback": "Personal reaction is not textual support for a central idea."
+        }
+      ]
+    },
+    {
+      "prompt": "A passage argues that the school garden improves the campus. Which detail best supports that central idea?",
+      "choices": [
+        {
+          "text": "The garden fence is painted green.",
+          "is_correct": false,
+          "feedback": "This detail may be true, but it does not strongly show how the garden improves the campus."
+        },
+        {
+          "text": "Students use the garden to grow vegetables for the cafeteria and to learn science skills.",
+          "is_correct": true,
+          "feedback": "This is correct because it specifically shows meaningful ways the garden benefits the school."
+        },
+        {
+          "text": "The principal likes being outdoors.",
+          "is_correct": false,
+          "feedback": "This is too personal and does not directly support the broader claim about campus improvement."
+        },
+        {
+          "text": "The article begins with a question about spring weather.",
+          "is_correct": false,
+          "feedback": "This may describe the writing, but it does not function as strong support for the central idea."
+        }
+      ]
+    },
+    {
+      "prompt": "Why is the detail \"The club meets every Thursday at 3:15\" weak support for the central idea \"The club helps students become stronger writers\"?",
+      "choices": [
+        {
+          "text": "It gives a schedule but does not show how the club improves writing",
+          "is_correct": true,
+          "feedback": "This is correct because a supporting detail must connect directly to the central idea, not just provide unrelated information."
+        },
+        {
+          "text": "It is too precise to belong in an informational text",
+          "is_correct": false,
+          "feedback": "Specificity is not the problem. The issue is lack of connection to the central idea."
+        },
+        {
+          "text": "It should be rewritten as a question instead of a statement",
+          "is_correct": false,
+          "feedback": "Changing the sentence form would not solve the real problem, which is weak relevance."
+        },
+        {
+          "text": "It uses a number, and numbers should not appear in details",
+          "is_correct": false,
+          "feedback": "Numbers can be useful supporting details when they actually support the main point."
+        }
+      ]
+    },
+    {
+      "prompt": "Which detail would best support the central idea \"After-school tutoring increases student confidence\"?",
+      "choices": [
+        {
+          "text": "Tutoring takes place in Room 204.",
+          "is_correct": false,
+          "feedback": "This detail gives location, but it does not show an increase in confidence."
+        },
+        {
+          "text": "Students in the program reported feeling more prepared to participate in class discussions.",
+          "is_correct": true,
+          "feedback": "This is correct because it directly shows a result connected to increased confidence."
+        },
+        {
+          "text": "The tutor uses blue folders for assignments.",
+          "is_correct": false,
+          "feedback": "This detail is too minor and unrelated to the central idea about confidence."
+        },
+        {
+          "text": "Some students arrived five minutes early.",
+          "is_correct": false,
+          "feedback": "This detail does not clearly support the claim about confidence."
+        }
+      ]
+    },
+    {
+      "prompt": "True or False: A supporting detail is strong only if it directly helps prove or explain the central idea.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "This is correct because strong supporting details must clearly connect to the text's central idea."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because a detail that does not help explain or prove the central idea is weak support."
+        }
+      ]
+    }
+  ]
 }
