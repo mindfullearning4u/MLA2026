@@ -10,9 +10,250 @@
   "record_highest_score": true,
   "mastery_threshold": 80,
   "acceleration_eligible_threshold": 90,
-  "display_order": 9,
+  "display_order": 6,
   "question_count": 10,
   "randomize_questions": true,
   "show_feedback": true,
-  "questions": []
+  "questions": [
+    {
+      "question_id": "ENG1-U01-Q01",
+      "type": "multiple_choice",
+      "prompt": "A student annotates a passage about a school's new attendance policy, circles the word inconsistent, notes that the author compares attendance before and after the policy, and asks, \"Is the author saying the change helped everyone?\" Which statement best explains what the student is doing?",
+      "choices": [
+        {
+          "text": "Using several reading skills together to build understanding",
+          "is_correct": true,
+          "feedback": "Correct. The student is actively reading while also using vocabulary in context, noticing structure, and questioning meaning."
+        },
+        {
+          "text": "Focusing only on vocabulary and ignoring the main point",
+          "is_correct": false,
+          "feedback": "The student is doing more than vocabulary work because the notes also track comparison and the author's message."
+        },
+        {
+          "text": "Summarizing the text before reading it fully",
+          "is_correct": false,
+          "feedback": "The student is still gathering meaning during reading, not summarizing at the start."
+        },
+        {
+          "text": "Replacing textual evidence with personal opinion",
+          "is_correct": false,
+          "feedback": "The annotations stay grounded in the passage and show deliberate comprehension work."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q02",
+      "type": "true_false",
+      "prompt": "A reader can identify a central idea accurately even if the chosen supporting details do not connect clearly to that idea.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Incorrect. Strong supporting details help confirm and develop a central idea, so unclear details weaken the interpretation."
+        },
+        {
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. Central idea and supporting details must align because the details show how the main message is developed."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q03",
+      "type": "multiple_choice",
+      "prompt": "A passage explains that a city planted more trees, then describes cooler sidewalks, cleaner air, and more shaded bus stops. Which answer best identifies the central idea and the role of the details?",
+      "choices": [
+        {
+          "text": "The central idea is that the city likes parks, and the details list random features of outdoor spaces.",
+          "is_correct": false,
+          "feedback": "The details are not random. They all connect to the effects of planting more trees."
+        },
+        {
+          "text": "The central idea is that tree planting improves city life, and the details show specific benefits.",
+          "is_correct": true,
+          "feedback": "Correct. This answer connects the overall message to the relevant supporting details."
+        },
+        {
+          "text": "The central idea is that sidewalks are expensive to repair, and the details compare different neighborhoods.",
+          "is_correct": false,
+          "feedback": "The passage focuses on benefits of trees, not repair costs or neighborhood comparison."
+        },
+        {
+          "text": "The central idea is that bus stops should be moved, and the details prove trees are difficult to maintain.",
+          "is_correct": false,
+          "feedback": "This interpretation does not fit the specific positive details in the passage."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q04",
+      "type": "multiple_choice",
+      "prompt": "In an article about student volunteers, the writer says the team was diligent because members returned every weekend, finished difficult tasks, and checked their work carefully. What is the best meaning of diligent, and what evidence supports it?",
+      "choices": [
+        {
+          "text": "Diligent means confused, supported by the fact that the work was difficult.",
+          "is_correct": false,
+          "feedback": "Difficulty alone does not show confusion. The surrounding details show steady effort and care."
+        },
+        {
+          "text": "Diligent means careless, supported by the fact that they worked on weekends.",
+          "is_correct": false,
+          "feedback": "Weekend work does not suggest carelessness. The evidence points to careful, consistent effort."
+        },
+        {
+          "text": "Diligent means hardworking and careful, supported by repeated effort and checking the work.",
+          "is_correct": true,
+          "feedback": "Correct. The context clues show persistence and care, which support this meaning."
+        },
+        {
+          "text": "Diligent means bored, supported by the fact that the tasks took a long time.",
+          "is_correct": false,
+          "feedback": "The passage does not describe boredom. It emphasizes responsible effort."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q05",
+      "type": "multiple_choice",
+      "prompt": "A reader notices that an article first describes a problem with crowded hallways and then explains staggered passing periods as a solution. How should that text structure shape the reader's understanding?",
+      "choices": [
+        {
+          "text": "The reader should focus only on the opening problem because later sections are less important.",
+          "is_correct": false,
+          "feedback": "In a problem-solution structure, both the problem and the response are important to the text's meaning."
+        },
+        {
+          "text": "The reader should recognize that the solution is presented as the author's response to the identified problem.",
+          "is_correct": true,
+          "feedback": "Correct. Understanding the structure helps the reader see how the ideas are connected."
+        },
+        {
+          "text": "The reader should assume the text is mainly chronological because one event happens after another.",
+          "is_correct": false,
+          "feedback": "The order here supports a problem-solution pattern rather than simple sequence."
+        },
+        {
+          "text": "The reader should ignore the relationship between sections and look only for difficult words.",
+          "is_correct": false,
+          "feedback": "Text structure matters because it shows how the ideas work together."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q06",
+      "type": "true_false",
+      "prompt": "An objective summary should include the reader's judgment when that judgment is based on strong evidence from the text.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": false,
+          "feedback": "Incorrect. Even evidence-based judgment is still opinion, and an objective summary should avoid opinion."
+        },
+        {
+          "text": "False",
+          "is_correct": true,
+          "feedback": "Correct. An objective summary should restate the text's central idea and key points without personal judgment."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q07",
+      "type": "multiple_choice",
+      "prompt": "You are reading a short article about a new tutoring program. In paragraph two, the word targeted is unfamiliar, and in paragraph three, the explanation seems to shift from causes to results. Which response best shows strong comprehension monitoring?",
+      "choices": [
+        {
+          "text": "Keep reading quickly and decide later whether the article made sense.",
+          "is_correct": false,
+          "feedback": "This does not show active monitoring because it ignores confusion instead of addressing it."
+        },
+        {
+          "text": "Stop to use context clues for targeted, then reread to see whether the structure is showing cause and effect.",
+          "is_correct": true,
+          "feedback": "Correct. This response matches the fix-up strategies to the specific comprehension problems."
+        },
+        {
+          "text": "Skip paragraph three because vocabulary matters more than structure.",
+          "is_correct": false,
+          "feedback": "Comprehension depends on multiple connected skills, so the reader should not ignore structure."
+        },
+        {
+          "text": "Write a summary immediately before resolving the confusing parts.",
+          "is_correct": false,
+          "feedback": "A reader should repair understanding before attempting a full summary."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q08",
+      "type": "multiple_choice",
+      "prompt": "After reading a text about community cleanups, which response is the best objective summary?",
+      "choices": [
+        {
+          "text": "The article explains that community cleanups improve shared spaces, build local cooperation, and encourage continued civic responsibility.",
+          "is_correct": true,
+          "feedback": "Correct. This response captures the central idea and key points in neutral language."
+        },
+        {
+          "text": "The article proves that every neighborhood should copy this amazing plan immediately.",
+          "is_correct": false,
+          "feedback": "This adds opinion and persuasive language, so it is not objective."
+        },
+        {
+          "text": "The article says volunteers wore gloves, picked up trash, and met on Saturday at 9:00 a.m.",
+          "is_correct": false,
+          "feedback": "This focuses on isolated details instead of the overall meaning of the text."
+        },
+        {
+          "text": "I liked the article because the volunteers sounded determined and generous.",
+          "is_correct": false,
+          "feedback": "Personal reaction does not belong in an objective summary."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q09",
+      "type": "true_false",
+      "prompt": "A repeatable reading routine can strengthen comprehension because it helps a reader decide which skills to use as different comprehension problems appear.",
+      "choices": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. An integrated reading routine supports decision-making by helping readers apply the right skills when needed."
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "feedback": "This is incorrect because integrated routines improve comprehension by combining and selecting useful reading strategies."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-Q10",
+      "type": "multiple_choice",
+      "prompt": "You are assigned a short article about a school's expanded breakfast program. To understand it fully, you need to identify the central idea, choose the strongest supporting details, infer the meaning of equitable, notice that the article compares conditions before and after the program, monitor any confusion, and write an objective summary. Which approach is best?",
+      "choices": [
+        {
+          "text": "Use a reading routine that combines these skills as the article develops, then summarize the text objectively at the end.",
+          "is_correct": true,
+          "feedback": "Correct. This response shows full-unit synthesis by integrating multiple Unit 01 skills in a purposeful routine."
+        },
+        {
+          "text": "Focus only on defining equitable because vocabulary determines the entire meaning of every text.",
+          "is_correct": false,
+          "feedback": "Vocabulary matters, but full comprehension requires several connected reading skills."
+        },
+        {
+          "text": "Write your opinion first and return to the text only if a detail seems interesting.",
+          "is_correct": false,
+          "feedback": "Opinion-first reading does not support accurate comprehension or objective summary."
+        },
+        {
+          "text": "Choose one detail that seems important and ignore the structure because comparison is only a writing feature.",
+          "is_correct": false,
+          "feedback": "Ignoring structure and the full pattern of support weakens understanding of the text."
+        }
+      ]
+    }
+  ]
 }
