@@ -14,5 +14,230 @@
   "used_for_acceleration": true,
   "used_for_baseline_measurement": true,
   "paired_final_assessment_id": "ENG1-U01-UNIT-FINAL",
-  "questions": []
+  "questions": [
+    {
+      "question_id": "ENG1-U01-PRETEST-Q01",
+      "type": "multiple_choice",
+      "prompt": "Which action best reflects active reading?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Reading quickly without stopping so you can finish sooner",
+          "is_correct": false,
+          "feedback": "Active reading is deliberate and requires engagement while reading, not rushing through the text."
+        },
+        {
+          "id": "B",
+          "text": "Annotating important ideas and asking questions as you read",
+          "is_correct": true,
+          "feedback": "Correct. Active reading involves tracking thinking through actions like annotation and questioning."
+        },
+        {
+          "id": "C",
+          "text": "Waiting until the end to think about the text",
+          "is_correct": false,
+          "feedback": "Active reading happens during reading, not only after the text is finished."
+        },
+        {
+          "id": "D",
+          "text": "Copying every sentence into your notes",
+          "is_correct": false,
+          "feedback": "Copying everything does not show purposeful attention to meaning."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q02",
+      "type": "multiple_choice",
+      "prompt": "What is the central idea of a text?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A detail that appears in one paragraph",
+          "is_correct": false,
+          "feedback": "A central idea is broader than one detail and is supported across the text."
+        },
+        {
+          "id": "B",
+          "text": "The author's exact first sentence",
+          "is_correct": false,
+          "feedback": "The central idea may be introduced early, but it is not simply the first sentence."
+        },
+        {
+          "id": "C",
+          "text": "What the text is mostly saying overall",
+          "is_correct": true,
+          "feedback": "Correct. The central idea is the main message developed throughout the text."
+        },
+        {
+          "id": "D",
+          "text": "A reader's favorite part of the passage",
+          "is_correct": false,
+          "feedback": "Personal preference does not determine the central idea."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q03",
+      "type": "multiple_choice",
+      "prompt": "Which detail would best support the central idea that a school reading program helps students improve?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The program meets in the library after lunch",
+          "is_correct": false,
+          "feedback": "This detail gives location and time, but it does not clearly support improvement."
+        },
+        {
+          "id": "B",
+          "text": "Students in the program showed stronger comprehension scores by the end of the semester",
+          "is_correct": true,
+          "feedback": "Correct. This detail directly supports the idea that the program helps students improve."
+        },
+        {
+          "id": "C",
+          "text": "The teacher leading the program likes historical fiction",
+          "is_correct": false,
+          "feedback": "This is unrelated to whether the program improves student reading."
+        },
+        {
+          "id": "D",
+          "text": "Some students wear backpacks with the school logo",
+          "is_correct": false,
+          "feedback": "This does not connect to the central idea of reading improvement."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q04",
+      "type": "multiple_choice",
+      "prompt": "In the sentence \"The trail was steep and rocky, so the climb was strenuous,\" what does strenuous most likely mean?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Easy and relaxing",
+          "is_correct": false,
+          "feedback": "The clues steep and rocky suggest the opposite of easy."
+        },
+        {
+          "id": "B",
+          "text": "Slow and quiet",
+          "is_correct": false,
+          "feedback": "The context emphasizes difficulty, not silence or pace."
+        },
+        {
+          "id": "C",
+          "text": "Difficult and requiring effort",
+          "is_correct": true,
+          "feedback": "Correct. The context clues show that strenuous means hard and effortful."
+        },
+        {
+          "id": "D",
+          "text": "Short and unimportant",
+          "is_correct": false,
+          "feedback": "The surrounding details do not suggest length or importance."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q05",
+      "type": "true_false",
+      "prompt": "A text's structure can influence how a reader understands the relationship among ideas.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. Structure shapes meaning by organizing how ideas connect."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "Text structure does affect meaning because organization helps readers interpret ideas."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q06",
+      "type": "multiple_choice",
+      "prompt": "Which statement best fits an objective summary?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It restates the main idea and key points without opinion",
+          "is_correct": true,
+          "feedback": "Correct. An objective summary reports the text's meaning without personal judgment."
+        },
+        {
+          "id": "B",
+          "text": "It explains whether the reader liked the text",
+          "is_correct": false,
+          "feedback": "Personal reactions make a summary less objective."
+        },
+        {
+          "id": "C",
+          "text": "It lists every detail from the text in order",
+          "is_correct": false,
+          "feedback": "A summary should be selective rather than list every detail."
+        },
+        {
+          "id": "D",
+          "text": "It focuses only on the most surprising sentence",
+          "is_correct": false,
+          "feedback": "An objective summary should represent the whole text, not one sentence."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q07",
+      "type": "multiple_choice",
+      "prompt": "If a reader notices that a paragraph suddenly stops making sense, what is the best next step?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Keep reading without slowing down",
+          "is_correct": false,
+          "feedback": "Monitoring comprehension requires noticing confusion and responding to it."
+        },
+        {
+          "id": "B",
+          "text": "Reread and choose a strategy to repair understanding",
+          "is_correct": true,
+          "feedback": "Correct. Skilled readers notice confusion and apply a fix-up strategy."
+        },
+        {
+          "id": "C",
+          "text": "Assume the paragraph is not important",
+          "is_correct": false,
+          "feedback": "Ignoring confusion does not improve comprehension."
+        },
+        {
+          "id": "D",
+          "text": "Skip to the end and summarize from memory",
+          "is_correct": false,
+          "feedback": "A reader should first repair understanding before moving on."
+        }
+      ]
+    },
+    {
+      "question_id": "ENG1-U01-PRETEST-Q08",
+      "type": "true_false",
+      "prompt": "A strong reading routine can combine several reading skills instead of using each skill separately.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "True",
+          "is_correct": true,
+          "feedback": "Correct. An integrated reading routine combines skills so a reader can understand a text more effectively."
+        },
+        {
+          "id": "B",
+          "text": "False",
+          "is_correct": false,
+          "feedback": "A reading routine is meant to bring together multiple useful reading skills."
+        }
+      ]
+    }
+  ]
 }
