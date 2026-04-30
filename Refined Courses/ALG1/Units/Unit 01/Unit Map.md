@@ -14,10 +14,10 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.1.1 | Rewrite algebraic expressions in equivalent forms using the structure of the expression |
-| MA.912.AR.1.2 | Apply properties of operations to simplify algebraic expressions |
-| MA.912.AR.1.3 | Represent real-world situations using algebraic expressions |
-| MA.912.AR.1.4 | Interpret parts of an expression in context |
+| MA.912.AR.1.1 | Rewrite algebraic expressions in equivalent forms by factoring, expanding, or combining like terms to reveal structure. |
+| MA.912.AR.1.2 | Apply properties of operations to generate equivalent algebraic expressions. |
+| MA.912.AR.1.3 | Represent real-world situations using algebraic expressions and interpret their meaning in context. |
+| MA.912.AR.1.4 | Interpret key features of algebraic expressions in terms of the quantities they represent. |
 
 ---
 
@@ -25,9 +25,9 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.8.AR.1.1 | Understand and apply properties of operations with rational numbers |
-| MA.8.AR.2.1 | Generate equivalent expressions using properties of operations |
-| MA.8.AR.3.1 | Represent relationships using variables and expressions |
+| MA.8.AR.1.1 | Apply properties of operations to generate equivalent numerical expressions involving rational numbers. |
+| MA.8.AR.2.1 | Generate equivalent algebraic expressions using properties of operations. |
+| MA.8.AR.3.1 | Represent relationships using variables and expressions in real-world contexts. |
 
 ---
 
@@ -35,20 +35,26 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Variables and Expressions | MA.912.AR.1.1 | Quiz |
+| Lesson 1 | Introduction to Variables and Expressions | MA.912.AR.1.1, MA.912.AR.1.2 | Quiz |
 | Lesson 2 | Simplifying Expressions Using Properties | MA.912.AR.1.2 | Quiz |
 | Lesson 3 | Translating Words into Expressions | MA.912.AR.1.3 | Quiz |
 | Lesson 4 | Interpreting Expressions in Context | MA.912.AR.1.4 | Quiz |
 | Lesson 5 | Multi-Step Expression Simplification | MA.912.AR.1.1, MA.912.AR.1.2 | Quiz |
-| Lesson 6 | Real-World Applications of Expressions | MA.912.AR.1.3 | Quiz |
-| Lesson 7 | Unit Review and Mixed Practice | All Unit Standards | Quiz |
+| Lesson 6 | Real-World Applications of Expressions | MA.912.AR.1.3, MA.912.AR.1.4 | Quiz |
+| Lesson 7 | Cumulative Review and Standard Reinforcement | All Unit Standards | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all standards addressed in this unit. Students must demonstrate consistent understanding across multiple measures, including conceptual understanding, procedural accuracy, and application of algebraic reasoning.
+The Unit Assessment evaluates student mastery of all standards addressed in this unit. Students must demonstrate consistent proficiency across:
+
+- Conceptual understanding  
+- Procedural fluency  
+- Real-world application  
+
+All items are aligned to the B.E.S.T. standards and require students to apply algebraic reasoning in both abstract and contextual situations.
 
 ---
 
@@ -62,5 +68,7 @@ Students are expected to demonstrate a minimum of **80% mastery** across all req
 - Unit Assessment  
 
 Students are not advanced until mastery is achieved, ensuring foundational understanding is solid before progressing to more complex algebraic concepts.
+
+No single assessment determines mastery; students must demonstrate consistent performance across all components.
 
 ---
