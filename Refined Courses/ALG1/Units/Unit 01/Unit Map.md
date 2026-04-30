@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit introduces foundational algebraic concepts, including variables, expressions, and the structure of mathematical relationships. Students develop skills in identifying components of expressions, interpreting their meaning, and understanding how equations represent relationships between quantities.
+This unit introduces foundational algebraic concepts, including variables, expressions, equations, and the structure of mathematical relationships. Students develop skills in identifying and interpreting parts of expressions and equations, recognizing how parts can represent quantities, and rearranging equations or formulas to isolate a quantity of interest.
 
 Emphasis is placed on building conceptual understanding, precision, and the ability to interpret algebraic expressions and equations in both mathematical and real-world contexts.
 
@@ -34,11 +34,11 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Introduction to Variables and Expression Components | MA.912.AR.1.1 | Quiz |
-| Lesson 2 | Interpreting the Structure of Algebraic Expressions | MA.912.AR.1.1 | Quiz |
+| Lesson 2 | Interpreting Parts of Algebraic Expressions | MA.912.AR.1.1 | Quiz |
 | Lesson 3 | Expressions and Equations in Context | MA.912.AR.1.1 | Quiz |
-| Lesson 4 | Understanding Equations and Isolating Variables | MA.912.AR.1.2 | Quiz |
-| Lesson 5 | Multi-Step Equation Rearrangement | MA.912.AR.1.2 | Quiz |
-| Lesson 6 | Real-World Applications of Equations | MA.912.AR.1.2 | Quiz |
+| Lesson 4 | Rearranging Equations and Formulas | MA.912.AR.1.2 | Quiz |
+| Lesson 5 | Isolating a Quantity of Interest | MA.912.AR.1.2 | Quiz |
+| Lesson 6 | Real-World Applications of Formula Rearrangement | MA.912.AR.1.2 | Quiz |
 | Lesson 7 | Cumulative Review and Standard Reinforcement | All Unit Standards | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
@@ -52,7 +52,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Procedural fluency  
 - Real-world application  
 
-All assessment items are aligned to the B.E.S.T. standards and require students to interpret algebraic expressions and rearrange equations in both abstract and contextual situations.
+All assessment items are aligned to the B.E.S.T. standards and require students to identify and interpret parts of expressions and equations, view parts as single entities where appropriate, and rearrange equations or formulas to isolate a quantity of interest.
 
 ---
 
