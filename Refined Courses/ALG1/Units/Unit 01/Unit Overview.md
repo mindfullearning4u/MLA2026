@@ -43,7 +43,7 @@ Students should enter this unit ready to work with integer operations, rational 
 | Lesson 4 | Interpreting Parts of Expressions and Equations in Context | MA.912.AR.1.1 | Quiz |
 | Lesson 5 | Rearranging Equations and Formulas, Including Literal Equations, to Isolate a Quantity of Interest | MA.912.AR.1.2 | Quiz |
 | Lesson 6 | Polynomial Operations: Addition, Subtraction, and Multiplication | MA.912.AR.1.3 | Quiz |
-| Lesson 7 | Dividing Polynomial Expressions and Rewriting Polynomial Expressions as Products | MA.912.AR.1.4, MA.912.AR.1.7 | Quiz |
+| Lesson 7 | Dividing Polynomial Expressions and Factoring Polynomial Expressions | MA.912.AR.1.4, MA.912.AR.1.7 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -57,7 +57,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - procedural fluency;
 - interpretation in mathematical and real-world contexts.
 
-All assessment items are aligned to the unit benchmarks and require students to generate equivalent forms, interpret parts of expressions and equations, isolate quantities of interest, divide polynomial expressions by monomial expressions with rational number coefficients, and rewrite polynomial expressions as products over the real number system.
+All assessment items are aligned to the unit benchmarks and require students to generate equivalent forms, interpret parts of expressions and equations, isolate quantities of interest, divide polynomial expressions by monomials with rational coefficients, and rewrite polynomial expressions as products over the real number system.
 
 ---
 
