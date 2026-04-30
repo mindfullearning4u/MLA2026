@@ -14,9 +14,9 @@ Emphasis is placed on understanding exponential growth and decay, analyzing key 
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.2.2 | Represent and analyze exponential functions in different forms, including tables, graphs, and equations, and interpret key features of each representation. |
-| MA.912.F.2.3 | Compare key features of linear, quadratic, and exponential functions and determine which model best fits a given context. |
-| MA.912.F.1.2 | Interpret key features of graphs and tables in terms of the quantities they represent. |
+| MA.912.F.1.2 | Given a function represented in function notation, evaluate the function for an input in its domain. For a real-world context, interpret the output. |
+| MA.912.F.1.6 | Compare key features of linear and nonlinear functions each represented algebraically, graphically, in tables or written descriptions. |
+| MA.912.F.1.8 | Determine whether a linear, quadratic or exponential function best models a given real-world situation. |
 
 ---
 
@@ -24,9 +24,9 @@ Emphasis is placed on understanding exponential growth and decay, analyzing key 
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.1.1 | Define a function as a relation from one set (domain) to another set (range) that assigns to each element of the domain exactly one element of the range. |
-| MA.912.F.1.2 | Interpret key features of graphs and tables in terms of the quantities they represent. |
-| MA.912.F.1.3 | Calculate and interpret the average rate of change of a function over a specified interval. |
+| MA.912.F.1.1 | Given an equation or graph that defines a function, determine the function type. Given an input-output table, determine a function type that could represent it. |
+| MA.912.F.1.2 | Given a function represented in function notation, evaluate the function for an input in its domain. For a real-world context, interpret the output. |
+| MA.912.F.1.3 | Calculate and interpret the average rate of change of a real-world situation represented graphically, algebraically or in a table over a specified interval. |
 | MA.912.AR.3.1 | Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real number system. |
 
 ---
@@ -35,13 +35,13 @@ Emphasis is placed on understanding exponential growth and decay, analyzing key 
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Exponential Functions and Expressions | MA.912.F.2.2 | Quiz |
-| Lesson 2 | Applying Properties of Exponents in Exponential Functions | MA.912.F.2.2 | Quiz |
-| Lesson 3 | Representing Exponential Functions | MA.912.F.2.2 | Quiz |
-| Lesson 4 | Graphing Exponential Functions | MA.912.F.1.2, MA.912.F.2.2 | Quiz |
-| Lesson 5 | Exponential Growth and Decay | MA.912.F.1.2 | Quiz |
-| Lesson 6 | Comparing Linear and Exponential Functions | MA.912.F.2.2, MA.912.F.2.3 | Quiz |
-| Lesson 7 | Modeling Exponential Relationships in Context | MA.912.F.1.2, MA.912.F.2.2 | Quiz |
+| Lesson 1 | Introduction to Exponential Functions and Expressions | MA.912.F.1.6 | Quiz |
+| Lesson 2 | Applying Properties of Exponents in Exponential Functions | MA.912.F.1.6 | Quiz |
+| Lesson 3 | Representing Exponential Functions | MA.912.F.1.2, MA.912.F.1.6 | Quiz |
+| Lesson 4 | Graphing Exponential Functions | MA.912.F.1.2 | Quiz |
+| Lesson 5 | Exponential Growth and Decay | MA.912.F.1.2, MA.912.F.1.8 | Quiz |
+| Lesson 6 | Comparing Linear and Exponential Functions | MA.912.F.1.6, MA.912.F.1.8 | Quiz |
+| Lesson 7 | Modeling Exponential Relationships in Context | MA.912.F.1.2, MA.912.F.1.8 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
 ---
@@ -55,7 +55,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Graphical interpretation  
 - Real-world modeling  
 
-All assessment items require students to represent and analyze exponential functions, compare function behavior, and interpret exponential models in real-world contexts.
+All assessment items require students to evaluate and interpret exponential functions, compare function behavior, determine appropriate models, and analyze real-world exponential situations.
 
 ---
 
