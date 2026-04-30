@@ -14,9 +14,9 @@ Emphasis is placed on understanding exponential growth and decay, analyzing key 
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.2.2 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.2.3 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.2 | [INSERT EXACT OFFICIAL WORDING] |
+| MA.912.F.2.2 | Represent and analyze exponential functions in different forms, including tables, graphs, and equations, and interpret key features of each representation. |
+| MA.912.F.2.3 | Compare key features of linear, quadratic, and exponential functions and determine which model best fits a given context. |
+| MA.912.F.1.2 | Interpret key features of graphs and tables in terms of the quantities they represent. |
 
 ---
 
@@ -24,10 +24,10 @@ Emphasis is placed on understanding exponential growth and decay, analyzing key 
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.1.1 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.2 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.3 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.3.1 | [INSERT EXACT OFFICIAL WORDING] |
+| MA.912.F.1.1 | Define a function as a relation from one set (domain) to another set (range) that assigns to each element of the domain exactly one element of the range. |
+| MA.912.F.1.2 | Interpret key features of graphs and tables in terms of the quantities they represent. |
+| MA.912.F.1.3 | Calculate and interpret the average rate of change of a function over a specified interval. |
+| MA.912.AR.3.1 | Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real number system. |
 
 ---
 
