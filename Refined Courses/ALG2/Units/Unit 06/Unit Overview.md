@@ -47,7 +47,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Arithmetic Sequences in Mathematical and Real-World Contexts | MA.912.AR.10.1 | Quiz |
 | Lesson 2 | Geometric Sequences in Mathematical and Real-World Contexts | MA.912.AR.10.2 | Quiz |
-| Lesson 3 | Finite Arithmetic Series and Finite or Infinite Geometric Series | MA.912.AR.10.3, MA.912.AR.10.4 | Quiz |
+| Lesson 3 | Finite Arithmetic Series and Geometric Series (Finite and Infinite) | MA.912.AR.10.3, MA.912.AR.10.4 | Quiz |
 | Lesson 4 | Explicit and Recursive Sequence Representations Using Function Notation | MA.912.AR.10.5 | Quiz |
 | Lesson 5 | Combining Functions with Domain Restrictions | MA.912.F.3.2 | Quiz |
 | Lesson 6 | Composition of Functions and Composite Function Domains | MA.912.F.3.4 | Quiz |
@@ -62,7 +62,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - symbolic reasoning and structure;
-- function analysis and modeling;
+- integrated function analysis and modeling;
 - contextual interpretation of sequences, series, operations, inverses, and piecewise models.
 
 All assessment items are aligned to the unit benchmarks and require students to represent and solve sequence and series problems, combine and compose functions, analyze inverse relationships, apply domain and range restrictions, and interpret piecewise models in mathematical and real-world contexts.
