@@ -8,6 +8,8 @@ This unit extends linear reasoning into inequality and systems work. Students wr
 
 Emphasis is placed on solution sets, constraints, graphical interpretation, algebraic reasoning, and the distinction between viable and non-viable options in modeling situations.
 
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -42,7 +44,7 @@ Emphasis is placed on solution sets, constraints, graphical interpretation, alge
 | Lesson 3 | Graphing Solution Sets for Two-Variable Linear Inequalities | MA.912.AR.2.8 | Quiz |
 | Lesson 4 | Writing and Solving Systems of Two-Variable Linear Equations | MA.912.AR.9.1 | Quiz |
 | Lesson 5 | Graphing Solution Sets for Systems of Linear Inequalities | MA.912.AR.9.4 | Quiz |
-| Lesson 6 | Modeling Constraints and Interpreting Viable and Non-Viable Options | MA.912.AR.9.6 | Quiz |
+| Lesson 6 | Modeling Constraints and Interpreting Viable and Non-Viable Solutions | MA.912.AR.9.6 | Quiz |
 | Lesson 7 | Integrated Review of Linear Inequalities and Systems | MA.912.AR.2.6, MA.912.AR.2.7, MA.912.AR.2.8, MA.912.AR.9.1, MA.912.AR.9.4, MA.912.AR.9.6 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -54,7 +56,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - symbolic reasoning;
 - graph interpretation;
-- systems and feasible region analysis;
+- systems of equations and inequalities and feasible region analysis;
 - real-world constraint modeling.
 
 All assessment items require students to write, solve, graph, and interpret inequalities and systems in both mathematical and real-world contexts.
