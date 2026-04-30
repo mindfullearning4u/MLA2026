@@ -4,11 +4,9 @@
 
 ## Unit Overview
 
-This unit introduces foundational algebraic concepts, including variables, expressions, equations, and the structure of mathematical relationships. Students develop skills in interpreting expressions, identifying components, and understanding how expressions and equations represent relationships between quantities.
+This unit introduces foundational algebraic concepts, including variables, expressions, and the structure of mathematical relationships. Students develop skills in simplifying expressions, applying properties of operations, and translating real-world situations into algebraic form.
 
-Students also learn to rearrange equations to isolate variables, preparing them for solving linear equations in subsequent units.
-
-Emphasis is placed on building conceptual understanding, precision, and the ability to represent and interpret algebraic relationships in both abstract and real-world contexts.
+Emphasis is placed on building conceptual understanding, precision, and the ability to represent and interpret algebraic expressions.
 
 ---
 
@@ -16,8 +14,10 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.1.1 | Identify and interpret parts of an equation or expression that represent a quantity in terms of a mathematical or real-world context, including viewing one or more of its parts as a single entity. |
-| MA.912.AR.1.2 | Rearrange equations or formulas to isolate a quantity of interest. |
+| MA.912.AR.1.1 | Rewrite algebraic expressions in equivalent forms by factoring, expanding, or combining like terms to reveal structure. |
+| MA.912.AR.1.2 | Apply properties of operations to generate equivalent algebraic expressions. |
+| MA.912.AR.1.3 | Represent real-world situations using algebraic expressions and interpret their meaning in context. |
+| MA.912.AR.1.4 | Interpret key features of algebraic expressions in terms of the quantities they represent. |
 
 ---
 
@@ -33,16 +33,16 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 
 ## Lesson Breakdown
 
-| Lesson | Lesson Title | Focus | Primary Standard(s) | Assessment |
-|--------|--------------|--------|---------------------|------------|
-| Lesson 1 | Variables and Expression Components | Identify variables, constants, coefficients, and terms | MA.912.AR.1.1 | Quiz |
-| Lesson 2 | Structure of Algebraic Expressions | Interpret and analyze expression structure | MA.912.AR.1.1 | Quiz |
-| Lesson 3 | Expressions and Equations in Context | Translate real-world scenarios into expressions and equations; understand "=" as a relationship | MA.912.AR.1.1 | Quiz |
-| Lesson 4 | Understanding Equations and Isolating Variables | Conceptual understanding of equations and isolating a variable | MA.912.AR.1.2 | Quiz |
-| Lesson 5 | Multi-Step Equation Rearrangement | Solve and manipulate multi-step equations | MA.912.AR.1.2 | Quiz |
-| Lesson 6 | Real-World Formula Applications | Apply equation manipulation in contextual scenarios | MA.912.AR.1.2 | Quiz |
-| Lesson 7 | Cumulative Review and Standard Reinforcement | Mixed problems, error analysis, and reasoning across both standards | All Unit Standards | Quiz |
-| Lesson 8 | Unit Assessment | Comprehensive mastery of Unit 01 standards | All Unit Standards | Unit Assessment |
+| Lesson | Lesson Title | Primary Standard(s) | Assessment |
+|--------|--------------|---------------------|------------|
+| Lesson 1 | Introduction to Variables and Expressions | MA.912.AR.1.1, MA.912.AR.1.2 | Quiz |
+| Lesson 2 | Simplifying Expressions Using Properties | MA.912.AR.1.2 | Quiz |
+| Lesson 3 | Translating Words into Expressions | MA.912.AR.1.3 | Quiz |
+| Lesson 4 | Interpreting Expressions in Context | MA.912.AR.1.4 | Quiz |
+| Lesson 5 | Multi-Step Expression Simplification | MA.912.AR.1.1, MA.912.AR.1.2 | Quiz |
+| Lesson 6 | Real-World Applications of Expressions | MA.912.AR.1.3, MA.912.AR.1.4 | Quiz |
+| Lesson 7 | Cumulative Review and Standard Reinforcement | All Unit Standards | Quiz |
+| Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
 ---
 
@@ -54,7 +54,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Procedural fluency  
 - Real-world application  
 
-Assessment items require students to interpret, manipulate, and apply algebraic expressions and equations in both abstract and contextual scenarios.
+All items are aligned to the B.E.S.T. standards and require students to apply algebraic reasoning in both abstract and contextual situations.
 
 ---
 
