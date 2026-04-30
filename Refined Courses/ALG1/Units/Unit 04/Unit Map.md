@@ -38,7 +38,7 @@ Emphasis is placed on interpreting graphs of quadratic functions, identifying ve
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Quadratic Functions | MA.912.AR.3.7 | Quiz |
+| Lesson 1 | Introduction to Quadratic Functions | MA.912.AR.3.4 | Quiz |
 | Lesson 2 | Graphing Quadratic Functions | MA.912.AR.3.7 | Quiz |
 | Lesson 3 | Key Features of Quadratic Graphs | MA.912.AR.3.6, MA.912.AR.3.7 | Quiz |
 | Lesson 4 | Transformations of Quadratic Functions | MA.912.F.2.1 | Quiz |
