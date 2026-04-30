@@ -1,4 +1,4 @@
-# ALG1 Unit 03 - Linear Inequalities and Systems
+# ALG1 – Unit 03 Overview: Linear Inequalities and Systems
 
 ---
 
@@ -63,10 +63,12 @@ All assessment items require students to write, solve, graph, and interpret ineq
 
 ## Mastery Expectation
 
-Students must achieve an overall course grade of 80% or higher to demonstrate mastery of the unit.
+Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment.
 
-Lesson quizzes require a minimum score of 80% to progress, with up to two attempts permitted.
+Students are not advanced to the next unit until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
 
-The Unit Assessment must be completed but does not independently determine mastery; overall performance across Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment is used to determine advancement.
+The Unit Assessment is required for all students and contributes to the overall mastery determination.
+
+Students participating in the Accelerated Path must meet additional expectations. Please refer to the official Accelerated Path Overview document for full eligibility, requirements, and continuation criteria.
 
 ---
