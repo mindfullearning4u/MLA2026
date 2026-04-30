@@ -46,7 +46,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 2 | Graphing Square Root and Cube Root Functions | MA.912.AR.7.2 | Quiz |
 | Lesson 3 | Modeling with Square Root and Cube Root Functions | MA.912.AR.7.3 | Quiz |
 | Lesson 4 | Solving Rational Equations with Viable and Extraneous Solutions | MA.912.AR.8.1 | Quiz |
-| Lesson 5 | Graphing Rational Functions and Interpreting Asymptotes | MA.912.AR.8.2 | Quiz |
+| Lesson 5 | Graphing Rational Functions and Interpreting Asymptotes and Key Features | MA.912.AR.8.2 | Quiz |
 | Lesson 6 | Modeling with Rational Functions and Inverse Proportional Relationships | MA.912.AR.8.3 | Quiz |
 | Lesson 7 | Function Operations with Domain Restrictions | MA.912.F.3.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -59,7 +59,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - symbolic reasoning and structure;
-- function analysis and modeling;
+- radical and rational function analysis and modeling;
 - contextual interpretation of restrictions, asymptotes, and viable solutions.
 
 All assessment items are aligned to the unit benchmarks and require students to solve radical and rational equations, interpret extraneous solutions, analyze function features, apply domain restrictions, and model real-world situations with radical and rational functions.
