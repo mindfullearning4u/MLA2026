@@ -67,15 +67,10 @@ All assessment items require students to interpret, represent, solve, and graph 
 
 ## Mastery Expectation
 
-Students are expected to demonstrate a minimum of **80% mastery** across all required components, including:
+Students must achieve an overall course grade of 80% or higher to demonstrate mastery of the unit.
 
-- Notebook Evidence
-- Checkpoints
-- Quizzes
-- Unit Assessment
+Lesson quizzes require a minimum score of 80% to progress, with up to two attempts permitted.
 
-Students are not advanced until mastery is achieved, ensuring that quadratic and absolute value reasoning is secure before the course moves into exponential modeling and broader comparative analysis.
-
-No single assessment determines mastery; students must demonstrate consistent performance across all components.
+The Unit Assessment must be completed but does not independently determine mastery; overall performance across Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment is used to determine advancement.
 
 ---

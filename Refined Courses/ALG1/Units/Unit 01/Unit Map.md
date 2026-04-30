@@ -6,7 +6,9 @@
 
 This unit establishes the symbolic and structural foundation for the Algebra 1 course. Students work with rational exponents, radicals, algebraic expressions, equations, and polynomial expressions so they can interpret mathematical structure, generate equivalent forms, and isolate quantities of interest with precision.
 
-Emphasis is placed on equivalent forms, algebraic meaning, and the connections between symbolic manipulation and mathematical or real-world interpretation.
+Emphasis is placed on generating equivalent forms, interpreting algebraic structure, and connecting symbolic manipulation to quantitative relationships in both mathematical and real-world contexts.
+
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
 
 ---
 
@@ -39,9 +41,9 @@ Students should enter this unit ready to work with integer operations, rational 
 | Lesson 2 | Equivalent Algebraic Expressions with Exponent Properties | MA.912.NSO.1.2 | Quiz |
 | Lesson 3 | Operating with Numerical Radicals | MA.912.NSO.1.4 | Quiz |
 | Lesson 4 | Interpreting Parts of Expressions and Equations in Context | MA.912.AR.1.1 | Quiz |
-| Lesson 5 | Rearranging Equations and Formulas to Isolate a Quantity of Interest | MA.912.AR.1.2 | Quiz |
+| Lesson 5 | Rearranging Equations and Formulas, Including Literal Equations, to Isolate a Quantity of Interest | MA.912.AR.1.2 | Quiz |
 | Lesson 6 | Polynomial Operations: Addition, Subtraction, and Multiplication | MA.912.AR.1.3 | Quiz |
-| Lesson 7 | Dividing and Factoring Polynomial Expressions | MA.912.AR.1.4, MA.912.AR.1.7 | Quiz |
+| Lesson 7 | Dividing Polynomial Expressions and Rewriting Polynomial Expressions as Products | MA.912.AR.1.4, MA.912.AR.1.7 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -55,21 +57,16 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - procedural fluency;
 - interpretation in mathematical and real-world contexts.
 
-All assessment items are aligned to the unit benchmarks and require students to generate equivalent forms, interpret parts of expressions and equations, isolate quantities of interest, and operate with polynomial expressions.
+All assessment items are aligned to the unit benchmarks and require students to generate equivalent forms, interpret parts of expressions and equations, isolate quantities of interest, divide polynomial expressions by monomial expressions with rational number coefficients, and rewrite polynomial expressions as products over the real number system.
 
 ---
 
 ## Mastery Expectation
 
-Students are expected to demonstrate a minimum of **80% mastery** across all required components, including:
+Students must achieve an overall course grade of 80% or higher to demonstrate mastery of the unit.
 
-- Notebook Evidence
-- Checkpoints
-- Quizzes
-- Unit Assessment
+Lesson quizzes require a minimum score of 80% to progress, with up to two attempts permitted.
 
-Students are not advanced until mastery is achieved, ensuring foundational algebraic structure is secure before the course moves into linear modeling, inequalities, systems, and nonlinear function families.
-
-No single assessment determines mastery; students must demonstrate consistent performance across all components.
+The Unit Assessment must be completed but does not independently determine mastery; overall performance across Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment is used to determine advancement.
 
 ---
