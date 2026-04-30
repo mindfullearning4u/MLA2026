@@ -49,7 +49,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 2 | Solving and Graphing One-Variable Quadratic Inequalities | MA.912.AR.3.3 | Quiz |
 | Lesson 3 | Writing and Graphing Two-Variable Quadratic Inequalities | MA.912.AR.3.9, MA.912.AR.3.10 | Quiz |
 | Lesson 4 | Absolute Value Inequalities and Absolute Value Function Constraints | MA.912.AR.4.2, MA.912.AR.4.4 | Quiz |
-| Lesson 5 | Solving Linear and Nonlinear Systems Algebraically and Graphically | MA.912.AR.9.2, MA.912.AR.9.3 | Quiz |
+| Lesson 5 | Solving Linear and Nonlinear Systems of Equations Algebraically and Graphically | MA.912.AR.9.2, MA.912.AR.9.3 | Quiz |
 | Lesson 6 | Graphing Systems of Linear and Quadratic Inequalities | MA.912.AR.9.5 | Quiz |
 | Lesson 7 | Modeling Constraints with Nonlinear Systems and Viable Solutions | MA.912.AR.9.7 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -62,7 +62,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - symbolic reasoning and structure;
-- function analysis and modeling;
+- nonlinear function analysis and modeling;
 - contextual interpretation of constraints and viable solutions.
 
 All assessment items are aligned to the unit benchmarks and require students to solve, graph, interpret, and model quadratic, absolute value, and nonlinear system relationships in mathematical and real-world contexts.
