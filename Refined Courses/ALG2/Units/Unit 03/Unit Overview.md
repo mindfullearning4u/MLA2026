@@ -46,7 +46,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Solving Higher-Degree Polynomial Equations over the Real and Complex Number Systems | MA.912.AR.6.1 | Quiz |
 | Lesson 2 | Remainder Theorem and Polynomial Evaluation in Context | MA.912.AR.6.2 | Quiz |
-| Lesson 3 | Zeros, Multiplicity, and End Behavior of Polynomial Functions | MA.912.AR.6.5 | Quiz |
+| Lesson 3 | Analyzing Zeros, Multiplicity, and End Behavior of Polynomial Functions | MA.912.AR.6.5 | Quiz |
 | Lesson 4 | Graphing Polynomial Functions and Determining Key Features | MA.912.AR.6.4 | Quiz |
 | Lesson 5 | Comparing Polynomial Function Features across Representations | MA.912.F.1.7 | Quiz |
 | Lesson 6 | Even, Odd, and Neither Function Behavior | MA.912.F.1.9 | Quiz |
@@ -61,7 +61,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - symbolic reasoning and structure;
-- function analysis and modeling;
+- polynomial function analysis and modeling;
 - contextual interpretation of polynomial behavior and transformations.
 
 All assessment items are aligned to the unit benchmarks and require students to solve and analyze higher-degree polynomial functions, apply the Remainder Theorem, interpret zeros and end behavior, compare function features, and connect transformations to graphical and algebraic representations.
