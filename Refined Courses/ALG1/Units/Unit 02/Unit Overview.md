@@ -25,7 +25,7 @@ Emphasis is placed on representing relationships between quantities, interpretin
 
 ---
 
-## Course Prerequisite and Supporting Benchmarks
+## Prerequisite and Supporting Concepts
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
