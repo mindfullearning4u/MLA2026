@@ -8,6 +8,8 @@ This unit culminates the course by applying algebraic reasoning to categorical a
 
 Emphasis is placed on statistical reasoning, representation decisions, model quality, and contextual interpretation of data.
 
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -43,7 +45,7 @@ Emphasis is placed on statistical reasoning, representation decisions, model qua
 | Lesson 2 | Interpreting Univariate and Bivariate Data Displays | MA.912.DP.1.2 | Quiz |
 | Lesson 3 | Correlation and Causation in Context | MA.912.DP.1.3 | Quiz |
 | Lesson 4 | Sample Surveys, Estimation, and Margin of Error Through Simulation | MA.912.DP.1.4 | Quiz |
-| Lesson 5 | Fitting Linear Models to Bivariate Numerical Data | MA.912.DP.2.4 | Quiz |
+| Lesson 5 | Fitting and Interpreting Linear Models to Bivariate Numerical Data | MA.912.DP.2.4 | Quiz |
 | Lesson 6 | Assessing Model Fit with Residuals | MA.912.DP.2.6 | Quiz |
 | Lesson 7 | Two-Way Frequency Tables and Associations in Categorical Data | MA.912.DP.3.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -55,7 +57,7 @@ Emphasis is placed on statistical reasoning, representation decisions, model qua
 The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
 
 - data representation and interpretation;
-- statistical reasoning;
+- statistical reasoning and inference;
 - linear model fitting and residual analysis;
 - contextual interpretation of numerical and categorical associations.
 

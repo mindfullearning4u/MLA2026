@@ -8,6 +8,8 @@ This unit develops exponential reasoning and comparative modeling across functio
 
 Emphasis is placed on model selection, feature comparison, and the connection between algebraic structure and real-world growth situations.
 
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -40,7 +42,7 @@ Emphasis is placed on model selection, feature comparison, and the connection be
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Average Rate of Change in Real-World Situations | MA.912.F.1.3 | Quiz |
+| Lesson 1 | Calculating and Interpreting Average Rate of Change | MA.912.F.1.3 | Quiz |
 | Lesson 2 | Comparing Linear and Nonlinear Functions | MA.912.F.1.6 | Quiz |
 | Lesson 3 | Classifying Exponential Growth and Decay | MA.912.AR.5.3 | Quiz |
 | Lesson 4 | Writing Exponential Functions from Contexts, Tables, and Graphs | MA.912.AR.5.4 | Quiz |
@@ -57,7 +59,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - exponential representation and interpretation;
 - comparative analysis of function families;
-- rate of change reasoning;
+- average rate of change reasoning;
 - real-world model selection;
 - financial literacy applications.
 
