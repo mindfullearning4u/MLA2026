@@ -4,9 +4,9 @@
 
 ## Unit Overview
 
-This unit introduces foundational algebraic concepts, including variables, expressions, and the structure of mathematical relationships. Students develop skills in interpreting expressions, identifying components, and understanding how algebraic expressions and equations represent relationships between quantities.
+This unit introduces foundational algebraic concepts, including variables, expressions, and the structure of mathematical relationships. Students develop skills in identifying components of expressions, interpreting their meaning, and understanding how equations represent relationships between quantities.
 
-Emphasis is placed on building conceptual understanding, precision, and the ability to analyze and interpret algebraic structures in both mathematical and real-world contexts.
+Emphasis is placed on building conceptual understanding, precision, and the ability to interpret algebraic expressions and equations in both mathematical and real-world contexts.
 
 ---
 
@@ -52,7 +52,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Procedural fluency  
 - Real-world application  
 
-All items are aligned to the B.E.S.T. standards and require students to interpret algebraic expressions and rearrange equations in both abstract and contextual situations.
+All assessment items are aligned to the B.E.S.T. standards and require students to interpret algebraic expressions and rearrange equations in both abstract and contextual situations.
 
 ---
 
