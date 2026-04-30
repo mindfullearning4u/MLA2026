@@ -41,7 +41,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Radical Expressions and Rational Exponent Structure | MA.912.NSO.1.3 | Quiz |
+| Lesson 1 | Radical Expressions and Rational Exponents | MA.912.NSO.1.3 | Quiz |
 | Lesson 2 | Operations with Algebraic Radical Expressions | MA.912.NSO.1.5 | Quiz |
 | Lesson 3 | Complex Numbers and Operations in the Complex Number System | MA.912.NSO.2.1 | Quiz |
 | Lesson 4 | Polynomial Division Using Long Division and Synthetic Division | MA.912.AR.1.5 | Quiz |
@@ -58,7 +58,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - symbolic reasoning and structure;
-- procedural fluency with radical, rational, polynomial, and complex expressions;
+- procedural fluency with radical, rational, polynomial, and complex algebraic expressions;
 - contextual interpretation of restrictions and equivalent forms.
 
 All assessment items are aligned to the unit benchmarks and require students to generate equivalent forms, operate with radical and rational algebraic expressions, divide and factor polynomials using Algebra 2 methods, and extend algebraic reasoning into the complex number system.
