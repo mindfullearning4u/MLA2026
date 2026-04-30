@@ -26,10 +26,10 @@ Emphasis is placed on solving systems of equations and inequalities, interpretin
 | Standard Code | Standard Description |
 |--------------|----------------------|
 | MA.912.AR.2.1 | Solve linear equations in one variable. |
-| MA.912.AR.2.2 | Solve linear inequalities in one variable and represent solutions graphically. |
+| MA.912.AR.2.6 | Solve one-variable linear inequalities. |
 | MA.912.AR.3.1 | Solve quadratic equations in one variable. |
 | MA.912.F.1.2  | Interpret key features of graphs and tables in terms of the quantities they represent. |
-| MA.912.F.2.2  | Represent and compare functions using tables, graphs, and equations. |
+| MA.912.F.2.2  | Represent functions using tables, graphs, and equations. |
 
 ---
 
@@ -37,7 +37,7 @@ Emphasis is placed on solving systems of equations and inequalities, interpretin
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Systems of Equations | MA.912.AR.4.1 | Quiz |
+| Lesson 1 | Introduction to Systems of Linear Equations | MA.912.AR.4.1 | Quiz |
 | Lesson 2 | Solving Systems of Equations Algebraically | MA.912.AR.4.1 | Quiz |
 | Lesson 3 | Solving Systems of Equations Graphically | MA.912.AR.4.1 | Quiz |
 | Lesson 4 | Systems of Inequalities and Feasible Regions | MA.912.AR.4.2 | Quiz |
@@ -57,7 +57,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Graphical and algebraic interpretation  
 - Real-world modeling  
 
-All assessment items require students to solve systems of equations and inequalities, analyze data, compare functions, select appropriate models, and interpret solutions within real-world contexts.
+All assessment items require students to solve systems of equations and inequalities, analyze data, compare functions, select appropriate models, and interpret solutions and feasible regions within real-world contexts.
 
 ---
 
