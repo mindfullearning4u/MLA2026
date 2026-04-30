@@ -24,7 +24,7 @@ Emphasis is placed on statistical reasoning, representation decisions, model qua
 
 ---
 
-## Course Prerequisite and Supporting Benchmarks
+## Prerequisite and Supporting Concepts
 
 | Standard Code | Standard Description |
 |--------------|----------------------|

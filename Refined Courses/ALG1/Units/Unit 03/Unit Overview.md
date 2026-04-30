@@ -23,7 +23,7 @@ Emphasis is placed on solution sets, constraints, graphical interpretation, alge
 
 ---
 
-## Course Prerequisite and Supporting Benchmarks
+## Prerequisite and Supporting Concepts
 
 | Standard Code | Standard Description |
 |--------------|----------------------|

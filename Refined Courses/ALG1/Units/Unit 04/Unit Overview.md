@@ -26,7 +26,7 @@ Emphasis is placed on feature analysis, equivalent representations, contextual i
 
 ---
 
-## Course Prerequisite and Supporting Benchmarks
+## Prerequisite and Supporting Concepts
 
 | Standard Code | Standard Description |
 |--------------|----------------------|

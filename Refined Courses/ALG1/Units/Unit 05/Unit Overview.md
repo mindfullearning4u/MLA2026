@@ -25,7 +25,7 @@ Emphasis is placed on model selection, feature comparison, and the connection be
 
 ---
 
-## Course Prerequisite and Supporting Benchmarks
+## Prerequisite and Supporting Concepts
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
