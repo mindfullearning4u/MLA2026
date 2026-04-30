@@ -15,15 +15,33 @@ Instruction emphasizes conceptual understanding, procedural fluency, and applica
 
 As a registered private school in the state of Florida, Mindful Learning Academy follows the **B.E.S.T. (Benchmarks for Excellent Student Thinking) standards** established by the Florida Department of Education.
 
-Instruction is standards-driven, with each lesson, assessment, and learning task explicitly tied to specific benchmarks within the B.E.S.T. framework. These standards emphasize mathematical reasoning, problem-solving, modeling, and real-world application.
+Instruction is standards-driven, with each lesson, assessment, and learning task explicitly tied to specific benchmarks within the B.E.S.T. framework. These standards define the required mathematical knowledge and skills for the course and ensure alignment with state expectations.
 
-Students engage in:
-- Algebraic Reasoning (AR)  
-- Functions (F)  
-- Data Analysis and Probability (DA)  
-- Mathematical Thinking and Problem-Solving  
+Students engage in the following B.E.S.T. strands appropriate to Algebra 1:
+
+- **Algebraic Reasoning (AR)** – expressions, equations, inequalities, and quadratic relationships  
+- **Functions (F)** – function concepts, linear, quadratic, and exponential models  
+- **Data Analysis and Probability (DP)** – interpreting data and modeling relationships  
+- **Financial Literacy (FL)** – real-world applications involving percent and interest (integrated)
 
 All instructional components—including lesson activities, pretests, quizzes, checkpoints, notebook evidence, and unit assessments—are aligned to individual standards and require students to demonstrate mastery.
+
+---
+
+## Mathematical Thinking and Reasoning (MTR)
+
+Instruction is delivered through Florida’s **Mathematical Thinking and Reasoning (MTR) Standards**, which are embedded across all lessons and assessments.
+
+Students are expected to:
+- Engage in problem-solving with perseverance  
+- Represent mathematical ideas in multiple ways  
+- Demonstrate procedural fluency and accuracy  
+- Justify reasoning and critique the reasoning of others  
+- Identify patterns and make connections  
+- Assess the reasonableness of solutions  
+- Apply mathematics to real-world contexts :contentReference[oaicite:0]{index=0}  
+
+These practices ensure deeper understanding and support the development of independent, analytical thinkers.
 
 ---
 
@@ -31,12 +49,12 @@ All instructional components—including lesson activities, pretests, quizzes, c
 
 By the end of this course, students will be able to:
 
-- Solve linear equations, inequalities, and systems of equations  
-- Interpret and analyze functions represented algebraically, graphically, and numerically  
-- Model real-world relationships using linear, quadratic, and exponential functions  
-- Perform operations with polynomials and understand their structure  
-- Apply properties of exponents to simplify and evaluate expressions  
-- Analyze data sets and interpret statistical representations  
+- Interpret and analyze algebraic expressions and equations  
+- Solve linear equations and inequalities and interpret solutions  
+- Model and analyze relationships using linear, quadratic, and exponential functions  
+- Represent functions algebraically, graphically, and numerically  
+- Apply properties of exponents and operations with polynomials  
+- Analyze and interpret data, including linear models  
 - Construct and justify mathematical arguments using precise reasoning  
 - Apply algebraic concepts to real-world problem-solving scenarios  
 
@@ -61,11 +79,12 @@ These prerequisite skills are reinforced and extended throughout the course as n
 
 The course is organized into six units, each designed to build progressively on algebraic concepts and standards mastery.
 
-Each unit consists of structured lessons that include:
+Each unit consists of eight structured lessons that include:
 - Concept development  
-- Guided and independent practice  
-- Application of knowledge  
-- Standards-based assessment  
+- Worked examples  
+- Guided practice  
+- Independent application  
+- Checkpoints and assessments  
 
 Instruction follows a mastery-based progression model, requiring students to demonstrate understanding before advancing.
 
@@ -97,6 +116,8 @@ Students progress through the course based on demonstrated mastery:
   - Unit Assessments  
 
 Students are not advanced until mastery is achieved, ensuring that learning gaps are addressed and understanding is solidified.
+
+No single assessment determines mastery; consistent performance across all components is required.
 
 ---
 
