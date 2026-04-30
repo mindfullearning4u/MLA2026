@@ -8,6 +8,8 @@ This unit moves from foundational symbolic work into formal linear reasoning. St
 
 Emphasis is placed on representing relationships between quantities, interpreting key features, and moving flexibly among equations, graphs, tables, and written descriptions.
 
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -44,7 +46,7 @@ Emphasis is placed on representing relationships between quantities, interpretin
 | Lesson 3 | Parallel and Perpendicular Linear Equations Through a Point | MA.912.AR.2.3 | Quiz |
 | Lesson 4 | Classifying Function Type from Equations, Graphs, and Tables | MA.912.F.1.1 | Quiz |
 | Lesson 5 | Evaluating Functions in Function Notation and Interpreting Output | MA.912.F.1.2 | Quiz |
-| Lesson 6 | Graphing Linear Functions and Comparing Linear Features | MA.912.AR.2.4, MA.912.F.1.5 | Quiz |
+| Lesson 6 | Graphing Linear Functions and Analyzing and Comparing Linear Features | MA.912.AR.2.4, MA.912.F.1.5 | Quiz |
 | Lesson 7 | Solving and Graphing Linear Models in Context | MA.912.AR.2.5 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -56,7 +58,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - equation writing and solving;
-- function notation and graph interpretation;
+- function notation, graph interpretation, and feature analysis;
 - comparison of linear features;
 - real-world linear modeling.
 
