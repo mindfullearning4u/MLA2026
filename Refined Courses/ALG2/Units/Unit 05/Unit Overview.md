@@ -48,7 +48,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 2 | Rewriting Algebraic Logarithmic Expressions with Logarithm Properties | MA.912.NSO.1.7 | Quiz |
 | Lesson 3 | Solving Exponential and Logarithmic Equations | MA.912.AR.5.2 | Quiz |
 | Lesson 4 | Constant Percent Rate of Change in Exponential Functions | MA.912.AR.5.5 | Quiz |
-| Lesson 5 | Exponential Function Models, Key Features, and Constraints | MA.912.AR.5.7, MA.912.DP.2.9 | Quiz |
+| Lesson 5 | Modeling with Exponential Functions and Interpreting Key Features and Constraints | MA.912.AR.5.7, MA.912.DP.2.9 | Quiz |
 | Lesson 6 | Graphing Logarithmic Functions and Determining Key Features | MA.912.AR.5.8 | Quiz |
 | Lesson 7 | Logarithmic Models and Continuously Compounded Interest Comparisons | MA.912.AR.5.9, MA.912.FL.3.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -61,7 +61,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - symbolic reasoning and structure;
-- function analysis and modeling;
+- exponential and logarithmic function analysis and modeling;
 - contextual interpretation of exponential, logarithmic, data, and financial models.
 
 All assessment items are aligned to the unit benchmarks and require students to evaluate and rewrite logarithmic expressions, solve exponential and logarithmic equations, analyze key features, interpret constant percent rate of change, and model real-world situations using exponential and logarithmic functions.
