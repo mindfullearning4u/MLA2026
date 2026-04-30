@@ -6,7 +6,7 @@
 
 This unit extends students’ understanding of functions to include quadratic relationships. Students explore the structure and behavior of quadratic functions, represent them in multiple forms, analyze key features, and solve quadratic equations.
 
-Emphasis is placed on interpreting graphs of quadratic functions, identifying vertex and zeros, understanding transformations, and modeling real-world situations using quadratic relationships.
+Emphasis is placed on interpreting graphs of quadratic functions, identifying and interpreting the vertex and zeros, understanding transformations, and modeling real-world situations using quadratic relationships.
 
 ---
 
@@ -14,12 +14,12 @@ Emphasis is placed on interpreting graphs of quadratic functions, identifying ve
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.3.1 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.3.4 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.3.6 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.3.7 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.3.8 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.2.1  | [INSERT EXACT OFFICIAL WORDING] |
+| MA.912.AR.3.1 | Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real number system. |
+| MA.912.AR.3.4 | Write a quadratic function to represent the relationship between two quantities from a graph, a written description or a table of values within a mathematical or real-world context. |
+| MA.912.AR.3.6 | Given an expression or equation representing a quadratic function, determine the vertex and zeros and interpret them in terms of a real-world context. |
+| MA.912.AR.3.7 | Given a table, equation or written description of a quadratic function, graph that function, and determine and interpret its key features. |
+| MA.912.AR.3.8 | Solve and graph mathematical and real-world problems that are modeled with quadratic functions. Interpret key features and determine constraints in terms of the context. |
+| MA.912.F.2.1  | Identify the effect on the graph or table of a given function after replacing f(x) by f(x) + k, kf(x), f(kx) and f(x + k) for specific values of k. |
 
 ---
 
@@ -27,9 +27,9 @@ Emphasis is placed on interpreting graphs of quadratic functions, identifying ve
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.1.1 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.2 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.3 | [INSERT EXACT OFFICIAL WORDING] |
+| MA.912.F.1.1 | Define a function as a relation from one set (domain) to another set (range) that assigns to each element of the domain exactly one element of the range. |
+| MA.912.F.1.2 | Interpret key features of graphs and tables in terms of the quantities they represent. |
+| MA.912.F.1.3 | Calculate and interpret the average rate of change of a function over a specified interval. |
 
 ---
 
@@ -37,12 +37,12 @@ Emphasis is placed on interpreting graphs of quadratic functions, identifying ve
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Quadratic Functions | MA.912.AR.3.4 | Quiz |
+| Lesson 1 | Introduction to Quadratic Functions | MA.912.AR.3.7 | Quiz |
 | Lesson 2 | Graphing Quadratic Functions | MA.912.AR.3.7 | Quiz |
 | Lesson 3 | Key Features of Quadratic Graphs | MA.912.AR.3.6, MA.912.AR.3.7 | Quiz |
 | Lesson 4 | Transformations of Quadratic Functions | MA.912.F.2.1 | Quiz |
 | Lesson 5 | Writing Quadratic Functions from Tables, Graphs, and Contexts | MA.912.AR.3.4 | Quiz |
-| Lesson 6 | Solving One-Variable Quadratic Equations | MA.912.AR.3.1 | Quiz |
+| Lesson 6 | Solving One-Variable Quadratic Equations in Context | MA.912.AR.3.1 | Quiz |
 | Lesson 7 | Modeling and Interpreting Quadratic Functions in Context | MA.912.AR.3.6, MA.912.AR.3.8 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
@@ -57,7 +57,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Graphical interpretation  
 - Real-world modeling  
 
-All assessment items require students to analyze quadratic functions, determine key features, graph functions, solve quadratic equations, and interpret solutions and constraints within real-world contexts.
+All assessment items require students to analyze quadratic functions, determine and interpret key features, graph functions, solve quadratic equations, and interpret solutions and constraints within real-world contexts.
 
 ---
 
