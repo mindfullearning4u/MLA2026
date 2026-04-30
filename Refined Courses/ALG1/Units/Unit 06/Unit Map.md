@@ -1,35 +1,37 @@
-# ALG1 Unit 06 – Modeling, Systems, and Data Analysis
+# ALG1 Unit 06 - Data Analysis and Statistical Modeling
 
 ---
 
 ## Unit Overview
 
-This unit integrates students’ understanding of algebraic concepts by applying linear, quadratic, and exponential models to real-world situations. Students analyze relationships between quantities, interpret solutions, and evaluate the appropriateness of mathematical models in context.
+This unit culminates the course by applying algebraic reasoning to categorical and numerical data. Students select and interpret data displays, distinguish correlation from causation, estimate population measures from samples, fit and interpret linear models, analyze residuals, and interpret associations in two-way frequency tables.
 
-Emphasis is placed on solving systems of linear equations and inequalities, interpreting data, and selecting and comparing mathematical models to represent real-world scenarios.
-
----
-
-## B.E.S.T. Standards (Benchmarks for Excellent Student Thinking)
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| MA.912.AR.4.1 | Solve systems of linear equations in two variables algebraically and graphically. |
-| MA.912.AR.4.2 | Solve systems of linear inequalities in two variables and interpret solutions as feasible regions. |
-| MA.912.F.3.1  | Interpret data and representations of functions in terms of the quantities they represent in real-world contexts. |
-| MA.912.F.3.2  | Compare and contrast functions represented algebraically, graphically, numerically, or verbally, and select appropriate models for given situations. |
+Emphasis is placed on statistical reasoning, representation decisions, model quality, and contextual interpretation of data.
 
 ---
 
-## Prerequisite Standards
+## Primary B.E.S.T. Benchmarks
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.2.1 | Given a real-world context, write and solve one-variable multi-step linear equations. |
-| MA.912.AR.2.6 | Given a mathematical or real-world context, write and solve one-variable linear inequalities, including compound inequalities, and represent solutions. |
-| MA.912.AR.3.1 | Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real number system. |
-| MA.912.F.1.2  | Given a function represented in function notation, evaluate the function for an input in its domain. For a real-world context, interpret the output. |
-| MA.912.F.1.8  | Determine whether a linear, quadratic or exponential function best models a given real-world situation. |
+| MA.912.DP.1.1 | Given a set of data, select an appropriate method to represent the data, depending on whether it is numerical or categorical data and on whether it is univariate or bivariate. |
+| MA.912.DP.1.2 | Interpret data distributions represented in various ways. State whether the data is numerical or categorical, whether it is univariate or bivariate and interpret the different components and quantities in the display. |
+| MA.912.DP.1.3 | Explain the difference between correlation and causation in the contexts of both numerical and categorical data. |
+| MA.912.DP.1.4 | Estimate a population total, mean or percentage using data from a sample survey; develop a margin of error through the use of simulation. |
+| MA.912.DP.2.4 | Fit a linear function to bivariate numerical data that suggests a linear association and interpret the slope and y-intercept of the model. Use the model to solve real-world problems in terms of the context of the data. |
+| MA.912.DP.2.6 | Given a scatterplot that represents bivariate numerical data, assess the fit of a given linear function by plotting and analyzing residuals. |
+| MA.912.DP.3.1 | Construct a two-way frequency table summarizing bivariate categorical data. Interpret joint and marginal frequencies and determine possible associations in terms of a real-world context. |
+
+---
+
+## Course Prerequisite and Supporting Benchmarks
+
+| Standard Code | Standard Description |
+|--------------|----------------------|
+| MA.912.AR.2.4 | Given a table, equation or written description of a linear function, graph that function, and determine and interpret its key features. |
+| MA.912.AR.2.5 | Solve and graph mathematical and real-world problems that are modeled with linear functions. Interpret key features and determine constraints in terms of the context. |
+| MA.912.F.1.5 | Compare key features of linear functions each represented algebraically, graphically, in tables or written descriptions. |
+| MA.912.F.1.8 | Determine whether a linear, quadratic or exponential function best models a given real-world situation. |
 
 ---
 
@@ -37,27 +39,27 @@ Emphasis is placed on solving systems of linear equations and inequalities, inte
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Systems of Linear Equations | MA.912.AR.4.1 | Quiz |
-| Lesson 2 | Solving Systems of Linear Equations Algebraically | MA.912.AR.4.1 | Quiz |
-| Lesson 3 | Solving Systems of Linear Equations Graphically | MA.912.AR.4.1 | Quiz |
-| Lesson 4 | Systems of Linear Inequalities and Feasible Regions | MA.912.AR.4.2 | Quiz |
-| Lesson 5 | Interpreting Data and Selecting Models | MA.912.F.3.1, MA.912.F.3.2 | Quiz |
-| Lesson 6 | Comparing Linear, Quadratic, and Exponential Models | MA.912.F.3.2 | Quiz |
-| Lesson 7 | Modeling Real-World Situations Using Multiple Representations | MA.912.F.3.1, MA.912.F.3.2 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
+| Lesson 1 | Selecting Appropriate Displays for Numerical and Categorical Data | MA.912.DP.1.1 | Quiz |
+| Lesson 2 | Interpreting Univariate and Bivariate Data Displays | MA.912.DP.1.2 | Quiz |
+| Lesson 3 | Correlation and Causation in Context | MA.912.DP.1.3 | Quiz |
+| Lesson 4 | Sample Surveys, Estimation, and Margin of Error Through Simulation | MA.912.DP.1.4 | Quiz |
+| Lesson 5 | Fitting Linear Models to Bivariate Numerical Data | MA.912.DP.2.4 | Quiz |
+| Lesson 6 | Assessing Model Fit with Residuals | MA.912.DP.2.6 | Quiz |
+| Lesson 7 | Two-Way Frequency Tables and Associations in Categorical Data | MA.912.DP.3.1 | Quiz |
+| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all standards addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
 
-- Conceptual understanding  
-- Procedural fluency  
-- Graphical and algebraic interpretation  
-- Real-world modeling  
+- data representation and interpretation;
+- statistical reasoning;
+- linear model fitting and residual analysis;
+- contextual interpretation of numerical and categorical associations.
 
-All assessment items require students to solve systems of linear equations and inequalities, interpret feasible regions, analyze data, compare functions, select appropriate models, and interpret solutions within real-world contexts.
+All assessment items require students to represent, interpret, analyze, and explain data using official Algebra 1 data and probability benchmarks.
 
 ---
 
@@ -65,12 +67,12 @@ All assessment items require students to solve systems of linear equations and i
 
 Students are expected to demonstrate a minimum of **80% mastery** across all required components, including:
 
-- Notebook Evidence  
-- Checkpoints  
-- Quizzes  
-- Unit Assessment  
+- Notebook Evidence
+- Checkpoints
+- Quizzes
+- Unit Assessment
 
-Students are not advanced until mastery is achieved, ensuring they can apply algebraic reasoning across multiple representations and real-world scenarios.
+Students are not advanced until mastery is achieved, ensuring they can apply algebraic and statistical reasoning across multiple representations and real-world contexts.
 
 No single assessment determines mastery; students must demonstrate consistent performance across all components.
 

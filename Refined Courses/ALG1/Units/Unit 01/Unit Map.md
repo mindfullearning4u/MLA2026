@@ -1,31 +1,33 @@
-# ALG1 Unit 01 – Foundations of Algebra and Expressions
+# ALG1 Unit 01 - Algebraic Structure, Expressions, and Equivalent Forms
 
 ---
 
 ## Unit Overview
 
-This unit introduces foundational algebraic concepts, including variables, expressions, equations, and the structure of mathematical relationships. Students develop skills in identifying and interpreting parts of expressions and equations, recognizing how parts can represent quantities, and rearranging equations or formulas to isolate a quantity of interest.
+This unit establishes the symbolic and structural foundation for the Algebra 1 course. Students work with rational exponents, radicals, algebraic expressions, equations, and polynomial expressions so they can interpret mathematical structure, generate equivalent forms, and isolate quantities of interest with precision.
 
-Emphasis is placed on building conceptual understanding, precision, and the ability to interpret algebraic expressions and equations in both mathematical and real-world contexts.
+Emphasis is placed on equivalent forms, algebraic meaning, and the connections between symbolic manipulation and mathematical or real-world interpretation.
 
 ---
 
-## B.E.S.T. Standards (Benchmarks for Excellent Student Thinking)
+## Primary B.E.S.T. Benchmarks
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| MA.912.NSO.1.1 | Extend previous understanding of the Laws of Exponents to include rational exponents. Apply the Laws of Exponents to evaluate numerical expressions and generate equivalent numerical expressions involving rational exponents. |
+| MA.912.NSO.1.2 | Generate equivalent algebraic expressions using the properties of exponents. |
+| MA.912.NSO.1.4 | Apply previous understanding of operations with rational numbers to add, subtract, multiply and divide numerical radicals. |
 | MA.912.AR.1.1 | Identify and interpret parts of an equation or expression that represent a quantity in terms of a mathematical or real-world context, including viewing one or more of its parts as a single entity. |
 | MA.912.AR.1.2 | Rearrange equations or formulas to isolate a quantity of interest. |
+| MA.912.AR.1.3 | Add, subtract and multiply polynomial expressions with rational number coefficients. |
+| MA.912.AR.1.4 | Divide a polynomial expression by a monomial expression with rational number coefficients. |
+| MA.912.AR.1.7 | Rewrite a polynomial expression as a product of polynomials over the real number system. |
 
 ---
 
-## Prerequisite Standards
+## Prerequisite and Supporting Concepts
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| MA.8.AR.1.1 | Apply properties of operations to generate equivalent numerical expressions involving rational numbers. |
-| MA.8.AR.2.1 | Generate equivalent algebraic expressions using properties of operations. |
-| MA.8.AR.3.1 | Represent relationships using variables and expressions in real-world contexts. |
+Students should enter this unit ready to work with integer operations, rational number operations, numerical expressions, simple algebraic expressions, and middle grades equation reasoning. This unit becomes the prerequisite base for all later linear, quadratic, exponential, and data-modeling work in the course.
 
 ---
 
@@ -33,26 +35,27 @@ Emphasis is placed on building conceptual understanding, precision, and the abil
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Variables and Expression Components | MA.912.AR.1.1 | Quiz |
-| Lesson 2 | Interpreting Parts of Algebraic Expressions | MA.912.AR.1.1 | Quiz |
-| Lesson 3 | Expressions and Equations in Context | MA.912.AR.1.1 | Quiz |
-| Lesson 4 | Rearranging Equations and Formulas | MA.912.AR.1.2 | Quiz |
-| Lesson 5 | Isolating a Quantity of Interest | MA.912.AR.1.2 | Quiz |
-| Lesson 6 | Real-World Applications of Formula Rearrangement | MA.912.AR.1.2 | Quiz |
-| Lesson 7 | Cumulative Review and Standard Reinforcement | All Unit Standards | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
+| Lesson 1 | Rational Exponents and Equivalent Numerical Expressions | MA.912.NSO.1.1 | Quiz |
+| Lesson 2 | Equivalent Algebraic Expressions with Exponent Properties | MA.912.NSO.1.2 | Quiz |
+| Lesson 3 | Operating with Numerical Radicals | MA.912.NSO.1.4 | Quiz |
+| Lesson 4 | Interpreting Parts of Expressions and Equations in Context | MA.912.AR.1.1 | Quiz |
+| Lesson 5 | Rearranging Equations and Formulas to Isolate a Quantity of Interest | MA.912.AR.1.2 | Quiz |
+| Lesson 6 | Polynomial Operations: Addition, Subtraction, and Multiplication | MA.912.AR.1.3 | Quiz |
+| Lesson 7 | Dividing and Factoring Polynomial Expressions | MA.912.AR.1.4, MA.912.AR.1.7 | Quiz |
+| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all standards addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
 
-- Conceptual understanding  
-- Procedural fluency  
-- Real-world application  
+- conceptual understanding;
+- symbolic reasoning and equivalent forms;
+- procedural fluency;
+- interpretation in mathematical and real-world contexts.
 
-All assessment items are aligned to the B.E.S.T. standards and require students to identify and interpret parts of expressions and equations, view parts as single entities where appropriate, and rearrange equations or formulas to isolate a quantity of interest.
+All assessment items are aligned to the unit benchmarks and require students to generate equivalent forms, interpret parts of expressions and equations, isolate quantities of interest, and operate with polynomial expressions.
 
 ---
 
@@ -60,12 +63,12 @@ All assessment items are aligned to the B.E.S.T. standards and require students 
 
 Students are expected to demonstrate a minimum of **80% mastery** across all required components, including:
 
-- Notebook Evidence  
-- Checkpoints  
-- Quizzes  
-- Unit Assessment  
+- Notebook Evidence
+- Checkpoints
+- Quizzes
+- Unit Assessment
 
-Students are not advanced until mastery is achieved, ensuring foundational understanding is solid before progressing to solving equations and more complex algebraic concepts.
+Students are not advanced until mastery is achieved, ensuring foundational algebraic structure is secure before the course moves into linear modeling, inequalities, systems, and nonlinear function families.
 
 No single assessment determines mastery; students must demonstrate consistent performance across all components.
 
