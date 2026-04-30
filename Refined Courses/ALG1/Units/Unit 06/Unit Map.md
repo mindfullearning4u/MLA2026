@@ -6,7 +6,7 @@
 
 This unit integrates students’ understanding of algebraic concepts by applying linear, quadratic, and exponential models to real-world situations. Students analyze relationships between quantities, interpret solutions, and evaluate the appropriateness of mathematical models in context.
 
-Emphasis is placed on solving systems of equations and inequalities, interpreting data, and selecting and comparing mathematical models to represent real-world scenarios.
+Emphasis is placed on solving systems of linear equations and inequalities, interpreting data, and selecting and comparing mathematical models to represent real-world scenarios.
 
 ---
 
@@ -25,11 +25,11 @@ Emphasis is placed on solving systems of equations and inequalities, interpretin
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.2.1 | Solve linear equations in one variable. |
-| MA.912.AR.2.6 | Solve one-variable linear inequalities. |
-| MA.912.AR.3.1 | Solve quadratic equations in one variable. |
-| MA.912.F.1.2  | Interpret key features of graphs and tables in terms of the quantities they represent. |
-| MA.912.F.2.2  | Represent functions using tables, graphs, and equations. |
+| MA.912.AR.2.1 | Given a real-world context, write and solve one-variable multi-step linear equations. |
+| MA.912.AR.2.6 | Given a mathematical or real-world context, write and solve one-variable linear inequalities, including compound inequalities, and represent solutions. |
+| MA.912.AR.3.1 | Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real number system. |
+| MA.912.F.1.2  | Given a function represented in function notation, evaluate the function for an input in its domain. For a real-world context, interpret the output. |
+| MA.912.F.1.8  | Determine whether a linear, quadratic or exponential function best models a given real-world situation. |
 
 ---
 
@@ -38,10 +38,10 @@ Emphasis is placed on solving systems of equations and inequalities, interpretin
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Introduction to Systems of Linear Equations | MA.912.AR.4.1 | Quiz |
-| Lesson 2 | Solving Systems of Equations Algebraically | MA.912.AR.4.1 | Quiz |
-| Lesson 3 | Solving Systems of Equations Graphically | MA.912.AR.4.1 | Quiz |
-| Lesson 4 | Systems of Inequalities and Feasible Regions | MA.912.AR.4.2 | Quiz |
-| Lesson 5 | Interpreting Data and Choosing Models | MA.912.F.3.1 | Quiz |
+| Lesson 2 | Solving Systems of Linear Equations Algebraically | MA.912.AR.4.1 | Quiz |
+| Lesson 3 | Solving Systems of Linear Equations Graphically | MA.912.AR.4.1 | Quiz |
+| Lesson 4 | Systems of Linear Inequalities and Feasible Regions | MA.912.AR.4.2 | Quiz |
+| Lesson 5 | Interpreting Data and Selecting Models | MA.912.F.3.1, MA.912.F.3.2 | Quiz |
 | Lesson 6 | Comparing Linear, Quadratic, and Exponential Models | MA.912.F.3.2 | Quiz |
 | Lesson 7 | Modeling Real-World Situations Using Multiple Representations | MA.912.F.3.1, MA.912.F.3.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
@@ -57,7 +57,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Graphical and algebraic interpretation  
 - Real-world modeling  
 
-All assessment items require students to solve systems of equations and inequalities, analyze data, compare functions, select appropriate models, and interpret solutions and feasible regions within real-world contexts.
+All assessment items require students to solve systems of linear equations and inequalities, interpret feasible regions, analyze data, compare functions, select appropriate models, and interpret solutions within real-world contexts.
 
 ---
 
