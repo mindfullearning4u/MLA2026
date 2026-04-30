@@ -14,9 +14,9 @@ Emphasis is placed on understanding linear functions, interpreting rate of chang
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.1.1 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.2 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.F.1.3 | [INSERT EXACT OFFICIAL WORDING] |
+| MA.912.F.1.1 | Define a function as a relation from one set (domain) to another set (range) that assigns to each element of the domain exactly one element of the range. |
+| MA.912.F.1.2 | Interpret key features of graphs and tables in terms of the quantities they represent. |
+| MA.912.F.1.3 | Calculate and interpret the average rate of change of a function over a specified interval. |
 
 ---
 
@@ -24,9 +24,8 @@ Emphasis is placed on understanding linear functions, interpreting rate of chang
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.2.1 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.2.2 | [INSERT EXACT OFFICIAL WORDING] |
-| MA.912.AR.2.4 | [INSERT EXACT OFFICIAL WORDING] |
+| MA.912.AR.2.1 | Given a real-world context, write and solve one-variable multi-step linear equations. |
+| MA.912.AR.2.6 | Given a mathematical or real-world context, write and solve one-variable linear inequalities, including compound inequalities, and represent solutions. |
 
 ---
 
@@ -34,12 +33,12 @@ Emphasis is placed on understanding linear functions, interpreting rate of chang
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Introduction to Functions and Relations | MA.912.F.1.1 | Quiz |
+| Lesson 1 | Introduction to Functions | MA.912.F.1.1 | Quiz |
 | Lesson 2 | Identifying Functions from Tables and Graphs | MA.912.F.1.1, MA.912.F.1.2 | Quiz |
 | Lesson 3 | Representing Functions in Multiple Forms | MA.912.F.1.1, MA.912.F.1.2 | Quiz |
 | Lesson 4 | Interpreting Graphs and Key Features | MA.912.F.1.2 | Quiz |
 | Lesson 5 | Understanding Average Rate of Change and Slope | MA.912.F.1.3 | Quiz |
-| Lesson 6 | Building Linear Functions from Data | MA.912.F.1.2, MA.912.F.1.3 | Quiz |
+| Lesson 6 | Building and Interpreting Linear Functions from Data | MA.912.F.1.2, MA.912.F.1.3 | Quiz |
 | Lesson 7 | Interpreting Linear Models (Slope and Intercept) in Context | MA.912.F.1.2, MA.912.F.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
@@ -54,7 +53,7 @@ The Unit Assessment evaluates student mastery of all standards addressed in this
 - Graphical and numerical interpretation  
 - Real-world application  
 
-All assessment items require students to analyze and represent functions, interpret key features of graphs and tables, and calculate and interpret average rate of change.
+All assessment items require students to analyze and represent functions using tables, graphs, and equations, interpret key features, and calculate and interpret average rate of change.
 
 ---
 
