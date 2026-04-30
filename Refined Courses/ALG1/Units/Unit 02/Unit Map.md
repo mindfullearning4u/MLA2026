@@ -41,7 +41,7 @@ Emphasis is placed on understanding equations as balanced relationships, applyin
 | Lesson 4 | Solving Linear Inequalities | MA.912.AR.2.2 | Quiz |
 | Lesson 5 | Graphing and Interpreting Inequalities | MA.912.AR.2.2, MA.912.AR.2.4 | Quiz |
 | Lesson 6 | Solving and Interpreting Compound Inequalities | MA.912.AR.2.2, MA.912.AR.2.4 | Quiz |
-| Lesson 7 | Modeling and Interpreting Linear Relationships in Context | MA.912.AR.2.4 | Quiz |
+| Lesson 7 | Modeling and Interpreting Linear Equations and Inequalities in Context| MA.912.AR.2.4 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Standards | Unit Assessment |
 
 ---
