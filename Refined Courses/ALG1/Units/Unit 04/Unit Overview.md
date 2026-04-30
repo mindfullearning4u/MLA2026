@@ -8,6 +8,8 @@ This unit develops nonlinear reasoning through quadratic and absolute value equa
 
 Emphasis is placed on feature analysis, equivalent representations, contextual interpretation, and the relationship between algebraic forms and graphs.
 
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -41,7 +43,7 @@ Emphasis is placed on feature analysis, equivalent representations, contextual i
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Writing and Solving One-Variable Quadratic Equations | MA.912.AR.3.1 | Quiz |
-| Lesson 2 | Writing Quadratic Functions from Contexts, Tables, Graphs, and Intercepts | MA.912.AR.3.4, MA.912.AR.3.5 | Quiz |
+| Lesson 2 | Writing Quadratic Functions from Contexts, Tables, Graphs, and Given Conditions | MA.912.AR.3.4, MA.912.AR.3.5 | Quiz |
 | Lesson 3 | Determining and Interpreting the Vertex and Zeros of Quadratic Functions | MA.912.AR.3.6 | Quiz |
 | Lesson 4 | Graphing Quadratic Functions and Interpreting Key Features | MA.912.AR.3.7 | Quiz |
 | Lesson 5 | Solving and Graphing Quadratic Models in Context | MA.912.AR.3.8 | Quiz |
@@ -55,7 +57,7 @@ Emphasis is placed on feature analysis, equivalent representations, contextual i
 
 The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
 
-- nonlinear function representation;
+- nonlinear function representation and analysis;
 - feature interpretation;
 - graphing and transformation analysis;
 - contextual reasoning and constraints;
