@@ -22,7 +22,6 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | MA.912.AR.8.1 | Write and solve one-variable rational equations. Interpret solutions as viable in terms of the context and identify any extraneous solutions. |
 | MA.912.AR.8.2 | Given a table, equation or written description of a rational function, graph that function and determine its key features. |
 | MA.912.AR.8.3 | Solve and graph mathematical and real-world problems that are modeled with rational functions. Interpret key features and determine constraints in terms of the context. |
-| MA.912.F.3.2 | Given a mathematical or real-world context, combine two or more functions, limited to linear, quadratic, exponential and polynomial, using arithmetic operations. When appropriate, include domain restrictions for the new function. |
 
 ---
 
@@ -48,7 +47,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 4 | Solving Rational Equations with Viable and Extraneous Solutions | MA.912.AR.8.1 | Quiz |
 | Lesson 5 | Graphing Rational Functions and Interpreting Asymptotes and Key Features | MA.912.AR.8.2 | Quiz |
 | Lesson 6 | Modeling with Rational Functions and Inverse Proportional Relationships | MA.912.AR.8.3 | Quiz |
-| Lesson 7 | Function Operations with Domain Restrictions | MA.912.F.3.2 | Quiz |
+| Lesson 7 | Integrated Radical and Rational Function Analysis with Constraints | MA.912.AR.7.3, MA.912.AR.8.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
