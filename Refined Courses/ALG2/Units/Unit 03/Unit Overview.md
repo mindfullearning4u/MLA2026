@@ -18,7 +18,6 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 |--------------|----------------------|
 | MA.912.AR.6.1 | Given a mathematical or real-world context, when suitable factorization is possible, solve one-variable polynomial equations of degree 3 or higher over the real and complex number systems. |
 | MA.912.AR.6.2 | Explain and apply the Remainder Theorem to solve mathematical and real-world problems. |
-| MA.912.AR.6.4 | Given a table, equation or written description of a polynomial function of degree 3 or higher, graph that function and determine its key features. |
 | MA.912.AR.6.5 | Sketch a rough graph of a polynomial function of degree 3 or higher using zeros, multiplicity and knowledge of end behavior. |
 | MA.912.F.1.7 | Compare key features of two functions each represented algebraically, graphically, in tables or written descriptions. |
 | MA.912.F.1.9 | Determine whether a function is even, odd or neither when represented algebraically, graphically or in a table. |

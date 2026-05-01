@@ -20,6 +20,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | MA.912.NSO.1.5 | Add, subtract, multiply and divide algebraic expressions involving radicals. |
 | MA.912.NSO.2.1 | Extend previous understanding of the real number system to include the complex number system. Add, subtract, multiply and divide complex numbers. |
 | MA.912.AR.1.5 | Divide polynomial expressions using long division, synthetic division or algebraic manipulation. |
+| MA.912.AR.1.6 | Solve mathematical and real-world problems involving addition, subtraction, multiplication or division of polynomials. |
 | MA.912.AR.1.8 | Rewrite a polynomial expression as a product of polynomials over the real or complex number system. |
 | MA.912.AR.1.9 | Apply previous understanding of rational number operations to add, subtract, multiply and divide rational algebraic expressions. |
 

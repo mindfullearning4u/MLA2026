@@ -25,6 +25,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | MA.912.AR.5.9 | Solve and graph mathematical and real-world problems that are modeled with logarithmic functions. Interpret key features and determine constraints in terms of the context. |
 | MA.912.DP.2.9 | Fit an exponential function to bivariate numerical data that suggests an exponential association. Use the model to solve real-world problems in terms of the context of the data. |
 | MA.912.FL.3.1 | Compare simple, compound and continuously compounded interest over time. |
+| MA.912.FL.3.2 | Solve real-world problems involving simple, compound and continuously compounded interest. |
+| MA.912.FL.3.4 | Explain the relationship between simple interest and linear growth. Explain the relationship between compound interest and exponential growth and the relationship between continuously compounded interest and exponential growth. |
 
 ---
 
