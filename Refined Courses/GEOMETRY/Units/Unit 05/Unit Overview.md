@@ -4,11 +4,11 @@
 
 ## Unit Overview
 
-This unit develops circle reasoning through geometric theorems, constructions, measurement, and coordinate circle models. Students solve problems involving chords, secants, tangents, arcs, sectors, inscribed figures, inscribed and circumscribed circles of triangles, and equations of circles.
+This unit develops circle reasoning through geometric relationships, measurement, constructions, and coordinate modeling. Students solve problems involving chords, secants, tangents, arcs, sectors, inscribed figures, inscribed and circumscribed circles of triangles, and equations of circles.
 
 Emphasis is placed on circle diagrams, theorem selection, angle and arc relationships, segment-length relationships, sector measurement, completing the square, and interpreting circle key features in context.
 
-Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, proof, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through diagram interpretation, theorem application, and multi-step problem solving.
 
 ---
 
@@ -30,10 +30,10 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.GR.1.1 | Prove relationships and theorems about lines and angles. Solve mathematical and real-world problems involving postulates, relationships and theorems of lines and angles. |
-| MA.912.GR.1.3 | Prove relationships and theorems about triangles. Solve mathematical and real-world problems involving postulates, relationships and theorems of triangles. |
-| MA.912.GR.3.2 | Given a mathematical context, use coordinate geometry to classify or justify definitions, properties and theorems involving circles, triangles or quadrilaterals. |
-| MA.912.GR.3.3 | Use coordinate geometry to solve mathematical and real-world geometric problems involving lines, circles, triangles and quadrilaterals. |
+| MA.912.GR.1.1 | Prove relationships and theorems about lines and angles. |
+| MA.912.GR.1.3 | Prove relationships and theorems about triangles. |
+| MA.912.GR.3.2 | Use coordinate geometry to justify properties and relationships. |
+| MA.912.GR.3.3 | Solve geometric problems using coordinate methods. |
 
 ---
 
@@ -41,7 +41,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Circle Vocabulary, Chords, Secants, Tangents, and Segment Lengths | MA.912.GR.6.1 | Quiz |
+| Lesson 1 | Circle Vocabulary, Chords, Secants, Tangents, and Segment Relationships | MA.912.GR.6.1 | Quiz |
 | Lesson 2 | Arcs, Central Angles, Inscribed Angles, and Related Angle Measures | MA.912.GR.6.2 | Quiz |
 | Lesson 3 | Inscribed Triangles and Quadrilaterals | MA.912.GR.6.3 | Quiz |
 | Lesson 4 | Arc Length and Sector Area | MA.912.GR.6.4 | Quiz |
@@ -61,7 +61,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - construction and diagram reasoning;
 - coordinate circle modeling and interpretation.
 
-All assessment items are aligned to the unit benchmarks and require students to solve circle problems involving segments, arcs, angles, inscribed figures, arc length, sector area, triangle circle constructions, and equations of circles in mathematical and real-world contexts.
+Assessment items require students to solve problems involving circle segments, arcs, angles, inscribed figures, arc length, sector area, triangle circle constructions, and equations of circles in mathematical and real-world contexts.
 
 ---
 
@@ -79,6 +79,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit addresses circle theorems, circle measurement, and equations of circles. Students practice interpreting complex circle diagrams and connecting geometric key features to coordinate models.
+This unit develops circle theorem application, measurement reasoning, and coordinate modeling. Students interpret complex circle diagrams and connect geometric relationships to algebraic representations.
 
 ---
