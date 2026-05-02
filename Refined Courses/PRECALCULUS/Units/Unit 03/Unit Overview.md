@@ -4,9 +4,9 @@
 
 ## Unit Overview
 
-This unit develops trigonometric reasoning through angle measure, radians, unit circle representations, arc length, sector area, trigonometric ratios, inverse trigonometric ratios, and trigonometric functions. Students connect circular motion, coordinate representations, and function behavior.
+This unit develops trigonometric reasoning through angle measure, radians, unit circle representations, arc length, sector area, trigonometric ratios, inverse trigonometric ratios, and trigonometric functions. Students connect circular motion, coordinate representations, periodic behavior, and function analysis.
 
-Emphasis is placed on unit circle structure, radians, exact and approximate values, coordinate interpretation, domain and range, key features, inverse relationships, and real-world modeling.
+Emphasis is placed on unit circle structure, radians, exact and approximate values, coordinate interpretation, domain and range, key features, inverse relationships, periodic behavior, and real-world modeling.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through representation analysis, trigonometric modeling, and multi-step problem solving.
 
@@ -38,7 +38,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 Students are expected to have prior knowledge of:
 - right triangle trigonometric ratios;
 - coordinate plane representations;
-- circles, radius, diameter, circumference, and area;
+- circle properties and measurements;
 - function notation and graph interpretation;
 - proportional reasoning and equation solving.
 
@@ -56,7 +56,7 @@ These concepts support unit circle reasoning, trigonometric representation, and 
 | Lesson 4 | Six Trigonometric Ratios from Coordinate Representations | MA.912.T.2.1, MA.912.T.2.2 | Quiz |
 | Lesson 5 | Inverse Trigonometric Ratios and Applications | MA.912.T.2.3, MA.912.T.2.4 | Quiz |
 | Lesson 6 | Key Features, Domain, and Range of Trigonometric Functions | MA.912.T.2.5, MA.912.T.3.2, MA.912.T.3.3 | Quiz |
-| Lesson 7 | Modeling with Sine, Cosine, and Tangent Ratios | MA.912.T.3.1 | Quiz |
+| Lesson 7 | Modeling with Trigonometric Functions | MA.912.T.3.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -70,7 +70,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - trigonometric ratio reasoning;
 - trigonometric function analysis and modeling.
 
-Assessment items require students to convert angle measures, represent angles on the unit circle, determine coordinates and trigonometric ratios, solve problems involving inverse ratios, analyze key features of trigonometric functions, and model mathematical and real-world contexts.
+Assessment items require students to convert angle measures, represent angles on the unit circle, determine coordinates and trigonometric ratios, solve problems involving inverse ratios, analyze key features of trigonometric functions, and model periodic behavior in mathematical and real-world contexts.
 
 ---
 
