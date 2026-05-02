@@ -6,9 +6,9 @@
 
 This unit develops applied algebraic reasoning through linear equations, linear functions, inequalities, systems, constraints, exponential models, and piecewise relationships. Students write, solve, graph, and interpret models in mathematical and real-world contexts.
 
-Emphasis is placed on translating situations into algebraic models, interpreting key features and constraints, comparing viable options, and using algebra to support practical decisions. Algebraic procedures are connected to meaning, reasonableness, and context.
+Emphasis is placed on translating situations into algebraic models, interpreting key features and constraints, comparing viable options, and using algebra to support practical decisions. Students analyze how constraints affect possible outcomes and evaluate which solutions are reasonable and appropriate in context. Algebraic procedures are connected to meaning, reasonableness, and decision making rather than isolated symbolic practice.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through applied algebra, modeling, and real-world problem solving.
+Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through applied algebra, modeling, comparison of solutions, and real-world problem solving.
 
 ---
 
@@ -45,8 +45,8 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. Standards wi
 | Lesson 3 | Linear Function Models, Key Features, and Constraints | MA.912.AR.2.5 | Quiz |
 | Lesson 4 | Inequalities and Viable Solution Sets | MA.912.AR.2.6 | Quiz |
 | Lesson 5 | Systems of Linear Equations for Comparisons | MA.912.AR.9.1 | Quiz |
-| Lesson 6 | Systems of Constraints and Feasible Options | MA.912.AR.9.6 | Quiz |
-| Lesson 7 | Exponential and Piecewise Models in Context | MA.912.AR.5.7, MA.912.AR.9.10 | Quiz |
+| Lesson 6 | Systems of Constraints and Feasible Decision Regions | MA.912.AR.9.6 | Quiz |
+| Lesson 7 | Exponential and Piecewise Models in Real-World Contexts | MA.912.AR.5.7, MA.912.AR.9.10 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -58,9 +58,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - linear and exponential modeling;
 - constraints, inequalities, and systems;
-- interpretation of key features and viable solutions.
+- interpretation of key features and viable solutions;
+- comparison and evaluation of options.
 
-Assessment items require students to write, solve, graph, and interpret algebraic models in real-world contexts. Students must identify constraints, compare options, interpret key features, and justify whether solutions are reasonable and viable.
+Assessment items require students to write, solve, graph, and interpret algebraic models in real-world contexts. Students must identify constraints, compare possible outcomes, evaluate feasible solutions, and justify decisions based on model results and context.
 
 ---
 
@@ -78,6 +79,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects algebra to practical modeling. Students use equations, inequalities, systems, functions, and constraints to compare choices and solve multi-step problems grounded in real-world situations.
+This unit connects algebra to practical modeling and decision making. Students use equations, inequalities, systems, functions, and constraints to compare options, evaluate tradeoffs, and solve multi-step problems grounded in real-world situations.
 
 ---

@@ -6,9 +6,9 @@
 
 This unit develops data literacy through data displays, distributions, measures of center and variability, bivariate relationships, categorical data, and evaluation of statistical claims. Students interpret data in multiple representations and use statistical reasoning to evaluate conclusions.
 
-Emphasis is placed on selecting and interpreting displays, comparing data sets, recognizing variability and outliers, distinguishing correlation from causation, interpreting association, and evaluating reports based on data. Students focus on meaning, context, and evidence rather than isolated computation.
+Emphasis is placed on selecting and interpreting displays, comparing data sets, recognizing variability and outliers, distinguishing correlation from causation, interpreting association, and evaluating reports based on data. Students analyze the validity of conclusions, identify misleading representations, and recognize the limits of data-based claims. The focus is on meaning, context, and evidence rather than isolated computation or advanced model construction.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through data analysis, representation interpretation, and real-world problem solving.
+Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through data analysis, representation interpretation, evaluation of claims, and real-world problem solving.
 
 ---
 
@@ -49,9 +49,9 @@ These concepts support data interpretation, comparison, and evaluation of statis
 | Lesson 2 | Measures of Center, Variability, Shape, and Outliers | MA.912.DP.2.1 | Quiz |
 | Lesson 3 | Comparing Data Sets in Context | MA.912.DP.2.1 | Quiz |
 | Lesson 4 | Correlation, Causation, and Claims | MA.912.DP.1.3 | Quiz |
-| Lesson 5 | Linear Models for Bivariate Data | MA.912.DP.2.4, MA.912.DP.2.6 | Quiz |
+| Lesson 5 | Interpreting Linear Models and Associations | MA.912.DP.2.4, MA.912.DP.2.6 | Quiz |
 | Lesson 6 | Two-Way Tables and Categorical Associations | MA.912.DP.3.1, MA.912.DP.3.3 | Quiz |
-| Lesson 7 | Evaluating Data-Based Reports and Arguments | MA.912.DP.5.11 | Quiz |
+| Lesson 7 | Evaluating Data-Based Reports, Bias, and Misleading Claims | MA.912.DP.5.11 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -63,9 +63,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - data display selection and interpretation;
 - measures of center, variability, and distribution shape;
-- bivariate association and evaluation of statistical claims.
+- bivariate association and interpretation;
+- evaluation and justification of statistical claims.
 
-Assessment items require students to select and interpret data displays, compare numerical data sets, distinguish correlation from causation, interpret linear models and association, analyze categorical data, and evaluate real-world reports and data-based arguments.
+Assessment items require students to select and interpret data displays, compare numerical data sets, distinguish correlation from causation, interpret linear models and associations, analyze categorical data, evaluate real-world reports, and justify conclusions based on evidence.
 
 ---
 
@@ -83,6 +84,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit strengthens students' ability to interpret evidence. Students connect data displays, numerical summaries, association, and statistical claims to evaluate conclusions in real-world contexts.
+This unit strengthens students' ability to interpret and evaluate evidence. Students connect data displays, numerical summaries, association, and statistical reasoning to analyze claims, identify misleading information, and make informed conclusions in real-world contexts.
 
 ---

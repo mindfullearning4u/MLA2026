@@ -6,9 +6,9 @@
 
 This unit develops applied geometric reasoning through similarity, coordinate geometry, scale factors, area, volume, surface area, density, and right-triangle modeling. Students use geometric relationships and measurement formulas to solve mathematical and real-world problems.
 
-Emphasis is placed on interpreting diagrams, units, scale, dimensions, density, and reasonableness of results. Students use geometry as a modeling tool for practical contexts involving space, distance, design, construction, maps, and measurement.
+Emphasis is placed on interpreting diagrams, units, scale, dimensions, and density as ratios in context, evaluating reasonableness of results, and using geometry as a modeling tool for practical situations. Students analyze tradeoffs, compare design choices, and apply geometric reasoning to contexts involving space, distance, construction, mapping, and measurement under real-world constraints.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through measurement reasoning, spatial modeling, and real-world problem solving.
+Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through measurement reasoning, spatial modeling, comparison of solutions, and real-world problem solving.
 
 ---
 
@@ -48,7 +48,7 @@ These concepts support applied measurement, spatial reasoning, and geometric mod
 | Lesson 3 | Scale Factors, Dilations, Area, Surface Area, and Volume | MA.912.GR.4.3 | Quiz |
 | Lesson 4 | Area and Density in Two-Dimensional Contexts | MA.912.GR.4.4 | Quiz |
 | Lesson 5 | Volume and Density in Three-Dimensional Contexts | MA.912.GR.4.5 | Quiz |
-| Lesson 6 | Surface Area and Design Constraints | MA.912.GR.4.6 | Quiz |
+| Lesson 6 | Surface Area, Design Constraints, and Efficiency | MA.912.GR.4.6 | Quiz |
 | Lesson 7 | Right Triangle Measurement and Modeling | MA.912.T.1.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -61,9 +61,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - similarity, scale, and proportional reasoning;
 - coordinate and geometric measurement;
-- spatial modeling with area, volume, surface area, density, and right triangles.
+- spatial modeling with area, volume, surface area, density, and right triangles;
+- comparison and justification of design and modeling choices.
 
-Assessment items require students to solve applied problems involving similarity, coordinate geometry, scale effects, area, volume, surface area, density, and right-triangle relationships. Students must interpret units, evaluate reasonableness, and justify modeling decisions in context.
+Assessment items require students to solve applied problems involving similarity, coordinate geometry, scale effects, area, volume, surface area, density, and right-triangle relationships. Students must interpret units, evaluate reasonableness, compare alternatives, and justify modeling decisions in context.
 
 ---
 
@@ -81,6 +82,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit synthesizes measurement, scale, spatial reasoning, and modeling. Students apply geometric tools to practical situations and evaluate whether their answers make sense based on units, context, and constraints.
+This unit synthesizes measurement, scale, spatial reasoning, and modeling. Students apply geometric tools to practical situations, evaluate tradeoffs, compare solutions, and determine whether their answers make sense based on units, context, and constraints.
 
 ---

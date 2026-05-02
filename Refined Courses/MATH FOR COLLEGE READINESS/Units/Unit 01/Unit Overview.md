@@ -6,9 +6,9 @@
 
 This unit establishes the quantitative reasoning foundation for Math for College Readiness. Students solve real-world problems involving percentages, decimals, fractions, ratios, proportional relationships, weighted averages, formulas, function notation, and average rate of change.
 
-Emphasis is placed on interpreting quantities in context, selecting efficient strategies, using units and labels accurately, rearranging formulas only to isolate meaningful real-world quantities, and explaining what results mean. Algebraic manipulation is used as a tool for modeling and interpretation, not as isolated symbolic practice.
+Emphasis is placed on interpreting quantities in context, selecting efficient strategies, estimating and checking for reasonableness, using units and labels accurately, rearranging formulas only to isolate meaningful real-world quantities, and explaining what results mean. Algebraic manipulation is used as a tool for modeling and interpretation, not as isolated symbolic practice.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through quantitative reasoning, formula interpretation, and real-world problem solving.
+Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through quantitative reasoning, formula interpretation, estimation, and real-world problem solving.
 
 ---
 
@@ -46,7 +46,7 @@ These concepts support quantitative reasoning, formula use, and interpretation o
 | Lesson 2 | Percent, Decimal, and Fraction Reasoning in Context | MA.912.FL.1.1 | Quiz |
 | Lesson 3 | Ratios, Rates, and Proportional Relationships | MA.912.FL.1.2 | Quiz |
 | Lesson 4 | Weighted Averages and Decision Scores | MA.912.FL.1.3 | Quiz |
-| Lesson 5 | Formulas and Quantities of Interest | MA.912.AR.1.2 | Quiz |
+| Lesson 5 | Formulas and Quantities of Interest in Context | MA.912.AR.1.2 | Quiz |
 | Lesson 6 | Function Notation in Real-World Relationships | MA.912.F.1.2 | Quiz |
 | Lesson 7 | Average Rate of Change in Tables, Graphs, and Formulas | MA.912.F.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -59,10 +59,11 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - percent, ratio, and proportional reasoning;
-- weighted average interpretation;
-- formula use and function interpretation in context.
+- weighted average interpretation and decision making;
+- formula use and function interpretation in context;
+- estimation and reasonableness of results.
 
-Assessment items require students to solve real-world problems involving percentages, ratios, proportional relationships, weighted averages, formulas, function notation, and average rate of change. Students must interpret answers using appropriate units and explain whether results are reasonable in context.
+Assessment items require students to solve real-world problems involving percentages, ratios, proportional relationships, weighted averages, formulas, function notation, and average rate of change. Students must interpret answers using appropriate units, justify their reasoning, and explain whether results are reasonable in context.
 
 ---
 
@@ -80,6 +81,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit builds the quantitative reasoning habits used throughout the course. Students learn to identify relevant quantities, choose appropriate representations, use formulas as modeling tools, and justify conclusions in real-world contexts.
+This unit builds the quantitative reasoning habits used throughout the course. Students learn to identify relevant quantities, choose appropriate representations, use formulas as modeling tools, estimate and check results for reasonableness, and justify conclusions in real-world contexts.
 
 ---

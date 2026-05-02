@@ -6,9 +6,9 @@
 
 This unit develops financial reasoning through net worth, profit, cost, revenue, budgets, income tax, interest, credit, debt, insurance, and retirement savings. Students use spreadsheets and technology where appropriate to compare options and make informed financial decisions.
 
-Emphasis is placed on interpreting financial quantities, comparing short-term and long-term tradeoffs, understanding how interest and credit affect total cost, evaluating risk, and using data to support financial decisions. Financial mathematics is treated as rigorous applied modeling, not as isolated consumer arithmetic.
+Emphasis is placed on interpreting financial quantities, comparing short-term and long-term tradeoffs, understanding the time value of money, analyzing the effects of compounding over time, evaluating risk, and using data to support financial decisions. Students examine how financial choices impact long-term outcomes and develop strategies for sustainable financial planning. Financial mathematics is treated as rigorous applied modeling, not as isolated consumer arithmetic.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through financial modeling, data interpretation, and real-world problem solving.
+Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through financial modeling, data interpretation, comparison of options, and real-world problem solving.
 
 ---
 
@@ -46,12 +46,12 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. Standards wi
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Assets, Liabilities, Net Worth, and Financial Snapshots | MA.912.FL.2.1 | Quiz |
-| Lesson 2 | Profits, Costs, Revenues, and Break-Even Reasoning | MA.912.FL.2.2 | Quiz |
+| Lesson 2 | Profits, Costs, Revenues, Break-Even, and Decision Thresholds | MA.912.FL.2.2 | Quiz |
 | Lesson 3 | Budgets, Income, and Federal Income Tax | MA.912.FL.2.5, MA.912.FL.2.6 | Quiz |
 | Lesson 4 | Simple, Compound, and Continuously Compounded Interest | MA.912.FL.3.1, MA.912.FL.3.2 | Quiz |
-| Lesson 5 | Cash, Credit, Finance Charges, and Total Cost | MA.912.FL.3.5, MA.912.FL.3.6 | Quiz |
+| Lesson 5 | Comparing Cash, Credit, Finance Charges, and Total Cost | MA.912.FL.3.5, MA.912.FL.3.6 | Quiz |
 | Lesson 6 | Credit Scores and Debt Payoff Plans | MA.912.FL.3.10, MA.912.FL.3.11 | Quiz |
-| Lesson 7 | Insurance, Retirement Savings, and Long-Term Planning | MA.912.FL.4.1, MA.912.FL.4.4 | Quiz |
+| Lesson 7 | Insurance, Retirement Savings, and Long-Term Financial Planning | MA.912.FL.4.1, MA.912.FL.4.4 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -63,9 +63,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - financial calculation and interpretation;
 - spreadsheet-supported modeling;
-- comparison of financial options and tradeoffs.
+- comparison of financial options and tradeoffs;
+- evaluation of short-term and long-term financial decisions.
 
-Assessment items require students to calculate and interpret net worth, profits, costs, revenues, budgets, taxes, interest, finance charges, debt payoff plans, insurance costs, and retirement savings options. Students must justify financial decisions using evidence, context, and long-term consequences.
+Assessment items require students to calculate and interpret net worth, profits, costs, revenues, budgets, taxes, interest, finance charges, debt payoff plans, insurance costs, and retirement savings options. Students must compare alternatives, evaluate long-term impacts, and justify financial decisions using evidence, context, and projected outcomes.
 
 ---
 
@@ -83,6 +84,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects mathematical reasoning to financial decisions. Students use percent reasoning, algebraic models, spreadsheets, and interpretation to evaluate tradeoffs and make informed choices in personal and business contexts.
+This unit connects mathematical reasoning to financial decision making. Students use percent reasoning, exponential models, spreadsheets, and interpretation to evaluate tradeoffs, compare options, and make informed choices that consider both immediate needs and long-term financial outcomes.
 
 ---

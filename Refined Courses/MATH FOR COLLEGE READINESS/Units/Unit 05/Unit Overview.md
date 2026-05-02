@@ -6,7 +6,7 @@
 
 This unit develops probability reasoning for decision making. Students describe events and sample spaces, calculate and interpret conditional and empirical probabilities, apply probability rules, use counting methods, evaluate payoff values, compare risk and reward, and apply probability to fair decisions.
 
-Emphasis is placed on interpreting uncertainty, using probability rules in context, connecting two-way tables to empirical probability, and making decisions based on risk and evidence. Expected value is used as a decision-making tool for comparing strategies and payoff values in real-world contexts.
+Emphasis is placed on interpreting uncertainty, understanding variability in outcomes, using probability rules in context, connecting two-way tables to empirical probability, and making decisions based on risk and evidence. Students interpret probability as an informed expectation rather than a guaranteed outcome and analyze the limitations of probability models. Expected value is used as a decision-making tool for comparing strategies and payoff values in real-world contexts.
 
 Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through probability reasoning, risk interpretation, and real-world decision making.
 
@@ -45,7 +45,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. Standards wi
 | Lesson 2 | Conditional Probability in Context | MA.912.DP.4.3 | Quiz |
 | Lesson 3 | Empirical Probability from Two-Way Tables | MA.912.DP.4.5 | Quiz |
 | Lesson 4 | Addition and Multiplication Rules for Probability | MA.912.DP.4.7, MA.912.DP.4.8 | Quiz |
-| Lesson 5 | Counting Rules, Permutations, and Combinations | MA.912.DP.4.9, MA.912.DP.4.10 | Quiz |
+| Lesson 5 | Counting Methods in Probability Contexts | MA.912.DP.4.9, MA.912.DP.4.10 | Quiz |
 | Lesson 6 | Risk, Payoff Values, and Expected Value Decisions | MA.912.DP.6.7 | Quiz |
 | Lesson 7 | Fair Decisions and Probability-Based Strategies | MA.912.DP.6.8 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -59,9 +59,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - probability rules and event relationships;
 - empirical and conditional probability;
-- risk, payoff values, expected value, and fair decisions.
+- risk, payoff values, expected value, and fair decisions;
+- comparison of strategies under uncertainty.
 
-Assessment items require students to describe events, calculate and interpret probabilities, use empirical probability from two-way tables, apply addition and multiplication rules, use counting methods, compare strategies using payoff values and expected values, and justify fair decisions in real-world contexts.
+Assessment items require students to describe events, calculate and interpret probabilities, use empirical probability from two-way tables, apply addition and multiplication rules, use counting methods within probability contexts, compare strategies using payoff values and expected values, and justify decisions under uncertainty in real-world contexts.
 
 ---
 
@@ -79,6 +80,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects probability to practical decisions. Students use probability rules, empirical data, risk, payoff values, and fairness to evaluate strategies and justify decisions under uncertainty.
+This unit connects probability to practical decision making. Students use probability rules, empirical data, risk, payoff values, and fairness to evaluate strategies, compare outcomes, and justify decisions under conditions of uncertainty.
 
 ---

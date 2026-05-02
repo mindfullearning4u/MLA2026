@@ -4,11 +4,11 @@
 
 ## Course Overview
 
-Math for College Readiness develops students' ability to reason quantitatively, interpret real-world information, and apply mathematics to practical academic, personal, and career contexts. Students examine proportional reasoning, formulas, applied algebra, functions, data displays, statistical claims, financial decisions, probability, risk, measurement, and geometric modeling.
+Math for College Readiness develops students' ability to reason quantitatively, interpret real-world information, and apply mathematics to practical academic, personal, and career contexts. Students examine proportional reasoning, formulas in context, applied algebra, functions, data displays, statistical claims, financial decisions, probability, risk, measurement, and geometric modeling.
 
-The course is organized around competency-based progression. Students move through the course by demonstrating mastery of required instructional components, with emphasis on mathematical reasoning, real-world interpretation, appropriate representation, modeling, financial reasoning, data literacy, probability reasoning, and practical decision making.
+The course is organized around competency-based progression. Students move through the course by demonstrating mastery of required instructional components, with emphasis on quantitative reasoning, real-world interpretation, appropriate representation, modeling, financial reasoning, data literacy, probability reasoning, and decision making under constraints.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with a strong emphasis on mathematical reasoning, interpretation, justification, and application. Students engage in multi-step problem solving, representation interpretation, algebraic and geometric modeling, data analysis, financial decision making, and evaluation of mathematical claims. Students are expected to demonstrate both procedural fluency and deep conceptual understanding.
+Instruction and assessment are aligned to selected Florida B.E.S.T. Standards with a strong emphasis on mathematical reasoning, interpretation, justification, and application. Students engage in multi-step problem solving, interpretation of real-world data and representations, algebraic and geometric modeling, financial decision making, evaluation of statistical claims, and analysis of reasonableness of results. Students are expected to demonstrate both procedural fluency and deep conceptual understanding.
 
 ---
 
@@ -18,10 +18,10 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. Standards wi
 |------|------------|---------------|
 | Unit 01 | Quantitative Reasoning and Problem Solving | Percent, ratio, weighted average, formulas in context, function notation, and average rate of change |
 | Unit 02 | Algebra in Real-World Contexts | Linear equations, linear models, inequalities, systems, constraints, exponential models, and piecewise relationships |
-| Unit 03 | Data Literacy and Interpretation | Data displays, distributions, correlation and causation, bivariate models, categorical data, and evaluation of statistical claims |
+| Unit 03 | Data Literacy and Interpretation | Data displays, distributions, correlation and causation, bivariate models, categorical data, evaluation of statistical claims, and identifying misleading representations |
 | Unit 04 | Financial Literacy and Personal Finance | Net worth, budgets, income tax, interest, credit, debt, insurance, retirement savings, and financial tradeoffs |
-| Unit 05 | Probability and Decision Making | Sample spaces, conditional probability, empirical probability, probability rules, counting, risk, expected value, and fair decisions |
-| Unit 06 | Measurement, Modeling, and Applied Geometry | Similarity, coordinate geometry, scale factors, area, volume, surface area, density, and right-triangle modeling |
+| Unit 05 | Probability and Decision Making | Sample spaces, conditional probability, empirical probability, probability rules, counting, risk, expected value, and decision making under uncertainty |
+| Unit 06 | Measurement, Modeling, and Applied Geometry | Similarity, coordinate geometry, scale factors, area, volume, surface area, density, right-triangle modeling, and interpreting results for reasonableness and units |
 
 ---
 
