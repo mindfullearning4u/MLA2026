@@ -6,7 +6,7 @@
 
 This unit develops geometric and algebraic reasoning through complex numbers and conic sections. Students perform operations with complex numbers, represent complex numbers on the complex plane, use conjugates, apply transformations on the complex plane, describe conic sections from slices of cones, and derive, create, graph, and solve problems involving equations of circles, parabolas, ellipses, and hyperbolas.
 
-Emphasis is placed on complex number structure, geometric representation, transformations, key features of conics, equation forms, graph interpretation, and modeling relationships in context.
+Emphasis is placed on complex number structure, geometric representation, transformations, conic structure, equation forms, graph interpretation, and modeling relationships in context.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through algebraic analysis, geometric modeling, and multi-step problem solving.
 
@@ -36,13 +36,13 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 ## Prerequisite and Supporting Concepts
 
 Students are expected to have prior knowledge of:
-- operations with real numbers and radicals;
-- graphing equations on the coordinate plane;
+- real number operations and radicals;
+- graphing on the coordinate plane;
 - completing the square;
 - function transformations and key features;
 - coordinate geometry vocabulary.
 
-These concepts support complex number representation, conic equations, graph interpretation, and geometric modeling in this unit.
+These concepts support complex number representation, conic equations, graph interpretation, and geometric modeling.
 
 ---
 
@@ -53,10 +53,10 @@ These concepts support complex number representation, conic equations, graph int
 | Lesson 1 | Complex Number Operations | MA.912.NSO.2.2 | Quiz |
 | Lesson 2 | Complex Plane Representations and Conjugates | MA.912.NSO.2.3, MA.912.NSO.2.4, MA.912.NSO.2.5 | Quiz |
 | Lesson 3 | Transformations on the Complex Plane | MA.912.NSO.2.6 | Quiz |
-| Lesson 4 | Conic Sections from Cones and Equations of Circles | MA.912.GR.7.1, MA.912.GR.7.2, MA.912.GR.7.3 | Quiz |
-| Lesson 5 | Parabolas: Equations, Graphs, and Key Features | MA.912.GR.7.4, MA.912.GR.7.7 | Quiz |
-| Lesson 6 | Ellipses: Equations, Graphs, and Key Features | MA.912.GR.7.5, MA.912.GR.7.8 | Quiz |
-| Lesson 7 | Hyperbolas: Equations, Graphs, and Key Features | MA.912.GR.7.6, MA.912.GR.7.9 | Quiz |
+| Lesson 4 | Conic Sections from Cones | MA.912.GR.7.1 | Quiz |
+| Lesson 5 | Circles: Equations, Graphs, and Key Features | MA.912.GR.7.2, MA.912.GR.7.3 | Quiz |
+| Lesson 6 | Parabolas: Equations, Graphs, and Key Features | MA.912.GR.7.4, MA.912.GR.7.7 | Quiz |
+| Lesson 7 | Ellipses and Hyperbolas: Equations, Graphs, and Key Features | MA.912.GR.7.5, MA.912.GR.7.6, MA.912.GR.7.8, MA.912.GR.7.9 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -67,10 +67,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - complex number operations and geometric representation;
-- conic section equation development;
-- graph interpretation, key features, and modeling.
+- conic structure and equation development;
+- graph interpretation and modeling.
 
-Assessment items require students to operate with complex numbers, represent complex numbers geometrically, apply transformations on the complex plane, describe conic sections from cones, derive and create conic equations, graph conics, solve conic-model problems, and interpret key features in context.
+Assessment items require students to operate with complex numbers, represent complex numbers geometrically, apply transformations, describe conic sections from cones, derive conic equations, graph conics, solve modeling problems, and interpret key features.
 
 ---
 
@@ -88,6 +88,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects algebraic structure to geometric representation. Students use equations, graphs, complex-plane reasoning, and conic key features to model and interpret advanced mathematical relationships.
+This unit connects algebraic structure to geometric representation. Students use equations, graphs, complex-plane reasoning, and conic features to model and interpret advanced relationships.
 
 ---
