@@ -8,7 +8,7 @@ Geometry develops students' spatial reasoning, logical reasoning, and ability to
 
 The course is organized around competency-based progression. Students move through the course by demonstrating mastery of required instructional components, with emphasis on diagrams and spatial reasoning, precise mathematical vocabulary, proof, coordinate methods, and real-world modeling.
 
-Instruction and assessment are aligned to Florida B.E.S.T. Standards with a strong emphasis on mathematical reasoning, structure, justification, and application. Students engage in multi-step problem solving, diagram analysis, algebraic modeling, real-world application, and formal and informal proof. Students are expected to demonstrate both procedural fluency and deep conceptual understanding.
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with a strong emphasis on mathematical reasoning, structure, justification, and application. Students engage in multi-step problem solving, diagram interpretation, algebraic and geometric modeling, real-world application, and formal and informal proof. Students are expected to demonstrate both procedural fluency and deep conceptual understanding.
 
 ---
 
@@ -18,7 +18,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with a stro
 |------|------------|---------------|
 | Unit 01 | Foundations of Geometry and Reasoning | Lines, angles, constructions, logical reasoning, counterexamples, and introductory proof |
 | Unit 02 | Transformations, Congruence, and Proof | Rigid transformations, coordinate rules, congruence, and triangle congruence proof |
-| Unit 03 | Parallel Lines, Triangles, and Similarity | Parallel relationships, triangle theorems, similarity, proportional reasoning, and introduction to right triangle trigonometry |
+| Unit 03 | Parallel Lines, Triangles, and Similarity | Parallel relationships, triangle theorems, similarity, proportional reasoning, and application of right triangle trigonometry |
 | Unit 04 | Coordinate Geometry and Quadrilaterals | Coordinate proofs, slope relationships, distance and midpoint, polygons on the coordinate plane, and quadrilateral classification |
 | Unit 05 | Circles and Geometric Relationships | Circle theorems, arcs, sectors, inscribed figures, and equations of circles |
 | Unit 06 | Area, Surface Area, Volume, and Modeling | Scale factors, cross-sections, area, surface area, volume, and real-world geometric modeling |
