@@ -77,9 +77,8 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ---
 
-## SAT/EOC Readiness Connection
+## Problem-Solving Connection
 
-This unit supports Geometry EOC readiness by addressing circle theorems, circle measurement, and equations of circles. Students practice interpreting complex circle diagrams and connecting geometric key features to coordinate models.
+This unit addresses circle theorems, circle measurement, and equations of circles. Students practice interpreting complex circle diagrams and connecting geometric key features to coordinate models.
 
 ---
-

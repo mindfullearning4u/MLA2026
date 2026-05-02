@@ -74,9 +74,8 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ---
 
-## SAT/EOC Readiness Connection
+## Problem-Solving Connection
 
-This unit supports Geometry EOC readiness by establishing the proof, diagram, line, angle, vocabulary, and reasoning expectations that recur throughout the course. Students build habits of precision needed for multi-step geometric arguments and diagram-based assessment items.
+This unit establishes the proof, diagram, line, angle, vocabulary, and reasoning expectations that recur throughout the course. Students build habits of precision needed for multi-step geometric arguments and diagram-based problem solving.
 
 ---
-

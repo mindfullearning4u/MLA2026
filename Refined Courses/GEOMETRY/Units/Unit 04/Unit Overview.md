@@ -76,9 +76,8 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ---
 
-## SAT/EOC Readiness Connection
+## Problem-Solving Connection
 
-This unit supports Geometry EOC readiness by emphasizing coordinate proof, quadrilateral properties, and geometric modeling on the coordinate plane. Students connect algebraic tools to geometric reasoning across multiple representations.
+This unit emphasizes coordinate proof, quadrilateral properties, and geometric modeling on the coordinate plane. Students connect algebraic tools to geometric reasoning across multiple representations.
 
 ---
-

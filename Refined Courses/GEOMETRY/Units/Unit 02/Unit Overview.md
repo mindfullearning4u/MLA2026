@@ -76,9 +76,8 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ---
 
-## SAT/EOC Readiness Connection
+## Problem-Solving Connection
 
-This unit supports Geometry EOC readiness by connecting coordinate transformations, congruence, and proof. Students practice interpreting diagrams and transformation rules, a recurring expectation in standards-based Geometry assessment.
+This unit connects coordinate transformations, congruence, and proof. Students practice interpreting diagrams and transformation rules as part of standards-based Geometry problem solving.
 
 ---
-

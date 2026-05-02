@@ -139,14 +139,13 @@ This tracker establishes a single standards source of truth for `GEOMETRY` using
 - Supporting and prerequisite references may recur in unit overview files, but primary placement remains fixed here.
 - Unit titles accurately reflect the standards grouped within them.
 - The progression moves from foundational reasoning and proof language to transformations, triangle similarity, coordinate proof, circles, and measurement modeling.
-- The benchmark set supports Florida high school Geometry expectations and Geometry EOC readiness.
+- The benchmark set supports Florida high school Geometry expectations, academic credibility, and standards-based problem solving.
 
 ## Careful Placement Notes
 
 - `MA.912.T.1.1` and `MA.912.T.1.2` are placed in Unit 03 because right triangle trigonometry depends on similarity and triangle reasoning.
 - `MA.912.GR.7.2` and `MA.912.GR.7.3` are placed in Unit 05 because Geometry course circle equations are limited to circle key features and circle modeling.
-- `MA.912.GR.3.4` is placed in Unit 04 because it uses coordinate geometry, while it also supports Unit 06 measurement readiness.
+- `MA.912.GR.3.4` is placed in Unit 04 because it uses coordinate geometry, while it also supports Unit 06 measurement and modeling.
 - `MA.912.GR.5.1` and `MA.912.GR.5.2` are placed in Unit 01 as foundational construction tools; `MA.912.GR.5.3` is placed in Unit 05 because it specifically concerns triangle circle constructions.
 
 ---
-

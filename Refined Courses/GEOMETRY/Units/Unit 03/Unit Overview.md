@@ -75,9 +75,8 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ---
 
-## SAT/EOC Readiness Connection
+## Problem-Solving Connection
 
-This unit supports Geometry EOC readiness through triangle theorem applications, similarity reasoning, and right triangle trigonometry. These topics are central to diagram-based problem solving and real-world Geometry modeling.
+This unit develops triangle theorem applications, similarity reasoning, and right triangle trigonometry. These topics are central to diagram-based problem solving and real-world Geometry modeling.
 
 ---
-

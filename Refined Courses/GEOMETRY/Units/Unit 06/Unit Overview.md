@@ -76,9 +76,8 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ---
 
-## SAT/EOC Readiness Connection
+## Problem-Solving Connection
 
-This unit supports Geometry EOC readiness by synthesizing measurement, scale, spatial reasoning, and real-world modeling. Students apply formulas, interpret units, and evaluate reasonableness across two-dimensional and three-dimensional contexts.
+This unit synthesizes measurement, scale, spatial reasoning, and real-world modeling. Students apply formulas, interpret units, and evaluate reasonableness across two-dimensional and three-dimensional contexts.
 
 ---
-
