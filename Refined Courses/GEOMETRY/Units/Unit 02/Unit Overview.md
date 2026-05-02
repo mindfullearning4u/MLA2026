@@ -8,7 +8,7 @@ This unit develops transformation-based reasoning and triangle congruence proof.
 
 Emphasis is placed on coordinate rules, accurate diagrams, rigid motion, congruence criteria, and proof structures that connect transformations to triangle congruence.
 
-Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, proof, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, proof, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through diagram interpretation, coordinate modeling, and justification.
 
 ---
 
@@ -29,10 +29,9 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.GR.1.1 | Prove relationships and theorems about lines and angles. Solve mathematical and real-world problems involving postulates, relationships and theorems of lines and angles. |
-| MA.912.GR.1.6 | Solve mathematical and real-world problems involving congruence or similarity in two-dimensional figures. |
-| MA.912.LT.4.3 | Identify and accurately interpret "if...then," "if and only if," "all" and "not" statements. Find the converse, inverse and contrapositive of a statement. |
-| MA.912.LT.4.10 | Judge the validity of arguments and give counterexamples to disprove statements. |
+| MA.912.GR.1.1 | Prove relationships and theorems about lines and angles. |
+| MA.912.LT.4.3 | Interpret conditional statements and logical structures. |
+| MA.912.LT.4.10 | Evaluate arguments and use counterexamples. |
 
 ---
 
@@ -40,12 +39,12 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Translations, Reflections, Rotations, and Dilations on the Coordinate Plane | MA.912.GR.2.1 | Quiz |
+| Lesson 1 | Translations, Reflections, and Rotations on the Coordinate Plane | MA.912.GR.2.1 | Quiz |
 | Lesson 2 | Distance Preservation and Rigid Transformations | MA.912.GR.2.2 | Quiz |
 | Lesson 3 | Drawing Images from Transformation Sequences | MA.912.GR.2.5 | Quiz |
 | Lesson 4 | Mapping Figures Using Sequences of Transformations | MA.912.GR.2.3 | Quiz |
 | Lesson 5 | Justifying Congruence with Rigid Transformations | MA.912.GR.2.6 | Quiz |
-| Lesson 6 | Triangle Congruence Criteria | MA.912.GR.1.2 | Quiz |
+| Lesson 6 | Triangle Congruence Criteria (SSS, SAS, ASA, AAS, HL) | MA.912.GR.1.2 | Quiz |
 | Lesson 7 | Triangle Congruence Proofs and Transformation Connections | MA.912.GR.1.2, MA.912.GR.2.6 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -60,7 +59,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - spatial reasoning with preimages and images;
 - congruence proof and justification.
 
-All assessment items are aligned to the unit benchmarks and require students to describe, draw, and apply transformations; identify distance-preserving transformations; map figures using transformation sequences; and justify triangle congruence using rigid transformations and congruence criteria.
+Assessment items require students to describe, draw, and apply transformations; distinguish between rigid and non-rigid transformations; map figures using transformation sequences; and justify triangle congruence using rigid transformations and congruence criteria.
 
 ---
 
@@ -78,6 +77,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects coordinate transformations, congruence, and proof. Students practice interpreting diagrams and transformation rules as part of standards-based Geometry problem solving.
+This unit connects coordinate transformations, congruence, and proof. Students develop the ability to interpret diagrams, apply transformation rules, and construct logical justifications as part of multi-step geometric problem solving.
 
 ---
