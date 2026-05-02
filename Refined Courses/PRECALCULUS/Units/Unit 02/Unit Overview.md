@@ -1,12 +1,12 @@
-# PRECALCULUS - Unit 02 Overview: Polynomial, Rational, Exponential, and Logarithmic Functions
+# PRECALCULUS - Unit 02 Overview: Polynomial and Rational Functions with Exponential and Logarithmic Modeling
 
 ---
 
 ## Unit Overview
 
-This unit develops advanced algebraic function reasoning through polynomial, rational, exponential, and logarithmic relationships. Students factor polynomial expressions, determine roots and factors, analyze polynomial transformations, solve rational equations, and solve exponential equations using exponent properties and logarithms.
+This unit develops advanced algebraic function reasoning with emphasis on polynomial and rational functions, supported by exponential and logarithmic modeling. Students factor polynomial expressions, determine roots and factors, analyze polynomial transformations, solve rational equations, and solve exponential equations using exponent properties and logarithms.
 
-Emphasis is placed on algebraic structure, graph interpretation, transformations, constraints, equivalent forms, equation-solving strategies, and real-world modeling.
+Emphasis is placed on algebraic structure, graph interpretation, transformations, constraints, equivalent forms, equation-solving strategies, and selecting appropriate function models in mathematical and real-world contexts.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through algebraic analysis, function interpretation, and multi-step problem solving.
 
@@ -45,7 +45,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 4 | Rational Equations in Mathematical and Real-World Contexts | MA.912.AR.8.3 | Quiz |
 | Lesson 5 | Exponential Equations Using Properties of Exponents | MA.912.AR.5.7 | Quiz |
 | Lesson 6 | Exponential Equations Using Common and Natural Logarithms | MA.912.AR.5.9 | Quiz |
-| Lesson 7 | Integrated Polynomial, Rational, Exponential, and Logarithmic Modeling | MA.912.AR.5.7, MA.912.AR.5.9, MA.912.AR.6.4, MA.912.AR.8.3 | Quiz |
+| Lesson 7 | Integrated Function Modeling Across Polynomial, Rational, Exponential, and Logarithmic Functions | MA.912.AR.5.7, MA.912.AR.5.9, MA.912.AR.6.4, MA.912.AR.8.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -57,9 +57,9 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - algebraic structure and equivalent forms;
 - polynomial, rational, exponential, and logarithmic equation solving;
-- function transformation and modeling interpretation.
+- function transformation and model selection.
 
-Assessment items require students to factor polynomials, determine roots and factors, interpret transformations, solve rational equations, write and solve exponential equations, use logarithms appropriately, and interpret solutions in mathematical and real-world contexts.
+Assessment items require students to factor polynomials, determine roots and factors, interpret transformations, solve rational equations, write and solve exponential equations, apply logarithms, and select appropriate function models in real-world contexts.
 
 ---
 
@@ -77,6 +77,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit strengthens algebraic fluency and model interpretation across major function families. Students connect symbolic manipulation, graphical behavior, restrictions, and real-world meaning when solving multi-step problems.
+This unit strengthens algebraic fluency and function selection across major function families. Students connect symbolic manipulation, graphical behavior, domain restrictions, and real-world meaning when solving multi-step problems.
 
 ---
