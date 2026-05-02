@@ -18,7 +18,7 @@ This tracker establishes a single standards source of truth for `PRECALCULUS` us
 | MA.912.AR.5.9 | Given a real-world context, write and solve one-variable exponential equations using common logarithms or natural logarithms. | Algebraic Reasoning |
 | MA.912.AR.6.3 | Factor polynomial expressions over the real numbers. | Algebraic Reasoning |
 | MA.912.AR.6.4 | Given a polynomial equation of degree 3 or higher, determine roots and factors. | Algebraic Reasoning |
-| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of f(x). | Algebraic Reasoning |
+| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of 𝑓(𝑥). | Algebraic Reasoning |
 | MA.912.AR.7.4 | Solve and graph mathematical and real-world problems that are modeled with radical functions. Interpret key features and determine constraints in terms of the context. | Algebraic Reasoning |
 | MA.912.AR.8.3 | Given a mathematical or real-world context, solve rational equations in one variable. | Algebraic Reasoning |
 | MA.912.AR.9.3 | Given a mathematical or real-world context, solve a system consisting of two-variable linear or non-linear equations algebraically or graphically. | Algebraic Reasoning |
@@ -60,14 +60,14 @@ This tracker establishes a single standards source of truth for `PRECALCULUS` us
 | MA.912.NSO.3.9 | Given a mathematical or real-world context, solve problems involving two-dimensional vectors. | Number Sense and Operations |
 | MA.912.T.1.3 | Apply the Law of Sines and the Law of Cosines to solve mathematical and real-world problems involving triangles. | Trigonometry |
 | MA.912.T.1.4 | Solve mathematical problems involving finding the area of a triangle given two sides and the included angle. | Trigonometry |
-| MA.912.T.1.5 | Define the parts of a circle in terms of angles. Define the arc length and area of a sector in terms of theta, the central angle. | Trigonometry |
+| MA.912.T.1.5 | Define the parts of a circle in terms of angles. Define the arc length and area of a sector in terms of 𝜃, the central angle. | Trigonometry |
 | MA.912.T.1.6 | Given a circle on the coordinate plane, find the length of an arc and the area of a sector. | Trigonometry |
 | MA.912.T.1.7 | Define the unit circle and represent angles on the unit circle in terms of radians. | Trigonometry |
 | MA.912.T.1.8 | Represent the unit circle on the coordinate plane and determine the coordinates of any angle on the unit circle. | Trigonometry |
 | MA.912.T.2.1 | Define and use the trigonometric ratios, sine, cosine, tangent, cosecant, secant and cotangent in terms of x, y and r. | Trigonometry |
 | MA.912.T.2.2 | Given a unit circle or coordinate representation, determine the value of the six trigonometric ratios. | Trigonometry |
 | MA.912.T.2.3 | Given the value of a trigonometric ratio, solve mathematical and real-world problems involving trigonometric ratios or their inverses. | Trigonometry |
-| MA.912.T.2.4 | Define and use the inverse trigonometric ratios, sin^-1 x, cos^-1 x and tan^-1 x. | Trigonometry |
+| MA.912.T.2.4 | Define and use the inverse trigonometric ratios, sin−1 𝑥, cos−1 𝑥 and tan−1 𝑥. | Trigonometry |
 | MA.912.T.2.5 | Given an expression or equation representing a trigonometric function, determine its key features. | Trigonometry |
 | MA.912.T.3.1 | Solve mathematical and real-world problems involving the sine, cosine and tangent ratios using technology. | Trigonometry |
 | MA.912.T.3.2 | Given a mathematical or real-world context, determine and interpret the domain and range of a trigonometric function. | Trigonometry |
@@ -99,7 +99,7 @@ This tracker establishes a single standards source of truth for `PRECALCULUS` us
 | MA.912.NSO.3.2 | Given a mathematical or real-world context, solve systems of equations using matrices. | Unit 01 | Lesson 7 | Primary | Matrix methods support systems work. |
 | MA.912.AR.6.3 | Factor polynomial expressions over the real numbers. | Unit 02 | Lesson 1 | Primary | Polynomial structure. |
 | MA.912.AR.6.4 | Given a polynomial equation of degree 3 or higher, determine roots and factors. | Unit 02 | Lessons 2, 7 | Primary | Roots and factors. |
-| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of f(x). | Unit 02 | Lesson 3 | Primary | Polynomial transformations. |
+| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of 𝑓(𝑥). | Unit 02 | Lesson 3 | Primary | Polynomial transformations. |
 | MA.912.AR.8.3 | Given a mathematical or real-world context, solve rational equations in one variable. | Unit 02 | Lessons 4, 7 | Primary | Rational equation solving. |
 | MA.912.AR.5.7 | Given a mathematical or real-world context, write and solve one-variable exponential equations using the properties of exponents. | Unit 02 | Lessons 5, 7 | Primary | Exponential equations using exponent properties. |
 | MA.912.AR.5.9 | Given a real-world context, write and solve one-variable exponential equations using common logarithms or natural logarithms. | Unit 02 | Lessons 6-7 | Primary | Logarithmic solution methods for exponential equations. |
@@ -107,12 +107,12 @@ This tracker establishes a single standards source of truth for `PRECALCULUS` us
 | MA.912.T.4.2 | Given an angle measure in radians, determine the measure of the angle in degrees and vice versa. | Unit 03 | Lesson 1 | Primary | Angle measure conversion. |
 | MA.912.T.1.7 | Define the unit circle and represent angles on the unit circle in terms of radians. | Unit 03 | Lesson 2 | Primary | Unit circle foundation. |
 | MA.912.T.1.8 | Represent the unit circle on the coordinate plane and determine the coordinates of any angle on the unit circle. | Unit 03 | Lesson 2 | Primary | Coordinate unit circle reasoning. |
-| MA.912.T.1.5 | Define the parts of a circle in terms of angles. Define the arc length and area of a sector in terms of theta, the central angle. | Unit 03 | Lesson 3 | Primary | Circle measure in trigonometric terms. |
+| MA.912.T.1.5 | Define the parts of a circle in terms of angles. Define the arc length and area of a sector in terms of 𝜃, the central angle. | Unit 03 | Lesson 3 | Primary | Circle measure in trigonometric terms. |
 | MA.912.T.1.6 | Given a circle on the coordinate plane, find the length of an arc and the area of a sector. | Unit 03 | Lesson 3 | Primary | Arc and sector applications. |
 | MA.912.T.2.1 | Define and use the trigonometric ratios, sine, cosine, tangent, cosecant, secant and cotangent in terms of x, y and r. | Unit 03 | Lesson 4 | Primary | Six trigonometric ratios. |
 | MA.912.T.2.2 | Given a unit circle or coordinate representation, determine the value of the six trigonometric ratios. | Unit 03 | Lesson 4 | Primary | Ratio values from representations. |
 | MA.912.T.2.3 | Given the value of a trigonometric ratio, solve mathematical and real-world problems involving trigonometric ratios or their inverses. | Unit 03 | Lesson 5 | Primary | Inverse ratio applications. |
-| MA.912.T.2.4 | Define and use the inverse trigonometric ratios, sin^-1 x, cos^-1 x and tan^-1 x. | Unit 03 | Lesson 5 | Primary | Inverse trigonometric ratios. |
+| MA.912.T.2.4 | Define and use the inverse trigonometric ratios, sin−1 𝑥, cos−1 𝑥 and tan−1 𝑥. | Unit 03 | Lesson 5 | Primary | Inverse trigonometric ratios. |
 | MA.912.T.2.5 | Given an expression or equation representing a trigonometric function, determine its key features. | Unit 03 | Lesson 6 | Primary | Trigonometric function features. |
 | MA.912.T.3.2 | Given a mathematical or real-world context, determine and interpret the domain and range of a trigonometric function. | Unit 03 | Lesson 6 | Primary | Domain and range interpretation. |
 | MA.912.T.3.3 | Given a mathematical or real-world context, determine and interpret key features of a trigonometric function. | Unit 03 | Lesson 6 | Primary | Contextual feature interpretation. |

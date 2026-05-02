@@ -20,7 +20,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | MA.912.AR.5.9 | Given a real-world context, write and solve one-variable exponential equations using common logarithms or natural logarithms. |
 | MA.912.AR.6.3 | Factor polynomial expressions over the real numbers. |
 | MA.912.AR.6.4 | Given a polynomial equation of degree 3 or higher, determine roots and factors. |
-| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of f(x). |
+| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of 𝑓(𝑥). |
 | MA.912.AR.8.3 | Given a mathematical or real-world context, solve rational equations in one variable. |
 
 ---
