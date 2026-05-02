@@ -16,12 +16,12 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.5.7 | Given a mathematical or real-world context, write and solve one-variable exponential equations using the properties of exponents. |
-| MA.912.AR.5.9 | Given a real-world context, write and solve one-variable exponential equations using common logarithms or natural logarithms. |
-| MA.912.AR.6.3 | Factor polynomial expressions over the real numbers. |
-| MA.912.AR.6.4 | Given a polynomial equation of degree 3 or higher, determine roots and factors. |
-| MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of 𝑓(𝑥). |
-| MA.912.AR.8.3 | Given a mathematical or real-world context, solve rational equations in one variable. |
+| MA.912.AR.5.7 | |
+| MA.912.AR.5.9 | |
+| MA.912.AR.6.3 | |
+| MA.912.AR.6.4 | |
+| MA.912.AR.6.6 | |
+| MA.912.AR.8.3 | |
 
 ---
 
@@ -29,9 +29,9 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.1.7 | Compare key features of two functions each represented algebraically, graphically, in tables or written descriptions. |
-| MA.912.F.3.9 | Given a table, equation or written description of a function, graph that function, and determine and interpret its key features. |
-| MA.912.F.3.7 | Represent the inverse of a function algebraically, graphically or in a table. Use composition of functions to verify that one function is the inverse of the other. |
+| MA.912.F.1.7 | |
+| MA.912.F.3.9 | |
+| MA.912.F.3.7 | |
 
 ---
 

@@ -16,13 +16,13 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.T.1.3 | Apply the Law of Sines and the Law of Cosines to solve mathematical and real-world problems involving triangles. |
-| MA.912.T.1.4 | Solve mathematical problems involving finding the area of a triangle given two sides and the included angle. |
-| MA.912.T.4.3 | Apply the Pythagorean identity to solve mathematical and real-world problems involving trigonometric ratios. |
-| MA.912.T.4.4 | Solve trigonometric equations for solutions on a given interval, using technology as appropriate. |
-| MA.912.T.4.5 | Prove the addition, subtraction, double-angle and half-angle formulas for sine, cosine and tangent. |
-| MA.912.T.4.6 | Apply the addition, subtraction, double-angle and half-angle formulas for sine, cosine and tangent to solve problems. |
-| MA.912.T.4.7 | Solve trigonometric equations using identities or formulas. |
+| MA.912.T.1.3 | |
+| MA.912.T.1.4 | |
+| MA.912.T.4.3 | |
+| MA.912.T.4.4 | |
+| MA.912.T.4.5 | |
+| MA.912.T.4.6 | |
+| MA.912.T.4.7 | |
 
 ---
 
@@ -30,10 +30,10 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.T.1.7 | Define the unit circle and represent angles on the unit circle in terms of radians. |
-| MA.912.T.2.1 | Define and use the trigonometric ratios, sine, cosine, tangent, cosecant, secant and cotangent in terms of x, y and r. |
-| MA.912.T.2.2 | Given a unit circle or coordinate representation, determine the value of the six trigonometric ratios. |
-| MA.912.T.3.3 | Given a mathematical or real-world context, determine and interpret key features of a trigonometric function. |
+| MA.912.T.1.7 | |
+| MA.912.T.2.1 | |
+| MA.912.T.2.2 | |
+| MA.912.T.3.3 | |
 
 ---
 

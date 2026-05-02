@@ -16,20 +16,20 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.NSO.2.2 | Add, subtract and multiply complex numbers. |
-| MA.912.NSO.2.3 | Identify the real and imaginary parts of a complex number and represent it on the complex plane. |
-| MA.912.NSO.2.4 | Determine and represent the conjugate of a complex number and its arithmetic effect on the complex number. |
-| MA.912.NSO.2.5 | Add, subtract and multiply complex numbers and represent them geometrically on the complex plane. |
-| MA.912.NSO.2.6 | Apply transformations on the complex plane. |
-| MA.912.GR.7.1 | Given a conic section, describe how it can result from the slicing of two cones. |
-| MA.912.GR.7.2 | Given a mathematical or real-world context, derive and create the equation of a circle using key features. |
-| MA.912.GR.7.3 | Graph and solve mathematical and real-world problems that are modeled with an equation of a circle. Determine and interpret key features in terms of the context. |
-| MA.912.GR.7.4 | Given a mathematical or real-world context, derive and create the equation of a parabola using key features. |
-| MA.912.GR.7.5 | Given a mathematical or real-world context, derive and create the equation of an ellipse using key features. |
-| MA.912.GR.7.6 | Given a mathematical or real-world context, derive and create the equation of a hyperbola using key features. |
-| MA.912.GR.7.7 | Graph and solve mathematical and real-world problems that are modeled with an equation of a parabola. Determine and interpret key features in terms of the context. |
-| MA.912.GR.7.8 | Graph and solve mathematical and real-world problems that are modeled with an equation of an ellipse. Determine and interpret key features in terms of the context. |
-| MA.912.GR.7.9 | Graph and solve mathematical and real-world problems that are modeled with an equation of a hyperbola. Determine and interpret key features in terms of the context. |
+| MA.912.NSO.2.2 | |
+| MA.912.NSO.2.3 | |
+| MA.912.NSO.2.4 | |
+| MA.912.NSO.2.5 | |
+| MA.912.NSO.2.6 | |
+| MA.912.GR.7.1 | |
+| MA.912.GR.7.2 | |
+| MA.912.GR.7.3 | |
+| MA.912.GR.7.4 | |
+| MA.912.GR.7.5 | |
+| MA.912.GR.7.6 | |
+| MA.912.GR.7.7 | |
+| MA.912.GR.7.8 | |
+| MA.912.GR.7.9 | |
 
 ---
 

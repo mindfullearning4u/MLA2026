@@ -16,19 +16,19 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.1.4 | Calculate and interpret the average rate of change of a function over a specified interval. |
-| MA.912.F.1.7 | Compare key features of two functions each represented algebraically, graphically, in tables or written descriptions. |
-| MA.912.F.3.3 | Given a mathematical or real-world context, combine two or more functions, limited to linear, quadratic, exponential and polynomial, using arithmetic operations. When appropriate, include domain restrictions for the new function. |
-| MA.912.F.3.4 | Represent the composition of two functions algebraically or in a table. Determine the domain and range of the composite function. |
-| MA.912.F.3.5 | Given a mathematical or real-world context, represent the composition of two functions that are each linear, quadratic or exponential. Determine the domain and range of the composite function. |
-| MA.912.F.3.7 | Represent the inverse of a function algebraically, graphically or in a table. Use composition of functions to verify that one function is the inverse of the other. |
-| MA.912.F.3.8 | Graph the inverse of a function from the graph of that function. |
-| MA.912.F.3.9 | Given a table, equation or written description of a function, graph that function, and determine and interpret its key features. |
-| MA.912.AR.7.4 | Solve and graph mathematical and real-world problems that are modeled with radical functions. Interpret key features and determine constraints in terms of the context. |
-| MA.912.AR.9.3 | Given a mathematical or real-world context, solve a system consisting of two-variable linear or non-linear equations algebraically or graphically. |
-| MA.912.AR.9.10 | Solve and graph mathematical and real-world problems that are modeled with piecewise functions. Interpret key features and determine constraints in terms of the context. |
-| MA.912.NSO.3.1 | Given a mathematical or real-world context, represent and manipulate data using matrices. |
-| MA.912.NSO.3.2 | Given a mathematical or real-world context, solve systems of equations using matrices. |
+| MA.912.F.1.4 | |
+| MA.912.F.1.7 | |
+| MA.912.F.3.3 | |
+| MA.912.F.3.4 | |
+| MA.912.F.3.5 | |
+| MA.912.F.3.7 | |
+| MA.912.F.3.8 | |
+| MA.912.F.3.9 | |
+| MA.912.AR.7.4 | |
+| MA.912.AR.9.3 | |
+| MA.912.AR.9.10 | |
+| MA.912.NSO.3.1 | |
+| MA.912.NSO.3.2 | |
 
 ---
 

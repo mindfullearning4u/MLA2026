@@ -16,17 +16,17 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.AR.10.1 | Given a mathematical or real-world context, write and solve problems involving arithmetic sequences. |
-| MA.912.AR.10.2 | Given a mathematical or real-world context, write and solve problems involving geometric sequences. |
-| MA.912.AR.10.3 | Recognize and apply the formula for the sum of a finite arithmetic series to solve mathematical and real-world problems. |
-| MA.912.AR.10.4 | Recognize and apply the formula for the sum of a finite or an infinite geometric series to solve mathematical and real-world problems. |
-| MA.912.AR.10.5 | Given a mathematical or real-world context, write a sequence using function notation, defined explicitly or recursively, to represent relationships between quantities from a written description. |
-| MA.912.NSO.3.3 | Given a mathematical or real-world context, represent and manipulate data using vectors. |
-| MA.912.NSO.3.4 | Given a mathematical or real-world context, add and subtract vectors. |
-| MA.912.NSO.3.6 | Given a mathematical or real-world context, represent two-dimensional vectors algebraically and geometrically. |
-| MA.912.NSO.3.7 | Given a mathematical or real-world context, add and subtract two-dimensional vectors algebraically and geometrically. |
-| MA.912.NSO.3.8 | Given a mathematical or real-world context, multiply a two-dimensional vector by a scalar algebraically and geometrically. |
-| MA.912.NSO.3.9 | Given a mathematical or real-world context, solve problems involving two-dimensional vectors. |
+| MA.912.AR.10.1 | |
+| MA.912.AR.10.2 | |
+| MA.912.AR.10.3 | |
+| MA.912.AR.10.4 | |
+| MA.912.AR.10.5 | |
+| MA.912.NSO.3.3 | |
+| MA.912.NSO.3.4 | |
+| MA.912.NSO.3.6 | |
+| MA.912.NSO.3.7 | |
+| MA.912.NSO.3.8 | |
+| MA.912.NSO.3.9 | |
 
 ---
 
@@ -34,9 +34,9 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.F.3.9 | Given a table, equation or written description of a function, graph that function, and determine and interpret its key features. |
-| MA.912.AR.5.7 | Given a mathematical or real-world context, write and solve one-variable exponential equations using the properties of exponents. |
-| MA.912.NSO.3.1 | Given a mathematical or real-world context, represent and manipulate data using matrices. |
+| MA.912.F.3.9 | |
+| MA.912.AR.5.7 | |
+| MA.912.NSO.3.1 | |
 
 ---
 
