@@ -96,7 +96,7 @@ This tracker establishes a single standards source of truth for `PRECALCULUS` us
 | MA.912.AR.9.3 | Given a mathematical or real-world context, solve a system consisting of two-variable linear or non-linear equations algebraically or graphically. | Unit 01 | Lesson 6 | Primary | Systems extend function intersection reasoning. |
 | MA.912.AR.9.10 | Solve and graph mathematical and real-world problems that are modeled with piecewise functions. Interpret key features and determine constraints in terms of the context. | Unit 01 | Lesson 7 | Primary | Piecewise modeling belongs with function foundations and constraints. |
 | MA.912.NSO.3.1 | Given a mathematical or real-world context, represent and manipulate data using matrices. | Unit 01 | Lesson 7 | Primary | Matrix representation pairs with systems and data modeling. |
-| MA.912.NSO.3.2 | Given a mathematical or real-world context, solve systems of equations using matrices. | Unit 01 | Lesson 7 | Primary | Matrix methods support systems work. |
+| MA.912.NSO.3.2 | Given a mathematical or real-world context, solve systems of equations using matrices. | Unit 01 | Lesson 7 | Primary | Introduced with matrices so the benchmark has clear unit ownership without overextending the lesson sequence. |
 | MA.912.AR.6.3 | Factor polynomial expressions over the real numbers. | Unit 02 | Lesson 1 | Primary | Polynomial structure. |
 | MA.912.AR.6.4 | Given a polynomial equation of degree 3 or higher, determine roots and factors. | Unit 02 | Lessons 2, 7 | Primary | Roots and factors. |
 | MA.912.AR.6.6 | Given a polynomial function, identify the effect of a real-world transformation of the graph of 𝑓(𝑥). | Unit 02 | Lesson 3 | Primary | Polynomial transformations. |

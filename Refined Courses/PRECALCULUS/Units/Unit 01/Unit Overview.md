@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit establishes the function foundation for Precalculus. Students analyze key features, calculate and interpret average rate of change, compare functions across representations, combine and compose functions, determine inverse relationships, solve systems, model piecewise relationships, and use matrices to represent and solve systems.
+This unit establishes the function foundation for Precalculus. Students analyze key features, calculate and interpret average rate of change, compare functions across representations, combine and compose functions, determine inverse relationships, solve systems, model piecewise relationships, and use matrices to represent relationships.
 
 Emphasis is placed on precise notation, domain and range, representation analysis, algebraic structure, graphical interpretation, and modeling relationships in mathematical and real-world contexts.
 
@@ -35,11 +35,10 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 ## Prerequisite and Supporting Concepts
 
 Students are expected to have prior knowledge of:
-- linear, quadratic, and exponential function notation;
-- graphing functions and interpreting intercepts, intervals, and extrema;
-- solving linear and quadratic equations;
-- evaluating expressions and functions;
-- using coordinate-plane representations.
+- linear, quadratic, and exponential functions;
+- graphing functions and interpreting intercepts and intervals;
+- solving equations and evaluating expressions;
+- coordinate-plane representations.
 
 These concepts support function analysis, algebraic modeling, and representation-based reasoning in this unit.
 
@@ -55,7 +54,7 @@ These concepts support function analysis, algebraic modeling, and representation
 | Lesson 4 | Function Composition, Domain, and Range | MA.912.F.3.4, MA.912.F.3.5 | Quiz |
 | Lesson 5 | Inverse Functions Algebraically, Graphically, and in Tables | MA.912.F.3.7, MA.912.F.3.8 | Quiz |
 | Lesson 6 | Linear and Nonlinear Systems | MA.912.AR.9.3 | Quiz |
-| Lesson 7 | Piecewise Models and Matrix Methods | MA.912.AR.9.10, MA.912.NSO.3.1, MA.912.NSO.3.2 | Quiz |
+| Lesson 7 | Piecewise Models and Introduction to Matrices | MA.912.AR.9.10, MA.912.NSO.3.1, MA.912.NSO.3.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
