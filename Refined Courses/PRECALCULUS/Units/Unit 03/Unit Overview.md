@@ -4,9 +4,9 @@
 
 ## Unit Overview
 
-This unit develops trigonometric reasoning through angle measure, radians, unit circle representations, arc length, sector area, trigonometric ratios, inverse trigonometric ratios, and trigonometric functions. Students connect circular motion, coordinate representations, periodic behavior, and function analysis.
+This unit develops trigonometric function reasoning through angle measure, unit circle relationships, values of the six basic trigonometric functions, periodic modeling, graphing trigonometric functions, and interpreting key features and constraints.
 
-Emphasis is placed on unit circle structure, radians, exact and approximate values, coordinate interpretation, domain and range, key features, inverse relationships, periodic behavior, and real-world modeling.
+Emphasis is placed on unit circle structure, degrees and radians, special triangles, exact and approximate values, coordinate interpretation, domain and range, key features, periodic behavior, and real-world modeling.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through representation analysis, trigonometric modeling, and multi-step problem solving.
 
@@ -16,20 +16,14 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.T.1.5 | |
-| MA.912.T.1.6 | |
-| MA.912.T.1.7 | |
-| MA.912.T.1.8 | |
-| MA.912.T.2.1 | |
-| MA.912.T.2.2 | |
-| MA.912.T.2.3 | |
-| MA.912.T.2.4 | |
-| MA.912.T.2.5 | |
-| MA.912.T.3.1 | |
-| MA.912.T.3.2 | |
-| MA.912.T.3.3 | |
-| MA.912.T.4.1 | |
-| MA.912.T.4.2 | |
+| MA.912.T.2.1 | Given any positive or negative angle measure in degrees or radians, identify its corresponding angle measure between 0° and 360° or between 0 and 2π. Convert between degrees and radians. |
+| MA.912.T.2.2 | Define the six basic trigonometric functions for all real numbers by identifying corresponding angle measures and using right triangles drawn in the unit circle. |
+| MA.912.T.2.3 | Determine the values of the six basic trigonometric functions for 0, π/6, π/3 and π/4 and their multiples using special triangles. |
+| MA.912.T.2.4 | Use the unit circle to express the values of sine, cosine and tangent for π-x, π+x, and 2π-x in terms of their values for x, where x is any real number. |
+| MA.912.T.2.5 | Given angles measured in radians or degrees, calculate the values of the six basic trigonometric functions using the unit circle, trigonometric identities or technology. |
+| MA.912.T.3.1 | Given a mathematical or real-world context, choose sine, cosine or tangent trigonometric functions to model periodic phenomena with specified amplitude, frequency, horizontal shift and midline. |
+| MA.912.T.3.2 | Given a table, equation or written description of a trigonometric function, graph that function and determine key features. |
+| MA.912.T.3.3 | Solve and graph mathematical and real-world problems that are modeled with trigonometric functions. Interpret key features and determine constraints in terms of the context. |
 
 ---
 
@@ -50,13 +44,13 @@ These concepts support unit circle reasoning, trigonometric representation, and 
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Angle Measure, Degrees, and Radians | MA.912.T.4.1, MA.912.T.4.2 | Quiz |
-| Lesson 2 | Unit Circle Definitions, Coordinates, and Radian Measures | MA.912.T.1.7, MA.912.T.1.8 | Quiz |
-| Lesson 3 | Arc Length and Sector Area on the Coordinate Plane | MA.912.T.1.5, MA.912.T.1.6 | Quiz |
-| Lesson 4 | Six Trigonometric Ratios from Coordinate Representations | MA.912.T.2.1, MA.912.T.2.2 | Quiz |
-| Lesson 5 | Inverse Trigonometric Ratios and Applications | MA.912.T.2.3, MA.912.T.2.4 | Quiz |
-| Lesson 6 | Key Features, Domain, and Range of Trigonometric Functions | MA.912.T.2.5, MA.912.T.3.2, MA.912.T.3.3 | Quiz |
-| Lesson 7 | Modeling with Trigonometric Functions | MA.912.T.3.1 | Quiz |
+| Lesson 1 | Angle Measure, Degrees, and Radians | MA.912.T.2.1 | Quiz |
+| Lesson 2 | Unit Circle Definitions and the Six Basic Trigonometric Functions | MA.912.T.2.2 | Quiz |
+| Lesson 3 | Special Triangle Values on the Unit Circle | MA.912.T.2.3 | Quiz |
+| Lesson 4 | Unit Circle Symmetry Relationships | MA.912.T.2.4 | Quiz |
+| Lesson 5 | Calculating Trigonometric Function Values | MA.912.T.2.5 | Quiz |
+| Lesson 6 | Graphing Trigonometric Functions and Key Features | MA.912.T.3.2 | Quiz |
+| Lesson 7 | Modeling with Trigonometric Functions | MA.912.T.3.1, MA.912.T.3.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -67,10 +61,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - unit circle and coordinate interpretation;
-- trigonometric ratio reasoning;
+- trigonometric function value reasoning;
 - trigonometric function analysis and modeling.
 
-Assessment items require students to convert angle measures, represent angles on the unit circle, determine coordinates and trigonometric ratios, solve problems involving inverse ratios, analyze key features of trigonometric functions, and model periodic behavior in mathematical and real-world contexts.
+Assessment items require students to convert angle measures, define trigonometric functions for all real numbers, determine exact trigonometric values, use unit circle relationships, graph trigonometric functions, interpret key features and constraints, and model periodic behavior in mathematical and real-world contexts.
 
 ---
 
