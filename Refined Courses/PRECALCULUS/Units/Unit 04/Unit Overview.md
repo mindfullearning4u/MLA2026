@@ -6,7 +6,7 @@
 
 This unit extends trigonometric reasoning through triangle applications, identities, formulas, and equations. Students apply the Law of Sines and the Law of Cosines, solve triangle area problems, use the Pythagorean identity, prove and apply angle formulas, and solve trigonometric equations on specified intervals.
 
-Emphasis is placed on theorem selection, identity structure, algebraic manipulation, proof, equation-solving strategies, interval reasoning, and interpreting solutions in context.
+Emphasis is placed on theorem selection, identity structure, algebraic manipulation, proof, equation-solving strategies, interval reasoning, and interpreting solutions in context. Students develop fluency in transforming expressions and solving equations using trigonometric identities and formulas.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through proof, algebraic modeling, and multi-step problem solving.
 
@@ -43,7 +43,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Law of Sines and Law of Cosines | MA.912.T.1.3 | Quiz |
 | Lesson 2 | Area of a Triangle Using Two Sides and the Included Angle | MA.912.T.1.4 | Quiz |
-| Lesson 3 | Pythagorean Identity and Trigonometric Ratio Problems | MA.912.T.4.3 | Quiz |
+| Lesson 3 | Pythagorean Identity and Trigonometric Identity Applications | MA.912.T.4.3 | Quiz |
 | Lesson 4 | Addition and Subtraction Formulas for Sine, Cosine, and Tangent | MA.912.T.4.5, MA.912.T.4.6 | Quiz |
 | Lesson 5 | Double-Angle and Half-Angle Formulas for Sine, Cosine, and Tangent | MA.912.T.4.5, MA.912.T.4.6 | Quiz |
 | Lesson 6 | Solving Trigonometric Equations on a Given Interval | MA.912.T.4.4 | Quiz |
@@ -58,10 +58,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - triangle application reasoning;
-- identity proof and formula application;
+- identity structure and algebraic manipulation;
 - trigonometric equation solving and interpretation.
 
-Assessment items require students to apply the Law of Sines and the Law of Cosines, solve triangle area problems, use identities, prove and apply trigonometric formulas, solve trigonometric equations on given intervals, and interpret solutions in mathematical and real-world contexts.
+Assessment items require students to apply the Law of Sines and Law of Cosines, solve triangle area problems, use identities, prove and apply trigonometric formulas, solve equations on given intervals, and interpret solutions in mathematical and real-world contexts.
 
 ---
 
@@ -79,6 +79,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit develops the proof, formula, and equation-solving skills needed for advanced trigonometric reasoning. Students connect identities, algebraic transformations, and triangle models to solve multi-step problems.
+This unit develops the identity-based reasoning, formula application, and equation-solving skills required for advanced trigonometric analysis. Students connect algebraic manipulation, trigonometric structure, and triangle models to solve multi-step problems.
 
 ---
