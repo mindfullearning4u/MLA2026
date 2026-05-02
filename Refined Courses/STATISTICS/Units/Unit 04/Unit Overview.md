@@ -6,7 +6,7 @@
 
 This unit develops probability reasoning through sample spaces, event relationships, independence, conditional probability, empirical probability, addition and multiplication rules, counting principles, permutations, and combinations. Students interpret probability results in context and connect probability to categorical data.
 
-Emphasis is placed on interpreting events, using probability rules appropriately, distinguishing independence from dependence, connecting two-way tables to empirical probability, and applying counting methods to mathematical and real-world situations.
+Emphasis is placed on interpreting events, understanding the relationship between conditional probability and independence, using probability rules appropriately, connecting two-way tables to empirical probability, and applying counting methods within probability contexts. Students also develop an understanding of uncertainty and the limitations of probability models.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through probability reasoning, contextual interpretation, and real-world problem solving.
 
@@ -44,11 +44,11 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Sample Spaces, Events, and Complements | MA.912.DP.4.1 | Quiz |
 | Lesson 2 | Independence and Conditional Probability | MA.912.DP.4.2, MA.912.DP.4.3, MA.912.DP.4.4 | Quiz |
-| Lesson 3 | Explaining Conditional Probability and Independence | MA.912.DP.4.6 | Quiz |
+| Lesson 3 | Interpreting Conditional Probability and Independence in Context | MA.912.DP.4.6 | Quiz |
 | Lesson 4 | Empirical Probability from Two-Way Tables | MA.912.DP.4.5 | Quiz |
 | Lesson 5 | Addition Rule for Probability | MA.912.DP.4.7 | Quiz |
 | Lesson 6 | Multiplication Rule for Probability | MA.912.DP.4.8 | Quiz |
-| Lesson 7 | Counting Rules, Permutations, and Combinations | MA.912.DP.4.9, MA.912.DP.4.10 | Quiz |
+| Lesson 7 | Counting Rules, Permutations, and Combinations in Probability Contexts | MA.912.DP.4.9, MA.912.DP.4.10 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -60,9 +60,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - probability rules and event relationships;
 - conditional probability and independence;
-- counting methods and contextual interpretation.
+- empirical probability and interpretation;
+- counting methods within probability contexts.
 
-Assessment items require students to describe events, calculate and interpret conditional probabilities, determine independence, use empirical probabilities from two-way tables, apply addition and multiplication probability rules, use counting rules, calculate permutations and combinations, and interpret results in context.
+Assessment items require students to describe events, calculate and interpret conditional probabilities, determine independence, use empirical probabilities from two-way tables, apply addition and multiplication probability rules, use counting rules appropriately, calculate permutations and combinations, and interpret results in context.
 
 ---
 
@@ -80,6 +81,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects categorical reasoning to probability reasoning. Students develop tools for interpreting uncertainty, evaluating independence, and using probability rules to support decisions in mathematical and real-world contexts.
+This unit connects categorical reasoning to probability reasoning. Students develop tools for interpreting uncertainty, evaluating independence, and applying probability rules to support conclusions and decisions in mathematical and real-world contexts.
 
 ---

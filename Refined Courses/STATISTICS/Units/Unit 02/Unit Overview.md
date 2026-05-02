@@ -6,7 +6,7 @@
 
 This unit develops reasoning about numerical data distributions. Students calculate and compare measures of center and variability, account for possible effects of outliers, interpret notable features of distribution shape, fit appropriate data sets to a normal distribution, and estimate population percentages using normal models.
 
-Emphasis is placed on interpreting measures in context, comparing distributions, recognizing when a normal model is appropriate, and using technology, empirical rules, or tables to support reasoning.
+Emphasis is placed on interpreting measures in context, selecting appropriate measures based on data characteristics, comparing distributions, recognizing how variability affects conclusions, and determining when a normal model is appropriate. Students distinguish between describing a single distribution and comparing multiple data sets.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through data analysis, distribution interpretation, and real-world problem solving.
 
@@ -41,7 +41,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 4 | Shape, Skewness, Symmetry, and Clustering | MA.912.DP.2.1 | Quiz |
 | Lesson 5 | Mean, Standard Deviation, and Normal Models | MA.912.DP.2.2 | Quiz |
 | Lesson 6 | Estimating Population Percentages from Normal Models | MA.912.DP.2.2, MA.912.DP.2.3 | Quiz |
-| Lesson 7 | Interpreting and Evaluating Distribution Models | MA.912.DP.2.1, MA.912.DP.2.2, MA.912.DP.2.3 | Quiz |
+| Lesson 7 | Evaluating the Appropriateness of Distribution Models | MA.912.DP.2.1, MA.912.DP.2.2, MA.912.DP.2.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -53,9 +53,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - measures of center and variability;
 - interpretation of distribution shape and outliers;
+- comparison of data sets;
 - normal distribution reasoning and population percentage estimates.
 
-Assessment items require students to calculate and compare measures of center and variability, interpret distribution shape, account for outliers, determine when normal models are appropriate, estimate population percentages, and explain conclusions in context.
+Assessment items require students to calculate and compare measures of center and variability, interpret distribution shape, account for outliers, determine when normal models are appropriate, estimate population percentages, and justify conclusions in context.
 
 ---
 
@@ -73,6 +74,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit develops the statistical reasoning needed to compare data sets and interpret distributions. Students connect numerical summaries, distribution shape, outliers, and normal models to real-world conclusions.
+This unit develops the statistical reasoning needed to describe and compare data sets. Students connect numerical summaries, variability, distribution shape, outliers, and normal models to real-world conclusions and evaluate the validity of those conclusions.
 
 ---

@@ -4,9 +4,9 @@
 
 ## Unit Overview
 
-This unit develops statistical inference through sampling, study design, simulations, comparison of populations, experiments, treatment comparisons, significance, and evaluation of statistical reports. Students distinguish population parameters from sample statistics, analyze sampling methods, evaluate study designs, and use data and simulations to support conclusions.
+This unit develops statistical inference through sampling, study design, simulations, comparison of populations, experiments, treatment comparisons, significance, and evaluation of statistical reports. Students distinguish population parameters from sample statistics, analyze sampling methods, evaluate study designs, and use data and simulations to support evidence-based conclusions.
 
-Emphasis is placed on representativeness, bias, random sampling, random assignment, survey and experiment design, inference from samples, simulation-based reasoning, and evaluating statistical claims in media and reports.
+Emphasis is placed on representativeness, bias, random sampling, random assignment, survey and experiment design, inference from samples, simulation-based reasoning, and evaluating statistical claims in media and reports. Students develop an understanding that statistical conclusions are based on evidence and are subject to variability and uncertainty.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through statistical inference, study evaluation, and real-world problem solving.
 
@@ -52,7 +52,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 4 | Simulated Samples and Data-Generating Processes | MA.912.DP.5.4, MA.912.DP.5.5 | Quiz |
 | Lesson 5 | Surveys, Experiments, and Observational Studies | MA.912.DP.5.6, MA.912.DP.5.7 | Quiz |
 | Lesson 6 | Inference from Random Samples and Randomized Experiments | MA.912.DP.5.8, MA.912.DP.5.9 | Quiz |
-| Lesson 7 | Significance with Simulations and Evaluating Reports | MA.912.DP.5.10, MA.912.DP.5.11 | Quiz |
+| Lesson 7 | Evaluating Significance and Making Evidence-Based Decisions | MA.912.DP.5.10, MA.912.DP.5.11 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -64,7 +64,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - sampling and study design;
 - margin of error and confidence level interpretation;
-- inference, simulation, and report evaluation.
+- inference, simulation, and evaluation of conclusions.
 
 Assessment items require students to distinguish parameters from statistics, explain random sampling, compare sampling methods, interpret margin of error and confidence level, evaluate study design, draw inferences from random samples, compare treatments in randomized experiments, determine significance using simulations, and evaluate data-based reports.
 
@@ -84,6 +84,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit develops students' ability to judge how data is collected and how conclusions are justified. Students connect sampling, design, simulation, and inference to evaluate statistical claims and real-world decisions.
+This unit develops students' ability to evaluate how data is collected and how conclusions are justified. Students connect sampling, study design, simulation, and inference to evaluate statistical claims, recognize uncertainty, and make informed decisions based on evidence.
 
 ---

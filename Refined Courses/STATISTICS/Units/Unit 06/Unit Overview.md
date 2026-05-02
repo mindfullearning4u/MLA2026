@@ -6,7 +6,7 @@
 
 This unit synthesizes probability distributions and decision making. Students define random variables, graph probability distributions, develop theoretical and empirical probability distributions, calculate and interpret expected value, solve problems involving binomial and geometric distributions, evaluate payoff values and risks, and apply probabilities to make fair decisions.
 
-Emphasis is placed on expected value, interpretation of distributions, binomial and geometric contexts, reward and risk, standard deviation as part of decision making, and fair decision processes.
+Emphasis is placed on interpreting probability distributions, understanding expected value as a long-run average, evaluating variability in outcomes, and comparing decision strategies based on risk and reward. Students develop the ability to make informed decisions under uncertainty using probabilistic reasoning.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through probability distribution analysis, expected value reasoning, and real-world decision making.
 
@@ -45,7 +45,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 3 | Empirical Probability Distributions and Expected Value | MA.912.DP.6.3 | Quiz |
 | Lesson 4 | Binomial Distributions | MA.912.DP.6.4 | Quiz |
 | Lesson 5 | Geometric Distributions | MA.912.DP.6.5 | Quiz |
-| Lesson 6 | Payoff Values, Expected Value, Standard Deviation, and Risk | MA.912.DP.6.7 | Quiz |
+| Lesson 6 | Comparing Strategies Using Expected Value and Risk | MA.912.DP.6.7 | Quiz |
 | Lesson 7 | Fair Decisions Using Probability | MA.912.DP.6.8 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -57,10 +57,11 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - random variables and probability distributions;
-- expected value and distribution interpretation;
-- decision making using probability, payoff values, and risk.
+- expected value and long-run interpretation;
+- comparison of strategies using risk and variability;
+- decision making under uncertainty.
 
-Assessment items require students to define random variables, graph probability distributions, develop theoretical and empirical distributions, calculate and interpret expected value, solve binomial and geometric distribution problems, compare strategies using expected values and standard deviations, and apply probabilities to make fair decisions.
+Assessment items require students to define random variables, graph probability distributions, develop theoretical and empirical distributions, calculate and interpret expected value, solve binomial and geometric distribution problems, compare strategies using expected values and standard deviations, and apply probabilities to make fair and justified decisions.
 
 ---
 
@@ -78,6 +79,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects probability models to practical decisions. Students use expected value, probability distributions, payoff values, and fairness to evaluate strategies and justify decisions in real-world contexts.
+This unit connects probability models to practical decision making. Students use expected value, probability distributions, payoff values, and fairness to evaluate strategies, compare outcomes, and justify decisions in real-world contexts under conditions of uncertainty.
 
 ---

@@ -6,7 +6,7 @@
 
 This unit establishes the data representation foundation for Statistics. Students distinguish between numerical and categorical data, identify univariate and bivariate data, select appropriate data displays, interpret components and quantities in displays, and construct and interpret segmented bar graphs.
 
-Emphasis is placed on choosing representations that match the data type and context, interpreting displays accurately, using appropriate units and labels, and reasoning about what a display communicates.
+Emphasis is placed on selecting representations that match the data type and context, interpreting displays accurately, using appropriate units and labels, and reasoning about what a display communicates and what conclusions can be drawn. Students also begin to recognize how displays can misrepresent data if used incorrectly.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through data interpretation, representation selection, and real-world problem solving.
 
@@ -28,9 +28,9 @@ Students are expected to have prior knowledge of:
 - reading tables, graphs, and charts;
 - calculating and interpreting percentages;
 - identifying quantities and units in context;
-- using technology or spreadsheets to organize data when appropriate.
+- organizing data using technology or spreadsheets when appropriate.
 
-These concepts support accurate data representation and interpretation in this unit.
+These concepts support accurate data representation, organization, and interpretation in this unit.
 
 ---
 
@@ -44,7 +44,7 @@ These concepts support accurate data representation and interpretation in this u
 | Lesson 4 | Representing Categorical Data | MA.912.DP.1.1 | Quiz |
 | Lesson 5 | Interpreting Components and Quantities in Data Displays | MA.912.DP.1.2 | Quiz |
 | Lesson 6 | Relative Frequency Tables and Segmented Bar Graphs | MA.912.DP.3.4 | Quiz |
-| Lesson 7 | Selecting, Constructing, and Interpreting Data Displays | MA.912.DP.1.1, MA.912.DP.1.2, MA.912.DP.3.4 | Quiz |
+| Lesson 7 | Selecting, Constructing, and Justifying Data Displays | MA.912.DP.1.1, MA.912.DP.1.2, MA.912.DP.3.4 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -56,9 +56,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - data type identification;
 - representation selection;
-- data display interpretation and construction.
+- data display interpretation and construction;
+- justification of representation choices.
 
-Assessment items require students to identify data as numerical or categorical and univariate or bivariate, select appropriate displays, interpret components and quantities in displays, construct segmented bar graphs, and explain display choices in real-world contexts.
+Assessment items require students to identify data as numerical or categorical and univariate or bivariate, select and justify appropriate displays, interpret components and quantities in displays, construct segmented bar graphs, and explain conclusions and limitations of displays in real-world contexts.
 
 ---
 
@@ -76,6 +77,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit builds the representation and interpretation habits needed throughout the course. Students learn to connect data type, context, display choice, and statistical meaning before moving into numerical summaries and deeper analysis.
+This unit builds the representation and interpretation habits needed throughout the course. Students learn to connect data type, context, display choice, and statistical meaning, and to justify conclusions drawn from data before moving into numerical summaries and deeper analysis.
 
 ---

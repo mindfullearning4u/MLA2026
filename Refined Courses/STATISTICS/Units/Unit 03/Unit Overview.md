@@ -6,7 +6,7 @@
 
 This unit develops reasoning about bivariate numerical and categorical data. Students distinguish correlation from causation, fit and interpret linear and exponential models, analyze residuals, interpret correlation strength and direction, compute correlation coefficients using technology, and use two-way tables and relative frequencies to analyze categorical associations.
 
-Emphasis is placed on interpreting association in context, evaluating model fit, using residuals to assess predictions, avoiding unsupported causal claims, and connecting categorical data displays to real-world interpretation.
+Emphasis is placed on interpreting association in context, evaluating model fit, recognizing patterns in residuals, understanding the limits of models for prediction, avoiding unsupported causal claims, and connecting categorical data displays to real-world interpretation.
 
 Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, interpretation, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through bivariate analysis, model interpretation, and real-world problem solving.
 
@@ -49,7 +49,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 4 | Strength, Direction, and Correlation Coefficient | MA.912.DP.2.6, MA.912.DP.2.7 | Quiz |
 | Lesson 5 | Exponential Models for Bivariate Numerical Data | MA.912.DP.2.9 | Quiz |
 | Lesson 6 | Two-Way Frequency Tables and Categorical Association | MA.912.DP.3.1 | Quiz |
-| Lesson 7 | Relative Frequencies and Categorical Data Problem Solving | MA.912.DP.3.2, MA.912.DP.3.3, MA.912.DP.3.5 | Quiz |
+| Lesson 7 | Interpreting Relative Frequencies and Categorical Relationships | MA.912.DP.3.2, MA.912.DP.3.3, MA.912.DP.3.5 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -60,10 +60,11 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - bivariate numerical model interpretation;
-- residual and correlation reasoning;
+- residual and model fit reasoning;
+- correlation interpretation and prediction limits;
 - bivariate categorical data interpretation.
 
-Assessment items require students to distinguish correlation from causation, fit and interpret linear and exponential models, assess model fit using residuals, determine and interpret correlation strength and direction, construct and interpret two-way tables, analyze relative frequencies, and solve real-world categorical data problems.
+Assessment items require students to distinguish correlation from causation, fit and interpret linear and exponential models, assess model fit using residuals, determine and interpret correlation strength and direction, recognize limitations of predictions, construct and interpret two-way tables, analyze relative frequencies, and solve real-world categorical data problems.
 
 ---
 
@@ -81,6 +82,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit strengthens students' ability to reason from relationships in data. Students evaluate association, model fit, prediction limits, and categorical patterns while grounding conclusions in the context of the data.
+This unit strengthens students' ability to reason from relationships in data. Students evaluate association, model fit, prediction limits, and categorical patterns while grounding conclusions in the context of the data and recognizing the limits of statistical models.
 
 ---
