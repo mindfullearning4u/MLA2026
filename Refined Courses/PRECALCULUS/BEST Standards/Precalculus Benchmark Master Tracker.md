@@ -143,7 +143,7 @@ This tracker establishes a single standards source of truth for `PRECALCULUS` us
 | MA.912.AR.10.3 | Recognize and apply the formula for the sum of a finite arithmetic series to solve mathematical and real-world problems. | Unit 06 | Lesson 3 | Primary | Finite arithmetic series. |
 | MA.912.AR.10.4 | Recognize and apply the formula for the sum of a finite or an infinite geometric series to solve mathematical and real-world problems. | Unit 06 | Lessons 3-4 | Primary | Finite and infinite geometric series. |
 | MA.912.AR.10.5 | Given a mathematical or real-world context, write a sequence using function notation, defined explicitly or recursively, to represent relationships between quantities from a written description. | Unit 06 | Lesson 4 | Primary | Explicit and recursive notation. |
-| MA.912.NSO.3.3 | Given a mathematical or real-world context, represent and manipulate data using vectors. | Unit 06 | Lesson 5 | Primary | Vector representation and data manipulation. |
+| MA.912.NSO.3.3 | Given a mathematical or real-world context, represent and manipulate data using vectors. | Unit 06 | Lesson 5 | Primary | Vector representation and data interpretation. |
 | MA.912.NSO.3.6 | Given a mathematical or real-world context, represent two-dimensional vectors algebraically and geometrically. | Unit 06 | Lesson 5 | Primary | Two-dimensional vector representation. |
 | MA.912.NSO.3.4 | Given a mathematical or real-world context, add and subtract vectors. | Unit 06 | Lesson 6 | Primary | Vector operations. |
 | MA.912.NSO.3.7 | Given a mathematical or real-world context, add and subtract two-dimensional vectors algebraically and geometrically. | Unit 06 | Lesson 6 | Primary | Algebraic and geometric vector operations. |
@@ -181,7 +181,7 @@ Placement decisions made during course creation:
 
 - Conic-section standards `MA.912.GR.7.1` through `MA.912.GR.7.9` were assigned to Unit 05 because they are official Precalculus Honors benchmarks and fit the algebraic-geometric modeling sequence after function and trigonometric development.
 - Matrix standards `MA.912.NSO.3.1` and `MA.912.NSO.3.2` were assigned to Unit 01 with systems because the benchmarks support system representation and solution methods.
-- Vector standards `MA.912.NSO.3.3`, `MA.912.NSO.3.4`, and `MA.912.NSO.3.6` through `MA.912.NSO.3.9` were assigned to Unit 06 because they support advanced modeling and geometric interpretation after the function, trigonometry, and conic units.
+- Vector standards `MA.912.NSO.3.3`, `MA.912.NSO.3.4`, and `MA.912.NSO.3.6` through `MA.912.NSO.3.9` were assigned to Unit 06 because they support mathematical modeling and geometric interpretation after the function, trigonometry, and conic units.
 - Introductory limits were not used as a primary unit focus because no extracted official Precalculus Honors content benchmark in the controlling list explicitly requires limits.
 
 ## Structural Audit

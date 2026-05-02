@@ -1,4 +1,4 @@
-# PRECALCULUS - Unit 06 Overview: Sequences, Series, Vectors, and Advanced Modeling
+# PRECALCULUS - Unit 06 Overview: Sequences, Series, Vectors, and Mathematical Modeling
 
 ---
 
@@ -47,8 +47,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 1 | Arithmetic Sequences in Mathematical and Real-World Contexts | MA.912.AR.10.1 | Quiz |
 | Lesson 2 | Geometric Sequences in Mathematical and Real-World Contexts | MA.912.AR.10.2 | Quiz |
 | Lesson 3 | Finite Arithmetic and Geometric Series | MA.912.AR.10.3, MA.912.AR.10.4 | Quiz |
-| Lesson 4 | Infinite Geometric Series and Sequence Notation | MA.912.AR.10.4, MA.912.AR.10.5 | Quiz |
-| Lesson 5 | Vector Representation and Data Manipulation | MA.912.NSO.3.3, MA.912.NSO.3.6 | Quiz |
+| Lesson 4 | Infinite Geometric Series and Sequence Representations | MA.912.AR.10.4, MA.912.AR.10.5 | Quiz |
+| Lesson 5 | Vector Representation and Data Interpretation | MA.912.NSO.3.3, MA.912.NSO.3.6 | Quiz |
 | Lesson 6 | Vector Addition, Subtraction, and Scalar Multiplication | MA.912.NSO.3.4, MA.912.NSO.3.7, MA.912.NSO.3.8 | Quiz |
 | Lesson 7 | Two-Dimensional Vector Problem Solving | MA.912.NSO.3.9 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
@@ -60,11 +60,11 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
 
 - conceptual understanding;
-- sequence and series notation, structure, and application;
+- sequence and series reasoning;
 - vector representation and operations;
 - algebraic and geometric modeling in context.
 
-Assessment items require students to write and solve problems involving sequences, apply finite and infinite series formulas, represent sequences explicitly and recursively, represent and manipulate vectors, perform vector operations, and solve two-dimensional vector problems in mathematical and real-world contexts.
+Assessment items require students to write and solve problems involving sequences, apply series formulas, represent sequences explicitly and recursively, represent and manipulate vectors, perform vector operations, and solve two-dimensional vector problems in mathematical and real-world contexts.
 
 ---
 
@@ -82,6 +82,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit synthesizes discrete modeling, vector reasoning, and representation fluency. Students use notation, formulas, diagrams, and algebraic operations to model quantities, interpret results, and solve multi-step problems.
+This unit synthesizes sequence reasoning, vector modeling, and algebraic representation. Students use formulas, notation, and geometric interpretation to model relationships, analyze patterns, and solve multi-step problems across mathematical and real-world contexts.
 
 ---
