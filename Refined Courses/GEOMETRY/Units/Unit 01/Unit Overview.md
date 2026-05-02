@@ -4,11 +4,11 @@
 
 ## Unit Overview
 
-This unit establishes the reasoning foundation for Geometry. Students work with points, lines, segments, angles, postulates, constructions, logical statements, counterexamples, and introductory proof structures.
+This unit establishes the reasoning foundation for Geometry. Students develop precision in working with points, lines, segments, and angles while building skills in geometric constructions, logical reasoning, and introductory proof.
 
-Emphasis is placed on precise diagrams, accurate notation, vocabulary, conditional reasoning, valid arguments, and the connection between constructions and proof.
+Emphasis is placed on accurate diagrams, precise notation, mathematical vocabulary, conditional reasoning, and the evaluation of valid and invalid arguments. Students begin connecting constructions, relationships, and logical structures to geometric justification.
 
-Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, proof, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, justification, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding through diagram interpretation, logical analysis, and problem solving.
 
 ---
 
@@ -26,11 +26,13 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 ## Prerequisite and Supporting Concepts
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| MA.912.GR.1.2 | Prove triangle congruence or similarity using Side-Side-Side, Side-Angle-Side, Angle-Side-Angle, Angle-Angle-Side, Angle-Angle and Hypotenuse-Leg. |
-| MA.912.GR.3.2 | Given a mathematical context, use coordinate geometry to classify or justify definitions, properties and theorems involving circles, triangles or quadrilaterals. |
-| MA.912.GR.3.3 | Use coordinate geometry to solve mathematical and real-world geometric problems involving lines, circles, triangles and quadrilaterals. |
+Students are expected to have prior knowledge of:
+- basic geometric vocabulary, including point, line, segment, ray, angle, and plane;
+- measuring and classifying angles;
+- basic algebraic reasoning, including solving one-step and multi-step equations;
+- coordinate plane familiarity, including distance and midpoint concepts.
+
+These concepts support diagram interpretation and reasoning development in this unit.
 
 ---
 
@@ -38,8 +40,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Geometry Vocabulary, Diagrams, and Precise Notation | MA.912.GR.1.1 | Quiz |
-| Lesson 2 | Segment, Angle, and Line Relationships | MA.912.GR.1.1 | Quiz |
+| Lesson 1 | Geometry Vocabulary, Diagrams, and Precise Notation | Foundational Support | Quiz |
+| Lesson 2 | Segment, Angle, and Line Relationships | Foundational Support | Quiz |
 | Lesson 3 | Parallel Lines, Transversals, and Angle Theorems | MA.912.GR.1.1 | Quiz |
 | Lesson 4 | Segment and Angle Constructions | MA.912.GR.5.1 | Quiz |
 | Lesson 5 | Bisectors and Perpendicular Bisectors | MA.912.GR.5.2 | Quiz |
@@ -58,7 +60,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - construction reasoning;
 - logical reasoning and introductory proof.
 
-All assessment items are aligned to the unit benchmarks and require students to interpret geometric diagrams, solve line and angle problems, complete foundational constructions, analyze logical statements, and judge the validity of arguments using counterexamples when appropriate.
+Assessment items require students to interpret geometric diagrams, apply line and angle relationships, complete foundational constructions, analyze logical statements, and evaluate arguments using counterexamples where appropriate.
 
 ---
 
@@ -76,6 +78,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit establishes the proof, diagram, line, angle, vocabulary, and reasoning expectations that recur throughout the course. Students build habits of precision needed for multi-step geometric arguments and diagram-based problem solving.
+This unit establishes the precision, reasoning, and diagram-based thinking required throughout the course. Students develop foundational habits in interpreting diagrams, applying relationships, and constructing logical arguments that support multi-step geometric problem solving.
 
 ---
