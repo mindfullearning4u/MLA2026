@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit extends geometric reasoning through triangle relationships, similarity, and right triangle trigonometry. Students prove and apply triangle theorems, solve problems involving similar two-dimensional figures, justify similarity using transformations, define trigonometric ratios, and solve right triangle problems.
+This unit extends geometric reasoning through triangle relationships, similarity, and right triangle trigonometry. Students prove and apply triangle theorems, prove and apply triangle similarity criteria, solve problems involving similar two-dimensional figures, justify similarity using transformations, define trigonometric ratios, and solve right triangle problems.
 
 Emphasis is placed on proportional reasoning, triangle diagrams, precise vocabulary, proof, special right triangles, and real-world modeling involving right triangles.
 
@@ -16,9 +16,11 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| MA.912.GR.1.2 | Prove triangle congruence or similarity using Side-Side-Side, Side-Angle-Side, Angle-Side-Angle, Angle-Angle-Side, Angle-Angle and Hypotenuse-Leg. |
 | MA.912.GR.1.3 | Prove relationships and theorems about triangles. Solve mathematical and real-world problems involving postulates, relationships and theorems of triangles. |
 | MA.912.GR.1.6 | Solve mathematical and real-world problems involving congruence or similarity in two-dimensional figures. |
 | MA.912.GR.2.8 | Apply an appropriate transformation to map one figure onto another to justify that the two figures are similar. |
+| MA.912.GR.2.9 | Justify the criteria for triangle similarity using the definition of similarity in terms of non-rigid transformations. |
 | MA.912.T.1.1 | Define trigonometric ratios for acute angles in right triangles. |
 | MA.912.T.1.2 | Solve mathematical and real-world problems involving right triangles using trigonometric ratios and the Pythagorean Theorem. |
 
@@ -29,8 +31,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Standard Code | Standard Description |
 |--------------|----------------------|
 | MA.912.GR.1.1 | Prove relationships and theorems about lines and angles. |
-| MA.912.GR.1.2 | Prove triangle congruence using established criteria. |
 | MA.912.GR.2.3 | Identify a sequence of transformations that map figures. |
+| MA.912.GR.2.7 | Justify triangle congruence using rigid transformations. |
 
 ---
 
@@ -40,8 +42,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Triangle Angle Relationships and Exterior Angles | MA.912.GR.1.3 | Quiz |
 | Lesson 2 | Triangle Inequality, Isosceles Triangles, Midsegments, and Medians | MA.912.GR.1.3 | Quiz |
-| Lesson 3 | Similarity Criteria and Similar Figures | MA.912.GR.1.6 | Quiz |
-| Lesson 4 | Transformation-Based Similarity with Dilations | MA.912.GR.2.8 | Quiz |
+| Lesson 3 | Similarity Criteria and Similar Figures | MA.912.GR.1.2, MA.912.GR.1.6 | Quiz |
+| Lesson 4 | Transformation-Based Similarity with Dilations | MA.912.GR.2.8, MA.912.GR.2.9 | Quiz |
 | Lesson 5 | Solving Mathematical and Real-World Similarity Problems | MA.912.GR.1.6 | Quiz |
 | Lesson 6 | Trigonometric Ratios in Right Triangles | MA.912.T.1.1 | Quiz |
 | Lesson 7 | Right Triangle Problem Solving with Trigonometry and the Pythagorean Theorem | MA.912.T.1.2 | Quiz |
@@ -58,7 +60,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - proportional reasoning and similarity;
 - right triangle trigonometry and real-world modeling.
 
-Assessment items require students to prove and apply triangle relationships, justify similarity using proportional reasoning and transformations, solve similarity problems, define trigonometric ratios, and solve right triangle problems using trigonometry and the Pythagorean Theorem.
+Assessment items require students to prove and apply triangle relationships, justify triangle similarity criteria, justify similarity using proportional reasoning and transformations, solve similarity problems, define trigonometric ratios, and solve right triangle problems using trigonometry and the Pythagorean Theorem.
 
 ---
 

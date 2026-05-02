@@ -20,6 +20,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | MA.912.GR.5.1 | Construct a copy of a segment or an angle. |
 | MA.912.GR.5.2 | Construct the bisector of a segment or an angle, including the perpendicular bisector of a line segment. |
 | MA.912.LT.4.3 | Identify and accurately interpret "if...then," "if and only if," "all" and "not" statements. Find the converse, inverse and contrapositive of a statement. |
+| MA.912.LT.4.8 | Construct proofs, including proofs by contradiction. |
 | MA.912.LT.4.10 | Judge the validity of arguments and give counterexamples to disprove statements. |
 
 ---
@@ -46,7 +47,7 @@ These concepts support diagram interpretation and reasoning development in this 
 | Lesson 4 | Segment and Angle Constructions | MA.912.GR.5.1 | Quiz |
 | Lesson 5 | Bisectors and Perpendicular Bisectors | MA.912.GR.5.2 | Quiz |
 | Lesson 6 | Conditional Statements, Converses, Inverses, and Contrapositives | MA.912.LT.4.3 | Quiz |
-| Lesson 7 | Valid Arguments, Counterexamples, and Introductory Proof | MA.912.GR.1.1, MA.912.LT.4.10 | Quiz |
+| Lesson 7 | Valid Arguments, Counterexamples, and Introductory Proof | MA.912.GR.1.1, MA.912.LT.4.8, MA.912.LT.4.10 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -58,9 +59,9 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - conceptual understanding;
 - diagram interpretation and precise vocabulary;
 - construction reasoning;
-- logical reasoning and introductory proof.
+- logical reasoning and introductory proof, including proof by contradiction.
 
-Assessment items require students to interpret geometric diagrams, apply line and angle relationships, complete foundational constructions, analyze logical statements, and evaluate arguments using counterexamples where appropriate.
+Assessment items require students to interpret geometric diagrams, apply line and angle relationships, complete foundational constructions, analyze logical statements, construct introductory proofs, and evaluate arguments using counterexamples where appropriate.
 
 ---
 

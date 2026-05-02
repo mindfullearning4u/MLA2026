@@ -17,10 +17,13 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Standard Code | Standard Description |
 |--------------|----------------------|
 | MA.912.GR.5.3 | Construct the inscribed and circumscribed circles of a triangle. |
+| MA.912.GR.5.4 | Construct a regular polygon inscribed in a circle. Regular polygons are limited to triangles, quadrilaterals and hexagons. |
+| MA.912.GR.5.5 | Given a point outside a circle, construct a line tangent to the circle that passes through the given point. |
 | MA.912.GR.6.1 | Solve mathematical and real-world problems involving the length of a secant, tangent, segment or chord in a given circle. |
 | MA.912.GR.6.2 | Solve mathematical and real-world problems involving the measures of arcs and related angles. |
 | MA.912.GR.6.3 | Solve mathematical problems involving triangles and quadrilaterals inscribed in a circle. |
 | MA.912.GR.6.4 | Solve mathematical and real-world problems involving the arc length and area of a sector in a given circle. |
+| MA.912.GR.6.5 | Apply transformations to prove that all circles are similar. |
 | MA.912.GR.7.2 | Given a mathematical or real-world context, derive and create the equation of a circle using key features. |
 | MA.912.GR.7.3 | Graph and solve mathematical and real-world problems that are modeled with an equation of a circle. Determine and interpret key features in terms of the context. |
 
@@ -45,8 +48,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 | Lesson 2 | Arcs, Central Angles, Inscribed Angles, and Related Angle Measures | MA.912.GR.6.2 | Quiz |
 | Lesson 3 | Inscribed Triangles and Quadrilaterals | MA.912.GR.6.3 | Quiz |
 | Lesson 4 | Arc Length and Sector Area | MA.912.GR.6.4 | Quiz |
-| Lesson 5 | Constructing Inscribed and Circumscribed Circles of Triangles | MA.912.GR.5.3 | Quiz |
-| Lesson 6 | Deriving and Creating Equations of Circles | MA.912.GR.7.2 | Quiz |
+| Lesson 5 | Circle Constructions: Triangle Circles, Regular Polygons, and Tangents | MA.912.GR.5.3, MA.912.GR.5.4, MA.912.GR.5.5 | Quiz |
+| Lesson 6 | Circle Similarity and Deriving Equations of Circles | MA.912.GR.6.5, MA.912.GR.7.2 | Quiz |
 | Lesson 7 | Graphing and Modeling with Equations of Circles | MA.912.GR.7.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -58,10 +61,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - circle theorem selection and application;
-- construction and diagram reasoning;
+- construction, transformation, and diagram reasoning;
 - coordinate circle modeling and interpretation.
 
-Assessment items require students to solve problems involving circle segments, arcs, angles, inscribed figures, arc length, sector area, triangle circle constructions, and equations of circles in mathematical and real-world contexts.
+Assessment items require students to solve problems involving circle segments, arcs, angles, inscribed figures, arc length, sector area, circle constructions, circle similarity, and equations of circles in mathematical and real-world contexts.
 
 ---
 
@@ -79,6 +82,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit develops circle theorem application, measurement reasoning, and coordinate modeling. Students interpret complex circle diagrams and connect geometric relationships to algebraic representations.
+This unit develops circle theorem application, measurement reasoning, construction reasoning, transformation-based circle similarity, and coordinate modeling. Students interpret complex circle diagrams and connect geometric relationships to algebraic representations.
 
 ---
