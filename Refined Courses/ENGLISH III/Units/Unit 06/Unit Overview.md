@@ -25,10 +25,10 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.11.C.1.3 | Write arguments to support claims based on an in-depth analysis of topics or texts using valid reasoning and credible evidence from sources, elaboration, and demonstrating a thorough understanding of the subject. |
-| ELA.11.C.1.4 | Write an analysis of complex texts using logical organization and appropriate tone and voice, demonstrating a thorough understanding of the subject. |
+| ELA.11.C.1.3 | Write literary analyses to support claims, using logical reasoning, credible evidence from sources, and elaboration, demonstrating an understanding of literary elements. |
+| ELA.11.C.1.4 | Write an analysis of complex texts using logical organization and a tone and voice appropriate to the task and audience, demonstrating an understanding of the subject. |
 | ELA.11.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
-| ELA.11.C.4.1 | Conduct research to answer a question, refining the scope of the question to align with interpretations of new understandings, and synthesizing information from primary and secondary sources. |
+| ELA.11.C.4.1 | Conduct literary research to answer a question, refining the scope of the question to align with interpretations of texts and synthesizing information from primary and secondary sources. |
 | ELA.11.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
 
 ---
@@ -37,7 +37,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Independent Synthesis Across Texts and Sources | ELA.11.C.2.1 | Quiz |
+| Lesson 1 | Independent Synthesis for Presentation | ELA.11.C.2.1 | Quiz |
 | Lesson 2 | Purpose, Audience, and Rhetorical Situation | ELA.11.C.2.1 | Quiz |
 | Lesson 3 | Organizing Oral Presentations | ELA.11.C.2.1 | Quiz |
 | Lesson 4 | Credible Evidence and Rhetorical Devices | ELA.11.C.2.1 | Quiz |

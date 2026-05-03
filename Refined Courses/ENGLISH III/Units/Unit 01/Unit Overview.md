@@ -4,9 +4,9 @@
 
 ## Unit Overview
 
-This unit strengthens advanced analytical reading and writing. Students analyze complex texts, evaluate how authors construct meaning, paraphrase grade-level content, integrate academic vocabulary, apply standard English conventions, and develop structured analytical responses supported by textual evidence.
+This unit strengthens advanced analytical reading and writing. Students analyze complex texts, evaluate how authors construct meaning, paraphrase grade-level content, and apply academic vocabulary and standard English conventions in analytical writing. Students develop structured analytical responses supported by textual evidence.
 
-Emphasis is placed on deep analysis, interpretation, author's craft, functional significance, accurate paraphrasing, precise academic writing, and evidence-based explanation. Students move from close comprehension toward evaluation of how textual elements shape meaning and style.
+Emphasis is placed on deep analysis, interpretation, author’s craft, functional significance, accurate paraphrasing, precise academic writing, and evidence-based explanation. Students move from close comprehension toward evaluation of how textual elements shape meaning and style.
 
 Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standards with an emphasis on evaluation, synthesis, argumentation, and communication. Students are expected to demonstrate advanced writing fluency and conceptual understanding through analysis of complex texts, paraphrasing, vocabulary application, conventions, and evidence-based analytical response.
 
@@ -16,7 +16,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.11.R.1.1 | Evaluate how key elements enhance or add layers of meaning and/or style in a literary text and explain the functional significance of those elements in interpreting the text. |
+| ELA.11.R.1.1 | Evaluate how key elements enhance or add layers of meaning and/or style in a literary text. |
 | ELA.11.R.3.2 | Paraphrase content from grade-level texts. |
 | ELA.11.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 | ELA.11.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
@@ -45,7 +45,7 @@ These concepts support advanced text analysis, evidence-based response, and acad
 | Lesson 3 | Paraphrasing Grade-Level Complex Texts | ELA.11.R.3.2 | Quiz |
 | Lesson 4 | Academic Vocabulary in Analytical Writing | ELA.11.V.1.1 | Quiz |
 | Lesson 5 | Conventions and Sentence Control | ELA.11.C.3.1 | Quiz |
-| Lesson 6 | Evidence-Based Analytical Responses | ELA.11.R.1.1, ELA.11.R.3.2 | Quiz |
+| Lesson 6 | Evaluating Evidence in Analytical Responses | ELA.11.R.1.1, ELA.11.R.3.2 | Quiz |
 | Lesson 7 | Structured Analysis of Text and Meaning | ELA.11.R.1.1, ELA.11.C.3.1, ELA.11.V.1.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 

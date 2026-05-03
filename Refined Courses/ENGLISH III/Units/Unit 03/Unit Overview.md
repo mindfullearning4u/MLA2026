@@ -4,9 +4,9 @@
 
 ## Unit Overview
 
-This unit deepens rhetorical analysis and argument evaluation. Students evaluate text structures and features, evaluate central ideas in speeches and essays from the Classical Period, analyze author purpose, compare multiple arguments on the same topic, evaluate rhetoric, and write arguments supported by valid reasoning and credible evidence.
+This unit deepens rhetorical analysis and argument evaluation. Students evaluate text structures and features, analyze central ideas in speeches and essays from the Classical Period, analyze author purpose, compare multiple arguments on the same topic, evaluate rhetoric, and write literary analyses supported by valid reasoning and credible evidence.
 
-Emphasis is placed on reasoning, evaluation of claims, credibility, bias, rhetorical effectiveness, author purpose, validity, and how authors use the same information to achieve different ends. Students apply rhetorical and argumentative analysis to formal evidence-based argument writing.
+Emphasis is placed on reasoning, evaluation of claims, credibility, bias, rhetorical effectiveness, author purpose, validity, and how authors use the same information to achieve different ends. Students apply rhetorical and argumentative analysis to formal evidence-based writing.
 
 Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standards with an emphasis on evaluation, synthesis, argumentation, and communication. Students are expected to demonstrate advanced writing fluency and conceptual understanding through informational analysis, argument evaluation, rhetorical analysis, and formal evidence-based argumentative writing.
 
@@ -16,12 +16,12 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.11.R.2.1 | Evaluate the structure(s) and features in texts, identifying how the author could make the text(s) more effective. |
+| ELA.11.R.2.1 | Evaluate the structure(s) and features in texts. |
 | ELA.11.R.2.2 | Evaluate the central idea(s) of speeches and essays from the Classical Period. |
 | ELA.11.R.2.3 | Analyze an author's choices in establishing and achieving purpose(s) in speeches and essays from the Classical Period. |
 | ELA.11.R.2.4 | Compare the development of multiple arguments on the same topic, evaluating the effectiveness and validity of the claims, the authors' reasoning, and the ways in which the authors use the same information to achieve different ends. |
 | ELA.11.R.3.4 | Evaluate an author's use of rhetoric in text. |
-| ELA.11.C.1.3 | Write arguments to support claims based on an in-depth analysis of topics or texts using valid reasoning and credible evidence from sources, elaboration, and demonstrating a thorough understanding of the subject. |
+| ELA.11.C.1.3 | Write literary analyses to support claims, using logical reasoning, credible evidence from sources, and elaboration, demonstrating an understanding of literary elements. |
 
 ---
 
@@ -44,7 +44,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 | Lesson 3 | Author Purpose in Classical Period Speeches and Essays | ELA.11.R.2.3 | Quiz |
 | Lesson 4 | Rhetoric and Rhetorical Effectiveness | ELA.11.R.3.4 | Quiz |
 | Lesson 5 | Multiple Arguments, Claims, and Reasoning | ELA.11.R.2.4 | Quiz |
-| Lesson 6 | Credibility, Bias, and Valid Reasoning | ELA.11.C.1.3 | Quiz |
+| Lesson 6 | Evaluating Credibility, Bias, and Reasoning | ELA.11.C.1.3 | Quiz |
 | Lesson 7 | Writing Evidence-Based Arguments | ELA.11.C.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
@@ -60,9 +60,9 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - author purpose and rhetorical choices;
 - multiple arguments, claims, and reasoning;
 - evaluation of rhetoric, credibility, and bias;
-- formal argument writing.
+- formal evidence-based writing.
 
-Assessment items require students to evaluate structures and features, evaluate central ideas, analyze author purpose, compare multiple arguments, evaluate rhetoric, assess validity and reasoning, and write arguments using in-depth analysis, valid reasoning, credible evidence, elaboration, and thorough understanding of the subject.
+Assessment items require students to evaluate structures and features, analyze central ideas, analyze author purpose, compare multiple arguments, evaluate rhetoric, assess validity and reasoning, and write literary analyses that support claims using logical reasoning, credible evidence from sources, and elaboration while demonstrating an understanding of literary elements.
 
 ---
 

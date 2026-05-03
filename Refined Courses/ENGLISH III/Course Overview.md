@@ -4,7 +4,7 @@
 
 ## Course Overview
 
-English III develops students' ability to analyze, evaluate, and synthesize complex literary and informational texts with an emphasis on American literature, historical context, and rhetorical influence. Students examine how ideas, values, and perspectives are shaped across time, analyze author's craft and rhetorical choices, evaluate arguments, conduct research, and produce independent writing for academic and real-world purposes.
+English III develops students' ability to analyze, evaluate, and synthesize complex literary and informational texts with an emphasis on American literature, historical context, and rhetorical influence. Students examine how ideas, values, and perspectives are shaped across time, analyze author’s craft and rhetorical choices, evaluate arguments, conduct research, and produce independent writing for academic and real-world purposes.
 
 The course is organized around competency-based progression. Students move through the course by demonstrating mastery of required instructional components, with emphasis on critical analysis, rhetorical evaluation, synthesis across texts, research, revision, and presentation.
 
@@ -16,7 +16,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 
 | Unit | Unit Title | Primary Focus |
 |------|------------|---------------|
-| Unit 01 | Advanced Analysis of Text and Meaning | Deep analysis, annotation, author's craft, paraphrasing, vocabulary, conventions, and interpretation of complex texts |
+| Unit 01 | Advanced Analysis of Text and Meaning | Deep analysis, annotation, author’s craft, paraphrasing, and interpretation of complex texts |
 | Unit 02 | American Literature and Perspective | American literature, historical context, narrator perspective, thematic development, poetry, literary influence, and narrative writing |
 | Unit 03 | Rhetoric, Argument, and Evaluation | Classical speeches and essays, rhetorical analysis, argument evaluation, credibility, bias, and reasoning |
 | Unit 04 | Research, Synthesis, and Argument Writing | Multi-source research, synthesis, complex text analysis, argument support, publication-ready writing, and academic integrity |
