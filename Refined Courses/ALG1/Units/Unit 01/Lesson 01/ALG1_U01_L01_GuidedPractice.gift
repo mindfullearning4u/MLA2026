@@ -1,0 +1,39 @@
+::ALG1_U01_L01_GuidedPractice_Q01::
+[MA.912.NSO.1.1] Evaluate 36^(1/2). {
+=6 #Correct. The exponent 1/2 means square root, and sqrt(36)=6.
+~18 #Not quite. This treats 1/2 like dividing 36 by 2, but a 1/2 exponent means square root.
+~72 #Not quite. This multiplies by 2, but the exponent 1/2 means square root.
+~1296 #Not quite. This squares 36, but 36^(1/2) asks for the square root.
+}
+
+::ALG1_U01_L01_GuidedPractice_Q02::
+[MA.912.NSO.1.1] Evaluate 125^(1/3). {
+=5 #Correct. The exponent 1/3 means cube root, and cuberoot(125)=5.
+~3 #Not quite. The denominator 3 names the root; it is not the answer.
+~25 #Not quite. This divides 125 by 5, but the expression asks for the cube root.
+~375 #Not quite. This multiplies by 3, but 1/3 as an exponent means cube root.
+}
+
+::ALG1_U01_L01_GuidedPractice_Q03::
+[MA.912.NSO.1.1] Evaluate 64^(2/3). {
+=16 #Correct. First take the cube root: cuberoot(64)=4. Then square: 4^2=16.
+~8 #Not quite. This only uses the cube root and forgets the numerator 2 means square.
+~32 #Not quite. This treats the exponent like multiplying by 2/3, not as root then power.
+~4096 #Not quite. This squares 64 and ignores the cube root.
+}
+
+::ALG1_U01_L01_GuidedPractice_Q04::
+[MA.912.NSO.1.1] Which expression is equivalent to 9^(3/2)? {
+=(sqrt(9))^3 #Correct. The denominator 2 means square root, and the numerator 3 means third power.
+~sqrt(9^2) #Not quite. This represents 9^(2/2), not 9^(3/2).
+~9 + 3/2 #Not quite. A rational exponent does not mean add the fraction to the base.
+~9^3 / 2 #Not quite. The denominator of a rational exponent does not mean divide by 2.
+}
+
+::ALG1_U01_L01_GuidedPractice_Q05::
+[MA.912.NSO.1.1] Simplify 2^(1/3) * 2^(2/3). {
+=2 #Correct. Same base means add exponents: 1/3+2/3=1, so 2^1=2.
+~2^(2/9) #Not quite. Exponents are added when multiplying same bases, not multiplied.
+~4 #Not quite. This adds the bases or doubles 2, but exponent rules require adding exponents.
+~2^(3/6) #Not quite. 1/3+2/3=3/3, not 3/6.
+}
