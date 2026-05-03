@@ -18,7 +18,6 @@ This unit represents the final demonstration of writing, revision, and communica
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
 | ELA.12.C.2.1 | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. |
 | ELA.12.C.5.1 | Design and evaluate digital presentations for effectiveness. |
 | ELA.12.C.5.2 | Create, publish, and share multimedia texts through a variety of digital formats. |
@@ -29,6 +28,7 @@ This unit represents the final demonstration of writing, revision, and communica
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
 

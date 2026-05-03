@@ -37,13 +37,13 @@ This unit integrates standards from multiple grade levels within the Grades 9–
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Image, Line, and Poetic Form | ELA.12.V.1.3, ELA.9.C.1.2 | Quiz |
+| Lesson 1 | Image, Line, and Poetic Form | ELA.12.V.1.3 | Quiz |
 | Lesson 2 | Figurative Language and Mood | ELA.9.R.3.1 | Quiz |
 | Lesson 3 | Symbolism and Pattern | ELA.12.V.1.3 | Quiz |
 | Lesson 4 | Sound Devices and Rhythm | ELA.12.V.1.3 | Quiz |
 | Lesson 5 | Connotation, Denotation, and Word Choice | ELA.12.V.1.3 | Quiz |
-| Lesson 6 | Figurative Language in Original Poems | ELA.12.V.1.3, ELA.9.C.1.2 | Quiz |
-| Lesson 7 | Poetry Revision and Craft Reflection with Language Precision | ELA.9.C.1.2, ELA.12.V.1.3 | Quiz |
+| Lesson 6 | Figurative Language in Original Poems | ELA.12.V.1.3 | Quiz |
+| Lesson 7 | Poetry Revision and Craft Reflection with Language Precision | ELA.12.V.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

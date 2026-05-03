@@ -16,10 +16,10 @@ Each benchmark has one primary unit for focused instruction and assessment. Beca
 
 | Standard Code | Strand Classification | Standard Description | Primary Unit |
 |--------------|-----------------------|----------------------|--------------|
-| ELA.9.C.1.2 | W | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. | Unit 05 |
+| ELA.9.C.1.2 | W | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. | Unit 02 |
 | ELA.10.C.1.2 | W | Write narratives using an appropriate pace to create tension, mood, and/or tone. | Unit 02 |
 | ELA.10.C.1.4 | W | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. | Unit 04 |
-| ELA.12.C.1.5 | W | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. | Unit 06 |
+| ELA.12.C.1.5 | W | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. | Unit 05 |
 | ELA.12.C.2.1 | C | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. | Unit 06 |
 | ELA.9.C.3.1 | C | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. | Unit 01 |
 | ELA.9.C.4.1 | C | Conduct research to answer a question, drawing on multiple reliable and valid sources and refining the scope of the question to align with findings. | Unit 04 |
