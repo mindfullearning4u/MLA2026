@@ -17,7 +17,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 | Standard Code | Standard Description |
 |--------------|----------------------|
 | ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
-| ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
+| ELA.10.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 
 ---
 
@@ -38,10 +38,10 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 | Lesson 1 | Feedback and Editorial Priorities | ELA.12.C.1.5 | Quiz |
 | Lesson 2 | Revising for Purpose and Clarity | ELA.12.C.1.5 | Quiz |
 | Lesson 3 | Revising Structure and Style | ELA.12.C.1.5 | Quiz |
-| Lesson 4 | Accuracy Checks and Corrections | ELA.12.C.1.5, ELA.9.C.3.1 | Quiz |
+| Lesson 4 | Accuracy Checks and Corrections | ELA.12.C.1.5, ELA.10.C.3.1 | Quiz |
 | Lesson 5 | Fairness and Ethical Decision-Making | ELA.12.C.1.5 | Quiz |
-| Lesson 6 | Conventions and Publication Standards | ELA.9.C.3.1 | Quiz |
-| Lesson 7 | Edited Article for Publication Readiness | ELA.12.C.1.5, ELA.9.C.3.1 | Quiz |
+| Lesson 6 | Conventions and Publication Standards | ELA.10.C.3.1 | Quiz |
+| Lesson 7 | Edited Article for Publication Readiness | ELA.12.C.1.5, ELA.10.C.3.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

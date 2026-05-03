@@ -8,7 +8,7 @@ This unit develops source evaluation and verification. Students evaluate support
 
 Emphasis is placed on credibility, bias detection, fact-checking, verification, valid claims, effective evidence, reasoning, source comparison, and responsible use of information. Students apply evaluation skills to real-world media and reporting contexts.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on informational evaluation, argument, credibility, bias, and evidence-based writing. Students are expected to demonstrate critical evaluation and writing fluency through source analyses, verification tasks, and evidence-based responses.
+Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on informational evaluation, evaluation of claims, credibility, bias, and evidence-based journalistic response. Students are expected to demonstrate critical evaluation and writing fluency through source analyses, verification tasks, and evidence-based responses.
 
 ---
 

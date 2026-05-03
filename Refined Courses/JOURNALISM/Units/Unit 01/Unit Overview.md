@@ -16,7 +16,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.9.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, varied purposeful transitions, and a tone appropriate to the task. |
+| ELA.9.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone appropriate to the task. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
 
 ---
