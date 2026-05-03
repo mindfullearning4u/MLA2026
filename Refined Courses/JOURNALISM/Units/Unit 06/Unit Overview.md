@@ -62,7 +62,7 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - digital presentation design and evaluation;
 - audience-aware communication.
 
-Assessment items require students to present information orally with logical organization, coherent focus, credible evidence, and effective rhetorical devices where appropriate; design and evaluate digital presentations for effectiveness; and use online collaborative platforms to create and export publication-ready quality writing tailored to a specific audience while integrating multimedia elements.
+Assessment items require students to present information orally with logical organization, coherent focus, credible evidence, and effective rhetorical devices where appropriate; design and evaluate digital presentations for effectiveness; and create, publish, and share multimedia texts through a variety of digital formats.
 
 ---
 

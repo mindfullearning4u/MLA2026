@@ -17,7 +17,6 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 | Standard Code | Standard Description |
 |--------------|----------------------|
 | ELA.10.C.4.1 | Conduct research to answer a question, refining the scope of the question to align with findings and synthesizing information from multiple reliable and valid sources. |
-| ELA.10.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. |
 
 ---
 
@@ -25,6 +24,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| ELA.10.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. |
 | ELA.9.R.2.2 | Evaluate the support an author uses to develop the central idea(s) throughout a text. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 
