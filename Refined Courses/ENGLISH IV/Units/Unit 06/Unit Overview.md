@@ -43,7 +43,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 12 Standard
 | Lesson 4 | Credible Evidence and Rhetorical Devices | ELA.12.C.2.1 | Quiz |
 | Lesson 5 | Digital Presentation Design for Effectiveness | ELA.12.C.5.1 | Quiz |
 | Lesson 6 | Evaluating Digital Presentations | ELA.12.C.5.1 | Quiz |
-| Lesson 7 | Capstone Synthesis and Presentation Application | ELA.12.C.2.1, ELA.12.C.5.1 | Quiz |
+| Lesson 7 | Independent Capstone Synthesis and Presentation | ELA.12.C.2.1, ELA.12.C.5.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

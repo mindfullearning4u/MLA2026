@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit develops advanced language use and revision. Students refine extended writing by applying vocabulary knowledge, evaluating feedback, and revising for purpose, clarity, structure, style, and audience. Students apply etymology, derivations, commonly used foreign phrases, context clues, figurative language, word relationships, reference materials, and background knowledge to determine word meanings.
+This unit develops advanced language use and revision. Students refine extended writing by applying vocabulary knowledge and evaluating feedback to improve purpose, clarity, structure, and style. Students apply etymology, derivations, commonly used foreign phrases, context clues, figurative language, word relationships, reference materials, and background knowledge to determine word meanings.
 
 Emphasis is placed on tone, precision, audience awareness, cohesion, connotation, denotation, foreign phrases, and purposeful revision. Students make independent language and structure decisions to improve meaning, communication, and readiness for capstone presentation.
 

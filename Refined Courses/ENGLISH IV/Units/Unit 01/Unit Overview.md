@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit strengthens independent analytical reading and writing. Students analyze complex texts, evaluate how authors construct meaning, paraphrase grade-level content, integrate academic vocabulary, apply standard English conventions, and develop independent analytical responses supported by textual evidence.
+This unit strengthens independent analytical reading and writing. Students analyze complex texts, evaluate how authors construct meaning, paraphrase grade-level content, and apply academic vocabulary and standard English conventions in independent analytical writing. Students develop independent analytical responses supported by textual evidence.
 
 Emphasis is placed on deep analysis, interpretation, author’s craft, functional significance, accurate paraphrasing, precise academic writing, and evidence-based explanation. Students demonstrate independence in analyzing how textual elements shape meaning and style.
 

@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit develops sustained research and synthesis skills. Students conduct research on topical issues, answer research questions, synthesize information from a variety of sources, analyze complex texts in depth, and create multimedia texts through digital formats.
+This unit develops sustained research and synthesis skills. Students conduct research on topical issues, answer research questions, synthesize information from a variety of sources, conduct in-depth analysis of complex texts, and create multimedia texts through digital formats.
 
 Emphasis is placed on research design, synthesis, credibility, organization, tone, academic integrity, source discernment, extended writing, and multimedia communication. Students use research and source synthesis to strengthen analytical and argumentative writing.
 

@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit develops advanced literary analysis across texts from different periods and perspectives. Students analyze two or more themes, evaluate character perspective, evaluate works of major poets in historical context, evaluate figurative language, analyze the influence of classic literature on contemporary world texts, and write complex narratives that establish multiple perspectives and convey universal themes.
+This unit develops advanced literary analysis across texts from different periods and perspectives. Students analyze multiple themes, evaluate character perspective, evaluate works of major poets in historical context, analyze figurative language, examine the influence of classic literature on contemporary texts, and write complex narratives that establish multiple perspectives and convey universal themes.
 
 Emphasis is placed on thematic development, perspective, conflicting perspectives, tone, meaning, poetry in context, literary influence, and evidence-based analysis. Students synthesize ideas across texts to explain how literature communicates complex meanings.
 
@@ -44,8 +44,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 12 Standard
 | Lesson 2 | Character Perspective and Conflicting Perspectives | ELA.12.R.1.3 | Quiz |
 | Lesson 3 | Major Poets in Historical Context | ELA.12.R.1.4 | Quiz |
 | Lesson 4 | Evaluating Figurative Language | ELA.12.R.3.1 | Quiz |
-| Lesson 5 | Classic Literature and Contemporary World Texts | ELA.12.R.3.3 | Quiz |
-| Lesson 6 | Cross-Text Literary Influence | ELA.12.R.1.2, ELA.12.R.3.3 | Quiz |
+| Lesson 5 | Classic Literature and Contemporary Texts | ELA.12.R.3.3 | Quiz |
+| Lesson 6 | Synthesizing Literary Influence Across Texts | ELA.12.R.1.2, ELA.12.R.3.3 | Quiz |
 | Lesson 7 | Complex Narrative Writing with Universal Themes | ELA.12.C.1.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 

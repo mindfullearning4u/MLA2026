@@ -44,7 +44,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 12 Standard
 | Lesson 3 | Author Purpose and Author Choices | ELA.12.R.2.3 | Quiz |
 | Lesson 4 | Rhetorical Choices Across Multiple Texts | ELA.12.R.3.4 | Quiz |
 | Lesson 5 | Related Arguments, Validity, and Reasoning | ELA.12.R.2.4 | Quiz |
-| Lesson 6 | Credibility, Bias, Claims, and Evidence | ELA.12.C.1.3 | Quiz |
+| Lesson 6 | Credibility, Bias, Claims, and Evidence | ELA.12.R.2.4 | Quiz |
 | Lesson 7 | Writing Evidence-Based Arguments | ELA.12.C.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
