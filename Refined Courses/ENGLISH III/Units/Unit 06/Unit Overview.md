@@ -16,7 +16,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 11 Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.11.C.2.1 | Present information orally, with a logical organization, coherent focus, and credible evidence while employing effective rhetorical devices where appropriate. |
+| ELA.11.C.2.1 | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. |
 | ELA.11.C.5.1 | Create digital presentations to improve the experience of the audience. |
 
 ---

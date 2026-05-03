@@ -32,7 +32,7 @@ Each benchmark has one primary unit for focused instruction and assessment. Beca
 | ELA.11.C.1.3 | W | Write literary analyses to support claims, using logical reasoning, credible evidence from sources, and elaboration, demonstrating an understanding of literary elements. | Unit 03 |
 | ELA.11.C.1.4 | W | Write an analysis of complex texts using logical organization and a tone and voice appropriate to the task and audience, demonstrating an understanding of the subject. | Unit 04 |
 | ELA.11.C.1.5 | W | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to improve clarity, structure, and style. | Unit 05 |
-| ELA.11.C.2.1 | C | Present information orally, with a logical organization, coherent focus, and credible evidence while employing effective rhetorical devices where appropriate. | Unit 06 |
+| ELA.11.C.2.1 | C | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. | Unit 06 |
 | ELA.11.C.3.1 | C | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. | Unit 01 |
 | ELA.11.C.4.1 | C | Conduct literary research to answer a question, refining the scope of the question to align with interpretations of texts and synthesizing information from primary and secondary sources. | Unit 04 |
 | ELA.11.C.5.1 | C | Create digital presentations to improve the experience of the audience. | Unit 06 |
