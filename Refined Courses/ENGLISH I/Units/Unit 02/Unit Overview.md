@@ -6,9 +6,9 @@
 
 This unit develops literary analysis through prose, poetry, and adapted texts. Students analyze key literary elements, universal themes, narrator perspective, irony, satire, epic poetry, figurative language, mood, and adaptations of mythical, classical, or religious literary texts.
 
-Emphasis is placed on explaining how authors create layers of meaning and style, tracing theme development, analyzing point of view, interpreting figurative language, and writing narratives with point of view and purposeful transitions.
+Emphasis is placed on explaining how authors create layers of meaning and style, tracing theme development, analyzing point of view, interpreting figurative language, and supporting analysis with textual evidence. Students deepen their ability to move from comprehension to interpretation and justification while connecting reading to purposeful narrative writing.
 
-Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through literary analysis, narrative writing, vocabulary application, and text-based explanation.
+Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through literary analysis, narrative writing, vocabulary application, and evidence-based explanation.
 
 ---
 
@@ -46,7 +46,7 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 | Lesson 4 | Figurative Language and Mood | ELA.9.R.3.1 | Quiz |
 | Lesson 5 | Epic Poetry: Characters, Structures, and Themes | ELA.9.R.1.4 | Quiz |
 | Lesson 6 | Adapted Mythical, Classical, and Religious Texts | ELA.9.R.3.3 | Quiz |
-| Lesson 7 | Narrative Writing with Point of View and Transitions | ELA.9.C.1.2 | Quiz |
+| Lesson 7 | Narrative Writing with Literary Techniques and Point of View | ELA.9.C.1.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -60,9 +60,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - theme development;
 - narrator perspective, irony, and satire;
 - figurative language, mood, and adaptation;
-- narrative writing.
+- narrative writing with purpose and structure;
+- use of textual evidence to support analysis.
 
-Assessment items require students to analyze literary elements, explain theme development, interpret narrator perspective and figurative language, analyze epic poetry, compare adaptations, and write narrative text using narrative techniques, transitions, and a clear point of view.
+Assessment items require students to analyze literary elements, explain theme development, interpret narrator perspective and figurative language, analyze epic poetry, compare adaptations, and write narrative text using narrative techniques, transitions, and a clear point of view. Students must support their analysis with relevant textual evidence and clear explanation.
 
 ---
 
@@ -80,6 +81,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit strengthens students' ability to interpret complex literary meaning. Students connect author choices, structure, perspective, language, and theme to explain how literature communicates ideas across time and culture.
+This unit strengthens students' ability to interpret complex literary meaning. Students connect author choices, structure, perspective, language, and theme to explain how literature communicates ideas across time and culture, supporting their interpretations with clear reasoning and textual evidence.
 
 ---

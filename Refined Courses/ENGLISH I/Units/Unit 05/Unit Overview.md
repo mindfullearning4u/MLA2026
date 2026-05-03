@@ -4,11 +4,11 @@
 
 ## Unit Overview
 
-This unit develops language awareness, style, and revision. Students apply etymology, derivations, context clues, figurative language, word relationships, reference materials, and background knowledge to determine word meanings. Students also improve writing by using feedback and revising for clarity and cohesiveness.
+This unit develops language awareness, style, and revision. Students apply etymology, derivations, context clues, figurative language, word relationships, reference materials, and background knowledge to determine word meanings. Students improve writing by evaluating feedback and revising for clarity, cohesiveness, and effectiveness.
 
-Emphasis is placed on precise word choice, connotation and denotation, academic vocabulary, conventions, sentence flow, clarity, cohesion, and revision as part of the writing process. Students use language knowledge to strengthen reading interpretation, writing quality, and oral communication.
+Emphasis is placed on precise word choice, connotation and denotation, academic vocabulary, conventions, sentence flow, clarity, cohesion, and revision as an intentional and iterative process. Students learn to make purposeful decisions about language and structure to strengthen meaning, improve communication, and enhance the impact of their writing.
 
-Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through vocabulary analysis, language application, conventions, feedback, and revision.
+Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through vocabulary analysis, language application, feedback evaluation, and purposeful revision.
 
 ---
 
@@ -41,8 +41,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 | Lesson 3 | Context Clues and Background Knowledge | ELA.9.V.1.3 | Quiz |
 | Lesson 4 | Figurative Language and Word Relationships | ELA.9.V.1.3 | Quiz |
 | Lesson 5 | Connotation, Denotation, and Reference Materials | ELA.9.V.1.3 | Quiz |
-| Lesson 6 | Feedback, Clarity, and Cohesiveness | ELA.9.C.1.5 | Quiz |
-| Lesson 7 | Revision for Style, Flow, and Meaning | ELA.9.C.1.5 | Quiz |
+| Lesson 6 | Evaluating Feedback and Improving Clarity and Cohesion | ELA.9.C.1.5 | Quiz |
+| Lesson 7 | Purposeful Revision for Style, Flow, and Meaning | ELA.9.C.1.5 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -55,10 +55,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - etymology and derivations;
 - context, connotation, and denotation;
 - vocabulary and language application;
-- feedback-based revision;
-- clarity and cohesiveness.
+- evaluation and use of feedback;
+- purposeful revision for clarity, cohesion, and effectiveness.
 
-Assessment items require students to determine meanings of words and phrases using etymology, derivations, context clues, figurative language, word relationships, reference materials, and background knowledge. Students must also improve writing by using feedback and revising for clarity and cohesiveness.
+Assessment items require students to determine meanings of words and phrases using multiple strategies and apply that knowledge to improve writing. Students must revise writing using feedback, demonstrate improvement in clarity and cohesiveness, and make intentional language choices that enhance meaning and communication.
 
 ---
 
@@ -76,6 +76,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit strengthens students' control of language. Students use vocabulary knowledge, feedback, and revision to make reading interpretations more precise and writing more clear, cohesive, and effective.
+This unit strengthens students' control of language and writing. Students use vocabulary knowledge, feedback, and revision to make intentional improvements to their writing, ensuring clarity, cohesion, precision, and effectiveness in communication.
 
 ---

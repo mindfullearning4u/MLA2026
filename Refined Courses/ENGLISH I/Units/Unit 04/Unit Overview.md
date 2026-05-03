@@ -6,9 +6,9 @@
 
 This unit develops expository writing and research. Students write to explain and analyze information from multiple sources, conduct research to answer a question, refine the scope of inquiry based on findings, and use collaborative platforms to create publication-ready writing for a specific audience.
 
-Emphasis is placed on source reliability, validity, organization, purposeful transitions, task-appropriate tone, research question development, synthesis of information, and audience awareness. Students use reading, writing, language, and technology together to develop clear explanatory writing.
+Emphasis is placed on source reliability and validity, identifying bias, organization, purposeful transitions, task-appropriate tone, research question development, synthesis of information across multiple sources, and audience awareness. Students learn to integrate sources effectively, cite evidence appropriately, and avoid plagiarism while developing clear and structured explanatory writing.
 
-Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through research, expository writing, source evaluation, collaboration, and publication.
+Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through research, expository writing, source evaluation, synthesis, collaboration, and publication.
 
 ---
 
@@ -39,11 +39,11 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Expository Purpose, Audience, and Task | ELA.9.C.1.4 | Quiz |
 | Lesson 2 | Research Questions and Inquiry Focus | ELA.9.C.4.1 | Quiz |
-| Lesson 3 | Reliable and Valid Sources | ELA.9.C.4.1 | Quiz |
+| Lesson 3 | Reliable, Valid, and Biased Sources | ELA.9.C.4.1 | Quiz |
 | Lesson 4 | Refining Research Based on Findings | ELA.9.C.4.1 | Quiz |
-| Lesson 5 | Organizing Expository Writing from Multiple Sources | ELA.9.C.1.4 | Quiz |
+| Lesson 5 | Organizing and Synthesizing Information from Multiple Sources | ELA.9.C.1.4 | Quiz |
 | Lesson 6 | Purposeful Transitions and Task-Appropriate Tone | ELA.9.C.1.4 | Quiz |
-| Lesson 7 | Collaborative Publication for a Specific Audience | ELA.9.C.5.2 | Quiz |
+| Lesson 7 | Collaborative Publication with Citation and Audience Awareness | ELA.9.C.5.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -54,11 +54,13 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 
 - conceptual understanding;
 - research question development;
-- reliable and valid source use;
+- evaluation of reliable, valid, and biased sources;
+- synthesis of information from multiple sources;
 - expository organization and analysis;
+- citation, attribution, and avoidance of plagiarism;
 - collaborative publication and audience awareness.
 
-Assessment items require students to conduct research, refine a question based on findings, draw on multiple reliable and valid sources, write expository text with logical organization and purposeful transitions, use task-appropriate tone, and create publication-ready writing tailored to a specific audience.
+Assessment items require students to conduct research, refine a question based on findings, draw on multiple reliable and valid sources, synthesize information, cite evidence appropriately, write expository text with logical organization and purposeful transitions, use task-appropriate tone, and create publication-ready writing tailored to a specific audience.
 
 ---
 
@@ -76,6 +78,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects inquiry, reading, writing, and technology. Students learn to ask focused questions, evaluate sources, organize information, and communicate findings clearly for a defined audience.
+This unit connects inquiry, reading, writing, and technology. Students learn to ask focused questions, evaluate sources for credibility and bias, synthesize information, and communicate findings clearly and responsibly for a defined audience.
 
 ---

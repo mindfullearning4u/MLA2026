@@ -6,9 +6,9 @@
 
 This unit develops informational text analysis and argumentative writing. Students analyze text structures and features, evaluate support for central ideas, analyze purpose through rhetorical appeals and figurative language, compare opposing arguments, explain rhetoric, and write arguments supported by logical reasoning and credible evidence.
 
-Emphasis is placed on how authors organize and develop ideas, how rhetoric influences purpose, how claims are supported or weakened, and how writers build arguments using multiple sources, counterclaims, organization, elaboration, transitions, and appropriate tone.
+Emphasis is placed on how authors organize and develop ideas, how rhetoric influences purpose, how claims are supported or weakened, and how writers build arguments using multiple sources, counterclaims, organization, elaboration, transitions, and appropriate tone. Students evaluate the credibility and strength of evidence, distinguish between strong and weak support, and apply reasoning to justify conclusions.
 
-Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through informational analysis, argument evaluation, rhetorical analysis, and argumentative writing.
+Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through informational analysis, argument evaluation, rhetorical analysis, and evidence-based argumentative writing.
 
 ---
 
@@ -44,8 +44,8 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 | Lesson 3 | Purpose, Rhetorical Appeals, and Figurative Language | ELA.9.R.2.3 | Quiz |
 | Lesson 4 | Rhetoric in Informational Texts | ELA.9.R.3.4 | Quiz |
 | Lesson 5 | Opposing Arguments, Effectiveness, and Validity | ELA.9.R.2.4 | Quiz |
-| Lesson 6 | Claims, Counterclaims, and Credible Evidence | ELA.9.C.1.3 | Quiz |
-| Lesson 7 | Writing Organized Arguments from Multiple Sources | ELA.9.C.1.3 | Quiz |
+| Lesson 6 | Claims, Counterclaims, Reasoning, and Credible Evidence | ELA.9.C.1.3 | Quiz |
+| Lesson 7 | Writing and Synthesizing Arguments from Multiple Sources | ELA.9.C.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -59,9 +59,10 @@ The Unit Assessment evaluates student mastery of all benchmarks addressed in thi
 - central idea and support;
 - rhetoric, purpose, and appeals;
 - opposing arguments and validity;
-- argumentative writing.
+- evaluation of evidence and reasoning;
+- argumentative writing with structure and clarity.
 
-Assessment items require students to analyze informational texts, evaluate support for central ideas, explain rhetoric and purpose, compare opposing arguments, and write an argument using logical reasoning, credible evidence, counterclaim rebuttal, organization, elaboration, transitions, and task-appropriate tone.
+Assessment items require students to analyze informational texts, evaluate support for central ideas, explain rhetoric and purpose, compare opposing arguments, assess the credibility and strength of evidence, and write an argument using logical reasoning, credible sources, counterclaim rebuttal, organization, elaboration, transitions, and task-appropriate tone.
 
 ---
 
@@ -79,6 +80,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit builds students' ability to evaluate ideas and arguments. Students learn to connect structure, evidence, rhetoric, and reasoning to determine how texts persuade, explain, and support claims.
+This unit builds students' ability to evaluate ideas and arguments. Students connect structure, evidence, rhetoric, and reasoning to determine how texts persuade, explain, and support claims, and use that understanding to make informed, evidence-based conclusions.
 
 ---

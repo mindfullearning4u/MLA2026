@@ -4,11 +4,11 @@
 
 ## Unit Overview
 
-This unit synthesizes reading, writing, language, research, and communication. Students present information orally with logical organization, coherent focus, credible evidence, and a clear perspective. Students also create digital presentations with coherent ideas and a clear perspective.
+This unit synthesizes reading, writing, language, research, and communication. Students independently present information orally with logical organization, coherent focus, credible evidence, and a clear perspective. Students also create digital presentations with coherent ideas and a clear perspective.
 
-Emphasis is placed on synthesizing evidence, organizing ideas for an audience, communicating a clear perspective, using academic vocabulary and conventions, and adapting written analysis into oral and digital communication. Students apply skills from the full course to demonstrate independent reading, writing, and presentation readiness.
+Emphasis is placed on synthesizing ideas and evidence across multiple texts and perspectives, organizing information for a specific audience, communicating a clear and purposeful perspective, using academic vocabulary and conventions, and adapting communication based on audience and task. Students apply skills from the full course to demonstrate independent reading, writing, and presentation readiness.
 
-Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through synthesis, presentation, digital communication, and final application.
+Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards with an emphasis on analysis, interpretation, justification, and communication. Students are expected to demonstrate both writing fluency and conceptual understanding through synthesis, independent presentation, digital communication, and final application.
 
 ---
 
@@ -37,13 +37,13 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Synthesis Across Texts and Ideas | ELA.9.C.2.1 | Quiz |
+| Lesson 1 | Synthesizing Across Multiple Texts and Perspectives | ELA.9.C.2.1 | Quiz |
 | Lesson 2 | Perspective, Purpose, and Audience | ELA.9.C.2.1 | Quiz |
 | Lesson 3 | Organizing Information for Oral Presentation | ELA.9.C.2.1 | Quiz |
 | Lesson 4 | Credible Evidence and Coherent Focus | ELA.9.C.2.1 | Quiz |
 | Lesson 5 | Digital Presentation Design and Organization | ELA.9.C.5.1 | Quiz |
-| Lesson 6 | Coherent Ideas and Clear Perspective | ELA.9.C.5.1 | Quiz |
-| Lesson 7 | Final Synthesis and Presentation Readiness | ELA.9.C.2.1, ELA.9.C.5.1 | Quiz |
+| Lesson 6 | Adapting Communication for Audience and Purpose | ELA.9.C.5.1 | Quiz |
+| Lesson 7 | Independent Synthesis and Presentation Application | ELA.9.C.2.1, ELA.9.C.5.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
@@ -53,13 +53,13 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
 
 - conceptual understanding;
-- synthesis of evidence and ideas;
-- oral organization and focus;
-- credible evidence and clear perspective;
+- synthesis of evidence and ideas across multiple sources and perspectives;
+- independent organization and communication;
+- oral presentation with coherent focus and credible evidence;
 - digital presentation development;
-- audience-aware communication.
+- audience-aware and purpose-driven communication.
 
-Assessment items require students to organize and present information orally with coherent focus, credible evidence, and a clear perspective. Students must also create a digital presentation with coherent ideas and a clear perspective while applying reading, writing, language, and communication skills from the full course.
+Assessment items require students to independently synthesize information, organize and present ideas orally with coherent focus and credible evidence, and create a digital presentation with clear perspective and logical structure. Students must demonstrate full-course integration of reading, writing, language, and communication skills.
 
 ---
 
@@ -77,6 +77,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit connects reading, writing, research, language, and communication into a final performance. Students learn to synthesize evidence, organize ideas, adapt communication to audience and purpose, and present a clear perspective.
+This unit connects reading, writing, research, language, and communication into a final independent performance. Students synthesize evidence, organize ideas, adapt communication for audience and purpose, and present a clear, well-supported perspective.
 
 ---
