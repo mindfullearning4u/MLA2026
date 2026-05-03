@@ -16,7 +16,6 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.9.R.1.1 | Explain how key elements enhance or add layers of meaning and/or style in a literary text. |
 | ELA.9.R.3.2 | Paraphrase content from grade-level texts. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
@@ -24,6 +23,10 @@ Instruction and assessment are aligned to Florida B.E.S.T. ELA Grade 9 Standards
 ---
 
 ## Prerequisite and Supporting Concepts
+
+| Standard Code | Standard Description |
+|--------------|----------------------|
+| ELA.9.R.1.1 | Explain how key elements enhance or add layers of meaning and/or style in a literary text. |
 
 Students are expected to have prior knowledge of:
 - identifying main ideas and relevant details;
