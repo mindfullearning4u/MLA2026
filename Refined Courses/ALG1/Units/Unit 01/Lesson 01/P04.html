@@ -3,17 +3,19 @@
     .mla-lesson{font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:1.75;color:#1f2933;max-width:980px;margin:0 auto;padding:24px}
     .lesson-header{display:flex;justify-content:space-between;align-items:center;gap:16px;background:#111827;color:#ffffff;border-radius:12px;padding:14px 18px;margin-bottom:18px;box-shadow:0 4px 14px rgba(17,24,39,0.18)}
     .lesson-path{font-size:0.95rem;font-weight:700;letter-spacing:0.02em}
-    .hero{background:#f0fdf4;border-left:8px solid #16a34a;border-radius:10px;padding:20px;margin-bottom:20px}
-    .box{padding:18px;margin-bottom:20px;border-radius:10px}
-    .example{background:#ffffff;border:1px solid #d1d5db;border-left:6px solid #2563eb;border-radius:10px;padding:18px;margin:0 0 20px 0}
-    .mistake{background:#fef2f2;border:1px solid #fecaca;border-left:6px solid #dc2626;border-radius:10px;padding:18px;margin:0 0 20px 0}
-    h1{font-size:28px;margin-top:0;margin-bottom:10px}
-    h2{font-size:22px;margin-top:0;margin-bottom:8px}
-    h3{font-size:20px;margin-top:0;margin-bottom:6px}
-    p{margin-bottom:12px}
-    ul{padding-left:22px;margin-bottom:12px}
-    li{margin-bottom:6px}
-    .math{font-size:20px;font-weight:600;display:block;margin:10px 0}
+    .hero{background:#f0fdf4;border-left:8px solid #16a34a;border-radius:10px;padding:24px;margin-bottom:22px}
+    .box{padding:22px;margin-bottom:22px;border-radius:10px}
+    .example{background:#ffffff;border:1px solid #d1d5db;border-left:6px solid #2563eb;border-radius:10px;padding:22px;margin:0 0 22px 0}
+    .mistake{background:#fef2f2;border:1px solid #fecaca;border-left:6px solid #dc2626;border-radius:10px;padding:22px;margin:0 0 22px 0}
+    h1{font-size:30px;margin-top:0;margin-bottom:12px}
+    h2{font-size:24px;margin-top:0;margin-bottom:10px}
+    h3{font-size:21px;margin-top:0;margin-bottom:8px}
+    p{margin-bottom:14px}
+    ul,ol{padding-left:26px;margin-bottom:16px}
+    li{margin-bottom:8px}
+    .math{font-size:26px;font-weight:600;line-height:1.6;letter-spacing:0.3px;display:block;margin:14px 0}
+    .math-inline{font-size:22px;font-weight:500}
+    .math sup,.math-inline sup{font-size:0.7em;vertical-align:super}
     code{background:#e5e7eb;padding:2px 5px;border-radius:4px}
   </style>
     <div class="lesson-header">
@@ -23,7 +25,7 @@
   </div>
 
 <div class="hero">
-    <h1>P04 Worked Examples</h1>
+    <h1>P04 Worked Example</h1>
     <p>Study each example carefully. Every step is shown because the reasoning matters as much as the final answer.</p>
   </div>
 
@@ -32,11 +34,11 @@
     <p><strong>Problem:</strong> Evaluate 49 to the power of 1/2, which means <code>49<sup>1/2</sup></code>.</p>
     <p><strong>Step 1:</strong> Identify the exponent. <code>1/2</code> means square root.</p>
     <p><strong>Step 2:</strong> Rewrite using radical form.</p>
-    <div class="math">49<sup>1/2</sup> = √49</div>
+    <p class="math">49<sup>1/2</sup> = √49</p>
     <p><strong>Step 3:</strong> Evaluate the root.</p>
-    <div class="math">√49 = 7</div>
+    <p class="math">√49 = 7</p>
     <p><strong>Answer:</strong></p>
-    <div class="math">49<sup>1/2</sup> = 7</div>
+    <p class="math">49<sup>1/2</sup> = 7</p>
     <p><strong>Reasoning:</strong> The square root of 49 is 7 because <code>7² = 49</code>.</p>
   </div>
 
@@ -44,13 +46,13 @@
     <h2>Example 2: Evaluate a Rational Exponent</h2>
     <p><strong>Problem:</strong> Evaluate 27 to the power of 2/3, which means <code>27<sup>2/3</sup></code>.</p>
     <p><strong>Step 1:</strong> The denominator is <code>3</code>, so take the cube root.</p>
-    <div class="math">27<sup>2/3</sup> = (∛27)²</div>
+    <p class="math">27<sup>2/3</sup> = (∛27)<sup>2</sup></p>
     <p><strong>Step 2:</strong> Evaluate the cube root.</p>
-    <div class="math">∛27 = 3</div>
+    <p class="math">∛27 = 3</p>
     <p><strong>Step 3:</strong> Apply the numerator as a power.</p>
-    <div class="math">3² = 9</div>
+    <p class="math">3<sup>2</sup> = 9</p>
     <p><strong>Answer:</strong></p>
-    <div class="math">27<sup>2/3</sup> = 9</div>
+    <p class="math">27<sup>2/3</sup> = 9</p>
     <p><strong>Reasoning:</strong> The denominator names the root; the numerator names the power.</p>
   </div>
 
@@ -59,21 +61,24 @@
     <p><strong>Problem:</strong> Simplify 2 to the power of 1/3 times 2 to the power of 2/3, which means <code>2<sup>1/3</sup> × 2<sup>2/3</sup></code>.</p>
     <p><strong>Step 1:</strong> Notice the bases are the same: both bases are <code>2</code>.</p>
     <p><strong>Step 2:</strong> When multiplying powers with the same base, add exponents.</p>
-    <div class="math">2<sup>1/3</sup> × 2<sup>2/3</sup> = 2<sup>1/3 + 2/3</sup></div>
+    <p class="math">2<sup>1/3</sup> × 2<sup>2/3</sup> = 2<sup>1/3 + 2/3</sup></p>
     <p><strong>Step 3:</strong> Add the fractions.</p>
     <p><code>1/3 + 2/3 = 3/3 = 1</code></p>
     <p><strong>Step 4:</strong> Evaluate.</p>
-    <div class="math">2¹ = 2</div>
+    <p class="math">2<sup>1</sup> = 2</p>
     <p><strong>Answer:</strong></p>
-    <div class="math">2<sup>1/3</sup> × 2<sup>2/3</sup> = 2</div>
+    <p class="math">2<sup>1/3</sup> × 2<sup>2/3</sup> = 2</p>
   </div>
 
   <div class="mistake">
     <h2>Common Mistake</h2>
-    <p><strong>Mistake:</strong> Thinking 27 to the power of 2/3, which means <code>27<sup>2/3</sup></code>, means <code>27² / 3</code>.</p>
+    <p><strong>27 to the power of 2/3 means:</strong></p>
+    <p class="math">27<sup>2/3</sup></p>
+    <p><strong>Incorrect:</strong></p>
+    <p class="math">27<sup>2/3</sup> = 27<sup>2</sup> ÷ 3</p>
     <p><strong>Why it is wrong:</strong> The denominator of a rational exponent tells the root. It does not mean divide the expression by that number.</p>
     <p><strong>Correct:</strong></p>
-    <div class="math">27<sup>2/3</sup> = (∛27)² = 3² = 9</div>
+    <p class="math">27<sup>2/3</sup> = (∛27)<sup>2</sup> = 3<sup>2</sup> = 9</p>
   </div>
 </section>
 

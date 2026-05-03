@@ -3,19 +3,21 @@
     .mla-lesson{font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:1.75;color:#1f2933;max-width:980px;margin:0 auto;padding:24px}
     .lesson-header{display:flex;justify-content:space-between;align-items:center;gap:16px;background:#111827;color:#ffffff;border-radius:12px;padding:14px 18px;margin-bottom:18px;box-shadow:0 4px 14px rgba(17,24,39,0.18)}
     .lesson-path{font-size:0.95rem;font-weight:700;letter-spacing:0.02em}
-    .hero{background:#ecfeff;border-left:8px solid #0891b2;border-radius:10px;padding:20px;margin-bottom:20px}
-    .box{border-radius:10px;padding:18px;margin:0 0 20px 0;border:1px solid #d1d5db}
+    .hero{background:#ecfeff;border-left:8px solid #0891b2;border-radius:10px;padding:24px;margin-bottom:22px}
+    .box{border-radius:10px;padding:22px;margin:0 0 22px 0;border:1px solid #d1d5db}
     .review{background:#fefce8;border-left:6px solid #ca8a04}
     .concept{background:#eff6ff;border-left:6px solid #2563eb}
     .vocab{background:#f5f3ff;border-left:6px solid #7c3aed}
     .process{background:#ecfdf5;border-left:6px solid #059669}
-    h1{font-size:28px;margin-top:0;margin-bottom:10px}
-    h2{font-size:22px;margin-top:0;margin-bottom:8px}
-    h3{font-size:20px;margin-top:0;margin-bottom:6px}
-    p{margin-bottom:12px}
-    ul{padding-left:22px;margin-bottom:12px}
-    li{margin-bottom:6px}
-    .math{font-size:20px;font-weight:600;display:block;margin:10px 0}
+    h1{font-size:30px;margin-top:0;margin-bottom:12px}
+    h2{font-size:24px;margin-top:0;margin-bottom:10px}
+    h3{font-size:21px;margin-top:0;margin-bottom:8px}
+    p{margin-bottom:14px}
+    ul,ol{padding-left:26px;margin-bottom:16px}
+    li{margin-bottom:8px}
+    .math{font-size:26px;font-weight:600;line-height:1.6;letter-spacing:0.3px;display:block;margin:14px 0}
+    .math-inline{font-size:22px;font-weight:500}
+    .math sup,.math-inline sup{font-size:0.7em;vertical-align:super}
     code{background:#e5e7eb;padding:2px 5px;border-radius:4px}
   </style>
     <div class="lesson-header">
@@ -32,10 +34,10 @@
   <div class="box review">
     <h2>Prerequisite Review: What You Need First</h2>
     <p><strong>Exponent:</strong> A number that tells how many times to use the base as a factor.</p>
-    <div class="math">3⁴ = 3 × 3 × 3 × 3 = 81</div>
+    <p class="math">3⁴ = 3 × 3 × 3 × 3 = 81</p>
     <p><strong>Root:</strong> A number that reverses a power.</p>
-    <div class="math">√36 = 6 because 6² = 36</div>
-    <div class="math">∛8 = 2 because 2³ = 8</div>
+    <p class="math">√36 = 6 because 6² = 36</p>
+    <p class="math">∛8 = 2 because 2³ = 8</p>
   </div>
 
   <div class="box concept">
@@ -43,11 +45,11 @@
     <p>A rational exponent is an exponent written as a fraction, such as <code>1/2</code>, <code>1/3</code>, <code>2/3</code>, or <code>3/4</code>.</p>
     <p>The denominator tells the root. The numerator tells the power.</p>
     <p><strong>a to the power of 1/2</strong> means <code>a<sup>1/2</sup></code>.</p>
-    <div class="math">a<sup>1/2</sup> means √a</div>
+    <p class="math">a<sup>1/2</sup> means √a</p>
     <p><strong>a to the power of 1/3</strong> means <code>a<sup>1/3</sup></code>.</p>
-    <div class="math">a<sup>1/3</sup> means ∛a</div>
+    <p class="math">a<sup>1/3</sup> means ∛a</p>
     <p><strong>a to the power of m/n</strong> means <code>a<sup>m/n</sup></code>.</p>
-    <div class="math">a<sup>m/n</sup> means (nth root of a)<sup>m</sup></div>
+    <p class="math">a<sup>m/n</sup> means (nth root of a)<sup>m</sup></p>
   </div>
 
   <div class="box vocab">
@@ -62,15 +64,23 @@
   </div>
 
   <div class="box process">
-    <h2>Step-by-Step Process</h2>
-    <p>Start with a concrete example: <strong>64 to the power of 2/3</strong> means <code>64<sup>2/3</sup></code>.</p>
-    <div class="math">64<sup>2/3</sup> = (∛64)² = 4² = 16</div>
-    <p>In general, to evaluate <strong>a to the power of m/n</strong>, which means <code>a<sup>m/n</sup></code>:</p>
+    <h2>How to Evaluate a Fractional Exponent</h2>
+    <p><strong>Example:</strong> 64 to the power of 2/3</p>
+    <p class="math">64<sup>2/3</sup></p>
+    <p>Step 1: Take the root. The denominator is 3, so take the cube root.</p>
+    <p class="math">∛64 = 4</p>
+    <p>Step 2: Apply the power. The numerator is 2, so square the result.</p>
+    <p class="math">4<sup>2</sup> = 16</p>
+    <p><strong>Final Answer:</strong></p>
+    <p class="math">64<sup>2/3</sup> = 16</p>
+    <p>In general:</p>
     <ol>
-      <li>Read the denominator <code>n</code> as the root.</li>
-      <li>Read the numerator <code>m</code> as the power.</li>
-      <li>Take the root first when the root is easy to calculate.</li>
-      <li>Raise the result to the power.</li>
+      <li>Identify the base.</li>
+      <li>Identify the denominator. This tells the root.</li>
+      <li>Identify the numerator. This tells the power.</li>
+      <li>Take the root first when possible.</li>
+      <li>Apply the power.</li>
+      <li>Check that the final value makes sense.</li>
     </ol>
   </div>
 
