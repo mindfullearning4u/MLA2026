@@ -4,7 +4,7 @@
 
 ## Unit Overview
 
-This unit establishes the foundation for creative writing. Students develop writing habits, explore voice and imagery, practice observation, use academic vocabulary to discuss craft, and apply standard English conventions in original writing.
+This unit establishes the foundation for creative writing. Students develop writing habits, explore voice and imagery, practice observation, use academic vocabulary to analyze and discuss writing craft, and apply standard English conventions in original writing.
 
 Emphasis is placed on voice, sensory detail, figurative language, image-making, writing routines, precision, conventions, and reflective response. Students begin building a writer's notebook as a record of ideas, drafts, craft observations, and revision choices.
 
@@ -32,6 +32,10 @@ Students are expected to have prior knowledge of:
 
 These concepts support creative expression, craft discussion, and clear written communication in this unit.
 
+| Standard Code | Standard Description |
+|--------------|----------------------|
+| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
+
 ---
 
 ## Lesson Breakdown
@@ -39,12 +43,12 @@ These concepts support creative expression, craft discussion, and clear written 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
 | Lesson 1 | Writing Habits and the Writer's Notebook | ELA.9.V.1.1 | Quiz |
-| Lesson 2 | Voice and Creative Observation | ELA.9.V.1.1 | Quiz |
-| Lesson 3 | Imagery and Sensory Detail | ELA.9.V.1.1 | Quiz |
-| Lesson 4 | Figurative Language as Creative Choice | ELA.9.V.1.1 | Quiz |
+| Lesson 2 | Voice and Creative Observation | ELA.9.V.1.1, ELA.9.C.1.2 | Quiz |
+| Lesson 3 | Imagery and Sensory Detail | ELA.9.V.1.1, ELA.9.C.1.2 | Quiz |
+| Lesson 4 | Figurative Language as Creative Choice | ELA.9.V.1.1, ELA.9.C.1.2 | Quiz |
 | Lesson 5 | Craft Vocabulary in Speaking and Writing | ELA.9.V.1.1 | Quiz |
 | Lesson 6 | Conventions in Original Writing | ELA.9.C.3.1 | Quiz |
-| Lesson 7 | Foundational Creative Response | ELA.9.V.1.1, ELA.9.C.3.1 | Quiz |
+| Lesson 7 | Foundational Creative Response | ELA.9.C.1.2, ELA.9.V.1.1, ELA.9.C.3.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

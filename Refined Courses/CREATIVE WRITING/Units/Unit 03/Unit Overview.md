@@ -10,6 +10,8 @@ Emphasis is placed on image, line, rhythm, sound, mood, symbol, figurative langu
 
 Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on language, interpretation, creative production, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through original poems, language analysis, and craft reflection.
 
+This unit integrates standards from multiple grade levels within the Grades 9–12 band to support advanced language use and creative production.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -25,6 +27,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 
@@ -34,13 +37,13 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Image, Line, and Poetic Form | ELA.12.V.1.3 | Quiz |
+| Lesson 1 | Image, Line, and Poetic Form | ELA.12.V.1.3, ELA.9.C.1.2 | Quiz |
 | Lesson 2 | Figurative Language and Mood | ELA.9.R.3.1 | Quiz |
 | Lesson 3 | Symbolism and Pattern | ELA.12.V.1.3 | Quiz |
 | Lesson 4 | Sound Devices and Rhythm | ELA.12.V.1.3 | Quiz |
 | Lesson 5 | Connotation, Denotation, and Word Choice | ELA.12.V.1.3 | Quiz |
-| Lesson 6 | Figurative Language in Original Poems | ELA.12.V.1.3 | Quiz |
-| Lesson 7 | Poetry Revision and Craft Reflection | ELA.9.R.3.1, ELA.12.V.1.3 | Quiz |
+| Lesson 6 | Figurative Language in Original Poems | ELA.12.V.1.3, ELA.9.C.1.2 | Quiz |
+| Lesson 7 | Poetry Revision and Craft Reflection with Language Precision | ELA.9.C.1.2, ELA.12.V.1.3 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

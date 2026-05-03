@@ -10,13 +10,14 @@ Emphasis is placed on narrative techniques, varied transitions, a clearly establ
 
 Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on creative production, narrative craft, revision readiness, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through original narrative writing.
 
+This unit integrates standards from multiple grade levels within the Grades 9–12 band to support increasing narrative complexity and craft development.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
 | ELA.10.C.1.2 | Write narratives using an appropriate pace to create tension, mood, and/or tone. |
 
 ---
@@ -25,6 +26,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 
@@ -40,7 +42,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 | Lesson 4 | Scene, Summary, and Transitions | ELA.9.C.1.2 | Quiz |
 | Lesson 5 | Pacing for Tension | ELA.10.C.1.2 | Quiz |
 | Lesson 6 | Mood and Tone in Narrative Drafts | ELA.10.C.1.2 | Quiz |
-| Lesson 7 | Developed Narrative Draft | ELA.9.C.1.2, ELA.10.C.1.2 | Quiz |
+| Lesson 7 | Developed Narrative Draft with Full Craft Integration | ELA.9.C.1.2, ELA.10.C.1.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

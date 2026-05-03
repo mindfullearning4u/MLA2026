@@ -10,6 +10,8 @@ Emphasis is placed on memory, reflection, scene, voice, truthfulness, research, 
 
 Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on creative production, research, synthesis, explanation, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through memoir, reflective writing, and source-informed creative nonfiction.
 
+This unit integrates standards from multiple grade levels within the Grades 9–12 band to support the development of narrative-based, source-informed writing.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
@@ -36,13 +38,13 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Memoir, Memory, and Reflection | ELA.10.C.1.4 | Quiz |
-| Lesson 2 | Real-World Storytelling and Truthfulness | ELA.10.C.1.4 | Quiz |
+| Lesson 1 | Memoir, Memory, and Reflection | ELA.9.C.1.2, ELA.10.C.1.4 | Quiz |
+| Lesson 2 | Real-World Storytelling and Truthfulness | ELA.9.C.1.2, ELA.10.C.1.4 | Quiz |
 | Lesson 3 | Research Questions for Creative Nonfiction | ELA.9.C.4.1 | Quiz |
 | Lesson 4 | Reliable and Valid Sources | ELA.9.C.4.1 | Quiz |
 | Lesson 5 | Organizing Source-Informed Nonfiction | ELA.10.C.1.4 | Quiz |
 | Lesson 6 | Tone, Voice, and Purposeful Transitions | ELA.10.C.1.4 | Quiz |
-| Lesson 7 | Creative Nonfiction Draft | ELA.10.C.1.4, ELA.9.C.4.1 | Quiz |
+| Lesson 7 | Source-Informed Creative Nonfiction Draft | ELA.9.C.1.2, ELA.10.C.1.4, ELA.9.C.4.1 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

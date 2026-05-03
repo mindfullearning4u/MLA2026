@@ -8,7 +8,7 @@ Creative Writing develops students' ability to produce original writing through 
 
 The course is organized around competency-based progression. Students move through the course by demonstrating mastery of required instructional components, with emphasis on writing habits, drafting, craft analysis, language precision, revision cycles, presentation, and portfolio development.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards from the high school band. The course does not use unique creative writing standards. Students are expected to demonstrate writing fluency, craft awareness, purposeful revision, language control, and independent creative decision-making through original written work and presentation.
+Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards from the Grades 9–12 band. The course does not use unique creative writing standards. Students are expected to demonstrate writing fluency, craft awareness, purposeful revision, language control, and independent creative decision-making through original written work and presentation.
 
 ---
 
@@ -19,7 +19,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 | Unit 01 | Foundations of Creative Expression | Voice, imagery, figurative language, writing habits, vocabulary, and conventions |
 | Unit 02 | Narrative Writing | Plot, character, conflict, point of view, pacing, tension, mood, and tone |
 | Unit 03 | Poetry and Language | Poetic forms, symbolism, sound devices, figurative language, connotation, and denotation |
-| Unit 04 | Creative Nonfiction | Memoir, reflective writing, real-world storytelling, research, source reliability, and explanatory structure |
+| Unit 04 | Creative Nonfiction | Memoir, reflective writing, real-world storytelling, light research, source reliability, and real-world context |
 | Unit 05 | Style and Revision | Tone, sentence flow, editing, feedback, vocabulary precision, and revision cycles |
 | Unit 06 | Portfolio and Publication | Portfolio development, revision of multiple works, oral presentation, digital presentation, and publication |
 
@@ -49,6 +49,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 This course is a creative writing course, not a duplicate English literature survey. Reading and analysis appear only as supporting craft study. The primary course work is original writing, revision, portfolio development, presentation, and publication.
 
-The course maintains academic rigor through sustained drafting, multiple genres, revision cycles, language precision, research-supported creative nonfiction, and a capstone portfolio.
+The course maintains academic rigor through sustained drafting, multiple genres, revision cycles, language precision, light research-supported creative nonfiction, and a capstone portfolio.
 
 ---

@@ -10,13 +10,15 @@ Emphasis is placed on tone, sentence rhythm, clarity, structure, style, editing,
 
 Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on revision, language control, creative decision-making, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through feedback-based revision and purposeful style decisions.
 
+This unit integrates standards from multiple grade levels within the Grades 9–12 band to support advanced revision and language precision.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
+| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
 | ELA.12.V.1.2 | Apply knowledge of etymology, derivations, and commonly used foreign phrases to determine meanings of words and phrases in grade-level content. |
 
 ---
@@ -25,6 +27,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 | ELA.12.V.1.3 | Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
@@ -35,13 +38,13 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Feedback and Revision Goals | ELA.12.C.1.5 | Quiz |
-| Lesson 2 | Purpose, Clarity, Structure, and Style | ELA.12.C.1.5 | Quiz |
+| Lesson 1 | Feedback and Revision Goals | ELA.12.C.1.5, ELA.9.C.1.2 | Quiz |
+| Lesson 2 | Purpose, Clarity, Structure, and Style | ELA.12.C.1.5, ELA.9.C.1.2 | Quiz |
 | Lesson 3 | Sentence Flow and Rhythm | ELA.12.C.1.5 | Quiz |
 | Lesson 4 | Tone and Precision | ELA.12.C.1.5 | Quiz |
 | Lesson 5 | Etymology, Derivations, and Foreign Phrases | ELA.12.V.1.2 | Quiz |
 | Lesson 6 | Editing for Publication Readiness | ELA.12.C.1.5 | Quiz |
-| Lesson 7 | Revision Cycle for Multiple Works | ELA.12.C.1.5, ELA.12.V.1.2 | Quiz |
+| Lesson 7 | Full Revision Cycle for Portfolio-Ready Writing | ELA.12.C.1.5, ELA.12.V.1.2, ELA.9.C.1.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---

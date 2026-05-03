@@ -10,12 +10,15 @@ Emphasis is placed on portfolio curation, revision cycles, publication readiness
 
 Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on presentation, publication, portfolio development, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through a final portfolio, presentation, and publication-ready work.
 
+This unit represents the final demonstration of writing, revision, and communication skills developed throughout the course.
+
 ---
 
 ## Primary B.E.S.T. Benchmarks
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
+| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
 | ELA.12.C.2.1 | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. |
 | ELA.12.C.5.1 | Design and evaluate digital presentations for effectiveness. |
 | ELA.12.C.5.2 | Create, publish, and share multimedia texts through a variety of digital formats. |
@@ -26,7 +29,6 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
 | ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
 | ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
 
@@ -42,7 +44,7 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 | Lesson 4 | Digital Presentation Design | ELA.12.C.5.1 | Quiz |
 | Lesson 5 | Evaluating Digital Presentation Effectiveness | ELA.12.C.5.1 | Quiz |
 | Lesson 6 | Oral Presentation of Creative Work | ELA.12.C.2.1 | Quiz |
-| Lesson 7 | Portfolio Publication and Presentation | ELA.12.C.2.1, ELA.12.C.5.1, ELA.12.C.5.2 | Quiz |
+| Lesson 7 | Final Portfolio Publication and Integrated Presentation | ELA.12.C.1.5, ELA.12.C.2.1, ELA.12.C.5.1, ELA.12.C.5.2 | Quiz |
 | Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
 
 ---
