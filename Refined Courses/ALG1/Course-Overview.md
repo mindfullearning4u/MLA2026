@@ -13,20 +13,22 @@ Instruction emphasizes conceptual understanding, procedural fluency, and applica
 
 ## Standards Alignment
 
-As a registered private school in the state of Florida, Mindful Learning Academy follows the **B.E.S.T. (Benchmarks for Excellent Student Thinking) standards for Mathematics**, established by the Florida Department of Education.
+As a registered private school in the State of Florida, Mindful Learning Academy follows the Florida B.E.S.T. (Benchmarks for Excellent Student Thinking) Standards as its primary academic framework.
 
-Instruction is standards-driven, with each lesson, assessment, and learning task explicitly tied to specific benchmarks within the B.E.S.T. framework. These standards emphasize mathematical reasoning, problem-solving, modeling, and real-world application.
+To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-Students engage in:
+• Florida B.E.S.T. Standards
+• Common Core State Standards
+• SAT College Readiness Standards
+• ACT College and Career Readiness Standards
 
-- Algebraic Reasoning (AR)  
-- Functions (F)  
-- Data Analysis and Probability (DP)  
-- Financial Literacy (FL) (integrated where appropriate)  
+This multi-framework approach allows students to develop mastery of essential concepts and skills while maintaining alignment with widely recognized academic expectations.
 
-Instruction is further supported by Florida’s **Mathematical Thinking and Reasoning (MTR) Standards**, which are embedded across all lessons and assessments to promote problem-solving, reasoning, and real-world application.
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
 
-All instructional components—including lesson activities, pretests, quizzes, checkpoints, notebook evidence, and unit assessments—are aligned to individual standards and require students to demonstrate mastery.
+Students residing in states that do not use Florida B.E.S.T. or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, procedural fluency, critical thinking, problem-solving, communication, and real-world application. Students demonstrate mastery through a competency-based progression model designed to support college, career, and lifelong learning readiness.
 
 ---
 
@@ -47,7 +49,7 @@ By the end of this course, students will be able to:
 
 ## Prerequisite Knowledge / Skills
 
-Students entering Algebra 1 are expected to have mastered foundational mathematics skills aligned to prior standards, including:
+Students entering Algebra 1 should have prior experience with the following concepts. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
 
 - Operations with integers, fractions, and decimals  
 - Ratios, proportions, and percent relationships  
@@ -64,13 +66,51 @@ These prerequisite skills are reinforced and extended throughout the course as n
 
 The course is organized into six units, each designed to build progressively on algebraic concepts and standards mastery.
 
-Each unit consists of structured lessons that include:
-- Concept development  
-- Guided and independent practice  
-- Application of knowledge  
-- Standards-based assessment  
+Most lessons follow the MLA instructional workflow:
 
-Instruction follows a mastery-based progression model, requiring students to demonstrate understanding before advancing.
+1. Notebook Task – Part 1
+2. Notebook Task – Part 2
+3. Guided Practice
+4. Independent Work
+5. Checkpoint
+6. Notebook Evidence Submission
+7. Checkpoint Submission
+8. Lesson Quiz
+
+This structure provides multiple opportunities to learn, practice, apply, and demonstrate understanding before advancing.
+
+Each unit also includes:
+
+• Unit Pretest (diagnostic and acceleration eligibility)
+• Standards-aligned lessons
+• Teacher-reviewed submissions
+• Unit Assessment
+
+Instruction follows a mastery-based progression model requiring demonstrated understanding before advancement.
+
+---
+
+## Lesson Workflow
+
+Most lessons follow the same learning sequence:
+
+Notebook Task Part 1
+↓
+Notebook Task Part 2
+↓
+Guided Practice
+↓
+Independent Work
+↓
+Checkpoint
+↓
+Notebook Evidence Submission
+↓
+Checkpoint Submission
+↓
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
 
 ---
 
@@ -78,28 +118,60 @@ Instruction follows a mastery-based progression model, requiring students to dem
 
 Student learning is evaluated using multiple standards-aligned measures:
 
-- **Pretests (Unit-Based):** Diagnostic assessments aligned to specific standards to determine readiness and eligibility for acceleration  
-- **Lesson Quizzes:** Short, standards-aligned assessments with immediate feedback  
-- **Checkpoints (Teacher of Record Graded):** Application-based tasks requiring demonstration of reasoning and problem-solving  
-- **Notebook Evidence (Teacher of Record Graded):** Student work including lesson notes, worked examples, and independent practice  
-- **Unit Assessments:** Comprehensive evaluations measuring mastery across all standards within each unit  
+### Unit Pretests
 
-This multi-measure approach ensures that mastery is consistent and not based on a single assessment.
+Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
+
+### Notebook Evidence Submissions (Teacher of Record Graded)
+
+Includes:
+
+• Notebook Task Part 1
+• Notebook Task Part 2
+• Independent Work
+
+Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, problem-solving, communication, and conceptual understanding.
+
+### Lesson Quizzes
+
+Standards-aligned assessments providing immediate feedback and measuring lesson-level mastery.
+
+### Unit Assessments
+
+Comprehensive evaluations measuring mastery of standards taught throughout the unit.
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
 ## Mastery & Progression Criteria
 
-Students progress through the course based on demonstrated mastery:
+Mindful Learning Academy follows a mastery-based learning model.
 
-- A minimum of **80% mastery across all required components** is required to advance to the next unit  
-- Mastery must be demonstrated across:
-  - Notebook Evidence  
-  - Checkpoints  
-  - Quizzes  
-  - Unit Assessments  
+To progress successfully through the course, students must:
 
-Students are not advanced until mastery is achieved, ensuring that learning gaps are addressed and understanding is solidified.
+• Complete all required lesson components
+• Submit Notebook Evidence
+• Submit Checkpoint Responses
+• Demonstrate lesson mastery through Lesson Quizzes
+• Complete all Unit Assessments
+
+Mastery is demonstrated through consistent performance across:
+
+• Notebook Evidence Submissions
+• Checkpoint Submissions
+• Lesson Quizzes
+• Unit Assessments
+
+A minimum mastery level of 80% is required before advancement.
+
+Students may be required to revise and resubmit work until mastery is demonstrated.
+
+Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
 
 ---
 
