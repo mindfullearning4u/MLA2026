@@ -6,11 +6,11 @@
 
 ## Course Description
 
-Statistics is a mastery-based course that develops students' ability to collect, analyze, interpret, communicate, and critique data using statistical reasoning, probability, research design, inference, and evidence-based decision making.
+Statistics is a mastery-based course that develops students' ability to collect, analyze, interpret, communicate, and critique data using statistical reasoning, probability, research design, inference, and evidence-based decision making. Students explore statistical thinking, data collection, data visualization, descriptive statistics, bivariate data, probability, simulation, statistical inference, and responsible interpretation of claims.
 
-Students explore statistics through statistical thinking, data collection, research design, data visualization, descriptive statistics, bivariate data, probability, simulation, statistical inference, and real-world applications. The course emphasizes research literacy, responsible data interpretation, communication of conclusions, evaluation of claims, and the ethical use of data.
+Students explore statistics through data interpretation, research literacy, mathematical communication, and real-world problem solving. The course emphasizes conceptual understanding, precision, justification, responsible use of data, and the application of statistical reasoning to authentic situations.
 
-Instruction emphasizes conceptual understanding, procedural fluency, and application of mathematical reasoning. Students engage in problem-solving tasks that require justification, modeling, interpretation, and communication, preparing them for College Statistics, research-based coursework, workforce data literacy, and data-informed decision making.
+Instruction emphasizes conceptual understanding, procedural fluency, and application of mathematical reasoning. Students engage in problem-solving tasks that require justification, modeling, and interpretation, preparing them for higher-level mathematics and real-world quantitative demands.
 
 ---
 
@@ -20,10 +20,10 @@ As a registered private school in the State of Florida, Mindful Learning Academy
 
 To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-- Florida B.E.S.T. / CPALMS Probability and Statistics Benchmarks
-- Common Core State Standards
-- SAT College Readiness Standards
-- ACT College and Career Readiness Standards
+â€¢ Florida B.E.S.T. / CPALMS Probability and Statistics Benchmarks
+â€¢ Common Core State Standards
+â€¢ SAT College Readiness Standards
+â€¢ ACT College and Career Readiness Standards
 
 This multi-framework approach allows students to develop mastery of essential concepts and skills while maintaining alignment with widely recognized academic expectations.
 
@@ -73,22 +73,22 @@ The course is organized into six units, each designed to build progressively on 
 
 Approved Statistics unit sequence:
 
-- Unit 1: Statistical Thinking and Data Foundations  
+â€¢ Unit 1: Statistical Thinking and Data Foundations  
 Students develop statistical thinking through statistical questions, variability, data types, variables, populations, samples, parameters, statistics, and the role of context.
 
-- Unit 2: Data Collection and Research Design  
+â€¢ Unit 2: Data Collection and Research Design  
 Students analyze sampling, surveys, experiments, observational studies, randomization, control, bias, confounding, ethics, and limits of conclusions.
 
-- Unit 3: Data Visualization and Descriptive Statistics  
+â€¢ Unit 3: Data Visualization and Descriptive Statistics  
 Students create, interpret, and critique displays; summarize distributions; compare groups; and communicate center, spread, shape, outliers, and context.
 
-- Unit 4: Bivariate Data, Association, and Models  
+â€¢ Unit 4: Bivariate Data, Association, and Models  
 Students analyze relationships between two variables using two-way tables, scatterplots, association, correlation, regression, residuals, and contextual interpretation.
 
-- Unit 5: Probability, Simulation, and Uncertainty  
+â€¢ Unit 5: Probability, Simulation, and Uncertainty  
 Students use probability, conditional probability, independence, expected value, probability models, and simulation to reason about uncertainty.
 
-- Unit 6: Statistical Inference, Claims, and Decisions  
+â€¢ Unit 6: Statistical Inference, Claims, and Decisions  
 Students interpret sampling variability, confidence intervals, margin of error, hypothesis-testing language, p-values, statistical significance, practical significance, claim evaluation, and conclusions.
 
 Most lessons follow the MLA instructional workflow:
@@ -106,10 +106,10 @@ This structure provides multiple opportunities to learn, practice, apply, and de
 
 Each unit also includes:
 
-- Unit Pretest (diagnostic and acceleration eligibility)
-- Standards-aligned lessons
-- Teacher-reviewed submissions
-- Unit Assessment
+â€¢ Unit Pretest (diagnostic and acceleration eligibility)
+â€¢ Standards-aligned lessons
+â€¢ Teacher-reviewed submissions
+â€¢ Unit Assessment
 
 Instruction follows a mastery-based progression model requiring demonstrated understanding before advancement.
 
@@ -119,20 +119,20 @@ Instruction follows a mastery-based progression model requiring demonstrated und
 
 Most lessons follow the same learning sequence:
 
-Notebook Task Part 1  
-->  
-Notebook Task Part 2  
-->  
-Guided Practice  
-->  
-Independent Work  
-->  
-Checkpoint  
-->  
-Notebook Evidence Submission  
-->  
-Checkpoint Submission  
-->  
+Notebook Task Part 1
+â†“
+Notebook Task Part 2
+â†“
+Guided Practice
+â†“
+Independent Work
+â†“
+Checkpoint
+â†“
+Notebook Evidence Submission
+â†“
+Checkpoint Submission
+â†“
 Lesson Quiz
 
 This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
@@ -151,9 +151,9 @@ Diagnostic assessments aligned to MLA standards and cross-referenced academic fr
 
 Includes:
 
-- Notebook Task Part 1
-- Notebook Task Part 2
-- Independent Work
+â€¢ Notebook Task Part 1
+â€¢ Notebook Task Part 2
+â€¢ Independent Work
 
 Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
 
@@ -197,18 +197,18 @@ Mindful Learning Academy follows a mastery-based learning model.
 
 To progress successfully through the course, students must:
 
-- Complete all required lesson components
-- Submit Notebook Evidence
-- Submit Checkpoint Responses
-- Demonstrate lesson mastery through Lesson Quizzes
-- Complete all Unit Assessments
+â€¢ Complete all required lesson components
+â€¢ Submit Notebook Evidence
+â€¢ Submit Checkpoint Responses
+â€¢ Demonstrate lesson mastery through Lesson Quizzes
+â€¢ Complete all Unit Assessments
 
 Mastery is demonstrated through consistent performance across:
 
-- Notebook Evidence Submissions
-- Checkpoint Submissions
-- Lesson Quizzes
-- Unit Assessments
+â€¢ Notebook Evidence Submissions
+â€¢ Checkpoint Submissions
+â€¢ Lesson Quizzes
+â€¢ Unit Assessments
 
 A minimum mastery level of 80% is required before advancement.
 
@@ -222,7 +222,7 @@ Revision opportunities, additional practice, remediation, and progress monitorin
 
 ## College / Skill Readiness Integration
 
-Statistics integrates foundational skills essential for College Statistics, research literacy, workforce data literacy, and data-informed decision making. Students develop:
+Statistics integrates foundational skills essential for college readiness and future academic success. Students develop:
 
 - Statistical thinking and interpretation of variability  
 - Research literacy through surveys, experiments, sampling, bias, and study design  
@@ -230,4 +230,4 @@ Statistics integrates foundational skills essential for College Statistics, rese
 - Probability, simulation, inference, and evidence-based decision making  
 - Responsible use of data in academic, career, civic, and personal contexts  
 
-Instruction includes structured opportunities aligned with college readiness expectations, preparing students for Psychology, Education, Nursing, Healthcare, Criminal Justice, Business, Social Sciences, workforce data literacy, and research-based college coursework.
+Instruction includes structured opportunities aligned with college readiness expectations, preparing students for College Statistics, research-based coursework, workforce data literacy, and future academic benchmarks.

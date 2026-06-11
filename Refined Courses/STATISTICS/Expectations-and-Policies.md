@@ -10,19 +10,19 @@ Feedback is typically provided within 24 business hours.
 
 Business Hours:
 
-- Monday through Friday
+â€¢ Monday through Friday
 
-- 8:00 AM - 5:00 PM Eastern Time
+â€¢ 8:00 AM â€“ 5:00 PM Eastern Time
 
 Feedback may include:
 
-- Corrections
+â€¢ Corrections
 
-- Recommendations
+â€¢ Recommendations
 
-- Revision requests
+â€¢ Revision requests
 
-- Additional practice opportunities
+â€¢ Additional practice opportunities
 
 Grading is generally not conducted on weekends or school holidays.
 
@@ -30,15 +30,15 @@ Grading is generally not conducted on weekends or school holidays.
 
 ## Academic Integrity
 
-- All submitted work must represent the student's own understanding.
+â€¢ All submitted work must represent the student's own understanding.
 
-- AI tools may be used to support learning, review concepts, generate practice opportunities, receive explanations, and assist with studying.
+â€¢ AI tools may be used to support learning, review concepts, generate practice opportunities, receive explanations, and assist with studying.
 
-- Students may NOT submit AI-generated work as their own original work.
+â€¢ Students may NOT submit AI-generated work as their own original work.
 
-- Students must be prepared to explain and demonstrate understanding of all submitted work.
+â€¢ Students must be prepared to explain and demonstrate understanding of all submitted work.
 
-- Misrepresentation of work, plagiarism, cheating, or academic dishonesty may result in revision requirements, additional review, or disciplinary action.
+â€¢ Misrepresentation of work, plagiarism, cheating, or academic dishonesty may result in revision requirements, additional review, or disciplinary action.
 
 ---
 
@@ -48,19 +48,19 @@ Students should contact their Teacher of Record (TOR) through the course messagi
 
 Response Expectations:
 
-- Responses are typically provided within 24 business hours.
+â€¢ Responses are typically provided within 24 business hours.
 
-- Students should review feedback and course resources before requesting clarification.
+â€¢ Students should review feedback and course resources before requesting clarification.
 
 Parents and guardians should communicate with the Academy regarding:
 
-- Grades
+â€¢ Grades
 
-- Policies
+â€¢ Policies
 
-- Scheduling
+â€¢ Scheduling
 
-- Academic concerns
+â€¢ Academic concerns
 
 ---
 
@@ -68,13 +68,13 @@ Parents and guardians should communicate with the Academy regarding:
 
 Students should have:
 
-- Reliable internet access
+â€¢ Reliable internet access
 
-- Desktop or laptop computer (recommended)
+â€¢ Desktop or laptop computer (recommended)
 
-- Ability to submit PDF, Word, and image files
+â€¢ Ability to submit PDF, Word, and image files
 
-- Access to course materials and messaging tools
+â€¢ Access to course materials and messaging tools
 
 Students are responsible for maintaining access to the technology required to participate successfully in the course.
 
@@ -84,16 +84,16 @@ Students are responsible for maintaining access to the technology required to pa
 
 Students are responsible for:
 
-- Completing required coursework
+â€¢ Completing required coursework
 
-- Reviewing feedback provided by instructors
+â€¢ Reviewing feedback provided by instructors
 
-- Participating actively in the learning process
+â€¢ Participating actively in the learning process
 
-- Seeking assistance when needed
+â€¢ Seeking assistance when needed
 
-- Maintaining academic integrity
+â€¢ Maintaining academic integrity
 
-- Demonstrating mastery before advancement
+â€¢ Demonstrating mastery before advancement
 
 Success in a mastery-based environment requires personal responsibility, consistent effort, and a willingness to learn from feedback.
