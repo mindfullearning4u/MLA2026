@@ -1,11 +1,14 @@
-# ALG1 – Algebra 1  
-**Credit:** 1.0  
+# ALG1 - Algebra 1
+**Credit:** 1.0 High School Mathematics Credit  
+**Course Type:** Mastery-Based High School Mathematics Course  
 
 ---
 
 ## Course Description
 
-Algebra 1 is a foundational mathematics course that develops students’ ability to reason abstractly and quantitatively through the study of algebraic relationships. Students explore linear, quadratic, and exponential functions; solve equations and inequalities; analyze and model real-world situations; and interpret data.
+Algebra 1 is a mastery-based course that develops students' ability to reason abstractly and quantitatively through the study of algebraic relationships. Students explore linear, quadratic, and exponential functions; solve equations and inequalities; analyze and model real-world situations; and interpret data.
+
+Students explore algebra through numerical reasoning, symbolic reasoning, mathematical communication, and real-world problem solving. The course emphasizes conceptual understanding, procedural fluency, precision, justification, and the application of algebraic principles to authentic situations.
 
 Instruction emphasizes conceptual understanding, procedural fluency, and application of mathematical reasoning. Students engage in problem-solving tasks that require justification, modeling, and interpretation, preparing them for higher-level mathematics and real-world quantitative demands.
 
@@ -17,7 +20,7 @@ As a registered private school in the State of Florida, Mindful Learning Academy
 
 To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-• Florida B.E.S.T. Standards
+• Florida B.E.S.T. Algebra 1 Benchmarks
 • Common Core State Standards
 • SAT College Readiness Standards
 • ACT College and Career Readiness Standards
@@ -66,10 +69,30 @@ These prerequisite skills are reinforced and extended throughout the course as n
 
 The course is organized into six units, each designed to build progressively on algebraic concepts and standards mastery.
 
+Approved Algebra 1 unit sequence:
+
+• Unit 1: Foundations of Algebra and Expressions  
+Students develop prerequisite skills, algebra readiness, number sense, expression structure, algebraic language, exponent properties, combining like terms, and the distributive property.
+
+• Unit 2: Solving Linear Equations  
+Students develop procedural fluency and conceptual understanding of one-step, two-step, multi-step, variables-on-both-sides, literal, and application-based equations.
+
+• Unit 3: Linear Relationships and Inequalities  
+Students connect equations, graphs, slope, rate of change, linear models, and inequalities using coordinate-plane reasoning and real-world contexts.
+
+• Unit 4: Functions  
+Students develop formal understanding of functions, function notation, domain and range, function behavior, multiple representations, and function comparison.
+
+• Unit 5: Quadratic and Exponential Models  
+Students develop understanding of nonlinear relationships, polynomial readiness, quadratic models, exponential growth and decay, and comparison of linear, quadratic, and exponential models.
+
+• Unit 6: Systems, Data, and Financial Literacy  
+Students apply Algebra 1 concepts through systems of equations, data analysis, trend analysis, financial literacy applications, and multi-step algebraic modeling.
+
 Most lessons follow the MLA instructional workflow:
 
-1. Notebook Task – Part 1
-2. Notebook Task – Part 2
+1. Notebook Task - Part 1
+2. Notebook Task - Part 2
 3. Guided Practice
 4. Independent Work
 5. Checkpoint
@@ -132,17 +155,35 @@ Includes:
 
 Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
 
+Notebook Evidence demonstrates engagement, organization, note-taking, and the learning process.
+
 ### Checkpoint Submissions (Teacher of Record Graded)
 
 Application-based mastery tasks requiring students to demonstrate reasoning, problem-solving, communication, and conceptual understanding.
+
+Checkpoint Submission demonstrates application of concepts, reasoning, communication, and problem-solving.
 
 ### Lesson Quizzes
 
 Standards-aligned assessments providing immediate feedback and measuring lesson-level mastery.
 
+Lesson Quiz demonstrates lesson-level mastery and understanding of key concepts and skills.
+
 ### Unit Assessments
 
 Comprehensive evaluations measuring mastery of standards taught throughout the unit.
+
+Unit Assessment demonstrates unit-level mastery and the ability to integrate and apply learning across multiple standards.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
 
 This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
@@ -173,6 +214,8 @@ Students may be required to revise and resubmit work until mastery is demonstrat
 
 Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
 
+Revision opportunities, additional practice, remediation, and progress monitoring may be provided when students need support in demonstrating mastery.
+
 ---
 
 ## College / Skill Readiness Integration
@@ -180,7 +223,9 @@ Students are not advanced based solely on time spent in the course. Advancement 
 Algebra 1 integrates foundational skills essential for college readiness and future academic success. Students develop:
 
 - Analytical reasoning and problem-solving skills  
-- Interpretation of quantitative data  
-- Application of mathematical models to real-world situations  
+- Interpretation of quantitative data, graphs, and algebraic models  
+- Mathematical communication and justification  
+- Application of algebraic relationships to real-world situations  
 
 Instruction includes structured opportunities aligned with college readiness expectations, preparing students for advanced coursework and future academic benchmarks.
+
