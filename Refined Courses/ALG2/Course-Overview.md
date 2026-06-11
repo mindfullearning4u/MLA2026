@@ -6,9 +6,9 @@
 
 ## Course Description
 
-Algebra II is a mastery-based course that extends students' algebraic reasoning through advanced expressions, polynomial functions, radical and rational relationships, exponential and logarithmic functions, systems, financial models, data analysis, and mathematical modeling.
+Algebra II is a mastery-based course that extends students' ability to reason abstractly and quantitatively through the study of advanced algebraic relationships. Students explore polynomial, radical, rational, exponential, and logarithmic functions; solve equations, inequalities, and systems; analyze and model real-world situations; and interpret data.
 
-Students explore Algebra II through symbolic reasoning, function analysis, mathematical communication, and real-world problem solving. The course emphasizes conceptual understanding, procedural fluency, precision, justification, and the application of advanced algebraic principles to authentic situations.
+Students explore algebra through numerical reasoning, symbolic reasoning, mathematical communication, and real-world problem solving. The course emphasizes conceptual understanding, procedural fluency, precision, justification, and the application of algebraic principles to authentic situations.
 
 Instruction emphasizes conceptual understanding, procedural fluency, and application of mathematical reasoning. Students engage in problem-solving tasks that require justification, modeling, and interpretation, preparing them for higher-level mathematics and real-world quantitative demands.
 
@@ -41,18 +41,18 @@ By the end of this course, students will be able to:
 
 - Analyze, rewrite, and operate with advanced algebraic expressions  
 - Solve polynomial, radical, rational, exponential, logarithmic, and systems-based equations  
-- Interpret and analyze functions represented algebraically, graphically, numerically, and verbally  
-- Analyze polynomial behavior, zeros, roots, end behavior, and function features  
+- Interpret and analyze functions represented algebraically, graphically, and numerically  
 - Model real-world relationships using polynomial, rational, exponential, logarithmic, financial, and data-based models  
 - Use function transformations, operations, composition, and inverses to analyze relationships  
-- Interpret data, regression models, and model comparisons using mathematical reasoning  
-- Construct and justify mathematical arguments using precise reasoning and communication  
+- Analyze data sets, regression models, and model comparisons  
+- Construct and justify mathematical arguments using precise reasoning  
+- Apply Algebra II concepts to real-world problem-solving scenarios  
 
 ---
 
 ## Prerequisite Knowledge / Skills
 
-Students entering Algebra II should have successfully completed Algebra I and Geometry. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
+Students entering Algebra II should have prior experience with the following concepts. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
 
 - Algebra I equation solving and inequality solving  
 - Function notation, graph interpretation, domain, and range  
@@ -69,7 +69,7 @@ These prerequisite skills are reinforced and extended throughout the course as n
 
 ## Course Structure
 
-The course is organized into six units, each designed to build progressively on advanced algebraic concepts and standards mastery.
+The course is organized into six units, each designed to build progressively on algebraic concepts and standards mastery.
 
 Approved Algebra II unit sequence:
 
@@ -225,7 +225,7 @@ Revision opportunities, additional practice, remediation, and progress monitorin
 Algebra II integrates advanced skills essential for college readiness and future academic success. Students develop:
 
 - Advanced algebraic reasoning and problem-solving skills  
-- Interpretation of functions, graphs, data, and mathematical models  
+- Interpretation of quantitative data, graphs, and algebraic models  
 - Mathematical communication and justification  
 - Application of advanced algebraic relationships to real-world situations  
 
