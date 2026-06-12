@@ -1,0 +1,28 @@
+{
+  "course": "ALG2",
+  "unit": "Unit 01",
+  "lesson": "Lesson 03",
+  "title": "Quiz: Factoring and Algebraic Structure",
+  "primaryStandards": [
+    {
+      "code": "MLA.A2.AE.1",
+      "description": "Interpret the structure of algebraic expressions and identify equivalent forms.",
+      "floridaBenchmark": "MA.912.AR.1.1"
+    },
+    {
+      "code": "MLA.A2.AE.5",
+      "description": "Rewrite polynomial expressions as products over the real or complex number system.",
+      "floridaBenchmark": "MA.912.AR.1.8"
+    }
+  ],
+  "format": "GIFT",
+  "giftFile": "ALG2_U01_L03_Quiz.gift",
+  "questionBankSize": 25,
+  "questionsPerAttempt": 5,
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  }
+}
