@@ -1,4 +1,4 @@
-# ALG1 – Unit 01 Overview: Algebraic Structure, Expressions, and Equivalent Forms
+# ALG1 - Unit 01 Overview: Algebraic Structure, Expressions, and Equivalent Forms
 
 ---
 

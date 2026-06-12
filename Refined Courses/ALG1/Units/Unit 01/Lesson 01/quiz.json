@@ -1,20 +1,26 @@
 {
-  "course": "ALG1",
-  "unit": "Unit 01",
-  "lesson": "Lesson 01",
-  "title": "Quiz: Rational Exponents and Equivalent Numerical Expressions",
-  "primaryStandard": {
-    "code": "MA.912.NSO.1.1",
-    "description": "Extend previous understanding of the Laws of Exponents to include rational exponents. Apply the Laws of Exponents to evaluate numerical expressions and generate equivalent numerical expressions involving rational exponents."
-  },
-  "format": "GIFT",
-  "giftFile": "ALG1_U01_L01_Quiz.gift",
-  "questionBankSize": 25,
-  "questionsPerAttempt": 5,
-  "masteryThreshold": 80,
-  "attemptPolicy": {
-    "studentAttemptsBeforeIntervention": 1,
-    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
-    "questionReuseRule": "Questions must not repeat exactly across attempts."
-  }
+    "course":  "ALG1",
+    "unit":  "Unit 01",
+    "lesson":  "Lesson 01",
+    "title":  "Quiz: Rational Exponents and Equivalent Numerical Expressions",
+    "primaryStandard":  {
+                            "code":  "MA.912.NSO.1.1",
+                            "description":  "Extend previous understanding of the Laws of Exponents to include rational exponents. Apply the Laws of Exponents to evaluate numerical expressions and generate equivalent numerical expressions involving rational exponents."
+                        },
+    "format":  "GIFT",
+    "giftFile":  "ALG1_U01_L01_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "A":  7,
+                                      "B":  6,
+                                      "C":  6,
+                                      "D":  6
+                                  }
 }
