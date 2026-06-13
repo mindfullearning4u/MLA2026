@@ -56,9 +56,9 @@ Question ID:<br>ALG2_U05_UA_Q07<br><br>MLA Standard:<br>MLA.A2.FN.3; MLA.A2.FN.1
 
 ::ALG2_U05_UA_Q08::
 Question ID:<br>ALG2_U05_UA_Q08<br><br>MLA Standard:<br>MLA.A2.SYS.1; MLA.A2.SYS.2<br><br>Question:<br>Solve y=2x and y=10. {
-~ x=20#This multiplies.
+~ x=20#This multiplies 10 by 2 instead of solving 10=2x by division.
 = x=5#Correct. 10=2x gives x=5.
-~ x=10#This is y.
+~ x=10#This is the y-value from the horizontal equation, not the x-solution.
 ~ x=2#This is the coefficient.
 }
 
@@ -112,10 +112,10 @@ Question ID:<br>ALG2_U05_UA_Q14<br><br>MLA Standard:<br>MLA.A2.FN.3; MLA.A2.FN.1
 
 ::ALG2_U05_UA_Q15::
 Question ID:<br>ALG2_U05_UA_Q15<br><br>MLA Standard:<br>MLA.A2.SYS.1; MLA.A2.SYS.2<br><br>Question:<br>Solve y=x-3 and y=0. {
-~ x=0#This is y.
+~ x=0#This uses the given y-value as if it were the x-solution.
 ~ x=1#This does not satisfy the equation.
 = x=3#Correct. x-3=0.
-~ x=-3#The sign is wrong.
+~ x=-3#This reverses the sign; x-3=0 means x must equal 3.
 }
 
 ::ALG2_U05_UA_Q16::
@@ -170,7 +170,7 @@ Question ID:<br>ALG2_U05_UA_Q21<br><br>MLA Standard:<br>MLA.A2.FN.3; MLA.A2.FN.1
 Question ID:<br>ALG2_U05_UA_Q22<br><br>MLA Standard:<br>MLA.A2.SYS.1; MLA.A2.SYS.2<br><br>Question:<br>Solve 2x+1=9. {
 ~ x=5#This adds instead of subtracting first.
 ~ x=8#This stops before dividing.
-~ x=10#This adds.
+~ x=10#This adds values instead of isolating x after subtracting 1.
 = x=4#Correct. 2x=8, so x=4.
 }
 

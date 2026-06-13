@@ -1,14 +1,14 @@
-# ALG2 – Unit 05 Overview: Exponential and Logarithmic Functions and Models
+# ALG2 - Unit 05 Overview: Systems and Advanced Function Analysis
 
 ---
 
 ## Unit Overview
 
-This unit develops logarithmic reasoning and extends exponential modeling beyond introductory growth and decay. Students evaluate and rewrite logarithmic expressions, solve exponential and logarithmic equations, interpret constant percent rate of change, analyze logarithmic functions, and model real-world situations with exponential and logarithmic functions.
+This unit develops systems reasoning and advanced function analysis after students have worked with prior Algebra II function families. Students solve and interpret systems involving linear and nonlinear equations, analyze systems of inequalities and feasible regions, examine nonlinear constraints, and connect function transformations, operations, composition, inverses, and multiple representations.
 
-Emphasis is placed on inverse relationships, equivalent logarithmic and exponential forms, key features, constraints, and the use of technology-supported modeling when data suggest exponential association.
+Emphasis is placed on interpreting solutions, determining whether solutions are viable in context, comparing function features, and selecting appropriate strategies from equations, graphs, tables, and descriptions.
 
-Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
+Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emphasis on mathematical reasoning, structure, function analysis, and application. Students are expected to demonstrate both procedural fluency and conceptual understanding consistent with state expectations.
 
 ---
 
@@ -16,29 +16,48 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| MA.912.NSO.1.6 | Given a numerical logarithmic expression, evaluate and generate equivalent numerical expressions using the properties of logarithms or exponents. |
-| MA.912.NSO.1.7 | Given an algebraic logarithmic expression, generate an equivalent algebraic expression using the properties of logarithms or exponents. |
-| MA.912.AR.5.2 | Solve one-variable equations involving logarithms or exponential expressions. Interpret solutions as viable in terms of the context and identify any extraneous solutions. |
-| MA.912.AR.5.5 | Given an expression or equation representing an exponential function, reveal the constant percent rate of change per unit interval using the properties of exponents. Interpret the constant percent rate of change in terms of a real-world context. |
-| MA.912.AR.5.7 | Solve and graph mathematical and real-world problems that are modeled with exponential functions. Interpret key features and determine constraints in terms of the context. |
-| MA.912.AR.5.8 | Given a table, equation or written description of a logarithmic function, graph that function and determine its key features. |
-| MA.912.AR.5.9 | Solve and graph mathematical and real-world problems that are modeled with logarithmic functions. Interpret key features and determine constraints in terms of the context. |
-| MA.912.DP.2.9 | Fit an exponential function to bivariate numerical data that suggests an exponential association. Use the model to solve real-world problems in terms of the context of the data. |
-| MA.912.FL.3.1 | Compare simple, compound and continuously compounded interest over time. |
-| MA.912.FL.3.2 | Solve real-world problems involving simple, compound and continuously compounded interest. |
-| MA.912.FL.3.4 | Explain the relationship between simple interest and linear growth. Explain the relationship between compound interest and exponential growth and the relationship between continuously compounded interest and exponential growth. |
+| MA.912.AR.9.2 | Given a system of two-variable equations, solve and interpret solutions graphically and algebraically. |
+| MA.912.AR.9.3 | Solve and interpret systems involving linear and nonlinear equations. |
+| MA.912.AR.9.5 | Solve and interpret systems of inequalities and feasible regions. |
+| MA.912.AR.9.7 | Analyze nonlinear systems and interpret solutions in context. |
+| MA.912.F.2.2 | Identify and describe transformations of functions. |
+| MA.912.F.2.3 | Connect changes in function rules to changes in graphs. |
+| MA.912.F.2.5 | Analyze transformed functions using key features. |
+| MA.912.F.3.2 | Combine functions using arithmetic operations and interpret results. |
+| MA.912.F.3.4 | Compose functions and interpret composition in context. |
+| MA.912.F.3.6 | Determine inverse functions when they exist. |
+| MA.912.F.3.7 | Verify and interpret inverse functions. |
+| MA.912.F.1.9 | Compare and analyze functions represented in different ways. |
+| MA.912.AR.4.2 | Solve equations involving functions and interpret solutions. |
+| MA.912.AR.4.4 | Interpret function solutions and restrictions in context. |
+
+---
+
+## MLA Standards Covered
+
+| MLA Standard | Focus |
+|--------------|-------|
+| MLA.A2.SYS.1; MLA.A2.SYS.2 | Systems of equations and interpreted intersections |
+| MLA.A2.SYS.3 | Systems of inequalities and feasible regions |
+| MLA.A2.SYS.4 | Nonlinear systems and contextual constraints |
+| MLA.A2.FN.4; MLA.A2.FN.5; MLA.A2.FN.6 | Function transformations and graph features |
+| MLA.A2.FN.7; MLA.A2.FN.8 | Function operations, composition, and domain restrictions |
+| MLA.A2.FN.9; MLA.A2.FN.10 | Inverse functions, verification, and interpretation |
+| MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12 | Advanced function analysis across representations |
 
 ---
 
 ## Prerequisite and Supporting Concepts
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| MA.912.AR.5.3 | Given a mathematical or real-world context, classify an exponential function as representing growth or decay. |
-| MA.912.AR.5.6 | Given a table, equation or written description of an exponential function, graph that function and determine its key features. |
-| MA.912.F.1.3 | Calculate and interpret the average rate of change of a real-world situation represented graphically, algebraically or in a table over a specified interval. |
-| MA.912.F.1.8 | Determine whether a linear, quadratic or exponential function best models a given real-world situation. |
-| MA.912.FL.3.4 | Explain the relationship between simple interest and linear growth. Explain the relationship between compound interest and exponential growth and the relationship between continuously compounded interest and exponential growth. |
+| Concept | Description |
+|--------|-------------|
+| Linear and nonlinear equations | Students solve equations and interpret solutions as inputs or intersection points. |
+| Graphing and intersections | Students connect algebraic solutions to graph behavior. |
+| Inequality notation | Students interpret boundary lines, shading, and feasible regions. |
+| Function notation | Students evaluate, compare, compose, and interpret functions. |
+| Domain and range | Students identify restrictions and viable input-output values. |
+| Transformations | Students recognize shifts, stretches, reflections, and changes in key features. |
+| Inverse relationships | Students reverse input-output relationships and verify by composition. |
 
 ---
 
@@ -46,27 +65,30 @@ Instruction and assessment are aligned to Florida B.E.S.T. Standards with an emp
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Evaluating Numerical Logarithmic Expressions | MA.912.NSO.1.6 | Quiz |
-| Lesson 2 | Rewriting Algebraic Logarithmic Expressions with Logarithm Properties | MA.912.NSO.1.7 | Quiz |
-| Lesson 3 | Solving Exponential and Logarithmic Equations | MA.912.AR.5.2 | Quiz |
-| Lesson 4 | Constant Percent Rate of Change in Exponential Functions | MA.912.AR.5.5 | Quiz |
-| Lesson 5 | Modeling with Exponential Functions and Interpreting Key Features and Constraints | MA.912.AR.5.7, MA.912.DP.2.9 | Quiz |
-| Lesson 6 | Graphing Logarithmic Functions and Determining Key Features | MA.912.AR.5.8 | Quiz |
-| Lesson 7 | Logarithmic Models and Continuously Compounded Interest Comparisons | MA.912.AR.5.9, MA.912.FL.3.1 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson 1 | Systems of Equations | MLA.A2.SYS.1; MLA.A2.SYS.2 | Quiz |
+| Lesson 2 | Systems of Inequalities | MLA.A2.SYS.3 | Quiz |
+| Lesson 3 | Nonlinear Systems and Constraints | MLA.A2.SYS.4 | Quiz |
+| Lesson 4 | Function Transformations | MLA.A2.FN.4; MLA.A2.FN.5; MLA.A2.FN.6 | Quiz |
+| Lesson 5 | Function Operations and Composition | MLA.A2.FN.7; MLA.A2.FN.8 | Quiz |
+| Lesson 6 | Inverse Functions | MLA.A2.FN.9; MLA.A2.FN.10 | Quiz |
+| Lesson 7 | Advanced Function Analysis | MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12 | Quiz |
+| Lesson 8 | Putting It All Together | All Unit 5 standards | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of all standards addressed in this unit. Students must demonstrate consistent proficiency across:
 
-- conceptual understanding;
-- symbolic reasoning and structure;
-- exponential and logarithmic function analysis and modeling;
-- contextual interpretation of exponential, logarithmic, data, and financial models.
+- solving and interpreting systems of equations;
+- solving systems of inequalities and identifying feasible regions;
+- interpreting nonlinear systems and contextual constraints;
+- analyzing transformations and key features of functions;
+- combining and composing functions;
+- determining, verifying, and interpreting inverse functions;
+- comparing functions across equations, tables, graphs, and descriptions.
 
-All assessment items are aligned to the unit benchmarks and require students to evaluate and rewrite logarithmic expressions, solve exponential and logarithmic equations, analyze key features, interpret constant percent rate of change, and model real-world situations using exponential and logarithmic functions.
+All assessment items are aligned to the Unit 5 standards and require students to apply systems reasoning, function operations, inverse relationships, and multiple-representation analysis in mathematical and contextual situations.
 
 ---
 
@@ -81,4 +103,3 @@ The Unit Assessment is required for all students and contributes to the overall 
 Students participating in the Accelerated Path must meet additional expectations. Please refer to the official Accelerated Path Overview document for full eligibility, requirements, and continuation criteria.
 
 ---
-
