@@ -1,0 +1,79 @@
+::ALG2_U04_Pretest_Q01::
+Question ID:<br>ALG2_U04_Pretest_Q01<br><br>MLA Standard:<br>MLA.A2.EX.1<br><br>Question:<br>Which function models a pattern that starts at 6 and triples each step? {
+= f(x)=6(3)<sup>x</sup> #Correct. The initial value is 6 and tripling each step gives base 3.
+~ f(x)=3(6)<sup>x</sup> #This reverses the initial value and the base.
+~ f(x)=6+3x #This models adding 3 each step, not tripling.
+~ f(x)=18x #This is linear and does not represent repeated multiplication.
+}
+
+::ALG2_U04_Pretest_Q02::
+Question ID:<br>ALG2_U04_Pretest_Q02<br><br>MLA Standard:<br>MLA.A2.EX.2; MLA.A2.EX.3<br><br>Question:<br>What factor represents 7% growth? {
+~ 0.07 #This is only the rate, not the full growth factor.
+= 1.07 #Correct. Growth uses 1 + r, so 1 + 0.07 = 1.07.
+~ 0.93 #This represents 7% decay.
+~ 1.70 #This represents 70% growth, not 7%.
+}
+
+::ALG2_U04_Pretest_Q03::
+Question ID:<br>ALG2_U04_Pretest_Q03<br><br>MLA Standard:<br>MLA.A2.EX.2; MLA.A2.EX.3<br><br>Question:<br>What factor represents 18% decay? {
+~ 1.18 #This represents 18% growth.
+~ 0.18 #This is only the decay rate, not the amount remaining.
+= 0.82 #Correct. Decay uses 1 - r, so 1 - 0.18 = 0.82.
+~ 1.82 #This does not represent decay.
+}
+
+::ALG2_U04_Pretest_Q04::
+Question ID:<br>ALG2_U04_Pretest_Q04<br><br>MLA Standard:<br>MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4<br><br>Question:<br>A savings account starts with 1200 dollars and earns 5% annually. Which model fits? {
+~ A(t)=1200(0.95)<sup>t</sup> #This models a 5% decrease, not interest growth.
+~ A(t)=1.05(1200)<sup>t</sup> #This reverses the starting balance and growth factor.
+~ A(t)=1200+5t #This adds 5 dollars per year, not 5%.
+= A(t)=1200(1.05)<sup>t</sup> #Correct. The principal is 1200 and 5% growth gives factor 1.05.
+}
+
+::ALG2_U04_Pretest_Q05::
+Question ID:<br>ALG2_U04_Pretest_Q05<br><br>MLA Standard:<br>MLA.A2.LOG.2<br><br>Question:<br>What is log<sub>2</sub>(32)? {
+= 5 #Correct. The logarithm asks what power of 2 equals 32, and 2<sup>5</sup> = 32.
+~ 4 #2<sup>4</sup> = 16, not 32.
+~ 16 #This is not the exponent needed to produce 32.
+~ 64 #This is not the exponent needed to produce 32.
+}
+
+::ALG2_U04_Pretest_Q06::
+Question ID:<br>ALG2_U04_Pretest_Q06<br><br>MLA Standard:<br>MLA.A2.LOG.2<br><br>Question:<br>Which exponential equation is equivalent to log<sub>3</sub>(81)=4? {
+~ 81<sup>4</sup> = 3 #This reverses the input and the base.
+= 3<sup>4</sup> = 81 #Correct. log<sub>b</sub>(a)=c means b<sup>c</sup>=a.
+~ 3+4 = 81 #Logarithms convert to exponent equations, not addition.
+~ 81/3 = 4 #Division does not represent the logarithmic relationship.
+}
+
+::ALG2_U04_Pretest_Q07::
+Question ID:<br>ALG2_U04_Pretest_Q07<br><br>MLA Standard:<br>MLA.A2.LOG.4<br><br>Question:<br>Expand log<sub>5</sub>(xy). {
+~ log<sub>5</sub>(x) - log<sub>5</sub>(y) #Subtraction is used for quotients, not products.
+~ log<sub>5</sub>(x + y) #This changes multiplication to addition inside one logarithm.
+= log<sub>5</sub>(x) + log<sub>5</sub>(y) #Correct. The product property changes multiplication inside a logarithm into addition of logarithms.
+~ log<sub>5</sub>(x/y) #This represents a quotient, not a product.
+}
+
+::ALG2_U04_Pretest_Q08::
+Question ID:<br>ALG2_U04_Pretest_Q08<br><br>MLA Standard:<br>MLA.A2.LOG.1<br><br>Question:<br>Solve log<sub>2</sub>(x)=6. {
+~ x = 12 #This multiplies the base and output instead of using exponent form.
+~ x = 8 #2<sup>3</sup> = 8, but the output is 6.
+~ x = 32 #2<sup>5</sup> = 32, not 2<sup>6</sup>.
+= x = 64 #Correct. Rewrite as x = 2<sup>6</sup> = 64.
+}
+
+::ALG2_U04_Pretest_Q09::
+Question ID:<br>ALG2_U04_Pretest_Q09<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>Question:<br>To solve 500(1.04)<sup>t</sup>=800 for t, which expression is correct? {
+= t = log(800/500)/log(1.04) #Correct. Divide by 500, then use logarithms to isolate the exponent.
+~ t = log(1.04)/log(800/500) #This reverses the change-of-base ratio.
+~ t = 800/(500)(1.04) #This treats the exponential equation like a linear equation.
+~ t = 800 - 500 - 1.04 #This does not isolate the exponent.
+}
+
+::ALG2_U04_Pretest_Q10::
+Question ID:<br>ALG2_U04_Pretest_Q10<br><br>MLA Standard:<br>Unit 4 standards synthesis; no new primary MLA standard<br><br>Question:<br>Which statement is valid for Unit 4 problem solving? {
+~ A decay factor greater than 1 means the amount decreases. #A factor greater than 1 represents growth, not decay.
+= Logarithms can solve for an unknown exponent or time. #Correct. Logarithms undo exponential expressions, so they are useful when the variable is in the exponent.
+~ log<sub>2</sub>(x+y)=log<sub>2</sub>(x)+log<sub>2</sub>(y) is always valid. #There is no logarithm property that splits addition inside the argument.
+~ An application answer never needs units. #Application answers should include context and units.
+}
