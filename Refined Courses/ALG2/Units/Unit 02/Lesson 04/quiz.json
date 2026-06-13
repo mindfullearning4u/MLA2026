@@ -1,23 +1,27 @@
 {
     "course":  "ALG2",
-    "questionBankSize":  25,
+    "unit":  "Unit 02",
+    "lesson":  "Lesson 04",
+    "title":  "Quiz: Zeros, Roots, and Multiplicity",
+    "primaryStandard":  {
+                            "code":  "Support-only review; no new primary MLA standard",
+                            "description":  "Connect roots, zeros, x-intercepts, repeated factors, and graph behavior.",
+                            "floridaBenchmark":  "Support-only review; no new primary benchmark"
+                        },
+    "format":  "GIFT",
     "giftFile":  "ALG2_U02_L04_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
-    "format":  "GIFT",
-    "masteryThreshold":  80,
-    "primaryStandards":  [
-                             {
-                                 "code":  "Support-only review; no new primary MLA standard",
-                                 "description":  "Connect roots, zeros, x-intercepts, repeated factors, and graph behavior.",
-                                 "floridaBenchmark":  "Support-only review; no new primary benchmark"
-                             }
-                         ],
-    "questionsPerAttempt":  5,
-    "lesson":  "Lesson 04",
-    "title":  "Quiz: Zeros, Roots, and Multiplicity",
-    "unit":  "Unit 02"
+    "correctAnswerDistribution":  {
+                                      "A":  7,
+                                      "B":  6,
+                                      "C":  6,
+                                      "D":  6
+                                  }
 }

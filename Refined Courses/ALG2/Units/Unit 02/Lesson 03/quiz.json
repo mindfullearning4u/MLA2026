@@ -1,23 +1,27 @@
 {
     "course":  "ALG2",
-    "questionBankSize":  25,
+    "unit":  "Unit 02",
+    "lesson":  "Lesson 03",
+    "title":  "Quiz: End Behavior",
+    "primaryStandard":  {
+                            "code":  "MLA.A2.PF.8",
+                            "description":  "Analyze how degree and leading coefficient affect polynomial behavior.",
+                            "floridaBenchmark":  "MA.912.AR.6.5"
+                        },
+    "format":  "GIFT",
     "giftFile":  "ALG2_U02_L03_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
-    "format":  "GIFT",
-    "masteryThreshold":  80,
-    "primaryStandards":  [
-                             {
-                                 "code":  "MLA.A2.PF.8",
-                                 "description":  "Analyze how degree and leading coefficient affect polynomial behavior.",
-                                 "floridaBenchmark":  "MA.912.AR.6.5"
-                             }
-                         ],
-    "questionsPerAttempt":  5,
-    "lesson":  "Lesson 03",
-    "title":  "Quiz: End Behavior",
-    "unit":  "Unit 02"
+    "correctAnswerDistribution":  {
+                                      "A":  7,
+                                      "B":  6,
+                                      "C":  6,
+                                      "D":  6
+                                  }
 }
