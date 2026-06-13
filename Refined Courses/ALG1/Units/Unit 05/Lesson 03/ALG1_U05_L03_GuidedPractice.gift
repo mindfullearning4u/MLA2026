@@ -1,0 +1,34 @@
+::ALG1_U05_L03_GP_Q01::[Question ID: ALG1_U05_L03_GP_Q01] [MLA Standard: MLA.A1.QE.2] Which table shows evidence of a quadratic relationship when x-values increase by 1? {
+=A. x: 0, 1, 2, 3; y: 1, 4, 9, 16 #Correct. The first differences are 3, 5, and 7, so the second differences are constant at 2.
+~B. x: 0, 1, 2, 3; y: 2, 5, 8, 11 #This table is linear because the first differences are constant at 3.
+~C. x: 0, 1, 2, 3; y: 3, 6, 12, 24 #The outputs double, so this is exponential rather than quadratic.
+~D. x: 0, 1, 2, 3; y: 5, 5, 5, 5 #This is constant, not quadratic, because the output does not change.
+}
+
+::ALG1_U05_L03_GP_Q02::[Question ID: ALG1_U05_L03_GP_Q02] [MLA Standard: MLA.A1.QE.2] Why is \(f(x)=x^2+3x+2\) a quadratic function? {
+~A. It has two terms after combining like terms. #The number of terms does not determine whether a function is quadratic.
+=B. Its highest power of x is 2. #Correct. A quadratic function has degree 2, so the \(x^2\) term identifies the function as quadratic.
+~C. It has an x-intercept. #Having an x-intercept does not by itself make a function quadratic.
+~D. It has a constant term of 2. #A constant term can appear in many function types, so this is not the defining feature.
+}
+
+::ALG1_U05_L03_GP_Q03::[Question ID: ALG1_U05_L03_GP_Q03] [MLA Standard: MLA.A1.QE.2] Which context is best modeled by a quadratic function? {
+~A. A taxi charges a base fee plus a constant amount per mile. #A constant rate of change with distance is linear.
+~B. A savings account earns the same percent interest each year. #Percent growth over equal time intervals is exponential.
+=C. The area of a square changes as its side length changes. #Correct. Square area is \(A=s^2\), which is a quadratic relationship.
+~D. A student reads the same number of pages each day. #Equal daily increases create a linear relationship.
+}
+
+::ALG1_U05_L03_GP_Q04::[Question ID: ALG1_U05_L03_GP_Q04] [MLA Standard: MLA.A1.QE.2] A table has y-values 2, 7, 14, 23, 34 for x-values 0, 1, 2, 3, 4. What evidence shows it can be quadratic? {
+~A. The y-values are all positive. #Positive outputs do not prove the relationship is quadratic.
+~B. The first differences are constant. #The first differences are 5, 7, 9, and 11, so they are not constant.
+~C. The x-values increase by 2 each time. #The x-values increase by 1 each time, and equal spacing only lets you test differences.
+=D. The second differences are constant. #Correct. The first differences are 5, 7, 9, and 11, and the second differences are all 2.
+}
+
+::ALG1_U05_L03_GP_Q05::[Question ID: ALG1_U05_L03_GP_Q05] [MLA Standard: MLA.A1.QE.2] A rectangle has width \(x\) and length \(x+5\). Which function represents its area? {
+~A. \(A=2x+5\) #This adds side lengths instead of multiplying length by width for area.
+=B. \(A=x^2+5x\) #Correct. Area is \(x(x+5)\), which expands to \(x^2+5x\).
+~C. \(A=x^2+25\) #This squares \(x\) and 5 separately, but \(x(x+5)\) requires distribution.
+~D. \(A=5x\) #This would model a rectangle with constant length 5, not length \(x+5\).
+}
