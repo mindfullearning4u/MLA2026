@@ -19,30 +19,30 @@ Geometry Foundations -> Reasoning, Proof, and Basic Transformations -> Triangles
 
 ## Unit 1: Foundations of Geometry
 
-**Unit Purpose:** Develop geometric vocabulary, spatial reasoning, measurement foundations, coordinate geometry readiness, and construction skills.
+**Unit Purpose:** Establish the reasoning foundation for Geometry through precise diagrams, vocabulary, construction reasoning, conditional reasoning, argument evaluation, and introductory proof.
 
-**Standards Covered:** MLA.GEO.CGM.7, MLA.GEO.FND.1, MLA.GEO.FND.2
+**Standards Covered:** MLA.GEO.FND.1, MLA.GEO.FND.2, MLA.GEO.RP.1, MLA.GEO.RP.4, MLA.GEO.RP.5, MLA.GEO.RP.6
 
-**Unit Justification:** Geometry begins with tools, vocabulary, coordinate readiness, measurement language, and construction fluency. This is Geometry readiness, not Algebra remediation.
+**Unit Justification:** Geometry begins with precise diagram interpretation, construction fluency, logical reasoning, and proof habits so students have a stable foundation before triangle, transformation, similarity, circle, and coordinate-geometry work.
 
-**Prerequisite Knowledge:** Middle grades geometry vocabulary, ruler/protractor familiarity, basic coordinate plane awareness, arithmetic with whole numbers and fractions.
+**Prerequisite Knowledge:** Basic geometric vocabulary, measuring and classifying angles, simple algebraic reasoning, coordinate-plane familiarity, and willingness to support conclusions with diagram evidence.
 
 **Future Learning Connections:** Supports proof, transformations, triangles, similarity, circles, coordinate geometry, measurement, and modeling.
 
-**Extension Challenge Ideas:** Construction challenges; coordinate-plane scavenger hunts; SAT-style distance/midpoint questions; angle classification error analysis; open-ended diagram labeling tasks.
+**Extension Challenge Ideas:** Construction challenges; diagram evidence analysis; conditional-statement sorting; counterexample tasks; introductory proof-completion tasks; open-ended diagram labeling tasks.
 
 ### Lesson Mapping
 
 | Lesson | Lesson Purpose | MLA Standards Covered | Florida B.E.S.T. Benchmarks Covered | Common Core Alignment | SAT Domain Connection | ACT Domain Connection | Prerequisite Skills | Why This Lesson Appears Here | Future Lessons Supported | Mastery Evidence |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1. Geometry Readiness Diagnostic and Mathematical Thinking | Identify Geometry readiness strengths and establish diagram-based reasoning habits. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Basic vocabulary, reading directions, and willingness to draw and label diagrams. | The course opens with diagnostic reasoning so students can build precise habits before proof and measurement. | All future lessons depend on accurate diagrams, vocabulary, and mathematical communication. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 2. Points, Lines, Rays, and Segments | Use foundational geometric objects and notation accurately. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Visual recognition of basic shapes and symbols. | Students need precise language for points, lines, rays, segments, endpoints, and intersections before angle, proof, and transformation work. | Supports angles, constructions, proof, transformations, and coordinate geometry. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 3. Angles and Angle Relationships | Identify angle types and basic angle relationships formed by intersecting lines. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Points, rays, segments, and basic notation. | Angle relationships are introduced informally before formal proof so students can recognize the structures they will justify later. | Supports measuring angles, line-angle proofs, triangles, and circles. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 4. Measuring and Classifying Angles | Measure, classify, and reason about angle size using geometric tools. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Angle vocabulary, rays, protractor use, and number sense. | Measurement experience gives students concrete reference points before constructions and proof. | Supports constructions, triangle angle relationships, circle arcs/angles, and trigonometry. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 5. Coordinate Plane Foundations | Review coordinate plane vocabulary, ordered pairs, axes, quadrants, and plotting. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Number line knowledge and ordered pair notation. | Coordinate readiness must precede distance, midpoint, transformations, and coordinate proofs. | Supports transformations, coordinate proofs, circle equations, and coordinate geometry. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 6. Distance and Midpoint | Use coordinate relationships to find distance, midpoint, and partition points. | MLA.GEO.CGM.7: I can find weighted averages and partition points on a line. | MA.912.GR.3.1 | HSG.GPE.B.6 | Advanced Math | Preparing for Higher Math - Geometry / Number and Quantity | Coordinate plane foundations, ordered pairs, subtraction, square roots, and averages. | Distance and midpoint follow coordinate review and become the bridge to coordinate proof and modeling. | Supports transformations, coordinate proofs, equations of circles, and measurement modeling. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 7. Basic Geometric Constructions | Use geometric tools to copy segments/angles and construct bisectors. | MLA.GEO.FND.1: I can construct a copy of a segment or an angle using geometric tools.<br>MLA.GEO.FND.2: I can construct segment bisectors, angle bisectors, and perpendicular bisectors. | MA.912.GR.5.1<br>MA.912.GR.5.2 | HSG.CO.D.12<br>HSG.CO.D.12; HSG.CO.D.13 | Geometry and Trigonometry | Preparing for Higher Math - Geometry | Segments, angles, midpoint ideas, perpendicular relationships, compass and straightedge tool use. | Constructions belong in foundations because they build precision, tool fluency, and visual reasoning before formal proof. | Supports triangle congruence, circle constructions, and proof justification. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
-| 8. Putting It All Together | Synthesize Geometry vocabulary, measurement, coordinate readiness, and construction skills. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Lessons 1-7 of Unit 1. | The final lesson consolidates readiness before formal proof and theorem work. | Supports every later Geometry unit. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 2. Precision, Definitions, and Geometric Language | Use precise mathematical language, definitions, and evidence-based descriptions. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Basic vocabulary, visual recognition of points, lines, rays, segments, and angles. | Students need precise language before construction, conditional reasoning, and proof work. | Supports constructions, proof, transformations, and coordinate geometry. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 3. Reasoning, Conjectures, and Mathematical Arguments | Distinguish claims, conjectures, evidence, and valid mathematical arguments. | No new primary MLA standard; readiness/synthesis support only. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | No new primary benchmark alignment. | Diagram interpretation, vocabulary, and short mathematical explanations. | Reasoning habits are developed before formal standards so students can separate appearance from evidence. | Supports conditional reasoning, proof, counterexamples, and theorem justification. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 4. Segment and Angle Constructions | Construct a copy of a segment or an angle using geometric tools. | MLA.GEO.FND.1: I can construct a copy of a segment or an angle using geometric tools. | MA.912.GR.5.1 | HSG.CO.D.12 | Geometry and Trigonometry | Preparing for Higher Math - Geometry | Segments, angles, compass and straightedge tool use, and diagram evidence. | Copying segments and angles builds precision and tool fluency before bisectors and formal proof. | Supports triangle congruence, circle constructions, and proof justification. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 5. Bisectors and Perpendicular Bisectors | Construct segment bisectors, angle bisectors, and perpendicular bisectors. | MLA.GEO.FND.2: I can construct segment bisectors, angle bisectors, and perpendicular bisectors. | MA.912.GR.5.2 | HSG.CO.D.12; HSG.CO.D.13 | Geometry and Trigonometry | Preparing for Higher Math - Geometry | Segment and angle copying, midpoint ideas, perpendicular relationships, and compass/straightedge tool use. | Bisectors extend construction precision into relationships that will be justified and reused throughout Geometry. | Supports triangle centers, circle constructions, congruence, and proof justification. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 6. Conditional Statements, Converses, Inverses, and Contrapositives | Interpret conditional statements and related logical forms. | MLA.GEO.RP.4: I can interpret conditional statements and identify converse, inverse, and contrapositive statements. | MA.912.LT.4.3 | HSG.CO.C.9 support; Mathematical Practice 3 | Algebra / Advanced Math | Integrating Essential Skills | Definitions, precise vocabulary, and diagram-based reasoning. | Conditional logic is the language of definitions, theorems, and proof. | Supports deductive reasoning, geometric proofs, validity, and counterexample work. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 7. Valid Arguments, Counterexamples, and Introductory Proof | Use line and angle relationships, proof structure, proof by contradiction, and counterexamples. | MLA.GEO.RP.1: I can prove and apply relationships involving lines, angles, and angle pairs.<br>MLA.GEO.RP.5: I can construct valid geometric proofs, including proofs by contradiction.<br>MLA.GEO.RP.6: I can evaluate arguments and use counterexamples to disprove false statements. | MA.912.GR.1.1<br>MA.912.LT.4.8<br>MA.912.LT.4.10 | HSG.CO.C.9; HSG.CO.C.10 support | Geometry and Trigonometry | Preparing for Higher Math - Geometry | Conditional reasoning, definitions, angle relationships, and evidence-based explanations. | Introductory proof follows construction and logic so students can justify relationships rather than rely on appearance. | Supports triangle, quadrilateral, circle, coordinate, and transformation proof. | Notebook Evidence; Checkpoint Submission; Lesson Quiz |
+| 8. Putting It All Together | Synthesize Unit 1 construction, line/angle, conditional reasoning, proof, and counterexample skills. | MLA.GEO.FND.1<br>MLA.GEO.FND.2<br>MLA.GEO.RP.1<br>MLA.GEO.RP.4<br>MLA.GEO.RP.5<br>MLA.GEO.RP.6 | All Unit 1 benchmarks | Unit synthesis alignment | Geometry and Trigonometry | Preparing for Higher Math - Geometry | Lessons 1-7 of Unit 1. | The final lesson consolidates Unit 1 standards before advancement. | Supports every later Geometry unit. | Notebook Evidence; Checkpoint Submission; Unit Assessment |
 
 ---
 
@@ -210,7 +210,7 @@ Geometry Foundations -> Reasoning, Proof, and Basic Transformations -> Triangles
 
 | MLA Standard | Florida B.E.S.T. Benchmark | Primary Unit and Lesson |
 |---|---|---|
-| MLA.GEO.RP.1 | MA.912.GR.1.1 | Unit 2, Lesson 5: Segment and Angle Proofs |
+| MLA.GEO.RP.1 | MA.912.GR.1.1 | Unit 1, Lesson 7: Valid Arguments, Counterexamples, and Introductory Proof |
 | MLA.GEO.TRI.1 | MA.912.GR.1.2 | Unit 3, Lesson 4: Triangle Congruence Theorems |
 | MLA.GEO.TRI.2 | MA.912.GR.1.3 | Unit 3, Lesson 2: Triangle Angle Relationships |
 | MLA.GEO.RP.2 | MA.912.GR.1.4 | Unit 3, Lesson 7: Quadrilateral Relationships and Proofs |
@@ -225,7 +225,7 @@ Geometry Foundations -> Reasoning, Proof, and Basic Transformations -> Triangles
 | MLA.GEO.TRI.3 | MA.912.GR.2.7 | Unit 3, Lesson 4: Triangle Congruence Theorems |
 | MLA.GEO.SIM.2 | MA.912.GR.2.8 | Unit 4, Lesson 2: Dilations and Similarity Transformations |
 | MLA.GEO.SIM.3 | MA.912.GR.2.9 | Unit 4, Lesson 3: Similar Triangles |
-| MLA.GEO.CGM.7 | MA.912.GR.3.1 | Unit 1, Lesson 6: Distance and Midpoint |
+| MLA.GEO.CGM.7 | MA.912.GR.3.1 | Later coordinate geometry sequence; not assigned in Unit 1 production build |
 | MLA.GEO.CGM.8 | MA.912.GR.3.2 | Unit 6, Lesson 1: Coordinate Proofs |
 | MLA.GEO.CGM.9 | MA.912.GR.3.3 | Unit 6, Lesson 2: Coordinate Relationships and Circle Equations |
 | MLA.GEO.CGM.10 | MA.912.GR.3.4 | Unit 6, Lesson 3: Two-Dimensional Area and Coordinate Area |
@@ -235,8 +235,8 @@ Geometry Foundations -> Reasoning, Proof, and Basic Transformations -> Triangles
 | MLA.GEO.CGM.13 | MA.912.GR.4.4 | Unit 6, Lesson 3: Two-Dimensional Area and Coordinate Area |
 | MLA.GEO.CGM.14 | MA.912.GR.4.5 | Unit 6, Lesson 5: Volume |
 | MLA.GEO.CGM.15 | MA.912.GR.4.6 | Unit 6, Lesson 4: Surface Area |
-| MLA.GEO.FND.1 | MA.912.GR.5.1 | Unit 1, Lesson 7: Basic Geometric Constructions |
-| MLA.GEO.FND.2 | MA.912.GR.5.2 | Unit 1, Lesson 7: Basic Geometric Constructions |
+| MLA.GEO.FND.1 | MA.912.GR.5.1 | Unit 1, Lesson 4: Segment and Angle Constructions |
+| MLA.GEO.FND.2 | MA.912.GR.5.2 | Unit 1, Lesson 5: Bisectors and Perpendicular Bisectors |
 | MLA.GEO.CIR.1 | MA.912.GR.5.3 | Unit 5, Lesson 5: Circle Constructions |
 | MLA.GEO.CIR.2 | MA.912.GR.5.4 | Unit 5, Lesson 5: Circle Constructions |
 | MLA.GEO.CIR.3 | MA.912.GR.5.5 | Unit 5, Lesson 5: Circle Constructions |
@@ -250,9 +250,9 @@ Geometry Foundations -> Reasoning, Proof, and Basic Transformations -> Triangles
 | MLA.GEO.CIR.10 | MA.912.GR.7.3 | Unit 6, Lesson 2: Coordinate Relationships and Circle Equations |
 | MLA.GEO.TRI.4 | MA.912.T.1.1 | Unit 4, Lesson 6: Trigonometric Ratios |
 | MLA.GEO.TRI.5 | MA.912.T.1.2 | Unit 4, Lesson 7: Right-Triangle Applications |
-| MLA.GEO.RP.4 | MA.912.LT.4.3 | Unit 2, Lesson 2: Conditional Statements |
-| MLA.GEO.RP.5 | MA.912.LT.4.8 | Unit 2, Lesson 4: Introduction to Geometric Proofs |
-| MLA.GEO.RP.6 | MA.912.LT.4.10 | Unit 2, Lesson 3: Inductive and Deductive Reasoning |
+| MLA.GEO.RP.4 | MA.912.LT.4.3 | Unit 1, Lesson 6: Conditional Statements, Converses, Inverses, and Contrapositives |
+| MLA.GEO.RP.5 | MA.912.LT.4.8 | Unit 1, Lesson 7: Valid Arguments, Counterexamples, and Introductory Proof |
+| MLA.GEO.RP.6 | MA.912.LT.4.10 | Unit 1, Lesson 7: Valid Arguments, Counterexamples, and Introductory Proof |
 
 ---
 
