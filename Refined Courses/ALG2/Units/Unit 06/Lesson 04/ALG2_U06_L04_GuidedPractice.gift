@@ -1,0 +1,39 @@
+::ALG2_U06_L04_GP_Q01::
+Question ID:<br>ALG2_U06_L04_GP_Q01<br><br>MLA Standard:<br>MLA.A2.EX.4<br><br>Question:<br>In y=18x+40, what does 18 represent? {
+= the predicted increase in y for each 1-unit increase in x#Correct. In a linear regression model, the slope gives the rate of change.
+~ the starting value when x=0#The starting value is the y-intercept, 40.
+~ the residual for each data point#Residuals are prediction errors, not the slope.
+~ the correlation coefficient#Correlation is a separate statistic, not the slope.
+}
+
+::ALG2_U06_L04_GP_Q02::
+Question ID:<br>ALG2_U06_L04_GP_Q02<br><br>MLA Standard:<br>MLA.A2.EX.4<br><br>Question:<br>In y=25(1.06)<sup>x</sup>, what is the percent growth rate? {
+~ 106%#This is the growth factor as a percent of the previous value, not the increase.
+= 6%#Correct. A factor of 1.06 means 6% growth per period.
+~ 25%#This is the initial value, not the growth rate.
+~ 1.06%#This confuses the factor with the percent increase.
+}
+
+::ALG2_U06_L04_GP_Q03::
+Question ID:<br>ALG2_U06_L04_GP_Q03<br><br>MLA Standard:<br>MLA.A2.EX.4<br><br>Question:<br>A residual plot has points randomly scattered around 0. What does this suggest? {
+~ The model is definitely wrong.#Random residuals around 0 generally support the model fit.
+~ The data has no output values.#Residuals compare actual and predicted outputs.
+= The model may be a reasonable fit.#Correct. Random residuals around 0 suggest no obvious missed pattern.
+~ The input values must all be 0.#Residuals around 0 are prediction errors, not input values.
+}
+
+::ALG2_U06_L04_GP_Q04::
+Question ID:<br>ALG2_U06_L04_GP_Q04<br><br>MLA Standard:<br>MLA.A2.EX.4<br><br>Question:<br>For y=12(0.90)<sup>x</sup>, what type of regression model is this? {
+~ linear growth#The variable is in the exponent, so the model is not linear.
+~ exponential growth#The factor is less than 1, so the model decreases.
+~ quadratic decay#The model does not include x squared.
+= exponential decay#Correct. A factor between 0 and 1 produces exponential decay.
+}
+
+::ALG2_U06_L04_GP_Q05::
+Question ID:<br>ALG2_U06_L04_GP_Q05<br><br>MLA Standard:<br>MLA.A2.EX.4<br><br>Question:<br>Using y=3.5x+20, what is the prediction when x=8? {
+= 48#Correct. y=3.5(8)+20=28+20=48.
+~ 28#This uses only the slope part and omits the intercept.
+~ 31.5#This adds 3.5 and 8 before adding 20.
+~ 160#This multiplies the intercept by x instead of using the model.
+}
