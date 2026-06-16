@@ -1,0 +1,75 @@
+{
+  "course": "MCR",
+  "courseTitle": "Math for College Readiness",
+  "unit": "Unit 01",
+  "lesson": "Lesson 04",
+  "title": "Estimation, Reasonableness, and Error Analysis",
+  "primaryStandards": [
+    {
+      "code": "MLA.MCR.MC.1",
+      "description": "I can explain my mathematical reasoning clearly using words, numbers, tables, graphs, formulas, and units."
+    },
+    {
+      "code": "MLA.MCR.MC.2",
+      "description": "I can choose appropriate strategies and representations to solve real-world problems."
+    },
+    {
+      "code": "MLA.MCR.MC.3",
+      "description": "I can interpret results in context and check whether answers are reasonable."
+    }
+  ],
+  "mappingNote": "Support-only embedded MLA.MCR.MC standards; no new primary benchmark ownership in approved Unit 1 mapping.",
+  "assessment": "Quiz",
+  "masteryThreshold": 80,
+  "pages": [
+    {
+      "id": "P01",
+      "title": "Lesson Overview",
+      "file": "P01.html"
+    },
+    {
+      "id": "P02",
+      "title": "Notebook Task Part 1",
+      "file": "P02.html"
+    },
+    {
+      "id": "P03",
+      "title": "Notebook Task Part 2",
+      "file": "P03.html"
+    },
+    {
+      "id": "P04",
+      "title": "Guided Practice / Worked Example",
+      "file": "P04.html"
+    },
+    {
+      "id": "P05",
+      "title": "Independent Work & Checkpoint",
+      "file": "P05.html"
+    },
+    {
+      "id": "P06",
+      "title": "Notebook Evidence Submission",
+      "file": "P06.html"
+    },
+    {
+      "id": "P07",
+      "title": "Checkpoint Submission",
+      "file": "P07.html"
+    }
+  ],
+  "guidedPractice": {
+    "file": "MCR_U01_L04_GuidedPractice.gift",
+    "questionCount": 5,
+    "graded": false,
+    "feedback": "immediate"
+  },
+  "quiz": {
+    "file": "MCR_U01_L04_Quiz.gift",
+    "questionsPerAttempt": 5,
+    "bankSize": 25,
+    "attemptPolicy": "one_attempt_then_TOR_intervention_if_below_80",
+    "questionBank": true,
+    "randomizedRetakeRequired": true
+  }
+}
