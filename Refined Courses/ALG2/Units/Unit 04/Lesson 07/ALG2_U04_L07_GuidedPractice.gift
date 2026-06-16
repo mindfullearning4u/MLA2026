@@ -1,21 +1,33 @@
 ﻿::ALG2_U04_L07_GP_Q01::
-Question ID:<br>ALG2_U04_L07_GP_Q01<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>Question:<br>A population starts at 2000 and grows 3% per year. Which model fits? {
-= P(t)=2000(1.03)<sup>t</sup>#Correct. The initial amount is 2000 and 3% growth gives factor 1.03.
-~ P(t)=2000(0.97)<sup>t</sup>#This models 3% decay.
-~ P(t)=1.03(2000)<sup>t</sup>#This reverses initial amount and factor.
+Question ID: ALG2_U04_L07_GP_Q01
+MLA Standard: MLA.A2.LOG.3
+Question:
+A population starts at 2000 and grows 3% per year. Which model fits?
+{
+= P(t)=2000(1.03)^t#Correct. The initial amount is 2000 and 3% growth gives factor 1.03.
+~ P(t)=2000(0.97)^t#This models 3% decay.
+~ P(t)=1.03(2000)^t#This reverses initial amount and factor.
 ~ P(t)=2000+3t#This is linear growth.
 }
 
 ::ALG2_U04_L07_GP_Q02::
-Question ID:<br>ALG2_U04_L07_GP_Q02<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>Question:<br>A substance starts at 120 grams and keeps 80% each hour. Which model fits? {
-~ A(t)=120(1.20)<sup>t</sup>#This models 20% growth.
-= A(t)=120(0.80)<sup>t</sup>#Correct. Keeping 80% each hour means the repeated factor is 0.80.
-~ A(t)=0.80(120)<sup>t</sup>#This reverses initial amount and factor.
+Question ID: ALG2_U04_L07_GP_Q02
+MLA Standard: MLA.A2.LOG.3
+Question:
+A substance starts at 120 grams and keeps 80% each hour. Which model fits?
+{
+~ A(t)=120(1.20)^t#This models 20% growth.
+= A(t)=120(0.80)^t#Correct. Keeping 80% each hour means the repeated factor is 0.80.
+~ A(t)=0.80(120)^t#This reverses initial amount and factor.
 ~ A(t)=120-80t#This subtracts a fixed amount and can become negative quickly.
 }
 
 ::ALG2_U04_L07_GP_Q03::
-Question ID:<br>ALG2_U04_L07_GP_Q03<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>Question:<br>Solve 500(1.04)<sup>t</sup>=750 for t. {
+Question ID: ALG2_U04_L07_GP_Q03
+MLA Standard: MLA.A2.LOG.3
+Question:
+Solve 500(1.04)^t=750 for t.
+{
 ~ t = log(1.04)/log(750/500)#This reverses the change-of-base ratio.
 ~ t = 750/(500)(1.04)#This does not isolate the exponent.
 = t = log(750/500)/log(1.04)#Correct. Divide by 500, then use logarithms to solve for the exponent.
@@ -23,7 +35,11 @@ Question ID:<br>ALG2_U04_L07_GP_Q03<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>
 }
 
 ::ALG2_U04_L07_GP_Q04::
-Question ID:<br>ALG2_U04_L07_GP_Q04<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>Question:<br>In V(t)=30000(0.88)<sup>t</sup>, what does 0.88 mean? {
+Question ID: ALG2_U04_L07_GP_Q04
+MLA Standard: MLA.A2.LOG.3
+Question:
+In V(t)=30000(0.88)^t, what does 0.88 mean?
+{
 ~ 88% is lost each year.#If 88% were lost, the factor would be 0.12.
 ~ The starting value is 0.88.#The starting value is 30000.
 ~ The model grows by 88%.#A factor less than 1 indicates decay.
@@ -31,7 +47,11 @@ Question ID:<br>ALG2_U04_L07_GP_Q04<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>
 }
 
 ::ALG2_U04_L07_GP_Q05::
-Question ID:<br>ALG2_U04_L07_GP_Q05<br><br>MLA Standard:<br>MLA.A2.LOG.3<br><br>Question:<br>Why are logarithms useful in exponential application problems? {
+Question ID: ALG2_U04_L07_GP_Q05
+MLA Standard: MLA.A2.LOG.3
+Question:
+Why are logarithms useful in exponential application problems?
+{
 = They solve for an unknown exponent or time.#Correct. Logarithms undo exponential expressions, so they help find time.
 ~ They always find the initial value.#Initial values usually come from context or the coefficient.
 ~ They turn every model linear.#They solve equations but do not change the model type.

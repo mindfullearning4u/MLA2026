@@ -1,8 +1,8 @@
-# ALG1 GIFT Compliance Audit Report
+# ALG2 GIFT Compliance Audit Report
 
 ## 1. Files Reviewed
 
-All ALG1 Moodle GIFT assessment files under `Refined Courses/ALG1/Units` were reviewed and corrected.
+All ALG2 Moodle GIFT assessment files under `Refined Courses/ALG2/Units` were reviewed and corrected.
 
 | Assessment Type | Files Reviewed | Questions Audited |
 |---|---:|---:|
@@ -14,7 +14,7 @@ All ALG1 Moodle GIFT assessment files under `Refined Courses/ALG1/Units` were re
 
 ## 2. Files Corrected
 
-All 102 ALG1 GIFT files were normalized for Moodle-safe import formatting.
+All 102 ALG2 GIFT files were normalized for Moodle-safe import formatting.
 
 Corrections were applied only to GIFT formatting and Moodle-safe notation. Standards, question intent, assessment rigor, answer keys, and feedback purpose were preserved.
 
@@ -23,11 +23,10 @@ Corrections were applied only to GIFT formatting and Moodle-safe notation. Stand
 Initial findings included:
 
 - HTML line breaks such as `<br>`.
-- HTML formatting tags including superscript/subscript structures.
-- HTML entities such as `&middot;`, `&frasl;`, and related math entities.
+- HTML formatting tags and embedded page-formatting structures.
+- HTML entities and visual math formatting.
 - Opening braces attached directly to question text.
-- Set-notation braces inside answer choices that could be misread by the GIFT parser.
-- LaTeX fraction braces that could be misread as GIFT answer-block delimiters.
+- Set-notation braces and LaTeX fraction braces that could be misread by the GIFT parser.
 - Blank-line-separated metadata that could create additional Moodle question-bank artifacts.
 
 ## 4. Corrections Applied
@@ -36,9 +35,8 @@ Applied Moodle-safe corrections:
 
 - Removed HTML tags and page-formatting markup from GIFT files.
 - Converted visual math formatting to plain Moodle-safe notation.
-- Replaced superscript formatting with caret notation such as `x^2`.
-- Replaced visual fractions with plain notation such as `p/4`, `(x)/(2)`, or `16^(1/2)`.
-- Replaced multiplication entities with `times`.
+- Replaced superscript formatting with caret notation where applicable.
+- Replaced visual fractions with plain notation where applicable.
 - Converted set-notation braces in answer choices to parentheses where needed for parser safety.
 - Placed every opening `{` answer-block delimiter on its own line.
 - Placed every closing `}` answer-block delimiter on its own line.
@@ -47,7 +45,7 @@ Applied Moodle-safe corrections:
   - `MLA Standard: ...`
 - Removed internal blank lines inside question blocks so Moodle imports only the actual `::QuestionID::` entries.
 - Kept one blank separator line only between completed questions.
-- Verified all answer choices remain A-D with feedback.
+- Verified all answer choices retain feedback and exactly one correct answer.
 
 ## 5. Import Readiness Verification
 
@@ -81,4 +79,4 @@ Final audit command verified:
 
 PASS WITH CORRECTIONS
 
-All ALG1 GIFT assessment files have been corrected for Moodle import readiness. The files now follow the required Moodle-safe GIFT structure, preserve visible Question ID and MLA Standard metadata inside the question text, and avoid internal blank-line metadata artifacts while preserving MLA assessment quality standards.
+All ALG2 GIFT assessment files have been corrected for Moodle import readiness. The files now follow the required Moodle-safe GIFT structure, preserve visible Question ID and MLA Standard metadata inside the question text, and avoid internal blank-line metadata artifacts while preserving MLA assessment quality standards.
