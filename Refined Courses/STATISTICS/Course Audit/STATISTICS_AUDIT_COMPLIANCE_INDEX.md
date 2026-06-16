@@ -27,6 +27,10 @@ All compliance audit records for Statistics must be stored under:
 | Unit 01 | 6 | `Unit 01/STAT_U01_L06_Audit.md` | PASS |
 | Unit 01 | 7 | `Unit 01/STAT_U01_L07_Audit.md` | PASS |
 | Unit 01 | 8 | `Unit 01/STAT_U01_L08_Audit.md` | PASS |
+| Unit 02 | 1 | `Unit 02/STAT_U02_L01_Audit.md` | PASS |
+| Unit 02 | 2 | `Unit 02/STAT_U02_L02_Audit.md` | PASS |
+| Unit 02 | 3 | `Unit 02/STAT_U02_L03_Audit.md` | PASS |
+| Unit 02 | 4 | `Unit 02/STAT_U02_L04_Audit.md` | PASS |
 
 ## Current Pretest Audit Records
 
@@ -44,6 +48,7 @@ All compliance audit records for Statistics must be stored under:
 
 | Course Audit | Audit File | Status |
 |---|---|---|
+| Shell Compliance Correction Report | `STATISTICS_SHELL_COMPLIANCE_CORRECTION_REPORT.md` | PASS WITH CORRECTIONS |
 | Master Course Certification Audit | `STATISTICS_MASTER_COURSE_CERTIFICATION_AUDIT.md` | Pending Units 1-6 completion |
 
 ## Compliance Rule
