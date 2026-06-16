@@ -5,7 +5,17 @@ Current Course Audit Status
 NOT READY FOR CERTIFICATION
 
 Reason
-Final course certification cannot be completed until all 6 units are built, unit-audited, fixed, re-audited, and locked.
+Unit 1 is complete and unit-audited, but Units 2-6 are not built yet. Final course certification cannot be completed until all 6 units are built, unit-audited, fixed, re-audited, and locked.
+
+Current Evidence Available
+Unit 1 Lessons 1-8 lesson audits are complete.
+Unit 1 Unit Pretest is complete.
+Unit 1 Unit Assessment is complete.
+Unit 1 Unit Audit result: PASS.
+
+Current Evidence Missing
+Units 2-6 full builds and unit audits.
+MLA Master Course Certification Audit after all units are complete.
 
 Required Final Course Certification Review
 Instructional Quality
@@ -23,17 +33,6 @@ Final Certification Options
 CERTIFIED
 CERTIFIED AFTER CORRECTIONS
 NOT READY FOR CERTIFICATION
-
-Current Evidence Available
-Unit 1 Lessons 1-6 lesson audits are complete and centralized in Course Audit/PRECALCULUS_LESSON_AUDITS.md.
-
-Current Evidence Missing
-Unit 1 Lessons 7-8
-Unit 1 Unit Pretest
-Unit 1 Unit Assessment
-Unit 1 Final Unit Audit
-Units 2-6 full builds and unit audits
-MLA Master Course Certification Audit
 
 Final Recommendation
 NOT READY FOR CERTIFICATION

@@ -1,98 +1,114 @@
 Executive Summary
-Precalculus Unit 1 Lessons 1-6 have been built and audited using the MLA Audit Reporting Format.
-Final Recommendation: PASS for completed lesson builds
+Precalculus Unit 1 Lessons 1-8 have been built and audited using the MLA Audit Reporting Format.
+Final Recommendation: PASS for Unit 1 lesson builds
 
 Strengths
-Lessons 1-6 follow the approved Precalculus Unit 1 mapping.
-Each completed lesson includes P01-P07, lesson.json, quiz.json, Guided Practice, and Lesson Quiz Bank.
+Lessons 1-8 follow the approved Precalculus Unit 1 mapping.
+Each completed lesson includes P01-P07, lesson.json, and quiz.json.
+Lessons 1-7 include Guided Practice and Lesson Quiz Bank.
+Lesson 8 correctly includes Guided Practice and Unit Assessment instead of a Lesson Quiz.
 All completed GIFT files use Moodle-safe formatting with visible Question ID and MLA Standard inside the question text.
 All completed GIFT files contain zero blank lines so Moodle does not treat spacing as a new question.
 Feedback is instructional and tied to misconceptions.
 
 Findings
-No blocking findings remain for Lessons 1-6.
-Lessons 7-8 are not included in this lesson audit file yet because they have not been built.
+No blocking findings remain for Unit 1 Lessons 1-8.
 
 Required Corrections
 Completed during audit: reformatted GIFT files to match the Moodle-safe MLA import pattern.
 Completed during audit: removed blank lines from GIFT files.
 Completed during audit: corrected answer-key marker issues found during lesson audits.
-Completed during audit: balanced answer distribution to avoid obvious patterns.
+Completed during audit: rebuilt the Lesson 7 quiz bank to remove duplicate choices.
+Completed during audit: verified Lesson 8 has no Lesson Quiz and includes Unit Assessment linkage.
 
 Recommended Improvements
-None required before continuing Unit 1 production.
+None required before continuing Unit 2 production.
 
 Standards Coverage Summary
-MLA Standard	Assessment Items
-MLA.PC.FA.7	L01 GP, L01 Quiz
-MLA.PC.FA.1	L02 GP, L02 Quiz
-MLA.PC.FA.2	L02 GP, L02 Quiz
-MLA.PC.FA.3	L02 GP, L02 Quiz
-MLA.PC.FA.4	L03 GP, L03 Quiz
-MLA.PC.FA.5	L03 GP, L03 Quiz
-MLA.PC.FA.8	L04 GP, L04 Quiz
-MLA.PC.FA.9	L04 GP, L04 Quiz
-MLA.PC.FA.10	L04 GP, L04 Quiz
-MLA.PC.FA.11	L05 GP, L05 Quiz
-MLA.PC.FA.12	L05 GP, L05 Quiz
-MLA.PC.FA.13	L05 GP, L05 Quiz
-MLA.PC.EX.1	L06 GP, L06 Quiz
-MLA.PC.EX.2	L06 GP, L06 Quiz
+MLA Standard`tAssessment Items
+MLA.PC.FA.7`tL01 GP, L01 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.1`tL02 GP, L02 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.2`tL02 GP, L02 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.3`tL02 GP, L02 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.4`tL03 GP, L03 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.5`tL03 GP, L03 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.8`tL04 GP, L04 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.9`tL04 GP, L04 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.10`tL04 GP, L04 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.11`tL05 GP, L05 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.12`tL05 GP, L05 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.FA.13`tL05 GP, L05 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.EX.1`tL06 GP, L06 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.EX.2`tL06 GP, L06 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.MOD.1`tL07 GP, L07 Quiz, Unit Assessment, Unit Pretest
+MLA.PC.MOD.2`tL07 GP, L07 Quiz, Unit Assessment, Unit Pretest
 
 Assessment Coverage Summary
-File	Count	Status
-Units/Unit 01/Lesson 01/guided_practice.gift	5	PASS
-Units/Unit 01/Lesson 01/quiz.gift	25	PASS
-Units/Unit 01/Lesson 02/guided_practice.gift	5	PASS
-Units/Unit 01/Lesson 02/quiz.gift	25	PASS
-Units/Unit 01/Lesson 03/guided_practice.gift	5	PASS
-Units/Unit 01/Lesson 03/quiz.gift	25	PASS
-Units/Unit 01/Lesson 04/guided_practice.gift	5	PASS
-Units/Unit 01/Lesson 04/quiz.gift	25	PASS
-Units/Unit 01/Lesson 05/guided_practice.gift	5	PASS
-Units/Unit 01/Lesson 05/quiz.gift	25	PASS
-Units/Unit 01/Lesson 06/guided_practice.gift	5	PASS
-Units/Unit 01/Lesson 06/quiz.gift	25	PASS
+Assessment`tCount`tStatus
+L01 Guided Practice`t5`tPASS
+L01 Quiz`t25`tPASS
+L02 Guided Practice`t5`tPASS
+L02 Quiz`t25`tPASS
+L03 Guided Practice`t5`tPASS
+L03 Quiz`t25`tPASS
+L04 Guided Practice`t5`tPASS
+L04 Quiz`t25`tPASS
+L05 Guided Practice`t5`tPASS
+L05 Quiz`t25`tPASS
+L06 Guided Practice`t5`tPASS
+L06 Quiz`t25`tPASS
+L07 Guided Practice`t5`tPASS
+L07 Quiz`t25`tPASS
+L08 Guided Practice`t5`tPASS
+Unit Assessment`t40`tPASS
+Unit Pretest`t10`tPASS
 
 Answer Distribution Summary
-Assessment	A	B	C	D
-L01 Guided Practice	1	1	2	1
-L01 Quiz	6	6	6	7
-L02 Guided Practice	1	1	2	1
-L02 Quiz	6	6	6	7
-L03 Guided Practice	1	1	2	1
-L03 Quiz	7	6	6	6
-L04 Guided Practice	1	1	2	1
-L04 Quiz	7	6	6	6
-L05 Guided Practice	1	1	2	1
-L05 Quiz	7	6	6	6
-L06 Guided Practice	1	1	2	1
-L06 Quiz	7	6	6	6
+Assessment`tA`tB`tC`tD
+L01 Guided Practice`t1`t1`t2`t1
+L01 Quiz`t6`t6`t6`t7
+L02 Guided Practice`t1`t1`t2`t1
+L02 Quiz`t6`t6`t6`t7
+L03 Guided Practice`t1`t1`t2`t1
+L03 Quiz`t7`t6`t6`t6
+L04 Guided Practice`t1`t1`t2`t1
+L04 Quiz`t7`t6`t6`t6
+L05 Guided Practice`t1`t1`t2`t1
+L05 Quiz`t7`t6`t6`t6
+L06 Guided Practice`t1`t1`t2`t1
+L06 Quiz`t7`t6`t6`t6
+L07 Guided Practice`t2`t1`t1`t1
+L07 Quiz`t7`t6`t6`t6
+L08 Guided Practice`t2`t1`t1`t1
+Unit Assessment`t10`t10`t10`t10
+Unit Pretest`t3`t2`t3`t2
 
-No excessive clustering or repeating answer pattern found in completed lesson assessments.
+No excessive clustering or repeating answer pattern found in completed Unit 1 assessments.
 
 Individual Lesson Audit Locations
-Lesson	Audit File
-Unit 1 Lesson 1	Units/Unit 01/Lesson 01/audit_report.md
-Unit 1 Lesson 2	Units/Unit 01/Lesson 02/audit_report.md
-Unit 1 Lesson 3	Units/Unit 01/Lesson 03/audit_report.md
-Unit 1 Lesson 4	Units/Unit 01/Lesson 04/audit_report.md
-Unit 1 Lesson 5	Units/Unit 01/Lesson 05/audit_report.md
-Unit 1 Lesson 6	Units/Unit 01/Lesson 06/audit_report.md
+Lesson`tAudit File
+Unit 1 Lesson 1`tUnits/Unit 01/Lesson 01/audit_report.md
+Unit 1 Lesson 2`tUnits/Unit 01/Lesson 02/audit_report.md
+Unit 1 Lesson 3`tUnits/Unit 01/Lesson 03/audit_report.md
+Unit 1 Lesson 4`tUnits/Unit 01/Lesson 04/audit_report.md
+Unit 1 Lesson 5`tUnits/Unit 01/Lesson 05/audit_report.md
+Unit 1 Lesson 6`tUnits/Unit 01/Lesson 06/audit_report.md
+Unit 1 Lesson 7`tUnits/Unit 01/Lesson 07/audit_report.md
+Unit 1 Lesson 8`tUnits/Unit 01/Lesson 08/audit_report.md
 
 Audit Sections
-Files Built / Verified: PASS for completed lessons
-Standards Alignment: PASS for completed lessons
-Lesson Content Accuracy: PASS for completed lessons
-Assessment Content Accuracy: PASS for completed lessons
-Feedback Quality: PASS for completed lessons
-Standards Placement: PASS for completed lessons
-Standards Coverage: PASS for completed lessons
-Answer Distribution: PASS for completed lessons
-Duplicate Choice Audit: PASS for completed lessons
-Missing Feedback Audit: PASS for completed lessons
-Cross-Course Scan: PASS for completed lessons
-JSON Validation: PASS for completed lessons
-Shell Compliance: PASS for completed lessons
-Moodle Formatting Compliance: PASS for completed lessons
-Final Recommendation: PASS for completed lesson builds
+Files Built / Verified: PASS
+Standards Alignment: PASS
+Lesson Content Accuracy: PASS
+Assessment Content Accuracy: PASS
+Feedback Quality: PASS
+Standards Placement: PASS
+Standards Coverage: PASS
+Answer Distribution: PASS
+Duplicate Choice Audit: PASS
+Missing Feedback Audit: PASS
+Cross-Course Scan: PASS
+JSON Validation: PASS
+Shell Compliance: PASS
+Moodle Formatting Compliance: PASS
+Final Recommendation: PASS

@@ -1,0 +1,110 @@
+::PC_U01_PRE_Q01::
+Question ID: PC_U01_PRE_Q01
+MLA Standard: MLA.PC.FA.7; MLA.PC.FA.1
+Question:
+Function A is f(x)=x^2+4. Function B is a degree 3 polynomial with positive leading coefficient. Which comparison is correct?
+{
+=A. Function A has a minimum, and Function B has opposite end behavior.#Correct. A quadratic opening upward has a minimum, and an odd-degree polynomial with positive leading coefficient falls left and rises right.
+~B. Function A has no minimum, and Function B has both ends up.#This misreads both functions. The quadratic has a minimum, and an odd-degree polynomial has opposite end behavior.
+~C. Function A is degree 3, and Function B must have a maximum.#This confuses the degree of Function A and assumes a maximum from degree alone.
+~D. Function A and Function B must have the same end behavior.#Different degree and leading-coefficient structures can produce different end behavior.
+}
+::PC_U01_PRE_Q02::
+Question ID: PC_U01_PRE_Q02
+MLA Standard: MLA.PC.FA.2; MLA.PC.FA.3
+Question:
+A polynomial model has factor (x-6), and x represents time in seconds. What does x=6 mean if it is valid in context?
+{
+~A. The model has degree 6.#A factor showing x=6 as a zero does not determine the full polynomial degree.
+=B. The modeled quantity is 0 at 6 seconds.#Correct. The factor (x-6) gives a zero at x=6, meaning the output is 0 at that time.
+~C. The y-intercept is 6.#A y-intercept occurs when x=0, not when a factor equals zero.
+~D. The maximum value is 6.#A zero identifies an input where the output is 0, not a maximum value.
+}
+::PC_U01_PRE_Q03::
+Question ID: PC_U01_PRE_Q03
+MLA Standard: MLA.PC.FA.4; MLA.PC.FA.5
+Question:
+Which statement correctly identifies restrictions for f(x)=sqrt(x-2) and g(x)=1/(x+5)?
+{
+~A. f requires x<=2, and g excludes x=5.#The radical inequality is reversed, and the rational exclusion has the wrong sign.
+~B. f allows all real numbers, and g excludes no values.#Both functions have restrictions from their structures.
+=C. f requires x>=2, and g excludes x=-5.#Correct. The radical needs x-2>=0, and the rational denominator cannot equal 0.
+~D. f excludes x=2, and g requires x>=-5.#The radical endpoint x=2 is allowed, and rational restrictions are excluded values, not interval domains.
+}
+::PC_U01_PRE_Q04::
+Question ID: PC_U01_PRE_Q04
+MLA Standard: MLA.PC.FA.8; MLA.PC.FA.9
+Question:
+Let f(x)=x+3 and g(x)=2x. Which expression correctly represents f(g(x)) and uses composition rather than addition?
+{
+~A. 3x+3#This is (f+g)(x), not f(g(x)).
+~B. 2x^2+6x#This multiplies the functions rather than composing them.
+~C. 2x+6#This is g(f(x)), not f(g(x)).
+=D. 2x+3#Correct. f(g(x)) means substitute 2x into f, giving 2x+3.
+}
+::PC_U01_PRE_Q05::
+Question ID: PC_U01_PRE_Q05
+MLA Standard: MLA.PC.FA.10; MLA.PC.FA.11
+Question:
+A function h(t) gives height from time, and T(h) gives temperature from height. If an inverse function reverses inputs and outputs, what does T(h(t)) represent?
+{
+=A. temperature from time#Correct. Height is found from time first, then temperature is found from that height.
+~B. time from temperature#This describes reversing the relationship, not the given composition.
+~C. height from temperature#This reverses the input-output direction of the temperature function.
+~D. temperature plus height#Composition uses one function output as another function input; it is not addition.
+}
+::PC_U01_PRE_Q06::
+Question ID: PC_U01_PRE_Q06
+MLA Standard: MLA.PC.FA.12; MLA.PC.FA.13
+Question:
+Why might f(x)=x^2 be restricted to x>=0 before using its inverse in a distance model?
+{
+~A. The restriction makes all outputs negative.#Restricting to x>=0 does not make outputs negative; x^2 remains nonnegative.
+~B. The restriction removes all possible inputs.#The domain still includes all nonnegative inputs.
+=C. The restriction makes the function one-to-one and supports meaningful nonnegative inputs.#Correct. Restricting to one side makes the inverse a function and can match a nonnegative context such as distance.
+~D. The restriction changes the function into a logarithmic model.#A domain restriction does not change a quadratic into a logarithmic function.
+}
+::PC_U01_PRE_Q07::
+Question ID: PC_U01_PRE_Q07
+MLA Standard: MLA.PC.EX.1; MLA.PC.EX.2
+Question:
+Which statement connects y=200(1.05)^t and log base 1.05 of 2?
+{
+~A. The model shows 5 percent decay, and the logarithm has no connection to exponents.#The factor 1.05 shows growth, and logarithms are inverse to exponential relationships.
+~B. The model shows 105 percent decay, and the logarithm asks for a base.#This misinterprets the growth factor and the role of a logarithm.
+~C. The model is linear, and the logarithm gives an output value directly.#The model is exponential, and the logarithm asks for an exponent.
+=D. The model shows 5 percent growth, and the logarithm asks what exponent on 1.05 gives 2.#Correct. A factor of 1.05 represents 5 percent growth, and logarithms answer exponent questions.
+}
+::PC_U01_PRE_Q08::
+Question ID: PC_U01_PRE_Q08
+MLA Standard: MLA.PC.MOD.1; MLA.PC.MOD.2
+Question:
+A system solution is (4,9). A piecewise rule says use f(x)=2x+1 for x>=4. Which statement is correct?
+{
+=A. The system graphs intersect at (4,9), and f(4)=9 uses the x>=4 rule.#Correct. A system solution is an intersection, and x=4 is included in x>=4.
+~B. The system has no solution, and f(4) cannot be evaluated.#The ordered pair is a solution, and the piecewise interval includes x=4.
+~C. The system solution is only a y-intercept, and f(4)=8.#A system solution is a shared point, and 2(4)+1=9.
+~D. The system graphs are parallel, and the piecewise rule uses x<4.#A given solution means the graphs intersect, and x=4 belongs to x>=4.
+}
+::PC_U01_PRE_Q09::
+Question ID: PC_U01_PRE_Q09
+MLA Standard: MLA.PC.FA.4; MLA.PC.FA.8; MLA.PC.FA.9
+Question:
+Let f(x)=sqrt(x) and g(x)=x-7. What domain condition is needed for f(g(x))?
+{
+~A. x<7#This would make x-7 negative, which is not allowed inside the square root.
+=B. x>=7#Correct. f(g(x))=sqrt(x-7), so x-7 must be nonnegative.
+~C. x cannot equal 7#The input x=7 is allowed because the radicand is 0.
+~D. all real numbers#The square root in the composition creates a domain restriction.
+}
+::PC_U01_PRE_Q10::
+Question ID: PC_U01_PRE_Q10
+MLA Standard: MLA.PC.FA.7; MLA.PC.EX.1; MLA.PC.MOD.2
+Question:
+Which comparison correctly interprets f(x)=100(0.8)^x and a piecewise model that is constant at 100 for x<0?
+{
+~A. f shows growth, and the piecewise model has no interval restriction.#A factor less than 1 shows decay, and the piecewise rule applies only for x<0.
+~B. f is quadratic, and the piecewise model must be used for every x-value.#The first model is exponential, and piecewise rules depend on intervals.
+=C. f shows decay, and the piecewise rule applies only on its stated interval.#Correct. The factor 0.8 is decay, and piecewise rules must be matched to their intervals.
+~D. f has no key features, and the piecewise model cannot be compared.#Both models have interpretable features and constraints that can be compared.
+}
