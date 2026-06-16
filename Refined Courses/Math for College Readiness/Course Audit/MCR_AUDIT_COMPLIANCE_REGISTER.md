@@ -33,7 +33,7 @@ All audit files for this course must be stored under:
 | Unit 4 Lessons 1-2 | MCR_U04_L01_L02_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 4 Lessons 3-4 | MCR_U04_L03_L04_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 4 Lessons 5-6 | MCR_U04_L05_L06_BUILD_AUDIT_REPORT.md | COMPLETE |
-| Unit 4 Lessons 7-8 | Pending | NOT STARTED |
+| Unit 4 Lessons 7-8 | MCR_U04_L07_L08_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 5 Lessons 1-8 | Pending | NOT STARTED |
 | Unit 6 Lessons 1-8 | Pending | NOT STARTED |
 
@@ -65,7 +65,7 @@ Required unit components:
 | Unit 1 | MCR_U01_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 2 | MCR_U02_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 3 | MCR_U03_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
-| Unit 4 | Pending | NOT STARTED |
+| Unit 4 | MCR_U04_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 5 | Pending | NOT STARTED |
 | Unit 6 | Pending | NOT STARTED |
 
