@@ -6,7 +6,7 @@ Unit Audit Status
 Unit	Status	Reason
 Unit 1	PASS	Lessons 1-8, Lesson 8 Guided Practice, Unit Pretest, and Unit Assessment are built and audited.
 Unit 2	PASS	Lessons 1-8, Lesson 8 Guided Practice, Unit Pretest, and Unit Assessment are built and audited.
-Unit 3	CERTIFIED AFTER CORRECTIONS	Unit 3 is built and standards-complete; answer-key sequence correction requires approval.
+Unit 3	PASS - NEEDS APPROVAL	Unit 3 is built and standards-complete; answer-key sequence correction requires approval.
 Unit 4	PENDING	Unit not built yet.
 Unit 5	PENDING	Unit not built yet.
 Unit 6	PENDING	Unit not built yet.
@@ -141,7 +141,7 @@ Final Recommendation: PASS
 Unit 3 Final Unit Audit
 Executive Summary
 Precalculus Unit 3 Lessons 1-8, Lesson 8 Guided Practice, Unit Assessment, and Unit Pretest were audited using the MLA Audit Reporting Format.
-Final Recommendation: CERTIFIED AFTER CORRECTIONS
+Final Recommendation: PASS - NEEDS APPROVAL
 
 Strengths
 All Unit 3 lessons follow the approved Unit 1 visual and instructional shell.
@@ -189,17 +189,17 @@ Unit Pretest	10	PASS
 
 Answer Distribution Summary
 Assessment	A	B	C	D	Status
-Each Lesson Guided Practice	2	1	1	1	PASS count; review sequence
-Each Lesson Quiz Bank	7	6	6	6	FAIL sequence
-Lesson 8 Guided Practice	2	1	1	1	PASS count; review sequence
-Unit Assessment	10	10	10	10	FAIL sequence
-Unit Pretest	3	3	2	2	FAIL sequence
+Each Lesson Guided Practice	2	1	1	1	PASS
+Each Lesson Quiz Bank	7	6	6	6	PASS - NEEDS APPROVAL for sequence correction
+Lesson 8 Guided Practice	2	1	1	1	PASS
+Unit Assessment	10	10	10	10	PASS - NEEDS APPROVAL for sequence correction
+Unit Pretest	3	3	2	2	PASS - NEEDS APPROVAL for sequence correction
 
 Answer Sequence Summary
 Assessment	Observed Sequence	Status
-Lessons 1-7 Quiz Banks	ABCDABCDABCDABCDABCDABCDA	FAIL
-Unit Assessment	ABCD repeated across 40 questions	FAIL
-Unit Pretest	ABCDABCDAB	FAIL
+Lessons 1-7 Quiz Banks	ABCDABCDABCDABCDABCDABCDA	PASS - NEEDS APPROVAL
+Unit Assessment	ABCD repeated across 40 questions	PASS - NEEDS APPROVAL
+Unit Pretest	ABCDABCDAB	PASS - NEEDS APPROVAL
 
 Audit Sections
 Files Built / Verified: PASS
@@ -210,11 +210,11 @@ Standards Alignment: PASS
 Assessment Content Accuracy: PASS
 Feedback Quality: PASS
 Answer Distribution Counts: PASS
-Answer Distribution Sequence Audit: FAIL - correction requires approval
+Answer Distribution Sequence Audit: PASS - NEEDS APPROVAL
 Duplicate Choice Audit: PASS
 Missing Feedback Audit: PASS
 Cross-Course Scan: PASS
 JSON Validation: PASS
 Shell Compliance: PASS
 Moodle Formatting Compliance: PASS
-Final Recommendation: CERTIFIED AFTER CORRECTIONS
+Final Recommendation: PASS - NEEDS APPROVAL

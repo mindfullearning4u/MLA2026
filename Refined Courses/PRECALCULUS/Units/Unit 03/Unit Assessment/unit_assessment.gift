@@ -4,10 +4,10 @@ MLA Standard: MLA.PC.TR.7
 Question:
 Which statement correctly connects degrees and radians?
 {
-=A. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
-~B. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
+~A. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
+=B. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
 ~C. Coterminal angles never differ by 360 degrees.#This is not supported by the model or context.
-~D. Radians cannot measure rotations.#
+~D. Radians cannot measure rotations.#Radians do measure rotations; pi radians is half a rotation and 2pi radians is one full rotation.
 }
 ::PC_U03_UNIT_ASSESS_Q02::
 Question ID: PC_U03_UNIT_ASSESS_Q02
@@ -16,9 +16,9 @@ Question:
 Which statement correctly defines a unit circle value?
 {
 ~A. Sine is always the x-coordinate.#This choice does not match the requested trigonometric concept.
-=B. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
-~C. Tangent is cosine/sine.#This is not supported by the model or context.
-~D. Secant is reciprocal sine.#
+~B. Tangent is cosine/sine.#This is not supported by the model or context.
+~C. Secant is reciprocal sine.#Secant is the reciprocal of cosine; cosecant is the reciprocal of sine.
+=D. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
 }
 ::PC_U03_UNIT_ASSESS_Q03::
 Question ID: PC_U03_UNIT_ASSESS_Q03
@@ -26,10 +26,10 @@ MLA Standard: MLA.PC.TR.9
 Question:
 Which exact value is correct?
 {
-~A. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
-~B. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
-=C. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
-~D. cos(pi/3)=sqrt(3)/2#
+=A. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
+~B. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
+~C. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
+~D. cos(pi/3)=sqrt(3)/2#cos(pi/3)=1/2; sqrt(3)/2 is cos(pi/6) or sin(pi/3).
 }
 ::PC_U03_UNIT_ASSESS_Q04::
 Question ID: PC_U03_UNIT_ASSESS_Q04
@@ -39,8 +39,8 @@ Which symmetry relationship is correct?
 {
 ~A. cos(2pi - x)=-cos(x)#This choice does not match the requested trigonometric concept.
 ~B. cos(pi - x)=cos(x)#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(pi + x)=sin(x)#This is not supported by the model or context.
-=D. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+=C. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+~D. sin(pi + x)=sin(x)#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q05::
 Question ID: PC_U03_UNIT_ASSESS_Q05
@@ -48,10 +48,10 @@ MLA Standard: MLA.PC.TR.11
 Question:
 Which trigonometric value statement is correct?
 {
-=A. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
-~B. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(150 degrees)=-1/2.#This is not supported by the model or context.
-~D. csc(pi/2) is undefined.#
+~A. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
+~B. sin(150 degrees)=-1/2.#This is not supported by the model or context.
+=C. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
+~D. csc(pi/2) is undefined.#sin(pi/2)=1, so csc(pi/2)=1; reciprocal values are undefined only when the denominator is 0.
 }
 ::PC_U03_UNIT_ASSESS_Q06::
 Question ID: PC_U03_UNIT_ASSESS_Q06
@@ -59,10 +59,10 @@ MLA Standard: MLA.PC.TR.12
 Question:
 Which feature helps choose a sinusoidal model for periodic data?
 {
-~A. Only denominator restrictions#This choice does not match the requested trigonometric concept.
-=B. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+=A. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+~B. Only denominator restrictions#This choice does not match the requested trigonometric concept.
 ~C. Only polynomial zeros#This is not supported by the model or context.
-~D. Only logarithm base#
+~D. Only logarithm base#This belongs to logarithmic functions, not sinusoidal modeling features such as amplitude, period, midline, and shift.
 }
 ::PC_U03_UNIT_ASSESS_Q07::
 Question ID: PC_U03_UNIT_ASSESS_Q07
@@ -72,8 +72,8 @@ Which graph feature is correct for y=4sin(x)?
 {
 ~A. Range is all real numbers.#This choice does not match the requested trigonometric concept.
 ~B. Period is pi.#This reflects a common misconception; check the unit circle or graph feature.
-=C. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
-~D. Midline is y=4.#
+~C. Midline is y=4.#In y=4sin(x), the 4 is the amplitude; the midline remains y=0.
+=D. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
 }
 ::PC_U03_UNIT_ASSESS_Q08::
 Question ID: PC_U03_UNIT_ASSESS_Q08
@@ -82,9 +82,9 @@ Question:
 Which statement correctly interprets a trigonometric model?
 {
 ~A. Midline is never used in modeling.#This choice does not match the requested trigonometric concept.
-~B. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
-~C. Amplitude is always the period.#This is not supported by the model or context.
-=D. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+=B. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+~C. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
+~D. Amplitude is always the period.#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q09::
 Question ID: PC_U03_UNIT_ASSESS_Q09
@@ -95,7 +95,7 @@ Which statement correctly connects degrees and radians?
 =A. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
 ~B. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
 ~C. Coterminal angles never differ by 360 degrees.#This is not supported by the model or context.
-~D. Radians cannot measure rotations.#
+~D. Radians cannot measure rotations.#Radians do measure rotations; pi radians is half a rotation and 2pi radians is one full rotation.
 }
 ::PC_U03_UNIT_ASSESS_Q10::
 Question ID: PC_U03_UNIT_ASSESS_Q10
@@ -104,9 +104,9 @@ Question:
 Which statement correctly defines a unit circle value?
 {
 ~A. Sine is always the x-coordinate.#This choice does not match the requested trigonometric concept.
-=B. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
-~C. Tangent is cosine/sine.#This is not supported by the model or context.
-~D. Secant is reciprocal sine.#
+~B. Tangent is cosine/sine.#This is not supported by the model or context.
+=C. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
+~D. Secant is reciprocal sine.#Secant is the reciprocal of cosine; cosecant is the reciprocal of sine.
 }
 ::PC_U03_UNIT_ASSESS_Q11::
 Question ID: PC_U03_UNIT_ASSESS_Q11
@@ -116,8 +116,8 @@ Which exact value is correct?
 {
 ~A. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
 ~B. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
-=C. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
-~D. cos(pi/3)=sqrt(3)/2#
+~C. cos(pi/3)=sqrt(3)/2#cos(pi/3)=1/2; sqrt(3)/2 is cos(pi/6) or sin(pi/3).
+=D. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
 }
 ::PC_U03_UNIT_ASSESS_Q12::
 Question ID: PC_U03_UNIT_ASSESS_Q12
@@ -126,9 +126,9 @@ Question:
 Which symmetry relationship is correct?
 {
 ~A. cos(2pi - x)=-cos(x)#This choice does not match the requested trigonometric concept.
-~B. cos(pi - x)=cos(x)#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(pi + x)=sin(x)#This is not supported by the model or context.
-=D. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+=B. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+~C. cos(pi - x)=cos(x)#This reflects a common misconception; check the unit circle or graph feature.
+~D. sin(pi + x)=sin(x)#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q13::
 Question ID: PC_U03_UNIT_ASSESS_Q13
@@ -136,10 +136,10 @@ MLA Standard: MLA.PC.TR.11
 Question:
 Which trigonometric value statement is correct?
 {
-=A. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
-~B. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(150 degrees)=-1/2.#This is not supported by the model or context.
-~D. csc(pi/2) is undefined.#
+~A. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
+~B. sin(150 degrees)=-1/2.#This is not supported by the model or context.
+=C. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
+~D. csc(pi/2) is undefined.#sin(pi/2)=1, so csc(pi/2)=1; reciprocal values are undefined only when the denominator is 0.
 }
 ::PC_U03_UNIT_ASSESS_Q14::
 Question ID: PC_U03_UNIT_ASSESS_Q14
@@ -147,10 +147,10 @@ MLA Standard: MLA.PC.TR.12
 Question:
 Which feature helps choose a sinusoidal model for periodic data?
 {
-~A. Only denominator restrictions#This choice does not match the requested trigonometric concept.
-=B. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+=A. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+~B. Only denominator restrictions#This choice does not match the requested trigonometric concept.
 ~C. Only polynomial zeros#This is not supported by the model or context.
-~D. Only logarithm base#
+~D. Only logarithm base#This belongs to logarithmic functions, not sinusoidal modeling features such as amplitude, period, midline, and shift.
 }
 ::PC_U03_UNIT_ASSESS_Q15::
 Question ID: PC_U03_UNIT_ASSESS_Q15
@@ -159,9 +159,9 @@ Question:
 Which graph feature is correct for y=4sin(x)?
 {
 ~A. Range is all real numbers.#This choice does not match the requested trigonometric concept.
-~B. Period is pi.#This reflects a common misconception; check the unit circle or graph feature.
-=C. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
-~D. Midline is y=4.#
+=B. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
+~C. Period is pi.#This reflects a common misconception; check the unit circle or graph feature.
+~D. Midline is y=4.#In y=4sin(x), the 4 is the amplitude; the midline remains y=0.
 }
 ::PC_U03_UNIT_ASSESS_Q16::
 Question ID: PC_U03_UNIT_ASSESS_Q16
@@ -183,7 +183,7 @@ Which statement correctly connects degrees and radians?
 =A. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
 ~B. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
 ~C. Coterminal angles never differ by 360 degrees.#This is not supported by the model or context.
-~D. Radians cannot measure rotations.#
+~D. Radians cannot measure rotations.#Radians do measure rotations; pi radians is half a rotation and 2pi radians is one full rotation.
 }
 ::PC_U03_UNIT_ASSESS_Q18::
 Question ID: PC_U03_UNIT_ASSESS_Q18
@@ -192,9 +192,9 @@ Question:
 Which statement correctly defines a unit circle value?
 {
 ~A. Sine is always the x-coordinate.#This choice does not match the requested trigonometric concept.
-=B. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
-~C. Tangent is cosine/sine.#This is not supported by the model or context.
-~D. Secant is reciprocal sine.#
+~B. Tangent is cosine/sine.#This is not supported by the model or context.
+=C. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
+~D. Secant is reciprocal sine.#Secant is the reciprocal of cosine; cosecant is the reciprocal of sine.
 }
 ::PC_U03_UNIT_ASSESS_Q19::
 Question ID: PC_U03_UNIT_ASSESS_Q19
@@ -203,9 +203,9 @@ Question:
 Which exact value is correct?
 {
 ~A. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
-~B. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
-=C. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
-~D. cos(pi/3)=sqrt(3)/2#
+=B. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
+~C. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
+~D. cos(pi/3)=sqrt(3)/2#cos(pi/3)=1/2; sqrt(3)/2 is cos(pi/6) or sin(pi/3).
 }
 ::PC_U03_UNIT_ASSESS_Q20::
 Question ID: PC_U03_UNIT_ASSESS_Q20
@@ -224,10 +224,10 @@ MLA Standard: MLA.PC.TR.11
 Question:
 Which trigonometric value statement is correct?
 {
-=A. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
-~B. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(150 degrees)=-1/2.#This is not supported by the model or context.
-~D. csc(pi/2) is undefined.#
+~A. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
+~B. sin(150 degrees)=-1/2.#This is not supported by the model or context.
+=C. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
+~D. csc(pi/2) is undefined.#sin(pi/2)=1, so csc(pi/2)=1; reciprocal values are undefined only when the denominator is 0.
 }
 ::PC_U03_UNIT_ASSESS_Q22::
 Question ID: PC_U03_UNIT_ASSESS_Q22
@@ -235,10 +235,10 @@ MLA Standard: MLA.PC.TR.12
 Question:
 Which feature helps choose a sinusoidal model for periodic data?
 {
-~A. Only denominator restrictions#This choice does not match the requested trigonometric concept.
-=B. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+=A. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+~B. Only denominator restrictions#This choice does not match the requested trigonometric concept.
 ~C. Only polynomial zeros#This is not supported by the model or context.
-~D. Only logarithm base#
+~D. Only logarithm base#This belongs to logarithmic functions, not sinusoidal modeling features such as amplitude, period, midline, and shift.
 }
 ::PC_U03_UNIT_ASSESS_Q23::
 Question ID: PC_U03_UNIT_ASSESS_Q23
@@ -248,8 +248,8 @@ Which graph feature is correct for y=4sin(x)?
 {
 ~A. Range is all real numbers.#This choice does not match the requested trigonometric concept.
 ~B. Period is pi.#This reflects a common misconception; check the unit circle or graph feature.
-=C. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
-~D. Midline is y=4.#
+~C. Midline is y=4.#In y=4sin(x), the 4 is the amplitude; the midline remains y=0.
+=D. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
 }
 ::PC_U03_UNIT_ASSESS_Q24::
 Question ID: PC_U03_UNIT_ASSESS_Q24
@@ -258,9 +258,9 @@ Question:
 Which statement correctly interprets a trigonometric model?
 {
 ~A. Midline is never used in modeling.#This choice does not match the requested trigonometric concept.
-~B. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
-~C. Amplitude is always the period.#This is not supported by the model or context.
-=D. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+=B. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+~C. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
+~D. Amplitude is always the period.#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q25::
 Question ID: PC_U03_UNIT_ASSESS_Q25
@@ -268,10 +268,10 @@ MLA Standard: MLA.PC.TR.7
 Question:
 Which statement correctly connects degrees and radians?
 {
-=A. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
-~B. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
-~C. Coterminal angles never differ by 360 degrees.#This is not supported by the model or context.
-~D. Radians cannot measure rotations.#
+~A. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
+~B. Coterminal angles never differ by 360 degrees.#This is not supported by the model or context.
+~C. Radians cannot measure rotations.#Radians do measure rotations; pi radians is half a rotation and 2pi radians is one full rotation.
+=D. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
 }
 ::PC_U03_UNIT_ASSESS_Q26::
 Question ID: PC_U03_UNIT_ASSESS_Q26
@@ -282,7 +282,7 @@ Which statement correctly defines a unit circle value?
 ~A. Sine is always the x-coordinate.#This choice does not match the requested trigonometric concept.
 =B. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
 ~C. Tangent is cosine/sine.#This is not supported by the model or context.
-~D. Secant is reciprocal sine.#
+~D. Secant is reciprocal sine.#Secant is the reciprocal of cosine; cosecant is the reciprocal of sine.
 }
 ::PC_U03_UNIT_ASSESS_Q27::
 Question ID: PC_U03_UNIT_ASSESS_Q27
@@ -290,10 +290,10 @@ MLA Standard: MLA.PC.TR.9
 Question:
 Which exact value is correct?
 {
-~A. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
-~B. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
-=C. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
-~D. cos(pi/3)=sqrt(3)/2#
+=A. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
+~B. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
+~C. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
+~D. cos(pi/3)=sqrt(3)/2#cos(pi/3)=1/2; sqrt(3)/2 is cos(pi/6) or sin(pi/3).
 }
 ::PC_U03_UNIT_ASSESS_Q28::
 Question ID: PC_U03_UNIT_ASSESS_Q28
@@ -303,8 +303,8 @@ Which symmetry relationship is correct?
 {
 ~A. cos(2pi - x)=-cos(x)#This choice does not match the requested trigonometric concept.
 ~B. cos(pi - x)=cos(x)#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(pi + x)=sin(x)#This is not supported by the model or context.
-=D. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+=C. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+~D. sin(pi + x)=sin(x)#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q29::
 Question ID: PC_U03_UNIT_ASSESS_Q29
@@ -315,7 +315,7 @@ Which trigonometric value statement is correct?
 =A. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
 ~B. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
 ~C. sin(150 degrees)=-1/2.#This is not supported by the model or context.
-~D. csc(pi/2) is undefined.#
+~D. csc(pi/2) is undefined.#sin(pi/2)=1, so csc(pi/2)=1; reciprocal values are undefined only when the denominator is 0.
 }
 ::PC_U03_UNIT_ASSESS_Q30::
 Question ID: PC_U03_UNIT_ASSESS_Q30
@@ -324,9 +324,9 @@ Question:
 Which feature helps choose a sinusoidal model for periodic data?
 {
 ~A. Only denominator restrictions#This choice does not match the requested trigonometric concept.
-=B. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
-~C. Only polynomial zeros#This is not supported by the model or context.
-~D. Only logarithm base#
+~B. Only polynomial zeros#This is not supported by the model or context.
+=C. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
+~D. Only logarithm base#This belongs to logarithmic functions, not sinusoidal modeling features such as amplitude, period, midline, and shift.
 }
 ::PC_U03_UNIT_ASSESS_Q31::
 Question ID: PC_U03_UNIT_ASSESS_Q31
@@ -336,8 +336,8 @@ Which graph feature is correct for y=4sin(x)?
 {
 ~A. Range is all real numbers.#This choice does not match the requested trigonometric concept.
 ~B. Period is pi.#This reflects a common misconception; check the unit circle or graph feature.
-=C. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
-~D. Midline is y=4.#
+~C. Midline is y=4.#In y=4sin(x), the 4 is the amplitude; the midline remains y=0.
+=D. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
 }
 ::PC_U03_UNIT_ASSESS_Q32::
 Question ID: PC_U03_UNIT_ASSESS_Q32
@@ -346,9 +346,9 @@ Question:
 Which statement correctly interprets a trigonometric model?
 {
 ~A. Midline is never used in modeling.#This choice does not match the requested trigonometric concept.
-~B. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
-~C. Amplitude is always the period.#This is not supported by the model or context.
-=D. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+=B. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+~C. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
+~D. Amplitude is always the period.#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q33::
 Question ID: PC_U03_UNIT_ASSESS_Q33
@@ -359,7 +359,7 @@ Which statement correctly connects degrees and radians?
 =A. 180 degrees equals pi radians.#Correct. This is the core conversion relationship.
 ~B. 360 degrees equals pi radians.#This reflects a common misconception; check the unit circle or graph feature.
 ~C. Coterminal angles never differ by 360 degrees.#This is not supported by the model or context.
-~D. Radians cannot measure rotations.#
+~D. Radians cannot measure rotations.#Radians do measure rotations; pi radians is half a rotation and 2pi radians is one full rotation.
 }
 ::PC_U03_UNIT_ASSESS_Q34::
 Question ID: PC_U03_UNIT_ASSESS_Q34
@@ -368,9 +368,9 @@ Question:
 Which statement correctly defines a unit circle value?
 {
 ~A. Sine is always the x-coordinate.#This choice does not match the requested trigonometric concept.
-=B. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
-~C. Tangent is cosine/sine.#This is not supported by the model or context.
-~D. Secant is reciprocal sine.#
+~B. Tangent is cosine/sine.#This is not supported by the model or context.
+~C. Secant is reciprocal sine.#Secant is the reciprocal of cosine; cosecant is the reciprocal of sine.
+=D. Cosine is the x-coordinate and sine is the y-coordinate.#Correct. Unit circle points are written as (cosine, sine).
 }
 ::PC_U03_UNIT_ASSESS_Q35::
 Question ID: PC_U03_UNIT_ASSESS_Q35
@@ -381,7 +381,7 @@ Which exact value is correct?
 ~A. tan(pi/4)=sqrt(2)/2#This choice does not match the requested trigonometric concept.
 ~B. sin(pi/6)=sqrt(3)/2#This reflects a common misconception; check the unit circle or graph feature.
 =C. sin(pi/6)=1/2#Correct. This matches the special-triangle exact value.
-~D. cos(pi/3)=sqrt(3)/2#
+~D. cos(pi/3)=sqrt(3)/2#cos(pi/3)=1/2; sqrt(3)/2 is cos(pi/6) or sin(pi/3).
 }
 ::PC_U03_UNIT_ASSESS_Q36::
 Question ID: PC_U03_UNIT_ASSESS_Q36
@@ -390,9 +390,9 @@ Question:
 Which symmetry relationship is correct?
 {
 ~A. cos(2pi - x)=-cos(x)#This choice does not match the requested trigonometric concept.
-~B. cos(pi - x)=cos(x)#This reflects a common misconception; check the unit circle or graph feature.
-~C. sin(pi + x)=sin(x)#This is not supported by the model or context.
-=D. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+=B. sin(pi - x)=sin(x)#Correct. Quadrant II keeps sine positive.
+~C. cos(pi - x)=cos(x)#This reflects a common misconception; check the unit circle or graph feature.
+~D. sin(pi + x)=sin(x)#This is not supported by the model or context.
 }
 ::PC_U03_UNIT_ASSESS_Q37::
 Question ID: PC_U03_UNIT_ASSESS_Q37
@@ -403,7 +403,7 @@ Which trigonometric value statement is correct?
 =A. tan(90 degrees) is undefined.#Correct. Tangent is undefined when cosine is 0.
 ~B. sec(pi)=1.#This reflects a common misconception; check the unit circle or graph feature.
 ~C. sin(150 degrees)=-1/2.#This is not supported by the model or context.
-~D. csc(pi/2) is undefined.#
+~D. csc(pi/2) is undefined.#sin(pi/2)=1, so csc(pi/2)=1; reciprocal values are undefined only when the denominator is 0.
 }
 ::PC_U03_UNIT_ASSESS_Q38::
 Question ID: PC_U03_UNIT_ASSESS_Q38
@@ -412,9 +412,9 @@ Question:
 Which feature helps choose a sinusoidal model for periodic data?
 {
 ~A. Only denominator restrictions#This choice does not match the requested trigonometric concept.
-=B. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
-~C. Only polynomial zeros#This is not supported by the model or context.
-~D. Only logarithm base#
+~B. Only polynomial zeros#This is not supported by the model or context.
+~C. Only logarithm base#This belongs to logarithmic functions, not sinusoidal modeling features such as amplitude, period, midline, and shift.
+=D. Amplitude, period, midline, and shift#Correct. These are key features for sine and cosine models.
 }
 ::PC_U03_UNIT_ASSESS_Q39::
 Question ID: PC_U03_UNIT_ASSESS_Q39
@@ -425,7 +425,7 @@ Which graph feature is correct for y=4sin(x)?
 ~A. Range is all real numbers.#This choice does not match the requested trigonometric concept.
 ~B. Period is pi.#This reflects a common misconception; check the unit circle or graph feature.
 =C. Amplitude is 4.#Correct. The coefficient 4 gives amplitude.
-~D. Midline is y=4.#
+~D. Midline is y=4.#In y=4sin(x), the 4 is the amplitude; the midline remains y=0.
 }
 ::PC_U03_UNIT_ASSESS_Q40::
 Question ID: PC_U03_UNIT_ASSESS_Q40
@@ -433,8 +433,8 @@ MLA Standard: MLA.PC.TR.14
 Question:
 Which statement correctly interprets a trigonometric model?
 {
-~A. Midline is never used in modeling.#This choice does not match the requested trigonometric concept.
-~B. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
-~C. Amplitude is always the period.#This is not supported by the model or context.
-=D. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+=A. Context can restrict the meaningful domain.#Correct. Real-world periodic models often have contextual restrictions.
+~B. Midline is never used in modeling.#This choice does not match the requested trigonometric concept.
+~C. All x-values always make sense in context.#This reflects a common misconception; check the unit circle or graph feature.
+~D. Amplitude is always the period.#This is not supported by the model or context.
 }

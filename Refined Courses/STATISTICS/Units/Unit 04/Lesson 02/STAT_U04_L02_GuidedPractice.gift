@@ -1,0 +1,72 @@
+﻿::STAT_U04_L02_GP_Q01::
+Question ID: STAT_U04_L02_GP_Q01
+MLA Standard: MLA.STAT.PSU.2
+Question:
+What does P(A | B) mean?
+
+{
+=A. Probability of A given B happened#Correct. The condition B is already known.
+~B. Probability of A or B#That is union language, not conditional probability.
+~C. Probability of A and B only#That is intersection language.
+~D. Probability of not A#That is complement language.
+}
+
+
+
+::STAT_U04_L02_GP_Q02::
+Question ID: STAT_U04_L02_GP_Q02
+MLA Standard: MLA.STAT.PSU.3
+Question:
+If 12 of 30 students in Group B choose tutoring, what is P(tutoring | Group B)?
+
+{
+~A. 12 percent#This uses the count as a percent.
+=B. 40 percent#Correct. 12/30 = 0.40 = 40 percent.
+~C. 30 percent#This uses the group size as the percent.
+~D. 360 percent#This multiplies instead of dividing.
+}
+
+
+
+::STAT_U04_L02_GP_Q03::
+Question ID: STAT_U04_L02_GP_Q03
+MLA Standard: MLA.STAT.PSU.4
+Question:
+If P(A) = 0.40 and P(A | B) = 0.40, what is the best conclusion?
+
+{
+~A. B changes the probability of A#The probabilities are equal, so B did not change A.
+~B. A is impossible#A has probability 0.40, not 0.
+=C. A and B may be independent#Correct. The condition did not change the probability.
+~D. A and B are complements#Equal probabilities do not make events complements.
+}
+
+
+
+::STAT_U04_L02_GP_Q04::
+Question ID: STAT_U04_L02_GP_Q04
+MLA Standard: MLA.STAT.PSU.2
+Question:
+If P(A) = 0.40 and P(A | B) = 0.70, what is the best conclusion?
+
+{
+~A. A and B are independent#The probability changed, so they are not independent.
+~B. A is impossible#The probabilities are not 0.
+~C. B has no effect on A#The conditional probability is different.
+=D. A and B are not independent#Correct. The condition changes the probability of A.
+}
+
+
+
+::STAT_U04_L02_GP_Q05::
+Question ID: STAT_U04_L02_GP_Q05
+MLA Standard: MLA.STAT.PSU.3
+Question:
+For P(A | B), which denominator should be used?
+
+{
+=A. The total number of outcomes in B#Correct. The condition B becomes the total.
+~B. Always the full sample space#That is not conditional probability.
+~C. Only outcomes in A#The denominator is the condition, not the target event.
+~D. No denominator#A probability is a part divided by a relevant total.
+}

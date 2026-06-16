@@ -1,0 +1,27 @@
+﻿{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 04",
+    "lesson":  "Lesson 01",
+    "title":  "Quiz: Income, Paychecks, and Taxes",
+    "primaryStandard":  {
+                            "code":  "MLA.MCR.FL.4",
+                            "description":  "I can analyze income, calculate taxes, and interpret take-home pay."
+                        },
+    "format":  "GIFT",
+    "giftFile":  "MCR_U04_L01_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "C":  6,
+                                      "D":  6,
+                                      "B":  6,
+                                      "A":  7
+                                  }
+}
