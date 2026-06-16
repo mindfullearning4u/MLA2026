@@ -1,0 +1,27 @@
+﻿{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 03",
+    "lesson":  "Lesson 01",
+    "title":  "Quiz: Data Displays and Representations",
+    "primaryStandard":  {
+                            "code":  "MLA.MCR.DL.1",
+                            "description":  "I can choose appropriate displays for numerical and categorical data."
+                        },
+    "format":  "GIFT",
+    "giftFile":  "MCR_U03_L01_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "C":  6,
+                                      "D":  6,
+                                      "B":  6,
+                                      "A":  7
+                                  }
+}

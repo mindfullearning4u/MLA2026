@@ -1,0 +1,27 @@
+﻿{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 03",
+    "lesson":  "Lesson 05",
+    "title":  "Quiz: Correlation, Causation, and Claims",
+    "primaryStandard":  {
+                            "code":  "MLA.MCR.DL.3",
+                            "description":  "I can distinguish correlation from causation and evaluate claims about association."
+                        },
+    "format":  "GIFT",
+    "giftFile":  "MCR_U03_L05_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "C":  6,
+                                      "D":  6,
+                                      "B":  6,
+                                      "A":  7
+                                  }
+}

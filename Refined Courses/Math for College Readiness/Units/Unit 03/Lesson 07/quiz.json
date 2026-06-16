@@ -1,0 +1,27 @@
+﻿{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 03",
+    "lesson":  "Lesson 07",
+    "title":  "Quiz: Interpreting Statistical Reports",
+    "primaryStandard":  {
+                            "code":  "MLA.MCR.DL.7",
+                            "description":  "I can interpret two-way tables and relative frequencies."
+                        },
+    "format":  "GIFT",
+    "giftFile":  "MCR_U03_L07_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "C":  6,
+                                      "D":  6,
+                                      "B":  6,
+                                      "A":  7
+                                  }
+}
