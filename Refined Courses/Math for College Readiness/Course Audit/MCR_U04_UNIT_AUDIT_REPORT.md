@@ -121,3 +121,113 @@ Lesson-level quizzes use balanced A7, B6, C6, D6 distribution.
 FINAL RECOMMENDATION: PASS
 
 Unit Status: LOCKED
+
+## Full Rigorous Re-Audit Addendum
+
+Re-audit Date: June 16, 2026
+
+Rigorous audit result: PASS
+
+This re-audit was run against the actual Unit 4 files in `Refined Courses/Math for College Readiness/Units/Unit 04`, including all lesson HTML pages, JSON files, Guided Practice files, Lesson Quiz Bank files, the Lesson 8 Unit Assessment, and the Unit Pretest.
+
+## File Inventory Verification
+
+| Component | Verified Evidence | Status |
+|---|---:|---|
+| Lesson folders | 8 lessons present | PASS |
+| Lesson pages | P01-P07 present for Lessons 1-8 | PASS |
+| Lesson JSON files | lesson.json present for Lessons 1-8 | PASS |
+| Quiz JSON files | quiz.json present for Lessons 1-7 | PASS |
+| Lesson 8 quiz.json absent | Confirmed absent | PASS |
+| Total GIFT files | 17 | PASS |
+| Total GIFT questions | 265 | PASS |
+
+## Assessment Mechanics Verification
+
+| Assessment Type | Expected Count | Verified Count | Status |
+|---|---:|---:|---|
+| Guided Practice, Lessons 1-8 | 5 each | 5 each | PASS |
+| Lesson Quiz Bank, Lessons 1-7 | 25 each | 25 each | PASS |
+| Unit Assessment | 40 | 40 | PASS |
+| Unit Pretest | 10 | 10 | PASS |
+
+## Answer Distribution Verification
+
+| Assessment Group | A | B | C | D | Status |
+|---|---:|---:|---:|---:|---|
+| Each Guided Practice | 1 | 2 | 1 | 1 | PASS |
+| Each Lesson Quiz Bank | 7 | 6 | 6 | 6 | PASS |
+| Unit Assessment | 10 | 10 | 10 | 10 | PASS |
+| Unit Pretest | 3 | 3 | 2 | 2 | PASS |
+
+No excessive clustering, obvious repeated sequence, or answer-key imbalance was found.
+
+## Moodle-Safe GIFT Verification
+
+| Check | Result | Status |
+|---|---|---|
+| Blank lines between questions | None found | PASS |
+| Complex HTML in GIFT | None found | PASS |
+| Missing answer feedback | None found | PASS |
+| Duplicate answer choices | None found | PASS |
+| Four answer choices per item | Verified | PASS |
+| One correct answer per item | Verified | PASS |
+| Visible Question ID | Verified | PASS |
+| Visible MLA Standard | Verified | PASS |
+
+## Standards Coverage Verification
+
+| Coverage Area | Result | Status |
+|---|---|---|
+| Unit Assessment coverage | MLA.MCR.FL.1 through MLA.MCR.FL.12 all present | PASS |
+| Unit Pretest coverage | MLA.MCR.FL.1 through MLA.MCR.FL.12 all present | PASS |
+| Lesson 8 Guided Practice synthesis | Unit synthesis coverage present | PASS |
+| Cross-course standards scan | No ALG1, Geometry, ALG2, or other MCR unit standards found | PASS |
+
+## Page Shell Verification
+
+| Page Requirement | Result | Status |
+|---|---|---|
+| P01 required sections | Present in Lessons 1-8 | PASS |
+| P04 worked examples | Exactly 3 examples in Lessons 1-8 | PASS |
+| P04 common mistake | Red/green common mistake present in Lessons 1-8 | PASS |
+| P06 independent work structure | Instructions, Part A, Part B, Part C present | PASS |
+| P07 checkpoint structure | TOR information, Submission Workflow, Checkpoint Task, Mastery Criteria present | PASS |
+| Submission Workflow title | Appears once per P07 | PASS |
+| Teacher of Record support reminder | Present across lesson pages | PASS |
+
+## JSON Validation
+
+All Unit 4 JSON files parsed successfully:
+
+- Lesson 1-7 lesson.json and quiz.json
+- Lesson 8 lesson.json
+- Unit 4 pretest.json
+
+Status: PASS
+
+## Rigorous Audit Sections
+
+| Audit Area | Status |
+|---|---|
+| Standards Alignment | PASS |
+| Lesson Content Accuracy | PASS |
+| Assessment Content Accuracy | PASS |
+| Feedback Quality | PASS |
+| Standards Placement | PASS |
+| Standards Coverage | PASS |
+| Unit Assessment Standards Coverage | PASS |
+| Pretest Standards Coverage | PASS |
+| Answer Distribution | PASS |
+| Duplicate Choice Audit | PASS |
+| Missing Feedback Audit | PASS |
+| Cross-Course Scan | PASS |
+| JSON Validation | PASS |
+| Shell Compliance | PASS |
+| Gold Standard Page Model Compliance | PASS |
+| Mathematical Notation Compliance | PASS |
+| Moodle Formatting Compliance | PASS |
+
+FINAL RIGOROUS RE-AUDIT RECOMMENDATION: PASS
+
+Unit Status: LOCKED
