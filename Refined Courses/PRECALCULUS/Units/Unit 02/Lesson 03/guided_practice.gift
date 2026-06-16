@@ -1,0 +1,55 @@
+::PC_U02_L03_GP01::
+Question ID: PC_U02_L03_GP01
+MLA Standard: MLA.PC.FA.3
+Question:
+Which input constraint best fits a height model measured over the first 5 seconds?
+{
+=A. 0 <= t <= 5#Correct. Time in this model starts at 0 and ends at 5 seconds, so the contextual domain is limited to that interval.
+~B. t < 0#This allows negative time, which does not fit the context of a measured event after it begins.
+~C. all real numbers#This ignores the real-world interval. A polynomial formula may accept many inputs, but the model context can restrict them.
+~D. t >= 10#This starts after the modeled 5-second event is already over, so it does not match the stated context.
+}
+::PC_U02_L03_GP02::
+Question ID: PC_U02_L03_GP02
+MLA Standard: MLA.PC.FA.3
+Question:
+A polynomial revenue model has zeros at x = 0 and x = 20. What do the zeros most likely represent?
+{
+~A. The maximum revenue#This confuses zeros with a maximum. A zero is where the output equals 0, not necessarily where the output is greatest.
+=B. The item counts where revenue is 0#Correct. Zeros are input values where the model output is 0, so these item counts produce no revenue.
+~C. The degree of the polynomial#Zeros are x-values, not the degree. Degree comes from the greatest exponent in the polynomial.
+~D. The only allowed price#A zero may have contextual meaning, but it does not automatically identify the only price allowed.
+}
+::PC_U02_L03_GP03::
+Question ID: PC_U02_L03_GP03
+MLA Standard: MLA.PC.FA.3
+Question:
+Why might x = -3 be excluded from a polynomial model for length?
+{
+~A. Because polynomial inputs can never be negative#Polynomial formulas can accept negative inputs, but the context may not allow them.
+~B. Because x = -3 is always a zero#A negative input is not automatically a zero. A zero must make the output equal 0.
+=C. Because negative lengths are not meaningful#Correct. Context can restrict inputs even when the formula accepts them, and length cannot be negative.
+~D. Because the graph cannot be drawn for negative x-values#Graphs can include negative x-values. The issue here is the meaning of length in context.
+}
+::PC_U02_L03_GP04::
+Question ID: PC_U02_L03_GP04
+MLA Standard: MLA.PC.FA.3
+Question:
+For A(x) = -x^2 + 8x, which feature helps identify when the output is 0?
+{
+~A. Leading coefficient#The leading coefficient helps with shape and end behavior, but it does not directly name all inputs where the output is 0.
+~B. End behavior only#End behavior describes far-left and far-right behavior, not the exact inputs where A(x) = 0.
+~C. Table labels only#Labels may help with context, but they do not replace finding the model's zeros.
+=D. Zeros#Correct. Zeros are the inputs where A(x) = 0, so they identify when the output is 0.
+}
+::PC_U02_L03_GP05::
+Question ID: PC_U02_L03_GP05
+MLA Standard: MLA.PC.FA.3
+Question:
+What should a student do before interpreting a polynomial model in context?
+{
+=A. Check constraints and key features#Correct. Constraints and key features determine which inputs are valid and what the model means.
+~B. Ignore the given interval#Ignoring intervals loses important context and can lead to interpreting invalid inputs.
+~C. Use only the highest exponent#Degree helps describe polynomial behavior, but it is not enough for contextual interpretation.
+~D. Assume every real input works#Every real input may not make sense in a real-world situation, even if the formula can be evaluated.
+}

@@ -1,0 +1,66 @@
+{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 02",
+    "lesson":  "Lesson 04",
+    "title":  "Systems of Equations and Decision Making",
+    "primaryStandards":  [
+                             {
+                                 "code":  "MLA.MCR.AR.6",
+                                 "description":  "I can solve systems and interpret intersections as decisions or break-even points."
+                             }
+                         ],
+    "assessment":  "Quiz",
+    "masteryThreshold":  80,
+    "pages":  [
+                  {
+                      "id":  "P01",
+                      "title":  "Lesson Overview",
+                      "file":  "P01.html"
+                  },
+                  {
+                      "id":  "P02",
+                      "title":  "Notebook Task Part 1",
+                      "file":  "P02.html"
+                  },
+                  {
+                      "id":  "P03",
+                      "title":  "Notebook Task Part 2",
+                      "file":  "P03.html"
+                  },
+                  {
+                      "id":  "P04",
+                      "title":  "Worked Example",
+                      "file":  "P04.html"
+                  },
+                  {
+                      "id":  "P05",
+                      "title":  "Guided Practice",
+                      "file":  "P05.html"
+                  },
+                  {
+                      "id":  "P06",
+                      "title":  "Independent Work",
+                      "file":  "P06.html"
+                  },
+                  {
+                      "id":  "P07",
+                      "title":  "Checkpoint",
+                      "file":  "P07.html"
+                  }
+              ],
+    "guidedPractice":  {
+                           "file":  "MCR_U02_L04_GuidedPractice.gift",
+                           "questionCount":  5,
+                           "graded":  false,
+                           "feedback":  "immediate"
+                       },
+    "quiz":  {
+                 "file":  "MCR_U02_L04_Quiz.gift",
+                 "questionsPerAttempt":  5,
+                 "bankSize":  25,
+                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
+                 "questionBank":  true,
+                 "randomizedRetakeRequired":  true
+             }
+}

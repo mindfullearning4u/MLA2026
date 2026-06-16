@@ -1,0 +1,29 @@
+{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 02",
+    "lesson":  "Lesson 06",
+    "title":  "Quiz: Piecewise Relationships and Step Functions",
+    "primaryStandards":  [
+                             {
+                                 "code":  "MLA.MCR.AR.8",
+                                 "description":  "I can solve, graph, and interpret piecewise models with changing rules and constraints."
+                             }
+                         ],
+    "format":  "GIFT",
+    "giftFile":  "MCR_U02_L06_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "A":  7,
+                                      "B":  6,
+                                      "C":  6,
+                                      "D":  6
+                                  }
+}
