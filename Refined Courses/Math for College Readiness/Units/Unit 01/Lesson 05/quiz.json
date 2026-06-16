@@ -1,0 +1,33 @@
+{
+  "course": "MCR",
+  "courseTitle": "Math for College Readiness",
+  "unit": "Unit 01",
+  "lesson": "Lesson 05",
+  "title": "Quiz: Formulas, Variables, and Function Notation in Context",
+  "primaryStandards": [
+    {
+      "code": "MLA.MCR.QR.4",
+      "description": "I can rearrange formulas to isolate meaningful quantities in real-world situations."
+    },
+    {
+      "code": "MLA.MCR.QR.5",
+      "description": "I can evaluate function notation and interpret outputs in real-world contexts."
+    }
+  ],
+  "format": "GIFT",
+  "giftFile": "MCR_U01_L05_Quiz.gift",
+  "questionBankSize": 25,
+  "questionsPerAttempt": 5,
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  },
+  "correctAnswerDistribution": {
+    "A": 7,
+    "B": 6,
+    "C": 6,
+    "D": 6
+  }
+}
