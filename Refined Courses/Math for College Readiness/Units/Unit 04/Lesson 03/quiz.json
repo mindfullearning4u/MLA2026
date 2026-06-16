@@ -1,0 +1,27 @@
+﻿{
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 04",
+    "lesson":  "Lesson 03",
+    "title":  "Quiz: Simple and Compound Interest",
+    "primaryStandard":  {
+                            "code":  "MLA.MCR.FL.5",
+                            "description":  "I can solve simple interest problems in financial contexts."
+                        },
+    "format":  "GIFT",
+    "giftFile":  "MCR_U04_L03_Quiz.gift",
+    "questionBankSize":  25,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "C":  6,
+                                      "D":  6,
+                                      "B":  6,
+                                      "A":  7
+                                  }
+}
