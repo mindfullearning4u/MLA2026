@@ -1,15 +1,42 @@
-{
-  "course": "Precalculus",
-  "unit": 1,
-  "lesson": 7,
-  "lesson_id": "PC_U01_L07",
-  "title": "Systems and Piecewise Function Modeling",
-  "standards": [
-    { "mla": "MLA.PC.MOD.1", "florida": "MA.912.AR.9.3", "description": "Solve systems consisting of two-variable linear or nonlinear equations algebraically or graphically." },
-    { "mla": "MLA.PC.MOD.2", "florida": "MA.912.AR.9.10", "description": "Solve and graph mathematical and real-world problems modeled with piecewise functions and interpret constraints." }
-  ],
-  "pages": ["P01_Lesson_Overview.html", "P02_Notebook_Task_Part_1.html", "P03_Notebook_Task_Part_2.html", "P04_Guided_Practice_Worked_Example.html", "P05_Independent_Work_Checkpoint.html", "P06_Notebook_Evidence_Submission.html", "P07_Checkpoint_Submission.html"],
-  "guided_practice": { "file": "guided_practice.gift", "question_count": 5 },
-  "quiz": { "file": "quiz.gift", "question_count": 25 },
-  "mastery_evidence": ["Notebook Evidence", "Checkpoint Submission", "Lesson Quiz"]
+﻿{
+    "course":  "Precalculus",
+    "unit":  1,
+    "lesson":  7,
+    "lesson_id":  "PC_U01_L07",
+    "title":  "Systems and Piecewise Function Modeling",
+    "standards":  [
+                      {
+                          "mla":  "MLA.PC.MOD.1",
+                          "florida":  "MA.912.AR.9.3",
+                          "description":  "Solve systems consisting of two-variable linear or nonlinear equations algebraically or graphically."
+                      },
+                      {
+                          "mla":  "MLA.PC.MOD.2",
+                          "florida":  "MA.912.AR.9.10",
+                          "description":  "Solve and graph mathematical and real-world problems modeled with piecewise functions and interpret constraints."
+                      }
+                  ],
+    "pages":  [
+                  "P01_Lesson_Overview.html",
+                  "P02_Notebook_Task_Part_1.html",
+                  "P03_Notebook_Task_Part_2.html",
+                  "P04_Worked_Example.html",
+                  "P05_Guided_Practice.html",
+                  "P06_Independent_Work.html",
+                  "P07_Checkpoint_Submission.html"
+              ],
+    "guided_practice":  {
+                            "file":  "guided_practice.gift",
+                            "question_count":  5
+                        },
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             },
+    "mastery_evidence":  [
+                             "Guided Practice",
+                             "Independent Work",
+                             "Checkpoint Submission",
+                             "Lesson Quiz"
+                         ]
 }
