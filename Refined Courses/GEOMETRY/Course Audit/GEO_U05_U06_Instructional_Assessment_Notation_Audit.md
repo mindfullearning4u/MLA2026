@@ -14,6 +14,7 @@ Findings
 - Initial audit found P04 pages included 2 worked examples instead of exactly 3.
 - Initial audit found P04 pages did not consistently include red/green common mistake support.
 - Initial audit found P06/P07 page structure did not fully match the approved standard.
+- Initial assessment notation scan found lesson-page mathematical symbols in selected Unit 5 and Unit 6 GIFT files that needed Moodle-safe notation.
 
 Required Corrections
 Completed during audit:
@@ -22,6 +23,7 @@ Completed during audit:
 - Rebuilt P04 pages with exactly 3 worked examples and red/green common mistake support.
 - Rebuilt P06 pages with Instructions, Part A, Part B, and Part C.
 - Rebuilt P07 pages with TOR information, one Submission Workflow, checkpoint task, and mastery criteria.
+- Converted mathematical symbols in Unit 5 and Unit 6 GIFT files to Moodle-safe plain notation, including `pi`, `^2`, and `^3`, while preserving question intent, answers, standards, and feedback.
 
 Recommended Improvements
 - None required before production use after re-audit.
