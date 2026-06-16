@@ -1,33 +1,39 @@
-# Statistics Unit 1 Lesson 8 Audit
+﻿# Statistics Unit 1 Lesson 8 Audit
 
 ## Executive Summary
-Statistics Unit 1 Lesson 8 was built and audited using the MLA Audit Reporting Format.
+Statistics Unit 1 Lesson 8 was revised and re-audited using Unit 1 Lesson 1 as the approved Statistics instructional model.
 
 Final Recommendation: PASS
 
 ## Strengths
-- Lesson 8 is correctly titled Putting It All Together.
-- Lesson 8 covers all Unit 1 mapped standards: MLA.STAT.STQ.1, MLA.STAT.STQ.2, and MLA.STAT.DVD.3.
-- Lesson 8 includes P01-P07, lesson.json, quiz.json, Guided Practice, and Unit Assessment.
-- Lesson 8 does not include a separate lesson quiz.
-- The Unit Assessment contains 40 questions with balanced answer distribution.
-- Assessments use Moodle-safe GIFT formatting with Question ID and MLA Standard visible in each question.
+- Lesson 8 follows the approved Statistics mapping: Putting It All Together.
+- P01-P07 follow the approved MLA visual shell while using Statistics-only content.
+- P01 includes the required lesson overview sections and standards placement.
+- P02 and P03 provide detailed teacher-version notebook instruction for independent online learning.
+- P03 and P04 include red/green Common Mistake correction blocks.
+- P04 includes exactly three worked examples with step-by-step reasoning.
+- P06 includes instructions, Part A, Part B, and Part C.
+- P07 includes Teacher of Record information, one Submission Workflow title, checkpoint task, and mastery criteria.
+- Every page includes a reminder to contact the Teacher of Record for help or guidance.
 
 ## Findings
 No blocking findings remain.
 
 ## Required Corrections
-Completed during audit: regenerated the Guided Practice and Unit Assessment GIFT files using Moodle-safe question block separation after the first validation detected malformed continuous blocks.
+Completed during re-audit:
+- Revised pages to match the approved Statistics Lesson 1 production standard.
+- Strengthened instructional detail, scaffolded reasoning, and visual organization.
+- Verified standards placement, shell compliance, and assessment counts.
 
 ## Recommended Improvements
-None required before Unit 1 pretest and final unit audit.
+None required before production use.
 
 ## Standards Coverage Summary
 | MLA Standard | Assessment Items |
 |---|---|
-| MLA.STAT.STQ.1 | L08 Guided Practice, Unit Assessment |
-| MLA.STAT.STQ.2 | L08 Guided Practice, Unit Assessment |
-| MLA.STAT.DVD.3 | L08 Guided Practice, Unit Assessment |
+| MLA.STAT.STQ.1 | L08 Guided Practice and Unit Assessment, Checkpoint |
+| MLA.STAT.STQ.2 | L08 Guided Practice and Unit Assessment, Checkpoint |
+| MLA.STAT.DVD.3 | L08 Guided Practice and Unit Assessment, Checkpoint |
 
 ## Assessment Coverage Summary
 | File | Count | Status |
@@ -59,3 +65,5 @@ JSON Validation: PASS
 Shell Compliance: PASS  
 Moodle Formatting Compliance: PASS  
 Final Recommendation: PASS
+
+

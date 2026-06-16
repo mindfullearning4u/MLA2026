@@ -34,6 +34,7 @@ All audit files for this course must be stored under:
 | Scope | Audit File | Status |
 |---|---|---|
 | Completed MCR Lessons: Unit 1 Lessons 1-8 and Unit 2 Lessons 1-2 | MCR_COMPLETED_LESSONS_SHELL_ALIGNMENT_AUDIT.md | COMPLETE |
+| Unit 1 Lesson 1 Gold Standard Revision | MCR_U01_L01_GOLD_STANDARD_REVISION_AUDIT.md | COMPLETE |
 
 ## Unit Audits
 
