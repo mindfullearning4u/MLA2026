@@ -5,17 +5,20 @@ Current Course Audit Status
 NOT READY FOR CERTIFICATION
 
 Reason
-Unit 1 is complete and unit-audited, but Units 2-6 are not built yet. Final course certification cannot be completed until all 6 units are built, unit-audited, fixed, re-audited, and locked.
+Units 1-5 are complete and unit-audited. Unit 6 Lessons 1-2 are built and lesson-audited, but Unit 6 is not complete yet. Final course certification cannot be completed until all 6 units are built, unit-audited, fixed, re-audited, and locked.
 
 Current Evidence Available
-Unit 1 Lessons 1-8 lesson audits are complete.
-Unit 1 Unit Pretest is complete.
-Unit 1 Unit Assessment is complete.
-Unit 1 Unit Audit result: PASS.
+Units 1-5 lesson audits are complete.
+Units 1-5 Unit Pretests are complete.
+Units 1-5 Unit Assessments are complete.
+Units 1-5 Unit Audit result: PASS.
+Mapping compliance correction audit result: PASS.
+Units 1-5 final source compliance check result: PASS.
+Unit 6 Lessons 1-2 lesson audit result: PASS.
 
 Current Evidence Missing
-Units 2-6 full builds and unit audits.
-MLA Master Course Certification Audit after all units are complete.
+Unit 6 Lessons 3-8, Unit Pretest, Unit Assessment, full unit audit, fixes, and re-audit.
+MLA Master Course Certification Audit after all 6 units are complete.
 
 Required Final Course Certification Review
 Instructional Quality

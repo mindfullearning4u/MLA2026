@@ -1,14 +1,19 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  2,
     "lesson":  5,
     "lesson_id":  "PC_U02_L05",
-    "title":  "Exponential Function Models and Constraints",
+    "title":  "Pythagorean Identities and Identity Verification",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.EX.1",
-                          "florida":  "MA.912.AR.5.7",
-                          "description":  "Solve and graph mathematical and real-world problems that are modeled with exponential functions. Interpret key features and determine constraints in terms of the context."
+                          "mla":  "MLA.PC.TR.3",
+                          "florida":  "MA.912.T.1.5",
+                          "description":  "Use Pythagorean identities."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.5",
+                          "florida":  "MA.912.T.1.7",
+                          "description":  "Verify trigonometric identities."
                       }
                   ],
     "pages":  [
@@ -24,14 +29,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }

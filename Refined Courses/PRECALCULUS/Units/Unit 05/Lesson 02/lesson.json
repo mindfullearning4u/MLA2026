@@ -1,19 +1,29 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  5,
     "lesson":  2,
     "lesson_id":  "PC_U05_L02",
-    "title":  "Complex Coordinate Distance, Midpoint, and Problem Solving",
+    "title":  "Vector Operations and Resultants",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.VC.2",
-                          "florida":  "MA.912.NSO.2.3",
-                          "description":  "Calculate the distance and midpoint between two numbers on the complex coordinate plane."
+                          "mla":  "MLA.PC.VC.10",
+                          "florida":  "MA.912.NSO.3.6",
+                          "description":  "Add and subtract vectors."
                       },
                       {
-                          "mla":  "MLA.PC.VC.3",
-                          "florida":  "MA.912.NSO.2.4",
-                          "description":  "Solve mathematical and real-world problems involving complex numbers represented algebraically or on the coordinate plane."
+                          "mla":  "MLA.PC.VC.11",
+                          "florida":  "MA.912.NSO.3.7",
+                          "description":  "Scale vectors."
+                      },
+                      {
+                          "mla":  "MLA.PC.VC.12",
+                          "florida":  "MA.912.NSO.3.8",
+                          "description":  "Find resultants."
+                      },
+                      {
+                          "mla":  "MLA.PC.VC.13",
+                          "florida":  "MA.912.NSO.3.9",
+                          "description":  "Apply vectors in context."
                       }
                   ],
     "pages":  [
@@ -29,14 +39,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }

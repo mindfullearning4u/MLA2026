@@ -1,14 +1,19 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  2,
     "lesson":  4,
     "lesson_id":  "PC_U02_L04",
-    "title":  "Rational Function Models and Constraints",
+    "title":  "Triangle Trigonometry Applications",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.FA.5",
-                          "florida":  "MA.912.AR.8.3",
-                          "description":  "Solve and graph mathematical and real-world problems that are modeled with rational functions. Interpret key features and determine constraints in terms of the context."
+                          "mla":  "MLA.PC.TR.1",
+                          "florida":  "MA.912.T.1.3",
+                          "description":  "Use trigonometric relationships in triangle applications."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.2",
+                          "florida":  "MA.912.T.1.4",
+                          "description":  "Use trigonometric relationships to find area and missing measures."
                       }
                   ],
     "pages":  [
@@ -24,14 +29,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }

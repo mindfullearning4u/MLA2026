@@ -1,0 +1,42 @@
+{
+    "course": "MCR",
+    "courseTitle": "Math for College Readiness",
+    "unit": "Unit 06",
+    "lesson": "Lesson 02",
+    "title": "Similarity, Scale, and Proportional Reasoning",
+    "primaryStandards": [
+        {
+            "code": "MLA.MCR.GM.1",
+            "description": "I can use similarity and proportional reasoning in two-dimensional and three-dimensional contexts."
+        },
+        {
+            "code": "MLA.MCR.GM.3",
+            "description": "I can use scale factors and dilations to interpret and solve measurement problems."
+        }
+    ],
+    "assessment": "Quiz",
+    "masteryThreshold": 80,
+    "pages": [
+        {"title": "Lesson Overview", "id": "P01", "file": "P01.html"},
+        {"title": "Notebook Task Part 1", "id": "P02", "file": "P02.html"},
+        {"title": "Notebook Task Part 2", "id": "P03", "file": "P03.html"},
+        {"title": "Worked Example", "id": "P04", "file": "P04.html"},
+        {"title": "Guided Practice", "id": "P05", "file": "P05.html"},
+        {"title": "Independent Work", "id": "P06", "file": "P06.html"},
+        {"title": "Checkpoint", "id": "P07", "file": "P07.html"}
+    ],
+    "guidedPractice": {
+        "questionCount": 5,
+        "graded": false,
+        "file": "MCR_U06_L02_GuidedPractice.gift",
+        "feedback": "immediate"
+    },
+    "quiz": {
+        "attemptPolicy": "one_attempt_then_TOR_intervention_if_below_80",
+        "randomizedRetakeRequired": true,
+        "questionBank": true,
+        "questionsPerAttempt": 5,
+        "bankSize": 25,
+        "file": "MCR_U06_L02_Quiz.gift"
+    }
+}

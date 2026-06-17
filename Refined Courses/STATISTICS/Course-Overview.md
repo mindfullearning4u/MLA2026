@@ -76,20 +76,20 @@ Approved Statistics unit sequence:
 â€¢ Unit 1: Statistical Thinking and Data Foundations  
 Students develop statistical thinking through statistical questions, variability, data types, variables, populations, samples, parameters, statistics, and the role of context.
 
-â€¢ Unit 2: Data Collection and Research Design  
-Students analyze sampling, surveys, experiments, observational studies, randomization, control, bias, confounding, ethics, and limits of conclusions.
+â€¢ Unit 2: Numerical Data, Variability, and Distribution Models  
+Students summarize and compare numerical data using measures of center, measures of variability, shape, outliers, normal models, standard deviation, and population percentage estimates.
 
-â€¢ Unit 3: Data Visualization and Descriptive Statistics  
-Students create, interpret, and critique displays; summarize distributions; compare groups; and communicate center, spread, shape, outliers, and context.
+â€¢ Unit 3: Bivariate Data, Association, and Models  
+Students analyze relationships between two variables using correlation and causation, scatterplots, linear models, residuals, correlation coefficient, exponential models, two-way tables, relative frequencies, and categorical association.
 
-â€¢ Unit 4: Bivariate Data, Association, and Models  
-Students analyze relationships between two variables using two-way tables, scatterplots, association, correlation, regression, residuals, and contextual interpretation.
+â€¢ Unit 4: Probability, Conditional Probability, and Counting  
+Students reason about sample spaces, events, complements, conditional probability, independence, empirical probability, addition and multiplication rules, counting rules, permutations, and combinations.
 
-â€¢ Unit 5: Probability, Simulation, and Uncertainty  
-Students use probability, conditional probability, independence, expected value, probability models, and simulation to reason about uncertainty.
+â€¢ Unit 5: Sampling, Bias, Simulation, and Statistical Inference  
+Students analyze population parameters, sample statistics, random sampling, sampling methods, bias, surveys, observational studies, experiments, margin of error, confidence level, simulated samples, randomized treatment comparisons, statistical significance, and evidence-based decisions.
 
-â€¢ Unit 6: Statistical Inference, Claims, and Decisions  
-Students interpret sampling variability, confidence intervals, margin of error, hypothesis-testing language, p-values, statistical significance, practical significance, claim evaluation, and conclusions.
+â€¢ Unit 6: Random Variables, Expected Value, and Probability Decisions  
+Students develop and interpret probability distributions, random variables, theoretical and empirical expected value, binomial and geometric distributions, payoff values, risk, strategy comparison, and fair probability-based decisions.
 
 Most lessons follow the MLA instructional workflow:
 

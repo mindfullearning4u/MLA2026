@@ -1,19 +1,34 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  3,
     "lesson":  7,
     "lesson_id":  "PC_U03_L07",
-    "title":  "Modeling with Trigonometric Functions",
+    "title":  "Integrated Trigonometric Applications",
     "standards":  [
+                      {
+                          "mla":  "MLA.PC.TR.7",
+                          "florida":  "MA.912.T.2.1",
+                          "description":  "Convert between degrees and radians and interpret angle measurement."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.8",
+                          "florida":  "MA.912.T.2.2",
+                          "description":  "Define sine, cosine, and tangent using the unit circle."
+                      },
                       {
                           "mla":  "MLA.PC.TR.12",
                           "florida":  "MA.912.T.3.1",
-                          "description":  "Given a mathematical or real-world context, choose sine, cosine or tangent trigonometric functions to model periodic phenomena with specified amplitude, frequency, horizontal shift and midline."
+                          "description":  "Model periodic phenomena with trigonometric functions."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.13",
+                          "florida":  "MA.912.T.3.2",
+                          "description":  "Graph trigonometric functions and identify key features."
                       },
                       {
                           "mla":  "MLA.PC.TR.14",
                           "florida":  "MA.912.T.3.3",
-                          "description":  "Solve and graph mathematical and real-world problems that are modeled with trigonometric functions. Interpret key features and determine constraints in terms of the context."
+                          "description":  "Solve and interpret trigonometric function models."
                       }
                   ],
     "pages":  [
@@ -29,15 +44,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }
-

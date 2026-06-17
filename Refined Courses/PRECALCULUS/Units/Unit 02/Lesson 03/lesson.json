@@ -1,14 +1,24 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  2,
     "lesson":  3,
     "lesson_id":  "PC_U02_L03",
-    "title":  "Polynomial Function Models and Constraints",
+    "title":  "Exact Values and Unit Circle Symmetry",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.FA.3",
-                          "florida":  "MA.912.AR.6.6",
-                          "description":  "Solve and graph mathematical and real-world problems that are modeled with polynomial functions of degree 3 or higher. Interpret key features and determine constraints in terms of the context."
+                          "mla":  "MLA.PC.TR.9",
+                          "florida":  "MA.912.T.2.3",
+                          "description":  "Use special angles to determine exact trigonometric values."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.10",
+                          "florida":  "MA.912.T.2.4",
+                          "description":  "Use unit circle symmetry to determine trigonometric values."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.11",
+                          "florida":  "MA.912.T.2.5",
+                          "description":  "Calculate trigonometric function values from the unit circle."
                       }
                   ],
     "pages":  [
@@ -24,14 +34,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }

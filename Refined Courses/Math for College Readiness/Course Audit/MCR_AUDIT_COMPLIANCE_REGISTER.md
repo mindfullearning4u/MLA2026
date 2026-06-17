@@ -4,6 +4,16 @@
 
 This file tracks the required audit layers for Math for College Readiness compliance.
 
+## Approved Source-of-Truth Rule
+
+All Math for College Readiness course production and audits must be based on:
+
+- Approved standards crosswalk
+- Approved unit mapping
+- Approved course overview
+
+If any `unit overview.md` file exists, it is not an approved build source and must be ignored for production and audit decisions.
+
 Required audit layers:
 
 1. Lesson audits
@@ -36,9 +46,12 @@ All audit files for this course must be stored under:
 | Unit 4 Lessons 7-8 | MCR_U04_L07_L08_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 5 Lessons 1-2 | MCR_U05_L01_L02_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 5 Lessons 3-4 | MCR_U05_L03_L04_BUILD_AUDIT_REPORT.md | COMPLETE |
-| Unit 5 Lessons 5-6 | Pending | NOT STARTED |
-| Unit 5 Lessons 7-8 | Pending | NOT STARTED |
-| Unit 6 Lessons 1-8 | Pending | NOT STARTED |
+| Unit 5 Lessons 5-6 | MCR_U05_L05_L06_BUILD_AUDIT_REPORT.md | COMPLETE |
+| Unit 5 Lessons 7-8 | MCR_U05_L07_L08_BUILD_AUDIT_REPORT.md | COMPLETE |
+| Unit 6 Lessons 1-2 | MCR_U06_L01_L02_BUILD_AUDIT_REPORT.md | COMPLETE |
+| Unit 6 Lessons 3-4 | Pending | NOT STARTED |
+| Unit 6 Lessons 5-6 | Pending | NOT STARTED |
+| Unit 6 Lessons 7-8 | Pending | NOT STARTED |
 
 ## Shell Alignment Audits
 
@@ -69,7 +82,7 @@ Required unit components:
 | Unit 2 | MCR_U02_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 3 | MCR_U03_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 4 | MCR_U04_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
-| Unit 5 | Pending | NOT STARTED |
+| Unit 5 | MCR_U05_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 6 | Pending | NOT STARTED |
 
 ## Course Audit

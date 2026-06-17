@@ -1,14 +1,24 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  4,
     "lesson":  6,
     "lesson_id":  "PC_U04_L06",
-    "title":  "One-Variable Trigonometric Ratio Problems",
+    "title":  "Complex Numbers on the Complex Plane",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.TR.6",
-                          "florida":  "MA.912.T.1.8",
-                          "description":  "Solve mathematical and real-world problems involving one-variable trigonometric ratios."
+                          "mla":  "MLA.PC.VC.1",
+                          "florida":  "MA.912.NSO.2.2",
+                          "description":  "Represent complex numbers on the complex plane."
+                      },
+                      {
+                          "mla":  "MLA.PC.VC.2",
+                          "florida":  "MA.912.NSO.2.3",
+                          "description":  "Use distance with complex numbers."
+                      },
+                      {
+                          "mla":  "MLA.PC.VC.3",
+                          "florida":  "MA.912.NSO.2.4",
+                          "description":  "Use midpoint relationships with complex numbers."
                       }
                   ],
     "pages":  [
@@ -24,14 +34,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }

@@ -1,14 +1,24 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  3,
     "lesson":  3,
     "lesson_id":  "PC_U03_L03",
-    "title":  "Special Triangle Values on the Unit Circle",
+    "title":  "Trigonometric Equation Strategies",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.TR.9",
-                          "florida":  "MA.912.T.2.3",
-                          "description":  "Determine the values of the six basic trigonometric functions for 0, \u0026pi;/6, \u0026pi;/3 and \u0026pi;/4 and their multiples using special triangles."
+                          "mla":  "MLA.PC.TR.7",
+                          "florida":  "MA.912.T.2.1",
+                          "description":  "Convert between degrees and radians and interpret angle measurement."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.8",
+                          "florida":  "MA.912.T.2.2",
+                          "description":  "Define sine, cosine, and tangent using the unit circle."
+                      },
+                      {
+                          "mla":  "MLA.PC.TR.13",
+                          "florida":  "MA.912.T.3.2",
+                          "description":  "Graph trigonometric functions and identify key features."
                       }
                   ],
     "pages":  [
@@ -24,14 +34,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }

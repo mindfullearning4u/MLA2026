@@ -1,14 +1,19 @@
-{
+﻿{
     "course":  "Precalculus",
     "unit":  5,
     "lesson":  1,
     "lesson_id":  "PC_U05_L01",
-    "title":  "Complex Number Operations on the Complex Plane",
+    "title":  "Introduction to Vectors",
     "standards":  [
                       {
-                          "mla":  "MLA.PC.VC.1",
-                          "florida":  "MA.912.NSO.2.2",
-                          "description":  "Represent addition, subtraction, multiplication and conjugation of complex numbers geometrically on the complex plane."
+                          "mla":  "MLA.PC.VC.6",
+                          "florida":  "MA.912.NSO.3.1",
+                          "description":  "Represent vectors with magnitude and direction."
+                      },
+                      {
+                          "mla":  "MLA.PC.VC.7",
+                          "florida":  "MA.912.NSO.3.2",
+                          "description":  "Use vector components."
                       }
                   ],
     "pages":  [
@@ -24,14 +29,14 @@
                             "file":  "guided_practice.gift",
                             "question_count":  5
                         },
-    "quiz":  {
-                 "file":  "quiz.gift",
-                 "question_count":  25
-             },
     "mastery_evidence":  [
                              "Guided Practice",
                              "Independent Work",
                              "Checkpoint Submission",
                              "Lesson Quiz"
-                         ]
+                         ],
+    "quiz":  {
+                 "file":  "quiz.gift",
+                 "question_count":  25
+             }
 }
