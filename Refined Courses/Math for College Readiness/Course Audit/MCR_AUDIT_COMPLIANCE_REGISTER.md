@@ -91,11 +91,11 @@ The final course audit is completed only after all six units are built, audited,
 
 Required final course audit file:
 
-`MCR_MASTER_COURSE_CERTIFICATION_AUDIT.md`
+`MCR_RIGOROUS_FINAL_COURSE_AUDIT.md`
 
 | Course Audit | Audit File | Status |
 |---|---|---|
-| MLA Master Course Certification Audit | MCR_MASTER_COURSE_CERTIFICATION_AUDIT.md | READY - all six unit audits complete; master course audit pending |
+| MLA Rigorous Final Course Audit | MCR_RIGOROUS_FINAL_COURSE_AUDIT.md | CERTIFIED AFTER CORRECTIONS |
 
 ## Compliance Rule
 
