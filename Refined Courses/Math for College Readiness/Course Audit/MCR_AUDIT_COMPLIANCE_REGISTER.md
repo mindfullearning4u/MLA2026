@@ -49,7 +49,7 @@ All audit files for this course must be stored under:
 | Unit 5 Lessons 5-6 | MCR_U05_L05_L06_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 5 Lessons 7-8 | MCR_U05_L07_L08_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 6 Lessons 1-2 | MCR_U06_L01_L02_BUILD_AUDIT_REPORT.md | COMPLETE |
-| Unit 6 Lessons 3-4 | Pending | NOT STARTED |
+| Unit 6 Lessons 3-4 | MCR_U06_L03_L04_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 6 Lessons 5-6 | Pending | NOT STARTED |
 | Unit 6 Lessons 7-8 | Pending | NOT STARTED |
 

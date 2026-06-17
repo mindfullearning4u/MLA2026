@@ -28,7 +28,7 @@ Approved course overview: Course-Overview.md
 Unit Overview.md files were not used for compliance decisions.
 
 Reason Certification Cannot Be Finalized
-Unit 6 is not complete. Lessons 1-2 are built and lesson-audited, but the final MLA Master Course Certification Audit requires all 6 units to be complete.
+Unit 6 is not complete. Lessons 1-4 are built and lesson-audited, but the final MLA Master Course Certification Audit requires all 6 units to be complete.
 
 Certification Review Status
 Instructional Quality: PENDING UNTIL UNIT 6 COMPLETION
@@ -40,7 +40,7 @@ Moodle Readiness: PASS FOR UNITS 1-5
 Accreditation Readiness: PENDING UNTIL UNIT 6 COMPLETION
 
 Required Before Certification
-Complete Unit 6 Lessons 3-8.
+Complete Unit 6 Lessons 5-8.
 Build Unit 6 Unit Pretest and Unit Assessment.
 Run Unit 6 audit, fix issues, re-audit, and lock Unit 6.
 Run the MLA Master Course Certification Audit.
