@@ -16,8 +16,8 @@ Question:
 A box is 6 ft by 3 ft by 4 ft. What is its volume?
 {
 ~A. 13 cubic ft#This adds dimensions. Volume multiplies length, width, and height.
-~B. 72 cubic ft#Correct. Volume = 6 x 3 x 4 = 72 cubic ft.
-~C. 72 square ft#The number is correct, but volume uses cubic units.
+~B. 54 cubic ft#This multiplies incorrectly. Volume must use 6 x 3 x 4.
+=C. 72 cubic ft#Correct. Volume = 6 x 3 x 4 = 72 cubic ft.
 ~D. 18 cubic ft#This uses only length and width, not height.
 }
 ::MCR_U06_L07_Quiz_Q03::
@@ -72,7 +72,7 @@ A container has volume 90 cubic ft. The limit is 80 cubic ft. What conclusion is
 {
 ~A. It meets the constraint because 90 is positive#Positive volume is not enough. It must be at most the limit.
 ~B. It meets the constraint because 90 > 80#This reverses the meaning of the maximum.
-~C. It does not meet the constraint because 90 > 80#Correct. The volume is greater than the allowed limit.
+~C. It meets the constraint because 90 < 80#This reverses the comparison. Since 90 is greater than 80, the design is over the limit.
 =D. It does not meet the constraint because 90 > 80#Correct. The design exceeds the maximum volume.
 }
 ::MCR_U06_L07_Quiz_Q08::
@@ -204,7 +204,7 @@ A scale model uses 2 inches for 10 feet. How many feet does 7 inches represent?
 {
 ~A. 14 feet#This multiplies by 2, not by the real feet per inch.
 ~B. 17 feet#This adds 10 and 7. Use the scale rate.
-~C. 35 feet#Correct. 2 inches is 10 feet, so 1 inch is 5 feet and 7 inches is 35 feet.
+~C. 70 feet#This multiplies 10 by 7 instead of finding the scale rate first. Since 2 inches is 10 feet, 1 inch is 5 feet.
 =D. 35 feet#Correct. The scale rate is 5 feet per inch, and 7 x 5 = 35.
 }
 ::MCR_U06_L07_Quiz_Q20::

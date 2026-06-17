@@ -51,7 +51,7 @@ All audit files for this course must be stored under:
 | Unit 6 Lessons 1-2 | MCR_U06_L01_L02_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 6 Lessons 3-4 | MCR_U06_L03_L04_BUILD_AUDIT_REPORT.md | COMPLETE |
 | Unit 6 Lessons 5-6 | MCR_U06_L05_L06_BUILD_AUDIT_REPORT.md | COMPLETE |
-| Unit 6 Lessons 7-8 | Pending | NOT STARTED |
+| Unit 6 Lessons 7-8 | MCR_U06_L07_L08_BUILD_AUDIT_REPORT.md | COMPLETE |
 
 ## Shell Alignment Audits
 
@@ -83,7 +83,7 @@ Required unit components:
 | Unit 3 | MCR_U03_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 4 | MCR_U04_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 | Unit 5 | MCR_U05_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
-| Unit 6 | Pending | NOT STARTED |
+| Unit 6 | MCR_U06_UNIT_AUDIT_REPORT.md | COMPLETE - LOCKED |
 
 ## Course Audit
 
@@ -95,7 +95,7 @@ Required final course audit file:
 
 | Course Audit | Audit File | Status |
 |---|---|---|
-| MLA Master Course Certification Audit | MCR_MASTER_COURSE_CERTIFICATION_AUDIT.md | NOT READY - all six units must be complete first |
+| MLA Master Course Certification Audit | MCR_MASTER_COURSE_CERTIFICATION_AUDIT.md | READY - all six unit audits complete; master course audit pending |
 
 ## Compliance Rule
 

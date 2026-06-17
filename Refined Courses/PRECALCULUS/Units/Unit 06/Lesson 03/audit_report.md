@@ -1,5 +1,5 @@
 Executive Summary
-Precalculus Unit 6 Lesson 3, Arithmetic Series, was built and audited using the MLA Audit Reporting Format.
+Precalculus Unit 6 Lesson 5, Recursive and Explicit Models, was built and audited using the MLA Audit Reporting Format.
 Final Recommendation: PASS
 Strengths
 Lesson follows the approved Precalculus crosswalk, unit mapping, and course overview.
@@ -15,7 +15,7 @@ None required after final audit.
 Recommended Improvements
 None required before continuing Unit 6 production.
 Standards Coverage Summary
-MLA.PC.SEQ.3	Guided Practice, Lesson Quiz
+MLA.PC.SEQ.5	Guided Practice, Lesson Quiz
 Assessment Coverage Summary
 File	Count	Status
 guided_practice.gift	5	PASS
