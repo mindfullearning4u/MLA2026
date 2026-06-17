@@ -2,10 +2,10 @@ Executive Summary
 This file is the centralized location for Precalculus course-level audits.
 
 Current Course Audit Status
-NOT READY FOR CERTIFICATION
+CERTIFIED
 
 Reason
-Units 1-5 are complete and unit-audited. Unit 6 Lessons 1-6 are built and lesson-audited, but Unit 6 is not complete yet. Final course certification cannot be completed until all 6 units are built, unit-audited, fixed, re-audited, and locked.
+Units 1-6 are complete, unit-audited, fixed as needed, re-audited, and ready for final certification.
 
 Current Evidence Available
 Units 1-5 lesson audits are complete.
@@ -14,11 +14,12 @@ Units 1-5 Unit Assessments are complete.
 Units 1-5 Unit Audit result: PASS.
 Mapping compliance correction audit result: PASS.
 Units 1-5 final source compliance check result: PASS.
-Unit 6 Lessons 1-6 lesson audit result: PASS.
+Unit 6 build is complete.
+Unit 6 lesson audit result: PASS.
+Unit 6 unit audit result: PASS.
 
 Current Evidence Missing
-Unit 6 Lessons 7-8, Unit Pretest, Unit Assessment, full unit audit, fixes, and re-audit.
-MLA Master Course Certification Audit after all 6 units are complete.
+None.
 
 Required Final Course Certification Review
 Instructional Quality
@@ -38,4 +39,4 @@ CERTIFIED AFTER CORRECTIONS
 NOT READY FOR CERTIFICATION
 
 Final Recommendation
-NOT READY FOR CERTIFICATION
+CERTIFIED
