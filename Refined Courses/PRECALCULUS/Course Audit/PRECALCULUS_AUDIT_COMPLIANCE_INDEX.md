@@ -19,7 +19,7 @@ Units 1-5 lessons have been built and lesson-audited.
 Units 1-5 Unit Pretests have been built.
 Units 1-5 Unit Assessments have been built.
 Units 1-5 final unit audit result: PASS.
-Unit 6 Lessons 1-4 have been built and audited; Unit 6 Lessons 5-8 are pending.
+Unit 6 Lessons 1-6 have been built and audited; Unit 6 Lessons 7-8 are pending.
 Final course certification cannot be completed until all 6 units are complete.
 
 Compliance Rule
