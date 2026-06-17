@@ -1,55 +1,55 @@
 ::PC_U06_L04_GP_Q01::
 Question ID: PC_U06_L04_GP_Q01
-MLA Standard: MLA.PC.SEQ.3
+MLA Standard: MLA.PC.SEQ.4
 Question:
-What is an arithmetic series?
+What is a geometric series?
 {
-=A. The sum of terms from an arithmetic sequence#Correct. A series adds terms, and arithmetic means the terms come from an arithmetic sequence.
-~B. A list of terms that multiply by the same ratio#Incorrect. Multiplying by the same ratio describes a geometric sequence.
-~C. Only the first term of a sequence#Incorrect. A series includes a sum, not only one term.
-~D. The graph of an arithmetic pattern#Incorrect. A graph is a representation, not the definition of a series.
+=A. The sum of terms from a geometric sequence#Correct. A geometric series adds terms from a geometric sequence.
+~B. A list that adds the same amount each time#Incorrect. Adding the same amount describes an arithmetic sequence.
+~C. Only the common ratio#Incorrect. The common ratio helps define the pattern, but it is not the series.
+~D. The first and last terms only#Incorrect. A series includes all terms being summed.
 }
 ::PC_U06_L04_GP_Q02::
 Question ID: PC_U06_L04_GP_Q02
-MLA Standard: MLA.PC.SEQ.3
+MLA Standard: MLA.PC.SEQ.4
 Question:
-Find 5 + 9 + 13 + 17 + 21.
+Find the sum of the first 4 terms of 3, 6, 12, 24, ...
 {
-~A. 26#Incorrect. 26 is only the first plus last, not the full sum.
-~B. 105#Incorrect. This multiplies by too many terms or does not divide by 2.
-~C. 45#Incorrect. This leaves out some terms in the sum.
-=D. 65#Correct. There are 5 terms and the average of 5 and 21 is 13, so the sum is 65.
+~A. 24#Incorrect. 24 is the fourth term, not the sum.
+~B. 48#Incorrect. This doubles the last term rather than adding all terms.
+~C. 90#Incorrect. This overcounts the series.
+=D. 45#Correct. 3 + 6 + 12 + 24 = 45.
 }
 ::PC_U06_L04_GP_Q03::
 Question ID: PC_U06_L04_GP_Q03
-MLA Standard: MLA.PC.SEQ.3
+MLA Standard: MLA.PC.SEQ.4
 Question:
-Which formula gives the sum of a finite arithmetic series?
+When does an infinite geometric series have a finite sum?
 {
-~A. a_n = a_1 r^(n - 1)#Incorrect. This is a geometric sequence formula, not an arithmetic series formula.
-~B. S_n = a_1 + a_n#Incorrect. This adds only two terms and ignores n.
-=C. S_n = n(a_1 + a_n) / 2#Correct. This formula uses the number of terms and the average of the first and last terms.
-~D. a_n = a_1 + (n - 1)d#Incorrect. This finds one arithmetic term, not the sum of a series.
+~A. When the first term is 0 only#Incorrect. A first term of 0 is not the general convergence condition.
+~B. Every infinite geometric series has a finite sum#Incorrect. Many infinite geometric series do not converge.
+=C. When |r| is less than 1#Correct. The terms shrink toward 0 when |r| < 1.
+~D. When r is greater than 1#Incorrect. If r is greater than 1, the terms grow.
 }
 ::PC_U06_L04_GP_Q04::
 Question ID: PC_U06_L04_GP_Q04
-MLA Standard: MLA.PC.SEQ.3
+MLA Standard: MLA.PC.SEQ.4
 Question:
-For 3, 7, 11, ..., what is the 12th term needed before finding S_12?
+Find the infinite sum of 10 + 5 + 2.5 + ...
 {
-~A. 300#Incorrect. 300 is the sum, not the last term.
-=B. 47#Correct. 3 + (12 - 1)4 = 47.
-~C. 44#Incorrect. This uses 10 jumps instead of 11.
-~D. 50#Incorrect. This is the first plus last total in the series formula, not the 12th term.
+~A. No finite sum#Incorrect. Since |r| < 1, the series has a finite sum.
+=B. 20#Correct. a1 = 10 and r = 1/2, so S = 10/(1 - 1/2) = 20.
+~C. 17.5#Incorrect. This adds only the first three visible terms.
+~D. 10#Incorrect. This is only the first term.
 }
 ::PC_U06_L04_GP_Q05::
 Question ID: PC_U06_L04_GP_Q05
-MLA Standard: MLA.PC.SEQ.3
+MLA Standard: MLA.PC.SEQ.4
 Question:
-Why does the arithmetic series formula divide by 2?
+Why does 4 + 8 + 16 + ... not have a finite infinite sum?
 {
-=A. It uses the average of the first and last terms#Correct. The formula multiplies n by the average of the first and last terms.
-~B. Every arithmetic series has only two terms#Incorrect. Arithmetic series can have any finite number of terms.
-~C. The common difference must be halved#Incorrect. The formula averages term values, not the common difference.
-~D. It changes a series into a geometric sequence#Incorrect. Dividing by 2 does not change the sequence type.
+=A. The common ratio is 2, so the terms grow#Correct. Since |2| is not less than 1, the infinite sum does not converge.
+~B. The first term is even#Incorrect. Being even does not determine convergence.
+~C. It has too few terms#Incorrect. The dots mean the series continues forever.
+~D. The ratio is 1/2#Incorrect. The ratio is 2, not 1/2.
 }

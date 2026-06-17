@@ -1,55 +1,55 @@
 ::PC_U06_L05_GP_Q01::
 Question ID: PC_U06_L05_GP_Q01
-MLA Standard: MLA.PC.SEQ.4
+MLA Standard: MLA.PC.SEQ.5
 Question:
-What is a geometric series?
+Which rule is recursive for 6, 10, 14, 18, ...?
 {
-=A. The sum of terms from a geometric sequence#Correct. A geometric series adds terms from a geometric sequence.
-~B. A list that adds the same amount each time#Incorrect. Adding the same amount describes an arithmetic sequence.
-~C. Only the common ratio#Incorrect. The common ratio helps define the pattern, but it is not the series.
-~D. The first and last terms only#Incorrect. A series includes all terms being summed.
+=A. a_1 = 6; a_n = a_(n-1) + 4#Correct. It gives the first term and uses the previous term plus 4.
+~B. a_n = 6 + (n - 1)4#Incorrect. This is an explicit rule, not a recursive rule.
+~C. a_1 = 4; a_n = a_(n-1) + 6#Incorrect. This reverses the first term and the common difference.
+~D. a_n = 6(4)^(n - 1)#Incorrect. This is a geometric explicit rule, but the sequence is arithmetic.
 }
 ::PC_U06_L05_GP_Q02::
 Question ID: PC_U06_L05_GP_Q02
-MLA Standard: MLA.PC.SEQ.4
+MLA Standard: MLA.PC.SEQ.5
 Question:
-Find the sum of the first 4 terms of 3, 6, 12, 24, ...
+What must every recursive rule include?
 {
-~A. 24#Incorrect. 24 is the fourth term, not the sum.
-~B. 48#Incorrect. This doubles the last term rather than adding all terms.
-~C. 90#Incorrect. This overcounts the series.
-=D. 45#Correct. 3 + 6 + 12 + 24 = 45.
+~A. Only the common difference#Incorrect. A common difference alone does not tell where the sequence starts.
+~B. Only the final term#Incorrect. The final term does not define how the sequence continues.
+~C. Only a graph#Incorrect. A graph may help, but it is not the required notation.
+=D. An initial term and a rule for the next term#Correct. A recursive rule needs a starting value and a rule for continuing.
 }
 ::PC_U06_L05_GP_Q03::
 Question ID: PC_U06_L05_GP_Q03
-MLA Standard: MLA.PC.SEQ.4
+MLA Standard: MLA.PC.SEQ.5
 Question:
-When does an infinite geometric series have a finite sum?
+Which rule finds a far-away term directly?
 {
-~A. When the first term is 0 only#Incorrect. A first term of 0 is not the general convergence condition.
-~B. Every infinite geometric series has a finite sum#Incorrect. Many infinite geometric series do not converge.
-=C. When |r| is less than 1#Correct. The terms shrink toward 0 when |r| < 1.
-~D. When r is greater than 1#Incorrect. If r is greater than 1, the terms grow.
+~A. Initial condition only#Incorrect. An initial condition only gives the start.
+~B. Common ratio only#Incorrect. A common ratio alone does not provide a full rule.
+=C. Explicit rule#Correct. An explicit rule uses n to calculate a term directly.
+~D. Recursive rule#Incorrect. Recursive rules build term by term from previous terms.
 }
 ::PC_U06_L05_GP_Q04::
 Question ID: PC_U06_L05_GP_Q04
-MLA Standard: MLA.PC.SEQ.4
+MLA Standard: MLA.PC.SEQ.5
 Question:
-Find the infinite sum of 10 + 5 + 2.5 + ...
+Given a_1 = 2 and a_n = 3a_(n-1), what is a_3?
 {
-~A. No finite sum#Incorrect. Since |r| < 1, the series has a finite sum.
-=B. 20#Correct. a1 = 10 and r = 1/2, so S = 10/(1 - 1/2) = 20.
-~C. 17.5#Incorrect. This adds only the first three visible terms.
-~D. 10#Incorrect. This is only the first term.
+~A. 12#Incorrect. This adds 10 or doubles incorrectly. Follow the recursive rule.
+=B. 18#Correct. a_2 = 6 and a_3 = 18.
+~C. 6#Incorrect. 6 is a_2, not a_3.
+~D. 9#Incorrect. This adds or squares incorrectly. Multiply the previous term by 3 each time.
 }
 ::PC_U06_L05_GP_Q05::
 Question ID: PC_U06_L05_GP_Q05
-MLA Standard: MLA.PC.SEQ.4
+MLA Standard: MLA.PC.SEQ.5
 Question:
-Why does 4 + 8 + 16 + ... not have a finite infinite sum?
+Which statement best compares explicit and recursive notation?
 {
-=A. The common ratio is 2, so the terms grow#Correct. Since |2| is not less than 1, the infinite sum does not converge.
-~B. The first term is even#Incorrect. Being even does not determine convergence.
-~C. It has too few terms#Incorrect. The dots mean the series continues forever.
-~D. The ratio is 1/2#Incorrect. The ratio is 2, not 1/2.
+=A. Explicit finds a term directly; recursive uses previous terms#Correct. This describes the key difference between the two notations.
+~B. Explicit always multiplies; recursive always adds#Incorrect. Either notation can describe arithmetic or geometric patterns.
+~C. Recursive rules never need a first term#Incorrect. Recursive rules need a starting value.
+~D. Both notations are only used for arithmetic sequences#Incorrect. Both notations can represent many sequence types.
 }
