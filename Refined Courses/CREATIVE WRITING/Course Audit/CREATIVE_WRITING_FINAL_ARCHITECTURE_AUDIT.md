@@ -30,6 +30,7 @@ The package uses the verified CPALMS Creative Writing 1 standard list as the pri
 | F-14 | Audit Placement | Final audit report is stored in the sibling `Course Audit` folder. | Passed |
 | F-15 | Course Identity | The course does not drift into Research Writing; research-facing evidence and model-reading standards remain attached to author craft and creative production. | Passed |
 | F-16 | Portfolio and Publication | Portfolio development, revision, publication standards, and author presentation are represented in Units 5-6 in the correct sequence. | Passed |
+| F-17 | Text Selection Matrix | `CREATIVE_WRITING_TEXT_SELECTION_MATRIX.md` supports the architecture, aligns to CPALMS standards, and remains a planning-control document only. | Passed |
 
 ## 3. Strengths
 
@@ -69,6 +70,7 @@ These recommendations do not block certification.
 - Maintain a craft-model text audit before production so literary benchmarks support writing craft rather than becoming literature-analysis endpoints.
 - Preserve the Creative Writing 1 to Creative Writing 2 progression by keeping Creative Writing foundational while preparing students for continued development and more advanced narrative expectations.
 - Keep peer feedback and publication controls attached to actual writing products during production.
+- Use the Creative Writing Text Selection Matrix as a production gate before lesson development so mentor texts and portfolio models support writing craft rather than literary survey.
 
 ## 7. Standards Coverage Matrix
 
@@ -178,7 +180,27 @@ These recommendations do not block certification.
 | Publication follows completed creative work | Passed; publication standards are placed after Units 2-4 creative production and Unit 5 revision/workshop. |
 | Unit 6 synthesis check | Passed; Unit 6 synthesizes previously taught course standards and introduces no new primary standards in Lesson 8. |
 
-## 12. Final Certification Decision
+## 12. Text Selection Matrix Validation
+
+| Validation Area | Result |
+|---|---|
+| Matrix file created | `CREATIVE_WRITING_TEXT_SELECTION_MATRIX.md` |
+| Matrix location | `Refined Courses/CREATIVE WRITING/Course Production` |
+| Planning-control status | Passed; the matrix explicitly states it is a planning-control document only. |
+| Supports architecture | Passed; categories align to the six approved Creative Writing units. |
+| Supports lesson production | Passed; the matrix gives future production guidance for mentor texts and product models without drafting lessons. |
+| Aligns to CPALMS standards | Passed; categories are tied to `MLA.CW` standards derived from CPALMS `Creative Writing 1 (#1009320)`. |
+| Unit 1 craft model requirements | Passed; short mentor texts, craft exemplars, voice/tone models, and workshop discussion models are included. |
+| Unit 2 narrative model requirements | Passed; short stories, flash fiction, character-driven narratives, point-of-view exemplars, setting models, and pacing models are included. |
+| Unit 3 fiction model requirements | Passed; theme-driven fiction, adapted myths/classical/religious stories, coming-of-age fiction, multi-perspective fiction, and conflict-driven narratives are included. |
+| Unit 4 poetry model requirements | Passed; free verse, narrative poetry, ambiguity, figurative language, mood/tone, and diction models are included. |
+| Unit 5 revision and publication requirements | Passed; revision exemplars, peer-review exemplars, literary magazine exemplars, publication-ready writing models, and portfolio exemplars are included. |
+| Unit 6 portfolio and presentation requirements | Passed; author statements, writing portfolios, showcases, publication planning examples, and author presentation examples are included. |
+| Lesson creation check | Passed; no lessons are created. |
+| Assessment creation check | Passed; no assessments are created. |
+| Student-facing content check | Passed; no student-facing instructional content is created. |
+
+## 13. Final Certification Decision
 
 Certification decision: `PASS`
 
