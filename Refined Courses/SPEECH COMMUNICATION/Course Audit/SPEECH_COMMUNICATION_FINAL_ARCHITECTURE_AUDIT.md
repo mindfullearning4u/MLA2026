@@ -1,4 +1,4 @@
-# Speech Communication Final Architecture Audit
+﻿# Speech Communication Final Architecture Audit
 
 ## 1. Executive Summary
 
@@ -27,6 +27,8 @@ The package uses the verified CPALMS Speech 1 standard list as the primary sourc
 | F-11 | Course Identity | Course identity follows the verified oral communications course description. | Passed |
 | F-12 | Scope Compliance | No lessons, assessments, HTML files, GIFT files, quiz JSON files, lesson JSON files, LMS pages, or student-facing instructional content were created. | Passed |
 | F-13 | Audit Placement | Final audit report is stored in the sibling `Course Audit` folder. | Passed |
+| F-14 | Course Identity | The course remains Speech Communication and does not drift into English I, English II, Journalism, Debate, Public Relations, or Business Communication. | Passed |
+| F-15 | Unit Progression | Unit progression matches the approved sequence: Foundations, Informative Speaking, Persuasive Speaking, Research-Supported Speaking, Digital Presentation and Publication, Professional and Multimedia Communication. | Passed |
 
 ## 3. Strengths
 
@@ -118,8 +120,34 @@ These recommendations do not block certification.
 | 5 | 8 | Putting It All Together: Unit 5 synthesis | Lesson Quiz | Unit Assessment only | Passed |
 | 6 | 8 | Putting It All Together: Unit 6 synthesis | Lesson Quiz | Unit Assessment only | Passed |
 
-## 10. Final Certification Decision
+## 10. CPALMS Benchmark Validation Summary
+
+| Validation Item | Result |
+|---|---|
+| Official course verified | CPALMS `Speech 1 (#1007300)`, current version |
+| CPALMS course detail ID | `24723` |
+| Total CPALMS-listed benchmarks | 25 |
+| Total architecture benchmarks | 25 |
+| `ELA.9` benchmark count | 17 |
+| `ELA.K12.EE` benchmark count | 6 |
+| `ELD` benchmark count | 2 |
+| Missing benchmarks | None |
+| Added benchmarks not listed in Speech 1 | None |
+| Benchmark wording accuracy | Passed |
+| Benchmark domain accuracy | Passed |
+| Complete Speech 1 benchmark inventory represented | Passed |
+
+### Verified CPALMS Benchmark Set
+
+| Benchmark Group | Benchmark Codes | Count |
+|---|---|---:|
+| `ELA.9` | `ELA.9.C.1.3`, `ELA.9.C.1.4`, `ELA.9.C.1.5`, `ELA.9.C.2.1`, `ELA.9.C.3.1`, `ELA.9.C.4.1`, `ELA.9.C.5.1`, `ELA.9.C.5.2`, `ELA.9.R.2.1`, `ELA.9.R.2.2`, `ELA.9.R.2.3`, `ELA.9.R.2.4`, `ELA.9.R.3.2`, `ELA.9.R.3.4`, `ELA.9.V.1.1`, `ELA.9.V.1.2`, `ELA.9.V.1.3` | 17 |
+| `ELA.K12.EE` | `ELA.K12.EE.1.1`, `ELA.K12.EE.2.1`, `ELA.K12.EE.3.1`, `ELA.K12.EE.4.1`, `ELA.K12.EE.5.1`, `ELA.K12.EE.6.1` | 6 |
+| `ELD` | `ELD.K12.ELL.LA.1`, `ELD.K12.ELL.SI.1` | 2 |
+
+## 11. Final Certification Decision
 
 Certification decision: `PASS`
 
-Speech Communication Architecture Package: PASS — APPROVED FOR PRODUCTION ARCHITECTURE LOCK
+Speech Communication Architecture Package:
+PASS — APPROVED FOR PRODUCTION ARCHITECTURE LOCK
