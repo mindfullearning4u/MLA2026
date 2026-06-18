@@ -169,3 +169,22 @@ Certification decision: `PASS`
 The English II architecture package is certification-ready for the next approved production phase. The package now contains verified Grade 10 benchmark wording, complete MLA standard numbering, valid crosswalk coverage, coherent unit-level mapping, complete 48-lesson mapping, preserved Lesson 8 controls, and documented vertical alignment with English I.
 
 This certification does not authorize changes to lesson content, quizzes, HTML pages, GIFT files, or LMS artifacts. It certifies the architecture package only.
+
+## 11. Approval Status
+
+Approval status: `APPROVED`
+
+The English II architecture files and final architecture audit are approved for use as the source architecture package for the next curriculum production phase.
+
+Approval scope:
+
+- Curriculum architecture
+- Standard inventory
+- Crosswalk draft
+- Mapping framework
+- Unit-level mapping
+- Lesson-level mapping
+- Course overview/course description
+- Final architecture audit
+
+Approval limitation: This approval covers architecture and mapping only. It does not create, approve, or modify lesson content, assessments, HTML pages, GIFT files, quiz files, or LMS production artifacts.
