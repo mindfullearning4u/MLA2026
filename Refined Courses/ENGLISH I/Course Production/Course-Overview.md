@@ -102,16 +102,18 @@ Approved English I unit sequence:
 - **Unit 6: Synthesis, Presentation, and Digital Communication**  
   Students synthesize reading, writing, research, language, vocabulary, and communication skills to present information orally and digitally with coherent focus, credible evidence, clear perspective, and audience awareness.
 
-Most lessons follow the MLA instructional workflow:
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow:
 
-1. Notebook Task - Part 1
-2. Notebook Task - Part 2
-3. Guided Practice
-4. Independent Work
-5. Checkpoint
-6. Notebook Evidence Submission
-7. Checkpoint Submission
-8. Lesson Quiz
+1. Lesson Overview
+2. Notebook Task - Part 1
+3. Notebook Task - Part 2
+4. Worked Example
+5. Guided Practice
+6. Independent Work
+7. Checkpoint
+8. Notebook Evidence Submission
+9. Checkpoint Submission
+10. Lesson Quiz
 
 This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
 
@@ -119,7 +121,13 @@ Each unit also includes:
 
 - Unit Pretest
 - Standards-aligned lessons
+- Lesson Overview
+- Notebook Task - Part 1
+- Notebook Task - Part 2
+- Worked Example
 - Guided Practice
+- Independent Work
+- Checkpoint
 - Notebook Evidence
 - Checkpoint Submission
 - Lesson Quizzes in Lessons 1-7
@@ -132,11 +140,15 @@ Instruction follows a mastery-based progression model requiring demonstrated und
 
 ## Lesson Workflow
 
-Most lessons follow the same learning sequence:
+Lessons 1-7 follow the same learning sequence:
 
+Lesson Overview  
+↓  
 Notebook Task Part 1  
 ↓  
 Notebook Task Part 2  
+↓  
+Worked Example  
 ↓  
 Guided Practice  
 ↓  
@@ -153,6 +165,8 @@ Lesson Quiz
 This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
 
 English I lessons are designed to support independent mastery. Lessons must teach skills explicitly before students are expected to analyze, write, research, revise, or present independently.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
 ---
 
@@ -186,13 +200,13 @@ Checkpoint Submission demonstrates application of English I skills in contexts t
 
 Standards-aligned assessments providing immediate feedback and measuring lesson-level mastery.
 
-Lesson Quiz demonstrates lesson-level mastery and understanding of key concepts and skills.
+Lesson Quizzes appear in Lessons 1-7. Lesson Quiz demonstrates lesson-level mastery and understanding of key concepts and skills.
 
 ### Unit Assessments
 
 Comprehensive evaluations measuring mastery of standards taught throughout the unit.
 
-Unit Assessment demonstrates unit-level mastery and the ability to integrate and apply learning across multiple standards.
+Unit Assessment appears in Lesson 8, Putting It All Together. Unit Assessment demonstrates unit-level mastery and the ability to integrate and apply learning across multiple standards.
 
 ### Grading Breakdown
 
@@ -217,7 +231,7 @@ To progress successfully through the course, students must:
 - Complete all required lesson components.
 - Submit Notebook Evidence.
 - Submit Checkpoint Responses.
-- Demonstrate lesson mastery through Lesson Quizzes.
+- Demonstrate lesson mastery through Lesson Quizzes in Lessons 1-7.
 - Complete all Unit Assessments.
 - Revise and resubmit work when required to demonstrate mastery.
 
@@ -254,4 +268,3 @@ English I integrates foundational skills essential for college readiness, career
 Instruction includes structured opportunities aligned with SAT Reading and Writing, ACT English and Reading, college readiness expectations, and workforce communication expectations.
 
 The course prepares students for advanced English coursework by building independent reading, writing, research, revision, and communication habits that can transfer across academic and professional contexts.
-
