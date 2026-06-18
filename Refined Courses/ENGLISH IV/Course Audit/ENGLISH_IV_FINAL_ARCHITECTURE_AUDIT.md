@@ -8,7 +8,7 @@ Initial audit status: `PASS`
 
 Final audit status: `PASS`
 
-No architecture-blocking corrections were required after the files were created. The package uses verified Grade 12 benchmark wording and does not duplicate English III. The verified English IV progression emphasizes advanced evaluation, functional significance, multiple themes, major poets in historical context, text/support effectiveness, related argument evaluation, rhetorical choices across multiple texts, topical-issue research, in-depth argument writing, in-depth complex text analysis, foreign phrases, digital presentation design/evaluation, and multimedia text creation/publishing/sharing.
+The final correction pass added the English IV Text Selection Matrix as a planning and production-control document. No architecture-blocking corrections were required after matrix creation. The package uses verified Grade 12 benchmark wording and does not duplicate English III. The verified English IV progression emphasizes advanced evaluation, functional significance, multiple themes, major poets in historical context, text/support effectiveness, related argument evaluation, rhetorical choices across multiple texts, topical-issue research, in-depth argument writing, in-depth complex text analysis, foreign phrases, digital presentation design/evaluation, and multimedia text creation/publishing/sharing.
 
 ## 2. Findings
 
@@ -21,6 +21,8 @@ No architecture-blocking corrections were required after the files were created.
 | F-05 | Course Identity | No unsupported literary-tradition frame was imposed; course identity comes from verified Grade 12 benchmark wording. | Passed |
 | F-06 | Lesson Mapping | All 48 lessons are mapped and all six Lesson 8 rows remain Putting It All Together. | Passed |
 | F-07 | Lesson 8 Constraint | No Lesson 8 introduces a new primary standard. | Passed |
+| F-08 | Text Selection Matrix | `ENGLISH_IV_TEXT_SELECTION_MATRIX.md` supports the English IV architecture and remains a planning-control document only. | Passed |
+| F-09 | Audit Placement | Final audit report is stored in the sibling `Course Audit` folder. | Passed |
 
 ## 3. Strengths
 
@@ -33,6 +35,7 @@ No architecture-blocking corrections were required after the files were created.
 - Unit 4 maintains a coherent topical research-to-argument-and-analysis workflow.
 - Unit 5 keeps language, vocabulary, style, and revision attached to authentic writing contexts.
 - Unit 6 functions as synthesis, oral presentation, digital evaluation, and multimedia publication rather than first-time instruction.
+- The text selection matrix gives future production concrete text/product requirements without creating lessons or student-facing content.
 
 ## 4. Risks
 
@@ -51,6 +54,7 @@ No required corrections remain.
 | Correction ID | Affected Document | Correction Applied |
 |---|---|---|
 | C-01 | Not applicable | No post-creation architecture-blocking corrections were required. |
+| C-02 | `ENGLISH_IV_TEXT_SELECTION_MATRIX.md` | Added required text/product planning matrix before final certification. |
 
 ## 6. Recommended Improvements
 
@@ -61,6 +65,7 @@ These are recommendations only and do not block certification.
 - Keep Unit 4 products connected: topical research notes, source synthesis, in-depth argument, and in-depth complex text analysis should remain one coherent workflow.
 - During assessment design, ensure `ELA.12.C.5.1` measures design and evaluation of digital presentation effectiveness rather than visual polish alone.
 - Avoid assigning English IV a specific literary tradition unless future local course requirements add that expectation separately from the verified Grade 12 benchmarks.
+- Use the text selection matrix as a gate before lesson production so selected texts/products support the verified standards before drafting begins.
 
 ## 7. Standards Coverage Matrix
 
@@ -155,10 +160,29 @@ These are recommendations only and do not block certification.
 | 6 | 7 | MLA.ENG4.C.03 | Publication remains primary while oral and digital communication support synthesis readiness. | Pass |
 | 6 | 8 | Unit 6 synthesis | No new primary standard. | Pass |
 
-## 10. Final Certification Decision
+## 10. Text Selection Matrix Validation
+
+| Validation Item | Result |
+|---|---|
+| `ENGLISH_IV_TEXT_SELECTION_MATRIX.md` exists in `Course Production` | Passed |
+| Unit 2 text requirements include major poets in historical context | Passed |
+| Unit 2 text requirements include contemporary world texts and classic influence texts | Passed |
+| Unit 2 text requirements include multi-theme literary works | Passed |
+| Unit 2 text requirements include character/conflicting perspective texts | Passed |
+| Unit 2 text requirements include strong figurative language for evaluation | Passed |
+| Unit 3 text requirements include structures/features, support effectiveness, author purpose, related arguments, same-information use, rhetorical comparison, and effectiveness critique | Passed |
+| Unit 4 text requirements include topical issues, varied source sets, research collections, argument exemplars, in-depth analysis exemplars, and complex Grade 12 texts | Passed |
+| Unit 6 product requirements include oral presentation models, digital presentation examples, multimedia publication models, effectiveness examples, and publishable multimedia texts | Passed |
+| Matrix aligns to verified Grade 12 standards | Passed |
+| Matrix remains a planning-control document only | Passed |
+| Matrix creates no lessons, assessments, HTML, quizzes, GIFT files, lesson JSON, quiz JSON, LMS pages, or student-facing instructional content | Passed |
+
+## 11. Final Certification Decision
 
 Certification decision: `PASS`
 
 The English IV architecture package is certification-ready as an architecture package. The package contains verified Grade 12 benchmark wording, complete MLA standard numbering, valid crosswalk coverage, coherent unit-level mapping, complete 48-lesson mapping, preserved Lesson 8 controls, and documented vertical alignment with English III.
 
 This certification does not authorize changes to lesson content, quizzes, HTML pages, GIFT files, LMS artifacts, quiz JSON files, or lesson JSON files. It certifies the architecture package only.
+
+English IV Architecture Package: `PASS — APPROVED FOR PRODUCTION ARCHITECTURE LOCK`
