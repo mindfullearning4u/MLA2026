@@ -8,7 +8,7 @@
 
 English II is a mastery-based course that advances students' ability to read complex literary and informational texts, analyze author choices, evaluate rhetoric and argument, write clearly for multiple purposes, conduct reliable research, use language precisely, and communicate ideas effectively.
 
-Students extend the English I foundation through more rigorous close reading, literary interpretation, informational text analysis, rhetorical analysis, argument development, research synthesis, expository writing, vocabulary precision, language control, revision, and oral and digital communication.
+Students extend the English I foundation through more rigorous close reading, literary interpretation, historical American speech and essay analysis, rhetorical analysis, argument development, research synthesis, expository writing, vocabulary precision, language control, audience-focused revision, and oral and digital communication.
 
 Instruction is designed for independent student mastery in an online learning environment. Lessons must explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. The course supports remedial, standard, and accelerated learners without assuming live teacher instruction, parent assistance, prior mastery, or strong academic vocabulary.
 
@@ -44,17 +44,17 @@ By the end of this course, students will be able to:
 
 - Paraphrase complex grade-level literary and informational texts accurately.
 - Integrate academic vocabulary in speaking and writing with Grade 10 precision.
-- Analyze literary elements, theme development, narrator perspective, irony, satire, figurative language, mood, complex literary forms, and literary adaptation or allusion.
-- Analyze informational text structure, central idea support, author purpose, rhetorical appeals, rhetorical choices, and opposing arguments.
-- Write narratives using narrative techniques, varied transitions, and a clearly established point of view.
-- Write arguments using logical reasoning, credible evidence, counterclaim rebuttal, organization, elaboration, transitions, and task-appropriate tone.
-- Write expository texts that explain and analyze information from multiple sources.
-- Conduct research using reliable and valid sources while refining the scope of a research question.
-- Revise writing for clarity, cohesion, style, and purpose using feedback.
+- Analyze literary elements, comparative theme development, coming-of-age experiences, conflicting perspectives, figurative language, mood, poetic ambiguity, and literary adaptation.
+- Analyze informational text structure impact, central ideas in historical American speeches and essays, author purpose in historical American speeches and essays, rhetorical choices, and opposing arguments using shared information.
+- Write narratives using appropriate pace to create tension, mood, and/or tone.
+- Write arguments using logical reasoning, credible evidence, counterclaim rebuttal, organization, elaboration, purposeful transitions, and formal objective tone.
+- Write expository texts that explain and analyze information from multiple sources using task-appropriate tone and voice.
+- Conduct research using reliable and valid sources while refining the scope of a research question and synthesizing source information.
+- Revise writing to address the needs of a specific audience using feedback.
 - Apply standard English grammar, punctuation, capitalization, and spelling appropriate to grade level.
 - Determine word meanings using context clues, figurative language, word relationships, reference materials, etymology, derivations, and background knowledge.
 - Present information orally with logical organization, coherent focus, credible evidence, and a clear perspective.
-- Create digital presentations and publication-ready collaborative writing tailored to a specific audience.
+- Create digital presentations that improve understanding of findings, reasoning, and evidence, and create publication-ready collaborative multimedia writing tailored to a specific audience.
 
 ---
 
@@ -64,7 +64,7 @@ Students entering English II should have prior experience with the following Eng
 
 - Reading grade-level literary and informational texts with attention to meaning and evidence.
 - Paraphrasing grade-level texts accurately.
-- Identifying and explaining literary elements, theme, point of view, figurative language, and mood.
+- Identifying and explaining literary elements, theme, point of view, figurative language, mood, and adaptation.
 - Analyzing informational text structure, central idea support, author purpose, rhetoric, and opposing arguments.
 - Writing organized narrative, argumentative, and expository texts.
 - Conducting basic source-based research.
@@ -87,16 +87,16 @@ Approved English II unit sequence:
   Students develop Grade 10 close reading, paraphrase, academic vocabulary, evidence use, short written response, standard English foundations, and evidence-based discussion habits.
 
 - **Unit 2: Literary Analysis, Perspective, and Narrative Craft**  
-  Students analyze literary elements, theme development, narrator perspective, irony, satire, figurative language, mood, complex literary forms, literary adaptation or allusion, and narrative craft.
+  Students analyze literary elements, comparative theme development, coming-of-age experiences, conflicting perspectives, figurative language, mood, poetic ambiguity, literary adaptation, and narrative pacing for tension, mood, and tone.
 
 - **Unit 3: Informational Text, Rhetoric, and Argument Development**  
-  Students analyze informational text structure, central idea support, author purpose, rhetorical appeals, rhetorical choices, opposing arguments, claims, evidence, reasoning, counterclaims, and argument writing.
+  Students analyze text structure impact, central ideas and author purpose in historical American speeches and essays, rhetorical choices, opposing arguments, shared information, claims, evidence, reasoning, counterclaims, and formal argument writing.
 
 - **Unit 4: Research, Source Synthesis, and Expository Writing**  
-  Students conduct research, refine research questions, evaluate source reliability and validity, take notes, synthesize source information, write expository texts, and create publication-ready collaborative writing.
+  Students conduct research, refine research questions, evaluate source reliability and validity, take notes, synthesize source information, write expository texts with task-appropriate tone and voice, and create publication-ready collaborative multimedia writing.
 
 - **Unit 5: Language, Vocabulary, Style, and Revision**  
-  Students apply standard English conventions, determine word meaning, use etymology and derivations, analyze connotation and denotation, revise writing for clarity and cohesion, and strengthen style and precision.
+  Students apply standard English conventions, determine word meaning, use etymology and derivations, analyze connotation and denotation, revise writing for specific audience needs, and strengthen style and precision.
 
 - **Unit 6: Synthesis, Presentation, and Digital Communication**  
   Students synthesize reading, writing, research, language, vocabulary, and communication skills to present information orally and digitally with coherent focus, credible evidence, clear perspective, and audience awareness.
@@ -156,4 +156,4 @@ Lesson 8 contains the Unit Assessment and synthesizes standards already taught i
 
 ## Source and Validation Note
 
-This architecture uses the public CPALMS standards system as the official source location for Florida standards references and mirrors the completed English I MLA framework. The Florida PDF endpoint blocked automated retrieval during this build, so final production should include one last source-of-record benchmark wording verification before lesson content is locked.
+This architecture uses the public CPALMS standards system as the official source location for Florida standards references and mirrors the completed English I MLA framework. Benchmark wording was verified against CPALMS during the final architecture audit before lesson production.
