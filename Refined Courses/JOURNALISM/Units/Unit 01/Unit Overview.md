@@ -1,80 +1,68 @@
-# JOURNALISM - Unit 01 Overview: Foundations of Journalism and News Writing
+# JOURNALISM - Unit 01 Overview: Foundations of Journalism, News Judgment, and Ethics
 
 ---
 
 ## Unit Overview
 
-This unit establishes the foundation for journalism. Students examine the purpose of news, identify audience needs, distinguish factual reporting from opinion, and begin producing short informational news writing.
+This unit establishes the foundation for Journalism by teaching students how journalists make ethical, factual, audience-aware decisions before publication. Students learn that journalism is not creative writing, opinion sharing, or casual posting. Journalism is factual communication shaped by format, source trust, technology, design, collaboration, interviewing, professional tone, and language access.
 
-Emphasis is placed on accuracy, objectivity, audience awareness, basic reporting, clear organization, relevant information, and journalistic vocabulary. Students begin building reporting habits through observation, note-taking, and concise factual writing.
-
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on informational writing, audience awareness, vocabulary, and factual communication. Students are expected to demonstrate writing fluency and conceptual understanding through short news reports, journalistic vocabulary, and factual response.
+Because this is a mastery-based online course, each lesson teaches the skill directly before students are asked to apply it. Students are not expected to already know how to identify a journalism format, evaluate media technology, communicate with sources, revise for language access, or make ethical newsroom decisions.
 
 ---
 
-## Primary B.E.S.T. Benchmarks
+## Approved Unit 1 Lesson Mapping
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.9.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone appropriate to the task. |
-| ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
-
----
-
-## Prerequisite and Supporting Concepts
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.9.R.2.1 | Analyze how multiple text structures and/or features convey a purpose and/or meaning in texts. |
-| ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
+| Lesson | Lesson Title | Primary MLA Standard(s) | Support Standards | Assessment |
+|--------|--------------|--------------------------|------------------|------------|
+| Lesson 1 | Journalism Purpose and Publication Formats | MLA.JOUR.ETH.01 | MLA.JOUR.MED.09, MLA.JOUR.NEWS.06 | Lesson Quiz |
+| Lesson 2 | Newsroom Collaboration and Ethics | MLA.JOUR.ETH.02 | MLA.JOUR.INT.01, MLA.JOUR.REP.05 | Lesson Quiz |
+| Lesson 3 | Media History and Technology Change | MLA.JOUR.MED.09 | MLA.JOUR.MED.08, MLA.JOUR.DIG.01 | Lesson Quiz |
+| Lesson 4 | Media Design and Visual Culture Trends | MLA.JOUR.MED.08 | MLA.JOUR.DIG.03, MLA.JOUR.ETH.01 | Lesson Quiz |
+| Lesson 5 | Interviewing Norms and Active Listening | MLA.JOUR.INT.01 | MLA.JOUR.INT.02, MLA.JOUR.COM.01 | Lesson Quiz |
+| Lesson 6 | Voice and Tone in Source Communication | MLA.JOUR.INT.02 | MLA.JOUR.NEWS.08, MLA.JOUR.INT.01 | Lesson Quiz |
+| Lesson 7 | Language Access in Newsroom Communication | MLA.JOUR.INT.03, MLA.JOUR.INT.04 | MLA.JOUR.INT.01, MLA.JOUR.INT.02 | Lesson Quiz |
+| Lesson 8 | Putting It All Together: Unit 1 Synthesis | Unit 1 Primary Standards | MLA.JOUR.NEWS.06, MLA.JOUR.REP.05 | Unit Assessment |
 
 ---
 
-## Lesson Breakdown
+## Unit 1 Primary Standards
 
-| Lesson | Lesson Title | Primary Standard(s) | Assessment |
-|--------|--------------|---------------------|------------|
-| Lesson 1 | Purpose of Journalism and News | ELA.9.V.1.1 | Quiz |
-| Lesson 2 | Audience, Purpose, and Public Information | ELA.9.C.1.4 | Quiz |
-| Lesson 3 | Facts, Observation, and Objectivity | ELA.9.C.1.4 | Quiz |
-| Lesson 4 | Basic Reporting Notes | ELA.9.C.1.4 | Quiz |
-| Lesson 5 | Journalistic Vocabulary in Speaking and Writing | ELA.9.V.1.1 | Quiz |
-| Lesson 6 | Short News Briefs | ELA.9.C.1.4 | Quiz |
-| Lesson 7 | Foundational News Writing Application | ELA.9.C.1.4, ELA.9.V.1.1 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+- MLA.JOUR.ETH.01 - Format-Specific Quality Work
+- MLA.JOUR.ETH.02 - Collaborative Media Production
+- MLA.JOUR.MED.08 - Technology and Media Design Trends
+- MLA.JOUR.MED.09 - Technology and Media History
+- MLA.JOUR.INT.01 - Collaborative Techniques and Active Listening
+- MLA.JOUR.INT.02 - Voice and Tone in Source Communication
+- MLA.JOUR.INT.03 - Academic Language for ELLs
+- MLA.JOUR.INT.04 - Social and Instructional Communication for ELLs
 
----
+## Unit 1 Support Standards
 
-## Unit Assessment Alignment
-
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
-
-- conceptual understanding;
-- news purpose and audience;
-- factual reporting;
-- journalistic vocabulary;
-- logical organization;
-- task-appropriate tone;
-- short informational news writing.
-
-Assessment items require students to integrate academic vocabulary in speaking and writing and write short expository news texts that explain information using logical organization, purposeful transitions, and a tone appropriate to the task.
+- MLA.JOUR.NEWS.06 - Academic and Journalistic Vocabulary
+- MLA.JOUR.REP.05 - Time Management and Production Process
+- MLA.JOUR.DIG.01 - Digital Presentations
+- MLA.JOUR.DIG.03 - Digital Equipment and Visual Accuracy
+- MLA.JOUR.COM.01 - Oral Presentation of Reporting
 
 ---
 
-## Mastery Expectation
+## Mastery Expectations
 
-Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment.
+Students demonstrate mastery by completing notebook evidence, guided practice, independent work, checkpoint submission, lesson quizzes for Lessons 1-7, and the Unit 1 Assessment in Lesson 8.
 
-Students are not advanced to the next unit until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
+Lesson 8 is Putting It All Together. It does not include a lesson quiz. It contains the Unit 1 Assessment and synthesis work across Unit 1 standards.
 
-The Unit Assessment is required for all students and contributes to the overall mastery determination.
+Students must show that they can:
 
-Students participating in the Accelerated Path must meet additional expectations. Please refer to the official Accelerated Path Overview document for full eligibility, requirements, and continuation criteria.
+- identify the purpose and format of a journalism product;
+- explain how technology and media design affect journalism;
+- communicate professionally with sources;
+- use active listening and respectful collaboration;
+- revise language for clarity and access;
+- protect accuracy, audience trust, and factual communication.
 
 ---
 
-## Problem-Solving Connection
+## Unit 1 Journalism Identity
 
-This unit asks students to solve basic reporting problems. Students decide what information matters, how to communicate it clearly, and how to maintain accuracy and objectivity for a real-world audience.
-
----
+This unit must remain focused on journalism, reporting, media literacy, source communication, factual communication, ethics, and publication readiness. It must not drift into English literature, creative writing, speech communication, or general research writing.

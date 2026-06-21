@@ -3,9 +3,29 @@
   "unit": "Unit 01",
   "lesson": "Lesson 01",
   "title": "Creative Writing Identity and Workshop Norms",
-  "primaryStandard": "MLA.CW.COM.02",
-  "supportStandards": ["MLA.CW.COM.04", "MLA.CW.COM.05"],
-  "pages": ["P01.html", "P02.html", "P03.html", "P04.html", "P05.html", "P06.html", "P07.html"],
+  "primaryStandard": {
+    "code": "MLA.CW.COM.02",
+    "description": "Peer Feedback and Collaborative Techniques"
+  },
+  "supportStandards": [
+    {
+      "code": "MLA.CW.COM.04",
+      "description": "Academic Language for ELLs"
+    },
+    {
+      "code": "MLA.CW.COM.05",
+      "description": "Social and Instructional Communication for ELLs"
+    }
+  ],
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
   "guidedPractice": "CW_U01_L01_GuidedPractice.gift",
   "lessonQuiz": "CW_U01_L01_Quiz.gift",
   "quizJson": "quiz.json"
