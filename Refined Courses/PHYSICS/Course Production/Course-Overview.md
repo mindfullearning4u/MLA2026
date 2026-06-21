@@ -140,22 +140,51 @@ Lesson 8 in every unit is titled Putting It All Together and contains the Unit A
 
 Physics is a laboratory science course. Lab architecture must include:
 
-- scientific inquiry
-- safe procedures
-- variables
+- safe investigation procedures
+- variables and controls
 - measurement
-- apparatus or model use
-- data tables and graphs
-- mathematical modeling
-- evidence-based interpretation
-- technical communication
-- reflection on uncertainty, error, precision, and reliability where appropriate
+- units
+- force, motion, energy, wave, electricity, and circuit investigations
+- data tables
+- graphs
+- model use
+- simulations
+- evidence-based claims
+- error, uncertainty, and limitations
+- scientific communication
+
+Lab expectations must remain visible across the course architecture. Students should encounter laboratory-style reasoning through physical investigations, virtual investigations, data interpretation, graph analysis, models, calculations, evidence-based explanations, and technical communication. Lab work may be hands-on, virtual, data-based, model-based, or simulation-supported, but it must preserve the essential purpose of laboratory science: students observe or analyze a physical phenomenon, use evidence, reason from data, and communicate a justified conclusion.
 
 ---
 
 ## Virtual Lab Expectations
 
-Virtual labs may use simulations, models, motion data, wave data, circuit simulations, optics diagrams, authentic data sets, video analysis, graph-based investigations, or technology-system case data. Virtual labs must preserve the lab purpose by requiring students to observe, collect or interpret data, identify variables, analyze evidence, use mathematical or graphical models, and communicate conclusions.
+Virtual labs may use:
+
+- motion simulations
+- force simulations
+- energy-transfer models
+- wave models
+- sound and light simulations
+- optics simulations
+- circuit simulators
+- electricity and magnetism models
+- data tables
+- graph-based investigations
+- video-analysis data
+- interactive models
+
+Virtual labs must require students to:
+
+- observe a phenomenon
+- identify variables
+- collect or interpret data
+- graph or analyze results
+- explain patterns
+- make evidence-based claims
+- reflect on uncertainty, error, or model limitations where appropriate
+
+Virtual labs are not optional enrichment. They are part of the laboratory science architecture when direct physical lab access is limited or when simulations provide clearer evidence of force, motion, wave, light, circuit, or field behavior. Virtual lab evidence must still require student reasoning, not passive viewing.
 
 ---
 

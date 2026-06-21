@@ -27,6 +27,41 @@ Physics is organized as a quantitative, laboratory-centered physical science cou
 | Virtual lab/data | Virtual investigation, simulation, graphical interpretation, and data analysis expectations are explicitly represented. |
 | Readiness | Common Core, ACT Science, SAT science reading/data, college readiness, workforce readiness, and scientific literacy are present. |
 
+## Physics Laboratory Architecture Controls
+
+Physics is a high-school laboratory science course. The architecture must preserve laboratory science expectations across physical investigation, virtual investigation, data-based investigation, graph interpretation, model use, and evidence-based scientific communication.
+
+Physics laboratory architecture includes:
+
+- lab safety
+- experimental design
+- measurement and units
+- variables and controls
+- quantitative data collection
+- graphical interpretation
+- modeling
+- simulation-based investigation
+- uncertainty and error reasoning
+- evidence-based explanation
+- scientific communication
+
+These controls apply across force, motion, energy, wave, sound, light, optics, electricity, magnetism, circuit, modern physics, and applied physics contexts. Laboratory work may be hands-on, virtual, model-based, data-based, or simulation-supported, but it must require students to reason from evidence rather than only describe content.
+
+## Physics Virtual Laboratory Controls
+
+Virtual laboratory architecture may include:
+
+- simulation-based investigations
+- motion and force modeling
+- energy-transfer modeling
+- wave and sound/light modeling
+- circuit simulation
+- optics modeling
+- graph and data interpretation
+- technology-supported investigation
+
+Virtual laboratory experiences must require students to observe a physical phenomenon, identify relevant variables, collect or interpret data, use graphs or models, explain patterns, make evidence-based claims, and reflect on uncertainty, error, or model limitations where appropriate.
+
 ## Unit Architecture
 
 | Unit | Title | Primary Role |
