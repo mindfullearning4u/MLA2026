@@ -19,7 +19,7 @@ The MLA Physics inventory consolidates the official course expectations into 27 
 | ENE | Energy, Momentum, and Thermal Systems | 5 |
 | WAV | Waves, Sound, Light, and Optics | 4 |
 | ELE | Electricity, Magnetism, and Materials | 4 |
-| APP | Modern, Earth/Space, and Applied Physics | 2 |
+| APP | Modern, Cosmic, and Applied Physics | 2 |
 | Total |  | 27 |
 
 ## MLA Physics Standards

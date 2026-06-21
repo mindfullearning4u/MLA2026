@@ -36,10 +36,14 @@ Physics is organized as a quantitative, laboratory-centered physical science cou
 | 3 | Work, Energy, Momentum, and Thermal Systems | Build energy, conservation, work, power, heat, temperature, and system analysis. |
 | 4 | Waves, Sound, Light, and Optics | Build wave, sound, electromagnetic, light, Doppler, lens, and mirror reasoning. |
 | 5 | Electricity, Magnetism, and Matter | Build electrostatics, circuits, material behavior, and electromagnetism applications. |
-| 6 | Modern, Earth/Space, and Applied Physics Systems | Synthesize atomic models, universe patterns, relativity concepts, models, and physics-informed decisions. |
+| 6 | Modern, Cosmic, and Applied Physics Systems | Synthesize atomic models, cosmic-scale matter patterns, relativity concepts, models, and physics-informed decisions. |
 
 ## Architecture Decision
 
 Physics uses 27 MLA Physics standards across eight domains. This count gives enough granularity for 48 lessons while keeping each standard teachable, mappable, and assessable at architecture level.
+
+Unit 6 uses `Modern, Cosmic, and Applied Physics Systems` to preserve Physics identity while still supporting SC.912.E.5.2 and SC.912.E.5.6. The unit treats universe-scale matter patterns, Earth-Moon-Sun relationships, and cosmic systems through physical forces, models, and evidence rather than expanding into a full Earth/Space Science scope.
+
+Momentum progression is split intentionally. Unit 2 introduces momentum as a Newtonian force-interaction concept connected to collisions and system interactions. Unit 3 revisits momentum as conservation within energy systems and collisions. This prevents duplicate treatment while preserving the CPALMS conservation standard.
 
 No lesson production begins in this phase.

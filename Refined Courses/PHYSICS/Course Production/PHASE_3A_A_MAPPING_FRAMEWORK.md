@@ -25,6 +25,12 @@
 
 Lesson 8 in each unit synthesizes the unit primary standards listed above only after those standards have appeared in Lessons 1-7. Lesson 8 may use support standards for evidence, reading, data, or communication, but it does not introduce a new primary standard.
 
+## Consistency Rationale
+
+Unit 6 is framed as `Modern, Cosmic, and Applied Physics Systems`. This preserves Physics identity while allowing CPALMS-required cosmic-scale and Earth-Moon-Sun physical principles to be addressed through forces, models, and evidence.
+
+Momentum is intentionally mapped in Unit 2 and Unit 3. Unit 2 addresses momentum as a force interaction within Newtonian mechanics. Unit 3 addresses conservation of linear momentum within energy systems and collisions.
+
 ## Alignment Threads
 
 | Thread | Architecture Location |
