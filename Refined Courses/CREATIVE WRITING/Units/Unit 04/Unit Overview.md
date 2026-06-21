@@ -1,25 +1,29 @@
-# CREATIVE WRITING - Unit 04 Overview: Creative Nonfiction
+# CREATIVE WRITING - Unit 04 Overview: Poetry, Figurative Language, Mood, and Style
 
 ---
 
 ## Unit Overview
 
-This unit develops creative nonfiction through memoir, reflective writing, real-world storytelling, research, and explanatory structure. Students use reliable and valid sources when appropriate, refine questions, and shape factual material into engaging prose.
+This unit develops poetry craft through figurative language, mood, layered meaning, ambiguity, word origins, diction, connotation, denotation, style, paraphrase, interpretation, and integrated poem development. Students study how poets use compressed language to create meaning that is literal, emotional, and suggestive at the same time.
 
-Emphasis is placed on memory, reflection, scene, voice, truthfulness, research, source reliability, organization, purposeful transitions, tone, and voice. Students learn to balance factual accuracy with creative craft.
+Emphasis is placed on reading poem models closely, explaining craft choices with evidence, choosing precise diction, interpreting ambiguity responsibly, and drafting original poems that intentionally use figurative language, mood, style, and layered meaning.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on creative production, research, synthesis, explanation, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through memoir, reflective writing, and source-informed creative nonfiction.
+Instruction and assessment are aligned to the approved MLA Creative Writing standards for Unit 4. Students demonstrate mastery through notebook tasks, worked examples, guided practice, independent poetry work, checkpoints, lesson quizzes, a pretest, and the Unit Assessment.
 
-This unit integrates standards from multiple grade levels within the Grades 9–12 band to support the development of narrative-based, source-informed writing.
+This unit supports mastery-based learning by teaching poetry as a set of clear craft decisions rather than as guesswork. Students learn to explain what a poem says, what it suggests, and how the language creates that effect.
 
 ---
 
-## Primary B.E.S.T. Benchmarks
+## Primary MLA Creative Writing Standards
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.10.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. |
-| ELA.9.C.4.1 | Conduct research to answer a question, drawing on multiple reliable and valid sources and refining the scope of the question to align with findings. |
+| MLA.CW.POE.01 | Poetic Layers of Meaning and Ambiguity |
+| MLA.CW.POE.02 | Figurative Language and Mood |
+| MLA.CW.POE.03 | Advanced Figurative Language and Mood |
+| MLA.CW.WR.06 | Word Origins and Poetic Diction |
+| MLA.CW.WR.07 | Connotation, Denotation, and Style |
+| MLA.CW.WR.03 | Paraphrase and Interpretation of Poetic Models |
 
 ---
 
@@ -27,10 +31,11 @@ This unit integrates standards from multiple grade levels within the Grades 9–
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
-| ELA.10.C.1.2 | Write narratives using an appropriate pace to create tension, mood, and/or tone. |
-| ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
-| ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
+| MLA.CW.WR.05 | Organization and Development of Written Explanation |
+| MLA.CW.WR.09 | Comparative Writing and Thematic Analysis |
+| MLA.CW.WR.10 | Inference and Writer Choices |
+| MLA.CW.COM.03 | Communication of Craft Reasoning |
+| MLA.CW.REV.01 | Revision Based on Purpose and Evidence |
 
 ---
 
@@ -38,31 +43,30 @@ This unit integrates standards from multiple grade levels within the Grades 9–
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Memoir, Memory, and Reflection | ELA.9.C.1.2, ELA.10.C.1.4 | Quiz |
-| Lesson 2 | Real-World Storytelling and Truthfulness | ELA.9.C.1.2, ELA.10.C.1.4 | Quiz |
-| Lesson 3 | Research Questions for Creative Nonfiction | ELA.9.C.4.1 | Quiz |
-| Lesson 4 | Reliable and Valid Sources | ELA.9.C.4.1 | Quiz |
-| Lesson 5 | Organizing Source-Informed Nonfiction | ELA.10.C.1.4 | Quiz |
-| Lesson 6 | Tone, Voice, and Purposeful Transitions | ELA.10.C.1.4 | Quiz |
-| Lesson 7 | Source-Informed Creative Nonfiction Draft | ELA.9.C.1.2, ELA.10.C.1.4, ELA.9.C.4.1 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson 1 | Figurative Language and Mood | MLA.CW.POE.02 | Quiz |
+| Lesson 2 | Advanced Figurative Language and Mood | MLA.CW.POE.03 | Quiz |
+| Lesson 3 | Poetic Layers of Meaning and Ambiguity | MLA.CW.POE.01 | Quiz |
+| Lesson 4 | Word Origins and Poetic Diction | MLA.CW.WR.06 | Quiz |
+| Lesson 5 | Connotation, Denotation, and Style | MLA.CW.WR.07 | Quiz |
+| Lesson 6 | Paraphrase and Interpretation of Poetic Models | MLA.CW.WR.03 | Quiz |
+| Lesson 7 | Integrated Poem Development | MLA.CW.POE.01, MLA.CW.POE.03 | Quiz |
+| Lesson 8 | Putting It All Together: Unit 4 Synthesis | Unit 4 Primary Standards | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of all primary standards addressed in this unit. Students must demonstrate consistent proficiency across:
 
-- conceptual understanding;
-- memoir and reflective writing;
-- research questions;
-- reliable and valid sources;
-- logical organization;
-- purposeful transitions;
-- tone and voice;
-- source-informed creative nonfiction.
+- figurative language and mood;
+- advanced analysis of figurative language and mood development;
+- poetic layers of meaning and ambiguity;
+- word origins and poetic diction;
+- connotation, denotation, and style;
+- paraphrase and interpretation of poetic models;
+- integrated poem development and craft explanation.
 
-Assessment items require students to conduct research when appropriate, draw on reliable and valid sources, refine the scope of a question, and write creative nonfiction that explains or analyzes information with logical organization, purposeful transitions, and a tone and voice appropriate to the task.
+Assessment items require students to identify, paraphrase, interpret, explain, compare, and apply poetic craft choices. Students must show that they can connect diction, figurative language, mood, ambiguity, and structure to original poetry decisions.
 
 ---
 
@@ -80,6 +84,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit asks students to solve problems of truth, selection, and structure. Students decide what information belongs in a piece, how to verify it, and how to shape it into meaningful real-world storytelling.
+This unit asks students to solve poetry craft problems. Students decide which words carry the right connotation, which images create the intended mood, where ambiguity should remain open, and how figurative language can make an original poem more precise, layered, and meaningful.
 
 ---
