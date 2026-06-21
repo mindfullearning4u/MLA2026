@@ -6,7 +6,7 @@ Official source verified: CPALMS Biology 1, course number `2000310`, current cou
 
 CPALMS-listed standards verified: 72.
 
-The MLA Biology inventory consolidates the official course expectations into 24 teachable MLA Biology standards. All CPALMS-listed standards remain accounted for as primary or support alignments in the crosswalk and mapping documents.
+The MLA Biology inventory consolidates the official course expectations into 27 teachable MLA Biology standards. All CPALMS-listed standards remain accounted for as primary or support alignments in the crosswalk and mapping documents.
 
 ## MLA Biology Domains
 
@@ -144,7 +144,7 @@ Verified support standard count: 18.
 
 | Validation Item | Result |
 |---|---|
-| MLA Biology standards created | 24 |
+| MLA Biology standards created | 27 |
 | MLA domains used | 7 |
 | CPALMS-listed standards verified | 72 |
 | Science benchmarks verified | 54 |
