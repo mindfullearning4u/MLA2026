@@ -9,7 +9,7 @@
 | 3 | Work, Energy, Momentum, and Thermal Systems | MLA.PHYS.ENE.01; MLA.PHYS.ENE.02; MLA.PHYS.ENE.03; MLA.PHYS.ENE.04; MLA.PHYS.ENE.05 | MLA.PHYS.SCI.01; MLA.PHYS.LAB.03; MLA.PHYS.FOR.01 | Unit Assessment synthesizes energy forms, conservation, work, power, heat, temperature, matter states, and momentum. |
 | 4 | Waves, Sound, Light, and Optics | MLA.PHYS.WAV.01; MLA.PHYS.WAV.02; MLA.PHYS.WAV.03; MLA.PHYS.WAV.04; MLA.PHYS.MOT.03 | MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.ENE.01 | Unit Assessment synthesizes wave properties, Doppler shifts, EM spectrum, optics, and frame-of-reference concepts. |
 | 5 | Electricity, Magnetism, and Matter | MLA.PHYS.ELE.01; MLA.PHYS.ELE.02; MLA.PHYS.ELE.03; MLA.PHYS.ELE.04 | MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.WAV.03; MLA.PHYS.ENE.01 | Unit Assessment synthesizes static electricity, fields, materials, circuits, power, and electromagnetic applications. |
-| 6 | Modern, Earth/Space, and Applied Physics Systems | MLA.PHYS.APP.01; MLA.PHYS.APP.02; MLA.PHYS.SCI.02; MLA.PHYS.SCI.03 | MLA.PHYS.FOR.02; MLA.PHYS.FOR.03; MLA.PHYS.MOT.03; MLA.PHYS.ELE.04 | Unit Assessment synthesizes universe-scale patterns, atomic models, modern physics ideas, models, laws, theories, and physics-informed decisions. |
+| 6 | Modern, Cosmic, and Applied Physics Systems | MLA.PHYS.APP.01; MLA.PHYS.APP.02; MLA.PHYS.SCI.02; MLA.PHYS.SCI.03 | MLA.PHYS.FOR.02; MLA.PHYS.FOR.03; MLA.PHYS.MOT.03; MLA.PHYS.ELE.04 | Unit Assessment synthesizes cosmic-scale matter patterns, atomic models, modern physics ideas, models, laws, theories, and physics-informed decisions. |
 
 ## Unit Coverage Validation
 
@@ -21,6 +21,12 @@
 | Every unit primary standard is assigned for primary instruction in Lessons 1-7 | PASS |
 | Support standards are consistently treated as support unless explicitly listed as primary | PASS |
 | Physics identity remains distinct from other science courses | PASS |
+
+## Architecture Rationale
+
+Unit 6 is titled `Modern, Cosmic, and Applied Physics Systems` to keep SC.912.E.5.2 and SC.912.E.5.6 within Physics scope. Cosmic content is limited to matter distribution, physical forces, Newtonian relationships, model use, and evidence-based physics decisions.
+
+Momentum progression is intentional. Unit 2 uses momentum as a force-interaction and Newtonian mechanics concept. Unit 3 uses momentum conservation within energy systems and collisions. This keeps the standard coherent across both mechanics and conservation contexts.
 
 ## Domain Coverage by Unit
 

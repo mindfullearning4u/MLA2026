@@ -127,6 +127,17 @@ This audit reviews the Physics architecture package only. It does not certify le
 | Every primary unit standard appears as primary before Lesson 8 | PASS |
 | Lesson 8 synthesis standards were taught earlier in each unit | PASS |
 
+## Consistency Audit Corrections
+
+| Correction | Result |
+|---|---|
+| Physics crosswalk rebuilt into full Biology/Chemistry crosswalk structure | PASS |
+| Course overview rebuilt to match Biology/Chemistry overview structure | PASS |
+| Lesson-level mapping assessment evidence updated from compressed practice language to MLA assessment terminology | PASS |
+| Unit 6 retitled `Modern, Cosmic, and Applied Physics Systems` to preserve Physics identity while supporting SC.912.E.5.2 and SC.912.E.5.6 | PASS |
+| Momentum progression clarified between Unit 2 force interactions and Unit 3 conservation systems | PASS |
+| Physics architecture consistency audit created | PASS |
+
 ## Final Certification Decision
 
 Physics Architecture Package:
