@@ -110,6 +110,18 @@ This audit reviews the Chemistry architecture package only. It does not certify 
 | Unit 5 | Putting It All Together | Yes | No | PASS |
 | Unit 6 | Putting It All Together | Yes | No | PASS |
 
+## Consistency Re-Audit
+
+| Item | Result |
+|---|---|
+| Chemistry architecture consistency audit completed | PASS |
+| Consistency audit file | `CHEMISTRY_ARCHITECTURE_CONSISTENCY_AUDIT.md` |
+| Unit-Level Standards Map primary standards match Unit Mapping Detail primary standards | PASS |
+| Every unit primary standard is taught as primary in Lessons 1-7 | PASS |
+| Support standards are consistently treated as support where they function as reinforcement | PASS |
+| Lesson 8 synthesis standards are all taught earlier in the same unit | PASS |
+| Lesson 8 omits no intended unit primary standards | PASS |
+
 ## Production Boundary Confirmation
 
 The existing Chemistry lesson, HTML, JSON, and GIFT shell files remain shell files. This audit update did not create student-facing lessons, assessment items, HTML instructional content, JSON lesson or quiz content, GIFT assessment content, or LMS pages.
