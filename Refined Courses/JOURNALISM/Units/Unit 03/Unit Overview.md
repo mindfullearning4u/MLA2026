@@ -1,83 +1,101 @@
-# JOURNALISM - Unit 03 Overview: Source Evaluation, Bias, and Credibility
+# JOURNALISM - Unit 03 Overview: News, Feature, and Editorial Writing
 
 ---
 
 ## Unit Overview
 
-This unit develops source evaluation and verification. Students evaluate support for central ideas, compare opposing arguments, analyze claims and evidence, identify bias, and write evidence-based journalistic responses about credibility and reliability.
+This unit develops journalism writing and communication skills across news, feature, editorial, revision, conventions, vocabulary, style, and oral presentation. Students learn how to write factual expository news, develop a human-interest feature angle, build an editorial argument with evidence and rebuttal, revise for clarity and cohesion, prepare copy for publication, use precise journalistic vocabulary, and present reported information orally.
 
-Emphasis is placed on credibility, bias detection, fact-checking, verification, valid claims, effective evidence, reasoning, source comparison, and responsible use of information. Students apply evaluation skills to real-world media and reporting contexts.
+The unit is designed for mastery-based independent learning. Students are not expected to already know how to write a news brief, develop a feature angle, construct an editorial claim, revise copy, apply publication conventions, define vocabulary in context, or prepare an oral reporting briefing. Each lesson teaches the skill step by step, models the skill, shows common mistakes, and requires checkpoint evidence before students move forward.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on informational evaluation, evaluation of claims, credibility, bias, and evidence-based journalistic response. Students are expected to demonstrate critical evaluation and writing fluency through source analyses, verification tasks, and evidence-based responses.
-
----
-
-## Primary B.E.S.T. Benchmarks
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.9.R.2.2 | Evaluate the support an author uses to develop the central idea(s) throughout a text. |
-| ELA.10.R.2.4 | Compare the development of two opposing arguments on the same topic, evaluating the effectiveness and validity of the claims and analyzing the ways in which the authors use the same information to achieve different ends. |
-| ELA.10.C.1.3 | Write to argue a position, supporting claims using logical reasoning and credible evidence from multiple sources, rebutting counterclaims with relevant evidence, using a logical organizational structure, elaboration, purposeful transitions, and maintaining a formal and objective tone. |
+Instruction and assessment align to the approved MLA Journalism standard inventory and the approved Unit 3 lesson-level mapping.
 
 ---
 
-## Prerequisite and Supporting Concepts
+## Approved Unit 3 Standards
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.10.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. |
-| ELA.9.C.4.1 | Conduct research to answer a question, drawing on multiple reliable and valid sources and refining the scope of the question to align with findings. |
-| ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
+| MLA Standard | Unit Role | Journalism Skill |
+|---|---|---|
+| MLA.JOUR.NEWS.01 | Primary | Feature writing and point of view |
+| MLA.JOUR.NEWS.02 | Primary | Editorial claims, evidence, counterclaims, and rebuttal |
+| MLA.JOUR.NEWS.03 | Primary | Expository news writing |
+| MLA.JOUR.NEWS.04 | Primary | Revision for clarity and cohesion |
+| MLA.JOUR.NEWS.05 | Primary | Conventions for publication |
+| MLA.JOUR.NEWS.06 | Primary | Academic and journalistic vocabulary |
+| MLA.JOUR.NEWS.07 | Primary | Word derivations and meaning |
+| MLA.JOUR.NEWS.08 | Primary | Voice, tone, and style |
+| MLA.JOUR.COM.01 | Primary | Oral presentation of reporting |
+| MLA.JOUR.REP.02 | Support | Evidence and reasoning in reporting |
+| MLA.JOUR.INT.02 | Support | Professional tone and source communication |
 
 ---
 
 ## Lesson Breakdown
 
-| Lesson | Lesson Title | Primary Standard(s) | Assessment |
-|--------|--------------|---------------------|------------|
-| Lesson 1 | Support for Central Ideas in Sources | ELA.9.R.2.2 | Quiz |
-| Lesson 2 | Claims, Evidence, and Validity | ELA.10.R.2.4 | Quiz |
-| Lesson 3 | Bias Detection and Source Perspective | ELA.10.R.2.4 | Quiz |
-| Lesson 4 | Fact-Checking and Verification | ELA.9.R.2.2, ELA.10.R.2.4 | Quiz |
-| Lesson 5 | Opposing Accounts and Shared Information | ELA.10.R.2.4 | Quiz |
-| Lesson 6 | Writing Credibility Claims with Evidence | ELA.10.C.1.3 | Quiz |
-| Lesson 7 | Source Evaluation Response | ELA.9.R.2.2, ELA.10.C.1.3 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson | Lesson Title | Primary Standard(s) | Support Standard(s) | Assessment |
+|---|---|---|---|---|
+| Lesson 1 | Expository News Writing | MLA.JOUR.NEWS.03 | MLA.JOUR.REP.02, MLA.JOUR.NEWS.06 | Lesson Quiz |
+| Lesson 2 | Feature Writing and Point of View | MLA.JOUR.NEWS.01 | MLA.JOUR.NEWS.08, MLA.JOUR.INT.02 | Lesson Quiz |
+| Lesson 3 | Editorial Claims, Evidence, and Rebuttal | MLA.JOUR.NEWS.02 | MLA.JOUR.REP.02, MLA.JOUR.MED.04 | Lesson Quiz |
+| Lesson 4 | Revision for Clarity and Cohesion | MLA.JOUR.NEWS.04 | MLA.JOUR.NEWS.05, MLA.JOUR.ETH.01 | Lesson Quiz |
+| Lesson 5 | Conventions for Publication | MLA.JOUR.NEWS.05 | MLA.JOUR.NEWS.04, MLA.JOUR.PUB.01 | Lesson Quiz |
+| Lesson 6 | Vocabulary, Derivations, and News Style | MLA.JOUR.NEWS.06, MLA.JOUR.NEWS.07 | MLA.JOUR.NEWS.08, MLA.JOUR.INT.02 | Lesson Quiz |
+| Lesson 7 | Oral Presentation of Reporting | MLA.JOUR.COM.01 | MLA.JOUR.NEWS.03, MLA.JOUR.REP.02 | Lesson Quiz |
+| Lesson 8 | Putting It All Together: Unit 3 Synthesis | Unit 3 primary standards | MLA.JOUR.REP.02, MLA.JOUR.INT.02 | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit 3 Assessment evaluates whether students can apply the full journalism writing and communication process.
 
-- conceptual understanding;
-- central idea support;
-- claim validity;
-- credibility and bias;
-- fact-checking and verification;
-- comparison of opposing arguments;
-- logical reasoning and credible evidence;
-- evidence-based journalistic response.
+Students demonstrate mastery by:
 
-Assessment items require students to evaluate support for central ideas, compare opposing arguments, evaluate the effectiveness and validity of claims, analyze the use of shared information, and write an evidence-based response using logical reasoning, credible evidence, relevant counterclaim response, purposeful transitions, and a formal and objective tone.
+- writing factual expository news from verified source details;
+- identifying and developing a feature angle;
+- using point of view appropriately in feature writing;
+- constructing editorial claims supported by evidence;
+- addressing counterclaims with fair rebuttal;
+- revising for clarity, cohesion, and source accuracy;
+- applying publication conventions;
+- using precise journalistic vocabulary;
+- using derivations and context to clarify word meaning;
+- selecting voice, tone, and style appropriate to the task;
+- presenting reported information orally for a listening audience.
+
+Lesson 8 is the Unit 3 synthesis lesson. It introduces no new primary standard and contains the Unit Assessment instead of a lesson quiz.
 
 ---
 
-## Mastery Expectation
+## Mastery Expectations
 
-Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment.
+Students are expected to demonstrate mastery across lesson notebook tasks, guided practice, independent work, checkpoint submissions, lesson quizzes, the Unit 3 Pretest, and the Unit 3 Assessment.
 
-Students are not advanced to the next unit until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
+Students should be able to explain not only what answer is correct, but why a writing or communication choice supports accuracy, audience understanding, publication readiness, and journalistic purpose.
 
-The Unit Assessment is required for all students and contributes to the overall mastery determination.
+Students who struggle should use the step-by-step lesson models, common mistake explanations, guided practice feedback, and Teacher of Record support before resubmitting checkpoint evidence.
 
-Students participating in the Accelerated Path must meet additional expectations. Please refer to the official Accelerated Path Overview document for full eligibility, requirements, and continuation criteria.
+---
+
+## Self-Paced Learning Design
+
+Unit 3 lessons are built for students learning primarily from the curriculum itself.
+
+Each lesson provides:
+
+- explicit vocabulary support;
+- embedded source material when needed;
+- step-by-step instruction;
+- modeled journalism writing and communication decisions;
+- common mistake correction using red incorrect and green correct examples;
+- guided practice with detailed feedback;
+- independent work in Part A, Part B, and Part C;
+- checkpoint submission directions;
+- mastery criteria aligned to the lesson standards.
 
 ---
 
 ## Problem-Solving Connection
 
-This unit asks students to solve verification problems. Students determine whether information is supported, credible, biased, or incomplete before using it in journalistic writing.
+This unit asks students to solve journalism writing problems. Students determine which information belongs in a factual news brief, which source details support a feature angle, which evidence supports an editorial claim, how to respond to counterclaims, how to revise for readers, how to apply conventions, how to define vocabulary clearly, and how to present reported information orally.
 
----
