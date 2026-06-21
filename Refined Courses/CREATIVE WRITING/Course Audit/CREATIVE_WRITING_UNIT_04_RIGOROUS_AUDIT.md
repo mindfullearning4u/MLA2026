@@ -24,7 +24,7 @@ This audit checked Unit 4 against the approved Creative Writing production requi
 - Detailed teachable feedback for correct and incorrect answers
 - Poem line, poem excerpt, or context included with every question
 - Checkpoint workflow, TOR support, submission instructions, and mastery criteria
-- Repository readiness: no empty files, no merge conflicts, no prohibited `Upload` wording
+- Repository readiness: no empty files, no merge conflicts, no prohibited `Submit` wording
 
 ## Approved Unit 4 Mapping Checked
 
@@ -139,7 +139,7 @@ Unit 4 HTML pages use the established Creative Writing / ALG1-style visual shell
 - Correct and incorrect examples use visible color-coded feedback.
 - Page structure is consistent across lessons.
 - Pages are LMS-ready HTML files.
-- Submission wording uses `Submit` rather than prohibited `Upload` wording.
+- Submission wording uses `Submit` rather than prohibited `Submit` wording.
 
 ### 8. Repository Readiness
 
@@ -149,7 +149,7 @@ Scoped repository checks found:
 
 - No empty Unit 4 files.
 - No merge conflict markers.
-- No prohibited `Upload` wording.
+- No prohibited `Submit` wording.
 - No old Unit 4 Creative Nonfiction/B.E.S.T. overview references.
 - No missing GIFT references from quiz JSON files.
 

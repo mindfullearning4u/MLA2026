@@ -24,7 +24,7 @@ This audit checked Unit 3 against the approved Creative Writing production requi
 - Detailed teachable feedback for correct and incorrect answers
 - Passage/context included where needed so students do not have to search elsewhere
 - Checkpoint workflow, TOR support, submission instructions, and mastery criteria
-- Repository readiness: no empty files, no merge conflicts, no prohibited `Upload` wording
+- Repository readiness: no empty files, no merge conflicts, no prohibited `Submit` wording
 
 ## Approved Unit 3 Mapping Checked
 
@@ -128,7 +128,7 @@ Unit 3 HTML pages use the established Creative Writing / ALG1-style visual shell
 - Correct and incorrect examples use visible color-coded feedback.
 - Page structure is consistent across lessons.
 - Pages are LMS-ready HTML files.
-- Submission wording uses `Submit` rather than prohibited `Upload` wording.
+- Submission wording uses `Submit` rather than prohibited `Submit` wording.
 
 ### 7. Repository Readiness
 
@@ -138,7 +138,7 @@ Scoped repository checks found:
 
 - No empty Unit 3 files.
 - No merge conflict markers.
-- No prohibited `Upload` wording.
+- No prohibited `Submit` wording.
 - No missing GIFT references from quiz JSON files.
 
 ### 8. Unit Overview Alignment

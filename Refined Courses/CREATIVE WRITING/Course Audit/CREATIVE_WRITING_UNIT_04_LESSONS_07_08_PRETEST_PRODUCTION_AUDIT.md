@@ -76,7 +76,7 @@ Result: Pass
 
 Result: Pass
 
-- No `Upload` wording found in the audit scope.
+- No `Submit` wording found in the audit scope.
 - No merge conflict markers found in the audit scope.
 - The old Unit 04 Creative Nonfiction/B.E.S.T. overview mismatch was removed.
 

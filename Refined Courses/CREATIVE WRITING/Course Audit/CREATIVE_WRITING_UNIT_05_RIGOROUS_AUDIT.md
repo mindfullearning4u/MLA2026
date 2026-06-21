@@ -29,7 +29,7 @@ The audit checked for:
 - no simple repeated answer pattern within assessment banks;
 - no empty files;
 - no conflict markers;
-- no `Upload` wording.
+- no `Submit` wording.
 
 ## Initial Findings
 
@@ -109,7 +109,7 @@ Final rerun found:
 - 0 GIFT files with incorrect correct-answer marker counts;
 - 0 GIFT files with incorrect distractor counts;
 - 0 conflict markers;
-- 0 `Upload` wording matches;
+- 0 `Submit` wording matches;
 - 0 outdated B.E.S.T./ELA overview references.
 
 ## GIFT Validation Summary

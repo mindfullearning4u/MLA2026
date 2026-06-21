@@ -77,7 +77,7 @@ PASS.
 
 PASS.
 
-- `Upload` wording: 0 matches.
+- `Submit` wording: 0 matches.
 - Conflict markers: 0 matches.
 - Legacy B.E.S.T./ELA wording: 0 matches.
 

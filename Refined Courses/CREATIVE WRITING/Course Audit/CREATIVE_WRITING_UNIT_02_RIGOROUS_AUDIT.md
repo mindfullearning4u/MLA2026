@@ -20,7 +20,7 @@ This audit checked Creative Writing Unit 2 for:
 - Worked examples with step-by-step explanation.
 - Checkpoint workflow, TOR support, submission instructions, and mastery criteria.
 - Answer-position balance and no obvious answer pattern.
-- No prohibited `Upload` wording.
+- No prohibited `Submit` wording.
 - No merge conflict markers or empty production files.
 
 ## Initial Findings
@@ -64,7 +64,7 @@ This audit checked Creative Writing Unit 2 for:
    - Correct and incorrect examples are visually distinguished.
 
 6. Wording and repository readiness passed.
-   - No `Upload` wording found in Unit 2.
+   - No `Submit` wording found in Unit 2.
    - No merge conflict markers found in Unit 2.
    - JSON files parse successfully.
 

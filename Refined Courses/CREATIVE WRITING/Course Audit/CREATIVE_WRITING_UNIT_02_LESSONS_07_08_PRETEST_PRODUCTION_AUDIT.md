@@ -66,7 +66,7 @@ Result: Pass
 
 Result: Pass
 
-- No `Upload` wording found in the audit scope.
+- No `Submit` wording found in the audit scope.
 - No merge conflict markers found in the audit scope.
 
 ## Audit Conclusion

@@ -71,7 +71,7 @@ PASS.
 - `quiz.json` parses successfully for both lessons.
 - No required page files are missing.
 - No conflict markers found.
-- No `Upload` wording found.
+- No `Submit` wording found.
 - No non-Creative Writing course files were included in this audit scope.
 
 ## Findings and Fixes

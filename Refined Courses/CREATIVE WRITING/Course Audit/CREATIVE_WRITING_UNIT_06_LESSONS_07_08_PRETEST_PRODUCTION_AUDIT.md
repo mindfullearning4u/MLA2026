@@ -77,7 +77,7 @@ Final validation confirmed:
 - Missing feedback: none
 - Distractors marked correct: none
 - Correct answers marked incorrect: none
-- `Upload` wording: 0 matches
+- `Submit` wording: 0 matches
 - Conflict markers: 0 matches
 
 ## Approval Needed
