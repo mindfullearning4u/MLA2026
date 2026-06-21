@@ -6,7 +6,7 @@ Course: MARINE SCIENCE
 Florida course reference: Marine Science, course number `2002500`  
 Location: `Refined Courses/MARINE SCIENCE/Course Production`  
 Audit date: 2026-06-21  
-Audit scope: Course Overview, Phase 1B Architecture Analysis, MLA Standard Inventory, Crosswalk Draft, Mapping Framework, Unit-Level Mapping, Lesson-Level Mapping, architecture validation, identity validation, readiness validation, and scope compliance.
+Audit scope: Course Overview, Phase 1B Architecture Analysis, MLA Standard Inventory, Crosswalk Draft, Mapping Framework, Unit-Level Mapping, Lesson-Level Mapping, Text and Data Source Matrix, Lab and Virtual Lab Matrix, architecture validation, identity validation, readiness validation, and scope compliance.
 
 The Marine Science architecture package is structurally complete and ready for production architecture lock. The package establishes a six-unit, 48-lesson mastery-based architecture aligned to Marine Science identity, Florida/CPALMS benchmark expectations, MLA science production controls, Common Core literacy in science, ACT Science readiness, SAT science-reading/data expectations, college readiness, workforce readiness, and scientific literacy.
 
@@ -29,6 +29,8 @@ Final decision:
 | Eight lessons per unit represented | PASS |
 | Lesson 8 protection present in every unit | PASS |
 | Lesson 8 introduces no new primary standard | PASS |
+| Text and data source matrix created | PASS |
+| Lab and virtual lab matrix created | PASS |
 | Florida benchmark alignment included | PASS |
 | Readiness alignments included | PASS |
 | No lessons created | PASS |
@@ -68,8 +70,8 @@ No required corrections remain after architecture validation.
 
 | Recommendation | Status |
 |---|---|
-| Create a marine text/data source matrix before lesson production | Recommended for future production planning |
-| Create a marine lab/virtual lab matrix before lesson production | Recommended for future production planning |
+| Create a marine text/data source matrix before lesson production | Completed in `MARINE_SCIENCE_TEXT_AND_DATA_SOURCE_MATRIX.md` |
+| Create a marine lab/virtual lab matrix before lesson production | Completed in `MARINE_SCIENCE_LAB_AND_VIRTUAL_LAB_MATRIX.md` |
 | Preserve Lesson 8 protection during production | Required production control |
 | Keep all passages, data tables, maps, and source sets embedded in future lessons and assessments | Required production control |
 
@@ -114,7 +116,32 @@ No required corrections remain after architecture validation.
 | Ocean exploration and technology represented | PASS |
 | Human impacts and conservation represented | PASS |
 
-## 10. Identity Validation
+## 10. Text and Data Source Matrix Validation
+
+| Requirement | Result |
+|---|---|
+| Six units represented | PASS |
+| Unit source categories aligned to Marine Science identity | PASS |
+| Ocean maps, marine data, habitat sources, food webs, fisheries data, conservation data, and technology sources represented | PASS |
+| Authoritative source controls included | PASS |
+| Embedded-source requirement included | PASS |
+| No lesson content created | PASS |
+| No assessment content created | PASS |
+
+## 11. Lab and Virtual Lab Matrix Validation
+
+| Requirement | Result |
+|---|---|
+| Six units represented | PASS |
+| Eight lessons per unit represented | PASS |
+| Forty-eight lab/virtual lab guidance rows included | PASS |
+| Marine laboratory expectations represented | PASS |
+| Virtual laboratory expectations represented | PASS |
+| Marine data, maps, models, water-quality evidence, monitoring data, and exploration tools represented | PASS |
+| No lesson content created | PASS |
+| No assessment content created | PASS |
+
+## 12. Identity Validation
 
 | Marine Science Identity Area | Result |
 |---|---|
@@ -138,7 +165,7 @@ No required corrections remain after architecture validation.
 | No drift into Earth/Space Science | PASS |
 | No drift into Chemistry | PASS |
 
-## 11. Readiness Validation
+## 13. Readiness Validation
 
 | Readiness Area | Result | Evidence |
 |---|---|---|
@@ -148,7 +175,7 @@ No required corrections remain after architecture validation.
 | ACT Science readiness | PASS | Experimental design, graph/table interpretation, data trends, claims, and evaluation. |
 | SAT science-reading/data readiness | PASS | Command of evidence, data displays, science passages, and quantitative reasoning. |
 
-## 12. Scope Compliance
+## 14. Scope Compliance
 
 | Prohibited Deliverable | Created? | Status |
 |---|---|---|
@@ -160,7 +187,7 @@ No required corrections remain after architecture validation.
 | LMS pages | No | PASS |
 | Student-facing instructional lesson content | No | PASS |
 
-## 13. Final Certification Decision
+## 15. Final Certification Decision
 
 Certification decision: **PASS**
 
