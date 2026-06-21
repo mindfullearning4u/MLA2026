@@ -22,6 +22,7 @@ The architecture package includes:
 - `PHASE_3A_A_MAPPING_FRAMEWORK.md`
 - `PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md`
 - `PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md`
+- `ANP_LAB_AND_VIRTUAL_LAB_MATRIX.md`
 
 The package uses the existing MLA science production framework, follows Biology as the primary science model, incorporates Chemistry and Physics support-model patterns, and applies Earth/Space Science and Marine Science lab documentation expectations.
 
@@ -44,6 +45,7 @@ Final certification decision:
 | Lesson 8 protection | Every Lesson 8 is Putting It All Together, contains Unit Assessment evidence, and introduces no new primary standard. | PASS |
 | Lab science | Course is explicitly designated as a high-school laboratory science. | PASS |
 | Virtual lab expectations | Explicitly documented in Course Overview, Phase 1B, mapping framework, unit mapping, and lesson mapping. | PASS |
+| Lab matrix | Dedicated A&P lab and virtual lab matrix created for all six units and 48 lessons. | PASS |
 | Production scope | No lessons, assessments, HTML, JSON, GIFT, LMS pages, or student-facing instructional content created. | PASS |
 
 ---
@@ -143,6 +145,7 @@ These are production guidance recommendations, not architecture deficiencies.
 | Lesson 8 introduces no new primary standard | PASS |
 | Lab/data evidence appears in every unit | PASS |
 | Virtual lab/model/case-data opportunities appear across the course | PASS |
+| Dedicated lab and virtual lab matrix created | PASS |
 
 ---
 
@@ -162,6 +165,7 @@ These are production guidance recommendations, not architecture deficiencies.
 | Evidence-based conclusions included | PASS |
 | Scientific communication included | PASS |
 | Every unit supports at least one lab or virtual lab experience | PASS |
+| `ANP_LAB_AND_VIRTUAL_LAB_MATRIX.md` covers all 48 lessons | PASS |
 
 ---
 
