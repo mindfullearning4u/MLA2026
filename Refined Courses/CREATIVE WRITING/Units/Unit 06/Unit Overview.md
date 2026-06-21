@@ -1,36 +1,45 @@
-# CREATIVE WRITING - Unit 06 Overview: Portfolio and Publication
+# CREATIVE WRITING - Unit 06 Overview: Author Portfolio, Presentation, and Publication Synthesis
 
 ---
 
 ## Unit Overview
 
-This unit serves as the capstone for Creative Writing. Students develop a writing portfolio, revise multiple works, prepare selected pieces for publication, present their work orally, and design digital presentations that support an audience's understanding of their writing process and creative choices.
+This unit serves as the capstone for Creative Writing. Students develop an author portfolio, revise selected works, prepare final pieces for publication, plan an author presentation, and explain how their creative choices affect readers and audiences.
 
-Emphasis is placed on portfolio curation, revision cycles, publication readiness, oral presentation, digital presentation, multimedia publication, audience awareness, organization, credible evidence from the portfolio, and reflection. Students demonstrate independent control of craft, language, revision, and communication.
+Emphasis is placed on portfolio curation, revision from feedback, publication readiness, author statement voice, format-specific quality, audience awareness, craft reasoning, and reflection on creative process and product. Students demonstrate independent control of craft, language, revision, publication preparation, and communication.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on presentation, publication, portfolio development, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through a final portfolio, presentation, and publication-ready work.
+Instruction and assessment are aligned to the approved MLA Creative Writing standards for Unit 6. Students demonstrate mastery through notebook tasks, worked examples, guided practice, independent portfolio work, checkpoints, lesson quizzes, a pretest, and the Unit Assessment.
 
-This unit represents the final demonstration of writing, revision, and communication skills developed throughout the course.
-
----
-
-## Primary B.E.S.T. Benchmarks
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.12.C.2.1 | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. |
-| ELA.12.C.5.1 | Design and evaluate digital presentations for effectiveness. |
-| ELA.12.C.5.2 | Create, publish, and share multimedia texts through a variety of digital formats. |
+This unit represents the final demonstration of writing, revision, publication, presentation, and communication skills developed throughout the course.
 
 ---
 
-## Prerequisite and Supporting Concepts
+## Primary MLA Creative Writing Standards
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
-| ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
-| ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
+| MLA.CW.WR.08 | Reflection on Creative Process and Product |
+| MLA.CW.REV.01 | Revision from Feedback |
+| MLA.CW.PUB.01 | Online Collaborative Publication |
+| MLA.CW.PUB.02 | Format-Specific Quality Work |
+| MLA.CW.COM.01 | Author Presentation of Creative Work |
+| MLA.CW.COM.03 | Communication of Craft Reasoning |
+
+---
+
+## Supporting Concepts
+
+| Standard Code | Standard Description |
+|--------------|----------------------|
+| MLA.CW.WR.09 | Portfolio Evidence and Writer Growth |
+| MLA.CW.WR.05 | Organization and Development of Written Explanation |
+| MLA.CW.NAR.01 | Narrative Techniques |
+| MLA.CW.NAR.02 | Point of View and Narrative Effect |
+| MLA.CW.FIC.06 | Fiction Revision and Development |
+| MLA.CW.POE.01 | Poetic Form, Line, and Image |
+| MLA.CW.POE.03 | Poetic Sound, Figurative Language, and Meaning |
+| MLA.CW.WR.07 | Style, Voice, and Sentence Rhythm |
+| MLA.CW.REV.02 | Clarity, Cohesion, and Conventions |
 
 ---
 
@@ -38,39 +47,39 @@ This unit represents the final demonstration of writing, revision, and communica
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Portfolio Selection and Purpose | ELA.12.C.2.1 | Quiz |
-| Lesson 2 | Revision of Multiple Works | ELA.12.C.1.5 | Quiz |
-| Lesson 3 | Publication Readiness and Formatting | ELA.12.C.5.2 | Quiz |
-| Lesson 4 | Digital Presentation Design | ELA.12.C.5.1 | Quiz |
-| Lesson 5 | Evaluating Digital Presentation Effectiveness | ELA.12.C.5.1 | Quiz |
-| Lesson 6 | Oral Presentation of Creative Work | ELA.12.C.2.1 | Quiz |
-| Lesson 7 | Final Portfolio Publication and Integrated Presentation | ELA.12.C.1.5, ELA.12.C.2.1, ELA.12.C.5.1, ELA.12.C.5.2 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson 1 | Portfolio Selection and Craft Rationale | MLA.CW.WR.08 | Quiz |
+| Lesson 2 | Author Statement Voice and Tone | MLA.CW.COM.03 | Quiz |
+| Lesson 3 | Narrative and Fiction Portfolio Revision | MLA.CW.REV.01 | Quiz |
+| Lesson 4 | Poetry and Style Portfolio Revision | MLA.CW.REV.01 | Quiz |
+| Lesson 5 | Publication Formatting and Digital Preparation | MLA.CW.PUB.02 | Quiz |
+| Lesson 6 | Author Presentation Planning | MLA.CW.COM.01 | Quiz |
+| Lesson 7 | Integrated Author Portfolio Preparation | MLA.CW.PUB.01, MLA.CW.COM.01 | Quiz |
+| Lesson 8 | Putting It All Together: Unit 6 Synthesis | Previously taught course primary standards only | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of Unit 6 portfolio, revision, publication, presentation, and reflection expectations. Students must demonstrate consistent proficiency across:
 
-- conceptual understanding;
-- portfolio development;
-- revision of multiple works;
-- oral presentation;
-- logical organization and coherent focus;
-- digital presentation design and evaluation;
-- multimedia publication;
-- audience-aware communication.
+- portfolio selection and craft rationale;
+- author statement voice and tone;
+- narrative and fiction portfolio revision;
+- poetry and style portfolio revision;
+- publication formatting and digital preparation;
+- author presentation planning;
+- integrated author portfolio preparation;
+- reader and audience effect.
 
-Assessment items require students to present information orally with logical organization, coherent focus, credible evidence, and effective rhetorical devices where appropriate. Students must design and evaluate digital presentations for effectiveness and create, publish, and share multimedia texts through a variety of digital formats.
+Assessment items require students to identify purposeful portfolio decisions, revise work from feedback, prepare writing for publication, explain craft reasoning, and connect author presentation choices to reader or audience understanding.
 
 ---
 
 ## Mastery Expectation
 
-Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment.
+Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including notebook evidence, guided practice, checkpoints, lesson quizzes, the pretest, and the Unit Assessment.
 
-Students are not advanced to the next unit until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
+Students are not advanced until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
 
 The Unit Assessment is required for all students and contributes to the overall mastery determination.
 
@@ -80,6 +89,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit asks students to solve publication and presentation problems. Students decide which works best represent their growth, how to revise them for an audience, and how to present and publish their creative work clearly and effectively.
+This unit asks students to solve publication and presentation problems. Students decide which works best represent their growth, how to revise them for readers, how to prepare them for publication, and how to present creative choices clearly and effectively.
 
 ---
