@@ -1,33 +1,40 @@
-# JOURNALISM - Unit 05 Overview: Editing, Ethics, and Media Responsibility
+# JOURNALISM - Unit 05 Overview: Digital Journalism, Multimedia, and Publication
 
 ---
 
 ## Unit Overview
 
-This unit develops editing, revision, and media responsibility. Students revise journalistic writing for purpose, clarity, structure, and style; apply conventions; check accuracy; and examine fairness, ethical decision-making, and publication standards.
+This unit develops digital journalism, multimedia production, online publication, visual accuracy, production workflow, and collaborative media package development. Students learn how journalistic content changes when it is prepared for an online audience and how text, images, sequence, captions, presentation choices, and publication tools work together.
 
-Emphasis is placed on revision cycles, accuracy, fairness, clarity, structure, style, conventions, ethical responsibility, audience trust, and publication readiness. Students revise reporting drafts to improve precision and responsibility.
+Emphasis is placed on digital presentation, sequential images and media in motion, accurate visual images, online collaborative publication, time management, team production, revision, format-specific quality, and audience readiness. Students practice preparing digital journalism packages that are accurate, organized, visually responsible, and publication-ready.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on revision, conventions, ethical communication, and publication standards. Students are expected to demonstrate writing fluency and conceptual understanding through edited, accurate, and publication-ready journalistic writing.
-
----
-
-## Primary B.E.S.T. Benchmarks
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
-| ELA.10.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
+Instruction and assessment are aligned to approved MLA Journalism standards and selected Florida B.E.S.T./access point connections. Students are expected to demonstrate conceptual understanding, production judgment, visual accuracy, workflow control, and collaborative publication readiness through notebook evidence, guided practice, independent work, checkpoints, quizzes, and the Unit Assessment.
 
 ---
 
-## Prerequisite and Supporting Concepts
+## Primary MLA Journalism Standards
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.10.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. |
-| ELA.10.C.1.3 | Write to argue a position, supporting claims using logical reasoning and credible evidence from multiple sources, rebutting counterclaims with relevant evidence, using a logical organizational structure, elaboration, purposeful transitions, and maintaining a formal and objective tone. |
-| ELA.10.C.4.1 | Conduct research to answer a question, refining the scope of the question to align with findings and synthesizing information from multiple reliable and valid sources. |
+| MLA Standard | Standard Title | Benchmark Connection |
+|--------------|----------------|----------------------|
+| MLA.JOUR.DIG.01 | Digital Presentations | ELA.9.C.5.1 |
+| MLA.JOUR.DIG.02 | Sequential Images and Media in Motion | VA.912.F.3.11 |
+| MLA.JOUR.DIG.03 | Digital Equipment and Visual Accuracy | VA.912.F.3.12 |
+| MLA.JOUR.PUB.01 | Online Collaborative Publication | ELA.9.C.5.2 |
+| MLA.JOUR.REP.05 | Time Management and Production Process | VA.912.F.3.4 |
+| MLA.JOUR.ETH.02 | Collaborative Media Production | VA.912.F.3.7 |
+
+---
+
+## Supporting MLA Journalism Standards
+
+| MLA Standard | Standard Title | Purpose in Unit 5 |
+|--------------|----------------|-------------------|
+| MLA.JOUR.COM.01 | Oral Presentation of Reporting | Supports digital presentation clarity and audience focus. |
+| MLA.JOUR.NEWS.03 | Expository News and Feature Writing | Supports explanatory reporting within digital packages. |
+| MLA.JOUR.MED.08 | Technology and Media Design Trends | Supports understanding of visual media choices. |
+| MLA.JOUR.REP.02 | Evidence and Reasoning | Supports accurate visual and publication decisions. |
+| MLA.JOUR.ETH.01 | Format-Specific Quality Work | Supports publication-ready format expectations. |
+| MLA.JOUR.NEWS.04 | Revision for Clarity and Cohesion | Supports revision before online publication. |
 
 ---
 
@@ -35,30 +42,31 @@ Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standard
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Feedback and Editorial Priorities | ELA.12.C.1.5 | Quiz |
-| Lesson 2 | Revising for Purpose and Clarity | ELA.12.C.1.5 | Quiz |
-| Lesson 3 | Revising Structure and Style | ELA.12.C.1.5 | Quiz |
-| Lesson 4 | Accuracy Checks and Corrections | ELA.12.C.1.5, ELA.10.C.3.1 | Quiz |
-| Lesson 5 | Fairness and Ethical Decision-Making | ELA.12.C.1.5 | Quiz |
-| Lesson 6 | Conventions and Publication Standards | ELA.10.C.3.1 | Quiz |
-| Lesson 7 | Edited Article for Publication Readiness | ELA.12.C.1.5, ELA.10.C.3.1 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson 1 | Digital Presentations for Reporting | MLA.JOUR.DIG.01 | Quiz |
+| Lesson 2 | Sequential Images and Media in Motion | MLA.JOUR.DIG.02 | Quiz |
+| Lesson 3 | Digital Equipment and Accurate Visual Images | MLA.JOUR.DIG.03 | Quiz |
+| Lesson 4 | Online Collaborative Publication | MLA.JOUR.PUB.01 | Quiz |
+| Lesson 5 | Time Management and Production Workflow | MLA.JOUR.REP.05 | Quiz |
+| Lesson 6 | Collaborative Media Package Production | MLA.JOUR.ETH.02 | Quiz |
+| Lesson 7 | Integrated Digital Publication Package | MLA.JOUR.PUB.01, MLA.JOUR.DIG.03 | Quiz |
+| Lesson 8 | Putting It All Together: Unit 5 Synthesis | All Unit 5 Primary Standards | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of the approved Unit 5 standards. Students must demonstrate consistent proficiency across:
 
-- conceptual understanding;
-- feedback evaluation;
-- revision for purpose, clarity, structure, and style;
-- accuracy and fairness;
-- conventions;
-- ethical decision-making;
-- publication readiness.
+- digital presentations for journalistic reporting;
+- sequential images and media in motion;
+- accurate use of digital equipment and visual images;
+- online collaborative publication;
+- time management and production workflow;
+- collaborative media package production;
+- revision and publication readiness;
+- format-specific quality and audience trust.
 
-Assessment items require students to improve journalistic writing by considering feedback and revising for purpose, clarity, structure, and style while applying standard English grammar, punctuation, capitalization, and spelling appropriate to grade level.
+Assessment items require students to evaluate digital journalism scenarios, identify publication risks, make accurate visual and workflow decisions, apply collaborative production expectations, and determine whether a media package is ready for an online audience.
 
 ---
 
@@ -76,6 +84,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit asks students to solve editing and ethics problems. Students determine how to revise for clarity and accuracy while protecting fairness, credibility, and audience trust.
+This unit asks students to solve digital publication problems. Students determine how to present reporting clearly, sequence images effectively, verify visual accuracy, manage deadlines, collaborate respectfully, and prepare a cohesive online journalism package for a real audience.
 
 ---
