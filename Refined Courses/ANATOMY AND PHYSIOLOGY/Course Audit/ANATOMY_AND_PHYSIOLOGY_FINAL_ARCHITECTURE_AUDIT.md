@@ -16,12 +16,12 @@ The Anatomy and Physiology course production architecture package has been built
 The architecture package includes:
 
 - `Course-Overview.md`
-- `A_AND_P_PHASE_1B_CURRICULUM_ARCHITECTURE_ANALYSIS.md`
-- `PHASE_2A_A_2_A_AND_P_MLA_STANDARD_INVENTORY.md`
-- `PHASE_2A_B_A_AND_P_CROSSWALK_DRAFT.md`
-- `PHASE_3A_A_A_AND_P_MAPPING_FRAMEWORK.md`
-- `PHASE_3A_B_1_A_AND_P_UNIT_LEVEL_MAPPING.md`
-- `PHASE_3A_B_2_A_AND_P_LESSON_LEVEL_MAPPING.md`
+- `PHASE_1B_CURRICULUM_ARCHITECTURE_ANALYSIS.md`
+- `PHASE_2A_A_2_MLA_STANDARD_INVENTORY.md`
+- `PHASE_2A_B_CROSSWALK_DRAFT.md`
+- `PHASE_3A_A_MAPPING_FRAMEWORK.md`
+- `PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md`
+- `PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md`
 
 The package uses the existing MLA science production framework, follows Biology as the primary science model, incorporates Chemistry and Physics support-model patterns, and applies Earth/Space Science and Marine Science lab documentation expectations.
 
@@ -76,7 +76,7 @@ Final certification decision:
 
 No required corrections remain.
 
-During audit, pre-existing generic zero-byte Course Production placeholders were found. They were not deleted. They were populated with source-of-record notes pointing to the A&P-specific architecture files, preserving folder structure while eliminating empty architecture placeholders.
+The Course Production folder follows the same standard architecture filename pattern used by Biology, Chemistry, and Physics.
 
 ---
 
