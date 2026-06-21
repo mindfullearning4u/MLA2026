@@ -143,21 +143,22 @@ Scoped repository checks found:
 
 ### 8. Unit Overview Alignment
 
-Status: NEEDS APPROVAL BEFORE REVISION
+Status: RESOLVED
 
-`Unit Overview.md` is not aligned to the approved Unit 3 lesson mapping or the built Unit 3 lesson set.
+`Unit Overview.md` was not aligned to the approved Unit 3 lesson mapping or the built Unit 3 lesson set during the initial audit.
 
-The overview currently identifies Unit 3 as a poetry/language unit and references Florida B.E.S.T. ELA standards and poetry-focused lesson topics. The approved Unit 3 mapping and the built Unit 3 lessons focus on universal themes, comparative themes, adaptation, central idea development, rhetoric/craft choices, coming of age, conflicting perspectives, integrated fiction development, and Unit 3 synthesis under MLA Creative Writing standards.
+The previous overview identified Unit 3 as a poetry/language unit and referenced Florida B.E.S.T. ELA standards and poetry-focused lesson topics. The approved Unit 3 mapping and the built Unit 3 lessons focus on universal themes, comparative themes, adaptation, central idea development, rhetoric/craft choices, coming of age, conflicting perspectives, integrated fiction development, and Unit 3 synthesis under MLA Creative Writing standards.
 
-This is a substantive content alignment issue. It was not revised during this audit because the current locked-content rule requires content rewrites to be treated as suggestions unless specifically approved.
+This substantive content alignment issue was revised after approval. The Unit 3 overview now identifies the unit as Fiction, Theme, and Adaptation and aligns its overview, standards, lesson breakdown, assessment alignment, and problem-solving connection to the approved Unit 3 Creative Writing mapping.
 
 ## Corrections Made During Audit
 
 No lesson-page, quiz-bank, assessment-bank, or JSON corrections were required during the rigorous audit.
 
-The only file added during this audit was this audit report:
+Files revised or added during this audit resolution:
 
 - `Refined Courses/CREATIVE WRITING/Course Audit/CREATIVE_WRITING_UNIT_03_RIGOROUS_AUDIT.md`
+- `Refined Courses/CREATIVE WRITING/Units/Unit 03/Unit Overview.md`
 
 ## Re-Audit Outcome
 
@@ -185,21 +186,20 @@ After the audit pass, Unit 3 was rechecked in the same scoped area.
 | No empty files | PASS |
 | No merge conflict markers | PASS |
 | `Submit` wording | PASS |
-| Unit Overview alignment | NEEDS APPROVAL BEFORE REVISION |
+| Unit Overview alignment | PASS |
 
 ## Final Audit Decision
 
 Unit 3 lesson and assessment production files are audit-ready.
 
-The only unresolved audit finding is the Unit 3 overview alignment issue. Correcting `Unit Overview.md` would require a substantive content rewrite from the current poetry/language overview to the approved Unit 3 fiction/theme/adaptation overview. That change should be approved before implementation.
+The Unit 3 overview alignment finding has been resolved. `Unit Overview.md` now matches the approved Unit 3 fiction/theme/adaptation lesson mapping and MLA Creative Writing standards.
 
 ## Revisions Made
 
 - Added this rigorous Unit 3 audit report.
-- No Unit 3 lesson content, assessment content, quiz content, or JSON metadata was revised during this audit because no technical production defects were found.
+- Revised `Unit Overview.md` to align Unit 3 to Fiction, Theme, and Adaptation.
+- No Unit 3 lesson page content, assessment content, quiz content, or JSON metadata was revised during this audit because no technical production defects were found in those files.
 
 ## Approval Needed
 
-Approval is needed only if `Unit Overview.md` should be rewritten to match the approved Unit 3 Creative Writing mapping.
-
-No approval is needed for the current Lesson 1-8 production files, pretest, guided practice banks, quiz banks, or unit assessment bank based on this audit.
+No additional approval is needed for the current Lesson 1-8 production files, pretest, guided practice banks, quiz banks, unit assessment bank, or revised Unit Overview based on this audit.

@@ -1,25 +1,30 @@
-# CREATIVE WRITING - Unit 03 Overview: Poetry and Language
+# CREATIVE WRITING - Unit 03 Overview: Fiction, Theme, and Adaptation
 
 ---
 
 ## Unit Overview
 
-This unit develops poetry and language craft. Students study poetic forms, symbolism, sound devices, figurative language, connotation, denotation, and word relationships, then apply those language choices to original poems.
+This unit develops fiction craft through universal themes, comparative theme analysis, adaptation, central idea development, author purpose, rhetoric, coming-of-age conflicts, and integrated fiction development. Students study how writers build meaning through choices about character, conflict, source material, point of view, evidence, and structure.
 
-Emphasis is placed on image, line, rhythm, sound, mood, symbol, figurative language, word choice, and compression. Students learn to make precise choices about language and form to create emotional and intellectual effects.
+Emphasis is placed on identifying universal themes, comparing how themes appear across creative works, adapting mythic, classical, or religious source material, supporting a central idea through fiction development, explaining author purpose and craft choices, and developing creative work that presents conflicting perspectives.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on language, interpretation, creative production, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through original poems, language analysis, and craft reflection.
+Instruction and assessment are aligned to the approved MLA Creative Writing standards for Unit 3. Students are expected to demonstrate writing fluency and conceptual understanding through notebook analysis, worked examples, guided practice, independent creative writing, checkpoints, quizzes, and the Unit Assessment.
 
-This unit integrates standards from multiple grade levels within the Grades 9–12 band to support advanced language use and creative production.
+This unit supports mastery-based learning by requiring students to explain craft decisions, revise ideas based on evidence, and apply fiction concepts in original creative work.
 
 ---
 
-## Primary B.E.S.T. Benchmarks
+## Primary MLA Creative Writing Standards
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.9.R.3.1 | Explain how figurative language creates mood in text(s). |
-| ELA.12.V.1.3 | Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level. |
+| MLA.CW.FIC.02 | Universal Themes in Creative Work |
+| MLA.CW.FIC.04 | Adaptation of Mythic, Classical, or Religious Sources |
+| MLA.CW.FIC.06 | Comparative Universal Themes |
+| MLA.CW.FIC.07 | Coming of Age and Conflicting Perspectives |
+| MLA.CW.WR.01 | Central Idea Support as Fiction Development |
+| MLA.CW.WR.02 | Author Purpose, Rhetoric, and Craft Choices |
+| MLA.CW.WR.04 | Writer's Purpose and Audience Awareness |
 
 ---
 
@@ -27,9 +32,19 @@ This unit integrates standards from multiple grade levels within the Grades 9–
 
 | Standard Code | Standard Description |
 |--------------|----------------------|
-| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
-| ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
-| ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
+| MLA.CW.NAR.01 | Narrative Techniques and Point of View |
+| MLA.CW.NAR.02 | Character, Conflict, and Change |
+| MLA.CW.FIC.02 | Universal Themes in Creative Work |
+| MLA.CW.FIC.03 | Character Perspective and Fictional Conflict |
+| MLA.CW.FIC.04 | Adaptation of Mythic, Classical, or Religious Sources |
+| MLA.CW.FIC.06 | Comparative Universal Themes |
+| MLA.CW.WR.01 | Central Idea Support as Fiction Development |
+| MLA.CW.WR.02 | Author Purpose, Rhetoric, and Craft Choices |
+| MLA.CW.WR.03 | Source Integration and Adaptation Choices |
+| MLA.CW.WR.08 | Evidence-Based Craft Reasoning |
+| MLA.CW.WR.09 | Comparative Writing and Thematic Analysis |
+| MLA.CW.WR.10 | Inference and Writer Choices |
+| MLA.CW.COM.03 | Communication of Craft Reasoning |
 
 ---
 
@@ -37,30 +52,30 @@ This unit integrates standards from multiple grade levels within the Grades 9–
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Image, Line, and Poetic Form | ELA.12.V.1.3 | Quiz |
-| Lesson 2 | Figurative Language and Mood | ELA.9.R.3.1 | Quiz |
-| Lesson 3 | Symbolism and Pattern | ELA.12.V.1.3 | Quiz |
-| Lesson 4 | Sound Devices and Rhythm | ELA.12.V.1.3 | Quiz |
-| Lesson 5 | Connotation, Denotation, and Word Choice | ELA.12.V.1.3 | Quiz |
-| Lesson 6 | Figurative Language in Original Poems | ELA.12.V.1.3 | Quiz |
-| Lesson 7 | Poetry Revision and Craft Reflection with Language Precision | ELA.12.V.1.3 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson 1 | Universal Themes in Creative Work | MLA.CW.FIC.02 | Quiz |
+| Lesson 2 | Comparative Universal Themes | MLA.CW.FIC.06 | Quiz |
+| Lesson 3 | Adaptation of Mythic, Classical, or Religious Sources | MLA.CW.FIC.04 | Quiz |
+| Lesson 4 | Central Idea Support as Fiction Development | MLA.CW.WR.01 | Quiz |
+| Lesson 5 | Author Purpose, Rhetoric, and Craft Choices | MLA.CW.WR.02 | Quiz |
+| Lesson 6 | Coming of Age and Conflicting Perspectives | MLA.CW.FIC.07 | Quiz |
+| Lesson 7 | Integrated Fiction Development | MLA.CW.FIC.06, MLA.CW.FIC.07 | Quiz |
+| Lesson 8 | Putting It All Together: Unit 3 Synthesis | Unit 3 Primary Standards | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of all primary standards addressed in this unit. Students must demonstrate consistent proficiency across:
 
-- conceptual understanding;
-- figurative language and mood;
-- poetic form;
-- symbolism;
-- sound devices;
-- connotation and denotation;
-- original poetry.
+- universal themes in creative work;
+- comparative theme analysis;
+- adaptation of mythic, classical, or religious sources;
+- central idea support in fiction development;
+- author purpose, rhetoric, and craft choices;
+- coming-of-age conflicts and conflicting perspectives;
+- integrated fiction development.
 
-Assessment items require students to explain how figurative language creates mood, determine connotative and denotative meanings of words and phrases, and apply those language choices to original poems and craft reflections.
+Assessment items require students to identify, compare, explain, and apply fiction craft choices. Students must show that they can connect theme, source material, central idea, purpose, perspective, and evidence to original creative writing decisions.
 
 ---
 
@@ -78,6 +93,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit asks students to solve language problems. Students choose words, sounds, images, and forms to create mood, meaning, and resonance in compressed creative work.
+This unit asks students to solve fiction craft problems. Students decide what larger human idea a story explores, how a source can be adapted into something original, what evidence supports a central idea, and how craft choices guide the reader's understanding of purpose, conflict, and perspective.
 
 ---
