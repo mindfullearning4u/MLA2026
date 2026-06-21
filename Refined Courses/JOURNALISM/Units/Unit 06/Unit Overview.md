@@ -1,36 +1,49 @@
-# JOURNALISM - Unit 06 Overview: Publication, Presentation, and Media Production
+# JOURNALISM - Unit 06 Overview: Newsroom Portfolio, Publication, and Multimedia Synthesis
 
 ---
 
 ## Unit Overview
 
-This unit serves as the capstone for Journalism. Students publish article(s), integrate multimedia components, design and evaluate digital presentations, and present information orally for a real-world audience.
+This unit serves as the Journalism capstone. Students synthesize reporting, writing, revision, media literacy, multimedia production, collaboration, online publication, and oral presentation into a final newsroom portfolio and publication package.
 
-Emphasis is placed on publication, audience awareness, multimedia integration, oral presentation, digital presentation design, organization, coherent focus, credible evidence, rhetorical effectiveness, and responsible media production. Students demonstrate independent control of reporting, writing, revision, publication, and presentation.
+Emphasis is placed on portfolio planning, evidence verification, writing revision, audience and media-literacy review, multimedia preparation, collaborative publication readiness, integrated portfolio preparation, and final course synthesis. Students demonstrate independent control of the full journalism process by preparing accurate, revised, organized, audience-ready work for final review.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on publication, presentation, digital communication, multimedia production, and audience communication. Students are expected to demonstrate writing fluency and conceptual understanding through published journalism, multimedia production, and oral presentation.
+Instruction and assessment are aligned to approved MLA Journalism standards. Students are expected to demonstrate conceptual understanding, source-based reasoning, publication judgment, visual accuracy, collaborative workflow, and presentation readiness through notebook evidence, guided practice, independent work, checkpoints, quizzes, the Unit Pretest, and the Unit Assessment.
 
-This unit represents the final demonstration of reporting, writing, editing, publication, and communication skills developed throughout the course.
-
----
-
-## Primary B.E.S.T. Benchmarks
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.12.C.2.1 | Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate. |
-| ELA.12.C.5.1 | Design and evaluate digital presentations for effectiveness. |
-| ELA.12.C.5.2 | Create, publish, and share multimedia texts through a variety of digital formats. |
+This unit represents the final demonstration of reporting, writing, editing, publication, multimedia, and communication skills developed throughout the course.
 
 ---
 
-## Prerequisite and Supporting Concepts
+## Primary MLA Journalism Standards
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.12.C.1.5 | Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style. |
-| ELA.10.C.1.4 | Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task. |
-| ELA.10.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
+| MLA Standard | Standard Title | Unit 6 Role |
+|--------------|----------------|-------------|
+| MLA.JOUR.ETH.01 | Format-Specific Quality Work | Guides portfolio format, final quality expectations, and accepted publication rules. |
+| MLA.JOUR.REP.02 | Evidence and Reasoning | Supports verification of reporting claims and final evidence explanations. |
+| MLA.JOUR.NEWS.04 | Revision for Clarity and Cohesion | Guides final writing package revision before publication. |
+| MLA.JOUR.MED.03 | Author Purpose, Appeals, and Language | Supports media literacy, audience analysis, and rhetoric checks. |
+| MLA.JOUR.DIG.02 | Sequential Images and Media in Motion | Guides final multimedia sequence and media package preparation. |
+| MLA.JOUR.ETH.02 | Collaborative Media Production | Guides final teamwork, compromise, and publication workflow. |
+| MLA.JOUR.PUB.01 | Online Collaborative Publication | Guides final online portfolio publication and export readiness. |
+| MLA.JOUR.COM.01 | Oral Presentation of Reporting | Guides final portfolio presentation and coherent speaking organization. |
+
+---
+
+## Supporting MLA Journalism Standards
+
+| MLA Standard | Standard Title | Purpose in Unit 6 |
+|--------------|----------------|-------------------|
+| MLA.JOUR.REP.01 | Research Questions and Source Reliability | Supports source verification during final reporting checks. |
+| MLA.JOUR.REP.03 | Complex Source Comprehension | Supports accurate understanding of reporting materials. |
+| MLA.JOUR.REP.04 | Inference for Reporting | Supports reasonable conclusions from source evidence. |
+| MLA.JOUR.NEWS.02 | Argument and Editorial Writing | Supports editorial judgment and claim review. |
+| MLA.JOUR.NEWS.03 | Expository News and Feature Writing | Supports final explanatory news writing. |
+| MLA.JOUR.NEWS.05 | Standard English for Publication | Supports final convention checks before publication. |
+| MLA.JOUR.MED.01 | Text Structures and Features | Supports final media structure review. |
+| MLA.JOUR.MED.02 | Central Idea Support | Supports evaluation of evidence and central idea development. |
+| MLA.JOUR.MED.04 | Opposing Arguments and Claims | Supports fair treatment of competing claims. |
+| MLA.JOUR.DIG.01 | Digital Presentations | Supports final digital presentation readiness. |
+| MLA.JOUR.DIG.03 | Digital Equipment and Visual Accuracy | Supports accurate visual media and caption checks. |
 
 ---
 
@@ -38,31 +51,33 @@ This unit represents the final demonstration of reporting, writing, editing, pub
 
 | Lesson | Lesson Title | Primary Standard(s) | Assessment |
 |--------|--------------|---------------------|------------|
-| Lesson 1 | Publication Planning and Audience | ELA.12.C.5.2 | Quiz |
-| Lesson 2 | Preparing Article(s) for Publication | ELA.12.C.5.2, ELA.10.C.1.4 | Quiz |
-| Lesson 3 | Multimedia Elements for Journalism | ELA.12.C.5.2 | Quiz |
-| Lesson 4 | Digital Presentation Design | ELA.12.C.5.1 | Quiz |
-| Lesson 5 | Evaluating Digital Presentation Effectiveness | ELA.12.C.5.1 | Quiz |
-| Lesson 6 | Oral Presentation of Published Journalism | ELA.12.C.2.1 | Quiz |
-| Lesson 7 | Capstone Publication and Media Presentation | ELA.12.C.2.1, ELA.12.C.5.1, ELA.12.C.5.2 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
+| Lesson 1 | Newsroom Portfolio Planning | MLA.JOUR.ETH.01 | Quiz |
+| Lesson 2 | Reporting Package Verification | MLA.JOUR.REP.02 | Quiz |
+| Lesson 3 | Writing Package Revision | MLA.JOUR.NEWS.04 | Quiz |
+| Lesson 4 | Media Literacy and Audience Check | MLA.JOUR.MED.03 | Quiz |
+| Lesson 5 | Multimedia Package Preparation | MLA.JOUR.DIG.02 | Quiz |
+| Lesson 6 | Newsroom Collaboration and Publication Readiness | MLA.JOUR.ETH.02 | Quiz |
+| Lesson 7 | Integrated Journalism Portfolio Preparation | MLA.JOUR.PUB.01, MLA.JOUR.COM.01 | Quiz |
+| Lesson 8 | Putting It All Together: Unit 6 Synthesis | Previously Taught Course Primary Standards | Unit Assessment |
 
 ---
 
 ## Unit Assessment Alignment
 
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
+The Unit Assessment evaluates student mastery of the approved Unit 6 standards and previously taught course skills. Students must demonstrate consistent proficiency across:
 
-- conceptual understanding;
-- article publication;
-- publication-ready writing;
-- multimedia integration;
-- oral presentation;
-- logical organization and coherent focus;
-- digital presentation design and evaluation;
-- audience-aware communication.
+- format-specific quality work;
+- evidence and reasoning;
+- revision for clarity and cohesion;
+- author purpose, appeals, language, and audience impact;
+- multimedia sequence and media preparation;
+- collaborative media production;
+- online collaborative publication;
+- oral presentation of reporting;
+- reporting verification and source comprehension;
+- final portfolio readiness.
 
-Assessment items require students to present information orally with logical organization, coherent focus, credible evidence, and effective rhetorical devices where appropriate; design and evaluate digital presentations for effectiveness; and create, publish, and share multimedia texts through a variety of digital formats.
+Assessment items require students to evaluate capstone journalism scenarios, identify final publication risks, make source-based corrections, revise for clarity, evaluate media choices, verify visual accuracy, plan collaborative workflow, and determine whether final portfolio work is ready for a real audience.
 
 ---
 
@@ -80,6 +95,6 @@ Students participating in the Accelerated Path must meet additional expectations
 
 ## Problem-Solving Connection
 
-This unit asks students to solve publication and presentation problems. Students decide how to prepare journalism for an audience, how to integrate multimedia responsibly, and how to communicate published work clearly and effectively.
+This unit asks students to solve final newsroom portfolio and publication problems. Students decide how to verify evidence, revise writing, evaluate media choices, prepare multimedia, collaborate responsibly, publish online work, and present final reporting clearly for an authentic audience.
 
 ---
