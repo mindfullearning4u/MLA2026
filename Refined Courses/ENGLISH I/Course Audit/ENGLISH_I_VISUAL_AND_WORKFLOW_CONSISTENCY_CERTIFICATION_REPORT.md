@@ -9,7 +9,7 @@ This certification did not review or modify standards alignment, lesson objectiv
 Source of truth:
 
 - ALG1 Unit 1 Lesson 1 production shell model
-- ALG1 Unit 1 Lesson 7 P06/P07 workflow model
+- ALG1 Unit 1 Lesson 1 P06/P07 workflow model
 - Approved English I production structure
 
 Final certification decision:
@@ -39,6 +39,7 @@ Final certification decision:
 | TOR Support Box | TOR support presentation required normalization for consistent compact MLA styling. | Corrected |
 | P05 Guided Practice | Some Guided Practice pages displayed backend assessment file references. | Corrected |
 | P06 Independent Work | Some pages used older compact or inconsistent Part A, Part B, and Part C visual structures. | Corrected |
+| P06/P07 Opening Workflow | P06 and P07 pages did not consistently mirror the exact ALG1 Unit 1 Lesson 1 opening instruction/workflow blocks. | Corrected |
 | P07 Checkpoint | Some pages lacked the full approved MLA checkpoint workflow language and visual structure. | Corrected |
 | Lesson 8 P01 | Lesson 8 overview pages needed the approved `What You Will Learn` heading language. | Corrected |
 | HTML Balance | Unit 6 P06 pages contained extra closing container tags after visual restructuring. | Corrected |
@@ -49,12 +50,15 @@ Final certification decision:
 - Removed visible backend `.gift` references from P05 Guided Practice pages.
 - Normalized P06 Independent Work visual structure to include:
   - P06 Independent Work title
+  - ALG1 Unit 1 Lesson 1 independent work opening instructions
+  - `Important Important` notebook evidence reminder
   - Instructions section
   - Part A
   - Part B
   - Part C
   - Consistent MLA color treatment and spacing
 - Normalized P07 Checkpoint workflow structure to include:
+  - ALG1 Unit 1 Lesson 1 checkpoint opening workflow block
   - Teacher of Record Graded
   - Checkpoint Task
   - Notebook Evidence Submission
@@ -80,9 +84,11 @@ Final certification decision:
 | No developer or production artifact references displayed | PASS |
 | P01 required section headings present | PASS |
 | P06 Independent Work structure present | PASS |
+| P06 ALG1 Unit 1 Lesson 1 opening instruction block present | PASS |
 | P06 Part A, Part B, Part C structure present | PASS |
 | P06 visual styling aligned to MLA model | PASS |
 | P07 Checkpoint workflow present | PASS |
+| P07 ALG1 Unit 1 Lesson 1 opening checkpoint workflow block present | PASS |
 | P07 80% mastery language present | PASS |
 | P07 resubmission language present | PASS |
 | P07 TOR intervention language present | PASS |

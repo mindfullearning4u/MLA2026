@@ -25,7 +25,7 @@ Final certification decision:
 - Approved English II Unit-Level Mapping
 - Approved English II Lesson-Level Mapping
 - ALG1 Unit 1 Lesson 1 production shell model
-- ALG1 Unit 1 Lesson 7 P06/P07 workflow model
+- ALG1 Unit 1 Lesson 1 P06/P07 workflow model
 - MLA mastery workflow standard
 
 ## Review Totals
@@ -54,7 +54,7 @@ Final certification decision:
 | P01/P07 Lesson 8 pages | Some Unit Assessment references displayed backend filenames. | Corrected |
 | TOR Support Box | Some pages contained legacy or corrupted TOR icon text from encoding artifacts. | Corrected |
 | P06 Independent Work | Some pages used older heading labels or visual treatment instead of the approved MLA workflow shell. | Corrected |
-| P07 Checkpoint | Many pages used older checkpoint workflow language and did not explicitly display all required MLA workflow labels. | Corrected |
+| P07 Checkpoint | Many pages used older checkpoint workflow language and did not mirror the ALG1 Unit 1 Lesson 1 opening checkpoint workflow block. | Corrected |
 | P07 Lesson 8 headings | Some pages used older assessment-launch heading language instead of the approved P07 Checkpoint shell label. | Corrected |
 
 ## Corrections Performed
@@ -62,16 +62,20 @@ Final certification decision:
 - Standardized one compact MLA TOR Support Box on every English II P01-P07 page.
 - Removed visible `.gift` filenames and backend file references from student-facing HTML pages.
 - Normalized P06 heading language to `P06 Independent Work`.
-- Normalized P06 shell presentation for independent work pages while preserving English II content.
+- Rebuilt the P06 opening instruction block to match ALG1 Unit 1 Lesson 1:
+  - Complete the work independently in the same notebook used for lesson notes.
+  - Show thinking clearly and answer in complete sentences when explanation is required.
+  - Include the `Important Important` notebook evidence reminder.
+- Normalized P06 shell presentation while preserving English II independent work content below the opening block.
 - Normalized P07 heading language to `P07 Checkpoint`.
-- Added or restored required MLA P07 workflow language where missing:
+- Rebuilt the P07 opening checkpoint workflow block to match ALG1 Unit 1 Lesson 1:
   - Teacher of Record Graded
   - Notebook Evidence Submission
   - Checkpoint Submission
   - Submission Workflow
   - 80% mastery language
   - Resubmission language
-  - TOR intervention language
+- Removed older duplicate P07 workflow cards that conflicted with the ALG1 opening workflow model.
 - Preserved existing English II checkpoint tasks, independent work tasks, lesson passages, standards references, and instructional content.
 
 ## Shell Compliance Results
@@ -84,7 +88,9 @@ Final certification decision:
 | P04 Worked Example structure retained | PASS |
 | P05 Guided Practice page structure retained | PASS |
 | P06 Independent Work structure present | PASS |
+| P06 ALG1 opening instruction block present | PASS |
 | P07 Checkpoint workflow present | PASS |
+| P07 ALG1 opening checkpoint workflow block present | PASS |
 | One TOR Support Box per page | PASS |
 | Unauthorized learner pathways absent | PASS |
 | No visible backend references | PASS |
