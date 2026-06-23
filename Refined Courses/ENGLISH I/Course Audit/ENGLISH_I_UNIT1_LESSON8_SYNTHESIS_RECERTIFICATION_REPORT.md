@@ -18,6 +18,15 @@ The rebuilt Lesson 8 now functions as a true synthesis lesson. Students must com
 | P06.html | Rebuilt Independent Work using the approved ALG1 P06 structural model with passage, Part A, Part B, and Part C. |
 | P07.html | Rebuilt Checkpoint using the approved ALG1 P07 structural model with Teacher of Record grading, Notebook Evidence Submission, Checkpoint Submission, mastery criteria, 80% requirement, resubmission, and TOR intervention language. |
 
+## P06-P07 Visual Standardization
+
+| Requirement | Result |
+|---|---|
+| P06 visual presentation mirrors ALG1 Unit 1 Lesson 7 P06 | PASS |
+| P07 visual presentation mirrors ALG1 Unit 1 Lesson 7 P07 | PASS |
+| Box colors, border styles, section spacing, visual hierarchy, and typography treatment match the ALG1 visual model | PASS |
+| English I instructional content preserved during visual rebuild | PASS |
+
 ## Architecture Preservation
 
 | Requirement | Result |
@@ -90,4 +99,4 @@ The previous version of Unit 1 Lesson 8 functioned primarily as a review/checkli
 
 English I Unit 1 Lesson 8 Synthesis Recertification:
 
-PASS — UNIT 1 LESSON 8 NOW FUNCTIONS AS A TRUE SYNTHESIS LESSON AND IS APPROVED FOR UNIT ASSESSMENT READINESS
+PASS - UNIT 1 LESSON 8 NOW FUNCTIONS AS A TRUE SYNTHESIS LESSON AND IS APPROVED FOR UNIT ASSESSMENT READINESS
