@@ -1,14 +1,15 @@
-﻿::ALG2_U04_L07_Q01::
+::ALG2_U04_L07_Q01::
 Question ID: ALG2_U04_L07_Q01
 MLA Standard: MLA.A2.LOG.3
 Question:
 A city population of 50000 grows by 2% annually. Which model fits?
 {
-= P(t)=50000(1.02)^t#Correct. Use the initial population and growth factor 1.02.
-~ P(t)=50000(0.98)^t#This models 2% decay.
-~ P(t)=1.02(50000)^t#This reverses the parameters.
-~ P(t)=50000+2t#This is linear.
+=A. P(t)=50000(1.02)^t#Correct. Use the initial population and growth factor 1.02.
+~B. P(t)=50000(0.98)^t#This models 2% decay.
+~C. P(t)=1.02(50000)^t#This reverses the parameters.
+~D. P(t)=50000+2t#This is linear.
 }
+
 
 ::ALG2_U04_L07_Q02::
 Question ID: ALG2_U04_L07_Q02
@@ -16,11 +17,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A car worth 24000 depreciates 14% annually. Which model fits?
 {
-~ V(t)=24000(1.14)^t#This models appreciation.
-= V(t)=24000(0.86)^t#Correct. Losing 14% means 86% remains.
-~ V(t)=0.86(24000)^t#This reverses parameters.
-~ V(t)=24000-14t#This is fixed-dollar decrease.
+~A. V(t)=24000(1.14)^t#This models appreciation.
+=B. V(t)=24000(0.86)^t#Correct. Losing 14% means 86% remains.
+~C. V(t)=0.86(24000)^t#This reverses parameters.
+~D. V(t)=24000-14t#This is fixed-dollar decrease.
 }
+
 
 ::ALG2_U04_L07_Q03::
 Question ID: ALG2_U04_L07_Q03
@@ -28,11 +30,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A sample starts at 64 mg and halves every hour. Which model fits?
 {
-~ A(t)=64(2)^t#This doubles instead of halves.
-~ A(t)=0.5(64)^t#This reverses parameters.
-= A(t)=64(0.5)^t#Correct. Half-life means the amount is multiplied by 0.5 each hour.
-~ A(t)=64-0.5t#This is linear.
+~A. A(t)=64(2)^t#This doubles instead of halves.
+~B. A(t)=0.5(64)^t#This reverses parameters.
+=C. A(t)=64(0.5)^t#Correct. Half-life means the amount is multiplied by 0.5 each hour.
+~D. A(t)=64-0.5t#This is linear.
 }
+
 
 ::ALG2_U04_L07_Q04::
 Question ID: ALG2_U04_L07_Q04
@@ -40,11 +43,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Solve 1000(1.05)^t=2000 for t.
 {
-~ t = log(1.05)/log(2)#This reverses the ratio.
-~ t = 2/1.05#This treats the equation as linear.
-~ t = 1000#This subtracts values rather than solving for time.
-= t = log(2)/log(1.05)#Correct. Divide by 1000 to get 1.05^t=2, then use logarithms.
+~A. t = log(1.05)/log(2)#This reverses the ratio.
+~B. t = 2/1.05#This treats the equation as linear.
+~C. t = 1000#This subtracts values rather than solving for time.
+=D. t = log(2)/log(1.05)#Correct. Divide by 1000 to get 1.05^t=2, then use logarithms.
 }
+
 
 ::ALG2_U04_L07_Q05::
 Question ID: ALG2_U04_L07_Q05
@@ -52,11 +56,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Solve 80(0.75)^t=20 for t.
 {
-= t = log(20/80)/log(0.75)#Correct. Divide by 80, then use logarithms.
-~ t = log(0.75)/log(20/80)#This reverses the ratio.
-~ t = 60/0.75#This treats the model as linear.
-~ t = 20 - 80 - 0.75#This does not solve the exponent.
+=A. t = log(20/80)/log(0.75)#Correct. Divide by 80, then use logarithms.
+~B. t = log(0.75)/log(20/80)#This reverses the ratio.
+~C. t = 60/0.75#This treats the model as linear.
+~D. t = 20 - 80 - 0.75#This does not solve the exponent.
 }
+
 
 ::ALG2_U04_L07_Q06::
 Question ID: ALG2_U04_L07_Q06
@@ -64,11 +69,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 What does the 800 represent in M(t)=800(1.06)^t?
 {
-~ The growth rate#The growth rate is 6%.
-= The initial amount#Correct. At t=0, the model output is 800.
-~ The time#The variable t represents time.
-~ The final amount#The final amount depends on t.
+~A. The growth rate#The growth rate is 6%.
+=B. The initial amount#Correct. At t=0, the model output is 800.
+~C. The time#The variable t represents time.
+~D. The final amount#The final amount depends on t.
 }
+
 
 ::ALG2_U04_L07_Q07::
 Question ID: ALG2_U04_L07_Q07
@@ -76,11 +82,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 What does the 1.06 represent in M(t)=800(1.06)^t?
 {
-~ 106% growth per time period#The amount becomes 106% of previous, which is 6% growth.
-~ 6% decay per time period#A factor greater than 1 is growth.
-= 6% growth per time period#Correct. The factor 1.06 means 100% plus 6%.
-~ Initial amount of 1.06#The initial amount is 800.
+~A. 106% growth per time period#The amount becomes 106% of previous, which is 6% growth.
+~B. 6% decay per time period#A factor greater than 1 is growth.
+=C. 6% growth per time period#Correct. The factor 1.06 means 100% plus 6%.
+~D. Initial amount of 1.06#The initial amount is 800.
 }
+
 
 ::ALG2_U04_L07_Q08::
 Question ID: ALG2_U04_L07_Q08
@@ -88,11 +95,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A model has factor 0.73. What is the decay rate?
 {
-~ 73%#That is the percent remaining.
-~ 0.73%#This confuses factor and percent.
-~ 127%#This does not describe decay.
-= 27%#Correct. If 73% remains, 27% is lost.
+~A. 73%#That is the percent remaining.
+~B. 0.73%#This confuses factor and percent.
+~C. 127%#This does not describe decay.
+=D. 27%#Correct. If 73% remains, 27% is lost.
 }
+
 
 ::ALG2_U04_L07_Q09::
 Question ID: ALG2_U04_L07_Q09
@@ -100,11 +108,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A quantity doubles every 6 hours from 30. Which model uses t in 6-hour periods?
 {
-= A(t)=30(2)^t#Correct. If t counts 6-hour periods, the base is 2.
-~ A(t)=2(30)^t#This reverses parameters.
-~ A(t)=30(6)^t#The 6 describes the time unit, not the factor.
-~ A(t)=30+2t#This is linear.
+=A. A(t)=30(2)^t#Correct. If t counts 6-hour periods, the base is 2.
+~B. A(t)=2(30)^t#This reverses parameters.
+~C. A(t)=30(6)^t#The 6 describes the time unit, not the factor.
+~D. A(t)=30+2t#This is linear.
 }
+
 
 ::ALG2_U04_L07_Q10::
 Question ID: ALG2_U04_L07_Q10
@@ -112,11 +121,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A quantity has half-life 4 days from 100. Which model uses t in 4-day periods?
 {
-~ A(t)=100(2)^t#This doubles instead of halves.
-= A(t)=100(0.5)^t#Correct. Each 4-day period keeps half.
-~ A(t)=0.5(100)^t#This reverses parameters.
-~ A(t)=100-4t#This is linear.
+~A. A(t)=100(2)^t#This doubles instead of halves.
+=B. A(t)=100(0.5)^t#Correct. Each 4-day period keeps half.
+~C. A(t)=0.5(100)^t#This reverses parameters.
+~D. A(t)=100-4t#This is linear.
 }
+
 
 ::ALG2_U04_L07_Q11::
 Question ID: ALG2_U04_L07_Q11
@@ -124,11 +134,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Which answer best interprets t=12 in a growth model?
 {
-~ The final amount is 12 dollars.#The equation solved for time, not amount.
-~ The growth rate is 12%.#The rate is part of the factor, not the solved t.
-= It takes about 12 time periods to reach the target.#Correct. The variable t represents time, so interpretation needs time units.
-~ The initial amount is 12.#The initial amount is the coefficient.
+~A. The final amount is 12 dollars.#The equation solved for time, not amount.
+~B. The growth rate is 12%.#The rate is part of the factor, not the solved t.
+=C. It takes about 12 time periods to reach the target.#Correct. The variable t represents time, so interpretation needs time units.
+~D. The initial amount is 12.#The initial amount is the coefficient.
 }
+
 
 ::ALG2_U04_L07_Q12::
 Question ID: ALG2_U04_L07_Q12
@@ -136,11 +147,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Which model best represents repeated 9% growth from 700?
 {
-~ A(t)=700+9t#This is fixed amount growth.
-~ A(t)=700(0.91)^t#This models 9% decay.
-~ A(t)=1.09(700)^t#This reverses parameters.
-= A(t)=700(1.09)^t#Correct. Repeated percent growth is exponential.
+~A. A(t)=700+9t#This is fixed amount growth.
+~B. A(t)=700(0.91)^t#This models 9% decay.
+~C. A(t)=1.09(700)^t#This reverses parameters.
+=D. A(t)=700(1.09)^t#Correct. Repeated percent growth is exponential.
 }
+
 
 ::ALG2_U04_L07_Q13::
 Question ID: ALG2_U04_L07_Q13
@@ -148,11 +160,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Which model best represents repeated 9% decay from 700?
 {
-= A(t)=700(0.91)^t#Correct. Repeated percent decay uses factor 1 - 0.09 = 0.91.
-~ A(t)=700(1.09)^t#This models growth.
-~ A(t)=700-9t#This subtracts a fixed amount.
-~ A(t)=0.91(700)^t#This reverses parameters.
+=A. A(t)=700(0.91)^t#Correct. Repeated percent decay uses factor 1 - 0.09 = 0.91.
+~B. A(t)=700(1.09)^t#This models growth.
+~C. A(t)=700-9t#This subtracts a fixed amount.
+~D. A(t)=0.91(700)^t#This reverses parameters.
 }
+
 
 ::ALG2_U04_L07_Q14::
 Question ID: ALG2_U04_L07_Q14
@@ -160,11 +173,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 To find when 400(1.08)^t reaches 1000, what is the first algebraic step?
 {
-~ Take log of 400 only.#The whole equation must be handled consistently.
-= Divide both sides by 400.#Correct. This isolates the exponential factor before using logarithms.
-~ Subtract 1.08 from both sides.#The variable is in an exponent, not a linear term.
-~ Divide both sides by t.#The variable is not a factor.
+~A. Take log of 400 only.#The whole equation must be handled consistently.
+=B. Divide both sides by 400.#Correct. This isolates the exponential factor before using logarithms.
+~C. Subtract 1.08 from both sides.#The variable is in an exponent, not a linear term.
+~D. Divide both sides by t.#The variable is not a factor.
 }
+
 
 ::ALG2_U04_L07_Q15::
 Question ID: ALG2_U04_L07_Q15
@@ -172,11 +186,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 To solve 30(0.6)^t=5, why is the solution positive?
 {
-~ The base is greater than 1.#The factor is 0.6, which is less than 1.
-~ The initial amount is smaller than the target.#The initial amount is larger than the target.
-= A factor below 1 needs positive time to decrease from 30 to 5.#Correct. Repeated multiplication by 0.6 decreases the amount over time.
-~ Logarithms always give positive answers.#Logarithms can produce positive or negative values depending on the equation.
+~A. The base is greater than 1.#The factor is 0.6, which is less than 1.
+~B. The initial amount is smaller than the target.#The initial amount is larger than the target.
+=C. A factor below 1 needs positive time to decrease from 30 to 5.#Correct. Repeated multiplication by 0.6 decreases the amount over time.
+~D. Logarithms always give positive answers.#Logarithms can produce positive or negative values depending on the equation.
 }
+
 
 ::ALG2_U04_L07_Q16::
 Question ID: ALG2_U04_L07_Q16
@@ -184,11 +199,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Which situation needs a logarithm to solve directly?
 {
-~ Finding A(3) for A(t)=1000(1.04)^t.#This is direct substitution.
-~ Finding the initial value in A(t)=1000(1.04)^t.#The initial value is visible.
-~ Finding the growth rate from factor 1.04.#This is parameter interpretation.
-= Finding when an account reaches 3000 in A(t)=1000(1.04)^t.#Correct. The unknown is in the exponent.
+~A. Finding A(3) for A(t)=1000(1.04)^t.#This is direct substitution.
+~B. Finding the initial value in A(t)=1000(1.04)^t.#The initial value is visible.
+~C. Finding the growth rate from factor 1.04.#This is parameter interpretation.
+=D. Finding when an account reaches 3000 in A(t)=1000(1.04)^t.#Correct. The unknown is in the exponent.
 }
+
 
 ::ALG2_U04_L07_Q17::
 Question ID: ALG2_U04_L07_Q17
@@ -196,11 +212,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A(t)=50(1.2)^t. What is A(2)?
 {
-= 72#Correct. Compute 50 times 1.2 squared.
-~ 60#This is A(1).
-~ 120#This doubles 60 incorrectly.
-~ 52.4#This adds rather than multiplies.
+=A. 72#Correct. Compute 50 times 1.2 squared.
+~B. 60#This is A(1).
+~C. 120#This doubles 60 incorrectly.
+~D. 52.4#This adds rather than multiplies.
 }
+
 
 ::ALG2_U04_L07_Q18::
 Question ID: ALG2_U04_L07_Q18
@@ -208,11 +225,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 A(t)=80(0.5)^t. What is A(3)?
 {
-~ 40#This is A(1).
-= 10#Correct. Compute 80 times 0.5 cubed.
-~ 20#This is A(2).
-~ 5#This is A(4).
+~A. 40#This is A(1).
+=B. 10#Correct. Compute 80 times 0.5 cubed.
+~C. 20#This is A(2).
+~D. 5#This is A(4).
 }
+
 
 ::ALG2_U04_L07_Q19::
 Question ID: ALG2_U04_L07_Q19
@@ -220,11 +238,12 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Which statement is the best context interpretation for V(t)=18000(0.82)^t?
 {
-~ The value starts at 0.82 and grows to 18000.#This reverses parameters.
-~ The value gains 82% each period.#A factor less than 1 is decay.
-= The value starts at 18000 and loses 18% each time period.#Correct. A factor of 0.82 means 82% remains, so 18% is lost.
-~ The value loses 82 dollars each period.#The change is percent-based, not a fixed dollar amount.
+~A. The value starts at 0.82 and grows to 18000.#This reverses parameters.
+~B. The value gains 82% each period.#A factor less than 1 is decay.
+=C. The value starts at 18000 and loses 18% each time period.#Correct. A factor of 0.82 means 82% remains, so 18% is lost.
+~D. The value loses 82 dollars each period.#The change is percent-based, not a fixed dollar amount.
 }
+
 
 ::ALG2_U04_L07_Q20::
 Question ID: ALG2_U04_L07_Q20
@@ -232,69 +251,9 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 Which statement is the best context interpretation for P(t)=1200(1.15)^t?
 {
-~ The amount starts at 1.15 and grows by 1200.#This reverses parameters.
-~ The amount decays 15% each time period.#A factor greater than 1 is growth.
-~ The amount grows by 15 dollars each period.#The change is percent-based, not fixed dollars.
-= The amount starts at 1200 and grows 15% each time period.#Correct. A factor of 1.15 means 15% growth.
-}
-
-::ALG2_U04_L07_Q21::
-Question ID: ALG2_U04_L07_Q21
-MLA Standard: MLA.A2.LOG.3
-Question:
-If a model output is measured in dollars and t is years, what units should a solved t use?
-{
-= years#Correct. The variable t represents years in the model.
-~ dollars#Dollars are output units, not time units.
-~ percent#Percent describes the rate.
-~ no units#Application answers should include units.
-}
-
-::ALG2_U04_L07_Q22::
-Question ID: ALG2_U04_L07_Q22
-MLA Standard: MLA.A2.LOG.3
-Question:
-Which formula solves a( b )^t=c for t?
-{
-~ t = log(b)/log(c/a)#This reverses the logarithm ratio.
-= t = log(c/a)/log(b)#Correct. Divide by a, then use logarithms.
-~ t = c/(ab)#This treats the model as linear.
-~ t = c - a - b#This uses subtraction instead of inverse operations.
-}
-
-::ALG2_U04_L07_Q23::
-Question ID: ALG2_U04_L07_Q23
-MLA Standard: MLA.A2.LOG.3
-Question:
-A value grows from 50 to 200 with factor 2 each period. How many periods?
-{
-~ 1#One period reaches 100.
-~ 3#Three periods reaches 400.
-= 2#Correct. 50 doubles to 100 and doubles again to 200.
-~ 4#Four periods reaches 800.
-}
-
-::ALG2_U04_L07_Q24::
-Question ID: ALG2_U04_L07_Q24
-MLA Standard: MLA.A2.LOG.3
-Question:
-A value decays from 160 to 20 with factor 0.5 each period. How many periods?
-{
-~ 2#Two periods reaches 40.
-~ 4#Four periods reaches 10.
-~ 8#This is not the number of halvings.
-= 3#Correct. 160 to 80 to 40 to 20 takes three half-life periods.
-}
-
-::ALG2_U04_L07_Q25::
-Question ID: ALG2_U04_L07_Q25
-MLA Standard: MLA.A2.LOG.3
-Question:
-What should final application answers include?
-{
-= A numerical result and contextual interpretation.#Correct. Applications require both calculation and meaning.
-~ Only an equation.#An equation alone does not answer the question.
-~ Only the rate.#The rate may not answer the target question.
-~ Only the graph shape.#Applications usually require a context-specific result.
+~A. The amount starts at 1.15 and grows by 1200.#This reverses parameters.
+~B. The amount decays 15% each time period.#A factor greater than 1 is growth.
+~C. The amount grows by 15 dollars each period.#The change is percent-based, not fixed dollars.
+=D. The amount starts at 1200 and grows 15% each time period.#Correct. A factor of 1.15 means 15% growth.
 }
 

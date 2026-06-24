@@ -1,49 +1,49 @@
-﻿::ALG2_U04_UA_Q01::
+::ALG2_U04_UA_Q01::
 Question ID: ALG2_U04_UA_Q01
 MLA Standard: MLA.A2.EX.1
 Question:
 Which sequence is exponential?
 {
-= 2, 6, 18, 54#Correct. The outputs multiply by 3 each step.
-~ 2, 5, 8, 11#This is linear.
-~ 20, 17, 14, 11#This is linear decrease.
-~ 1, 4, 9, 16#This is not a constant ratio.
+=A. 2, 6, 18, 54 #Correct. The outputs multiply by 3 each step, so the sequence has a constant ratio.
+~B. 2, 5, 8, 11 #This is linear because the terms increase by 3 each step.
+~C. 20, 17, 14, 11 #This is linear decrease because the terms subtract 3 each step.
+~D. 1, 4, 9, 16 #These are square numbers, not terms formed by a constant ratio.
 }
 
 ::ALG2_U04_UA_Q02::
 Question ID: ALG2_U04_UA_Q02
-MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
+MLA Standard: MLA.A2.EX.2
 Question:
 What factor represents 12% growth?
 {
-~ 0.12#This is only the rate.
-= 1.12#Correct. Growth uses 1 + 0.12.
-~ 0.88#This is 12% decay.
-~ 1.88#This is not 12% growth.
+~A. 0.12 #This is only the growth rate, not the growth factor.
+=B. 1.12 #Correct. A 12% increase keeps 100% and adds 12%, so the factor is 1.12.
+~C. 0.88 #This would represent 12% decay, not growth.
+~D. 1.88 #This would represent an 88% increase, not a 12% increase.
 }
 
 ::ALG2_U04_UA_Q03::
 Question ID: ALG2_U04_UA_Q03
-MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
+MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3
 Question:
-A car worth 20000 depreciates 10% annually. Which model fits?
+A car worth 20000 depreciates 10% annually. Which model fits the value after t years?
 {
-~ V(t)=20000(1.10)^t#This is growth.
-~ V(t)=0.90(20000)^t#This reverses parameters.
-= V(t)=20000(0.90)^t#Correct. Losing 10% means 90% remains.
-~ V(t)=20000-10t#This is fixed decrease.
+~A. V(t)=20000(1.10)^t #This models growth because the factor is greater than 1.
+~B. V(t)=0.90(20000)^t #This reverses the initial value and decay factor.
+=C. V(t)=20000(0.90)^t #Correct. Losing 10% means 90% of the value remains each year.
+~D. V(t)=20000-10t #This is a fixed linear decrease, not percent decay.
 }
 
 ::ALG2_U04_UA_Q04::
 Question ID: ALG2_U04_UA_Q04
-MLA Standard: MLA.A2.LOG.2
+MLA Standard: MLA.A2.LOG.1
 Question:
 What is log_3(81)?
 {
-~ 3#3 cubed is 27.
-~ 9#3 to the ninth is too large.
-~ 27#This is not the exponent.
-= 4#Correct. 3 to the fourth power is 81.
+~A. 3 #3 cubed is 27, not 81.
+~B. 9 #3 to the ninth power is much larger than 81.
+~C. 27 #This gives a power value, not the exponent.
+=D. 4 #Correct. 3 to the fourth power is 81.
 }
 
 ::ALG2_U04_UA_Q05::
@@ -52,10 +52,10 @@ MLA Standard: MLA.A2.LOG.4
 Question:
 Expand log_2(ab).
 {
-= log_2(a)+log_2(b)#Correct. Use the product property.
-~ log_2(a)-log_2(b)#This is quotient.
-~ log_2(a+b)#No sum property.
-~ log_2(a/b)#This is quotient.
+=A. log_2(a)+log_2(b) #Correct. The product property changes multiplication inside the log into addition.
+~B. log_2(a)-log_2(b) #This is the quotient property, not the product property.
+~C. log_2(a+b) #There is no logarithm property that separates addition inside the log this way.
+~D. log_2(a/b) #This represents a quotient, not the product ab.
 }
 
 ::ALG2_U04_UA_Q06::
@@ -64,417 +64,416 @@ MLA Standard: MLA.A2.LOG.1
 Question:
 Solve log_2(x)=5.
 {
-~ x=10#This multiplies the base and exponent instead of rewriting the logarithm as an exponential equation.
-= x=32#Correct. Rewrite as x=2^5.
-~ x=7#This adds the base and exponent, but logarithms ask for the exponent that produces the input.
-~ x=3#This subtracts from the exponent, but the equation should be rewritten as x=2^5.
+~A. x=10 #This multiplies the base and exponent instead of rewriting the logarithm.
+=B. x=32 #Correct. log_2(x)=5 means 2^5=x, so x=32.
+~C. x=7 #This adds the base and exponent, but a logarithm asks for a power.
+~D. x=3 #This subtracts from the exponent and does not satisfy the logarithmic equation.
 }
 
 ::ALG2_U04_UA_Q07::
 Question ID: ALG2_U04_UA_Q07
-MLA Standard: MLA.A2.LOG.3
+MLA Standard: MLA.A2.LOG.2; MLA.A2.FM.4
 Question:
-Solve 600(1.04)^t=900 for t.
+Solve 600(1.04)^t=900 for t. Which value is closest?
 {
-~ t=log(1.04)/log(900/600)#This reverses the ratio.
-~ t=900/600/1.04#This is linear thinking.
-= t=log(900/600)/log(1.04)#Correct. Divide by 600, then use logs.
-~ t=900-600-1.04#This is not exponential solving.
+~A. 4.00 #This is too small because 4% growth for 4 years does not increase 600 to 900.
+~B. 7.50 #This underestimates the number of years needed.
+=C. 10.34 #Correct. Divide by 600, then use logarithms: t=log(1.5)/log(1.04), about 10.34.
+~D. 15.00 #This is too large for the equation.
 }
 
 ::ALG2_U04_UA_Q08::
 Question ID: ALG2_U04_UA_Q08
-MLA Standard: Unit 4 standards synthesis; no new primary MLA standard
+MLA Standard: MLA.A2.LOG.3
 Question:
 What is the inverse of y=10^x?
 {
-~ y=x^10#This is a power function.
-~ y=10x#This is linear.
-~ y=x/10#This is linear division.
-= y=log_10(x)#Correct. A base-10 logarithm reverses the exponential.
+~A. y=10x #This changes the exponential function into a linear function.
+~B. y=x^10 #This is a power function, not the inverse of an exponential function.
+=C. y=log_10(x) #Correct. The inverse of base-10 exponential growth is the base-10 logarithm.
+~D. y=10/x #This reciprocal expression is not an inverse logarithmic relationship.
 }
 
 ::ALG2_U04_UA_Q09::
 Question ID: ALG2_U04_UA_Q09
 MLA Standard: MLA.A2.EX.1
 Question:
-Which sequence is exponential?
+A geometric sequence has first term 5 and common ratio 3. Which explicit rule gives the nth term?
 {
-= 2, 6, 18, 54#Correct. The outputs multiply by 3 each step.
-~ 2, 5, 8, 11#This is linear.
-~ 20, 17, 14, 11#This is linear decrease.
-~ 1, 4, 9, 16#This is not a constant ratio.
+~A. a_n=5+3n #This is linear because it adds a constant amount.
+=B. a_n=5(3)^(n-1) #Correct. A geometric explicit rule uses first term times common ratio to the n-1 power.
+~C. a_n=3(5)^(n-1) #This reverses the first term and the common ratio.
+~D. a_n=5n^3 #This is a power function, not a geometric sequence rule.
 }
 
 ::ALG2_U04_UA_Q10::
 Question ID: ALG2_U04_UA_Q10
-MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
+MLA Standard: MLA.A2.EX.2
 Question:
-What factor represents 12% growth?
+What factor represents an 18% decrease?
 {
-~ 0.12#This is only the rate.
-= 1.12#Correct. Growth uses 1 + 0.12.
-~ 0.88#This is 12% decay.
-~ 1.88#This is not 12% growth.
+~A. 1.18 #This represents an 18% increase.
+~B. 0.18 #This is the rate of decrease, not the amount that remains.
+=C. 0.82 #Correct. A decrease of 18% leaves 82%, so the factor is 0.82.
+~D. 1.82 #This represents an 82% increase.
 }
 
 ::ALG2_U04_UA_Q11::
 Question ID: ALG2_U04_UA_Q11
-MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
+MLA Standard: MLA.A2.FM.2
 Question:
-A car worth 20000 depreciates 10% annually. Which model fits?
+A population starts at 2500 and grows by 6% each year. Which expression gives the population after 3 years?
 {
-~ V(t)=20000(1.10)^t#This is growth.
-~ V(t)=0.90(20000)^t#This reverses parameters.
-= V(t)=20000(0.90)^t#Correct. Losing 10% means 90% remains.
-~ V(t)=20000-10t#This is fixed decrease.
+~A. 2500(0.06)^3 #This uses the rate alone instead of the growth factor.
+=B. 2500(1.06)^3 #Correct. The initial amount is multiplied by the 6% growth factor for 3 years.
+~C. 2500+6(3) #This treats percent growth as a fixed addition.
+~D. 2500(0.94)^3 #This models 6% decay, not growth.
 }
 
 ::ALG2_U04_UA_Q12::
 Question ID: ALG2_U04_UA_Q12
-MLA Standard: MLA.A2.LOG.2
+MLA Standard: MLA.A2.LOG.1
 Question:
-What is log_3(81)?
+Which exponential equation is equivalent to log_5(125)=3?
 {
-~ 3#3 cubed is 27.
-~ 9#3 to the ninth is too large.
-~ 27#This is not the exponent.
-= 4#Correct. 3 to the fourth power is 81.
+=A. 5^3=125 #Correct. A logarithm states the exponent needed on the base to produce the input.
+~B. 3^5=125 #This switches the base and exponent.
+~C. 125^5=3 #This uses the input as the base.
+~D. 5(125)=3 #This treats the logarithm as multiplication.
 }
 
 ::ALG2_U04_UA_Q13::
 Question ID: ALG2_U04_UA_Q13
-MLA Standard: MLA.A2.LOG.4
+MLA Standard: MLA.A2.EX.3
 Question:
-Expand log_2(ab).
+Solve 3^x=81.
 {
-= log_2(a)+log_2(b)#Correct. Use the product property.
-~ log_2(a)-log_2(b)#This is quotient.
-~ log_2(a+b)#No sum property.
-~ log_2(a/b)#This is quotient.
+~A. x=3 #3^3 is 27, not 81.
+=B. x=4 #Correct. 3^4 equals 81.
+~C. x=9 #3^9 is far larger than 81.
+~D. x=27 #This is a power value, not the exponent.
 }
 
 ::ALG2_U04_UA_Q14::
 Question ID: ALG2_U04_UA_Q14
-MLA Standard: MLA.A2.LOG.1
+MLA Standard: MLA.A2.LOG.4
 Question:
-Solve log_2(x)=5.
+Which expression is equivalent to log(4x)?
 {
-~ x=10#This multiplies the base and exponent instead of rewriting the logarithm as an exponential equation.
-= x=32#Correct. Rewrite as x=2^5.
-~ x=7#This adds the base and exponent, but logarithms ask for the exponent that produces the input.
-~ x=3#This subtracts from the exponent, but the equation should be rewritten as x=2^5.
+~A. log(4)-log(x) #Subtraction is used for division inside a logarithm.
+=B. log(4)+log(x) #Correct. The product property separates multiplication into addition.
+~C. 4log(x) #The coefficient 4 would come from a power, not multiplication by 4.
+~D. log(4+x) #A logarithm of a sum cannot be separated this way.
 }
 
 ::ALG2_U04_UA_Q15::
 Question ID: ALG2_U04_UA_Q15
-MLA Standard: MLA.A2.LOG.3
+MLA Standard: MLA.A2.LOG.4
 Question:
-Solve 600(1.04)^t=900 for t.
+Which expression is equivalent to log(a/b)?
 {
-~ t=log(1.04)/log(900/600)#This reverses the ratio.
-~ t=900/600/1.04#This is linear thinking.
-= t=log(900/600)/log(1.04)#Correct. Divide by 600, then use logs.
-~ t=900-600-1.04#This is not exponential solving.
+~A. log(a)+log(b) #Addition is used for multiplication inside the logarithm.
+=B. log(a)-log(b) #Correct. The quotient property changes division into subtraction.
+~C. log(a)-b #The entire denominator must remain inside a logarithm.
+~D. a-log(b) #The numerator must also remain inside a logarithm.
 }
 
 ::ALG2_U04_UA_Q16::
 Question ID: ALG2_U04_UA_Q16
-MLA Standard: Unit 4 standards synthesis; no new primary MLA standard
+MLA Standard: MLA.A2.LOG.4
 Question:
-What is the inverse of y=10^x?
+Which expression is equivalent to log(x^3)?
 {
-~ y=x^10#This is a power function.
-~ y=10x#This is linear.
-~ y=x/10#This is linear division.
-= y=log_10(x)#Correct. A base-10 logarithm reverses the exponential.
+~A. log(x)+3 #The exponent becomes a multiplier, not an added term.
+~B. log(3x) #This changes the power into multiplication by 3.
+=C. 3log(x) #Correct. The power property moves the exponent to the front.
+~D. log(x)/3 #This would divide the logarithm instead of applying the exponent.
 }
 
 ::ALG2_U04_UA_Q17::
 Question ID: ALG2_U04_UA_Q17
-MLA Standard: MLA.A2.EX.1
+MLA Standard: MLA.A2.LOG.1
 Question:
-Which sequence is exponential?
+What is log(1000) when the base is 10?
 {
-= 2, 6, 18, 54#Correct. The outputs multiply by 3 each step.
-~ 2, 5, 8, 11#This is linear.
-~ 20, 17, 14, 11#This is linear decrease.
-~ 1, 4, 9, 16#This is not a constant ratio.
+~A. 2 #10^2 is 100, not 1000.
+=B. 3 #Correct. 10^3 equals 1000.
+~C. 10 #10 is the base, not the exponent.
+~D. 100 #This is not the exponent that produces 1000.
 }
 
 ::ALG2_U04_UA_Q18::
 Question ID: ALG2_U04_UA_Q18
-MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
+MLA Standard: MLA.A2.LOG.2
 Question:
-What factor represents 12% growth?
+What is the domain of y=log(x-4)?
 {
-~ 0.12#This is only the rate.
-= 1.12#Correct. Growth uses 1 + 0.12.
-~ 0.88#This is 12% decay.
-~ 1.88#This is not 12% growth.
+~A. all real numbers #The logarithm input must be positive.
+~B. x is less than 4 #This makes x-4 negative, which is not allowed for a real logarithm.
+=C. x is greater than 4 #Correct. The input x-4 must be positive.
+~D. x equals 4 only #At x=4, the logarithm input is zero, which is not allowed.
 }
 
 ::ALG2_U04_UA_Q19::
 Question ID: ALG2_U04_UA_Q19
-MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
+MLA Standard: MLA.A2.EX.1
 Question:
-A car worth 20000 depreciates 10% annually. Which model fits?
+Which table could represent an exponential function?
 {
-~ V(t)=20000(1.10)^t#This is growth.
-~ V(t)=0.90(20000)^t#This reverses parameters.
-= V(t)=20000(0.90)^t#Correct. Losing 10% means 90% remains.
-~ V(t)=20000-10t#This is fixed decrease.
+~A. x: 0,1,2,3 and y: 2,4,6,8 #The outputs increase by a constant difference, so this is linear.
+=B. x: 0,1,2,3 and y: 3,6,12,24 #Correct. The outputs multiply by 2 each step.
+~C. x: 0,1,2,3 and y: 9,7,5,3 #The outputs decrease by a constant difference.
+~D. x: 0,1,2,3 and y: 1,4,9,16 #These values do not have a constant ratio.
 }
 
 ::ALG2_U04_UA_Q20::
 Question ID: ALG2_U04_UA_Q20
-MLA Standard: MLA.A2.LOG.2
+MLA Standard: MLA.A2.FM.3
 Question:
-What is log_3(81)?
+A medicine amount halves every hour. If the starting amount is 80 mg, which model gives the amount after t hours?
 {
-~ 3#3 cubed is 27.
-~ 9#3 to the ninth is too large.
-~ 27#This is not the exponent.
-= 4#Correct. 3 to the fourth power is 81.
+~A. A(t)=80(2)^t #This doubles instead of halves.
+=B. A(t)=80(0.5)^t #Correct. Each hour keeps one-half of the previous amount.
+~C. A(t)=0.5(80)^t #This reverses the initial amount and decay factor.
+~D. A(t)=80-0.5t #This is linear, not half-life decay.
 }
 
 ::ALG2_U04_UA_Q21::
 Question ID: ALG2_U04_UA_Q21
-MLA Standard: MLA.A2.LOG.4
+MLA Standard: MLA.A2.EX.2
 Question:
-Expand log_2(ab).
+In the model y=7(1.25)^x, what does 7 represent?
 {
-= log_2(a)+log_2(b)#Correct. Use the product property.
-~ log_2(a)-log_2(b)#This is quotient.
-~ log_2(a+b)#No sum property.
-~ log_2(a/b)#This is quotient.
+=A. the initial value #Correct. When x=0, the exponential factor is 1, so y=7.
+~B. the growth factor #The growth factor is 1.25.
+~C. the growth rate #The growth rate is 25%.
+~D. the exponent #The exponent is x.
 }
 
 ::ALG2_U04_UA_Q22::
 Question ID: ALG2_U04_UA_Q22
-MLA Standard: MLA.A2.LOG.1
+MLA Standard: MLA.A2.EX.2
 Question:
-Solve log_2(x)=5.
+In the model y=7(1.25)^x, what is the growth rate?
 {
-~ x=10#This multiplies the base and exponent instead of rewriting the logarithm as an exponential equation.
-= x=32#Correct. Rewrite as x=2^5.
-~ x=7#This adds the base and exponent, but logarithms ask for the exponent that produces the input.
-~ x=3#This subtracts from the exponent, but the equation should be rewritten as x=2^5.
+~A. 7% #The 7 is the initial value, not the growth rate.
+~B. 1.25% #The factor 1.25 means 125% of the previous value, not 1.25%.
+=C. 25% #Correct. A factor of 1.25 means the quantity increases by 25%.
+~D. 125% #125% is the amount after growth, not the increase beyond the original.
 }
 
 ::ALG2_U04_UA_Q23::
 Question ID: ALG2_U04_UA_Q23
-MLA Standard: MLA.A2.LOG.3
+MLA Standard: MLA.A2.EX.3
 Question:
-Solve 600(1.04)^t=900 for t.
+What is the horizontal asymptote of y=2^x-3?
 {
-~ t=log(1.04)/log(900/600)#This reverses the ratio.
-~ t=900/600/1.04#This is linear thinking.
-= t=log(900/600)/log(1.04)#Correct. Divide by 600, then use logs.
-~ t=900-600-1.04#This is not exponential solving.
+~A. y=0 #This is the parent function asymptote before shifting down.
+=B. y=-3 #Correct. Subtracting 3 shifts the horizontal asymptote from y=0 to y=-3.
+~C. x=-3 #The asymptote is horizontal, so it must be written as y equals a number.
+~D. y=2 #The base 2 does not determine the horizontal asymptote.
 }
 
 ::ALG2_U04_UA_Q24::
 Question ID: ALG2_U04_UA_Q24
-MLA Standard: Unit 4 standards synthesis; no new primary MLA standard
+MLA Standard: MLA.A2.EX.3
 Question:
-What is the inverse of y=10^x?
+How is y=2^(x-1)+4 transformed from y=2^x?
 {
-~ y=x^10#This is a power function.
-~ y=10x#This is linear.
-~ y=x/10#This is linear division.
-= y=log_10(x)#Correct. A base-10 logarithm reverses the exponential.
+~A. left 1 and up 4 #The expression x-1 shifts the graph right, not left.
+=B. right 1 and up 4 #Correct. x-1 shifts right 1, and +4 shifts up 4.
+~C. right 4 and up 1 #The horizontal and vertical shifts are reversed.
+~D. down 1 and right 4 #The +4 shifts upward, not downward.
 }
 
 ::ALG2_U04_UA_Q25::
 Question ID: ALG2_U04_UA_Q25
-MLA Standard: MLA.A2.EX.1
+MLA Standard: MLA.A2.EX.3
 Question:
-Which sequence is exponential?
+Solve 2^(x+1)=16.
 {
-= 2, 6, 18, 54#Correct. The outputs multiply by 3 each step.
-~ 2, 5, 8, 11#This is linear.
-~ 20, 17, 14, 11#This is linear decrease.
-~ 1, 4, 9, 16#This is not a constant ratio.
+~A. x=2 #Then 2^(3)=8, not 16.
+=B. x=3 #Correct. Since 16=2^4, x+1=4, so x=3.
+~C. x=4 #This forgets to subtract 1 after matching exponents.
+~D. x=5 #This makes the exponent too large.
 }
 
 ::ALG2_U04_UA_Q26::
 Question ID: ALG2_U04_UA_Q26
-MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
+MLA Standard: MLA.A2.LOG.2
 Question:
-What factor represents 12% growth?
+Solve log_3(x-1)=2.
 {
-~ 0.12#This is only the rate.
-= 1.12#Correct. Growth uses 1 + 0.12.
-~ 0.88#This is 12% decay.
-~ 1.88#This is not 12% growth.
+~A. x=5 #This would make x-1 equal 4, not 9.
+~B. x=8 #This would make x-1 equal 7, not 9.
+=C. x=10 #Correct. Rewrite as x-1=3^2, so x=10.
+~D. x=12 #This makes x-1 equal 11, not 9.
 }
 
 ::ALG2_U04_UA_Q27::
 Question ID: ALG2_U04_UA_Q27
-MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
+MLA Standard: MLA.A2.LOG.3
 Question:
-A car worth 20000 depreciates 10% annually. Which model fits?
+If e^x=7, which equation gives x?
 {
-~ V(t)=20000(1.10)^t#This is growth.
-~ V(t)=0.90(20000)^t#This reverses parameters.
-= V(t)=20000(0.90)^t#Correct. Losing 10% means 90% remains.
-~ V(t)=20000-10t#This is fixed decrease.
+~A. x=7e #This treats the exponential equation as multiplication.
+~B. x=e/7 #This uses division and does not undo e^x.
+=C. x=ln(7) #Correct. The natural logarithm is the inverse of e^x.
+~D. x=ln(e)+7 #This adds 7 instead of applying the inverse function to 7.
 }
 
 ::ALG2_U04_UA_Q28::
 Question ID: ALG2_U04_UA_Q28
-MLA Standard: MLA.A2.LOG.2
+MLA Standard: MLA.A2.FM.4
 Question:
-What is log_3(81)?
+Two accounts start with the same balance. Account A grows by 8% each year and Account B grows by 5% each year. Which statement is true?
 {
-~ 3#3 cubed is 27.
-~ 9#3 to the ninth is too large.
-~ 27#This is not the exponent.
-= 4#Correct. 3 to the fourth power is 81.
+=A. Account A grows faster because its growth factor is 1.08. #Correct. A larger growth factor produces faster exponential growth.
+~B. Account B grows faster because 5 is less than 8. #A smaller percent growth rate does not grow faster.
+~C. The accounts always stay equal because they start equal. #Different growth factors make the balances separate over time.
+~D. Account A decreases because 1.08 is close to 1. #A factor above 1 represents growth, not decrease.
 }
 
 ::ALG2_U04_UA_Q29::
 Question ID: ALG2_U04_UA_Q29
-MLA Standard: MLA.A2.LOG.4
+MLA Standard: MLA.A2.EX.2
 Question:
-Expand log_2(ab).
+A model uses the factor 0.73 each year. What percent decrease does this represent?
 {
-= log_2(a)+log_2(b)#Correct. Use the product property.
-~ log_2(a)-log_2(b)#This is quotient.
-~ log_2(a+b)#No sum property.
-~ log_2(a/b)#This is quotient.
+~A. 73% decrease #0.73 is the percent remaining, not the percent lost.
+=B. 27% decrease #Correct. If 73% remains, then 27% is lost.
+~C. 0.73% decrease #This misreads the decimal factor as the percent decrease.
+~D. 127% decrease #This incorrectly adds 100% instead of subtracting from 100%.
 }
 
 ::ALG2_U04_UA_Q30::
 Question ID: ALG2_U04_UA_Q30
-MLA Standard: MLA.A2.LOG.1
+MLA Standard: MLA.A2.FM.2
 Question:
-Solve log_2(x)=5.
+Which model best represents a starting amount of 120 that triples every month?
 {
-~ x=10#This multiplies the base and exponent instead of rewriting the logarithm as an exponential equation.
-= x=32#Correct. Rewrite as x=2^5.
-~ x=7#This adds the base and exponent, but logarithms ask for the exponent that produces the input.
-~ x=3#This subtracts from the exponent, but the equation should be rewritten as x=2^5.
+~A. y=3(120)^x #This reverses the initial value and growth factor.
+=B. y=120(3)^x #Correct. The initial amount is 120 and the repeated multiplier is 3.
+~C. y=120+3x #This is linear growth by adding 3 each month.
+~D. y=120(0.3)^x #This models decay, not tripling.
 }
 
 ::ALG2_U04_UA_Q31::
 Question ID: ALG2_U04_UA_Q31
-MLA Standard: MLA.A2.LOG.3
+MLA Standard: MLA.A2.LOG.4
 Question:
-Solve 600(1.04)^t=900 for t.
+Condense log(x)+log(5).
 {
-~ t=log(1.04)/log(900/600)#This reverses the ratio.
-~ t=900/600/1.04#This is linear thinking.
-= t=log(900/600)/log(1.04)#Correct. Divide by 600, then use logs.
-~ t=900-600-1.04#This is not exponential solving.
+~A. log(x+5) #There is no sum property for logarithms.
+=B. log(5x) #Correct. Adding logarithms with the same base condenses to the log of a product.
+~C. log(x/5) #This would come from subtracting log(5).
+~D. 5log(x) #A coefficient comes from a power, not adding log(5).
 }
 
 ::ALG2_U04_UA_Q32::
 Question ID: ALG2_U04_UA_Q32
-MLA Standard: Unit 4 standards synthesis; no new primary MLA standard
+MLA Standard: MLA.A2.EX.3
 Question:
-What is the inverse of y=10^x?
+Solve 4(2^x)=64.
 {
-~ y=x^10#This is a power function.
-~ y=10x#This is linear.
-~ y=x/10#This is linear division.
-= y=log_10(x)#Correct. A base-10 logarithm reverses the exponential.
+~A. x=2 #Then 4(2^2)=16, not 64.
+=B. x=4 #Correct. Divide by 4 to get 2^x=16, so x=4.
+~C. x=6 #This does not account correctly for the coefficient 4.
+~D. x=16 #This gives the power value instead of the exponent.
 }
 
 ::ALG2_U04_UA_Q33::
 Question ID: ALG2_U04_UA_Q33
-MLA Standard: MLA.A2.EX.1
+MLA Standard: MLA.A2.EX.3
 Question:
-Which sequence is exponential?
+Solve 5(3^x)=135.
 {
-= 2, 6, 18, 54#Correct. The outputs multiply by 3 each step.
-~ 2, 5, 8, 11#This is linear.
-~ 20, 17, 14, 11#This is linear decrease.
-~ 1, 4, 9, 16#This is not a constant ratio.
+~A. x=2 #Then 5(9)=45, not 135.
+=B. x=3 #Correct. Divide by 5 to get 3^x=27, so x=3.
+~C. x=5 #This makes the exponential term too large.
+~D. x=27 #This is the power value, not the exponent.
 }
 
 ::ALG2_U04_UA_Q34::
 Question ID: ALG2_U04_UA_Q34
-MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
+MLA Standard: MLA.A2.LOG.2
 Question:
-What factor represents 12% growth?
+Which step should be completed first when solving log_2(x+3)=4?
 {
-~ 0.12#This is only the rate.
-= 1.12#Correct. Growth uses 1 + 0.12.
-~ 0.88#This is 12% decay.
-~ 1.88#This is not 12% growth.
+~A. subtract 4 from both sides #This does not use the inverse relationship.
+=B. rewrite as x+3=2^4 #Correct. Convert the logarithmic equation into exponential form.
+~C. multiply x+3 by 2 #The base is not a multiplier outside the logarithm.
+~D. divide both sides by 2 #The base does not divide the equation this way.
 }
 
 ::ALG2_U04_UA_Q35::
 Question ID: ALG2_U04_UA_Q35
-MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
+MLA Standard: MLA.A2.FM.3
 Question:
-A car worth 20000 depreciates 10% annually. Which model fits?
+A bacteria culture begins with 400 cells and doubles every 6 hours. Which expression gives the amount after 18 hours?
 {
-~ V(t)=20000(1.10)^t#This is growth.
-~ V(t)=0.90(20000)^t#This reverses parameters.
-= V(t)=20000(0.90)^t#Correct. Losing 10% means 90% remains.
-~ V(t)=20000-10t#This is fixed decrease.
+~A. 400(2)^18 #This treats every hour as a doubling period.
+=B. 400(2)^3 #Correct. 18 hours contains three 6-hour doubling periods.
+~C. 400(6)^2 #This uses the time interval as the growth factor.
+~D. 400+2(18) #This is linear addition, not exponential doubling.
 }
 
 ::ALG2_U04_UA_Q36::
 Question ID: ALG2_U04_UA_Q36
-MLA Standard: MLA.A2.LOG.2
+MLA Standard: MLA.A2.LOG.3
 Question:
-What is log_3(81)?
+Why are logarithms useful when solving exponential equations with unlike bases?
 {
-~ 3#3 cubed is 27.
-~ 9#3 to the ninth is too large.
-~ 27#This is not the exponent.
-= 4#Correct. 3 to the fourth power is 81.
+~A. They make all exponents equal to zero. #Logarithms do not automatically make exponents zero.
+~B. They remove the need to isolate the variable. #The variable still must be isolated after applying logarithms.
+=C. They allow the variable exponent to be brought into a solvable expression. #Correct. Log properties can move the exponent so it can be solved.
+~D. They change exponential growth into linear growth in the original context. #They help solve the equation but do not change the real situation.
 }
 
 ::ALG2_U04_UA_Q37::
 Question ID: ALG2_U04_UA_Q37
-MLA Standard: MLA.A2.LOG.4
+MLA Standard: MLA.A2.EX.1
 Question:
-Expand log_2(ab).
+The sequence 4, 12, 36, 108 is geometric. What is the common ratio?
 {
-= log_2(a)+log_2(b)#Correct. Use the product property.
-~ log_2(a)-log_2(b)#This is quotient.
-~ log_2(a+b)#No sum property.
-~ log_2(a/b)#This is quotient.
+~A. 4 #This is the first term, not the multiplier between terms.
+=B. 3 #Correct. Each term is multiplied by 3 to get the next term.
+~C. 8 #This is the difference between the first two terms, not the ratio.
+~D. 12 #This is the second term, not the common ratio.
 }
 
 ::ALG2_U04_UA_Q38::
 Question ID: ALG2_U04_UA_Q38
-MLA Standard: MLA.A2.LOG.1
+MLA Standard: MLA.A2.EX.2
 Question:
-Solve log_2(x)=5.
+In y=3(0.6)^x, what does the factor 0.6 show?
 {
-~ x=10#This multiplies the base and exponent instead of rewriting the logarithm as an exponential equation.
-= x=32#Correct. Rewrite as x=2^5.
-~ x=7#This adds the base and exponent, but logarithms ask for the exponent that produces the input.
-~ x=3#This subtracts from the exponent, but the equation should be rewritten as x=2^5.
+~A. The model grows by 60%. #A factor below 1 represents decay, not growth.
+=B. The output keeps 60% of its previous value each step. #Correct. Multiplying by 0.6 means 60% remains each step.
+~C. The initial value is 0.6. #The initial value is 3.
+~D. The exponent is always 0.6. #The exponent is x, not 0.6.
 }
 
 ::ALG2_U04_UA_Q39::
 Question ID: ALG2_U04_UA_Q39
-MLA Standard: MLA.A2.LOG.3
+MLA Standard: MLA.A2.FM.4
 Question:
-Solve 600(1.04)^t=900 for t.
+A student models a rumor spreading with R(t)=15(1.4)^t. Which interpretation is correct?
 {
-~ t=log(1.04)/log(900/600)#This reverses the ratio.
-~ t=900/600/1.04#This is linear thinking.
-= t=log(900/600)/log(1.04)#Correct. Divide by 600, then use logs.
-~ t=900-600-1.04#This is not exponential solving.
+~A. The rumor reaches 15 new people every time period. #That would describe fixed linear change.
+=B. The rumor starts with 15 people and grows by 40% each time period. #Correct. The initial value is 15 and the growth factor 1.4 means 40% growth.
+~C. The rumor decreases by 40% each time period. #A factor greater than 1 represents growth.
+~D. The model has no initial value. #The coefficient 15 is the initial value.
 }
 
 ::ALG2_U04_UA_Q40::
 Question ID: ALG2_U04_UA_Q40
-MLA Standard: Unit 4 standards synthesis; no new primary MLA standard
+MLA Standard: MLA.A2.EX.3; MLA.A2.LOG.2; MLA.A2.FM.4
 Question:
-What is the inverse of y=10^x?
+A savings account is modeled by A(t)=800(1.05)^t. Which process correctly finds when the account reaches 1200?
 {
-~ y=x^10#This is a power function.
-~ y=10x#This is linear.
-~ y=x/10#This is linear division.
-= y=log_10(x)#Correct. A base-10 logarithm reverses the exponential.
+~A. multiply 800 and 1.05, then divide by 1200 #This ignores that t is an exponent.
+~B. subtract 800 from 1200, then divide by 1.05 #This treats the model as linear.
+=C. divide by 800, then use logarithms to solve (1.05)^t=1.5 #Correct. Isolate the exponential factor before applying logarithms.
+~D. set t=1200 because the target balance is 1200 #The variable t represents time, not the balance.
 }
-

@@ -1,30 +1,30 @@
 {
-  "course": "GEO",
-  "unit": "Unit 01",
-  "lesson": "Lesson 07",
-  "title": "Quiz: Valid Arguments, Counterexamples, and Introductory Proof",
-  "primaryStandards": [
-    {
-      "code": "MLA.GEO.RP.1",
-      "description": "I can prove and apply relationships involving lines, angles, and angle pairs."
-    },
-    {
-      "code": "MLA.GEO.RP.5",
-      "description": "I can construct valid geometric proofs, including proofs by contradiction."
-    },
-    {
-      "code": "MLA.GEO.RP.6",
-      "description": "I can evaluate arguments and use counterexamples to disprove false statements."
-    }
-  ],
-  "format": "GIFT",
-  "giftFile": "GEO_U01_L07_Quiz.gift",
-  "questionBankSize": 25,
-  "questionsPerAttempt": 5,
-  "masteryThreshold": 80,
-  "attemptPolicy": {
-    "studentAttemptsBeforeIntervention": 1,
-    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
-    "questionReuseRule": "Questions must not repeat exactly across attempts."
-  }
+    "course":  "GEO",
+    "unit":  "Unit 01",
+    "lesson":  "Lesson 07",
+    "title":  "Quiz: Valid Arguments, Counterexamples, and Introductory Proof",
+    "primaryStandards":  [
+                             {
+                                 "code":  "MLA.GEO.RP.1",
+                                 "description":  "I can prove and apply relationships involving lines, angles, and angle pairs."
+                             },
+                             {
+                                 "code":  "MLA.GEO.RP.5",
+                                 "description":  "I can construct valid geometric proofs, including proofs by contradiction."
+                             },
+                             {
+                                 "code":  "MLA.GEO.RP.6",
+                                 "description":  "I can evaluate arguments and use counterexamples to disprove false statements."
+                             }
+                         ],
+    "format":  "GIFT",
+    "giftFile":  "GEO_U01_L07_Quiz.gift",
+    "questionBankSize":  20,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      }
 }
