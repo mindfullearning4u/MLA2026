@@ -146,6 +146,24 @@ Visual implementation uses:
 2. Review the visual pilot in Moodle preview before adopting Unit 2 and Unit 3 as the next production model.
 3. Continue using the Phase 1-first approach before visual implementation in any future math unit.
 
+## Post-Implementation Placement Review
+
+After visual implementation, a page-level placement review was run across all Unit 2 and Unit 3 P01-P07 pages.
+
+Findings corrected:
+
+- P03 Common Mistake / Teachable Explanation content that displayed outside the MLA page container was restored to styled red mistake-support boxes.
+- P07 TOR Intervention language that displayed outside the MLA page container was restored to styled red intervention boxes.
+- Unit 3 Lesson 7 P03 was specifically corrected so the Common Mistake section no longer appears left-aligned outside the lesson content area.
+
+Final placement validation:
+
+- No top-level loose headings, paragraphs, or list elements remain outside page containers.
+- All inserted visual supports remain within the approved page width.
+- Visual marker scope remains correct.
+- No empty visual support placements were detected.
+- Wrapper balance remains valid across Unit 2 and Unit 3 P01-P07 pages.
+
 ## Final Decision
 
 ALG1 Unit 2 and Unit 3 Mathematical Visual Phase 2 Implementation:
