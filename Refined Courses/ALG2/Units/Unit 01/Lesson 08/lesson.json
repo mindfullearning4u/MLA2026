@@ -1,66 +1,66 @@
 {
-  "course": "ALG2",
-  "unit": "Unit 01",
-  "lesson": "Lesson 08",
-  "title": "Putting It All Together",
-  "primaryStandards": [
-    {
-      "code": "Unit 1 standards synthesis",
-      "description": "No new primary MLA standard. Synthesize Unit 1 expression, equation, complex number, polynomial division, higher-degree equation, and modeling skills.",
-      "floridaBenchmark": "Unit 1 benchmarks synthesis; no new primary benchmark"
-    }
-  ],
-  "assessment": "Unit Assessment",
-  "masteryThreshold": 80,
-  "pages": [
-    {
-      "id": "P01",
-      "title": "Putting It All Together Overview",
-      "file": "P01.html"
-    },
-    {
-      "id": "P02",
-      "title": "Notebook Task - Part 1",
-      "file": "P02.html"
-    },
-    {
-      "id": "P03",
-      "title": "Notebook Task - Part 2",
-      "file": "P03.html"
-    },
-    {
-      "id": "P04",
-      "title": "Concept Review and Worked Examples",
-      "file": "P04.html"
-    },
-    {
-      "id": "P05",
-      "title": "Guided Practice",
-      "file": "P05.html"
-    },
-    {
-      "id": "P06",
-      "title": "Independent Work and Submissions",
-      "file": "P06.html"
-    },
-    {
-      "id": "P07",
-      "title": "Unit Assessment",
-      "file": "P07.html"
-    }
-  ],
-  "quiz": {
-    "file": "ALG2_U01_UnitAssessment.gift",
-    "questionsPerAttempt": 40,
-    "bankSize": 40,
-    "attemptPolicy": "unit_assessment_mastery_required",
-    "questionBank": true,
-    "randomizedRetakeRequired": true
-  },
-  "guidedPractice": {
-    "file": "ALG2_U01_L08_GuidedPractice.gift",
-    "questionCount": 5,
-    "graded": false,
-    "feedback": "immediate"
-  }
+    "course":  "ALG2",
+    "unit":  "Unit 01",
+    "lesson":  "Lesson 08",
+    "title":  "Putting It All Together",
+    "primaryStandards":  [
+                             {
+                                 "code":  "Unit 1 standards synthesis",
+                                 "description":  "No new primary MLA standard. Synthesize Unit 1 expression, equation, complex number, polynomial division, higher-degree equation, and modeling skills.",
+                                 "floridaBenchmark":  "Unit 1 benchmarks synthesis; no new primary benchmark"
+                             }
+                         ],
+    "assessment":  "Unit Assessment",
+    "masteryThreshold":  80,
+    "pages":  [
+                  {
+                      "id":  "P01",
+                      "title":  "Putting It All Together Overview",
+                      "file":  "P01.html"
+                  },
+                  {
+                      "id":  "P02",
+                      "title":  "Notebook Task - Part 1",
+                      "file":  "P02.html"
+                  },
+                  {
+                      "id":  "P03",
+                      "title":  "Notebook Task - Part 2",
+                      "file":  "P03.html"
+                  },
+                  {
+                      "id":  "P04",
+                      "title":  "Concept Review and Worked Examples",
+                      "file":  "P04.html"
+                  },
+                  {
+                      "id":  "P05",
+                      "title":  "Guided Practice",
+                      "file":  "P05.html"
+                  },
+                  {
+                      "id":  "P06",
+                      "title":  "Independent Work and Submissions",
+                      "file":  "P06.html"
+                  },
+                  {
+                      "id":  "P07",
+                      "title":  "Checkpoint and Unit Assessment Readiness",
+                      "file":  "P07.html"
+                  }
+              ],
+    "quiz":  {
+                 "file":  "ALG2_U01_UnitAssessment.gift",
+                 "questionsPerAttempt":  40,
+                 "bankSize":  40,
+                 "attemptPolicy":  "unit_assessment_mastery_required",
+                 "questionBank":  true,
+                 "randomizedRetakeRequired":  true
+             },
+    "guidedPractice":  {
+                           "file":  "ALG2_U01_L08_GuidedPractice.gift",
+                           "questionCount":  5,
+                           "graded":  false,
+                           "feedback":  "immediate"
+                       }
 }

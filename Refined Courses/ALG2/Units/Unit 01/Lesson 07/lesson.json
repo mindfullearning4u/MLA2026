@@ -1,66 +1,66 @@
 {
-  "course": "ALG2",
-  "unit": "Unit 01",
-  "lesson": "Lesson 07",
-  "title": "Algebraic Modeling",
-  "primaryStandards": [
-    {
-      "code": "Support-only review",
-      "description": "No new primary MLA standard. Apply Unit 1 expression and equation tools to multi-step Algebra II modeling contexts.",
-      "floridaBenchmark": "Support-only review; no new primary benchmark"
-    }
-  ],
-  "assessment": "Quiz",
-  "masteryThreshold": 80,
-  "pages": [
-    {
-      "id": "P01",
-      "title": "Lesson Overview",
-      "file": "P01.html"
-    },
-    {
-      "id": "P02",
-      "title": "Notebook Task - Part 1",
-      "file": "P02.html"
-    },
-    {
-      "id": "P03",
-      "title": "Notebook Task - Part 2",
-      "file": "P03.html"
-    },
-    {
-      "id": "P04",
-      "title": "Concept Development and Worked Examples",
-      "file": "P04.html"
-    },
-    {
-      "id": "P05",
-      "title": "Guided Practice",
-      "file": "P05.html"
-    },
-    {
-      "id": "P06",
-      "title": "Independent Work and Submissions",
-      "file": "P06.html"
-    },
-    {
-      "id": "P07",
-      "title": "Lesson Quiz",
-      "file": "P07.html"
-    }
-  ],
-  "quiz": {
-    "file": "ALG2_U01_L07_Quiz.gift",
-    "questionsPerAttempt": 5,
-    "bankSize": 25,
-    "attemptPolicy": "one_attempt_then_TOR_intervention_if_below_80",
-    "questionBank": true,
-    "randomizedRetakeRequired": true
-  },
-  "guidedPractice": {
-    "file": "ALG2_U01_L07_GuidedPractice.gift",
-    "questionCount": 5,
-    "graded": false,
-    "feedback": "immediate"
-  }
+    "course":  "ALG2",
+    "unit":  "Unit 01",
+    "lesson":  "Lesson 07",
+    "title":  "Algebraic Modeling",
+    "primaryStandards":  [
+                             {
+                                 "code":  "Support-only review",
+                                 "description":  "No new primary MLA standard. Apply Unit 1 expression and equation tools to multi-step Algebra II modeling contexts.",
+                                 "floridaBenchmark":  "Support-only review; no new primary benchmark"
+                             }
+                         ],
+    "assessment":  "Quiz",
+    "masteryThreshold":  80,
+    "pages":  [
+                  {
+                      "id":  "P01",
+                      "title":  "Lesson Overview",
+                      "file":  "P01.html"
+                  },
+                  {
+                      "id":  "P02",
+                      "title":  "Notebook Task - Part 1",
+                      "file":  "P02.html"
+                  },
+                  {
+                      "id":  "P03",
+                      "title":  "Notebook Task - Part 2",
+                      "file":  "P03.html"
+                  },
+                  {
+                      "id":  "P04",
+                      "title":  "Concept Development and Worked Examples",
+                      "file":  "P04.html"
+                  },
+                  {
+                      "id":  "P05",
+                      "title":  "Guided Practice",
+                      "file":  "P05.html"
+                  },
+                  {
+                      "id":  "P06",
+                      "title":  "Independent Work and Submissions",
+                      "file":  "P06.html"
+                  },
+                  {
+                      "id":  "P07",
+                      "title":  "Checkpoint",
+                      "file":  "P07.html"
+                  }
+              ],
+    "quiz":  {
+                 "file":  "ALG2_U01_L07_Quiz.gift",
+                 "questionsPerAttempt":  5,
+                 "bankSize":  20,
+                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
+                 "questionBank":  true,
+                 "randomizedRetakeRequired":  true
+             },
+    "guidedPractice":  {
+                           "file":  "ALG2_U01_L07_GuidedPractice.gift",
+                           "questionCount":  5,
+                           "graded":  false,
+                           "feedback":  "immediate"
+                       }
 }
