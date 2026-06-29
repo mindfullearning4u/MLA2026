@@ -1,0 +1,81 @@
+# Assessment GIFT Standard
+
+## Purpose
+
+Assessment files must be ready for Moodle test-bank import and must support mastery through standards-aligned questions and teachable feedback.
+
+## Required Assessment Counts
+
+Default math requirement:
+
+- Guided Practice = 5 questions
+- Lesson Quiz Bank = 20 questions unless course standard says 25
+- Unit Pretest = 10 questions
+- Unit Assessment Bank = 40 questions
+
+If a course-specific standard conflicts, report the conflict and use the current course standard only after confirmation.
+
+## Required File Types
+
+Assessment files must be:
+
+- `.gift`
+- UTF-8
+- plain text
+- Moodle-ready
+- no HTML
+- no rich text
+- no formatting conversion
+
+## Required Question Structure
+
+Each question must include:
+
+- GIFT question marker when used
+- Question ID
+- MLA Standard or approved support-standard note
+- question text
+- exactly four answer choices
+- answer choices labeled A, B, C, D
+- exactly one correct answer
+- feedback for every answer choice
+
+## Feedback Requirement
+
+Feedback must explain:
+
+- why the correct answer is correct
+- what misconception each incorrect answer represents
+- what the student should notice or do next time
+
+Prohibited feedback:
+
+- "Correct."
+- "Incorrect."
+- "Try again."
+- "Good job."
+- one-word feedback
+- feedback that does not teach
+
+## Moodle Safety Requirements
+
+GIFT files must avoid:
+
+- HTML tags
+- malformed braces
+- duplicate answer choices
+- duplicate question stems
+- missing correct answers
+- more than one correct answer
+- unsupported rich formatting
+- backend filenames in question text
+- internal blank lines that create import artifacts
+
+## Assessment Alignment
+
+Each question must align to:
+
+- the lesson objective for Guided Practice and Lesson Quiz
+- the unit mapping for Unit Pretest and Unit Assessment
+- the approved standard or approved support standard note
+
