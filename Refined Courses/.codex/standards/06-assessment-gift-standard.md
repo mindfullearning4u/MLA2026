@@ -79,8 +79,25 @@ GIFT files must avoid:
 
 ## Assessment Alignment
 
-Each question must align to:
+Assessment scope is locked to the approved course source documents. Auditors and builders must verify every assessment question against the course crosswalk, unit mapping, and lesson mapping before marking the file complete.
 
-- the lesson objective for Guided Practice and Lesson Quiz
-- the unit mapping for Unit Pretest and Unit Assessment
-- the approved standard or approved support standard note
+Each question must align to the correct assessment scope:
+
+- Guided Practice questions must assess only the specific lesson being practiced.
+- Lesson Quiz Bank questions must assess only the specific lesson attached to that quiz.
+- Unit Pretest questions must assess only standards, skills, and concepts that are taught in that unit according to the approved unit mapping and lesson mapping.
+- Unit Assessment Bank questions must assess only material covered in that unit according to the approved unit mapping and lesson mapping.
+- No assessment may ask questions from a future lesson, future unit, omitted standard, unapproved support skill, or topic not present in the certified mapping.
+- Every question must trace to an approved standard or approved support-standard note.
+
+Required alignment evidence:
+
+- course crosswalk source
+- unit mapping source
+- lesson mapping source
+- assessment file path
+- question ID
+- matched lesson or unit scope
+- matched standard or approved support note
+
+If a question cannot be traced directly to the approved mapping, mark it `FAIL` or `BLOCKED`. Do not infer alignment from topic similarity alone.
