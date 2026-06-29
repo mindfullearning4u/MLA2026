@@ -31,9 +31,9 @@ Question:
 Which expression gives $600 at 4% compounded annually for 5 years?
 {
 ~A. 600 + 0.04(5)#This does not use the principal correctly.
-=B. 600(1.04)⁵#Correct. Annual compound interest uses the factor 1.04 for 5 years.
+=B. 600(1.04)^5#Correct. Annual compound interest uses the factor 1.04 for 5 years.
 ~C. 600(0.04)(5)#This gives simple interest, not compound amount.
-~D. 600(1.4)⁵#This uses 40%, not 4%.
+~D. 600(1.4)^5#This uses 40%, not 4%.
 }
 
 
@@ -80,7 +80,7 @@ Find simple interest on $300 at 8% for 2 years.
 Question ID: ALG1_U06_L06_Q07
 MLA Standard: MLA.A1.DF.2
 Question:
-In A = P(1 + r/n)⁽ⁿᵗ⁾, what does n represent?
+In A = P(1 + r/n)^(nt), what does n represent?
 {
 ~A. The principal#P represents principal.
 ~B. The annual rate#r represents the annual rate.
@@ -98,7 +98,7 @@ $1,000 is compounded annually at 3% for 2 years. What is the approximate total?
 ~A. $1,030.00#This is after one year.
 ~B. $1,060.00#This is close to simple interest, not compound interest.
 ~C. $1,300.00#This uses 30%, not 3%.
-=D. $1,060.90#Correct. 1000(1.03)² = 1060.90.
+=D. $1,060.90#Correct. 1000(1.03)^2 = 1060.90.
 }
 
 
@@ -160,10 +160,10 @@ MLA Standard: MLA.A1.DF.2
 Question:
 Which expression represents $500 at 6% compounded quarterly for 3 years?
 {
-=A. 500(1 + 0.06/4)¹²#Correct. Quarterly means n = 4 and nt = 12.
-~B. 500(1 + 0.06)³#This is annual compounding, not quarterly.
+=A. 500(1 + 0.06/4)^12#Correct. Quarterly means n = 4 and nt = 12.
+~B. 500(1 + 0.06)^3#This is annual compounding, not quarterly.
 ~C. 500(0.06)(3)#This is simple interest.
-~D. 500(1 + 6/4)¹²#This uses 6 instead of 0.06.
+~D. 500(1 + 6/4)^12#This uses 6 instead of 0.06.
 }
 
 
@@ -200,8 +200,8 @@ Question:
 Which model represents continuously compounded interest?
 {
 ~A. I = Prt#This is simple interest.
-=B. A = Pe⁽ʳᵗ⁾#Correct. Continuous compounding uses the constant e.
-~C. A = P(1 + r/n)⁽ⁿᵗ⁾#This is compound interest n times per year.
+=B. A = Pe^(rt)#Correct. Continuous compounding uses the constant e.
+~C. A = P(1 + r/n)^(nt)#This is compound interest n times per year.
 ~D. A = P + I#This is a total amount relationship, not continuous compounding.
 }
 
@@ -223,7 +223,7 @@ A loan has $90 simple interest after 3 years at 5%. What was the principal?
 Question ID: ALG1_U06_L06_Q18
 MLA Standard: MLA.A1.DF.2
 Question:
-For A = 700(1.02)ᵗ, what is the annual growth rate?
+For A = 700(1.02)^t, what is the annual growth rate?
 {
 ~A. 2#This would mean 200%, not 2%.
 =B. 2%#Correct. The growth factor 1.02 corresponds to a 2% rate.
@@ -257,52 +257,3 @@ Which account grows fastest if principal, rate, and time are the same?
 ~D. Monthly compounding#Monthly is frequent, but continuous compounding is the limiting case.
 }
 
-::ALG1_U06_L06_Q21::
-MLA Standard: MLA.A1.DF.1
-A savings account starts with 200 dollars and increases by 25 dollars each month. Which expression gives the balance after m months?
-{
-=A. 200 + 25m #Correct. The starting amount is 200 and each month adds 25 dollars.
-~B. 200m + 25 #This treats the starting amount as repeated each month.
-~C. 25 + m + 200 #This adds months instead of multiplying by the monthly amount.
-~D. 200 - 25m #This models a decrease, not an increase.
-}
-
-::ALG1_U06_L06_Q22::
-MLA Standard: MLA.A1.DF.1
-If an item costs 80 dollars and is discounted by 25 percent, what is the discount amount?
-{
-=A. 20 dollars #Correct. 25 percent of 80 is 20.
-~B. 25 dollars #This uses the percent number as dollars without calculating the percent of 80.
-~C. 55 dollars #This is the sale price, not the discount amount.
-~D. 105 dollars #This adds the percent number to the original price.
-}
-
-::ALG1_U06_L06_Q23::
-MLA Standard: MLA.A1.DF.1
-An item costs 80 dollars and is discounted by 25 percent. What is the sale price?
-{
-=A. 60 dollars #Correct. The discount is 20 dollars, so 80 - 20 = 60.
-~B. 20 dollars #This is the discount amount, not the final price.
-~C. 100 dollars #This adds the discount instead of subtracting it.
-~D. 55 dollars #This subtracts 25 dollars instead of 25 percent of 80.
-}
-
-::ALG1_U06_L06_Q24::
-MLA Standard: MLA.A1.DF.1
-Why is it important to identify the starting amount in a financial model?
-{
-=A. It anchors the model before repeated change is applied #Correct. The starting amount is the initial value in the situation.
-~B. It is always the same as the monthly change #The starting amount and rate can be different.
-~C. It should be ignored after the first step #The starting amount remains part of the model.
-~D. It makes every model quadratic #Financial models can be linear, exponential, or another type.
-}
-
-::ALG1_U06_L06_Q25::
-MLA Standard: MLA.A1.DF.1
-What does a percent increase do to an original amount?
-{
-=A. Adds a percent of the original amount to the original #Correct. A percent increase raises the original by a calculated percent.
-~B. Always subtracts from the original #That describes a decrease or discount.
-~C. Divides the original by the percent number only #That is not how percent increase is calculated.
-~D. Leaves the original unchanged #An increase changes the amount.
-}

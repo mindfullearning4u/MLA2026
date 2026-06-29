@@ -57,8 +57,8 @@ Question:
 Which equation represents a linear function?
 {
 =A. y = 4x - 1#Correct. This has the form y = mx + b.
-~B. y = x²#This is quadratic.
-~C. y = 2ˣ#This is exponential.
+~B. y = x^2#This is quadratic.
+~C. y = 2^x#This is exponential.
 ~D. x = 5#This vertical line is not a function of x.
 }
 
@@ -70,9 +70,9 @@ Question:
 Which equation represents a quadratic function?
 {
 ~A. y = 3x + 8#This is linear.
-=B. y = x² - 4#Correct. The x² term identifies a quadratic function.
+=B. y = x^2 - 4#Correct. The x^2 term identifies a quadratic function.
 ~C. y = 7#This is constant.
-~D. y = 2ˣ#This is exponential.
+~D. y = 2^x#This is exponential.
 }
 
 
@@ -95,10 +95,10 @@ MLA Standard: MLA.A1.FN.1
 Question:
 Which table fails the function test?
 {
-~A. x: 0, 1, 2; y: 3, 4, 5#Each input has one output.
-~B. x: 1, 2, 3; y: 9, 9, 9#Repeated outputs are allowed.
-~C. x: -1, 0, 1; y: 1, 0, 1#Each input appears once.
-=D. x: 2, 2, 3; y: 4, 5, 6#Correct. Input 2 has two different outputs.
+~A. Table A: x-row 0, 1, 2; y-row 3, 4, 5#Each input has one output.
+~B. Table B: x-row 1, 2, 3; y-row 9, 9, 9#Repeated outputs are allowed.
+~C. Table C: x-row -1, 0, 1; y-row 1, 0, 1#Each input appears once.
+=D. Table D: x-row 2, 2, 3; y-row 4, 5, 6#Correct. Input 2 has two different outputs.
 }
 
 
@@ -136,7 +136,7 @@ Which function type best matches y = |x|?
 {
 ~A. Linear#A linear equation has form y = mx + b without absolute value.
 =B. Absolute value#Correct. The absolute value bars identify the function type.
-~C. Quadratic#A quadratic function includes x².
+~C. Quadratic#A quadratic function includes x^2.
 ~D. Exponential#An exponential function has the variable in the exponent.
 }
 
@@ -145,10 +145,10 @@ Which function type best matches y = |x|?
 Question ID: ALG1_U04_L01_Q12
 MLA Standard: MLA.A1.FN.1
 Question:
-Which function type best matches y = 2ˣ?
+Which function type best matches y = 2^x?
 {
 ~A. Linear#Linear functions have constant additive change.
-~B. Quadratic#Quadratic functions include x².
+~B. Quadratic#Quadratic functions include x^2.
 =C. Exponential#Correct. The variable is in the exponent.
 ~D. Absolute value#Absolute value functions use absolute value bars.
 }
@@ -227,7 +227,7 @@ Which equation is not a function of x?
 {
 ~A. y = x + 1#This is a linear function.
 =B. x = -3#Correct. This vertical line has many y-values for one x-value.
-~C. y = x²#This is a quadratic function.
+~C. y = x^2#This is a quadratic function.
 ~D. y = |x|#This is an absolute value function.
 }
 
@@ -257,52 +257,3 @@ Which table could represent a nonlinear function?
 ~D. x: 0, 1, 2; y: 3, 6, 9#This is linear because the change is constant.
 }
 
-::ALG1_U04_L01_Q21::
-MLA Standard: MLA.A1.FN.1
-Which relation is a function?
-{
-=A. Each input has exactly one output #Correct. A function assigns each input to one output.
-~B. One input has two different outputs #This violates the definition of a function.
-~C. Every output must be used only once #Outputs may repeat in a function.
-~D. The input and output must always be equal #A function can pair different input and output values.
-}
-
-::ALG1_U04_L01_Q22::
-MLA Standard: MLA.A1.FN.1
-The ordered pairs are (1, 4), (2, 5), (3, 6), and (4, 7). Why is this relation a function?
-{
-=A. No input value is paired with more than one output #Correct. Each x-value appears once with one y-value.
-~B. The output values are all positive #Positive outputs do not determine whether a relation is a function.
-~C. The points make a steep line #Steepness is not the definition of a function.
-~D. The inputs and outputs are identical #The inputs and outputs are not identical, and that is not required.
-}
-
-::ALG1_U04_L01_Q23::
-MLA Standard: MLA.A1.FN.1
-Which relation is not a function?
-{
-=A. (2, 5), (2, 8), (3, 9) #Correct. The input 2 has two different outputs.
-~B. (1, 4), (2, 4), (3, 4) #This is a function because each input has one output.
-~C. (0, 1), (1, 2), (2, 3) #This is a function because no input repeats with a different output.
-~D. (-1, 6), (0, 6), (1, 6) #Repeated outputs are allowed in a function.
-}
-
-::ALG1_U04_L01_Q24::
-MLA Standard: MLA.A1.FN.1
-In a function table, what does the input represent?
-{
-=A. The value substituted into the rule #Correct. The input is the independent value used by the function rule.
-~B. The value produced after the rule is applied #That is the output.
-~C. A number that cannot be used #Inputs are the values the rule accepts.
-~D. The answer choice that looks largest #Input meaning is based on the function, not answer size.
-}
-
-::ALG1_U04_L01_Q25::
-MLA Standard: MLA.A1.FN.1
-A machine triples each input and then adds 1. What output is produced by input 5?
-{
-=A. 16 #Correct. Three times 5 is 15, and 15 + 1 = 16.
-~B. 15 #This stops before adding 1.
-~C. 8 #This adds 3 and 5 instead of tripling 5 and adding 1.
-~D. 6 #This only adds 1 to the input.
-}
