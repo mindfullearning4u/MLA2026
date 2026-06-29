@@ -27,6 +27,12 @@ Assessment files must be:
 - no rich text
 - no formatting conversion
 
+Math notation must use UTF-8 mathematical plain text:
+
+- use superscripts for exponents, such as `x²`, `2³`, `10⁻²`, and `16⁽¹⁄²⁾`
+- do not use caret notation such as `x^2`, `2^3`, or `16^(1/2)` in final assessment files
+- keep notation plain text; do not use HTML, images, MathJax, LaTeX delimiters, or rich-text conversion for exponent formatting
+
 ## Required Question Structure
 
 Each question must include:

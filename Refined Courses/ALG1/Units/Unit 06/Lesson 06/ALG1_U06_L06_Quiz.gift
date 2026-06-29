@@ -31,9 +31,9 @@ Question:
 Which expression gives $600 at 4% compounded annually for 5 years?
 {
 ~A. 600 + 0.04(5)#This does not use the principal correctly.
-=B. 600(1.04)^5#Correct. Annual compound interest uses the factor 1.04 for 5 years.
+=B. 600(1.04)⁵#Correct. Annual compound interest uses the factor 1.04 for 5 years.
 ~C. 600(0.04)(5)#This gives simple interest, not compound amount.
-~D. 600(1.4)^5#This uses 40%, not 4%.
+~D. 600(1.4)⁵#This uses 40%, not 4%.
 }
 
 
@@ -80,7 +80,7 @@ Find simple interest on $300 at 8% for 2 years.
 Question ID: ALG1_U06_L06_Q07
 MLA Standard: MLA.A1.DF.2
 Question:
-In A = P(1 + r/n)^(nt), what does n represent?
+In A = P(1 + r/n)⁽ⁿᵗ⁾, what does n represent?
 {
 ~A. The principal#P represents principal.
 ~B. The annual rate#r represents the annual rate.
@@ -98,7 +98,7 @@ $1,000 is compounded annually at 3% for 2 years. What is the approximate total?
 ~A. $1,030.00#This is after one year.
 ~B. $1,060.00#This is close to simple interest, not compound interest.
 ~C. $1,300.00#This uses 30%, not 3%.
-=D. $1,060.90#Correct. 1000(1.03)^2 = 1060.90.
+=D. $1,060.90#Correct. 1000(1.03)² = 1060.90.
 }
 
 
@@ -160,10 +160,10 @@ MLA Standard: MLA.A1.DF.2
 Question:
 Which expression represents $500 at 6% compounded quarterly for 3 years?
 {
-=A. 500(1 + 0.06/4)^12#Correct. Quarterly means n = 4 and nt = 12.
-~B. 500(1 + 0.06)^3#This is annual compounding, not quarterly.
+=A. 500(1 + 0.06/4)¹²#Correct. Quarterly means n = 4 and nt = 12.
+~B. 500(1 + 0.06)³#This is annual compounding, not quarterly.
 ~C. 500(0.06)(3)#This is simple interest.
-~D. 500(1 + 6/4)^12#This uses 6 instead of 0.06.
+~D. 500(1 + 6/4)¹²#This uses 6 instead of 0.06.
 }
 
 
@@ -200,8 +200,8 @@ Question:
 Which model represents continuously compounded interest?
 {
 ~A. I = Prt#This is simple interest.
-=B. A = Pe^(rt)#Correct. Continuous compounding uses the constant e.
-~C. A = P(1 + r/n)^(nt)#This is compound interest n times per year.
+=B. A = Pe⁽ʳᵗ⁾#Correct. Continuous compounding uses the constant e.
+~C. A = P(1 + r/n)⁽ⁿᵗ⁾#This is compound interest n times per year.
 ~D. A = P + I#This is a total amount relationship, not continuous compounding.
 }
 
@@ -223,7 +223,7 @@ A loan has $90 simple interest after 3 years at 5%. What was the principal?
 Question ID: ALG1_U06_L06_Q18
 MLA Standard: MLA.A1.DF.2
 Question:
-For A = 700(1.02)^t, what is the annual growth rate?
+For A = 700(1.02)ᵗ, what is the annual growth rate?
 {
 ~A. 2#This would mean 200%, not 2%.
 =B. 2%#Correct. The growth factor 1.02 corresponds to a 2% rate.
