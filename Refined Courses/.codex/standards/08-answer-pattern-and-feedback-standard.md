@@ -20,7 +20,7 @@ Correct answers must not:
 Default targets:
 
 - Guided Practice: balanced as much as possible across 5 questions
-- Lesson Quiz: balanced across 20 questions
+- Lesson Quiz: balanced across 25 questions; Moodle delivery pulls 5 random questions per attempt
 - Unit Pretest: balanced across 10 questions
 - Unit Assessment: balanced across 40 questions
 
@@ -56,4 +56,3 @@ Report:
 - weak feedback needing revision
 - duplicate choices
 - duplicate stems
-

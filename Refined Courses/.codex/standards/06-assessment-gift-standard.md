@@ -9,7 +9,7 @@ Assessment files must be ready for Moodle test-bank import and must support mast
 Default math requirement:
 
 - Guided Practice = 5 questions
-- Lesson Quiz Bank = 20 questions unless course standard says 25
+- Lesson Quiz Bank = 25 questions; Moodle delivery pulls 5 random questions per attempt
 - Unit Pretest = 10 questions
 - Unit Assessment Bank = 40 questions
 
@@ -78,4 +78,3 @@ Each question must align to:
 - the lesson objective for Guided Practice and Lesson Quiz
 - the unit mapping for Unit Pretest and Unit Assessment
 - the approved standard or approved support standard note
-
