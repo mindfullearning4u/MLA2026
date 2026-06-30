@@ -1,33 +1,33 @@
 {
-    "course": "MCR",
-    "courseTitle": "Math for College Readiness",
-    "unit": "Unit 05",
-    "lesson": "Lesson 03",
-    "title": "Quiz: Compound Events",
-    "primaryStandards": [
-        {
-            "code": "MLA.MCR.PR.4",
-            "description": "I can apply the addition rule for probability in context."
-        },
-        {
-            "code": "MLA.MCR.PR.5",
-            "description": "I can apply the multiplication rule for probability in context."
-        }
-    ],
-    "format": "GIFT",
-    "giftFile": "MCR_U05_L03_Quiz.gift",
-    "questionBankSize": 20,
-    "questionsPerAttempt": 5,
-    "masteryThreshold": 80,
-    "attemptPolicy": {
-        "studentAttemptsBeforeIntervention": 1,
-        "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
-        "questionReuseRule": "Questions must not repeat exactly across attempts."
-    },
-    "correctAnswerDistribution": {
-        "A": 7,
-        "B": 6,
-        "C": 6,
-        "D": 6
-    }
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 05",
+    "lesson":  "Lesson 03",
+    "title":  "Quiz: Compound Events",
+    "primaryStandards":  [
+                             {
+                                 "code":  "MLA.MCR.PR.4",
+                                 "description":  "I can apply the addition rule for probability in context."
+                             },
+                             {
+                                 "code":  "MLA.MCR.PR.5",
+                                 "description":  "I can apply the multiplication rule for probability in context."
+                             }
+                         ],
+    "format":  "GIFT",
+    "giftFile":  "MCR_U05_L03_Quiz.gift",
+    "questionBankSize":  20,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "A":  5,
+                                      "B":  5,
+                                      "C":  5,
+                                      "D":  4
+                                  }
 }

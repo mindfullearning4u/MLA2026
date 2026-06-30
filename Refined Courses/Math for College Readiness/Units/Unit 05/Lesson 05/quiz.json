@@ -1,18 +1,33 @@
 {
-    "course": "MCR",
-    "courseTitle": "Math for College Readiness",
-    "unit": "Unit 05",
-    "lesson": "Lesson 05",
-    "title": "Quiz: Counting Methods",
-    "primaryStandards": [
-        {"code": "MLA.MCR.PR.6", "description": "I can apply counting rules to probability contexts."},
-        {"code": "MLA.MCR.PR.7", "description": "I can distinguish and use permutations and combinations in probability contexts."}
-    ],
-    "format": "GIFT",
-    "giftFile": "MCR_U05_L05_Quiz.gift",
-    "questionBankSize": 20,
-    "questionsPerAttempt": 5,
-    "masteryThreshold": 80,
-    "attemptPolicy": {"studentAttemptsBeforeIntervention": 1, "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.", "questionReuseRule": "Questions must not repeat exactly across attempts."},
-    "correctAnswerDistribution": {"A": 7, "B": 6, "C": 6, "D": 6}
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 05",
+    "lesson":  "Lesson 05",
+    "title":  "Quiz: Counting Methods",
+    "primaryStandards":  [
+                             {
+                                 "code":  "MLA.MCR.PR.6",
+                                 "description":  "I can apply counting rules to probability contexts."
+                             },
+                             {
+                                 "code":  "MLA.MCR.PR.7",
+                                 "description":  "I can distinguish and use permutations and combinations in probability contexts."
+                             }
+                         ],
+    "format":  "GIFT",
+    "giftFile":  "MCR_U05_L05_Quiz.gift",
+    "questionBankSize":  20,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "A":  5,
+                                      "B":  4,
+                                      "C":  5,
+                                      "D":  6
+                                  }
 }

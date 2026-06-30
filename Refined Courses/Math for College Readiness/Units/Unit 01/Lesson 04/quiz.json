@@ -1,37 +1,37 @@
 {
-  "course": "MCR",
-  "courseTitle": "Math for College Readiness",
-  "unit": "Unit 01",
-  "lesson": "Lesson 04",
-  "title": "Quiz: Estimation, Reasonableness, and Error Analysis",
-  "primaryStandards": [
-    {
-      "code": "MLA.MCR.MC.1",
-      "description": "I can explain my mathematical reasoning clearly using words, numbers, tables, graphs, formulas, and units."
-    },
-    {
-      "code": "MLA.MCR.MC.2",
-      "description": "I can choose appropriate strategies and representations to solve real-world problems."
-    },
-    {
-      "code": "MLA.MCR.MC.3",
-      "description": "I can interpret results in context and check whether answers are reasonable."
-    }
-  ],
-  "format": "GIFT",
-  "giftFile": "MCR_U01_L04_Quiz.gift",
-  "questionBankSize": 20,
-  "questionsPerAttempt": 5,
-  "masteryThreshold": 80,
-  "attemptPolicy": {
-    "studentAttemptsBeforeIntervention": 1,
-    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
-    "questionReuseRule": "Questions must not repeat exactly across attempts."
-  },
-  "correctAnswerDistribution": {
-    "A": 7,
-    "B": 6,
-    "C": 6,
-    "D": 6
-  }
+    "course":  "MCR",
+    "courseTitle":  "Math for College Readiness",
+    "unit":  "Unit 01",
+    "lesson":  "Lesson 04",
+    "title":  "Quiz: Estimation, Reasonableness, and Error Analysis",
+    "primaryStandards":  [
+                             {
+                                 "code":  "MLA.MCR.MC.1",
+                                 "description":  "I can explain my mathematical reasoning clearly using words, numbers, tables, graphs, formulas, and units."
+                             },
+                             {
+                                 "code":  "MLA.MCR.MC.2",
+                                 "description":  "I can choose appropriate strategies and representations to solve real-world problems."
+                             },
+                             {
+                                 "code":  "MLA.MCR.MC.3",
+                                 "description":  "I can interpret results in context and check whether answers are reasonable."
+                             }
+                         ],
+    "format":  "GIFT",
+    "giftFile":  "MCR_U01_L04_Quiz.gift",
+    "questionBankSize":  20,
+    "questionsPerAttempt":  5,
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      },
+    "correctAnswerDistribution":  {
+                                      "A":  5,
+                                      "B":  5,
+                                      "C":  5,
+                                      "D":  5
+                                  }
 }
