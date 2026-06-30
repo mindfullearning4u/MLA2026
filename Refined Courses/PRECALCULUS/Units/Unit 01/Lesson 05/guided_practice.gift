@@ -4,52 +4,56 @@ MLA Standard: MLA.PC.FA.11
 Question:
 What is the inverse of f(x) = x + 7?
 {
-~A. f^-1(x) = x + 7#This repeats the original function instead of undoing the addition.
-~B. f^-1(x) = 7x#This changes addition into multiplication, which does not undo x + 7.
-=C. f^-1(x) = x - 7#Correct. Subtracting 7 undoes adding 7.
-~D. f^-1(x) = x / 7#Division by 7 would undo multiplication by 7, not addition of 7.
+~A. f?(x) = x + 7#This repeats the original function instead of undoing the addition.
+=B. f?(x) = x - 7#Correct. Subtracting 7 undoes adding 7.
+~C. f?(x) = 7x#This changes addition into multiplication, which does not undo x + 7.
+~D. f?(x) = x / 7#Division by 7 would undo multiplication by 7, not addition of 7.
 }
+
 ::PC_U01_L05_GP02::
 Question ID: PC_U01_L05_GP02
 MLA Standard: MLA.PC.FA.11
 Question:
-If f(3) = 10 and f has an inverse, what must f^-1(10) equal?
+If f(3) = 10 and f has an inverse, what must f?(10) equal?
 {
-~A. 10#This keeps the output as the output instead of reversing input and output.
-=B. 3#Correct. An inverse reverses the ordered pair, so output 10 maps back to input 3.
-~C. 7#This subtracts the numbers but does not use inverse meaning.
-~D. 30#This multiplies the numbers but does not reverse the function relationship.
+~A. 7#This subtracts the numbers but does not use inverse meaning.
+~B. 30#This multiplies the numbers but does not reverse the function relationship.
+~C. 10#This keeps the output as the output instead of reversing input and output.
+=D. 3#Correct. An inverse reverses the ordered pair, so output 10 maps back to input 3.
 }
+
 ::PC_U01_L05_GP03::
 Question ID: PC_U01_L05_GP03
 MLA Standard: MLA.PC.FA.11
 Question:
 Which composition verifies that g is the inverse of f?
 {
-~A. f(x) + g(x) = 0#Adding functions does not verify inverse functions.
-~B. f(x)g(x) = 1#Multiplying outputs does not verify inverse functions.
-~C. f(x) - g(x) = x#Subtraction does not show that the functions undo each other.
-=D. f(g(x)) = x and g(f(x)) = x#Correct. Both compositions returning x verifies inverse functions.
+=A. f(g(x)) = x and g(f(x)) = x#Correct. Both compositions returning x verifies inverse functions.
+~B. f(x) - g(x) = x#Subtraction does not show that the functions undo each other.
+~C. f(x) + g(x) = 0#Adding functions does not verify inverse functions.
+~D. f(x)g(x) = 1#Multiplying outputs does not verify inverse functions.
 }
+
 ::PC_U01_L05_GP04::
 Question ID: PC_U01_L05_GP04
 MLA Standard: MLA.PC.FA.12
 Question:
-Why does f(x) = x^2 need a domain restriction to have an inverse function?
+Why does f(x) = x² need a domain restriction to have an inverse function?
 {
-=A. It is not one-to-one over all real numbers.#Correct. Inputs such as -2 and 2 produce the same output, so the full function is not invertible.
+~A. It has no graph.#The function has a graph; the issue is failing the horizontal line test.
 ~B. It has no outputs.#The function has outputs, but some outputs come from two inputs.
-~C. It is linear.#The function is quadratic, not linear.
-~D. It has no graph.#The function has a graph; the issue is failing the horizontal line test.
+=C. It is not one-to-one over all real numbers.#Correct. Inputs such as -2 and 2 produce the same output, so the full function is not invertible.
+~D. It is linear.#The function is quadratic, not linear.
 }
+
 ::PC_U01_L05_GP05::
 Question ID: PC_U01_L05_GP05
 MLA Standard: MLA.PC.FA.13
 Question:
 A function converts dollars to euros. What would its inverse represent?
 {
-~A. Dollars plus euros#An inverse reverses a conversion, not adds quantities.
-~B. Euros squared#Squaring is not the reverse of currency conversion.
-=C. Euros converted back to dollars#Correct. The inverse reverses the original dollars-to-euros conversion.
+=A. Euros converted back to dollars#Correct. The inverse reverses the original dollars-to-euros conversion.
+~B. Dollars plus euros#An inverse reverses a conversion, not adds quantities.
+~C. Euros squared#Squaring is not the reverse of currency conversion.
 ~D. Dollars converted to dollars#The inverse changes the output unit back to the original input unit.
 }
