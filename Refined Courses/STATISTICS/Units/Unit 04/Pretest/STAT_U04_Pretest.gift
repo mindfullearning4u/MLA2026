@@ -3,9 +3,8 @@ Question ID: STAT_U04_PT_Q01
 MLA Standard: MLA.STAT.PSU.1
 Question:
 Which phrase describes a complement of event A?
-
 {
-=A. Outcomes in the sample space that are not in A#Correct. A complement includes outcomes from the sample space outside event A.
+=A. Outcomes in the sample space that are not in A#A complement includes outcomes from the sample space outside event A.
 ~B. Outcomes in both A and B#That describes an intersection, not a complement.
 ~C. Outcomes in A or B#That describes a union, not a complement.
 ~D. All outcomes in A only#That repeats event A instead of describing not A.
@@ -16,11 +15,10 @@ Question ID: STAT_U04_PT_Q02
 MLA Standard: MLA.STAT.PSU.2
 Question:
 Events A and B are independent when which comparison is true?
-
 {
 ~A. P(A given B) is always 0#Independent events can have nonzero conditional probabilities.
-=B. P(A given B) is the same as P(A)#Correct. If the condition does not change the probability, the events are independent.
-~C. P(A or B) equals 1#A union equaling 1 is not the definition of independence.
+~B. P(A or B) equals 1#A union equaling 1 is not the definition of independence.
+=C. P(A given B) is the same as P(A)#If the condition does not change the probability, the events are independent.
 ~D. P(A and B) is impossible#Independent events can happen together.
 }
 
@@ -29,11 +27,10 @@ Question ID: STAT_U04_PT_Q03
 MLA Standard: MLA.STAT.PSU.3
 Question:
 What does P(A given B) mean?
-
 {
 ~A. The probability of not B#Not B is a complement.
-~B. The probability of A or B#A or B is a union, not conditional probability.
-=C. The probability of A when B is already known#Correct. Conditional probability uses B as the known condition.
+=B. The probability of A when B is already known#Conditional probability uses B as the known condition.
+~C. The probability of A or B#A or B is a union, not conditional probability.
 ~D. The probability that nothing happens#Conditional probability still describes an event.
 }
 
@@ -42,12 +39,11 @@ Question ID: STAT_U04_PT_Q04
 MLA Standard: MLA.STAT.PSU.4
 Question:
 If P(pass given review) is much higher than P(pass), what does that suggest?
-
 {
 ~A. The sample space is empty#The situation has outcomes, so the sample space is not empty.
-~B. Review has no relationship to passing#A large change suggests a relationship, not no relationship.
-~C. Passing is impossible#A higher probability does not mean impossible.
-=D. Review and passing are not independent in this context#Correct. The condition changes the probability, so independence is not supported.
+=B. Review and passing are not independent in this context#The condition changes the probability, so independence is not supported.
+~C. Review has no relationship to passing#A large change suggests a relationship, not no relationship.
+~D. Passing is impossible#A higher probability does not mean impossible.
 }
 
 ::STAT_U04_PT_Q05::
@@ -55,12 +51,11 @@ Question ID: STAT_U04_PT_Q05
 MLA Standard: MLA.STAT.PSU.5
 Question:
 Which everyday wording signals a condition?
-
 {
-=A. Among students who study with notes#Correct. Among restricts the group and creates a condition.
-~B. All students in the school#This is the full group, not a condition.
-~C. The total survey group#A total group is not conditional by itself.
-~D. A list of all categories#A category list is not a conditional statement.
+~A. All students in the school#This is the full group, not a condition.
+~B. The total survey group#A total group is not conditional by itself.
+~C. A list of all categories#A category list is not a conditional statement.
+=D. Among students who study with notes#Among restricts the group and creates a condition.
 }
 
 ::STAT_U04_PT_Q06::
@@ -68,12 +63,11 @@ Question ID: STAT_U04_PT_Q06
 MLA Standard: MLA.STAT.PSU.6
 Question:
 In a two-way table, a row total or column total is called what?
-
 {
 ~A. Joint frequency#A joint frequency is an inside cell for two categories at once.
-=B. Marginal frequency#Correct. Marginal frequencies are totals in the margins of the table.
-~C. Permutation#A permutation is an ordered arrangement.
-~D. Complement#A complement is outside an event.
+~B. Permutation#A permutation is an ordered arrangement.
+~C. Complement#A complement is outside an event.
+=D. Marginal frequency#Marginal frequencies are totals in the margins of the table.
 }
 
 ::STAT_U04_PT_Q07::
@@ -81,11 +75,10 @@ Question ID: STAT_U04_PT_Q07
 MLA Standard: MLA.STAT.PSU.7
 Question:
 P(A) = 0.40, P(B) = 0.30, and P(A and B) = 0.10. What is P(A or B)?
-
 {
-~A. 0.80#This overcounts the overlap.
-~B. 0.70#This forgets to subtract the overlap.
-=C. 0.60#Correct. Add 0.40 and 0.30, then subtract the overlap 0.10.
+=A. 0.60#Add 0.40 and 0.30, then subtract the overlap 0.10.
+~B. 0.80#This overcounts the overlap.
+~C. 0.70#This forgets to subtract the overlap.
 ~D. 0.10#This gives only the overlap.
 }
 
@@ -94,12 +87,11 @@ Question ID: STAT_U04_PT_Q08
 MLA Standard: MLA.STAT.PSU.8
 Question:
 For independent events with P(A) = 0.50 and P(B) = 0.30, what is P(A and B)?
-
 {
 ~A. 0.50#This uses only P(A) and ignores B.
-~B. 0.80#This adds probabilities, which matches an or question.
-~C. 0.20#This subtracts instead of multiplying.
-=D. 0.15#Correct. For independent events, multiply 0.50 by 0.30.
+=B. 0.15#For independent events, multiply 0.50 by 0.30.
+~C. 0.80#This adds probabilities, which matches an or question.
+~D. 0.20#This subtracts instead of multiplying.
 }
 
 ::STAT_U04_PT_Q09::
@@ -107,9 +99,8 @@ Question ID: STAT_U04_PT_Q09
 MLA Standard: MLA.STAT.PSU.9
 Question:
 A shirt comes in 5 colors and 4 sizes. How many color-size options are possible?
-
 {
-=A. 20#Correct. Multiply the stage choices: 5 times 4.
+=A. 20#Multiply the stage choices: 5 times 4.
 ~B. 9#This adds the choices instead of multiplying stages.
 ~C. 5#This counts only colors.
 ~D. 4#This counts only sizes.
@@ -120,12 +111,9 @@ Question ID: STAT_U04_PT_Q10
 MLA Standard: MLA.STAT.PSU.10
 Question:
 Choosing 2 students from 6 for the same team is best modeled by what?
-
 {
 ~A. Permutation#Permutation would be used if order or role mattered.
-=B. Combination#Correct. Order does not matter for the same team.
-~C. Complement#Complement means not in an event.
+~B. Complement#Complement means not in an event.
+=C. Combination#Order does not matter for the same team.
 ~D. Conditional probability#No condition is being applied.
 }
-
-

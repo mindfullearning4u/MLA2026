@@ -1,39 +1,134 @@
 {
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "benchmark_ids":  [
-                          "MA.912.DP.4.1",
-                          "MA.912.DP.4.2",
-                          "MA.912.DP.4.3",
-                          "MA.912.DP.4.4",
-                          "MA.912.DP.4.6",
-                          "MA.912.DP.4.5",
-                          "MA.912.DP.4.7",
-                          "MA.912.DP.4.8",
-                          "MA.912.DP.4.9",
-                          "MA.912.DP.4.10"
-                      ],
-    "unit":  "Unit 04",
-    "standard_ids":  [
-                         "MLA.STAT.PSU.1",
-                         "MLA.STAT.PSU.2",
-                         "MLA.STAT.PSU.3",
-                         "MLA.STAT.PSU.4",
-                         "MLA.STAT.PSU.5",
-                         "MLA.STAT.PSU.6",
-                         "MLA.STAT.PSU.7",
-                         "MLA.STAT.PSU.8",
-                         "MLA.STAT.PSU.9",
-                         "MLA.STAT.PSU.10"
-                     ],
-    "course":  "STATISTICS",
-    "lesson":  "08",
-    "title":  "Putting It All Together"
+    "course": "STATISTICS",
+    "assessment": "Unit Assessment",
+    "guidedPractice": {
+        "questionCount": 5,
+        "graded": false,
+        "file": "STAT_U04_L08_GuidedPractice.gift",
+        "feedback": "immediate"
+    },
+    "masteryThreshold": 80,
+    "primaryStandards": [
+        {
+            "benchmark": "MA.912.DP.4.1",
+            "code": "MLA.STAT.PSU.1",
+            "description": "I can describe events using sample spaces, subsets, unions, intersections, and complements."
+        },
+        {
+            "benchmark": "MA.912.DP.4.2",
+            "code": "MLA.STAT.PSU.2",
+            "description": "I can determine whether events are independent by comparing probabilities."
+        },
+        {
+            "benchmark": "MA.912.DP.4.3",
+            "code": "MLA.STAT.PSU.3",
+            "description": "I can calculate and interpret conditional probability in context."
+        },
+        {
+            "benchmark": "MA.912.DP.4.4",
+            "code": "MLA.STAT.PSU.4",
+            "description": "I can interpret independence using conditional probability."
+        },
+        {
+            "benchmark": "MA.912.DP.4.6",
+            "code": "MLA.STAT.PSU.5",
+            "description": "I can explain conditional probability and independence in everyday situations."
+        },
+        {
+            "benchmark": "MA.912.DP.4.5",
+            "code": "MLA.STAT.PSU.6",
+            "description": "I can use two-way tables to interpret empirical probabilities and approximate independence."
+        },
+        {
+            "benchmark": "MA.912.DP.4.7",
+            "code": "MLA.STAT.PSU.7",
+            "description": "I can apply the addition rule for probability and interpret results in context."
+        },
+        {
+            "benchmark": "MA.912.DP.4.8",
+            "code": "MLA.STAT.PSU.8",
+            "description": "I can apply the multiplication rule for probability and interpret results in context."
+        },
+        {
+            "benchmark": "MA.912.DP.4.9",
+            "code": "MLA.STAT.PSU.9",
+            "description": "I can use addition and multiplication counting rules to solve real-world probability problems."
+        },
+        {
+            "benchmark": "MA.912.DP.4.10",
+            "code": "MLA.STAT.PSU.10",
+            "description": "I can calculate permutations and combinations in mathematical and real-world situations."
+        }
+    ],
+    "pages": [
+        {
+            "title": "Lesson Overview",
+            "id": "P01",
+            "file": "P01.html"
+        },
+        {
+            "title": "Notebook Task - Part 1",
+            "id": "P02",
+            "file": "P02.html"
+        },
+        {
+            "title": "Notebook Task - Part 2",
+            "id": "P03",
+            "file": "P03.html"
+        },
+        {
+            "title": "Worked Example",
+            "id": "P04",
+            "file": "P04.html"
+        },
+        {
+            "title": "Guided Practice",
+            "id": "P05",
+            "file": "P05.html"
+        },
+        {
+            "title": "Independent Work",
+            "id": "P06",
+            "file": "P06.html"
+        },
+        {
+            "title": "Checkpoint",
+            "id": "P07",
+            "file": "P07.html"
+        }
+    ],
+    "lesson": "Lesson 08",
+    "title": "Putting It All Together",
+    "quiz": {
+        "questionsPerAttempt": 5,
+        "file": "STAT_U04_UnitAssessment.gift",
+        "masteryThreshold": 80,
+        "questionBankSize": 40,
+        "lessonQuiz": false
+    },
+    "unit": "Unit 04",
+    "standard_ids": [
+        "MLA.STAT.PSU.1",
+        "MLA.STAT.PSU.2",
+        "MLA.STAT.PSU.3",
+        "MLA.STAT.PSU.4",
+        "MLA.STAT.PSU.5",
+        "MLA.STAT.PSU.6",
+        "MLA.STAT.PSU.7",
+        "MLA.STAT.PSU.8",
+        "MLA.STAT.PSU.9",
+        "MLA.STAT.PSU.10"
+    ],
+    "benchmark_ids": [
+        "MA.912.DP.4.1",
+        "MA.912.DP.4.2",
+        "MA.912.DP.4.3",
+        "MA.912.DP.4.4",
+        "MA.912.DP.4.6",
+        "MA.912.DP.4.5",
+        "MA.912.DP.4.7",
+        "MA.912.DP.4.8",
+        "MA.912.DP.4.9",
+        "MA.912.DP.4.10"
+    ]
 }

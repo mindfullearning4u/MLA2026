@@ -1,23 +1,70 @@
 {
-  "course": "STATISTICS",
-  "unit": "Unit 06",
-  "lesson": "Lesson 01",
-  "title": "Random Variables and Probability Distributions",
-  "standard_ids": [
-    "MLA.STAT.PSU.11"
-  ],
-  "benchmark_ids": [
-    "MA.912.DP.6.1"
-  ],
-  "pages": [
-    "P01.html",
-    "P02.html",
-    "P03.html",
-    "P04.html",
-    "P05.html",
-    "P06.html",
-    "P07.html"
-  ],
-  "guided_practice": "STAT_U06_L01_GuidedPractice.gift",
-  "quiz": "STAT_U06_L01_Quiz.gift"
+    "course": "STATISTICS",
+    "assessment": "Quiz",
+    "guidedPractice": {
+        "questionCount": 5,
+        "graded": false,
+        "file": "STAT_U06_L01_GuidedPractice.gift",
+        "feedback": "immediate"
+    },
+    "masteryThreshold": 80,
+    "primaryStandards": [
+        {
+            "benchmark": "MA.912.DP.6.1",
+            "code": "MLA.STAT.PSU.11",
+            "description": "I can define a random variable and graph its probability distribution."
+        }
+    ],
+    "pages": [
+        {
+            "title": "Lesson Overview",
+            "id": "P01",
+            "file": "P01.html"
+        },
+        {
+            "title": "Notebook Task - Part 1",
+            "id": "P02",
+            "file": "P02.html"
+        },
+        {
+            "title": "Notebook Task - Part 2",
+            "id": "P03",
+            "file": "P03.html"
+        },
+        {
+            "title": "Worked Example",
+            "id": "P04",
+            "file": "P04.html"
+        },
+        {
+            "title": "Guided Practice",
+            "id": "P05",
+            "file": "P05.html"
+        },
+        {
+            "title": "Independent Work",
+            "id": "P06",
+            "file": "P06.html"
+        },
+        {
+            "title": "Checkpoint",
+            "id": "P07",
+            "file": "P07.html"
+        }
+    ],
+    "lesson": "Lesson 01",
+    "title": "Random Variables and Probability Distributions",
+    "quiz": {
+        "questionsPerAttempt": 5,
+        "file": "STAT_U06_L01_Quiz.gift",
+        "masteryThreshold": 80,
+        "questionBankSize": 25
+    },
+    "unit": "Unit 06",
+    "standard_ids": [
+        "MLA.STAT.PSU.11"
+    ],
+    "benchmark_ids": [
+        "MA.912.DP.6.1"
+    ]
 }

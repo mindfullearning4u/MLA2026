@@ -1,23 +1,70 @@
 {
-  "course": "STATISTICS",
-  "unit": "Unit 03",
-  "lesson": "Lesson 03",
-  "title": "Residuals and Model Fit",
-  "standard_ids": [
-    "MLA.STAT.BVM.3"
-  ],
-  "benchmark_ids": [
-    "MA.912.DP.2.5"
-  ],
-  "pages": [
-    "P01.html",
-    "P02.html",
-    "P03.html",
-    "P04.html",
-    "P05.html",
-    "P06.html",
-    "P07.html"
-  ],
-  "guided_practice": "STAT_U03_L03_GuidedPractice.gift",
-  "quiz": "STAT_U03_L03_Quiz.gift"
+    "course": "STATISTICS",
+    "assessment": "Quiz",
+    "guidedPractice": {
+        "questionCount": 5,
+        "graded": false,
+        "file": "STAT_U03_L03_GuidedPractice.gift",
+        "feedback": "immediate"
+    },
+    "masteryThreshold": 80,
+    "primaryStandards": [
+        {
+            "benchmark": "MA.912.DP.2.5",
+            "code": "MLA.STAT.BVM.3",
+            "description": "I can use residuals to judge how well a linear model fits bivariate data."
+        }
+    ],
+    "pages": [
+        {
+            "title": "Lesson Overview",
+            "id": "P01",
+            "file": "P01.html"
+        },
+        {
+            "title": "Notebook Task - Part 1",
+            "id": "P02",
+            "file": "P02.html"
+        },
+        {
+            "title": "Notebook Task - Part 2",
+            "id": "P03",
+            "file": "P03.html"
+        },
+        {
+            "title": "Worked Example",
+            "id": "P04",
+            "file": "P04.html"
+        },
+        {
+            "title": "Guided Practice",
+            "id": "P05",
+            "file": "P05.html"
+        },
+        {
+            "title": "Independent Work",
+            "id": "P06",
+            "file": "P06.html"
+        },
+        {
+            "title": "Checkpoint",
+            "id": "P07",
+            "file": "P07.html"
+        }
+    ],
+    "lesson": "Lesson 03",
+    "title": "Residuals and Model Fit",
+    "quiz": {
+        "questionsPerAttempt": 5,
+        "file": "STAT_U03_L03_Quiz.gift",
+        "masteryThreshold": 80,
+        "questionBankSize": 25
+    },
+    "unit": "Unit 03",
+    "standard_ids": [
+        "MLA.STAT.BVM.3"
+    ],
+    "benchmark_ids": [
+        "MA.912.DP.2.5"
+    ]
 }

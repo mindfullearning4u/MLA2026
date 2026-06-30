@@ -1,21 +1,70 @@
 {
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "benchmark_ids":  [
-                          "MA.912.DP.4.8"
-                      ],
-    "unit":  "Unit 04",
-    "standard_ids":  [
-                         "MLA.STAT.PSU.8"
-                     ],
-    "course":  "STATISTICS",
-    "lesson":  "06",
-    "title":  "Multiplication Rule for Probability"
+    "course": "STATISTICS",
+    "assessment": "Quiz",
+    "guidedPractice": {
+        "questionCount": 5,
+        "graded": false,
+        "file": "STAT_U04_L06_GuidedPractice.gift",
+        "feedback": "immediate"
+    },
+    "masteryThreshold": 80,
+    "primaryStandards": [
+        {
+            "benchmark": "MA.912.DP.4.8",
+            "code": "MLA.STAT.PSU.8",
+            "description": "I can apply the multiplication rule for probability and interpret results in context."
+        }
+    ],
+    "pages": [
+        {
+            "title": "Lesson Overview",
+            "id": "P01",
+            "file": "P01.html"
+        },
+        {
+            "title": "Notebook Task - Part 1",
+            "id": "P02",
+            "file": "P02.html"
+        },
+        {
+            "title": "Notebook Task - Part 2",
+            "id": "P03",
+            "file": "P03.html"
+        },
+        {
+            "title": "Worked Example",
+            "id": "P04",
+            "file": "P04.html"
+        },
+        {
+            "title": "Guided Practice",
+            "id": "P05",
+            "file": "P05.html"
+        },
+        {
+            "title": "Independent Work",
+            "id": "P06",
+            "file": "P06.html"
+        },
+        {
+            "title": "Checkpoint",
+            "id": "P07",
+            "file": "P07.html"
+        }
+    ],
+    "lesson": "Lesson 06",
+    "title": "Multiplication Rule for Probability",
+    "quiz": {
+        "questionsPerAttempt": 5,
+        "file": "STAT_U04_L06_Quiz.gift",
+        "masteryThreshold": 80,
+        "questionBankSize": 25
+    },
+    "unit": "Unit 04",
+    "standard_ids": [
+        "MLA.STAT.PSU.8"
+    ],
+    "benchmark_ids": [
+        "MA.912.DP.4.8"
+    ]
 }

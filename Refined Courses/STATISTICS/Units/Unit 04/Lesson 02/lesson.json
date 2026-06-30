@@ -1,11 +1,84 @@
 {
-  "course": "STATISTICS",
-  "unit": "Unit 04",
-  "lesson": "Lesson 02",
-  "title": "Independence and Conditional Probability",
-  "standard_ids": ["MLA.STAT.PSU.2", "MLA.STAT.PSU.3", "MLA.STAT.PSU.4"],
-  "benchmark_ids": ["MA.912.DP.4.2", "MA.912.DP.4.3", "MA.912.DP.4.4"],
-  "pages": ["P01.html", "P02.html", "P03.html", "P04.html", "P05.html", "P06.html", "P07.html"],
-  "guided_practice": "STAT_U04_L02_GuidedPractice.gift",
-  "quiz": "STAT_U04_L02_Quiz.gift"
+    "course": "STATISTICS",
+    "assessment": "Quiz",
+    "guidedPractice": {
+        "questionCount": 5,
+        "graded": false,
+        "file": "STAT_U04_L02_GuidedPractice.gift",
+        "feedback": "immediate"
+    },
+    "masteryThreshold": 80,
+    "primaryStandards": [
+        {
+            "benchmark": "MA.912.DP.4.2",
+            "code": "MLA.STAT.PSU.2",
+            "description": "I can determine whether events are independent by comparing probabilities."
+        },
+        {
+            "benchmark": "MA.912.DP.4.3",
+            "code": "MLA.STAT.PSU.3",
+            "description": "I can calculate and interpret conditional probability in context."
+        },
+        {
+            "benchmark": "MA.912.DP.4.4",
+            "code": "MLA.STAT.PSU.4",
+            "description": "I can interpret independence using conditional probability."
+        }
+    ],
+    "pages": [
+        {
+            "title": "Lesson Overview",
+            "id": "P01",
+            "file": "P01.html"
+        },
+        {
+            "title": "Notebook Task - Part 1",
+            "id": "P02",
+            "file": "P02.html"
+        },
+        {
+            "title": "Notebook Task - Part 2",
+            "id": "P03",
+            "file": "P03.html"
+        },
+        {
+            "title": "Worked Example",
+            "id": "P04",
+            "file": "P04.html"
+        },
+        {
+            "title": "Guided Practice",
+            "id": "P05",
+            "file": "P05.html"
+        },
+        {
+            "title": "Independent Work",
+            "id": "P06",
+            "file": "P06.html"
+        },
+        {
+            "title": "Checkpoint",
+            "id": "P07",
+            "file": "P07.html"
+        }
+    ],
+    "lesson": "Lesson 02",
+    "title": "Independence and Conditional Probability",
+    "quiz": {
+        "questionsPerAttempt": 5,
+        "file": "STAT_U04_L02_Quiz.gift",
+        "masteryThreshold": 80,
+        "questionBankSize": 25
+    },
+    "unit": "Unit 04",
+    "standard_ids": [
+        "MLA.STAT.PSU.2",
+        "MLA.STAT.PSU.3",
+        "MLA.STAT.PSU.4"
+    ],
+    "benchmark_ids": [
+        "MA.912.DP.4.2",
+        "MA.912.DP.4.3",
+        "MA.912.DP.4.4"
+    ]
 }

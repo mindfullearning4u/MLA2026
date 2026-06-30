@@ -1,14 +1,18 @@
 {
-    "course":  "STATISTICS",
-    "standard_ids":  [
-                         "MLA.STAT.DCR.4",
-                         "MLA.STAT.DCR.5"
-                     ],
-    "lesson_quiz":  true,
-    "source_file":  "STAT_U05_L05_Quiz.gift",
-    "assessment_type":  "Lesson Quiz Bank",
-    "lesson":  "05",
-    "title":  "Surveys, Experiments, and Observational Studies Quiz Bank",
-    "question_count":  20,
-    "unit":  "Unit 05"
+    "course": "STATISTICS",
+    "guidedPracticeFile": "STAT_U05_L05_GuidedPractice.gift",
+    "giftFile": "STAT_U05_L05_Quiz.gift",
+    "format": "GIFT",
+    "masteryThreshold": 80,
+    "questionBankSize": 25,
+    "lesson": "Lesson 05",
+    "title": "Quiz: Surveys, Experiments, and Observational Studies",
+    "correctAnswerDistribution": {
+        "C": 6,
+        "D": 6,
+        "B": 6,
+        "A": 7
+    },
+    "unit": "Unit 05",
+    "questionsPerAttempt": 5
 }

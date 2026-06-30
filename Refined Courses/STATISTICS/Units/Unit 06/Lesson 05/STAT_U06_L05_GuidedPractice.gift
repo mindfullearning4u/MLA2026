@@ -3,10 +3,9 @@ Question ID: STAT_U06_L05_GP_Q01
 MLA Standard: MLA.STAT.PSU.15
 Question:
 Which question is geometric?
-
 {
-=A. How many calls until the first person answers?#Correct. This counts trials until the first success.
-~B. How many of 10 calls are answered?#This counts successes in a fixed number of trials, which is binomial.
+~A. How many of 10 calls are answered?#This counts successes in a fixed number of trials, which is binomial.
+=B. How many calls until the first person answers?#This counts trials until the first success.
 ~C. What is the average number of calls per day?#This asks for an average, not first success.
 ~D. What percent of calls are answered?#This asks for a proportion, not first success.
 }
@@ -16,10 +15,9 @@ Question ID: STAT_U06_L05_GP_Q02
 MLA Standard: MLA.STAT.PSU.15
 Question:
 If p = 0.30, what is the probability of failure on one trial?
-
 {
-~A. 0.30#That is the probability of success.
-=B. 0.70#Correct. Failure probability is 1 - 0.30 = 0.70.
+=A. 0.70#Failure probability is 1 - 0.30 = 0.70.
+~B. 0.30#That is the probability of success.
 ~C. 1.30#A probability cannot be greater than 1.
 ~D. 0.03#This moves the decimal incorrectly.
 }
@@ -29,11 +27,10 @@ Question ID: STAT_U06_L05_GP_Q03
 MLA Standard: MLA.STAT.PSU.15
 Question:
 First success on trial 3 means which pattern?
-
 {
-~A. success, success, success#That has success before trial 3, so trial 3 is not the first success.
-~B. success, failure, success#This has success on trial 1.
-=C. failure, failure, success#Correct. Trials before the first success must be failures.
+=A. failure, failure, success#Trials before the first success must be failures.
+~B. success, success, success#That has success before trial 3, so trial 3 is not the first success.
+~C. success, failure, success#This has success on trial 1.
 ~D. failure, success, failure#The first success happens on trial 2, not trial 3.
 }
 
@@ -42,12 +39,11 @@ Question ID: STAT_U06_L05_GP_Q04
 MLA Standard: MLA.STAT.PSU.15
 Question:
 If p = 0.20, what is the probability of first success on trial 2?
-
 {
 ~A. 0.20#This is success on the first trial, not first success on trial 2.
 ~B. 0.04#This multiplies success by success.
 ~C. 0.80#This is only the failure probability.
-=D. 0.16#Correct. First success on trial 2 is failure then success: 0.80(0.20) = 0.16.
+=D. 0.16#First success on trial 2 is failure then success: 0.80(0.20) = 0.16.
 }
 
 ::STAT_U06_L05_GP_Q05::
@@ -55,10 +51,9 @@ Question ID: STAT_U06_L05_GP_Q05
 MLA Standard: MLA.STAT.PSU.15
 Question:
 Why does the word first matter in a geometric problem?
-
 {
-=A. It means all earlier trials must be failures#Correct. The first success cannot have any earlier successes.
-~B. It means every trial must be a success#That would not be first success on a later trial.
-~C. It means probabilities are ignored#Probabilities are still used.
+~A. It means every trial must be a success#That would not be first success on a later trial.
+~B. It means probabilities are ignored#Probabilities are still used.
+=C. It means all earlier trials must be failures#The first success cannot have any earlier successes.
 ~D. It means the number of trials is fixed in advance#Geometric problems count until the first success.
 }

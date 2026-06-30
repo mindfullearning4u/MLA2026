@@ -3,9 +3,8 @@ Question ID: STAT_U06_L04_GP_Q01
 MLA Standard: MLA.STAT.PSU.14
 Question:
 A student answers 10 questions. Success means correct, and the probability of success is 0.70. What is n?
-
 {
-=A. 10#Correct. n is the number of trials, which is 10 questions.
+=A. 10#n is the number of trials, which is 10 questions.
 ~B. 0.70#This is p, the probability of success.
 ~C. Correct#This names the success outcome, not n.
 ~D. 7#This is the expected number of successes, not the number of trials.
@@ -16,10 +15,9 @@ Question ID: STAT_U06_L04_GP_Q02
 MLA Standard: MLA.STAT.PSU.14
 Question:
 In a binomial setting, what does p represent?
-
 {
-~A. The number of trials#The number of trials is n.
-=B. The probability of success on one trial#Correct. p is the chance of success for each trial.
+=A. The probability of success on one trial#p is the chance of success for each trial.
+~B. The number of trials#The number of trials is n.
 ~C. The number of failures#Failure count is not represented by p.
 ~D. The total expected value formula#p is part of the formula, not the entire formula.
 }
@@ -29,11 +27,10 @@ Question ID: STAT_U06_L04_GP_Q03
 MLA Standard: MLA.STAT.PSU.14
 Question:
 A basketball player takes 20 shots and makes each shot with probability 0.40. What is the expected number of made shots?
-
 {
 ~A. 0.40#This is the probability of one success, not expected successes.
 ~B. 4#This uses 0.20 instead of 0.40.
-=C. 8#Correct. n × p = 20 × 0.40 = 8.
+=C. 8#n × p = 20 × 0.40 = 8.
 ~D. 20#This assumes every shot is made.
 }
 
@@ -42,12 +39,11 @@ Question ID: STAT_U06_L04_GP_Q04
 MLA Standard: MLA.STAT.PSU.14
 Question:
 Which situation is most clearly binomial?
-
 {
 ~A. Recording the exact temperature every hour#Temperature has many possible values, not just success/failure.
-~B. Measuring the height of students#Height is quantitative, not a success/failure trial.
-~C. Asking students to name their favorite class#There are more than two possible categories.
-=D. Counting how many of 15 emails are opened#Correct. Each email is opened or not opened, and successes are counted.
+=B. Counting how many of 15 emails are opened#Each email is opened or not opened, and successes are counted.
+~C. Measuring the height of students#Height is quantitative, not a success/failure trial.
+~D. Asking students to name their favorite class#There are more than two possible categories.
 }
 
 ::STAT_U06_L04_GP_Q05::
@@ -55,10 +51,9 @@ Question ID: STAT_U06_L04_GP_Q05
 MLA Standard: MLA.STAT.PSU.14
 Question:
 What does an expected value of 6 successes mean in a binomial context?
-
 {
-=A. Over many repeated sets of trials, the average number of successes is about 6#Correct. Expected value is a long-run average.
-~B. Exactly 6 successes must happen every time#Expected value does not guarantee one trial set.
-~C. The probability of success is 6#A probability cannot be 6.
-~D. There are only 6 trials#Expected successes and number of trials are not always the same.
+~A. Exactly 6 successes must happen every time#Expected value does not guarantee one trial set.
+~B. The probability of success is 6#A probability cannot be 6.
+~C. There are only 6 trials#Expected successes and number of trials are not always the same.
+=D. Over many repeated sets of trials, the average number of successes is about 6#Expected value is a long-run average.
 }
