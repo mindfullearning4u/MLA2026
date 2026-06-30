@@ -4,9 +4,9 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
 What model represents 1200 dollars earning 5% annually?
 {
-=A. A(t)=1200(1.05)^t#Correct. The principal is 1200 and the annual growth factor is 1.05.
-~B. A(t)=1200(0.95)^t#This models 5% decrease.
-~C. A(t)=1.05(1200)^t#This reverses principal and factor.
+=A. A(t)=1200(1.05)ᵗ#Correct. The principal is 1200 and the annual growth factor is 1.05.
+~B. A(t)=1200(0.95)ᵗ#This models 5% decrease.
+~C. A(t)=1.05(1200)ᵗ#This reverses principal and factor.
 ~D. A(t)=1200+5t#This is linear growth.
 }
 
@@ -41,7 +41,7 @@ What factor represents 12% depreciation?
 Question ID: ALG2_U04_L03_Q04
 MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
-In V(t)=18000(0.85)^t, what does 0.85 mean?
+In V(t)=18000(0.85)ᵗ, what does 0.85 mean?
 {
 ~A. 85% is lost each year.#If 85% were lost, the factor would be 0.15.
 ~B. The starting value is 0.85.#The starting value is 18000.
@@ -54,7 +54,7 @@ In V(t)=18000(0.85)^t, what does 0.85 mean?
 Question ID: ALG2_U04_L03_Q05
 MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
-In A(t)=500(1.03)^t, what is the annual rate?
+In A(t)=500(1.03)ᵗ, what is the annual rate?
 {
 =A. 3% growth#Correct. The factor 1.03 means 1 + 0.03, or 3% growth.
 ~B. 103% growth#The new amount is 103% of the previous amount, which is 3% growth.
@@ -69,9 +69,9 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
 A computer worth 1600 loses 25% each year. Which model fits?
 {
-~A. V(t)=1600(1.25)^t#This models appreciation.
-=B. V(t)=1600(0.75)^t#Correct. If 25% is lost, 75% remains.
-~C. V(t)=0.75(1600)^t#This reverses the parameters.
+~A. V(t)=1600(1.25)ᵗ#This models appreciation.
+=B. V(t)=1600(0.75)ᵗ#Correct. If 25% is lost, 75% remains.
+~C. V(t)=0.75(1600)ᵗ#This reverses the parameters.
 ~D. V(t)=1600-25t#This subtracts 25 dollars each year.
 }
 
@@ -82,9 +82,9 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
 A savings account starts at 700 and grows by 2% annually. Which model fits?
 {
-~A. A(t)=700(0.98)^t#This models 2% decay.
-~B. A(t)=1.02(700)^t#This reverses the parameters.
-=C. A(t)=700(1.02)^t#Correct. The principal is 700 and the growth factor is 1.02.
+~A. A(t)=700(0.98)ᵗ#This models 2% decay.
+~B. A(t)=1.02(700)ᵗ#This reverses the parameters.
+=C. A(t)=700(1.02)ᵗ#Correct. The principal is 700 and the growth factor is 1.02.
 ~D. A(t)=700+2t#This is linear.
 }
 
@@ -106,7 +106,7 @@ Which statement best describes compound interest?
 Question ID: ALG2_U04_L03_Q09
 MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
-A model B(t)=2500(1.04)^t is evaluated at t=3. What does the result represent?
+A model B(t)=2500(1.04)ᵗ is evaluated at t=3. What does the result represent?
 {
 =A. Balance after 3 time periods#Correct. The input t=3 gives the amount after three compounding intervals.
 ~B. The interest rate#The rate is represented by the factor 1.04.
@@ -121,9 +121,9 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
 Which model shows 6% annual depreciation from 30000 dollars?
 {
-~A. V(t)=30000(1.06)^t#This models appreciation.
-=B. V(t)=30000(0.94)^t#Correct. Depreciation by 6% means 94% remains.
-~C. V(t)=6(30000)^t#This uses the rate incorrectly.
+~A. V(t)=30000(1.06)ᵗ#This models appreciation.
+=B. V(t)=30000(0.94)ᵗ#Correct. Depreciation by 6% means 94% remains.
+~C. V(t)=6(30000)ᵗ#This uses the rate incorrectly.
 ~D. V(t)=30000-6t#This is a fixed dollar decrease.
 }
 
@@ -134,9 +134,9 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
 Which model shows 6% annual appreciation from 30000 dollars?
 {
-~A. V(t)=30000(0.94)^t#This models depreciation.
-~B. V(t)=6(30000)^t#This uses the rate incorrectly.
-=C. V(t)=30000(1.06)^t#Correct. Appreciation by 6% means a factor of 1.06.
+~A. V(t)=30000(0.94)ᵗ#This models depreciation.
+~B. V(t)=6(30000)ᵗ#This uses the rate incorrectly.
+=C. V(t)=30000(1.06)ᵗ#Correct. Appreciation by 6% means a factor of 1.06.
 ~D. V(t)=30000+6t#This adds 6 dollars each year.
 }
 
@@ -173,9 +173,9 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
 A 4000 dollar balance grows by factor 1.05 for 2 years. Which expression evaluates the balance?
 {
-~A. 4000(2)^1.05#This reverses time and factor.
-=B. 4000(1.05)^2#Correct. Use principal times the factor raised to the number of years.
-~C. 1.05(4000)^2#This reverses principal and factor.
+~A. 4000(2)¹.05#This reverses time and factor.
+=B. 4000(1.05)²#Correct. Use principal times the factor raised to the number of years.
+~C. 1.05(4000)²#This reverses principal and factor.
 ~D. 4000+1.05(2)#This is not compound growth.
 }
 
@@ -184,7 +184,7 @@ A 4000 dollar balance grows by factor 1.05 for 2 years. Which expression evaluat
 Question ID: ALG2_U04_L03_Q15
 MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
-A 9000 dollar asset is modeled by V(t)=9000(0.70)^t. What is the depreciation rate?
+A 9000 dollar asset is modeled by V(t)=9000(0.70)ᵗ. What is the depreciation rate?
 {
 ~A. 70%#This is the percent remaining.
 ~B. 0.70%#This confuses the factor with a percent rate.
@@ -210,7 +210,7 @@ Which is a fair way to compare two investment models?
 Question ID: ALG2_U04_L03_Q17
 MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
-If A(t)=1000(1.06)^t, what is A(1)?
+If A(t)=1000(1.06)ᵗ, what is A(1)?
 {
 =A. 1060#Correct. After one year, multiply 1000 by 1.06.
 ~B. 1006#This adds 6 instead of 6%.
@@ -223,7 +223,7 @@ If A(t)=1000(1.06)^t, what is A(1)?
 Question ID: ALG2_U04_L03_Q18
 MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4
 Question:
-If V(t)=20000(0.9)^t, what is V(2)?
+If V(t)=20000(0.9)ᵗ, what is V(2)?
 {
 ~A. 18000#This is V(1).
 =B. 16200#Correct. Compute 20000 times 0.9 squared.

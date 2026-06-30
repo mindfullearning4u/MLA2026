@@ -30,9 +30,9 @@ MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
 A value starts at 600 and grows by 3% each year. Which model fits?
 {
-~A. A(t)=600(0.97)^t#This models 3% decay.
-~B. A(t)=1.03(600)^t#This reverses the parameters.
-=C. A(t)=600(1.03)^t#Correct. The initial value is 600 and 3% growth gives factor 1.03.
+~A. A(t)=600(0.97)ᵗ#This models 3% decay.
+~B. A(t)=1.03(600)ᵗ#This reverses the parameters.
+=C. A(t)=600(1.03)ᵗ#Correct. The initial value is 600 and 3% growth gives factor 1.03.
 ~D. A(t)=600+3t#This is linear growth.
 }
 
@@ -43,10 +43,10 @@ MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
 A value starts at 900 and decreases by 4% each year. Which model fits?
 {
-~A. A(t)=900(1.04)^t#This models 4% growth.
-~B. A(t)=0.96(900)^t#This reverses the parameters.
+~A. A(t)=900(1.04)ᵗ#This models 4% growth.
+~B. A(t)=0.96(900)ᵗ#This reverses the parameters.
 ~C. A(t)=900-4t#This subtracts 4 units per year, not 4%.
-=D. A(t)=900(0.96)^t#Correct. The initial value is 900 and 4% decay gives factor 0.96.
+=D. A(t)=900(0.96)ᵗ#Correct. The initial value is 900 and 4% decay gives factor 0.96.
 }
 
 
@@ -54,7 +54,7 @@ A value starts at 900 and decreases by 4% each year. Which model fits?
 Question ID: ALG2_U04_L02_Q05
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-In P(t)=1200(1.09)^t, what is the percent growth rate?
+In P(t)=1200(1.09)ᵗ, what is the percent growth rate?
 {
 =A. 9%#Correct. A factor of 1.09 means 1 + 0.09, or 9% growth.
 ~B. 1.09%#The decimal part 0.09 corresponds to 9%, not 1.09%.
@@ -67,7 +67,7 @@ In P(t)=1200(1.09)^t, what is the percent growth rate?
 Question ID: ALG2_U04_L02_Q06
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-In V(t)=5000(0.82)^t, what is the percent decay rate?
+In V(t)=5000(0.82)ᵗ, what is the percent decay rate?
 {
 ~A. 82%#That is the percent remaining, not the decay rate.
 =B. 18%#Correct. A factor of 0.82 means 82% remains, so 18% is lost.
@@ -80,7 +80,7 @@ In V(t)=5000(0.82)^t, what is the percent decay rate?
 Question ID: ALG2_U04_L02_Q07
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-What is A(2) for A(t)=100(1.5)^t?
+What is A(2) for A(t)=100(1.5)ᵗ?
 {
 ~A. 150#This is A(1), not A(2).
 ~B. 300#This doubles the one-period increase incorrectly.
@@ -108,9 +108,9 @@ MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
 A bank account grows from 1000 by 6% annually. Which model fits?
 {
-=A. A(t)=1000(1.06)^t#Correct. The factor 1.06 represents 6% annual growth.
-~B. A(t)=1000(0.94)^t#This models 6% decay.
-~C. A(t)=1.06(1000)^t#This reverses initial value and factor.
+=A. A(t)=1000(1.06)ᵗ#Correct. The factor 1.06 represents 6% annual growth.
+~B. A(t)=1000(0.94)ᵗ#This models 6% decay.
+~C. A(t)=1.06(1000)ᵗ#This reverses initial value and factor.
 ~D. A(t)=1000+6t#This adds 6 dollars per year, not 6%.
 }
 
@@ -171,7 +171,7 @@ A quantity grows by 30%. What percent of the original is the new amount?
 Question ID: ALG2_U04_L02_Q14
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-What is the initial value in C(t)=750(0.95)^t?
+What is the initial value in C(t)=750(0.95)ᵗ?
 {
 ~A. 0.95#This is the decay factor.
 =B. 750#Correct. The coefficient is the starting amount when t = 0.
@@ -184,7 +184,7 @@ What is the initial value in C(t)=750(0.95)^t?
 Question ID: ALG2_U04_L02_Q15
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-What is the factor in M(t)=300(1.18)^t?
+What is the factor in M(t)=300(1.18)ᵗ?
 {
 ~A. 300#This is the initial value.
 ~B. 18#This is the percent growth rate, not the factor.
@@ -199,10 +199,10 @@ MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
 Which model shows 12% decay from an initial amount of 40?
 {
-~A. y=40(1.12)^t#This models 12% growth.
-~B. y=12(40)^t#This reverses parameters and uses the percent incorrectly.
+~A. y=40(1.12)ᵗ#This models 12% growth.
+~B. y=12(40)ᵗ#This reverses parameters and uses the percent incorrectly.
 ~C. y=40-12t#This is linear decrease.
-=D. y=40(0.88)^t#Correct. Decay by 12% means a factor of 0.88.
+=D. y=40(0.88)ᵗ#Correct. Decay by 12% means a factor of 0.88.
 }
 
 
@@ -212,9 +212,9 @@ MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
 Which model shows 12% growth from an initial amount of 40?
 {
-=A. y=40(1.12)^t#Correct. Growth by 12% means a factor of 1.12.
-~B. y=40(0.88)^t#This models 12% decay.
-~C. y=12(40)^t#This reverses parameters and uses the percent incorrectly.
+=A. y=40(1.12)ᵗ#Correct. Growth by 12% means a factor of 1.12.
+~B. y=40(0.88)ᵗ#This models 12% decay.
+~C. y=12(40)ᵗ#This reverses parameters and uses the percent incorrectly.
 ~D. y=40+12t#This adds 12 units each period, not 12%.
 }
 
@@ -223,7 +223,7 @@ Which model shows 12% growth from an initial amount of 40?
 Question ID: ALG2_U04_L02_Q18
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-A medicine amount is modeled by M(t)=80(0.5)^t. What does 0.5 mean?
+A medicine amount is modeled by M(t)=80(0.5)ᵗ. What does 0.5 mean?
 {
 ~A. The amount increases by half.#A factor below 1 means decay, not growth.
 =B. Half remains each time period.#Correct. A factor of 0.5 means the amount is multiplied by one-half each period.
@@ -236,7 +236,7 @@ A medicine amount is modeled by M(t)=80(0.5)^t. What does 0.5 mean?
 Question ID: ALG2_U04_L02_Q19
 MLA Standard: MLA.A2.EX.2; MLA.A2.EX.3
 Question:
-A population model is P(t)=250(1.4)^t. What is the growth rate?
+A population model is P(t)=250(1.4)ᵗ. What is the growth rate?
 {
 ~A. 4%#That would have factor 1.04.
 ~B. 140%#The amount becomes 140% of previous, which means 40% growth.

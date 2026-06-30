@@ -7,7 +7,7 @@ A phone plan charges $35 plus $12 per gigabyte. Which model gives monthly cost C
 =A. C=35+12g#Correct. The fixed monthly charge is added to the variable data charge.
 ~B. C=35g+12#This reverses the fixed charge and the per-gigabyte rate.
 ~C. C=12g-35#This subtracts the fixed charge instead of adding it.
-~D. C=35(12)^g#This is exponential, but the context has a constant rate per gigabyte.
+~D. C=35(12)ᵍ#This is exponential, but the context has a constant rate per gigabyte.
 }
 
 
@@ -18,9 +18,9 @@ Question:
 A car loses 15% of its value each year from an initial value of $20,000. Which model fits the value after t years?
 {
 ~A. V=20000+0.15t#This is linear and does not model repeated percent decrease.
-=B. V=20000(0.85)^t#Correct. A 15% decrease leaves 85% of the value each year.
-~C. V=20000(1.15)^t#This represents a 15% increase, not depreciation.
-~D. V=0.85(20000)^t#This incorrectly uses the initial value as the exponential base.
+=B. V=20000(0.85)ᵗ#Correct. A 15% decrease leaves 85% of the value each year.
+~C. V=20000(1.15)ᵗ#This represents a 15% increase, not depreciation.
+~D. V=0.85(20000)ᵗ#This incorrectly uses the initial value as the exponential base.
 }
 
 
@@ -240,7 +240,7 @@ Which model best represents a quantity that decreases by half each time period?
 {
 ~A. y=a+0.5x#This adds a constant amount, so it is linear.
 ~B. y=0.5a+x#This does not repeatedly halve the quantity.
-=C. y=a(0.5)^x#Correct. Multiplying by 0.5 each period gives repeated halving.
+=C. y=a(0.5)ˣ#Correct. Multiplying by 0.5 each period gives repeated halving.
 ~D. y=ax+0.5#This is linear with a y-intercept of 0.5.
 }
 

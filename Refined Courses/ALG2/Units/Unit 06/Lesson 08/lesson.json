@@ -1,1 +1,59 @@
-{"course":"ALG2","unit":"Unit 06","lesson":"Lesson 08","title":"Putting It All Together","standards":[{"code":"Unit 6 standards synthesis; no new primary MLA standard","description":"Synthesize financial, data, regression, and modeling skills across Algebra II.","floridaBenchmark":"Unit 6 benchmarks synthesis; no new primary benchmark"}],"pages":[{"file":"P01.html","title":"Putting It All Together Overview"},{"file":"P02.html","title":"Notebook Task Part 1"},{"file":"P03.html","title":"Notebook Task Part 2"},{"file":"P04.html","title":"Concept Review / Worked Examples"},{"file":"P05.html","title":"Guided Practice"},{"file":"P06.html","title":"Independent Work + Checkpoint + Notebook Evidence"},{"file":"P07.html","title":"Unit Assessment"}]}
+{
+    "course":  "ALG2",
+    "unit":  "Unit 06",
+    "lesson":  "Lesson 08",
+    "title":  "Putting It All Together",
+    "standards":  [
+                      {
+                          "code":  "Unit 6 standards synthesis; no new primary MLA standard",
+                          "description":  "Synthesize financial, data, regression, and modeling skills across Algebra II.",
+                          "floridaBenchmark":  "Unit 6 benchmarks synthesis; no new primary benchmark"
+                      }
+                  ],
+    "pages":  [
+                  {
+                      "file":  "P01.html",
+                      "title":  "Putting It All Together Overview"
+                  },
+                  {
+                      "file":  "P02.html",
+                      "title":  "Notebook Task Part 1"
+                  },
+                  {
+                      "file":  "P03.html",
+                      "title":  "Notebook Task Part 2"
+                  },
+                  {
+                      "file":  "P04.html",
+                      "title":  "Concept Review / Worked Examples"
+                  },
+                  {
+                      "file":  "P05.html",
+                      "title":  "Guided Practice"
+                  },
+                  {
+                      "file":  "P06.html",
+                      "title":  "Independent Work + Checkpoint + Notebook Evidence"
+                  },
+                  {
+                      "file":  "P07.html",
+                      "title":  "Unit Assessment"
+                  }
+              ],
+    "assessment":  "Unit Assessment",
+    "masteryThreshold":  80,
+    "guidedPractice":  {
+                           "file":  "ALG2_U06_L08_GuidedPractice.gift",
+                           "questionCount":  5,
+                           "graded":  false,
+                           "feedback":  "immediate"
+                       },
+    "quiz":  {
+                 "file":  "ALG2_U06_UnitAssessment.gift",
+                 "questionsPerAttempt":  40,
+                 "bankSize":  40,
+                 "questionBank":  true,
+                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
+                 "assessmentType":  "Unit Assessment"
+             }
+}

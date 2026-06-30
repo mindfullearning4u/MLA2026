@@ -53,9 +53,10 @@
                  "file":  "ALG2_U01_UnitAssessment.gift",
                  "questionsPerAttempt":  40,
                  "bankSize":  40,
-                 "attemptPolicy":  "unit_assessment_mastery_required",
+                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
                  "questionBank":  true,
-                 "randomizedRetakeRequired":  true
+                 "randomizedRetakeRequired":  true,
+                 "assessmentType":  "Unit Assessment"
              },
     "guidedPractice":  {
                            "file":  "ALG2_U01_L08_GuidedPractice.gift",

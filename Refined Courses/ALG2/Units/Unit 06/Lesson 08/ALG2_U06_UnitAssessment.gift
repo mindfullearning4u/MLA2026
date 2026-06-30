@@ -7,7 +7,7 @@ A loan balance is $4,000 and decreases by $250 each month. Which expression repr
 =A. 4000-250m#Correct. The balance starts at 4000 and decreases by 250 for each month.
 ~B. 4000+250m#This models the balance increasing each month.
 ~C. 250-4000m#This reverses the starting value and monthly change.
-~D. 4000(250)^m#This is exponential and does not match a constant monthly decrease.
+~D. 4000(250)ᵐ#This is exponential and does not match a constant monthly decrease.
 }
 
 ::ALG2_U06_UA_Q02::
@@ -38,7 +38,7 @@ A scatterplot shows a nearly straight upward trend. Which model should be consid
 Question ID: ALG2_U06_UA_Q04
 MLA Standard: MLA.A2.EX.4
 Question:
-An exponential regression is y=80(1.12)^x. What is the initial value?
+An exponential regression is y=80(1.12)ˣ. What is the initial value?
 {
 ~A. 1.12#This is the growth factor.
 ~B. 12#This is the percent growth rate, not the initial value.
@@ -77,9 +77,9 @@ Question:
 An investment grows from $1,000 by 4% annually. Which model gives value after t years?
 {
 ~A. V=1000+0.04t#This is linear, not repeated percent growth.
-~B. V=1000(0.96)^t#This models a 4% decrease.
-=C. V=1000(1.04)^t#Correct. Annual growth of 4% uses a factor of 1.04.
-~D. V=1.04(1000)^t#This incorrectly uses the starting amount as the base.
+~B. V=1000(0.96)ᵗ#This models a 4% decrease.
+=C. V=1000(1.04)ᵗ#Correct. Annual growth of 4% uses a factor of 1.04.
+~D. V=1.04(1000)ᵗ#This incorrectly uses the starting amount as the base.
 }
 
 ::ALG2_U06_UA_Q08::
@@ -91,7 +91,7 @@ A geometric sequence has first term 3 and common ratio 2. What is the fourth ter
 ~A. 6#This is the second term.
 ~B. 9#This adds 2 repeatedly instead of multiplying by 2.
 ~C. 18#This multiplies by 2 too many or too few times depending on setup.
-=D. 24#Correct. The fourth term is 3(2)^3, which equals 24.
+=D. 24#Correct. The fourth term is 3(2)³, which equals 24.
 }
 
 ::ALG2_U06_UA_Q09::
@@ -110,7 +110,7 @@ Which action is most appropriate before fitting a model to data?
 Question ID: ALG2_U06_UA_Q10
 MLA Standard: MLA.A2.EX.4
 Question:
-For y=500(0.92)^x, what does 0.92 mean?
+For y=500(0.92)ˣ, what does 0.92 mean?
 {
 ~A. A 92% increase#A factor of 0.92 is less than 1, so it indicates decay.
 =B. An 8% decrease per time period#Correct. Keeping 92% means losing 8% each period.
@@ -151,7 +151,7 @@ A gym charges $40 to join and $20 per month. Which model gives total cost after 
 =A. C=40+20m#Correct. The joining fee is fixed and the monthly cost is variable.
 ~B. C=20+40m#This reverses the joining fee and monthly rate.
 ~C. C=40m-20#This subtracts the monthly cost instead of adding the fixed fee.
-~D. C=40(20)^m#This is exponential and does not fit a fixed monthly charge.
+~D. C=40(20)ᵐ#This is exponential and does not fit a fixed monthly charge.
 }
 
 ::ALG2_U06_UA_Q14::
@@ -220,8 +220,8 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 A savings account starts at $600 and earns simple interest of $30 per year. Which model applies after t years?
 {
-~A. S=600(1.30)^t#This models compound percent growth, not simple interest.
-~B. S=30(600)^t#This uses the starting value incorrectly as a base.
+~A. S=600(1.30)ᵗ#This models compound percent growth, not simple interest.
+~B. S=30(600)ᵗ#This uses the starting value incorrectly as a base.
 =C. S=600+30t#Correct. Simple interest adds a constant amount each year.
 ~D. S=600-30t#This models the balance decreasing by 30 each year.
 }
@@ -254,7 +254,7 @@ Which statement best describes an outlier?
 Question ID: ALG2_U06_UA_Q22
 MLA Standard: MLA.A2.EX.4
 Question:
-A regression equation is y=30(1.5)^x. What type of change does it model?
+A regression equation is y=30(1.5)ˣ. What type of change does it model?
 {
 ~A. Linear growth by 1.5 units#The variable is in the exponent, so this is not linear.
 =B. Exponential growth by a factor of 1.5#Correct. Each increase of 1 in x multiplies y by 1.5.
@@ -292,10 +292,10 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 A balance of $900 earns 2% compound interest each year. Which expression gives the balance after 3 years?
 {
-=A. 900(1.02)^3#Correct. Compound growth multiplies by 1.02 for each of 3 years.
+=A. 900(1.02)³#Correct. Compound growth multiplies by 1.02 for each of 3 years.
 ~B. 900+0.02(3)#This does not apply the percent to the balance each year.
-~C. 900(0.98)^3#This represents a 2% decrease each year.
-~D. 900+2^3#This treats the interest rate as a whole-number base.
+~C. 900(0.98)³#This represents a 2% decrease each year.
+~D. 900+2³#This treats the interest rate as a whole-number base.
 }
 
 ::ALG2_U06_UA_Q26::
@@ -326,7 +326,7 @@ Which technology output is most directly used to judge how far predictions are f
 Question ID: ALG2_U06_UA_Q28
 MLA Standard: MLA.A2.EX.4
 Question:
-If a population model is P=2500(0.97)^t, what happens as t increases?
+If a population model is P=2500(0.97)ᵗ, what happens as t increases?
 {
 ~A. The population grows by 97% each period#A factor below 1 indicates decay, not growth.
 ~B. The population stays constant at 2500#The factor changes the value each period.
@@ -401,8 +401,8 @@ Question:
 Which model is exponential?
 {
 ~A. y=4x+7#The variable has exponent 1, so this is linear.
-=B. y=7(4)^x#Correct. The variable appears in the exponent.
-~C. y=x^2+4#This is quadratic, not exponential.
+=B. y=7(4)ˣ#Correct. The variable appears in the exponent.
+~C. y=x²+4#This is quadratic, not exponential.
 ~D. y=4/x#This is rational, not exponential.
 }
 
@@ -449,9 +449,9 @@ Question:
 A bacterial culture doubles every hour from 200 bacteria. Which model gives the amount after h hours?
 {
 ~A. B=200+2h#This adds 2 each hour, not doubles.
-=B. B=200(2)^h#Correct. Doubling each hour means multiplying by 2 repeatedly.
-~C. B=2(200)^h#This incorrectly uses the initial amount as the base.
-~D. B=200(0.5)^h#This models halving, not doubling.
+=B. B=200(2)ʰ#Correct. Doubling each hour means multiplying by 2 repeatedly.
+~C. B=2(200)ʰ#This incorrectly uses the initial amount as the base.
+~D. B=200(0.5)ʰ#This models halving, not doubling.
 }
 
 ::ALG2_U06_UA_Q39::

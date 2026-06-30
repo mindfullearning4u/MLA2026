@@ -46,5 +46,21 @@
                                  "description":  "Interpret data relationships and use technology to create appropriate models.",
                                  "floridaBenchmark":  "MA.912.DP.2.8"
                              }
-                         ]
+                         ],
+    "assessment":  "Quiz",
+    "masteryThreshold":  80,
+    "guidedPractice":  {
+                           "file":  "ALG2_U06_L03_GuidedPractice.gift",
+                           "questionCount":  5,
+                           "graded":  false,
+                           "feedback":  "immediate"
+                       },
+    "quiz":  {
+                 "file":  "ALG2_U06_L03_Quiz.gift",
+                 "questionsPerAttempt":  5,
+                 "bankSize":  20,
+                 "questionBank":  true,
+                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
+                 "randomizedRetakeRequired":  true
+             }
 }

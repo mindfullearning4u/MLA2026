@@ -1,22 +1,59 @@
 {
-  "course": "ALG2",
-  "unit": "Unit 06",
-  "lesson": "Lesson 02",
-  "title": "Sequences and Series",
-  "standards": [
-    {
-      "code": "Support-only readiness; no new primary MLA standard",
-      "description": "Use arithmetic and geometric patterns to support modeling and readiness for future mathematics.",
-      "floridaBenchmark": "Support-only readiness; no new primary benchmark"
-    }
-  ],
-  "pages": [
-    {"file": "P01.html", "title": "Lesson Overview"},
-    {"file": "P02.html", "title": "Notebook Task Part 1"},
-    {"file": "P03.html", "title": "Notebook Task Part 2"},
-    {"file": "P04.html", "title": "Concept Development / Worked Examples"},
-    {"file": "P05.html", "title": "Guided Practice"},
-    {"file": "P06.html", "title": "Independent Work + Checkpoint + Notebook Evidence"},
-    {"file": "P07.html", "title": "Lesson Quiz"}
-  ]
+    "course":  "ALG2",
+    "unit":  "Unit 06",
+    "lesson":  "Lesson 02",
+    "title":  "Sequences and Series",
+    "standards":  [
+                      {
+                          "code":  "Support-only readiness; no new primary MLA standard",
+                          "description":  "Use arithmetic and geometric patterns to support modeling and readiness for future mathematics.",
+                          "floridaBenchmark":  "Support-only readiness; no new primary benchmark"
+                      }
+                  ],
+    "pages":  [
+                  {
+                      "file":  "P01.html",
+                      "title":  "Lesson Overview"
+                  },
+                  {
+                      "file":  "P02.html",
+                      "title":  "Notebook Task Part 1"
+                  },
+                  {
+                      "file":  "P03.html",
+                      "title":  "Notebook Task Part 2"
+                  },
+                  {
+                      "file":  "P04.html",
+                      "title":  "Concept Development / Worked Examples"
+                  },
+                  {
+                      "file":  "P05.html",
+                      "title":  "Guided Practice"
+                  },
+                  {
+                      "file":  "P06.html",
+                      "title":  "Independent Work + Checkpoint + Notebook Evidence"
+                  },
+                  {
+                      "file":  "P07.html",
+                      "title":  "Lesson Quiz"
+                  }
+              ],
+    "assessment":  "Quiz",
+    "masteryThreshold":  80,
+    "guidedPractice":  {
+                           "file":  "ALG2_U06_L02_GuidedPractice.gift",
+                           "questionCount":  5,
+                           "graded":  false,
+                           "feedback":  "immediate"
+                       },
+    "quiz":  {
+                 "file":  "ALG2_U06_L02_Quiz.gift",
+                 "questionsPerAttempt":  5,
+                 "bankSize":  20,
+                 "questionBank":  true,
+                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
+                 "randomizedRetakeRequired":  true
+             }
 }

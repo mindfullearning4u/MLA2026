@@ -1,15 +1,25 @@
 {
-  "course": "ALG2",
-  "unit": "Unit 06",
-  "lesson": "Lesson 03",
-  "title": "Data Modeling Quiz",
-  "guidedPractice": "ALG2_U06_L03_GuidedPractice.gift",
-  "quiz": "ALG2_U06_L03_Quiz.gift",
-  "standards": [
-    {
-      "code": "MLA.A2.FM.1",
-      "description": "Interpret data relationships and use technology to create appropriate models.",
-      "floridaBenchmark": "MA.912.DP.2.8"
-    }
-  ]
+    "course":  "ALG2",
+    "unit":  "Unit 06",
+    "lesson":  "Lesson 03",
+    "title":  "Quiz: Data Modeling",
+    "guidedPractice":  "ALG2_U06_L03_GuidedPractice.gift",
+    "quiz":  "ALG2_U06_L03_Quiz.gift",
+    "standards":  [
+                      {
+                          "code":  "MLA.A2.FM.1",
+                          "description":  "Interpret data relationships and use technology to create appropriate models.",
+                          "floridaBenchmark":  "MA.912.DP.2.8"
+                      }
+                  ],
+    "giftFile":  "ALG2_U06_L03_Quiz.gift",
+    "questionBankSize":  20,
+    "questionsPerAttempt":  5,
+    "format":  "GIFT",
+    "masteryThreshold":  80,
+    "attemptPolicy":  {
+                          "studentAttemptsBeforeIntervention":  1,
+                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
+                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
+                      }
 }
