@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 05/Lesson 05/ALG1_U05_L05_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L05_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L05_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.QE.1</p><p>Solve x&#178;-5x+6=0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-2 and x=-3]]></text>
+      <feedback format="html">
+        <text><![CDATA[These signs would come from (x+2)(x+3)=0, which does not match the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=2 and x=3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The equation factors as (x-2)(x-3)=0, so the solutions are 2 and 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=1 and x=6]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values multiply to 6 but add to 7, not 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-1 and x=-6]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values do not produce the correct middle term when factored.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L05_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L05_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.QE.1</p><p>What property justifies setting x-4=0 and x+1=0 after factoring x&#178;-3x-4=0 as (x-4)(x+1)=0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Distributive property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The distributive property explains expansion, but not why each factor can be set equal to zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Commutative property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The commutative property changes order, not the solving step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Additive identity property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The additive identity involves adding 0, not solving a factored equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Zero-product property]]></text>
+      <feedback format="html">
+        <text><![CDATA[If a product equals zero, at least one factor must equal zero.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L05_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L05_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.QE.6</p><p>A ball&#39;s height is modeled by h(t)=-16t(t-2). When does the ball return to the ground after launch?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t=2 seconds]]></text>
+      <feedback format="html">
+        <text><![CDATA[The positive zero after t=0 means the ball returns to the ground at 2 seconds.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t=-16 seconds]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient affects height scale, not the zero after launch.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t=0 seconds]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the launch time, not the return after launch.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t=16 seconds]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the coefficient as a time, which is not a zero of the model.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L05_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L05_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.QE.1</p><p>Solve (x+7)(x-2)=0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=7 and x=-2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The signs are reversed from the factors.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-7 and x=-2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x-2 gives x=2, not -2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=-7 and x=2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Set each factor equal to 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=7 and x=2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x+7 gives x=-7, not 7.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L05_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L05_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.QE.6</p><p>A rectangle has area 48 square units and side lengths x and x+2. Which equation should be solved to find x?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x+x+2=48]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds side lengths and would describe a partial perimeter relationship, not area.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x(x+2)=48]]></text>
+      <feedback format="html">
+        <text><![CDATA[Area is length times width, so the product of the side lengths must equal 48.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+2(x+2)=48]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents perimeter, not area.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;+2=48]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the 2x term from multiplying x(x+2).]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

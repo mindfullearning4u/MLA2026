@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 05/ALG1_U05_Pretest</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.FND.3; MLA.A1.FND.6</p><p>Simplify 2x(3x+4).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6x&#178;+8x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribute 2x to both terms: 2x*3x=6x&#178; and 2x*4=8x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6x+8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the x&#178; term from multiplying x by x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5x&#178;+6x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds coefficients instead of multiplying each term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6x&#178;+4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The second term was not multiplied by 2x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.FND.7</p><p>Simplify (18x&#179;-12x&#178;)/(6x).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x&#179;-2x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable factor x must also divide out of each term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12x&#178;-6x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts coefficients instead of dividing terms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3x&#178;-2x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Divide each term by 6x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x&#178;-12x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only the first term was divided correctly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.FND.8; MLA.A1.QE.3</p><p>Which factorization matches x&#178;-9x+20?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x+4)(x+5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x&#178;+9x+20, so the middle term sign is wrong.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x-4)(x-5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[-4 and -5 multiply to 20 and add to -9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x-2)(x-10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These factors multiply to 20 but add to -12, not -9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x+2)(x+10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives the wrong signs and middle term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.QE.2</p><p>A table has y-values 1, 4, 9, 16, 25 as x increases by 1. What model type is suggested?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear]]></text>
+      <feedback format="html">
+        <text><![CDATA[The first differences are not constant.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ratios are not constant.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant]]></text>
+      <feedback format="html">
+        <text><![CDATA[The outputs change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Quadratic]]></text>
+      <feedback format="html">
+        <text><![CDATA[The first differences are 3, 5, 7, and 9, so the second differences are constant.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.QE.4; MLA.A1.QE.5</p><p>What is the vertex of y=(x-2)&#178;+5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2,5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign inside the parentheses is interpreted oppositely.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2,5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[In vertex form, y=(x-h)&#178;+k, the vertex is (h,k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2,-5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The value outside the square is +5, not -5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2,-5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both coordinates use the wrong signs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.QE.1; MLA.A1.QE.6</p><p>Solve x&#178;-7x+10=0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=2 and x=5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The equation factors as (x-2)(x-5)=0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-2 and x=-5]]></text>
+      <feedback format="html">
+        <text><![CDATA[These signs would create a positive middle term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=1 and x=10]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values multiply to 10 but do not add to 7.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-1 and x=-10]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values do not match the factorization.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7; MLA.A1.QE.8</p><p>Which function shows exponential growth from an initial value of 60?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=60(0.8)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base between 0 and 1 shows decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=60+1.2x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear, not exponential.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y=60(1.2)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial value is 60 and the base 1.2 shows growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=1.2(60)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>A car value is modeled by V(t)=24000(0.85)ᵗ. What does 0.85 mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The car starts at 0.85 dollars.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting value is 24000.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The car gains 85% each year.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor less than 1 shows decay, not growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The car loses 85% each year.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor of 0.85 means 85% remains, so the loss is 15%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The car keeps 85% of its value each year.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplying by 0.85 means 85% remains each year.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.FN.6</p><p>Which table pattern identifies an exponential model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Constant ratios]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential models multiply by a common factor over equal input intervals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant first differences]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies a linear model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant second differences]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies a quadratic model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant x-values]]></text>
+      <feedback format="html">
+        <text><![CDATA[A model is identified by output behavior as inputs change.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_PT_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_PT_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.FN.7</p><p>Which context is best modeled by a quadratic function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A savings account grows by 4% each year.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated percent growth is exponential.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A ball is thrown upward and then falls back down.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Projectile height is commonly represented by a quadratic model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A taxi fare adds the same amount per mile.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A constant amount per mile is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A medicine amount is multiplied by 0.6 each hour.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated multiplication by a factor less than 1 is exponential decay.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

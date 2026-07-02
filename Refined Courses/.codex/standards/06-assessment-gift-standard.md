@@ -1,4 +1,4 @@
-# Assessment GIFT Standard
+# Assessment Moodle Import Standard
 
 ## Purpose
 
@@ -15,7 +15,36 @@ Default math requirement:
 
 If a course-specific standard conflicts, report the conflict and use the current course standard only after confirmation.
 
-## Required File Types
+## Required Import Formats
+
+For math courses, Moodle XML is the primary certified Moodle import format when graphs, tables, diagrams, or other visuals improve assessment clarity.
+
+Math Moodle XML requirements:
+
+- `.xml`
+- UTF-8
+- Moodle XML question-bank format
+- embedded base64 image files when visuals are needed
+- answer choices must not include visible `A.`, `B.`, `C.`, or `D.` prefixes because Moodle XML supplies answer lettering
+- HTML is allowed only inside Moodle XML fields where needed for tables, superscripts, and embedded images
+- every XML question must still include Question ID and MLA Standard in the question text
+- exactly four answer choices
+- exactly one correct answer
+- teachable feedback for every answer choice
+
+For math courses, GIFT may remain as the plain-text source, audit artifact, or fallback import format. Do not delete certified GIFT files unless the course owner explicitly requests it.
+
+If the assessment requires a graph, coordinate plane, shaded inequality, table, diagram, or other visual to make the question clear, generate or embed that visual in Moodle XML before the assessment can be marked production ready. Do not accept "GIFT cannot show visuals" as a reason to omit a needed visual from a math assessment.
+
+Current ALG1 conversion pipeline:
+
+- `.codex/tools/convert-alg1-gift-to-moodlexml.ps1`
+- converts all ALG1 `.gift` assessment banks to Moodle XML
+- stores generated XML beside each source bank in a `Moodle XML` folder
+- embeds generated graph PNGs directly in Moodle XML using base64 file attachments
+- preserves the original GIFT files unchanged
+
+## GIFT Source/Fallback File Types
 
 Assessment files must be:
 

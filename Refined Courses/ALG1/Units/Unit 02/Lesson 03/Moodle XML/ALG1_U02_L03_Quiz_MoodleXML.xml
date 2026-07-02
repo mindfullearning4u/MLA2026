@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 02/Lesson 03/ALG1_U02_L03_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 3(x + 2) = 24.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribute or divide first: 3x + 6 = 24, so x = 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after dividing 24 by 3 and ignores the +2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 2 instead of subtracting after undoing multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 72]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies instead of solving.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 4x + 2x - 9 = 27.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not correctly add 9 and divide by 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after adding 9 and does not divide by 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Combine like terms to get 6x - 9 = 27, then solve.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses an incorrect coefficient after combining like terms.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 1/2x + 5 = 13.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after subtracting 5 and does not undo multiplication by one-half.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract 5 to get one-half x equals 8, then multiply by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides by 2 instead of multiplying by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 5 instead of subtracting 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Which equation represents a $12 fee plus $5 per ticket totaling $47? Let t represent tickets.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 + 12t = 47]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the fee and per-ticket cost.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12t + 5 = 47]]></text>
+      <feedback format="html">
+        <text><![CDATA[This makes 12 the repeated cost instead of the fixed fee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[47 + 5t = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This places the total on the wrong side of the relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12 + 5t = 47]]></text>
+      <feedback format="html">
+        <text><![CDATA[The fixed fee is 12 and the repeated ticket cost is 5t.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>A student writes 2(x + 5) = 2x + 5. What is the error?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The 2 was not distributed to 5.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The 2 must multiply both x and 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The x should be removed.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable remains part of the expression.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The equation has no solution.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The issue is distribution, not solution type.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The 2 should be added to x.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribution uses multiplication, not addition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 2(x - 3) + 5 = 17.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the +5 after distribution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribute and combine: 2x - 1 = 17.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not correctly combine -6 and +5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 34]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies instead of isolating x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 6x - 2x + 8 = 32.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong result after subtracting 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after subtracting 8 and does not divide by 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 8 instead of subtracting 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Combine like terms to get 4x + 8 = 32.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 3(x - 4) + 9 = 24.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not distribute and combine correctly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This skips part of the constant expression.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops too early after undoing one operation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[3x - 12 + 9 = 24, so 3x - 3 = 24.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 0.5x + 6 = 18.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract 6 to get 0.5x = 12, then divide by 0.5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after subtracting 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides by 2 instead of by 0.5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 6 instead of subtracting 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>A club charges $15 plus $4 per meeting. The total is $43. How many meetings are included?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4 meetings]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the per-meeting cost.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[11 meetings]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the fixed $15 fee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58 meetings]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the quantities instead of solving.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[7 meetings]]></text>
+      <feedback format="html">
+        <text><![CDATA[15 + 4m = 43 gives m = 7.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q11</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 5(x + 1) - 3 = 27.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not account for the -3 after distribution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5x + 5 - 3 = 27, so 5x + 2 = 27.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops before dividing by 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 31]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 3 instead of simplifying the left side.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q12</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 8 + 2(x - 1) = 18.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses part of the constant combination.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after subtracting 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[8 + 2x - 2 = 18, so 2x + 6 = 18.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong inverse operation at the end.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q13</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>What should be done first to solve 4(x + 3) = 28?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Distribute 4 or divide both sides by 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Either valid path simplifies the equation before isolating x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtract 3 from 28 immediately]]></text>
+      <feedback format="html">
+        <text><![CDATA[The +3 is inside parentheses and cannot be removed first from 28.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add 3 to both sides]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not undo the outside multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combine 4 and x as 4x only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That ignores the +3 inside parentheses.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q14</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Which expression is equivalent to 3(x + 7) before solving?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x + 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This distributes only to x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 21]]></text>
+      <feedback format="html">
+        <text><![CDATA[This distributes only to 7.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3x + 21]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribute 3 to both terms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds values instead of distributing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q15</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 2x + 3x + 10 = 40.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not correctly divide after subtracting 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after subtracting 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines or divides incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Combine to 5x + 10 = 40.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q16</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 10 - 2(x + 1) = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign after dividing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[10 - 2x - 2 = 4, so 8 - 2x = 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the subtraction before the parentheses.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines constants incorrectly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q17</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>A plan costs $20 plus $8 per month. The total is $68. Which equation can be solved for months m?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[20 + 8m = 68]]></text>
+      <feedback format="html">
+        <text><![CDATA[The fixed cost is 20 and the monthly cost is 8m.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8 + 20m = 68]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses fixed and monthly costs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[68 + 8m = 20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This places the total incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20m + 68 = 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the total as a term instead of the result.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q18</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 7(x - 2) = 35.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after dividing by 7.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Divide by 7 to get x - 2 = 5, then add 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 2 instead of adding 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 49]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies instead of solving.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q19</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 9x - 4x - 15 = 10.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after adding 15.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong coefficient after combining.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Combine to 5x - 15 = 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q20</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 2/3x + 1 = 7.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after subtracting 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies by two-thirds instead of its reciprocal.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract 1, then multiply by three-halves.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong reciprocal.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q21</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 2(x + 4) = 26.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribute to get 2x + 8 = 26, then solve 2x = 18.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides 26 by 2 but does not account for +4 inside parentheses.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts incorrectly after distribution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 17]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds instead of undoing the constant term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q22</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 6m - 4 + 2m = 28.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[m = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not correctly combine and solve all terms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[m = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Combine like terms to get 8m - 4 = 28, then solve 8m = 32.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[m = 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops before dividing by 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[m = 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the combined coefficient as the answer.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q23</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>Solve 5 - 3(y - 2) = -10.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = -7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign after isolating the variable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not account for the distribution correctly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribute to get 5 - 3y + 6 = -10, so 11 - 3y = -10 and y = 7.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the coefficient rather than solving the equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q24</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>What is the first simplification step for 4(x - 3) + 2x = 18?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add 2x and 18.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines unlike sides of the equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Divide both sides by 4.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The expression is not ready for division because it has parentheses and another x-term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtract 3 from both sides.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The -3 is inside parentheses and must be handled through distribution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Distribute 4 to x and -3.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The parentheses must be simplified before solving.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U02_L03_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U02_L03_Q25</p><p><strong>MLA Standard:</strong> MLA.A1.AR.1</p><p>A student writes 3(x + 5) = 3x + 5. What is the mistake?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The student added like terms too early.]]></text>
+      <feedback format="html">
+        <text><![CDATA[There are no like terms to combine in 3(x + 5).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The student did not multiply 5 by 3.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distribution requires multiplying every term inside parentheses by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The student divided both sides by 3.]]></text>
+      <feedback format="html">
+        <text><![CDATA[No division is shown in the work.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The student changed the variable.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable remains x; the error is incomplete distribution.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

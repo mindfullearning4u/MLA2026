@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 06/Lesson 06/ALG1_U06_L06_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>Find the simple interest on $800 at 5% for 3 years.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$120]]></text>
+      <feedback format="html">
+        <text><![CDATA[I = 800(0.05)(3) = 120.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is interest for one year only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$920]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the total amount, not the interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$12,000]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 5 instead of 0.05.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>What is the total amount for $800 at 5% simple interest for 3 years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$120]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the interest only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$840]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one year of interest added.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$920]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the $120 interest to the $800 principal.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$1,200]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds too much interest.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>Which expression gives $600 at 4% compounded annually for 5 years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[600 + 0.04(5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the principal correctly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[600(1.04)⁵]]></text>
+      <feedback format="html">
+        <text><![CDATA[Annual compound interest uses the factor 1.04 for 5 years.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[600(0.04)(5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives simple interest, not compound amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[600(1.4)⁵]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 40%, not 4%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>What decimal represents 7%?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 70%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 700%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[70]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the decimal rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.07]]></text>
+      <feedback format="html">
+        <text><![CDATA[Divide 7 by 100.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>Why does compound interest usually earn more than simple interest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Interest earns additional interest over time]]></text>
+      <feedback format="html">
+        <text><![CDATA[Compound interest is calculated on the principal and prior interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The rate is always higher]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rate may be the same; the calculation method differs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Time is ignored]]></text>
+      <feedback format="html">
+        <text><![CDATA[Time is used in compound interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The principal becomes zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[The principal remains part of the account value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>Find simple interest on $300 at 8% for 2 years.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one year of interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$48]]></text>
+      <feedback format="html">
+        <text><![CDATA[I = 300(0.08)(2) = 48.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$348]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the total amount, not interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$4,800]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 8 instead of 0.08.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>In A = P(1 + r/n)⁽ⁿᵗ⁾, what does n represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The principal]]></text>
+      <feedback format="html">
+        <text><![CDATA[P represents principal.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The annual rate]]></text>
+      <feedback format="html">
+        <text><![CDATA[r represents the annual rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The final amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[A represents the final amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The number of compounding periods per year]]></text>
+      <feedback format="html">
+        <text><![CDATA[n tells how often interest is compounded each year.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>$1,000 is compounded annually at 3% for 2 years. What is the approximate total?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$1,030.00]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is after one year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$1,060.00]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is close to simple interest, not compound interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$1,300.00]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 30%, not 3%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$1,060.90]]></text>
+      <feedback format="html">
+        <text><![CDATA[1000(1.03)&#178; = 1060.90.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>Simple interest is best described as:</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[linear growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[The same amount of interest is added each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[exponential growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Compound interest is exponential growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simple interest does grow over time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[random growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simple interest follows a predictable formula.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>Compound interest is best described as:</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[linear growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Linear growth adds the same amount each period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Compound interest grows over time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Interest is added, not subtracted, in this context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[exponential growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Compound interest multiplies by a growth factor repeatedly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q11</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>For I = Prt, what does P represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Percent only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rate is represented by r.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Principal]]></text>
+      <feedback format="html">
+        <text><![CDATA[P is the starting amount of money.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Time]]></text>
+      <feedback format="html">
+        <text><![CDATA[Time is represented by t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interest]]></text>
+      <feedback format="html">
+        <text><![CDATA[Interest is represented by I.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q12</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>Find the simple interest on $1,200 at 6% for 1 year.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the rate as dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$1,272]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the total amount, not the interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$72]]></text>
+      <feedback format="html">
+        <text><![CDATA[I = 1200(0.06)(1) = 72.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$7,200]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 6 instead of 0.06.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q13</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>Which expression represents $500 at 6% compounded quarterly for 3 years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[500(1 + 0.06/4)&#185;&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Quarterly means n = 4 and nt = 12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[500(1 + 0.06)&#179;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is annual compounding, not quarterly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[500(0.06)(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is simple interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[500(1 + 6/4)&#185;&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 6 instead of 0.06.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q14</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>What is the total amount for $200 at 10% simple interest for 4 years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$80]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the interest only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$240]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses only two years of interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$280]]></text>
+      <feedback format="html">
+        <text><![CDATA[I = 200(0.10)(4) = 80, so A = 280.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$800]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies principal by years without the rate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q15</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>What is the growth factor for 5% annual compound interest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.05]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the rate, not the growth factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.95]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would represent a 5% decrease.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the percent as a whole number.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1.05]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the rate to 1 for growth.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q16</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>Which model represents continuously compounded interest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[I = Prt]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is simple interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A = Pe⁽ʳᵗ⁾]]></text>
+      <feedback format="html">
+        <text><![CDATA[Continuous compounding uses the constant e.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A = P(1 + r/n)⁽ⁿᵗ⁾]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is compound interest n times per year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A = P + I]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a total amount relationship, not continuous compounding.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q17</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>A loan has $90 simple interest after 3 years at 5%. What was the principal?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$600]]></text>
+      <feedback format="html">
+        <text><![CDATA[90 = P(0.05)(3), so P = 600.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides interest by time only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$150]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 0.05 incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$1,800]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies by time and rate instead of dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q18</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>For A = 700(1.02)ᵗ, what is the annual growth rate?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would mean 200%, not 2%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The growth factor 1.02 corresponds to a 2% rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20%]]></text>
+      <feedback format="html">
+        <text><![CDATA[A 20% growth factor would be 1.20.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[102%]]></text>
+      <feedback format="html">
+        <text><![CDATA[1.02 is the factor, not the rate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q19</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>Which situation is modeled by simple interest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interest added to the balance and then earning more interest]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is compound interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Money doubled every year]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is exponential growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The same dollar amount of interest added each year]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simple interest adds a constant amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interest compounded daily]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is compound interest.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q20</p><p><strong>MLA Standard:</strong> MLA.A1.DF.2</p><p>Which account grows fastest if principal, rate, and time are the same?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Simple interest]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simple interest does not earn interest on interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Annual compounding]]></text>
+      <feedback format="html">
+        <text><![CDATA[Annual compounding grows, but less often than monthly or continuous.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Continuous compounding]]></text>
+      <feedback format="html">
+        <text><![CDATA[Continuous compounding gives the greatest amount for the same positive rate and time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Monthly compounding]]></text>
+      <feedback format="html">
+        <text><![CDATA[Monthly is frequent, but continuous compounding is the limiting case.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q21</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>A savings account starts with 200 dollars and increases by 25 dollars each month. Which expression gives the balance after m months?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[200m + 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the starting amount as repeated each month.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 + m + 200]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds months instead of multiplying by the monthly amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[200 + 25m]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting amount is 200 and each month adds 25 dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[200 - 25m]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models a decrease, not an increase.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q22</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>If an item costs 80 dollars and is discounted by 25 percent, what is the discount amount?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the percent number as dollars without calculating the percent of 80.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[55 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sale price, not the discount amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[105 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the percent number to the original price.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[20 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[25 percent of 80 is 20.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q23</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>An item costs 80 dollars and is discounted by 25 percent. What is the sale price?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[60 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[The discount is 20 dollars, so 80 - 20 = 60.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the discount amount, not the final price.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[100 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the discount instead of subtracting it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[55 dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 25 dollars instead of 25 percent of 80.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q24</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>Why is it important to identify the starting amount in a financial model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It is always the same as the monthly change]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting amount and rate can be different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It anchors the model before repeated change is applied]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting amount is the initial value in the situation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It should be ignored after the first step]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting amount remains part of the model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every model quadratic]]></text>
+      <feedback format="html">
+        <text><![CDATA[Financial models can be linear, exponential, or another type.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L06_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L06_Q25</p><p><strong>MLA Standard:</strong> MLA.A1.DF.1</p><p>What does a percent increase do to an original amount?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Adds a percent of the original amount to the original]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percent increase raises the original by a calculated percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always subtracts from the original]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes a decrease or discount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Divides the original by the percent number only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is not how percent increase is calculated.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Leaves the original unchanged]]></text>
+      <feedback format="html">
+        <text><![CDATA[An increase changes the amount.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

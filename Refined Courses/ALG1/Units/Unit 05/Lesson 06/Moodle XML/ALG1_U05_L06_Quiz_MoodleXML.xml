@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 05/Lesson 06/ALG1_U05_L06_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>Which function represents exponential decay?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y=12(0.4)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base between 0 and 1 represents decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=12(1.4)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base greater than 1 represents growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=12+0.4x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear, not exponential.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=12x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is quadratic, not exponential.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>A car worth 24000 loses 15% of its value each year. Which multiplier should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would represent 15% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[15]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percent must be converted to a decimal factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.85]]></text>
+      <feedback format="html">
+        <text><![CDATA[Losing 15% means 85% of the value remains each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would keep only 15%, which is an 85% decrease.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>What is the initial value of f(x)=90(1.08)ˣ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.08]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the growth factor, not the initial value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[90]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient is the value when x=0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the percent increase, not the initial value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[98]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the initial amount and percent, which does not identify the starting value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>A quantity grows by 6% each month from an initial amount of 200. Which model represents the situation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=200(0.94)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 6% decay, not growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=200+6x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds a fixed amount, not a percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=6(200)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y=200(1.06)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[A 6% increase uses a growth factor of 1.06.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>A table has outputs 5, 10, 20, 40. What type of change is shown?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Exponential growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each output is multiplied by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential decay]]></text>
+      <feedback format="html">
+        <text><![CDATA[The outputs increase, not decrease.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[The differences are not constant: 5, 10, and 20.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quadratic growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[The pattern is multiplicative, not constant second differences.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>In P(t)=300(1.12)ᵗ, what does 1.12 mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The starting amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting amount is 300.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The population is multiplied by 1.12 each time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor 1.12 means 12% growth per period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The final amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[The final amount depends on t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of years]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent t represents the number of time periods.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>Which model represents a 30% decrease from an initial value of 80?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=80(1.30)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 30% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=80(0.30)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This keeps 30%, which is a 70% decrease.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=30(80)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and the exponential base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y=80(0.70)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[A 30% decrease leaves 70%, so the decay factor is 0.70.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>Which y-values show exponential decay with common multiplier 0.5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4, 8, 16, 32]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values double, so they show growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20, 15, 10, 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[These decrease by a constant difference, not a multiplier of 0.5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3, 6, 12, 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values double, not halve.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[64, 32, 16, 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each value is multiplied by 0.5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>What is f(2) for f(x)=7(3)ˣ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[63]]></text>
+      <feedback format="html">
+        <text><![CDATA[7(3)&#178;=7*9=63.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[21]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses one multiplication by 3, which is f(1).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[42]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 7 by 3 and then by 2, which is not exponentiation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[147]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 3&#179;, not 3&#178;.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>A medicine amount is modeled by M(t)=120(0.75)ᵗ. What does 0.75 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[75 units are added each time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model is multiplicative, not additive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The medicine starts at 0.75 units]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial amount is 120.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The medicine increases by 75% each time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor less than 1 shows decay, not growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[75% of the medicine remains each time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor 0.75 means the amount is multiplied by 0.75 each period.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q11</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>Which equation is exponential rather than linear or quadratic?</p><p><img src="@@PLUGINFILE@@/ALG1_U05_L06_Q11_graph.png" alt="Coordinate graph supports line, slope, intercept, or inequality interpretation." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="ALG1_U05_L06_Q11_graph.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=4x+9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear because x has power 1 and is not an exponent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y=4(2)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable is in the exponent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=x&#178;+4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is quadratic because the highest power is 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=4x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is quadratic, not exponential.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q12</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>A graph of an exponential decay model moves from left to right by doing what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Increasing by the same amount each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[Constant differences describe linear change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Forming a parabola]]></text>
+      <feedback format="html">
+        <text><![CDATA[A parabola represents a quadratic function.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Decreasing by a common factor each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[Decay is multiplicative decrease by a factor between 0 and 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Crossing the x-axis at every integer]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential decay does not cross the x-axis in the basic model.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q13</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>A bank account starts with 1000 and earns 4% interest each year. Which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=1000(1.04)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[A 4% increase uses a factor of 1.04.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1000(0.96)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models a 4% decrease.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1000+4t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds a fixed amount of 4, not 4% compound growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=4(1000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q14</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>Which base shows exponential growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.97]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base between 0 and 1 shows decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.50]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base between 0 and 1 shows decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1.03]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base greater than 1 shows exponential growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.08]]></text>
+      <feedback format="html">
+        <text><![CDATA[A base between 0 and 1 shows decay.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q15</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>What is the common multiplier for outputs 12, 18, 27, 40.5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the first difference between 12 and 18, not the common multiplier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2.25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the ratio of consecutive outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is too large; 12 multiplied by 3 is 36, not 18.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1.5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each output is multiplied by 1.5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q16</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>A social media post is shared to 3 times as many people each hour. If 10 people see it at hour 0, which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[S(t)=10+3t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear growth by adding 3 each hour.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[S(t)=10(3)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial amount is 10 and the multiplier is 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[S(t)=3(10)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and multiplier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[S(t)=10(0.3)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents decay, not tripling.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q17</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>Which statement is true about y=25(0.8)ˣ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The graph shows decay and has initial value 25.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The base is between 0 and 1, and the coefficient is the initial value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph shows growth and has initial value 0.8.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The base 0.8 shows decay, and the initial value is 25.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph is linear because 0.8 is constant.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A constant base with x in the exponent gives an exponential function.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph is quadratic because x changes.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A changing input does not make the graph quadratic.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q18</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>Which table best represents exponential growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2, 5, 8, 11]]></text>
+      <feedback format="html">
+        <text><![CDATA[These have constant differences, so the pattern is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3, 6, 12, 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each output is multiplied by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 4, 9, 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are square numbers and suggest quadratic behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10, 9, 8, 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[These decrease by a constant amount, so the pattern is linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q19</p><p><strong>MLA Standard:</strong> MLA.A1.QE.9</p><p>A laptop costs 900 and depreciates by 20% each year. What model represents its value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=900(1.20)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models a 20% increase.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=900-20t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts a fixed amount, not 20% of the current value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[V(t)=900(0.80)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Depreciating by 20% means 80% remains each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=20(900)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q20</p><p><strong>MLA Standard:</strong> MLA.A1.QE.8</p><p>What is g(3) for g(x)=2(4)ˣ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 2, 4, and 3 instead of using 4&#179;.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[64]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is 4&#179; but misses the factor 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[128]]></text>
+      <feedback format="html">
+        <text><![CDATA[2(4)&#179;=2*64=128.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[32]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 4&#178; instead of 4&#179;.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q21</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>Which situation shows exponential growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A cost increases by 5 dollars each week]]></text>
+      <feedback format="html">
+        <text><![CDATA[Adding the same amount is linear, not exponential.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A value stays the same each day]]></text>
+      <feedback format="html">
+        <text><![CDATA[No change is not exponential growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A balance decreases by half each month]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is exponential decay, not growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A population doubles each year]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplying by the same factor greater than 1 shows exponential growth.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q22</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>A value starts at 100 and is multiplied by 1.2 each year. What type of model is this?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential decay]]></text>
+      <feedback format="html">
+        <text><![CDATA[Decay uses a multiplier between 0 and 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Linear growth adds a constant amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant function]]></text>
+      <feedback format="html">
+        <text><![CDATA[The value changes each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Exponential growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[The multiplier 1.2 is greater than 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q23</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>A value starts at 80 and is multiplied by 0.75 each month. What type of model is this?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Growth uses a multiplier greater than 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Exponential decay]]></text>
+      <feedback format="html">
+        <text><![CDATA[The multiplier is between 0 and 1, so the value decreases by a percent each step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Linear growth adds the same amount each step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quadratic growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[A repeated percent multiplier is exponential, not quadratic.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q24</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>In an exponential model, what does the initial value represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The amount added every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes a linear rate, not an exponential initial value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The final answer for every input]]></text>
+      <feedback format="html">
+        <text><![CDATA[The output changes as the input changes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The starting amount when the input is 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial value is the value before repeated growth or decay steps.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exponent only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial value is the starting multiplier, not the exponent.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U05_L06_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U05_L06_Q25</p><p><strong>MLA Standard:</strong> MLA.A1.QE.7</p><p>How can you distinguish exponential change from linear change in a table?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Exponential outputs have a common ratio; linear outputs have a common difference]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential change multiplies, while linear change adds.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential outputs always add the same number]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes linear change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear outputs always multiply by the same factor]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes exponential change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There is no way to compare table patterns]]></text>
+      <feedback format="html">
+        <text><![CDATA[Tables can reveal differences and ratios.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 06/Lesson 03/ALG1_U06_L03_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>Tickets cost $6 for students and $9 for adults. Which equation models exactly $90 collected, where s is student tickets and a is adult tickets?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6s + 9a = 90]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficients match the ticket prices and the equation models exactly 90 dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9s + 6a = 90]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the student and adult prices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[s + a = 90]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts tickets, not dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6s + 9a &lt;= 90]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means at most 90 dollars, not exactly 90 dollars.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A school can order at most 40 total chairs and tables. If c is chairs and t is tables, which inequality models the total item limit?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[c + t &gt;= 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means at least 40, not at most 40.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ct &lt;= 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplying does not count total items.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[c + t &lt;= 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[At most 40 means the total is less than or equal to 40.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[c - t &lt;= 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtracting does not represent the total number of items.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>Does (8, 4) satisfy 3x + 5y &gt;= 45?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because 8 + 4 is less than 45]]></text>
+      <feedback format="html">
+        <text><![CDATA[The values must be multiplied by their coefficients.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[No, because 3(8) + 5(4) = 44]]></text>
+      <feedback format="html">
+        <text><![CDATA[44 is less than 45, so the point does not satisfy the requirement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Yes, because 3(8) + 5(4) = 45]]></text>
+      <feedback format="html">
+        <text><![CDATA[The arithmetic is incorrect: 24 + 20 = 44.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Yes, because 8 is greater than 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Comparing x and y does not test the inequality.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>If x represents apples and y represents oranges, what does (10, 6) represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10 oranges and 6 apples]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the variable definitions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[16 apples only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered pair gives two quantities, not only the total.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6 apples and 10 oranges]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10 apples and 6 oranges]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x-coordinate is apples and the y-coordinate is oranges.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A phrase says &quot;at least 75 points.&quot; Which inequality symbol should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[&gt;=]]></text>
+      <feedback format="html">
+        <text><![CDATA[At least means greater than or equal to.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[&lt;=]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means at most.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[=]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exactly equal would not allow values above 75.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[&lt;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means less than.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A phrase says &quot;no more than 12 hours.&quot; Which inequality models h?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[h &gt;= 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means at least 12 hours.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[h &lt;= 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[No more than means less than or equal to.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[h &gt; 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means more than 12 hours.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[h = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This allows only exactly 12 hours, not fewer.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>For constraints x + y &lt;= 20 and 2x + 3y &gt;= 30, does (8, 5) satisfy both?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because x + y = 13]]></text>
+      <feedback format="html">
+        <text><![CDATA[A total of 13 satisfies x + y &lt;= 20.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because 2(8) + 3(5) = 31]]></text>
+      <feedback format="html">
+        <text><![CDATA[A total of 31 satisfies the at-least-30 constraint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Yes, because x is greater than y]]></text>
+      <feedback format="html">
+        <text><![CDATA[The relationship between x and y does not test both constraints.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Yes, because both inequalities are true]]></text>
+      <feedback format="html">
+        <text><![CDATA[13 &lt;= 20 and 31 &gt;= 30.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>Sandwiches cost $4 and drinks cost $2. Which inequality models spending at most $50?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4s + 2d &gt;= 50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models spending at least 50 dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2s + 4d &lt;= 50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the prices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[s + d &lt;= 50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts items, not dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4s + 2d &lt;= 50]]></text>
+      <feedback format="html">
+        <text><![CDATA[The total cost must be less than or equal to 50 dollars.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>Which point is feasible for x + y &lt;= 10 and x &gt;= 0, y &gt;= 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[4 + 5 = 9 and both coordinates are nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(7, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This violates x + y &lt;= 10 because 13 is greater than 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-1, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This violates x &gt;= 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This violates y &gt;= 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A worker earns $15 per hour at one job and $20 per hour at another. Which expression represents total earnings?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35xy]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the hours and combines rates incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20x + 15y]]></text>
+      <feedback format="html">
+        <text><![CDATA[This may reverse the rates if x is the first job and y is the second.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + y]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts hours but not earnings.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[15x + 20y]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiply each hourly rate by the hours for that job.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q11</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>A model uses 12s + 8h &gt;= 240. What does the 240 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The cost of one shirt]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient 12 represents the shirt price.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The minimum total revenue]]></text>
+      <feedback format="html">
+        <text><![CDATA[The inequality requires at least 240 dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The cost of one hat]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient 8 represents the hat price.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of total items]]></text>
+      <feedback format="html">
+        <text><![CDATA[The expression is in dollars, not item count.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q12</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>Does (10, 15) satisfy s + h &lt;= 25?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because 10 is less than 15]]></text>
+      <feedback format="html">
+        <text><![CDATA[The comparison between coordinates is not the constraint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because 10 + 15 is greater than 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[10 + 15 equals 25, not greater than 25.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Yes, because 10 + 15 = 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[Equality is allowed by &lt;=.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Yes, because both values are positive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Positive values alone do not guarantee the total constraint.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q13</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>Which inequality means &quot;the number of items is less than 30&quot;?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + y &lt; 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[Less than 30 does not include 30.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + y &lt;= 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means at most 30 and includes 30.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + y &gt; 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means more than 30.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + y = 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means exactly 30.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q14</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A recipe uses 2 cups of flour per loaf and 3 cups per cake. Which expression gives total cups?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5lc]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies loaves and cakes instead of adding contributions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3l + 2c]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the flour amounts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2l + 3c]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each loaf contributes 2 cups and each cake contributes 3 cups.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[l + c]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts baked items but not cups of flour.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q15</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>Why might (2.5, 4) be unreasonable in a model for selling shirts and hats?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has a y-coordinate]]></text>
+      <feedback format="html">
+        <text><![CDATA[Every ordered pair has a y-coordinate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has two values]]></text>
+      <feedback format="html">
+        <text><![CDATA[A system solution needs two values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It might satisfy an inequality]]></text>
+      <feedback format="html">
+        <text><![CDATA[Satisfying an inequality does not make a fractional item count reasonable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It includes a fractional number of shirts]]></text>
+      <feedback format="html">
+        <text><![CDATA[Physical items such as shirts are usually counted in whole numbers.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q16</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>If (6, 8) satisfies the cost constraint but violates the item-limit constraint, what is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It is feasible because one constraint works]]></text>
+      <feedback format="html">
+        <text><![CDATA[Feasible points must satisfy all constraints.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It is not feasible for the full system]]></text>
+      <feedback format="html">
+        <text><![CDATA[Violating any constraint means the point is not feasible.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It is feasible because both coordinates are positive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Positive coordinates are not enough.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It should be changed into an equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Changing the model does not make the point feasible.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q17</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>Which system models &quot;at least 100 dollars&quot; and &quot;no more than 30 items&quot; for $4 items x and $6 items y?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4x + 6y &gt;= 100 and x + y &lt;= 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[The first constraint is revenue and the second is total items.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x + 6y &lt;= 100 and x + y &gt;= 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both inequality directions are reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + y &gt;= 100 and 4x + 6y &lt;= 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes up dollars and items.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x + 6y = 100 and x + y = 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This requires exact values rather than limits.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q18</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>For 4x + 6y &gt;= 100 and x + y &lt;= 30, is (20, 5) feasible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because x + y = 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[25 satisfies the no-more-than-30 constraint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Yes, because 4(20) + 6(5) = 110 and 20 + 5 = 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both constraints are satisfied.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No, because 110 is greater than 100]]></text>
+      <feedback format="html">
+        <text><![CDATA[Greater than 100 satisfies an at-least-100 constraint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Yes, because x is greater than y]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coordinates must be tested in both inequalities.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q19</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>Which phrase matches the inequality t &gt;= 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[fewer than 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would be t &lt; 12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no more than 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would be t &lt;= 12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[at least 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Greater than or equal to means at least.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[exactly 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would be t = 12.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q20</p><p><strong>MLA Standard:</strong> MLA.A1.AR.7</p><p>What should be checked first when interpreting an ordered pair in context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether x and y are written alphabetically]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variable order is based on definitions, not alphabet.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether the larger number comes first]]></text>
+      <feedback format="html">
+        <text><![CDATA[Coordinate order does not depend on size.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[What each variable represents]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable definitions tell what each coordinate means.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether the graph is colorful]]></text>
+      <feedback format="html">
+        <text><![CDATA[Visual style does not determine meaning.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q21</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A ticket booth sells adult tickets for 12 dollars and student tickets for 8 dollars. Which expression represents the total revenue for a adult tickets and s student tickets?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20as]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the variables and combines prices incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12a + 8s]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each adult ticket contributes 12 dollars and each student ticket contributes 8 dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12s + 8a]]></text>
+      <feedback format="html">
+        <text><![CDATA[This switches the prices for adult and student tickets.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a + s + 20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the ticket counts and prices without multiplication.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q22</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A context gives the equations a + s = 30 and 12a + 8s = 280. What does a + s = 30 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of tickets sold]]></text>
+      <feedback format="html">
+        <text><![CDATA[It adds adult and student ticket counts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The total revenue]]></text>
+      <feedback format="html">
+        <text><![CDATA[Revenue is represented by 12a + 8s = 280.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The price of one adult ticket]]></text>
+      <feedback format="html">
+        <text><![CDATA[The adult ticket price is 12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The price of one student ticket]]></text>
+      <feedback format="html">
+        <text><![CDATA[The student ticket price is 8.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q23</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>Why is defining variables important before writing a system?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It makes clear what each equation represents]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variable definitions connect the algebra to the context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for equations]]></text>
+      <feedback format="html">
+        <text><![CDATA[Equations are still needed to model the situation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It guarantees both variables are equal]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variables can represent different quantities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes all numbers into constants]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numbers already have contextual meanings.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q24</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>A system solution is (10, 20), where x is adult tickets and y is student tickets. What does the solution mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20 adult tickets and 10 student tickets]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the variable meanings.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10 total tickets]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered pair gives two quantities, not only the total.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20 dollars of revenue]]></text>
+      <feedback format="html">
+        <text><![CDATA[The solution gives ticket counts, not revenue by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10 adult tickets and 20 student tickets]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered pair matches the variable definitions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L03_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L03_Q25</p><p><strong>MLA Standard:</strong> MLA.A1.AR.6</p><p>What should be checked after solving a system from a real-world context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether the variables are alphabetical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variable names do not determine reasonableness.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether one equation can be deleted]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both equations matter in a system.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Whether the ordered pair makes sense in the context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Solutions should satisfy the equations and be reasonable for the situation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether all values are negative]]></text>
+      <feedback format="html">
+        <text><![CDATA[Many real-world counts cannot be negative.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

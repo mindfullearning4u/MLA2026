@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 06/Lesson 02/ALG1_U06_L02_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve y = x + 4 and x + y = 12.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitute to get x + x + 4 = 12, so x = 4 and y = 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 12 but not y = x + 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(10, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 12 but not y = x + 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 2x + y = 13 and x - y = 2.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 2x + y = 11, not 13.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(5, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the equations to get 3x = 15, so x = 5 and y = 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x - y = 5, not 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Which first step is best for y = 3x - 2 and x + y = 10?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add the equations immediately]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variables are not aligned to eliminate a variable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Substitute 3x - 2 for y in x + y = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The first equation already gives y.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Divide both equations by x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Dividing by a variable is not a valid first step here.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Set x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Choosing one value does not solve the system.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 3x + y = 16 and x - y = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3, 7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x - y = -4, not 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(7, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 3x + y = 24, not 16.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x - y = 0, not 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(5, 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the equations to get 4x = 20, so x = 5 and y = 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve y = 2x + 1 and y = x + 6.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(5, 11)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Set 2x + 1 = x + 6, so x = 5 and y = 11.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies y = 2x + 1 but not y = x + 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the expected relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(11, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses x and y.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 4x - y = 10 and x + y = 5.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates and does not satisfy both equations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the equations to get 5x = 15, so x = 3 and y = 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 5 but not 4x - y = 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 5 but not 4x - y = 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Which method is most efficient for 2x + y = 9 and 5x - y = 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Substitution after solving both equations for y]]></text>
+      <feedback format="html">
+        <text><![CDATA[That works but takes extra steps.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Graphing by hand]]></text>
+      <feedback format="html">
+        <text><![CDATA[Graphing may be less exact for algebraic quiz work.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Multiplying both equations by -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[That does not create an immediate solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Elimination by adding the equations]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y-terms are opposites and cancel immediately.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve y = -x + 7 and 2x + y = 11.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 2x + y = 9, not 11.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives y = 2 but -x + 7 = 2, so it works in the first equation but not the second.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitute to get 2x + (-x + 7) = 11, so x = 4 and y = 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 2x + 3y = 14 and 2x - y = 6.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract the equations to eliminate x, then solve for y.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 2x - y = 10, not 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 2x + 3y = 22, not 18.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 2x + 3y = 18 but 2x - y = 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>After solving a system, why should the ordered pair be checked in both equations?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes the solution into slope-intercept form]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking does not rewrite the equations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need to solve]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking comes after solving.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes the coefficients equal]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking substitutes values; it does not change coefficients.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It confirms both equations are true for the same x and y]]></text>
+      <feedback format="html">
+        <text><![CDATA[A system solution must satisfy every equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q11</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve y = 4x and x + y = 15.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 15 but not y = 4x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 12)]]></text>
+      <feedback format="html">
+        <text><![CDATA[x + 4x = 15, so x = 3 and y = 12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(10, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy y = 4x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(12, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses x and y.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q12</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 5x + y = 19 and 2x - y = 2.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 9)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 2x - y = -5, not 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(9, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 5x + y = 47, not 19.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the equations to get 7x = 21, so x = 3 and y = 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates and does not satisfy both equations.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q13</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Which first step helps solve 3x + 2y = 18 and 3x - y = 9 by elimination?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Subtract the second equation from the first to eliminate x]]></text>
+      <feedback format="html">
+        <text><![CDATA[The 3x terms cancel when the equations are subtracted.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add the equations to eliminate x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Adding gives 6x, so x is not eliminated.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Divide by y]]></text>
+      <feedback format="html">
+        <text><![CDATA[Dividing by a variable is not a valid elimination step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Replace x with 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Choosing a value does not solve the system.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q14</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve x + y = 10 and x - y = 2.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x - y = -2, not 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x - y = 0, not 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(6, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add the equations to get 2x = 12, so x = 6 and y = 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(8, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x + y = 10 but x - y = 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q15</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve y = x - 3 and y = -2x + 6.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, -3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is only on y = x - 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, -6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is only on y = -2x + 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the solution idea.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Set x - 3 = -2x + 6, so x = 3 and y = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q16</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Which statement describes substitution correctly?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add the equations so one variable cancels]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes elimination.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Replace a variable with an equivalent expression]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitution uses one equation to replace a variable in the other.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Graph both lines and read the crossing point]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes graphing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Guess values until both equations work]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is not an efficient algebraic method.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q17</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 2x + y = 8 and y = x - 1.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitute x - 1 for y: 2x + x - 1 = 8, so x = 3 and y = 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies y = x - 1 but not 2x + y = 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy y = x - 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q18</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve 3x + y = 17 and x + y = 9.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 3x + y = 13, not 17.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract the equations to get 2x = 8, so x = 4 and y = 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(7, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives 3x + y = 23, not 17.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives x + y = 9 but 3x + y = 19.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q19</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Which ordered pair satisfies 4x + y = 21 and x + y = 9?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses x and y and does not satisfy both equations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 9 but not 4x + y = 21.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract the equations to get 3x = 12, then y = 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies x + y = 9 but not 4x + y = 21.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q20</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve y = 5x - 7 and y = 2x + 2.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This works in y = 5x - 7 but not y = 2x + 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(8, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses x and y.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Set 5x - 7 = 2x + 2, so x = 3 and y = 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy both equations.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q21</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve the system: y = x + 3 and y = 2x + 1.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Set x + 3 = 2x + 1 to get x = 2, then y = 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy both equations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This satisfies the first equation but not the second.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q22</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Which method begins by replacing one variable with an equivalent expression?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Graphing only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Graphing solves by finding an intersection visually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Guessing]]></text>
+      <feedback format="html">
+        <text><![CDATA[Guessing is not a reliable algebraic method.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Factoring]]></text>
+      <feedback format="html">
+        <text><![CDATA[Factoring is not the method described for this system step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Substitution]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitution uses one equation to replace a variable in the other equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q23</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>Solve the system: x + y = 10 and x = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitute x = 4 into x + y = 10 to get y = 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy x + y = 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(10, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy x = 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q24</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>When is elimination useful?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[When no variables appear in the system]]></text>
+      <feedback format="html">
+        <text><![CDATA[Systems usually include variables.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[When adding or subtracting equations can remove one variable]]></text>
+      <feedback format="html">
+        <text><![CDATA[Elimination creates an equation with one variable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[When the answer choices are short]]></text>
+      <feedback format="html">
+        <text><![CDATA[Choice length does not determine method.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[When both equations are ignored]]></text>
+      <feedback format="html">
+        <text><![CDATA[The method uses both equations.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U06_L02_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U06_L02_Q25</p><p><strong>MLA Standard:</strong> MLA.A1.AR.5 support</p><p>What should you do after finding one variable in a system algebraically?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Stop immediately with one number]]></text>
+      <feedback format="html">
+        <text><![CDATA[One number is incomplete for a two-variable system.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change both equations into inequalities]]></text>
+      <feedback format="html">
+        <text><![CDATA[That changes the problem.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Substitute it back to find the other variable]]></text>
+      <feedback format="html">
+        <text><![CDATA[A system solution is an ordered pair, so both values are needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Erase the original equations]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original equations are used to check the solution.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

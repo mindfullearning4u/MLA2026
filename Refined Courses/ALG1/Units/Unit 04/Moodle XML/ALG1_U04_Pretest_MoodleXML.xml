@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 04/ALG1_U04_Pretest</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Which relation is a function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(1,4), (2,6), (3,8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each input appears once and has exactly one output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1,4), (1,6), (2,8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Input 1 has two different outputs, so this is not a function.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2,5), (2,5), (2,7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Input 2 is paired with more than one output value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3,1), (4,2), (3,5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Input 3 has two different outputs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What does f(4)=11 mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The input is 11 and the output is 4.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the input and output in the notation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The function always equals 11.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The statement gives one output, not every output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[When the input is 4, the output is 11.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Function notation gives the output for a named input.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The function has a zero at 4.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero would mean f(4)=0, not 11.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.FN.2</p><p>If g(x)=3x+2, what is g(5)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 2 by 5 instead of substituting into 3x+2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[17]]></text>
+      <feedback format="html">
+        <text><![CDATA[g(5)=3(5)+2=15+2=17.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after 3(5) and leaves out the +2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 5 by both numbers instead of following the rule.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.FN.2</p><p>The table shows x: 0, 1, 2, 3 and h(x): 7, 10, 13, 16. What is h(2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the input, not the output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This output is paired with x = 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This output is paired with x = 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[The table pairs input 2 with output 13.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the domain of (2,9), (4,11), (6,13)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(9, 11, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are output values, so they form the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of input values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 9, 4, 11, 6, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines inputs and outputs instead of listing only inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 6, 9, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes input and output values and leaves some out.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.FN.3</p><p>A graph crosses the x-axis at x=8. What feature is x=8?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero is an input where the output equals 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y-intercept]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y-intercept happens when x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[An x-axis crossing does not necessarily show the highest output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[starting value]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting value is the output when the input is 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.AR.8</p><p>What is the minimum value of y=|x-6|?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The graph is centered at x = 6, but the output there is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Absolute value outputs are not negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Absolute value represents distance, and the smallest possible distance is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This can be an output for some inputs, but it is not the minimum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.FN.4</p><p>Which table matches y=2x+5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<table class="mla-assessment-table" style="border-collapse:collapse;margin:4px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">0</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">1</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td></tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">7</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">12</td></tr></table>]]></text>
+      <feedback format="html">
+        <text><![CDATA[This starts at 2 and increases by 5, reversing the slope and intercept.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<table class="mla-assessment-table" style="border-collapse:collapse;margin:4px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">0</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">1</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td></tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">5</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">6</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">7</td></tr></table>]]></text>
+      <feedback format="html">
+        <text><![CDATA[This starts at 5 but increases by 1, not 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<table class="mla-assessment-table" style="border-collapse:collapse;margin:4px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">0</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">1</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td></tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">0</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">4</td></tr></table>]]></text>
+      <feedback format="html">
+        <text><![CDATA[This matches 2x, not 2x+5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<table class="mla-assessment-table" style="border-collapse:collapse;margin:4px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">0</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">1</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td></tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">5</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">7</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">9</td></tr></table>]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substitution gives 5, 7, and 9.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.LR.4</p><p>Function A is A(x)=4x+3. Function B is B(x)=2x+9. Which function has the greater rate of change?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Function A]]></text>
+      <feedback format="html">
+        <text><![CDATA[Function A has slope 4, and Function B has slope 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Function B]]></text>
+      <feedback format="html">
+        <text><![CDATA[Function B has the greater y-intercept, but the smaller slope.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They have the same rate of change.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The slopes are 4 and 2, so the rates are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot be determined.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both equations show the rates of change.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_PT_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_PT_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.FN.4</p><p>A context says there is a $10 starting fee plus $3 per item. Which equation matches the context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C(x)=10x+3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the starting fee and per-item rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[C(x)=3x+10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting fee is 10 and each item adds 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C(x)=13x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the fee and item cost as one rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C(x)=3x-10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting fee is added, not subtracted.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

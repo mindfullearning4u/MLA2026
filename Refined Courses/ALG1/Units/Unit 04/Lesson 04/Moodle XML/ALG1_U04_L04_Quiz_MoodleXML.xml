@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG1/Units/Unit 04/Lesson 04/ALG1_U04_L04_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q01</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the domain of the relation (2,5), (4,9), (6,13)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of input values, or x-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 9, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are output values, so they form the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 5, 4, 9, 6, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines inputs and outputs instead of isolating the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 6, 5, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes inputs with outputs and leaves out values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q02</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the range of the relation (2,5), (4,9), (6,13)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are input values, so they form the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 5, 4, 9, 6, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines every value. The range includes only outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(5, 9, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is the set of output values, or y-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 9, 13)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes one input and omits one output.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q03</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A table has inputs -1, 0, 1, 2 and outputs 7, 4, 1, -2. What is the domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(7, 4, 1, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are outputs, so they form the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(-1, 0, 1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2, 1, 4, 7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the range written in increasing order, not the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-1, 7, 0, 4, 1, 2, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes inputs and outputs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q04</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A graph has points (0,3), (1,5), and (2,7). What is the range?</p><p><img src="@@PLUGINFILE@@/ALG1_U04_L04_Q04_graph.png" alt="Point-pair graph supports slope/rate interpretation." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="ALG1_U04_L04_Q04_graph.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the x-values, so they form the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 3, 1, 5, 2, 7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This lists both inputs and outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the set of y-values shown by the points.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3, 5, 7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is the set of y-values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q05</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Which set is a reasonable domain for the number of students in a classroom?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Whole numbers such as 0, 1, 2, 3, ...]]></text>
+      <feedback format="html">
+        <text><![CDATA[A count of students must be a nonnegative whole number.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[A student count cannot include fractions or negative values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All negative integers]]></text>
+      <feedback format="html">
+        <text><![CDATA[A classroom cannot have a negative number of students.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only decimals between 0 and 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Student counts are whole-number counts, not decimals.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q06</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A runner tracks distance from 0 to 5 miles during a workout. Which range is reasonable for the distance run?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only 5 miles]]></text>
+      <feedback format="html">
+        <text><![CDATA[The runner has distances less than 5 before finishing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0 to 5 miles, inclusive]]></text>
+      <feedback format="html">
+        <text><![CDATA[The distance can start at 0, end at 5, and include values between.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distances in this context cannot be negative or exceed the workout distance.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 miles or more]]></text>
+      <feedback format="html">
+        <text><![CDATA[The workout is capped at 5 miles.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q07</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>For the ordered pairs (-3,8), (-1,4), and (1,0), which set is the domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(8, 4, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are output values, so they form the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-3, 8, -1, 4, 1, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines input and output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 1, 4, 8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes an input with output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(-3, -1, 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x-values are -3, -1, and 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q08</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A function gives the cost C(n) for buying n notebooks. Which domain is reasonable?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Notebook counts cannot be negative or fractional in this purchase context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All integers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative integers are not reasonable counts of notebooks.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only positive decimals]]></text>
+      <feedback format="html">
+        <text><![CDATA[A person cannot buy a decimal part of a notebook in this count model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Whole numbers such as 0, 1, 2, 3, ...]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input is a nonnegative whole-number count.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q09</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the range of the relation (5,1), (6,1), (7,2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated output values are listed once in the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 6, 7)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are x-values, so they form the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Sets do not repeat identical values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 6, 7, 1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines domain and range values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q10</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A table shows inputs 1, 2, 3, 4 and outputs 12, 10, 8, 6. Which statement is correct?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The domain is (12, 10, 8, 6).]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those values are outputs, so they form the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The range is (1, 2, 3, 4).]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those values are inputs, so they form the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The domain and range are the same set.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input and output sets are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The domain is (1, 2, 3, 4).]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of input values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q11</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Which range is reasonable for the height of water in a tank that can be filled from 0 inches to 48 inches?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[The height cannot be negative or exceed 48 inches in this context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0 to 48 inches, inclusive]]></text>
+      <feedback format="html">
+        <text><![CDATA[The height can be any amount from empty to full.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only 48 inches]]></text>
+      <feedback format="html">
+        <text><![CDATA[The tank can be partially filled.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[48 inches or more]]></text>
+      <feedback format="html">
+        <text><![CDATA[Values greater than 48 inches exceed the tank height.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q12</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the domain of the relation (0,-2), (3,-2), and (6,-2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the only output value, so it is the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 3, 6, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines domain and range values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(0, 3, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of x-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out two input values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q13</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the range of the relation (0,-2), (3,-2), and (6,-2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(-2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The only output value is -2, and repeated values are listed once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 3, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are input values, so they form the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, -2, 3, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines inputs and outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2, -2, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[A set lists repeated values only once.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q14</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A vending machine function uses d for the number of dollars inserted. If the machine accepts only whole dollar bills from 0 to 10, which domain is reasonable?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers from 0 to 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The machine accepts only whole dollar bills, so decimals are not reasonable inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All integers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative integers and values above 10 are outside the context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(0, 1, 2, 3, ..., 10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input values are whole-dollar amounts from 0 through 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The machine may accept amounts less than 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q15</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Which statement best describes the domain of a function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The set of possible outputs]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes the range, not the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The largest output value only]]></text>
+      <feedback format="html">
+        <text><![CDATA[A domain is a set of inputs, not a single output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The rule used to calculate outputs]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rule defines the function, while the domain describes allowed inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The set of possible inputs]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of input values for a function.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q16</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Which statement best describes the range of a function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The set of possible inputs]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The set of possible outputs]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is the set of output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The x-values only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is based on output values, which are usually y-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The independent variable]]></text>
+      <feedback format="html">
+        <text><![CDATA[The independent variable is connected to inputs, not outputs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q17</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>The points (1,10), (2,20), (3,30), and (4,40) are shown on a graph. Which set is the range?</p><p><img src="@@PLUGINFILE@@/ALG1_U04_L04_Q17_graph.png" alt="Point-pair graph supports slope/rate interpretation." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="ALG1_U04_L04_Q17_graph.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(10, 20, 30, 40)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is the set of y-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are x-values, so they form the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 10, 2, 20, 3, 30, 4, 40)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines x-values and y-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(10, 20, 30)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out one output value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q18</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A function models the cost of buying movie tickets. Which output unit should appear in the range?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[tickets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Tickets are the input count in this context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[The output of a cost function is measured in dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[hours]]></text>
+      <feedback format="html">
+        <text><![CDATA[Time is not the output unit in this ticket cost context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[people]]></text>
+      <feedback format="html">
+        <text><![CDATA[The function models cost, not a number of people.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q19</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>For a function that gives temperature over a 24-hour day, which domain is reasonable if t is measured in hours after midnight?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[The context limits time to one 24-hour day.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only whole numbers from 0 to 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses possible times such as 2.5 hours after midnight.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0 to 24 hours, inclusive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Time can vary continuously from the start to the end of the day.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Temperatures from 0 to 24 degrees]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are output-type values, not time inputs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q20</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>What is the domain of the relation shown by x-values 4, 8, 12 and y-values 1, 3, 5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are y-values, so they form the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 1, 8, 3, 12, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines input and output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(4, 8, 12)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of x-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 4, 5, 12)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes inputs and outputs and omits values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q21</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>For the ordered pairs (1, 4), (2, 6), and (3, 8), what is the domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[{4, 6, 8}]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[{1, 4, 6, 8}]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes input and output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[{2, 4, 6}]]></text>
+      <feedback format="html">
+        <text><![CDATA[This omits inputs and includes outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[{1, 2, 3}]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of input or x-values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q22</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>For the ordered pairs (1, 4), (2, 6), and (3, 8), what is the range?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[{1, 2, 3}]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[{1, 4, 6}]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes an input with output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[{4, 6, 8}]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is the set of output or y-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[{2, 3, 8}]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes input and output values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q23</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Which values belong in the domain of a function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Input values]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the set of all allowed inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Output values]]></text>
+      <feedback format="html">
+        <text><![CDATA[Output values make up the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest values]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain can include many kinds of input values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only values that equal zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[Zero may or may not be in the domain.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q24</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>A context allows only whole-number numbers of tickets: 0, 1, 2, 3, and 4. What is the domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[The context restricts the input to whole-number ticket counts shown.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[{0, 1, 2, 3, 4}]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is the allowed ticket counts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only {4}]]></text>
+      <feedback format="html">
+        <text><![CDATA[All listed ticket counts are allowed, not just the largest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The output costs only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Costs are outputs, not the domain.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG1_U04_L04_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG1_U04_L04_Q25</p><p><strong>MLA Standard:</strong> MLA.A1.FN.1</p><p>Why can context restrict a domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Context always makes the domain empty]]></text>
+      <feedback format="html">
+        <text><![CDATA[Most contexts still allow reasonable inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The range must always equal the domain]]></text>
+      <feedback format="html">
+        <text><![CDATA[Domain and range do not need to be equal.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Some input values may not make sense in the situation]]></text>
+      <feedback format="html">
+        <text><![CDATA[For example, negative tickets or fractional people may not be meaningful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph decides without using the situation]]></text>
+      <feedback format="html">
+        <text><![CDATA[The situation helps determine realistic input values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
