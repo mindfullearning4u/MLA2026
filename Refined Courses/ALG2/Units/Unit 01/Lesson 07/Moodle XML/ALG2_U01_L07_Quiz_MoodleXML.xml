@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 01/Lesson 07/ALG2_U01_L07_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A rectangle has width x and length x + 6. Its area is 91. Which equation models the situation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + x + 6 = 91]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds dimensions instead of multiplying for area.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x(x + 6) = 91]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Area is width times length.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x(x - 6) = 91]]></text>
+      <feedback format="html">
+        <text><![CDATA[The length is x + 6, not x - 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 6 = 91]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only uses the length expression.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Solve x(x + 6) = 91 and identify the reasonable width.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is an algebraic solution, but a width cannot be negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is related to the rejected solution, not the width.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 91]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the area, not the width.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x squared plus 6x minus 91 factors as (x + 13)(x - 7), so the reasonable width is 7.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A garden has width x and length x + 4. Its area is 45. What is the reasonable width?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x(x + 4) = 45 gives x squared plus 4x minus 45 = 0, so x = 5 or -9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This solves the equation but is not a reasonable width.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the length when x = 5, not the width.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 45]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the area.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A product design has area model x&#178; - 2x - 35 = 0. Which solution is reasonable for a positive measurement?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -5]]></text>
+      <feedback format="html">
+        <text><![CDATA[A negative measurement is not reasonable in this context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the constant term, not a solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The equation factors as (x - 7)(x + 5) = 0, and x = 7 is positive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a solution of the equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>The height model h(t) = -16t&#178; + 80t equals 0 at which times?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = 0 and t = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor -16t(t - 5) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 0 and t = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would match -16t squared plus 64t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 5 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out the starting time t = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 80 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a coefficient, not a solution.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>For h(t) = -16t&#178; + 80t, what does t = 0 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The time the object returns to the ground.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The later zero, t = 5, represents the return time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The maximum height.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A time of 0 is not the maximum height.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The object&#39;s speed.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable t represents time, not speed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The starting time when the object is on the ground.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. h(0) = 0, so the object starts at ground height.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>For h(t) = -16t&#178; + 80t, what does t = 5 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The starting time.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting time is t = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The time when the object returns to the ground.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. h(t) = 0 at t = 5 after launch.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The maximum height in feet.]]></text>
+      <feedback format="html">
+        <text><![CDATA[t = 5 is a time, not a height.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The horizontal distance.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model gives height as a function of time.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A volume model is V(x) = x&#179; - 9x. Which positive solution makes V(x) = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a solution but not positive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not positive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x - 3)(x + 3), and the positive solution is 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is from the coefficient, not from solving.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A volume model is V(x) = x&#179; + 2x&#178; - 8x. Which positive solution makes V(x) = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a solution but not positive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a positive dimension.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x + 4)(x - 2), and the positive solution is 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Which tool is most useful for solving x&#179; - 9x = 0 in a modeling context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Factoring out the greatest common factor]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factoring out x gives x(x squared - 9) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Completing the square]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is usually used for quadratics, not this factored cubic structure.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dividing by x immediately]]></text>
+      <feedback format="html">
+        <text><![CDATA[This can lose the solution x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignoring the equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[The equation must be solved and interpreted.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A model gives solutions x = -8 and x = 3 for a length. Which solution should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -8]]></text>
+      <feedback format="html">
+        <text><![CDATA[A length cannot be negative in this context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only the positive measurement is reasonable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Positive length is reasonable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 3 is reasonable.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A model gives solutions t = 0 and t = 6 for time. Which interpretation is usually correct in a projectile context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 0 must always be rejected.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Starting time can be meaningful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = 0 is the start time and t = 6 is the return time.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Both can be meaningful times when height is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 6 must always be rejected.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The later time can be meaningful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both times are complex.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both times are real.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A quadratic model for a real measurement has no real solutions. What is the best interpretation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[There is no real measurement that satisfies the model.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A real-world measurement requires a real value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The measurement must be negative.]]></text>
+      <feedback format="html">
+        <text><![CDATA[No real solutions does not mean the measurement is negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Every real number works.]]></text>
+      <feedback format="html">
+        <text><![CDATA[No real solutions means no real value works.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model is automatically linear.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A quadratic model remains quadratic.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Which statement best describes why context is checked after solving?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All algebraic solutions are always reasonable.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Some algebraic solutions may not make sense in context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Context changes the rules of algebra.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The algebra is still valid; interpretation is the issue.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A solution can be algebraically correct but unreasonable in the situation.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Context can rule out values such as negative lengths.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only positive solutions are ever allowed.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Some contexts allow zero or negative values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Which model represents &quot;a number multiplied by 4 more than the number is 60&quot;?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 4x = 60]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the number and four times the number.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4(x + 60) = x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not match the phrase.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 4 = 60]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only represents 4 less than a number.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x(x + 4) = 60]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The number is x, and 4 more than the number is x + 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Solve x(x + 4) = 60 and choose the reasonable positive value.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is an algebraic solution but not the positive value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x squared plus 4x minus 60 factors as (x + 10)(x - 6).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a solution of the equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 60]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the product, not the value of x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Which expression represents the area of a rectangle with width x - 2 and length x + 3?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 2 + x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds dimensions rather than multiplying for area.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x(x + 3) - 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not represent multiplying both dimensions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x - 2)(x + 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Area is length times width.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the product of the binomials.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>Expand (x - 2)(x + 3) for use in a model.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; + x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply to get x squared plus 3x minus 2x minus 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be -6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The middle term should be positive x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 5x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The middle terms are 3x and -2x, which combine to x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>A model has equation x&#178; + x - 6 = 0. Which solutions are correct?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1 and x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[These do not come from the factors.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -3 and x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The equation factors as (x + 3)(x - 2) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3 and x = -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[These have the signs reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Zero is not a solution.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L07_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L07_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.AE.4; MLA.A2.PF.7</p><p>If x represents the width of a rectangle, which solution from x&#178; + x - 6 = 0 is reasonable?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[A rectangle width cannot be negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both x = -3 and x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only the positive width is reasonable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 2 is reasonable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The positive solution is the reasonable width.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

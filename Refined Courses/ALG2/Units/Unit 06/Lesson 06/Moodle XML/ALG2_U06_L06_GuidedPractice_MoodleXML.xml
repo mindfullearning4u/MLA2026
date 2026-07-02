@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 06/Lesson 06/ALG2_U06_L06_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L06_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L06_GP_Q01</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>A club has $300 and earns $25 per ticket. Which inequality finds tickets x needed to reach at least $900?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[300+25x &gt;= 900]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Starting money plus ticket income must be at least 900.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[300x+25 &gt;= 900]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the starting amount as the ticket rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[300+25x &lt;= 900]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would limit the club to at most 900 instead of reaching at least 900.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25x-300 &gt;= 900]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts the starting money instead of adding it.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L06_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L06_GP_Q02</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>If a model gives x=18.2 tickets needed, what should the final ticket count be?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[Rounding down would not meet the requirement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[19]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Ticket counts must be whole numbers, and the constraint requires rounding up.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[A fractional ticket count is not realistic.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Adding two extra tickets is unnecessary once the constraint is met.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L06_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L06_GP_Q03</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>Which step comes after solving a model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore the units]]></text>
+      <feedback format="html">
+        <text><![CDATA[Units are needed to interpret the result.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change the question]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original context should guide the interpretation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Interpret and check the solution in context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A solution must be checked against units and constraints.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Delete the assumptions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Assumptions should be stated and evaluated, not deleted.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L06_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L06_GP_Q04</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>A model predicts 2,500 people, but the venue capacity is 2,000. What should happen?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Accept 2,500 without comment]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the capacity constraint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Round to 3,000]]></text>
+      <feedback format="html">
+        <text><![CDATA[Rounding up makes the constraint violation worse.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change people to dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[Changing units does not solve the modeling issue.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Revise or qualify the model because it violates the constraint]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The prediction exceeds the venue capacity.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L06_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L06_GP_Q05</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>Which is the best modeling-process order?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Define variables, build model, solve, interpret, check, revise]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This order follows the modeling cycle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Solve, ignore context, choose variables, revise]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variables and context must come before solving.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Guess, submit, then define units]]></text>
+      <feedback format="html">
+        <text><![CDATA[Units and variables are needed during modeling.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Revise first, then read the problem]]></text>
+      <feedback format="html">
+        <text><![CDATA[Revision happens after an initial model is tested.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

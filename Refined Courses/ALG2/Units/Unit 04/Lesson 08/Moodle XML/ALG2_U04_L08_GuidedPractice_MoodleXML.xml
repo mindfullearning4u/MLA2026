@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 04/Lesson 08/ALG2_U04_L08_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L08_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L08_GP_Q01</p><p><strong>MLA Standard:</strong> Unit 4 standards synthesis; no new primary MLA standard</p><p>Which model represents 1000 dollars growing by 5% annually?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=1000(1.05)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The initial value is 1000 and 5% growth gives factor 1.05.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1000(0.95)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 5% decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1.05(1000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1000+5t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L08_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L08_GP_Q02</p><p><strong>MLA Standard:</strong> Unit 4 standards synthesis; no new primary MLA standard</p><p>What is log_2(64)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[2 to the fourth is 16.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. 2 raised to the sixth power is 64.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[2 to the eighth is 256.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[32]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the needed exponent.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L08_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L08_GP_Q03</p><p><strong>MLA Standard:</strong> Unit 4 standards synthesis; no new primary MLA standard</p><p>Expand log_3(xy&#178;).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(x+y&#178;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes multiplication to addition inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2log_3(xy)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent applies only to y.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_3(x)+2log_3(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use product and power properties.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(x)-2log_3(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction would represent division.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L08_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L08_GP_Q04</p><p><strong>MLA Standard:</strong> Unit 4 standards synthesis; no new primary MLA standard</p><p>Solve log_5(x)=3.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies base and output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds base and output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=125]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Rewrite as x=5&#179;.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L08_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L08_GP_Q05</p><p><strong>MLA Standard:</strong> Unit 4 standards synthesis; no new primary MLA standard</p><p>Solve 4ˣ=30 using logarithms.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=log(30)/log(4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Change of base isolates the exponent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=log(4)/log(30)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the ratio.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=30/4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the equation as linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=120]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies base and output.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

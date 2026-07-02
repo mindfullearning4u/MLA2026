@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 01/Lesson 06/ALG2_U01_L06_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; - 4x = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2 and x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out x = 0 from the factor x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -2, 0, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x squared - 4), then x(x - 2)(x + 2) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quadratic factor gives plus or minus 2, not 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4, 0, 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[These use the coefficient 4 instead of square roots.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; - 25x = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -25, 0, 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values come from the coefficient 25, not from solving x squared - 25 = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -5 and x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 25]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quadratic factor gives plus or minus 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -5, 0, 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x squared - 25), then x(x - 5)(x + 5) = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; + 3x&#178; = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 0 and x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x squared(x + 3), so x = 0 and x = -3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out x = 0, which comes from x squared.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x + 3 gives x = -3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1 and x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values do not come from the factors.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; - 9x = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3 and x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out the solution x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quadratic factor gives plus or minus 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -3, 0, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x squared - 9), then x(x - 3)(x + 3) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -9, 0, 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values come from 9 instead of its square root.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; + 2x&#178; - 8x = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -4, 0, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x squared + 2x - 8), then x(x + 4)(x - 2) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2, 0, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not solve the quadratic factor x squared plus 2x minus 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2, 0, 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the signs of the nonzero roots.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -8, 0, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the constant from the quadratic factor incorrectly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; - 6x&#178; + 11x - 6 = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1, -2, -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[These signs do not match the factorization.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0, 2, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Zero is not a solution because the constant term is -6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1, 3, 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are not all roots of the polynomial.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 1, 2, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The polynomial factors as (x - 1)(x - 2)(x - 3).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; + 2x&#178; - 5x - 6 = 0, given that x = -1 is a solution.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[A cubic equation can have more than one solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -3, -1, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Dividing by x + 1 gives x squared + x - 6, which factors as (x + 3)(x - 2).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2, 1, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the opposite signs of the roots.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3, 1, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes 1 instead of -1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; - 4x&#178; + x + 6 = 0, given that x = 2 is a solution.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The known solution is only the starting point.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3, 1, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[These do not match the quadratic factor after division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -1, 2, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Dividing by x - 2 gives x squared - 2x - 3, so the remaining roots are -1 and 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2, 1, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This set does not include the known solution x = 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x⁴ - 16 = 0 over the complex number system.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2 and x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only the real solutions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4, 4, -4i, 4i]]></text>
+      <feedback format="html">
+        <text><![CDATA[These use 16 instead of the square root relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2i and x = 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only the complex non-real solutions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -2, 2, -2i, 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor into (x - 2)(x + 2)(x squared + 4).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x⁴ - 81 = 0 over the complex number system.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -3, 3, -3i, 3i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor as (x squared - 9)(x squared + 9), then solve each factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -9 and x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are not the real roots of x to the fourth equals 81.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -9, 9, -9i, 9i]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values come from 81 instead of the square root structure.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3i and x = 3i]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only the complex non-real solutions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; + x&#178; + 4x + 4 = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1, -2, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quadratic factor gives complex roots, not real roots -2 and 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1, -2i, 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[The linear factor gives x = -1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -1, -2i, 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Group to get (x + 1)(x squared + 4) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4 and x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values do not solve the equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve x&#179; - x&#178; + 9x - 9 = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1, -3, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quadratic factor is x squared plus 9, which gives complex roots.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 1, -3i, 3i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Group to get (x - 1)(x squared + 9) = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1, -3i, 3i]]></text>
+      <feedback format="html">
+        <text><![CDATA[The linear factor x - 1 gives x = 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 9 and x = -9]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values do not come from the factors.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Which solution has multiplicity 2 in (x + 4)(x - 1)&#178; = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The factor x - 1 appears twice, so x = 1 has multiplicity 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x + 4 appears once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x - 1 gives x = 1, not -1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x + 4 gives x = -4, not 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Which solution has multiplicity 3 in (x + 2)&#179;(x - 5) = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x + 2 gives x = -2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x - 5 appears once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The factor x + 2 appears three times, so x = -2 has multiplicity 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x - 5 gives x = 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>What is the first step that best preserves all solutions when solving x&#179; - 16x = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Divide both sides by x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This can lose the solution x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Take the cube root of 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[The equation has two terms with x and should be factored.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add 16 to both sides]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not isolate or factor the polynomial correctly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Factor out x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factoring gives x(x squared - 16) = 0 and keeps x = 0 visible.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>If x = 4 is a zero of a polynomial, which linear factor is associated with that zero?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This factor gives the zero x = -4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x - 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The zero x = 4 corresponds to the factor x - 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x - 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This factor gives x = 1/4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This factor gives x = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>If x = -6 is a zero of a polynomial, which linear factor is associated with that zero?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This factor gives x = 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6x - 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This factor gives x = 1/6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The zero x = -6 corresponds to the factor x + 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This factor gives x = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>A graph of a polynomial shows x-intercepts at -2, 1, and 4. Which list gives the real solutions?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -2, 1, 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Real zeros appear as x-intercepts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2, -1, -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the opposite signs of the x-intercepts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2i, i, 4i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Imaginary values do not appear as x-intercepts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4, -1, 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[These do not match the intercepts.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Why might a graph not show every solution of a polynomial equation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Because real solutions never appear on graphs]]></text>
+      <feedback format="html">
+        <text><![CDATA[Real solutions do appear as x-intercepts.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Because complex non-real solutions are not x-intercepts]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A real-coordinate graph shows real zeros, not complex non-real zeros.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Because polynomial equations have no roots]]></text>
+      <feedback format="html">
+        <text><![CDATA[Polynomial equations can have roots.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Because x-intercepts are always imaginary]]></text>
+      <feedback format="html">
+        <text><![CDATA[X-intercepts are real coordinate points.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L06_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L06_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.PF.7</p><p>Solve (x - 2)(x + 7)(x&#178; + 1) = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2 and x = -7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out the complex solutions from x squared plus 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2, 7, i, -i]]></text>
+      <feedback format="html">
+        <text><![CDATA[The real roots have the wrong signs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1 and x = -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[These do not solve x squared plus 1 = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 2, -7, i, -i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The linear factors give 2 and -7, and x squared plus 1 gives plus or minus i.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

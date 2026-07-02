@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 05/Lesson 05/ALG2_U05_L05_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x+1 and g(x)=2x, what is (f+g)(x)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3x+1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Add x+1 and 2x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178;+1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This omits 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is f(g(x)).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x-3 and g(x)=4x, what is (f-g)(x)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5x-3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds instead of subtracting.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-3x-3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Subtract: x-3-4x=-3x-3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x+3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts in the wrong order.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x-3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is f(g(x)).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x and g(x)=x+2, what is (fg)(x)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the function rules instead of multiplying them.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x+2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is just g(x).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178;+2x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply x(x+2).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;+2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the product term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x+5 and g(x)=x-1, what is f(g(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x+6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses x+1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;+4x-5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x+4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x-1 into x+5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=2x+1 and g(x)=x&#178;, what is f(g(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2x&#178;+1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x&#178; into f.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2x+1)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is g(f(x)).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+1+x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#179;+x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x&#178; and g(x)=x+3, what is g(f(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x+3)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is f(g(x)).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178;+3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x&#178; into g.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;(x+3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the composition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=3x and g(x)=x-2, what is g(f(4))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies g to 4 first.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after f(4).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(4)=12, then g(12)=10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds instead of subtracting.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x+4 and g(x)=2x, what is f(g(5))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies f first, then g.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after g(5).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies f to 5 only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. g(5)=10 and f(10)=14.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>For (f/g)(x) with g(x)=x-6, what value is excluded?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator is zero when x=6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=0]]></text>
+      <feedback format="html">
+        <text><![CDATA[g(0)=-6, not zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No values]]></text>
+      <feedback format="html">
+        <text><![CDATA[A denominator zero must be excluded.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>For (f/g)(x) with g(x)=x+3, what value is excluded?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the opposite sign; x+3 equals zero when x=-3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=-3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator is zero when x=-3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=0]]></text>
+      <feedback format="html">
+        <text><![CDATA[g(0)=3, so the denominator is not zero at x=0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only x=-3 is excluded.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>Which notation means composition?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x)g(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x)+g(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(g(x))]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This means apply g first, then f.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x)-g(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This means subtraction.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x&#178; and g(x)=2x, what is f(g(3))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 6 by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds steps incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies f to 3 only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. g(3)=6 and f(6)=36.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x+7 and g(x)=x/2, what is f(g(10))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. g(10)=5 and f(5)=12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8.5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies f first and then divides.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after g(10).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[17]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies f to 10 only.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x-1 and g(x)=x+1, what is f(g(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x+2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x+1 into x-1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;-1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x-2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong order.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=2x and g(x)=x+8, what is (f+g)(4)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This omits part of the sum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is f(4)+g(0) style error.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. (f+g)(x)=3x+8, so at x=4 the value is 20.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the outputs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x+2 and g(x)=x-2, what is (fg)(3)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is g(3) only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This squares f(3).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(3)=5 and g(3)=1, so product is 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>What is the domain issue in dividing functions?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The denominator function cannot equal zero.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Division by zero is undefined.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The numerator cannot equal zero.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero numerator is allowed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The input must be positive only.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That depends on the functions involved.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There is never a restriction.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Denominator zeros create restrictions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x&#178; and g(x)=x-4, what is f(g(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;-4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts after squaring.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x-4)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x-4 into f.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;(x-4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x-4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the composition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=x+3 and g(x)=x&#178;, what is g(f(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;+3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is f(g(x)).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;+3x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x+3)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x+3 into g.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x+3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not composition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L05_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L05_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.FN.7; MLA.A2.FN.8</p><p>If f(x)=5x and g(x)=x/5, what is f(g(x))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This composes in the wrong way.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Substitute x/5 into 5x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

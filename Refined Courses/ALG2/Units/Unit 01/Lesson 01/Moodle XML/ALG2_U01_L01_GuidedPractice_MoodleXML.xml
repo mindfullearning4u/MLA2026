@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 01/Lesson 01/ALG2_U01_L01_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L01_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L01_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.FN.1</p><p>If f(x) = 3x - 2, what is f(5)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(5) = 3(5) - 2 = 15 - 2 = 13.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 3(5) but does not subtract 2. Substitute 5 for x and complete all operations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after multiplying 3 by 5. The -2 is part of the function rule.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[17]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 2 instead of subtracting 2. The rule is 3x - 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L01_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L01_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.FN.1</p><p>Which relation is not a function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 2), (1, 4), (2, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each input has exactly one output, so this relation is a function.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2, 5), (0, 5), (3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated outputs are allowed. Each input has exactly one output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(1, 4), (1, 6), (2, 8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Input 1 is paired with two different outputs, 4 and 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 1), (5, 1), (6, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each input appears once, so this relation is a function.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L01_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L01_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.FN.1</p><p>For the relation (-2, 7), (0, 1), (4, 9), what is the domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7, 1, 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the range, not the domain. The range lists output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-2, 0, 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The domain is the set of input values, which are the x-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-2, 7, 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes input and output values instead of listing all x-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 4, 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes an output with input and output values. Use only x-values for domain.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L01_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L01_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.FN.1</p><p>A graph crosses the x-axis at x = -3 and x = 2. Which statement is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The y-intercepts are -3 and 2.]]></text>
+      <feedback format="html">
+        <text><![CDATA[These values describe where the graph crosses the x-axis, not the y-axis.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The domain is -3 and 2 only.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x-intercepts alone do not give the full domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The range is -3 and 2 only.]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are input values at x-intercepts, not output values in the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The zeros are -3 and 2.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Zeros are input values where the output is 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L01_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L01_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.FN.1</p><p>Use the table.</p><table class="mla-assessment-table" style="border-collapse:collapse;margin:8px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">0</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">1</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">2</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">3</td></tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th><td style="border:1px solid #555;padding:4px 8px;text-align:center;">10</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">6</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">4</td><td style="border:1px solid #555;padding:4px 8px;text-align:center;">4</td></tr></table><p>What is the range?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0, 1, 2, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the domain because it lists input values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4, 6, 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The range is the set of output values, with repeated values listed once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10, 6, 4, 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range should list each output value once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0, 4, 6, 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes an input value and omits the rule that range uses only outputs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

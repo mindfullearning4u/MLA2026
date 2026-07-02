@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 06/Lesson 08/ALG2_U06_UnitAssessment</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q01</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A loan balance is $4,000 and decreases by $250 each month. Which expression represents the balance after m months?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4000-250m]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The balance starts at 4000 and decreases by 250 for each month.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4000+250m]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models the balance increasing each month.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[250-4000m]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the starting value and monthly change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4000(250)ᵐ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is exponential and does not match a constant monthly decrease.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q02</p><p><strong>MLA Standard:</strong> Support-only readiness; no new primary MLA standard</p><p>An arithmetic sequence has first term 12 and common difference 5. What is the fifth term?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[17]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the second term, not the fifth term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[32]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The fifth term is 12+4(5), which equals 32.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses five differences instead of four.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[60]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the first term by 5 instead of adding common differences.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>A scatterplot shows a nearly straight upward trend. Which model should be considered first?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential decay]]></text>
+      <feedback format="html">
+        <text><![CDATA[The trend is increasing, not decreasing by a percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quadratic with a clear turning point]]></text>
+      <feedback format="html">
+        <text><![CDATA[A nearly straight pattern does not show a turning point.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Linear]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A nearly straight trend supports a linear model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y-values are changing, so a constant model is not appropriate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>An exponential regression is y=80(1.12)ˣ. What is the initial value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the growth factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the percent growth rate, not the initial value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[92]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the value after one time period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[80]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The coefficient 80 is the value when x=0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>Model A has residuals randomly scattered near 0. Model B has residuals with a curve pattern. Which model is better supported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Model A]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Random residuals near 0 indicate stronger fit with no obvious missed pattern.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Model B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A curved residual pattern suggests the model type may be inappropriate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally supported because both have residuals]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residual pattern and size matter when comparing models.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither model can be evaluated]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residuals are a direct tool for evaluating model fit.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q06</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>A model predicts 14.2 chairs needed. What is the practical minimum number of chairs?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[Rounding down would not provide enough chairs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[15]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Chair counts must be whole numbers and must meet the need.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[14.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[A fractional chair is not practical.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[16.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a whole number and is more than needed.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q07</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>An investment grows from $1,000 by 4% annually. Which model gives value after t years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V=1000+0.04t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear, not repeated percent growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V=1000(0.96)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models a 4% decrease.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[V=1000(1.04)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Annual growth of 4% uses a factor of 1.04.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V=1.04(1000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This incorrectly uses the starting amount as the base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q08</p><p><strong>MLA Standard:</strong> Support-only readiness; no new primary MLA standard</p><p>A geometric sequence has first term 3 and common ratio 2. What is the fourth term?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the second term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 2 repeatedly instead of multiplying by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies by 2 too many or too few times depending on setup.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[24]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The fourth term is 3(2)&#179;, which equals 24.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>Which action is most appropriate before fitting a model to data?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Inspect the scatterplot for form, direction, and unusual points]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The visual pattern helps guide model selection.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the most complicated equation first]]></text>
+      <feedback format="html">
+        <text><![CDATA[Complexity does not guarantee a meaningful model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore outliers without noting them]]></text>
+      <feedback format="html">
+        <text><![CDATA[Unusual points should be investigated and explained.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use only the first data point]]></text>
+      <feedback format="html">
+        <text><![CDATA[A model should reflect the overall data pattern.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>For y=500(0.92)ˣ, what does 0.92 mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A 92% increase]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor of 0.92 is less than 1, so it indicates decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[An 8% decrease per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Keeping 92% means losing 8% each period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[An initial value of 0.92]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial value is 500.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A fixed decrease of 92 units]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model decreases by a percent, not a fixed amount.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>Which evidence best supports choosing one model over another?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model appears first in a list]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not determine quality.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model uses fewer characters]]></text>
+      <feedback format="html">
+        <text><![CDATA[Shorter notation does not guarantee better fit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The model has smaller errors and matches context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Accuracy and contextual meaning are both important.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model has no variables]]></text>
+      <feedback format="html">
+        <text><![CDATA[A model without variables usually cannot describe relationships.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q12</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>A model is built from data for 0 to 6 months. What is a prediction at 18 months called?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interpolation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Interpolation stays within the data range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A residual]]></text>
+      <feedback format="html">
+        <text><![CDATA[A residual is observed minus predicted value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A starting value]]></text>
+      <feedback format="html">
+        <text><![CDATA[A starting value is an initial condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Extrapolation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Predicting outside the data range is extrapolation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q13</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A gym charges $40 to join and $20 per month. Which model gives total cost after m months?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[C=40+20m]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The joining fee is fixed and the monthly cost is variable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C=20+40m]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the joining fee and monthly rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C=40m-20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts the monthly cost instead of adding the fixed fee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C=40(20)ᵐ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is exponential and does not fit a fixed monthly charge.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q14</p><p><strong>MLA Standard:</strong> Support-only readiness; no new primary MLA standard</p><p>The sequence 5, 10, 20, 40 shows what type of pattern?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Arithmetic with difference 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The differences are not constant.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Geometric with ratio 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Each term is multiplied by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quadratic with constant second difference]]></text>
+      <feedback format="html">
+        <text><![CDATA[The terms have a constant ratio, not a constant second difference.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant because the ratio never changes]]></text>
+      <feedback format="html">
+        <text><![CDATA[A constant ratio does not mean the terms are constant.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>What does a positive association in a scatterplot mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[As x increases, y tends to decrease]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes a negative association.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The points have no visible pattern]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes little or no association.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[As x increases, y tends to increase]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Positive association means the variables tend to rise together.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Every point must lie on one exact line]]></text>
+      <feedback format="html">
+        <text><![CDATA[Association can exist without a perfect line.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>Which residual pattern suggests a model may be missing nonlinear structure?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Residuals randomly scattered around 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Random scatter supports the model more strongly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Residuals all very close to 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Small residuals indicate accurate predictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No residuals because no data were used]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residuals require observed and predicted data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Residuals forming a clear curve]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A curved residual pattern suggests the model form may be wrong.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>Two models have similar fit, but one uses a domain matching the real situation and the other gives impossible negative outputs. Which should be chosen?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The model with the realistic domain]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Context and constraints matter when comparing models.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model with impossible negative outputs]]></text>
+      <feedback format="html">
+        <text><![CDATA[Outputs that violate context weaken a model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model with no stated domain]]></text>
+      <feedback format="html">
+        <text><![CDATA[A missing domain can hide invalid predictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model chosen randomly]]></text>
+      <feedback format="html">
+        <text><![CDATA[Model choice should be justified with evidence.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q18</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>Which is the best interpretation of f(6)=125 in a model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The input is always 125]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input shown is 6 for this statement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[When the input is 6, the predicted output is 125]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Function notation connects a specific input to its output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There are 125 functions]]></text>
+      <feedback format="html">
+        <text><![CDATA[The notation gives one output value, not a count of functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model has no context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Context should still provide units and meaning.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q19</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A savings account starts at $600 and earns simple interest of $30 per year. Which model applies after t years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[S=600(1.30)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models compound percent growth, not simple interest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[S=30(600)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the starting value incorrectly as a base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[S=600+30t]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Simple interest adds a constant amount each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[S=600-30t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models the balance decreasing by 30 each year.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q20</p><p><strong>MLA Standard:</strong> Support-only readiness; no new primary MLA standard</p><p>Which sequence has a constant first difference?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2, 4, 8, 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has a constant ratio, not a constant difference.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 4, 9, 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[The first differences are not constant.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[81, 27, 9, 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has a constant ratio of one-third.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6, 11, 16, 21]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Each term increases by 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q21</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>Which statement best describes an outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A data point far from the overall pattern]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. An outlier does not follow the main trend of the data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A point with the smallest x-value only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Small x-values are not automatically outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The average of all data values]]></text>
+      <feedback format="html">
+        <text><![CDATA[An average summarizes data but is not an outlier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A model parameter]]></text>
+      <feedback format="html">
+        <text><![CDATA[A parameter is part of an equation, not a data point.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q22</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>A regression equation is y=30(1.5)ˣ. What type of change does it model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear growth by 1.5 units]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable is in the exponent, so this is not linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Exponential growth by a factor of 1.5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Each increase of 1 in x multiplies y by 1.5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential decay by 50%]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 means growth, not decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Constant output of 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[The output changes as x changes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q23</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>A linear model and an exponential model both fit early data, but the context says growth is by a constant percent. Which is more appropriate?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear, because all growth is linear]]></text>
+      <feedback format="html">
+        <text><![CDATA[Constant percent growth is not linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Linear, because it is easier to graph]]></text>
+      <feedback format="html">
+        <text><![CDATA[Ease of graphing is not the deciding factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Exponential, because constant percent change is multiplicative]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Constant percent change supports an exponential model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither, because percent change cannot be modeled]]></text>
+      <feedback format="html">
+        <text><![CDATA[Percent change is commonly modeled with exponential functions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q24</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>Which final answer is strongest for a modeling problem?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives a value but no context, units, or interpretation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12 units maybe]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is vague and does not explain reasoning.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The equation was solved]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not state the result or its meaning.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The model predicts 12 months, assuming the rate stays constant]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This includes value, units, and an assumption.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q25</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A balance of $900 earns 2% compound interest each year. Which expression gives the balance after 3 years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[900(1.02)&#179;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Compound growth multiplies by 1.02 for each of 3 years.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[900+0.02(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not apply the percent to the balance each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[900(0.98)&#179;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents a 2% decrease each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[900+2&#179;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the interest rate as a whole-number base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q26</p><p><strong>MLA Standard:</strong> Support-only readiness; no new primary MLA standard</p><p>For the arithmetic sequence 4, 9, 14, 19, what is the common difference?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the first term, not the difference.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Each term increases by 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the second term, not the difference.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[23]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would be the next term, not the common difference.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q27</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>Which technology output is most directly used to judge how far predictions are from observed data?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph title]]></text>
+      <feedback format="html">
+        <text><![CDATA[A title labels the graph but does not measure error.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The color scale]]></text>
+      <feedback format="html">
+        <text><![CDATA[Color may help display data but does not directly measure prediction error.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Residual values]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Residuals show observed minus predicted values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The file name]]></text>
+      <feedback format="html">
+        <text><![CDATA[A file name has no mathematical meaning for model fit.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q28</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>If a population model is P=2500(0.97)ᵗ, what happens as t increases?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The population grows by 97% each period]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor below 1 indicates decay, not growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The population stays constant at 2500]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor changes the value each period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The population increases by 3 each period]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model is percent decay, not fixed addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The population decreases by 3% each period]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Keeping 97% means losing 3% each period.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q29</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>Which comparison uses both representations and context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Comparing equations, graphs, residuals, and what the variables mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Strong model comparison uses multiple evidence sources.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choosing the graph with the darkest line]]></text>
+      <feedback format="html">
+        <text><![CDATA[Visual style does not determine mathematical fit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Picking the equation with the largest coefficient]]></text>
+      <feedback format="html">
+        <text><![CDATA[A large coefficient alone does not mean a better model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignoring units so models are easier to compare]]></text>
+      <feedback format="html">
+        <text><![CDATA[Units are essential for meaningful comparison.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q30</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>A model predicts -5 hours for a task duration. What should be concluded?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The result is realistic because it is a number]]></text>
+      <feedback format="html">
+        <text><![CDATA[A number can still be invalid in context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The model or input is not appropriate for this context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Duration cannot be negative, so the result violates the situation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The unit should be changed to dollars]]></text>
+      <feedback format="html">
+        <text><![CDATA[Changing units does not fix a negative time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The task takes exactly 5 hours]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign matters and cannot be ignored.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q31</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A store has a fixed cost of $500 and earns $25 profit per item before fixed costs. Which equation finds the break-even item count x?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25x+500=0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This sets total cost plus revenue equal to zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[500x=25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the fixed cost as a rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[25x=500]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Break-even occurs when item profit covers the fixed cost.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25+500=x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds unrelated quantities and does not model break-even.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q32</p><p><strong>MLA Standard:</strong> Support-only readiness; no new primary MLA standard</p><p>Which statement is true for a geometric sequence?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Consecutive terms have a constant difference]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes an arithmetic sequence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph must be a straight line]]></text>
+      <feedback format="html">
+        <text><![CDATA[Geometric patterns often connect to exponential behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Each term must be positive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Geometric sequences can include negative terms depending on first term and ratio.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Consecutive terms have a constant ratio]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A geometric sequence changes by repeated multiplication.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q33</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>A data set has no clear trend. Which conclusion is most reasonable?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A predictive model may be weak or inappropriate]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Without a pattern, predictions may not be reliable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A perfect linear model must exist]]></text>
+      <feedback format="html">
+        <text><![CDATA[No clear trend does not support a perfect linear model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential regression is always best]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model type must be supported by the data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The variables are guaranteed to be identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[No trend does not mean the variables are the same.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q34</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>Which model is exponential?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=4x+7]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable has exponent 1, so this is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y=7(4)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The variable appears in the exponent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=x&#178;+4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is quadratic, not exponential.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y=4/x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is rational, not exponential.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q35</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>A model with a slightly larger residual error is much easier to interpret and stays realistic over the domain. What should a student do?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always reject it because it is not the smallest error]]></text>
+      <feedback format="html">
+        <text><![CDATA[Model choice can include interpretability and context, not error alone.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always choose it without explanation]]></text>
+      <feedback format="html">
+        <text><![CDATA[The tradeoff should be justified with evidence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Discuss the tradeoff between fit, interpretability, and context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Model comparison should explain why a model is reasonable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore the domain because residuals are enough]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain is essential for real-world model validity.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q36</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>Which step belongs in a complete modeling cycle?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Stop after writing any equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A model must be solved, interpreted, and checked.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose variables after solving]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variables should be defined before solving.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore assumptions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Assumptions affect whether a model is valid.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Define variables, solve, interpret, check, and revise if needed]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This describes a complete modeling process.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q37</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>If observed value is 50 and predicted value is 46, what is the residual using observed minus predicted?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The residual is 50-46, which equals 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts observed from predicted instead.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[46]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the predicted value, not the residual.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[96]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the values instead of finding the difference.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q38</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>A bacterial culture doubles every hour from 200 bacteria. Which model gives the amount after h hours?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B=200+2h]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 2 each hour, not doubles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[B=200(2)ʰ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Doubling each hour means multiplying by 2 repeatedly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B=2(200)ʰ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This incorrectly uses the initial amount as the base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B=200(0.5)ʰ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models halving, not doubling.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q39</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>Which choice is the strongest reason to reject a model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has a variable named t]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variable names do not determine model quality.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Its equation is longer than another model]]></text>
+      <feedback format="html">
+        <text><![CDATA[Length alone is not a mathematical flaw.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It consistently overpredicts and violates the context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Biased errors and contextual violations weaken a model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It includes a coefficient]]></text>
+      <feedback format="html">
+        <text><![CDATA[Coefficients are normal parts of models.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_UA_Q40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_UA_Q40</p><p><strong>MLA Standard:</strong> Unit 6 standards synthesis; no new primary MLA standard</p><p>Which response best communicates a final modeling conclusion?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The answer is 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This lacks units, context, and assumptions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[I solved it]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not state or interpret the result.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model is good]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is too vague without evidence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The model predicts 9 years, with reliability limited to the data range used]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This gives the result, unit, and a limitation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

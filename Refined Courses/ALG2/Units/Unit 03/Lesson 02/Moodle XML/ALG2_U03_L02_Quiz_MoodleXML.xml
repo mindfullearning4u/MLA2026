@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Lesson 02/ALG2_U03_L02_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the domain of f(x) = sqrt(x - 4)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The radicand x - 4 must be nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &lt;= 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the range of f(x) = sqrt(x - 4)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y &gt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A basic square root output is nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &lt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the endpoint of f(x) = sqrt(x - 6) + 2?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-6, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(6, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The graph shifts right 6 and up 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(6, -2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>Which function shifts f(x) = sqrt(x) left 5 units?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[g(x) = sqrt(x - 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes inside and outside transformations. A left shift is written inside the radical as x plus the shift amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[g(x) = sqrt(x) + 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes inside and outside transformations. A left shift is written inside the radical as x plus the shift amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[g(x) = sqrt(x) - 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes inside and outside transformations. A left shift is written inside the radical as x plus the shift amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[g(x) = sqrt(x + 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Adding inside the radical shifts the graph left.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the domain of f(x) = -sqrt(x + 3)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The radicand x + 3 must be nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &lt;= -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &lt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the range of f(x) = -sqrt(x + 3)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y &lt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The negative sign reflects the square root graph downward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>Which parent function has domain all real numbers?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = sqrt(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Recheck whether the question asks about domain, range, endpoint, or transformation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = sqrt(x - 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Recheck whether the question asks about domain, range, endpoint, or transformation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = cuberoot(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Cube root functions allow all real inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = -sqrt(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Recheck whether the question asks about domain, range, endpoint, or transformation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the endpoint of f(x) = sqrt(x + 1) - 4?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, -4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-4, -1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(-1, -4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The graph shifts left 1 and down 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the domain of f(x) = sqrt(2 - x)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &lt;= 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The radicand 2 - x must be nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &lt;= 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the range of f(x) = sqrt(x + 8) + 1?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= -8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y &gt;= 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The graph shifts up 1, so outputs start at 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= -8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>Which describes g(x) = sqrt(x) - 7?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[shift left 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies the wrong transformation. Changes inside the radical affect horizontal movement; changes outside the radical affect vertical movement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[shift right 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies the wrong transformation. Changes inside the radical affect horizontal movement; changes outside the radical affect vertical movement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[shift down 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Subtracting outside the radical shifts the graph down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[reflect over x-axis]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies the wrong transformation. Changes inside the radical affect horizontal movement; changes outside the radical affect vertical movement.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>Which describes g(x) = sqrt(x - 7)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[shift down 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies the wrong transformation. Changes inside the radical affect horizontal movement; changes outside the radical affect vertical movement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[shift left 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies the wrong transformation. Changes inside the radical affect horizontal movement; changes outside the radical affect vertical movement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[reflect over y-axis]]></text>
+      <feedback format="html">
+        <text><![CDATA[This identifies the wrong transformation. Changes inside the radical affect horizontal movement; changes outside the radical affect vertical movement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[shift right 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Subtracting inside the radical shifts the graph right.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the range of f(x) = -sqrt(x - 2) + 5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y &lt;= 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Reflection makes outputs decrease from the endpoint y-value 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the endpoint of f(x) = -sqrt(x - 2) + 5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The graph shifts right 2 and up 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(5, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, -5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the domain of f(x) = sqrt(x + 9)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &lt;= -9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= -9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= -9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The radicand x + 9 must be nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the range of the parent cube root function?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This incorrectly restricts the outputs. The parent cube root function has no upper or lower endpoint, so its range is all real numbers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This incorrectly restricts the outputs. The parent cube root function has no upper or lower endpoint, so its range is all real numbers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &lt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This incorrectly restricts the outputs. The parent cube root function has no upper or lower endpoint, so its range is all real numbers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Cube root outputs include negative, zero, and positive values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>Which function reflects sqrt(x) over the x-axis?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[g(x) = -sqrt(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A negative outside the radical reflects outputs over the x-axis.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[g(x) = sqrt(-x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a different transformation. Reflection over the x-axis requires a negative sign outside the radical because it changes the output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[g(x) = sqrt(x) - 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a different transformation. Reflection over the x-axis requires a negative sign outside the radical because it changes the output values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[g(x) = sqrt(x - 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a different transformation. Reflection over the x-axis requires a negative sign outside the radical because it changes the output values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the domain of f(x) = sqrt(x - 1) + 6?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The radicand x - 1 controls the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the radicand restriction correctly. For a square root function, set the expression under the radical greater than or equal to zero and solve for x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the range of f(x) = sqrt(x - 1) + 6?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &lt;= 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y &gt;= 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The square root graph starts at y = 6 and increases.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inputs with outputs or misses the vertical shift/reflection. For a square root graph, start with the endpoint y-value and decide whether the graph goes up or down.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L02_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L02_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>Which is the endpoint of f(x) = sqrt(x + 4)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(0, -4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the shift signs or coordinate order incorrectly. For sqrt(x - h) + k, the square root endpoint is (h, k).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(-4, 0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The graph shifts left 4 from the parent endpoint.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

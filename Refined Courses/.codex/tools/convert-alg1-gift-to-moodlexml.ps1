@@ -40,12 +40,68 @@ function Get-SafeFilePart {
 function Convert-Superscripts {
     param([string]$Text)
     $result = $Text
+    $mojibakeSup2 = [string][char]0x00C2 + [string][char]0x00B2
+    $mojibakeSup3 = [string][char]0x00C2 + [string][char]0x00B3
+    $result = $result -replace [regex]::Escape($mojibakeSup2), '<sup>2</sup>'
+    $result = $result -replace [regex]::Escape($mojibakeSup3), '<sup>3</sup>'
+    $result = $result -replace [regex]::Escape([string][char]0x00B2), '<sup>2</sup>'
+    $result = $result -replace [regex]::Escape([string][char]0x00B3), '<sup>3</sup>'
     $result = $result -replace 'x\^2', 'x<sup>2</sup>'
     $result = $result -replace 'x\^3', 'x<sup>3</sup>'
     $result = $result -replace 'y\^2', 'y<sup>2</sup>'
     $result = $result -replace '(\d+)\^2', '$1<sup>2</sup>'
     $result = $result -replace '(\d+)\^3', '$1<sup>3</sup>'
     return $result
+}
+
+function New-XYHtmlTable {
+    param(
+        [string]$XValuesText,
+        [string]$YValuesText
+    )
+    $xValues = $XValuesText.Split(',') | ForEach-Object { $_.Trim() }
+    $yValues = $YValuesText.Split(',') | ForEach-Object { $_.Trim() }
+    if ($xValues.Count -ne $yValues.Count -or $xValues.Count -lt 2) {
+        return $null
+    }
+
+    $html = '<table class="mla-assessment-table" style="border-collapse:collapse;margin:8px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th>'
+    foreach ($value in $xValues) {
+        $html += '<td style="border:1px solid #555;padding:4px 8px;text-align:center;">' + (Convert-Superscripts ([System.Net.WebUtility]::HtmlEncode($value))) + '</td>'
+    }
+    $html += '</tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th>'
+    foreach ($value in $yValues) {
+        $html += '<td style="border:1px solid #555;padding:4px 8px;text-align:center;">' + (Convert-Superscripts ([System.Net.WebUtility]::HtmlEncode($value))) + '</td>'
+    }
+    $html += '</tr></table>'
+    return $html
+}
+
+function Convert-StemToHtml {
+    param([string]$Stem)
+    $lines = $Stem -split "\r?\n"
+    $htmlParts = @()
+    for ($i = 0; $i -lt $lines.Count; $i++) {
+        $line = $lines[$i].Trim()
+        if ($line.Length -eq 0) { continue }
+
+        if ($i + 1 -lt $lines.Count) {
+            $next = $lines[$i + 1].Trim()
+            $xMatch = [regex]::Match($line, '^(?:Input\s*)?x:\s*(.+)$', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+            $yMatch = [regex]::Match($next, '^(?:Output\s*)?y:\s*(.+)$', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+            if ($xMatch.Success -and $yMatch.Success) {
+                $table = New-XYHtmlTable -XValuesText $xMatch.Groups[1].Value -YValuesText $yMatch.Groups[1].Value
+                if ($table) {
+                    $htmlParts += $table
+                    $i++
+                    continue
+                }
+            }
+        }
+
+        $htmlParts += '<p>' + (Convert-Superscripts ([System.Net.WebUtility]::HtmlEncode($line))) + '</p>'
+    }
+    return ($htmlParts -join '')
 }
 
 function Convert-ChoiceTextToHtml {
@@ -55,18 +111,8 @@ function Convert-ChoiceTextToHtml {
 
     $tableMatch = [regex]::Match($visible, '^\s*x:\s*([^;]+);\s*y:\s*(.+)$', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
     if ($tableMatch.Success) {
-        $xValues = $tableMatch.Groups[1].Value.Split(',') | ForEach-Object { $_.Trim() }
-        $yValues = $tableMatch.Groups[2].Value.Split(',') | ForEach-Object { $_.Trim() }
-        if ($xValues.Count -eq $yValues.Count -and $xValues.Count -gt 1) {
-            $html = '<table class="mla-assessment-table" style="border-collapse:collapse;margin:4px 0;"><tr><th style="border:1px solid #555;padding:4px 8px;">x</th>'
-            foreach ($value in $xValues) {
-                $html += '<td style="border:1px solid #555;padding:4px 8px;text-align:center;">' + [System.Net.WebUtility]::HtmlEncode($value) + '</td>'
-            }
-            $html += '</tr><tr><th style="border:1px solid #555;padding:4px 8px;">y</th>'
-            foreach ($value in $yValues) {
-                $html += '<td style="border:1px solid #555;padding:4px 8px;text-align:center;">' + [System.Net.WebUtility]::HtmlEncode($value) + '</td>'
-            }
-            $html += '</tr></table>'
+        $html = New-XYHtmlTable -XValuesText $tableMatch.Groups[1].Value -YValuesText $tableMatch.Groups[2].Value
+        if ($html) {
             return $html
         }
     }
@@ -173,26 +219,108 @@ function Get-PointPair {
     )
 }
 
+function ConvertTo-ParseMathText {
+    param([string]$Text)
+    $plain = ConvertFrom-GiftVisibleText $Text
+    $mojibakeSup2 = [string][char]0x00C2 + [string][char]0x00B2
+    $mojibakeSup3 = [string][char]0x00C2 + [string][char]0x00B3
+    $plain = $plain -replace [regex]::Escape($mojibakeSup2), '^2'
+    $plain = $plain -replace [regex]::Escape($mojibakeSup3), '^3'
+    $plain = $plain -replace [regex]::Escape([string][char]0x00B2), '^2'
+    $plain = $plain -replace [regex]::Escape([string][char]0x00B3), '^3'
+    $plain = $plain -replace '\s+', ''
+    return $plain
+}
+
+function ConvertFrom-ParseMathText {
+    param([string]$Text)
+    $result = $Text
+    $result = $result -replace '\^2', ([string][char]0x00B2)
+    $result = $result -replace '\^3', ([string][char]0x00B3)
+    return $result
+}
+
+function Convert-Coefficient {
+    param([string]$Text)
+    if ([string]::IsNullOrWhiteSpace($Text) -or $Text -eq '+') { return 1.0 }
+    if ($Text -eq '-') { return -1.0 }
+    return [double]$Text
+}
+
+function Get-QuadraticEquation {
+    param([string]$Text)
+    $parse = ConvertTo-ParseMathText $Text
+    $visible = ConvertFrom-GiftVisibleText $Text
+
+    $standard = [regex]::Match($parse, '(?:y|f\(x\)|g\(x\)|h\(x\))([<>]=?|=)([+-]?\d*)x\^2(([+-]\d*)x)?([+-]\d+)?', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+    if ($standard.Success) {
+        $a = Convert-Coefficient $standard.Groups[2].Value
+        $b = 0.0
+        if ($standard.Groups[4].Success) { $b = Convert-Coefficient $standard.Groups[4].Value }
+        $c = 0.0
+        if ($standard.Groups[5].Success) { $c = [double]$standard.Groups[5].Value }
+        return [pscustomobject]@{ A = $a; B = $b; C = $c; Operator = $standard.Groups[1].Value; Equation = (ConvertFrom-ParseMathText $standard.Value) }
+    }
+
+    $vertex = [regex]::Match($parse, '(?:y|f\(x\)|g\(x\)|h\(x\))([<>]=?|=)([+-]?\d*)\(x([+-]\d+)\)\^2([+-]\d+)?', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+    if ($vertex.Success) {
+        $a = Convert-Coefficient $vertex.Groups[2].Value
+        $h = -1.0 * [double]$vertex.Groups[3].Value
+        $k = 0.0
+        if ($vertex.Groups[4].Success) { $k = [double]$vertex.Groups[4].Value }
+        $b = -2.0 * $a * $h
+        $c = ($a * $h * $h) + $k
+        return [pscustomobject]@{ A = $a; B = $b; C = $c; Operator = $vertex.Groups[1].Value; Equation = (ConvertFrom-ParseMathText $vertex.Value) }
+    }
+
+    $factored = [regex]::Match($parse, '(?:y|f\(x\)|g\(x\)|h\(x\))([<>]=?|=)([+-]?\d*)\(x([+-]\d+)\)\(x([+-]\d+)\)', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+    if ($factored.Success) {
+        $a = Convert-Coefficient $factored.Groups[2].Value
+        $r1 = -1.0 * [double]$factored.Groups[3].Value
+        $r2 = -1.0 * [double]$factored.Groups[4].Value
+        $b = -1.0 * $a * ($r1 + $r2)
+        $c = $a * $r1 * $r2
+        return [pscustomobject]@{ A = $a; B = $b; C = $c; Operator = $factored.Groups[1].Value; Equation = (ConvertFrom-ParseMathText $factored.Value) }
+    }
+
+    $zeros = [regex]::Match($visible, 'zeros?\s+(-?\d+(?:\.\d+)?)\s+and\s+(-?\d+(?:\.\d+)?).*opens\s+(upward|downward)', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+    if ($zeros.Success) {
+        $r1 = [double]$zeros.Groups[1].Value
+        $r2 = [double]$zeros.Groups[2].Value
+        $a = if ($zeros.Groups[3].Value -match 'down') { -1.0 } else { 1.0 }
+        $b = -1.0 * $a * ($r1 + $r2)
+        $c = $a * $r1 * $r2
+        return [pscustomobject]@{ A = $a; B = $b; C = $c; Operator = '='; Equation = 'zeros ' + $r1 + ' and ' + $r2 + ', opens ' + $zeros.Groups[3].Value.ToLower() }
+    }
+
+    return $null
+}
+
 function Get-VisualDecision {
     param($Question)
     $stem = $Question.Stem
     $combined = $stem + "`n" + (($Question.Answers | ForEach-Object { ConvertFrom-GiftVisibleText $_.Text }) -join "`n")
 
+    $quadratic = Get-QuadraticEquation $combined
+    if ($quadratic -and $combined -match '(graph|shade|boundary|parabola|vertex|zeros|x-axis|solution region|opens)') {
+        return [pscustomobject]@{ Kind = 'quadratic'; Reason = 'Parabola graph supports quadratic, vertex, zero, boundary, or shading interpretation.'; Points = $null; Linear = $null; Quadratic = $quadratic }
+    }
+
     $points = Get-PointPair $combined
     if ($points -and $combined -match '(slope|line|graph|rate of change)') {
-        return [pscustomobject]@{ Kind = 'points'; Reason = 'Point-pair graph supports slope/rate interpretation.'; Points = $points; Linear = $null }
+        return [pscustomobject]@{ Kind = 'points'; Reason = 'Point-pair graph supports slope/rate interpretation.'; Points = $points; Linear = $null; Quadratic = $null }
     }
 
     $linear = Get-LinearEquation $combined
     if ($linear -and $combined -match '(graph|shade|boundary|slope|intercept|line|inequality)') {
-        return [pscustomobject]@{ Kind = 'linear'; Reason = 'Coordinate graph supports line, slope, intercept, or inequality interpretation.'; Points = $null; Linear = $linear }
+        return [pscustomobject]@{ Kind = 'linear'; Reason = 'Coordinate graph supports line, slope, intercept, or inequality interpretation.'; Points = $null; Linear = $linear; Quadratic = $null }
     }
 
-    if ($combined -match 'table|linear relationship|constant (rate|change)|x:\s*') {
-        return [pscustomobject]@{ Kind = 'answer-table'; Reason = 'Answer choices converted into Moodle HTML tables.'; Points = $null; Linear = $null }
+    if ($combined -match 'table|linear relationship|constant (rate|change)|x:\s*|Input\s+x:') {
+        return [pscustomobject]@{ Kind = 'answer-table'; Reason = 'Table text converted into Moodle HTML tables.'; Points = $null; Linear = $null; Quadratic = $null }
     }
 
-    return [pscustomobject]@{ Kind = 'none'; Reason = 'No visual required by question wording.'; Points = $null; Linear = $null }
+    return [pscustomobject]@{ Kind = 'none'; Reason = 'No visual required by question wording.'; Points = $null; Linear = $null; Quadratic = $null }
 }
 
 function New-GraphImage {
@@ -359,17 +487,133 @@ function New-GraphImage {
     return $true
 }
 
+function New-QuadraticImage {
+    param(
+        [string]$OutPath,
+        [double]$A,
+        [double]$B,
+        [double]$C,
+        [string]$Operator = "=",
+        [string]$Title = "Quadratic Graph"
+    )
+
+    if ([Math]::Abs($A) -lt 0.000001) { return $false }
+
+    $width = 760
+    $height = 500
+    $left = 70
+    $right = 35
+    $top = 65
+    $bottom = 70
+    $vx = -1.0 * $B / (2.0 * $A)
+    $vy = ($A * $vx * $vx) + ($B * $vx) + $C
+    $xmin = [Math]::Floor($vx - 6)
+    $xmax = [Math]::Ceiling($vx + 6)
+    $samples = @()
+    for ($i = 0; $i -le 120; $i++) {
+        $x = $xmin + (($xmax - $xmin) * $i / 120.0)
+        $y = ($A * $x * $x) + ($B * $x) + $C
+        $samples += [pscustomobject]@{ X = $x; Y = $y }
+    }
+    $ymin = [Math]::Floor((($samples | Measure-Object -Property Y -Minimum).Minimum) - 2)
+    $ymax = [Math]::Ceiling((($samples | Measure-Object -Property Y -Maximum).Maximum) + 2)
+    $ymin = [Math]::Max($ymin, -25)
+    $ymax = [Math]::Min($ymax, 25)
+    if ($ymax -le $ymin) { $ymax = $ymin + 10 }
+
+    function PX([double]$x) { return [int]($left + (($x - $xmin) / ($xmax - $xmin)) * ($width - $left - $right)) }
+    function PY([double]$y) { return [int]($height - $bottom - (($y - $ymin) / ($ymax - $ymin)) * ($height - $top - $bottom)) }
+
+    $bmp = [System.Drawing.Bitmap]::new($width, $height)
+    $g = [System.Drawing.Graphics]::FromImage($bmp)
+    $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::AntiAlias
+    $g.Clear([System.Drawing.Color]::White)
+    $font = [System.Drawing.Font]::new("Arial", 12)
+    $titleFont = [System.Drawing.Font]::new("Arial", 20, [System.Drawing.FontStyle]::Bold)
+    $axisPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(45,45,45), 2)
+    $gridPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(225,225,225), 1)
+    $curvePen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(24,99,188), 4)
+    if ($Operator -eq '<' -or $Operator -eq '>') { $curvePen.DashStyle = [System.Drawing.Drawing2D.DashStyle]::Dash }
+
+    $g.DrawString($Title, $titleFont, [System.Drawing.Brushes]::Black, 30, 18)
+    $xStep = [Math]::Max(1, [Math]::Ceiling(($xmax - $xmin) / 12))
+    $yStep = [Math]::Max(1, [Math]::Ceiling(($ymax - $ymin) / 12))
+    for ($x = [int]$xmin; $x -le [int]$xmax; $x += $xStep) {
+        $px = PX $x
+        $g.DrawLine($gridPen, $px, $top, $px, $height - $bottom)
+        if ($x -ne 0) { $g.DrawString([string]$x, $font, [System.Drawing.Brushes]::Black, $px - 8, $height - $bottom + 8) }
+    }
+    for ($y = [int]$ymin; $y -le [int]$ymax; $y += $yStep) {
+        $py = PY $y
+        $g.DrawLine($gridPen, $left, $py, $width - $right, $py)
+        if ($y -ne 0) { $g.DrawString([string]$y, $font, [System.Drawing.Brushes]::Black, 18, $py - 9) }
+    }
+    if ($xmin -le 0 -and $xmax -ge 0) { $g.DrawLine($axisPen, (PX 0), $top, (PX 0), $height - $bottom) }
+    if ($ymin -le 0 -and $ymax -ge 0) { $g.DrawLine($axisPen, $left, (PY 0), $width - $right, (PY 0)) }
+    $g.DrawString("x", $font, [System.Drawing.Brushes]::Black, $width - 25, (PY 0) - 25)
+    if ($xmin -le 0 -and $xmax -ge 0) { $g.DrawString("y", $font, [System.Drawing.Brushes]::Black, (PX 0) + 8, $top + 4) }
+
+    $points = @()
+    foreach ($sample in $samples) {
+        if ($sample.Y -ge $ymin -and $sample.Y -le $ymax) {
+            $points += [System.Drawing.Point]::new((PX $sample.X), (PY $sample.Y))
+        }
+    }
+
+    if ($Operator -match '[<>]' -and $points.Count -gt 1) {
+        $shadeBrush = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(45, 48, 150, 214))
+        $shadePath = [System.Drawing.Drawing2D.GraphicsPath]::new()
+        $poly = @()
+        $poly += $points
+        if ($Operator -match '>') {
+            $poly += [System.Drawing.Point]::new($points[-1].X, $top)
+            $poly += [System.Drawing.Point]::new($points[0].X, $top)
+        }
+        else {
+            $poly += [System.Drawing.Point]::new($points[-1].X, $height - $bottom)
+            $poly += [System.Drawing.Point]::new($points[0].X, $height - $bottom)
+        }
+        $shadePath.AddPolygon($poly)
+        $g.FillPath($shadeBrush, $shadePath)
+        $shadePath.Dispose()
+        $shadeBrush.Dispose()
+    }
+
+    if ($points.Count -gt 1) { $g.DrawLines($curvePen, $points) }
+    $g.FillEllipse([System.Drawing.Brushes]::Crimson, (PX $vx) - 6, (PY $vy) - 6, 12, 12)
+    $g.DrawString(("vertex (" + [Math]::Round($vx,2) + ", " + [Math]::Round($vy,2) + ")"), $font, [System.Drawing.Brushes]::Black, (PX $vx) + 8, (PY $vy) - 22)
+    if ($Operator -match '[<>]') {
+        $boundary = if ($Operator -eq '<' -or $Operator -eq '>') { "dashed" } else { "solid" }
+        $shade = if ($Operator -match '>') { "above" } else { "below" }
+        $g.DrawString("Boundary is $boundary; shade $shade.", $font, [System.Drawing.Brushes]::Black, 32, $height - 28)
+    }
+    else {
+        $g.DrawString("Use the parabola's vertex, intercepts, and opening direction.", $font, [System.Drawing.Brushes]::Black, 32, $height - 28)
+    }
+
+    $bmp.Save($OutPath, [System.Drawing.Imaging.ImageFormat]::Png)
+    $curvePen.Dispose()
+    $gridPen.Dispose()
+    $axisPen.Dispose()
+    $font.Dispose()
+    $titleFont.Dispose()
+    $g.Dispose()
+    $bmp.Dispose()
+    return $true
+}
+
 function New-MoodleXml {
     param(
         [string]$SourceGift,
         [array]$Questions,
         [string]$OutXml,
-        [string]$AssetDir
+        [string]$AssetDir,
+        [string]$CourseCode
     )
 
     $sourceName = [System.IO.Path]::GetFileNameWithoutExtension($SourceGift)
-    $category = ($SourceGift -replace '^.*?ALG1\\Units\\', 'ALG1/Units/' -replace '\\', '/')
-    $category = $category -replace '\.gift$', ''
+    $afterUnits = $SourceGift -replace '^.*?\\Units\\', ''
+    $category = $CourseCode + '/Units/' + (($afterUnits -replace '\\', '/') -replace '\.gift$', '')
     $visualCount = 0
     $questionCount = 0
 
@@ -399,7 +643,7 @@ function New-MoodleXml {
         if ($question.Standard) {
             $questionHtml += '<p><strong>MLA Standard:</strong> ' + (ConvertTo-HtmlText $question.Standard) + '</p>'
         }
-        $questionHtml += '<p>' + (Convert-Superscripts ([System.Net.WebUtility]::HtmlEncode($question.Stem)) -replace "`n", '<br />') + '</p>'
+        $questionHtml += Convert-StemToHtml $question.Stem
 
         if ($decision.Kind -eq 'points') {
             $p1 = $decision.Points[0]
@@ -425,6 +669,16 @@ function New-MoodleXml {
             $imgName = (Get-SafeFilePart $question.QuestionId) + "_graph.png"
             $imgPath = Join-Path $AssetDir $imgName
             $created = New-GraphImage -OutPath $imgPath -M $decision.Linear.M -B $decision.Linear.B -Operator $decision.Linear.Operator -Title ("Graph of " + $decision.Linear.Equation)
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
+        elseif ($decision.Kind -eq 'quadratic') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_graph.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-QuadraticImage -OutPath $imgPath -A $decision.Quadratic.A -B $decision.Quadratic.B -C $decision.Quadratic.C -Operator $decision.Quadratic.Operator -Title ("Graph of " + $decision.Quadratic.Equation)
             if ($created) {
                 $visualCount++
                 $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
@@ -490,6 +744,7 @@ function New-MoodleXml {
 }
 
 $root = Resolve-Path $CourseRoot
+$courseCode = Split-Path $root.Path -Leaf
 if ($CleanGenerated) {
     Get-ChildItem -Path (Join-Path $root "Units") -Recurse -Directory -Filter "Moodle XML" | ForEach-Object {
         if ($_.FullName.StartsWith($root.Path, [System.StringComparison]::OrdinalIgnoreCase)) {
@@ -513,18 +768,18 @@ foreach ($gift in $giftFiles) {
     New-Item -ItemType Directory -Force -Path $assetDir | Out-Null
     $xmlName = [System.IO.Path]::GetFileNameWithoutExtension($gift.Name) + "_MoodleXML.xml"
     $outXml = Join-Path $outDir $xmlName
-    $results += New-MoodleXml -SourceGift $gift.FullName -Questions $questions -OutXml $outXml -AssetDir $assetDir
+    $results += New-MoodleXml -SourceGift $gift.FullName -Questions $questions -OutXml $outXml -AssetDir $assetDir -CourseCode $courseCode
 }
 
-$manifestPath = Join-Path $root "ALG1_MOODLE_XML_ASSESSMENT_CONVERSION_MANIFEST.md"
+$manifestPath = Join-Path $root ($courseCode + "_MOODLE_XML_ASSESSMENT_CONVERSION_MANIFEST.md")
 $totalQuestions = ($results | Measure-Object -Property Questions -Sum).Sum
 $totalVisuals = ($results | Measure-Object -Property Visuals -Sum).Sum
 $lines = @(
-    "# ALG1 Moodle XML Assessment Conversion Manifest",
+    "# $courseCode Moodle XML Assessment Conversion Manifest",
     "",
     "Generated: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')",
     "",
-    "Purpose: Convert ALG1 Moodle-ready assessment banks from GIFT to Moodle XML while preserving the original GIFT files and embedding visuals where they support student understanding.",
+    "Purpose: Convert $courseCode Moodle-ready assessment banks from GIFT to Moodle XML while preserving the original GIFT files and embedding visuals where they support student understanding.",
     "",
     "Rules applied:",
     "- Original `.gift` files were not deleted or modified.",

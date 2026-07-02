@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 04/Lesson 05/ALG2_U04_L05_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Expand log_4(ab).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_4(a) + log_4(b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use the product property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_4(a) - log_4(b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the quotient pattern.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_4(a + b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes multiplication to addition inside one log.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_4(a/b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not equivalent to a product.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Expand log_3(x/y).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(x) + log_3(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Addition corresponds to multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_3(x) - log_3(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use the quotient property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(x - y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no property for subtraction inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(y) - log_3(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the quotient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Expand log_6(x⁵).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_6(5x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent becomes a coefficient, not a factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_6(x) + 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the power property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5log_6(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use the power property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_6(x)/5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not match exponent behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense log_2(m) + log_2(n).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(m/n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction would make a quotient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(m + n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no sum property inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(m - n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not equivalent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_2(mn)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Same-base logarithms added condense to a product.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense log_8(p) - log_8(q).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_8(p/q)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Same-base logarithms subtracted condense to a quotient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_8(pq)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would match addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_8(p - q)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no subtraction property inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_8(q/p)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the quotient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense 2log_5(x).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(2x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This turns the coefficient into a factor incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_5(x&#178;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The coefficient becomes an exponent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(x + 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a logarithmic property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2 + log_5(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes multiplication into addition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which property is used in log_b(MN) = log_b(M) + log_b(N)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quotient property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient property involves subtraction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Power property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The power property moves exponents.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Product property]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A product inside a log becomes a sum of logs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change of base]]></text>
+      <feedback format="html">
+        <text><![CDATA[Change of base rewrites the base using a ratio of logs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which property is used in log_b(M/N) = log_b(M) - log_b(N)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Product property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The product property involves addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Power property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The power property moves exponents.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change of base]]></text>
+      <feedback format="html">
+        <text><![CDATA[Change of base rewrites the base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Quotient property]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A quotient inside a log becomes a difference of logs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which property is used in log_b(Mᵏ) = klog_b(M)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Power property]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The exponent becomes a coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Product property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The product property splits multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quotient property]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient property splits division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change of base]]></text>
+      <feedback format="html">
+        <text><![CDATA[Change of base changes the logarithm base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Rewrite log_3(10) using common logarithms.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log(3)/log(10)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses input and base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log(10)/log(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Change of base gives log(input)/log(base).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log(30)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies inside one log incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log(10 - 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not change of base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Expand log_2(3x⁴).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(3) + log_2(4x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent 4 should become a coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4log_2(3x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent applies only to x, not to 3x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_2(3) + 4log_2(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use product and power properties.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(3 + x⁴)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes multiplication to addition inside the argument.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense log_4(a) + 3log_4(b).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_4(3ab)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient becomes an exponent, not a factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_4(a + b&#179;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Addition of logs becomes multiplication, not addition inside one log.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_4(a/b&#179;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction would create a quotient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_4(ab&#179;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Move 3 to an exponent, then use the product property.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense 2log_7(x) - log_7(y).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_7(x&#178;/y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use the power property, then the quotient property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_7(2x/y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient 2 should become an exponent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_7(x&#178;y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction creates division, not multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_7(y/x&#178;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the quotient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which expression is equivalent to log_5(x&#178;y)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(2x) + log_5(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent 2 becomes a coefficient, not a factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2log_5(x) + log_5(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use power and product properties.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2log_5(xy)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent applies only to x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(x&#178;) - log_5(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would represent division by y.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which expression is equivalent to log_9(m/n&#179;)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_9(m) + 3log_9(n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents multiplication by n cubed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3log_9(m) - log_9(n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent 3 applies to n, not m.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_9(m) - 3log_9(n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use quotient and power properties.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_9(m - n&#179;)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction inside a log is not equivalent.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which rewrite is valid?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x + y) = log_2(x) + log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no sum property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x - y) = log_2(x) - log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no subtraction-inside property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x/y) = log_2(y) - log_2(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the quotient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_2(xy) = log_2(x) + log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This is the product property.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which rewrite is invalid?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_3(a + b) = log_3(a) + log_3(b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. There is no logarithm property for splitting addition inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(ab) = log_3(a) + log_3(b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is valid by the product property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(a/b) = log_3(a) - log_3(b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is valid by the quotient property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(a&#178;) = 2log_3(a)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is valid by the power property.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Rewrite log_4(17) using natural logarithms.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ln(4)/ln(17)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses input and base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ln(17)/ln(4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Change of base can use any consistent log base.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ln(68)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies input and base incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ln(17 - 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not change of base.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense log_2(x) + log_2(y) - log_2(z).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x + y - z)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Log properties do not preserve addition or subtraction inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(xz/y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This puts the quotient in the wrong order.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_2(xy/z)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Addition gives multiplication and subtraction gives division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(z/xy)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the full quotient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Expand log_6((a&#178;b)/c).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_6(2a) + log_6(b) - log_6(c)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent should become a coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2log_6(ab) - log_6(c)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent applies only to a.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2log_6(a) - log_6(bc)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This places b in the denominator incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2log_6(a) + log_6(b) - log_6(c)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use power, product, and quotient properties.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

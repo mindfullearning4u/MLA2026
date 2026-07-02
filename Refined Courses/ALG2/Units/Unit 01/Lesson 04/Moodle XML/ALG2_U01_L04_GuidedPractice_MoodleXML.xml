@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 01/Lesson 04/ALG2_U01_L04_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L04_GP01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L04_GP01</p><p><strong>MLA Standard:</strong> MLA.A2.PF.1</p><p>What is the simplified form of sqrt(-64)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[8i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Since sqrt(-64) = sqrt(64) times sqrt(-1), the simplified form is 8i.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-8]]></text>
+      <feedback format="html">
+        <text><![CDATA[Squaring -8 gives positive 64, so this does not represent the square root of -64.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-8i]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign for the principal square root. The simplified principal square root is 8i.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[64i]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the radicand instead of its square root. The square root of 64 is 8.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L04_GP02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L04_GP02</p><p><strong>MLA Standard:</strong> MLA.A2.PF.1</p><p>What is the discriminant of x&#178; + 6x + 10 = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[76]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 4ac instead of subtracting it. The discriminant is b squared minus 4ac.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the correct magnitude but the wrong sign. The subtraction gives a negative value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. b squared minus 4ac is 36 - 40, which equals -4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-76]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use the discriminant expression correctly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L04_GP03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L04_GP03</p><p><strong>MLA Standard:</strong> MLA.A2.PF.1</p><p>If the discriminant of a quadratic equation is negative, what type of solutions does the equation have?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Two real solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[A positive discriminant gives two real solutions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Two complex solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A negative discriminant means the square root part of the quadratic formula is imaginary.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[One repeated real solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[A discriminant of zero gives one repeated real solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No solutions in the complex number system]]></text>
+      <feedback format="html">
+        <text><![CDATA[Quadratic equations with real coefficients still have complex solutions when the discriminant is negative.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L04_GP04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L04_GP04</p><p><strong>MLA Standard:</strong> MLA.A2.PF.1</p><p>What are the solutions of x&#178; + 9 = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3 and x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those values solve x squared minus 9 equals 0, not x squared plus 9 equals 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 9i and x = -9i]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 9 instead of the square root of 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[There are two complex solutions, not one real solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 3i and x = -3i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x squared equals -9, so x equals plus or minus 3i.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L04_GP05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L04_GP05</p><p><strong>MLA Standard:</strong> MLA.A2.PF.1</p><p>What are the solutions of x&#178; - 4x + 8 = 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2 and x = -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are real values and do not satisfy the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 2 + 2i and x = 2 - 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The quadratic formula gives (4 plus or minus sqrt(-16)) divided by 2, which simplifies to 2 plus or minus 2i.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -2 + 2i and x = -2 - 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[The real part should be positive because -b divided by 2a is 4 divided by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4 + 2i and x = 4 - 2i]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not divide the numerator by 2 completely.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

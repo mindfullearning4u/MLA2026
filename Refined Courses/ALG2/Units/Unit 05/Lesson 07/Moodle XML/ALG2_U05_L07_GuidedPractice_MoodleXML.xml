@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 05/Lesson 07/ALG2_U05_L07_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L07_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L07_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12</p><p>If f(x)=x&#178;+1 and g(x)=2x+1, which statement is true at x=3?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(3)&gt;g(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(3)=10 and g(3)=7, so f(3) is greater.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(3)&lt;g(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the comparison.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(3)=g(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The values are not equal.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both values are 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input is 3, but the outputs must be evaluated.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L07_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L07_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12</p><p>Solve f(x)=g(x) for f(x)=x&#178; and g(x)=4x.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=4 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses x=0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x=0 and x=4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x&#178;=4x gives x(x-4)=0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=-4 and x=0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign on 4 is wrong.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x=2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a solution of x&#178;=4x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L07_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L07_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12</p><p>What is the average rate of change of h(x)=3x+2 from x=1 to x=5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the change in output, not divided by the input change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the interval length only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. (17-5)/(5-1)=12/4=3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is h(1), not the average rate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L07_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L07_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12</p><p>A model gives t=-2 and t=6 for time in seconds. Which solution is viable?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t=-2 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative time is not viable in this context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[The negative time value must be rejected.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[The positive time value is viable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t=6 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Time after the start must be nonnegative.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U05_L07_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U05_L07_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.FN.3; MLA.A2.FN.11; MLA.A2.FN.12</p><p>Which feature is found by solving f(x)=0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x-intercept]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. An x-intercept occurs where the output is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y-intercept]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y-intercept is found at x=0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[average rate of change]]></text>
+      <feedback format="html">
+        <text><![CDATA[That compares output changes over an interval.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[domain restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[That identifies allowed input values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

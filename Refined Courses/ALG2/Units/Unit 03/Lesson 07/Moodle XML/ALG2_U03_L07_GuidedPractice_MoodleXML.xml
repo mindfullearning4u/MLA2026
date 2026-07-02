@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Lesson 07/ALG2_U03_L07_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L07_GP01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L07_GP01</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>What is the vertical asymptote of f(x)=1/(x-4)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator is zero when x - 4 = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign is reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[A vertical asymptote is written x = value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator is not zero at 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L07_GP02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L07_GP02</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>What is the domain of f(x)=5/(x+2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign is reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x != -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator x + 2 cannot equal 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = -2 is not allowed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &gt;= -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a radical-style domain, not rational.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L07_GP03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L07_GP03</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>What is the horizontal asymptote of f(x)=(3x+1)/(x-5)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the vertical asymptote.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the constant, not leading coefficients.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The degrees match, so use the ratio of leading coefficients 3/1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Equal degrees do not give y = 0 here.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L07_GP04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L07_GP04</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>In T(n)=120/n, why is n=0 not allowed?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the time would be 120]]></text>
+      <feedback format="html">
+        <text><![CDATA[120/0 is undefined.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the model becomes linear]]></text>
+      <feedback format="html">
+        <text><![CDATA[The issue is division by zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[n=0 is always the maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[It is not in the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[zero workers is not meaningful and division by zero is undefined]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator cannot be zero, and the context also rejects zero workers.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L07_GP05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L07_GP05</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>For f(x)=2/(x+7), what line does the graph approach near the restriction?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator is zero at x = -7, creating a vertical asymptote.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign is reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = -7]]></text>
+      <feedback format="html">
+        <text><![CDATA[A vertical asymptote uses x = value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the restriction line.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 04/Lesson 02/ALG2_U04_L02_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L02_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L02_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.EX.2; MLA.A2.EX.3</p><p>What factor represents 8% growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1.08]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Growth uses 1 + r, so 1 + 0.08 = 1.08.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.08]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is only the rate, not the whole growth factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.92]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 8% decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 80% growth, not 8%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L02_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L02_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.EX.2; MLA.A2.EX.3</p><p>What factor represents 15% decay?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This represents 15% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.85]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Decay uses 1 - r, so 1 - 0.15 = 0.85.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is only the rate, not the remaining factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.85]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not represent 15% decay.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L02_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L02_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.EX.2; MLA.A2.EX.3</p><p>A population of 400 grows by 5% each year. Which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(t) = 400(0.95)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 5% decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(t) = 1.05(400)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[P(t) = 400(1.05)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The initial amount is 400 and 5% growth gives factor 1.05.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(t) = 400 + 5t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear growth.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L02_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L02_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.EX.2; MLA.A2.EX.3</p><p>A car worth 18000 loses 10% of its value each year. Which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t) = 18000(1.10)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 10% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t) = 18000 - 10t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 10 dollars per year, not 10%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t) = 0.90(18000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[V(t) = 18000(0.90)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The initial value is 18000 and 10% decay gives factor 0.90.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L02_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L02_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.EX.2; MLA.A2.EX.3</p><p>In A(t)=250(1.12)ᵗ, what does 1.12 mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12% growth per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The factor 1.12 means the amount keeps 100% and gains 12% each period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12% decay per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 represents growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[112% decay per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[The amount does not decay when the factor is greater than 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Initial amount of 1.12]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial amount is 250.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

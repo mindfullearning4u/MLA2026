@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 02/Lesson 06/ALG2_U02_L06_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q01</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A polynomial height model has H(0) = 6. What does 6 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the initial height]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. H(0) is the output at time 0, so it represents the starting height.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the landing time]]></text>
+      <feedback format="html">
+        <text><![CDATA[Landing time is usually a zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the maximum height]]></text>
+      <feedback format="html">
+        <text><![CDATA[A maximum is a vertex or peak value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the degree]]></text>
+      <feedback format="html">
+        <text><![CDATA[Function output does not identify degree.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q02</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>If P(t) models profit and P(t) = 0, what does t represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[maximum profit]]></text>
+      <feedback format="html">
+        <text><![CDATA[Maximum profit occurs at a peak.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[a break-even time]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Profit equal to zero means revenue and cost are equal.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[initial profit]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial profit is P(0).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the degree of the model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input t does not identify degree.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q03</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A ball height model has zeros at t = 0 and t = 5. What is a reasonable domain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative time and time after landing may not fit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t &lt; 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative time is not meaningful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0 &lt;= t &lt;= 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The model is physically meaningful from launch until landing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t &gt;= 5 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That begins at landing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q04</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A revenue model reaches a maximum at x = 40. What does x = 40 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the greatest revenue amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y-coordinate gives the maximum revenue.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a zero of the model]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero is where output is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the initial revenue]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial revenue is the output when x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the input that gives greatest revenue]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The x-coordinate of the maximum gives the input where the peak occurs.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q05</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>Why might a negative solution be rejected in a length model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[lengths cannot be negative]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A physical length must be zero or positive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[negative numbers are never solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative numbers can solve equations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all models use positive coefficients]]></text>
+      <feedback format="html">
+        <text><![CDATA[Coefficient signs do not decide valid context values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it must be the y-intercept]]></text>
+      <feedback format="html">
+        <text><![CDATA[A rejected solution is not necessarily an intercept.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q06</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>If C(x) models cost, what does C(0) usually represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[number of units sold]]></text>
+      <feedback format="html">
+        <text><![CDATA[Units are usually the input x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[fixed or starting cost]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The output at x = 0 describes the cost before any units are produced.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[profit at break-even]]></text>
+      <feedback format="html">
+        <text><![CDATA[Break-even involves profit or revenue equaling cost.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the largest possible cost]]></text>
+      <feedback format="html">
+        <text><![CDATA[C(0) is not necessarily a maximum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q07</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A polynomial model has an x-intercept at 12 months. What could that mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the initial amount is 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial amount is the output at input 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the maximum amount is 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[A maximum is a peak output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the modeled quantity is 0 at 12 months]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. An x-intercept occurs where the output equals 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the degree is 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[An intercept location does not identify degree.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q08</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>Which value should be used to interpret the starting amount in A(t)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the amount after one time unit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 0 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The full output A(0) gives the amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the leading coefficient only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The leading coefficient does not directly give the starting amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(0)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The starting amount is the output when the input time is 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q09</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A model for water volume has V(3) = 0. What does this likely mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the container is empty at time 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A zero output means the modeled volume is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the container starts with 3 units]]></text>
+      <feedback format="html">
+        <text><![CDATA[Starting volume would be V(0).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the maximum volume is 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[A maximum would be a peak output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the model has degree 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input value does not identify degree.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q10</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>If a model output is negative for a population, how should it be treated in context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[as the exact population]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative population is not physically meaningful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[as not meaningful for population]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A real population count cannot be negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[as the degree of the polynomial]]></text>
+      <feedback format="html">
+        <text><![CDATA[Output sign does not identify degree.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[as a required maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative output is not automatically a maximum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q11</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>What does the y-intercept of a polynomial model often represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[final value always]]></text>
+      <feedback format="html">
+        <text><![CDATA[Final value depends on the context and domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a horizontal asymptote]]></text>
+      <feedback format="html">
+        <text><![CDATA[Polynomial functions do not have horizontal asymptotes here.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[initial value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The y-intercept occurs when the input is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the largest zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y-intercept is an output, not an x-zero.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q12</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A polynomial area model gives A(x) = 0 at x = 4. What does x = 4 likely represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the maximum area]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero is not a maximum area.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the starting area]]></text>
+      <feedback format="html">
+        <text><![CDATA[Starting area is A(0).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the leading coefficient]]></text>
+      <feedback format="html">
+        <text><![CDATA[The input x = 4 is not a coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[a boundary value where area becomes zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Zeros can mark endpoints or nonphysical boundaries in context.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q13</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>Why is context important when solving polynomial models?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[some algebraic solutions may not make sense physically]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Context determines which roots or intervals are meaningful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it changes the rules of factoring]]></text>
+      <feedback format="html">
+        <text><![CDATA[Factoring rules stay the same.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it removes the need to check units]]></text>
+      <feedback format="html">
+        <text><![CDATA[Units are part of contextual interpretation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it makes every solution positive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Context may reject solutions, but not force all positive.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q14</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>If a height model opens downward, what key feature often gives maximum height?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the smallest zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero gives ground contact, not maximum height.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the vertex]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The peak of a downward-opening model occurs at the vertex.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the y-intercept always]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial height is not always the maximum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the leading coefficient alone]]></text>
+      <feedback format="html">
+        <text><![CDATA[It indicates direction, not exact maximum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q15</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A polynomial model is valid only for 0 &lt;= t &lt;= 10. Which input should be rejected?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain includes 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain includes values between 0 and 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This input is outside the stated domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The domain includes 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q16</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>If R(x) - C(x) = 0 in a business model, what does that represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[maximum loss]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero difference is not a maximum loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[initial cost]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial cost is C(0).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[domain restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The equation describes equality, not domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[break-even]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Revenue minus cost equal to 0 means profit is 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q17</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>What does an increasing interval tell you in a model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[where the output is rising]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. An increasing interval shows input values where the modeled quantity grows.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[where the output equals 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Zeros describe where output is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[where input is not allowed]]></text>
+      <feedback format="html">
+        <text><![CDATA[Domain restrictions describe allowed inputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[where the model must be linear]]></text>
+      <feedback format="html">
+        <text><![CDATA[A polynomial can increase without being linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q18</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>A polynomial temperature model has a local minimum. What does that feature represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the initial temperature always]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial temperature is T(0).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[a low point over the modeled interval]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A local minimum is a point where nearby outputs are higher.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a zero always]]></text>
+      <feedback format="html">
+        <text><![CDATA[A minimum may or may not be output 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the degree of the polynomial]]></text>
+      <feedback format="html">
+        <text><![CDATA[A feature point does not identify degree.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q19</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>Which interpretation matches f(2) = 15 in context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[when the output is 2, the input is 15]]></text>
+      <feedback format="html">
+        <text><![CDATA[That reverses input and output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the model has two zeros and degree 15]]></text>
+      <feedback format="html">
+        <text><![CDATA[Function notation does not state zeros or degree.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[when the input is 2, the output is 15]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Function notation pairs an input with its output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[15 is always the maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[One output value is not necessarily a maximum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L06_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L06_Q20</p><p><strong>MLA Standard:</strong> Support-only application; no new primary MLA standard</p><p>If a polynomial model has zeros at 1 and 9, what interval might represent positive output between zeros?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &lt; 1 or x &gt; 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes outside the zeros.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1 and x = 9 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[At the zeros, output is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Zeros divide intervals where sign may change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1 &lt; x &lt; 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. If the graph is above the x-axis between zeros, that interval gives positive output.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

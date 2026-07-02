@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Lesson 03/ALG2_U03_L03_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_GP01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_GP01</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x + 6) = 5.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 19]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x + 6 = 25, so x = 19, and the original equation checks.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts incorrectly after squaring.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 11]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 5 + 6 instead of 25 - 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 31]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 6 after squaring instead of subtracting it.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_GP02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_GP02</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(3x + 1) = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not make 3x + 1 equal 16.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives 3x + 1 = 16, so 3x = 15 and x = 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the division by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 17]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds instead of solving 3x + 1 = 16.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_GP03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_GP03</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Which value checks for sqrt(x + 9) = x - 3?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 0 is extraneous because the right side is -3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both appear after squaring, but x = 0 fails the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 7 only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x = 0 or x = 7, but x = 0 gives 3 = -3, so only x = 7 checks.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 7 satisfies the original equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_GP04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_GP04</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>A model d = sqrt(25t) gives distance d. If d = 15, what is t?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides 15 by 5 but does not square first.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not solve 225 = 25t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 225]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is d squared, not the value of t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. 15 = sqrt(25t), so 225 = 25t and t = 9.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_GP05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_GP05</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Why must radical equation solutions be checked?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[squaring can create extraneous solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring both sides can make a false original equation appear true in the squared equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[radicals cannot have solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Radical equations can have valid solutions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[checking changes the equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking substitutes into the original equation; it does not change it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all squared equations have no solutions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Squared equations often have solutions, but they must be verified.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

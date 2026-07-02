@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 06/Lesson 08/ALG2_U06_L08_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L08_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L08_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.FM.1</p><p>A scatterplot has a curved pattern and a technology tool gives an exponential regression with residuals close to 0. What should the student do?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Use the exponential model and interpret its parameters in context]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The model type and residuals both support the exponential regression.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Force a linear model because it is simpler]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simplicity does not outweigh a poor fit to the data pattern.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore residuals after choosing a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residuals are important evidence about model fit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use no model because the scatterplot is curved]]></text>
+      <feedback format="html">
+        <text><![CDATA[Curved patterns can be modeled with nonlinear functions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L08_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L08_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>A regression model for population is P=1200(1.03)ᵗ. What does 1.03 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[An initial population of 1.03]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial value is 1200, not 1.03.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A 3% growth factor per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A factor of 1.03 means the population increases by 3% each period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A 3% decrease per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[A decrease of 3% would use a factor of 0.97.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A fixed increase of 1.03 people]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model is multiplicative, not additive.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L08_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L08_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.FN.2</p><p>Model A has smaller residuals and matches the context. Model B has larger residuals but is easier to write. Which model should be chosen?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Model B because shorter equations are always better]]></text>
+      <feedback format="html">
+        <text><![CDATA[Ease of writing does not prove a better fit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Model B because residuals should be large]]></text>
+      <feedback format="html">
+        <text><![CDATA[Large residuals indicate larger prediction errors.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Model A because it fits the data and context better]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Model comparison should use accuracy and meaning.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither model can be compared]]></text>
+      <feedback format="html">
+        <text><![CDATA[Models can be compared using residuals and contextual fit.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L08_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L08_GP_Q04</p><p><strong>MLA Standard:</strong> Support-only synthesis; no new primary MLA standard</p><p>A model gives 27.4 buses needed for a field trip. What should the school use?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[27 buses]]></text>
+      <feedback format="html">
+        <text><![CDATA[Rounding down would leave some students without transportation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[27.4 buses]]></text>
+      <feedback format="html">
+        <text><![CDATA[A fractional number of buses is not realistic.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[26 buses]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is even farther below the required amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[28 buses]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The school must round up to meet the transportation need.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L08_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L08_GP_Q05</p><p><strong>MLA Standard:</strong> Unit 6 standards synthesis; no new primary MLA standard</p><p>Which statement best describes the final step in a Unit 6 modeling problem?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Explain the solution, units, assumptions, and limits of the model]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Final answers must connect mathematics back to context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Report only the equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[An equation alone does not explain the solution or its limits.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore the data once the model is created]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data should be used to judge the model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the answer with the largest number]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reasonableness depends on context, not size alone.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

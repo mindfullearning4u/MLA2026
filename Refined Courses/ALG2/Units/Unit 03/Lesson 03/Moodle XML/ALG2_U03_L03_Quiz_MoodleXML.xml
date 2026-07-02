@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Lesson 03/ALG2_U03_L03_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x - 4) = 6.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x - 4 = 36, so x = 40.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 4 to 6 rather than to 36.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 32]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 4 after squaring instead of adding it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy the original radical equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(2x + 3) = 7.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not account for squaring 7.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 23]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives 2x + 3 = 49, so x = 23.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 26]]></text>
+      <feedback format="html">
+        <text><![CDATA[This forgets to divide by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 46]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 3 but does not divide by 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x + 1) = x - 1.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 0 is extraneous because the right side is -1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both arise after squaring, but x = 0 fails the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x + 1 = x&#178; - 2x + 1, so x(x - 3) = 0; only x = 3 checks.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 3 satisfies the original equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(4x - 3) = 5.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not make the radicand 25.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 22]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses division by 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 28]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is 4x, not x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives 4x - 3 = 25, so 4x = 28 and x = 7.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Which solution checks for sqrt(x + 4) = x - 2?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x = 0 or x = 5, but x = 0 makes the right side negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 0 is extraneous because 2 is not equal to -2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0 and x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only x = 5 checks in the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 5 satisfies the original equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve cuberoot(x - 1) = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 1 to 4 instead of cubing 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 65]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Cubing gives x - 1 = 64, so x = 65.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 63]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 1 after cubing instead of adding it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 4 squared, not 4 cubed.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x/2) = 3.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 3 by 2 but does not square first.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is x/2, not x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 18]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x/2 = 9, so x = 18.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not satisfy the original equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>A model h = sqrt(64t) gives height-related output h. If h = 16, find t.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides 16 by 8 but does not square first.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not solve 256 = 64t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the output value, not t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. 16 = sqrt(64t), so 256 = 64t and t = 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>What is the first algebraic step for sqrt(x + 8) = 9?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[square both sides]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The radical is already isolated, so square both sides to undo the square root.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[subtract 8 from both sides]]></text>
+      <feedback format="html">
+        <text><![CDATA[The 8 is inside the radical, so this is not the first step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[divide by 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no coefficient to divide by.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[cube both sides]]></text>
+      <feedback format="html">
+        <text><![CDATA[A square root is undone by squaring.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>What makes a candidate solution extraneous in a radical equation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it is always outside every radical domain]]></text>
+      <feedback format="html">
+        <text><![CDATA[Some candidates are in the domain but still fail the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[it does not satisfy the original equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A candidate solution must make the original radical equation true.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it is negative]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative values are not automatically extraneous; the original equation decides.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[it makes the radicand zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[A radicand of zero can be valid if the whole original equation checks.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x + 10) - 2 = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This stops after isolating the square root.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 14]]></text>
+      <feedback format="html">
+        <text><![CDATA[This squares 4 before isolating the radical.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 26]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Add 2 to get sqrt(x + 10) = 6, then square to get x + 10 = 36.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 38]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 10 instead of subtracting it after squaring.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve 2sqrt(x - 1) = 10.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This forgets to square 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 24]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 1 instead of adding it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 101]]></text>
+      <feedback format="html">
+        <text><![CDATA[This squares before dividing by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 26]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Divide by 2 to get sqrt(x - 1) = 5, then square.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Which equation results from squaring sqrt(3x - 2) = x?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3x - 2 = x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring both sides gives the radicand equal to x squared.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x - 2 = x]]></text>
+      <feedback format="html">
+        <text><![CDATA[The right side must also be squared.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9x&#178; - 4 = x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[The radicand itself is not squared after removing the square root.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x = x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This drops the -2 term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x + 12) = x.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = -3 fails because the right side is negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x + 12 = x&#178;, so x = 4 or -3; only x = 4 checks.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3 and x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only x = 4 checks in the original equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 4 satisfies the original equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>A solution to a radical model is t = -4 seconds. What should happen in context?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[keep it because all algebraic solutions work]]></text>
+      <feedback format="html">
+        <text><![CDATA[Context restrictions must be checked.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[change it to t = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Changing the sign changes the solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[reject it because time cannot be negative]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Elapsed time is usually restricted to nonnegative values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[use it as the maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[A negative time is not automatically a maximum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(5x) = 10.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This divides 10 by 5 before squaring.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not make 5x equal 100.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 100]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the squared output, not x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 20]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives 5x = 100, so x = 20.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x - 7) = 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The square root is 0 only when the radicand is 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Substituting 0 gives a negative radicand.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not make x - 7 equal 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no solution]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 7 checks.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Which candidate should be rejected for sqrt(x + 6) = x?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 3 checks because sqrt(9) = 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x = -2 can appear after squaring, but the right side is negative and does not equal the principal square root.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both x = -2 and x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 3 is valid.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[neither candidate]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = -2 fails the original equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve cuberoot(2x + 1) = 3.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not cube 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 14]]></text>
+      <feedback format="html">
+        <text><![CDATA[This forgets to divide by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 13]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Cubing gives 2x + 1 = 27, so x = 13.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 26]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is 2x, not x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L03_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L03_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>What does an extraneous solution mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a solution with a radical symbol]]></text>
+      <feedback format="html">
+        <text><![CDATA[Valid radical solutions can include radical notation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a negative number always]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative numbers are not automatically extraneous.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[a solution found by checking]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking identifies whether it is valid or extraneous.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[a candidate that fails the original equation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. It may solve a transformed equation but not the original.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Lesson 05/ALG2_U03_L05_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L05_GP01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L05_GP01</p><p><strong>MLA Standard:</strong> Support-only extension of MLA.A2.AE.6; no new primary MLA standard</p><p>Simplify 3/x + 4/x.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[7/x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominators match, so add numerators and keep x != 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7/(2x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching denominators are not added.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12/x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerators add, not multiply.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7/x, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L05_GP02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L05_GP02</p><p><strong>MLA Standard:</strong> Support-only extension of MLA.A2.AE.6; no new primary MLA standard</p><p>Simplify 1/x + 2/(x + 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3/(2x + 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Denominators are not added.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3x + 1)/(x(x + 1)), x != 0 and x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use LCD x(x + 1), then combine x + 1 + 2x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x + 3)/(x(x + 1)), x != 0 and x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator should be x + 1 + 2x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(3x + 1)/(x + 1), x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The full LCD remains in the denominator.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L05_GP03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L05_GP03</p><p><strong>MLA Standard:</strong> Support-only extension of MLA.A2.AE.6; no new primary MLA standard</p><p>Simplify 5/(x - 2) - 1/(x - 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4/(2x - 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching denominators stay the same.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6/(x - 2), x != 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The operation is subtraction, not addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4/(x - 2), x != 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominators match, so subtract numerators and keep the restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4/(x - 2), no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator excludes x = 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L05_GP04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L05_GP04</p><p><strong>MLA Standard:</strong> Support-only extension of MLA.A2.AE.6; no new primary MLA standard</p><p>What is the LCD of 1/x and 1/(x + 3)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Denominators are not added.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the factor x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This misses the factor x + 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x(x + 3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Both denominator factors are needed in the least common denominator.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L05_GP05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L05_GP05</p><p><strong>MLA Standard:</strong> Support-only extension of MLA.A2.AE.6; no new primary MLA standard</p><p>Simplify 2/(x + 4) + 3/(x + 4).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5/(x + 4), x != -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Add numerators over the common denominator and keep x != -4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5/(2x + 8)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The common denominator is not added to itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6/(x + 4), x != -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerators add to 5, not 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5/(x + 4), no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = -4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

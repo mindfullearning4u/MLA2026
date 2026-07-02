@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 06/Lesson 04/ALG2_U06_L04_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L04_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L04_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>In y=18x+40, what does 18 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the predicted increase in y for each 1-unit increase in x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. In a linear regression model, the slope gives the rate of change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the starting value when x=0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting value is the y-intercept, 40.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the residual for each data point]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residuals are prediction errors, not the slope.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the correlation coefficient]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correlation is a separate statistic, not the slope.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L04_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L04_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>In y=25(1.06)ˣ, what is the percent growth rate?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[106%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the growth factor as a percent of the previous value, not the increase.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A factor of 1.06 means 6% growth per period.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the initial value, not the growth rate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.06%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses the factor with the percent increase.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L04_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L04_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>A residual plot has points randomly scattered around 0. What does this suggest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model is definitely wrong.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Random residuals around 0 generally support the model fit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The data has no output values.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residuals compare actual and predicted outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The model may be a reasonable fit.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Random residuals around 0 suggest no obvious missed pattern.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The input values must all be 0.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Residuals around 0 are prediction errors, not input values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L04_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L04_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>For y=12(0.90)ˣ, what type of regression model is this?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[linear growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable is in the exponent, so the model is not linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[exponential growth]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor is less than 1, so the model decreases.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[quadratic decay]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model does not include x squared.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[exponential decay]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A factor between 0 and 1 produces exponential decay.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L04_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L04_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.EX.4</p><p>Using y=3.5x+20, what is the prediction when x=8?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[48]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. y=3.5(8)+20=28+20=48.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[28]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses only the slope part and omits the intercept.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[31.5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 3.5 and 8 before adding 20.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[160]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the intercept by x instead of using the model.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

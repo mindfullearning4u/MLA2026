@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 04/Lesson 07/ALG2_U04_L07_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A city population of 50000 grows by 2% annually. Which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[P(t)=50000(1.02)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use the initial population and growth factor 1.02.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(t)=50000(0.98)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 2% decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(t)=1.02(50000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(t)=50000+2t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A car worth 24000 depreciates 14% annually. Which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=24000(1.14)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models appreciation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[V(t)=24000(0.86)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Losing 14% means 86% remains.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=0.86(24000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=24000-14t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is fixed-dollar decrease.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A sample starts at 64 mg and halves every hour. Which model fits?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=64(2)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This doubles instead of halves.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=0.5(64)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=64(0.5)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Half-life means the amount is multiplied by 0.5 each hour.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=64-0.5t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Solve 1000(1.05)ᵗ=2000 for t.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = log(1.05)/log(2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the ratio.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 2/1.05]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the equation as linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 1000]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts values rather than solving for time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = log(2)/log(1.05)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Divide by 1000 to get 1.05ᵗ=2, then use logarithms.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Solve 80(0.75)ᵗ=20 for t.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[t = log(20/80)/log(0.75)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Divide by 80, then use logarithms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = log(0.75)/log(20/80)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the ratio.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 60/0.75]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the model as linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[t = 20 - 80 - 0.75]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not solve the exponent.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>What does the 800 represent in M(t)=800(1.06)ᵗ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The growth rate]]></text>
+      <feedback format="html">
+        <text><![CDATA[The growth rate is 6%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The initial amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. At t=0, the model output is 800.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable t represents time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The final amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[The final amount depends on t.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>What does the 1.06 represent in M(t)=800(1.06)ᵗ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[106% growth per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[The amount becomes 106% of previous, which is 6% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6% decay per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 is growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6% growth per time period]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The factor 1.06 means 100% plus 6%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Initial amount of 1.06]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial amount is 800.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A model has factor 0.73. What is the decay rate?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[73%]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the percent remaining.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.73%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses factor and percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[127%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not describe decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[27%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. If 73% remains, 27% is lost.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A quantity doubles every 6 hours from 30. Which model uses t in 6-hour periods?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=30(2)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. If t counts 6-hour periods, the base is 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=2(30)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=30(6)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[The 6 describes the time unit, not the factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=30+2t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A quantity has half-life 4 days from 100. Which model uses t in 4-day periods?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=100(2)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This doubles instead of halves.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=100(0.5)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Each 4-day period keeps half.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=0.5(100)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=100-4t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Which answer best interprets t=12 in a growth model?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The final amount is 12 dollars.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The equation solved for time, not amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The growth rate is 12%.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rate is part of the factor, not the solved t.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It takes about 12 time periods to reach the target.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The variable t represents time, so interpretation needs time units.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The initial amount is 12.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial amount is the coefficient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Which model best represents repeated 9% growth from 700?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=700+9t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is fixed amount growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=700(0.91)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 9% decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1.09(700)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=700(1.09)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Repeated percent growth is exponential.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Which model best represents repeated 9% decay from 700?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=700(0.91)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Repeated percent decay uses factor 1 - 0.09 = 0.91.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=700(1.09)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=700-9t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts a fixed amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=0.91(700)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>To find when 400(1.08)ᵗ reaches 1000, what is the first algebraic step?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Take log of 400 only.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The whole equation must be handled consistently.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Divide both sides by 400.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. This isolates the exponential factor before using logarithms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtract 1.08 from both sides.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable is in an exponent, not a linear term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Divide both sides by t.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable is not a factor.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>To solve 30(0.6)ᵗ=5, why is the solution positive?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The base is greater than 1.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor is 0.6, which is less than 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The initial amount is smaller than the target.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial amount is larger than the target.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A factor below 1 needs positive time to decrease from 30 to 5.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Repeated multiplication by 0.6 decreases the amount over time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Logarithms always give positive answers.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Logarithms can produce positive or negative values depending on the equation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Which situation needs a logarithm to solve directly?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Finding A(3) for A(t)=1000(1.04)ᵗ.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is direct substitution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Finding the initial value in A(t)=1000(1.04)ᵗ.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The initial value is visible.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Finding the growth rate from factor 1.04.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is parameter interpretation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Finding when an account reaches 3000 in A(t)=1000(1.04)ᵗ.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The unknown is in the exponent.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A(t)=50(1.2)ᵗ. What is A(2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[72]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Compute 50 times 1.2 squared.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[60]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is A(1).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[120]]></text>
+      <feedback format="html">
+        <text><![CDATA[This doubles 60 incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[52.4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds rather than multiplies.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>A(t)=80(0.5)ᵗ. What is A(3)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is A(1).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Compute 80 times 0.5 cubed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is A(2).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is A(4).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Which statement is the best context interpretation for V(t)=18000(0.82)ᵗ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The value starts at 0.82 and grows to 18000.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The value gains 82% each period.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor less than 1 is decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The value starts at 18000 and loses 18% each time period.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A factor of 0.82 means 82% remains, so 18% is lost.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The value loses 82 dollars each period.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The change is percent-based, not a fixed dollar amount.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L07_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L07_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.3</p><p>Which statement is the best context interpretation for P(t)=1200(1.15)ᵗ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The amount starts at 1.15 and grows by 1200.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses parameters.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The amount decays 15% each time period.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 is growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The amount grows by 15 dollars each period.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The change is percent-based, not fixed dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The amount starts at 1200 and grows 15% each time period.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A factor of 1.15 means 15% growth.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

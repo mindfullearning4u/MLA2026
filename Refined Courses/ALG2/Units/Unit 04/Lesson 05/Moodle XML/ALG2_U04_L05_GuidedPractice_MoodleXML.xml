@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 04/Lesson 05/ALG2_U04_L05_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Expand log_2(xy).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_2(x) + log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The product property changes multiplication inside one logarithm into addition of logarithms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x) - log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction is used for quotients, not products.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x + y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes the expression and does not apply a log property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2log(xy)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not represent the product property.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Condense log_5(a) - log_5(b).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(ab)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would match addition of logarithms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_5(a/b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The quotient property changes subtraction of same-base logarithms into division inside one logarithm.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(a - b)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no subtraction property inside a logarithm.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_5(b/a)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the quotient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Rewrite 4log_3(x) as one logarithm.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(4x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient becomes an exponent, not a factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_3(x + 4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no addition property like this.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_3(x⁴)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The power property moves the coefficient to an exponent inside the logarithm.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4 + log_3(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not equivalent to multiplying the logarithm by 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which expression is equivalent to log_7(m/n)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_7(m) + log_7(n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Addition corresponds to multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_7(m - n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction inside a log does not split.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_7(n) - log_7(m)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the quotient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_7(m) - log_7(n)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The quotient property separates division into subtraction.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L05_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L05_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.LOG.4</p><p>Which rewrite is invalid?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[log_2(x + y) = log_2(x) + log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Logarithms do not split over addition inside the argument.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(xy) = log_2(x) + log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the product property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x/y) = log_2(x) - log_2(y)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the quotient property.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[log_2(x&#179;) = 3log_2(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the power property.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

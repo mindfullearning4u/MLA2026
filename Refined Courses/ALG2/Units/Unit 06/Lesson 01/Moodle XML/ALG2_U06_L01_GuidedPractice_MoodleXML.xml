@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 06/Lesson 01/ALG2_U06_L01_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L01_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L01_GP_Q01</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>Which factor represents 7% annual growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1.07]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A 7% increase uses 1 + 0.07, so the growth factor is 1.07.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.07]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the rate only, not the factor that keeps the original amount and adds growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.93]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would represent a 7% decrease because 93% remains.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the percent as a whole number instead of converting to a decimal rate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L01_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L01_GP_Q02</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A $900 account earns 4% annually. Which model gives the balance after t years?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A=900(0.04)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the rate as the entire factor and loses the original 100%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A=900(1.04)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Growth by 4% means the account keeps 100% and gains 4% each year.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A=900+4t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear growth by 4 dollars per year, not exponential percent growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A=4(900)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the principal and rate and creates the wrong type of model.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L01_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L01_GP_Q03</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>A $15,000 car depreciates by 12% each year. What factor should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would increase the value by 12%, not depreciate it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the percent lost, not the percent that remains.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.88]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. If 12% is lost, then 88% remains, so the factor is 0.88.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not convert the percent to a decimal factor.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L01_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L01_GP_Q04</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>What does P represent in A=P(1+r)ᵗ?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the annual rate]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rate is represented by r, not P.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the time in years]]></text>
+      <feedback format="html">
+        <text><![CDATA[The exponent t represents time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[the final balance]]></text>
+      <feedback format="html">
+        <text><![CDATA[The final amount is represented by A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[the starting amount]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. P is the principal, or starting amount.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U06_L01_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U06_L01_GP_Q05</p><p><strong>MLA Standard:</strong> Support-only review; no new primary MLA standard</p><p>$2,000 grows by 5% for 2 years. Which expression estimates the final amount?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2000(1.05)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The principal is 2000, the growth factor is 1.05, and the time is 2 years.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2000(0.05)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses only the rate, so it does not preserve the original amount.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2000(0.95)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 5% decay, not 5% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2000+5(2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a linear dollar increase and does not represent 5% annual growth.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

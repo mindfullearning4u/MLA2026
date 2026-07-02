@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 01/Lesson 05/ALG2_U01_L05_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>In polynomial division, what is the polynomial being divided called?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[divisor]]></text>
+      <feedback format="html">
+        <text><![CDATA[The divisor is the expression you divide by.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[dividend]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The dividend is the expression being divided.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[quotient]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient is the result of the division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[remainder]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remainder is what is left after division.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>When using synthetic division for x - 5, what value is used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would match x + 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would match division by x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would match x - 1, not x - 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x - 5 uses the value 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>When using synthetic division for x + 3, what value is used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x + 3 is the same as x - (-3).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign for x + 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This would be used for x, not x + 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not make x + 3 equal 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#178; + 5x + 6) by (x + 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the divisor, not the quotient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplying by x + 2 gives x squared plus 7x plus 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. (x + 2)(x + 3) equals x squared plus 5x plus 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient should be linear, not quadratic.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#178; - 9) by (x - 3).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x squared minus 9 factors as (x - 3)(x + 3).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the other factor only if the divisor were x + 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not multiply with x - 3 to form x squared minus 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient should have degree 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#178; - 4x + 3) by (x - 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign for the constant term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplying (x - 1)(x - 4) gives x squared minus 5x plus 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient should be linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x squared minus 4x plus 3 factors as (x - 1)(x - 3).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; - 4x&#178; + x + 6) by (x - 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 4x + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies early coefficients instead of completing division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; - 2x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with 2 gives quotient x squared minus 2x minus 3 and remainder 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 2x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong sign for the x-term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 2x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be -3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; + 2x&#178; - 5x - 6) by (x + 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 2x - 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies coefficients rather than dividing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign for the x-term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; + x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiplying (x + 1)(x squared + x - 6) gives the original polynomial.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be -6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; + 4x&#178; + x - 6) by (x + 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 4x + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies coefficients and ignores division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 2x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong sign for the x-term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 2x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be -3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; + 2x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with -2 gives quotient x squared plus 2x minus 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (2x&#179; + 3x&#178; - 5x + 4) by (x + 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2x&#178; - x - 3 + 10/(x + 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The quotient is 2x squared minus x minus 3 with remainder 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; - x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out the remainder.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; + 7x - 19]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong synthetic value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; + 3x - 5 + 4/(x + 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies coefficients instead of dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; + x + 1) by (x + 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + x + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not account for the missing x squared term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - x + 2 + 1/(x + 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient is correct, but the remainder sign is wrong.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; - x + 2 - 1/(x + 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with -1 gives quotient x squared minus x plus 2 and remainder -1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 2x - 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the quotient from division by x + 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; - 8) by (x - 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 2x + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This has the wrong sign for the middle term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; + 2x + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. x cubed minus 8 equals (x - 2)(x squared + 2x + 4).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out the middle term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 2x - 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be positive 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; + 0x&#178; - 4x + 5) by (x - 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; + x - 3 + 2/(x - 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with 1 gives quotient x squared plus x minus 3 and remainder 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 4 + 5/(x - 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This skips the zero x squared coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - x - 3 + 2/(x - 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x-term sign is incorrect.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + x - 3 - 2/(x - 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient is correct, but the remainder sign is wrong.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>What does a remainder of 0 tell you after dividing a polynomial by x - c?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - c is not a factor of the polynomial.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A nonzero remainder would show that it is not a factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The quotient must be constant.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient degree depends on the dividend, not only the remainder.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x - c is a factor of the polynomial.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A zero remainder means the division is exact.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The polynomial must be linear.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A zero remainder can occur for polynomials of many degrees.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>If (x&#179; - 4x&#178; + x + 6) divided by (x - 2) has quotient x&#178; - 2x - 3 and remainder 0, which statement is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 2 is a factor.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The divisor is x - 2, not x + 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The quotient is the remainder.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The quotient and remainder are different parts of the division result.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The polynomial has no factors.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The division result shows at least one factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x - 2 is a factor.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A zero remainder means the divisor x - 2 is a factor.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; - 6x&#178; + 11x - 6) by (x - 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 5x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The signs in the quotient are incorrect.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; - 5x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with 1 gives quotient x squared minus 5x plus 6 and remainder 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 6x + 11]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies coefficients instead of completing division.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 5x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be positive 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; - 6x&#178; + 11x - 6) by (x - 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 5x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the quotient for division by x - 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 4x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The signs are incorrect.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; - 4x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with 2 gives quotient x squared minus 4x plus 3 and remainder 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 4x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be positive 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (x&#179; - 6x&#178; + 11x - 6) by (x - 3).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178; - 3x + 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with 3 gives quotient x squared minus 3x plus 2 and remainder 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 4x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the quotient for division by x - 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 3x + 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The signs in the quotient are incorrect.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; - 3x - 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be positive 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (2x&#179; - 3x&#178; - 8x + 12) by (x - 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; - 7x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the quotient for division by x + 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2x&#178; + x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with 2 gives quotient 2x squared plus x minus 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; - 3x - 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies coefficients instead of dividing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; + x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term should be -6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U01_L05_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U01_L05_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.AE.3</p><p>Divide (2x&#179; - 3x&#178; - 8x + 12) by (x + 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; + x - 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the quotient for division by x - 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; - 3x - 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This copies coefficients instead of dividing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178; + 7x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x-term sign is incorrect.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2x&#178; - 7x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Synthetic division with -2 gives quotient 2x squared minus 7x plus 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Pretest/ALG2_U03_Pretest</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.AE.7; MLA.A2.AE.8</p><p>Which expression is equivalent to sqrt(72)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6sqrt(2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor 72 as 36 times 2, then sqrt(36) = 6, so sqrt(72) = 6sqrt(2).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8sqrt(9)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not simplify the radical correctly because sqrt(72) is not the same as 8sqrt(9).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[36sqrt(2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 36 as a factor but does not take its square root.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12sqrt(6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This product is too large because 12sqrt(6) squared would not equal 72.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.AE.7; MLA.A2.AE.8</p><p>What is the value of 16&#179;⁄⁴?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses only the fourth root of 16 and does not apply the power of 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not produced by the rational exponent relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The fourth root of 16 is 2, and 2&#179; = 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the exponent operation like multiplication by 3 after taking a root.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.RR.2</p><p>What is the domain of f(x) = sqrt(x - 5)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x &lt;= 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the inequality. The radicand must be nonnegative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Set x - 5 &gt;= 0, so x &gt;= 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Square root functions can have restricted domains when the radicand includes a variable expression.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a denominator-style restriction, not a square root domain condition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.RR.1; MLA.A2.RR.3</p><p>Solve sqrt(x + 7) = 4.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This comes from subtracting incorrectly after squaring.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the square root value instead of solving for x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not account for the +7 inside the radical.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring gives x + 7 = 16, so x = 9, and the check works.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; - 9)/(x - 3).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 3, x != 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor the numerator as (x - 3)(x + 3), cancel the common factor, and keep the original restriction x != 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 3, x != -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This cancels the wrong factor and gives the wrong restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 3, all real x]]></text>
+      <feedback format="html">
+        <text><![CDATA[The simplified expression hides the original restriction, but x = 3 is still not allowed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 3, x != 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not factor and simplify the rational expression correctly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q06</p><p><strong>MLA Standard:</strong> Support-only extension of MLA.A2.AE.6; no new primary MLA standard</p><p>What is 1/x + 2/x, with x != 0?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2/x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the numerators and denominators instead of adding like rational terms.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3/x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominators already match, so add the numerators: 1 + 2 = 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3/(2x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes the denominator even though the fractions already have a common denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This flips the expression and does not preserve the sum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.RR.4</p><p>Solve 2/x = 5, with x != 0.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 5/2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the reciprocal of the correct solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This comes from multiplying 2 and 5 instead of isolating x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The restriction says x = 0 is not allowed, and it would make the denominator zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 2/5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply by x and divide by 5 to get x = 2/5, which is allowed.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>For f(x) = 4/(x + 1), what is the vertical asymptote?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator does not create the vertical asymptote.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the sign of the denominator solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Set x + 1 = 0, so the vertical asymptote is x = -1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[A vertical asymptote has the form x = a, not y = a.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.RR.5; MLA.A2.RR.6</p><p>A model T(n) = 80/n gives time in minutes when n workers share a job. Which input is not meaningful?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[n = 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[One worker is meaningful in the context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[n = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Zero workers cannot complete the job, and division by zero is undefined.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[n = 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Four workers is meaningful in the context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[n = 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Ten workers is meaningful in the context.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_Pretest_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_Pretest_Q10</p><p><strong>MLA Standard:</strong> Unit 3 standards synthesis; no new primary MLA standard</p><p>Why should solutions to radical equations be checked in the original equation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Squaring can create extraneous solutions.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Squaring both sides can introduce candidates that do not satisfy the original radical equation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Radical equations never have solutions.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Radical equations can have valid solutions when the original equation checks.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Checking changes the domain to all real numbers.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking verifies a candidate; it does not expand the domain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Rational expressions are always undefined.]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses radical-equation checking with rational restrictions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

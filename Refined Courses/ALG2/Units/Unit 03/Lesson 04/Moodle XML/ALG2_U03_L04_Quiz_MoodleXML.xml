@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 03/Lesson 04/ALG2_U03_L04_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; - 16)/(x - 4).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 4, x != 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor as (x - 4)(x + 4), cancel the common factor, and keep x != 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 4, x != 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining factor is x + 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 4, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator still excludes x = 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 4, x != 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator must be factored first.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>What restriction applies to 5/(x + 2)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sign is reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x != -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator x + 2 cannot equal 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator does not create a restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = -2 makes the denominator 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; + 6x)/(x).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 6, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[The common factor x should cancel.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 6, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor the numerator as x(x + 6) and keep the original restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Canceling x from only one term is not valid.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Multiply (3x/4)(8/x).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x cancels completely.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient simplifies to 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator x excludes 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The x factors cancel and 24/4 = 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Divide (x + 5)/x by (x + 5)/3.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3/x, x != 0 and x != -5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply by 3/(x + 5); x + 5 cancels but the divisor cannot be 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not multiply by the reciprocal correctly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3/x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The divisor also creates x != -5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x remains in the denominator.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; - 25)/(x - 5).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 5, x != 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining factor is x + 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 5, x != 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Use difference of squares and keep the original denominator restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 5, x != -5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator x - 5 excludes 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 5, x != 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator must be factored.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>What values are excluded from (x + 1)/((x - 2)(x + 3))?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator does not create restrictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != -2 and x != 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both signs are reversed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x != 2 and x != -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Each denominator factor cannot equal 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator is zero at 2 and -3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (4x&#179;)/(8x).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x&#178;, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient should be 1/2, not 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#179;⁄&#178;, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[One x factor cancels.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178;⁄&#178;, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x&#178;⁄&#178;, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Reduce 4/8 to 1/2 and cancel one factor of x.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Multiply (x - 1)/(x + 2) by (x + 2)/(x + 5).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x - 1)/(x + 5), x != -2 and x != -5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Cancel x + 2 and keep restrictions from original denominators.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x - 1)/(x + 2), x != -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x + 2 factor cancels.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x - 1)/(x + 5), no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Original denominators create restrictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x + 2)/(x + 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The wrong factor remains.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Why can (x + 4)/x not simplify to 4?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[because x is never allowed in a denominator]]></text>
+      <feedback format="html">
+        <text><![CDATA[x can be in a denominator with restrictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x is not a factor of every numerator term]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Only common factors can cancel across a fraction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[because 4 is not a polynomial]]></text>
+      <feedback format="html">
+        <text><![CDATA[4 is a polynomial constant.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[because addition always cancels first]]></text>
+      <feedback format="html">
+        <text><![CDATA[Terms do not cancel like factors.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; - x)/(x - 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 1, x != 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining factor is x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x, x != 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor x(x - 1), cancel x - 1, and keep x != 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, x != 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor x remains.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>What restriction applies to (2x)/(x&#178; - 9)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator zeros are not 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != -9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a zero of x&#178; - 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator does not create a denominator restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x != 3 and x != -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor the denominator as (x - 3)(x + 3).]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (9x)/(3x&#178;).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3/x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Reduce 9/3 to 3 and cancel one x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining x is in the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6/x, x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficients divide to 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3/x, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Divide (x - 3)/(x + 4) by (x - 3)/(x - 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x + 4)/(x - 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This flips the final result.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x - 1)/(x + 4), x != -4, 1, and 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply by the reciprocal and keep restrictions from the original denominator and divisor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x - 1)/(x + 4), x != -4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The divisor also excludes x = 1 and x = 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Only one common factor cancels.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; + 3x + 2)/(x + 1).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 1, x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining factor is x + 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 2, no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator excludes x = -1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x + 2, x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor the numerator as (x + 1)(x + 2).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 2, x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator must be factored.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>What restriction applies to (x - 8)/(4x)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator does not create a restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x != 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient 4 does not make the denominator zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[x = 0 makes the denominator 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x != 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator 4x is zero when x = 0.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (12x&#178;y)/(3xy), assuming variables in denominators are nonzero.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Divide coefficients and cancel one x and one y.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4xy]]></text>
+      <feedback format="html">
+        <text><![CDATA[The y cancels completely.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9x]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficients divide to 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4/y]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining factor is x, not 1/y.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Multiply (x/(x - 2))((x - 2)/(x + 1)).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/(x - 2), x != 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The x - 2 factor cancels.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x/(x + 1), x != 2 and x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Cancel x - 2 and keep restrictions from original denominators.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x/(x + 1), no restriction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Original denominators create restrictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1/(x + 1)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The numerator x remains.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Which expression is undefined at x = 6?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x - 6)/4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator is 4, not zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This polynomial is defined for all real x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4/(x - 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The denominator is zero when x = 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6/x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is undefined at x = 0, not x = 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U03_L04_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U03_L04_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.AE.6</p><p>Simplify (x&#178; - 4)/(x&#178; + 3x + 2).</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x + 2)/(x + 1), x != -1 and x != -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The remaining numerator factor is x - 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(x - 2)/(x + 1), x != -1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The original denominator also excludes x = -2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 2, x != -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator factor x + 1 remains.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x - 2)/(x + 1), x != -1 and x != -2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Factor numerator and denominator, then cancel x + 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

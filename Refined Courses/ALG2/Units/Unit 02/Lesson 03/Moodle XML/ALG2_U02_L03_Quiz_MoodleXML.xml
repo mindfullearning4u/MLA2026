@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 02/Lesson 03/ALG2_U02_L03_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the end behavior of f(x) = 2x⁴ - 1?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[both ends rise]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term 2x⁴ has even degree and positive coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends fall]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would require an even degree with a negative leading coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left falls, right rises]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is odd positive behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left rises, right falls]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is odd negative behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the end behavior of f(x) = -3x⁵ + x?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends rise]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd-degree functions have opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[left rises, right falls]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Odd degree with a negative leading coefficient rises left and falls right.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left falls, right rises]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would match a positive leading coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends fall]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both ends falling is even negative behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which term controls end behavior of 4x⁶ - 9x&#178; + 3?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-9x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the highest-degree term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[A constant does not determine long-run behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4x⁶]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The highest-degree term dominates for very large positive or negative x-values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all terms equally]]></text>
+      <feedback format="html">
+        <text><![CDATA[The leading term dominates the lower-degree terms.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the degree of f(x) = -7x&#179; + 2x&#178; - 1?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The polynomial includes a cubic term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the leading coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant term does not make the polynomial degree 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The greatest exponent in the polynomial is 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the leading coefficient of f(x) = -7x&#179; + 2x&#178; - 1?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The coefficient on the highest-degree term is -7.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the degree.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This coefficient belongs to a lower-degree term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the constant term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q06</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which end behavior matches g(x) = -5x⁴ + 8x?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends rise]]></text>
+      <feedback format="html">
+        <text><![CDATA[A negative leading coefficient on an even degree makes both ends fall.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[both ends fall]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term is even degree and negative.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left falls, right rises]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is odd positive behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left rises, right falls]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is odd negative behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q07</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>For h(x) = x⁷ - 4x&#178;, what happens as x increases without bound?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[h(x) decreases without bound]]></text>
+      <feedback format="html">
+        <text><![CDATA[A positive odd-degree leading term rises to the right.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[h(x) approaches 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This polynomial does not approach 0 on the right.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[h(x) increases without bound]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term x⁷ controls the right end and is positive.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[h(x) stays constant]]></text>
+      <feedback format="html">
+        <text><![CDATA[The output grows without bound.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q08</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>For p(x) = -2x⁶ + 11, what happens as x decreases without bound?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[p(x) increases without bound]]></text>
+      <feedback format="html">
+        <text><![CDATA[A negative even-degree leading term falls on the left.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[p(x) approaches 11]]></text>
+      <feedback format="html">
+        <text><![CDATA[The constant does not control far-left behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[p(x) approaches 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The leading term grows in magnitude.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[p(x) decreases without bound]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Even degree with a negative leading coefficient falls on both ends.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q09</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which polynomial has left end down and right end up?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3x⁵ - x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Odd degree with a positive leading coefficient falls left and rises right.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-x⁴ + 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Even degree gives the same direction on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x⁴ - 2x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Even degree with positive leading coefficient rises on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-3x⁵ + x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree with a negative coefficient rises left and falls right.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q10</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which polynomial has both ends falling?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x&#178; - 9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Even degree with positive leading coefficient rises on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-2x⁸ + x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Even degree with a negative leading coefficient falls on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5x&#179; - 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree has opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-x⁵ + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree has opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q11</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the leading term of f(x) = 6 - 3x + 9x⁴?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the constant term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-3x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a lower-degree term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9x⁴]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The highest-degree term is 9x⁴.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x⁴]]></text>
+      <feedback format="html">
+        <text><![CDATA[This omits the coefficient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q12</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which statement is true for f(x) = -x⁹ + 2x&#179; - 4?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The graph falls left and rises right.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would require a positive leading coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both ends rise.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That requires even degree with positive leading coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both ends fall.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That requires even degree with negative leading coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The graph rises left and falls right.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term is odd degree with a negative coefficient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q13</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which term determines the end behavior of 12x - x⁵ + 4x&#178;?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-x⁵]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The fifth-degree term controls end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the highest-degree term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[This term is lower degree.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12x + 4x&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[End behavior is controlled by the highest-degree term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q14</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the degree of f(x) = 10 - 4x⁸ + x&#179;?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the constant term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The greatest exponent is 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The coefficient is not the degree.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is an eighth-degree term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q15</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the leading coefficient of q(x) = 2x&#178; - 9x⁶ + 5?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This coefficient is on a lower-degree term.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the degree.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term is -9x⁶.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the constant term.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q16</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>A polynomial falls left and rises right. What must be true about its leading term?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has odd degree and negative coefficient.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would rise left and fall right.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has even degree and positive coefficient.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would rise on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has even degree and negative coefficient.]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would fall on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It has odd degree and positive coefficient.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Positive odd-degree leading terms fall left and rise right.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q17</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>A polynomial rises on both ends. Which leading term could it have?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[7x⁸]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Positive even-degree leading terms rise on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-4x⁶]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative even-degree leading terms fall on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x⁵]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree gives opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-x⁷]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree gives opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q18</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which describes f(x) = 0.5x&#179; - 2x&#178; + 1?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends rise]]></text>
+      <feedback format="html">
+        <text><![CDATA[A cubic has opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[left falls, right rises]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term is odd degree with a positive coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends fall]]></text>
+      <feedback format="html">
+        <text><![CDATA[A cubic has opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left rises, right falls]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would require a negative leading coefficient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q19</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>What is the end behavior of f(x) = -6x&#178; + 3x - 4?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[both ends rise]]></text>
+      <feedback format="html">
+        <text><![CDATA[A negative quadratic falls on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left falls, right rises]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes positive odd-degree behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[both ends fall]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The leading term has even degree and a negative coefficient.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[left rises, right falls]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes negative odd-degree behavior.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U02_L03_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U02_L03_Q20</p><p><strong>MLA Standard:</strong> MLA.A2.PF.8</p><p>Which polynomial has the same end behavior as f(x) = -x⁴ + 7?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x⁶ - 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This rises on both ends.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-3x⁵ + 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree has opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x⁵ - 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Odd degree has opposite end behavior.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-3x⁶ + 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Both have even degree and negative leading coefficient.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

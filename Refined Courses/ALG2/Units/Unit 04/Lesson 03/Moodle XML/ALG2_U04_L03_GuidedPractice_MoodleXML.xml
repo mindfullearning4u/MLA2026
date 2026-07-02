@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ALG2/Units/Unit 04/Lesson 03/ALG2_U04_L03_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L03_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L03_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4</p><p>Which model represents 900 dollars earning 4% annual interest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A(t)=900(1.04)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The principal is 900 and 4% growth gives factor 1.04.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=900(0.96)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 4% depreciation, not interest growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=1.04(900)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the principal and factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A(t)=900+4t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 4 dollars per year instead of 4%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L03_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L03_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4</p><p>A 15000 dollar car depreciates 10% per year. Which factor should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 10% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.90]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. If 10% is lost, 90% remains, so the factor is 0.90.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the rate lost, not the remaining factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.90]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not represent 10% depreciation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L03_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L03_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4</p><p>In A(t)=2000(1.06)ᵗ, what does 2000 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The interest rate]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rate is 6%, represented by the factor 1.06.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of years]]></text>
+      <feedback format="html">
+        <text><![CDATA[The variable t represents time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The initial principal]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The coefficient gives the starting amount at t = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The final balance]]></text>
+      <feedback format="html">
+        <text><![CDATA[The final balance depends on t.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L03_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L03_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4</p><p>Which model represents a 25000 dollar asset losing 18% each year?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=25000(1.18)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This models 18% growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=0.82(25000)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the initial value and factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[V(t)=25000-18t]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 18 units per year, not 18%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[V(t)=25000(0.82)ᵗ]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Losing 18% means 82% remains each year.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>ALG2_U04_L03_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> ALG2_U04_L03_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.A2.FM.2; MLA.A2.FM.3; MLA.A2.FM.4</p><p>Two accounts have models A(t)=1000(1.04)ᵗ and B(t)=900(1.07)ᵗ. What should be true for a fair comparison?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Use the same value of t for both accounts.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Financial choices should be compared over the same time interval.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use different years for each account.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Different time intervals make the comparison unfair.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore the initial values.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Initial values affect account balances.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Compare only the growth rates.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The rate matters, but starting values also matter.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
