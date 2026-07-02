@@ -14,11 +14,11 @@ A game assigns 0 points for losing and 5 points for winning. If X is the points 
 Question ID: STAT_U06_UA_Q02
 MLA Standard: MLA.STAT.PSU.12
 Question:
-What is the expected value when X = 1 with probability 0.20 and X = 4 with probability 0.80?
+What is the expected value when X \= 1 with probability 0.20 and X \= 4 with probability 0.80?
 {
-=A. 3.4#1(0.20) + 4(0.80) = 0.20 + 3.20 = 3.40.
+=A. 3.4#1(0.20) + 4(0.80) \= 0.20 + 3.20 \= 3.40.
 ~B. 2.0#This is not the weighted average using the probabilities.
-~C. 4.0#This ignores the chance of X = 1.
+~C. 4.0#This ignores the chance of X \= 1.
 ~D. 5.0#Adding values does not calculate expected value.
 }
 
@@ -38,11 +38,11 @@ In 50 trials, an outcome occurs 15 times. What empirical probability should be u
 Question ID: STAT_U06_UA_Q04
 MLA Standard: MLA.STAT.PSU.14
 Question:
-For a binomial distribution with n = 12 and p = 0.25, what is the expected number of successes?
+For a binomial distribution with n \= 12 and p \= 0.25, what is the expected number of successes?
 {
 ~A. 0.25#This is the probability of success on one trial.
 ~B. 12#This is the number of trials.
-=C. 3#Expected successes equal n(p) = 12(0.25) = 3.
+=C. 3#Expected successes equal n(p) \= 12(0.25) \= 3.
 ~D. 15#Adding 12 and 3 is not the expected value calculation.
 }
 
@@ -65,7 +65,7 @@ Question:
 A strategy pays $10 with probability 0.70 and loses $5 with probability 0.30. What is the expected payoff?
 {
 ~A. $2.00#This does not correctly include both payoff products.
-=B. $5.50#10(0.70) + (-5)(0.30) = 7 - 1.50 = 5.50.
+=B. $5.50#10(0.70) + (-5)(0.30) \= 7 - 1.50 \= 5.50.
 ~C. $10.00#This ignores the chance of a loss.
 ~D. -$5.00#This ignores the chance of a gain.
 }
@@ -103,7 +103,7 @@ A fair coin pays 2 points for heads and 0 points for tails. What is the expected
 ~A. 2#This ignores the chance of tails.
 ~B. 0#This ignores the chance of heads.
 ~C. 4#This adds values without using probabilities.
-=D. 1#2(0.50) + 0(0.50) = 1.
+=D. 1#2(0.50) + 0(0.50) \= 1.
 }
 
 ::STAT_U06_UA_Q10::
@@ -170,7 +170,7 @@ Which method is fair for selecting one of five students?
 Question ID: STAT_U06_UA_Q15
 MLA Standard: MLA.STAT.PSU.11
 Question:
-If X = number of correct answers on a 3-question quiz, which values can X take?
+If X \= number of correct answers on a 3-question quiz, which values can X take?
 {
 ~A. Only 3#A student could get fewer than 3 correct.
 =B. 0, 1, 2, or 3#The number correct can be any whole number from 0 to 3.
@@ -206,9 +206,9 @@ In 200 simulated trials, a success happens 86 times. What is the empirical proba
 Question ID: STAT_U06_UA_Q18
 MLA Standard: MLA.STAT.PSU.14
 Question:
-A binomial model has n = 50 and p = 0.10. What is the expected number of successes?
+A binomial model has n \= 50 and p \= 0.10. What is the expected number of successes?
 {
-=A. 5#50(0.10) = 5 expected successes.
+=A. 5#50(0.10) \= 5 expected successes.
 ~B. 0.10#This is the success probability, not the expected count.
 ~C. 10#This confuses 0.10 with 10 successes.
 ~D. 60#Adding n and 10 does not calculate expected value.
@@ -367,7 +367,7 @@ In a simulation, 120 trials produce 30 successes. What is the empirical probabil
 ~A. 30/120#This is the empirical probability of success.
 ~B. 120/30#This reverses the ratio.
 ~C. 150/120#This uses an impossible total greater than the number of trials.
-=D. 90/120#There are 120 - 30 = 90 failures, so failure probability is 90/120.
+=D. 90/120#There are 120 - 30 \= 90 failures, so failure probability is 90/120.
 }
 
 ::STAT_U06_UA_Q32::
@@ -377,7 +377,7 @@ Question:
 A quality check inspects 100 items, and the probability an item passes is 0.97. What is the expected number of passing items?
 {
 ~A. 0.97#This is the probability for one item.
-=B. 97#100(0.97) = 97 expected passing items.
+=B. 97#100(0.97) \= 97 expected passing items.
 ~C. 3#This is the expected number failing if failure probability is 0.03.
 ~D. 100#This assumes every item passes.
 }

@@ -42,7 +42,7 @@ What is the expected value of a game that pays $10 with probability 0.20 and $0 
 {
 ~A. $0#This ignores the possible $10 payout.
 ~B. $10#This assumes the $10 payout happens every time.
-=C. $2#10(0.20) + 0(0.80) = 2.
+=C. $2#10(0.20) + 0(0.80) \= 2.
 ~D. $8#This multiplies 10 by 0.80 instead of 0.20.
 }
 
@@ -62,11 +62,11 @@ Expected value is best interpreted as which idea?
 Question ID: STAT_U06_L02_Q06
 MLA Standard: MLA.STAT.PSU.12
 Question:
-A distribution has X = 1, 2, 3 with probabilities 0.20, 0.50, 0.30. Which product belongs in the expected value calculation for X = 2?
+A distribution has X \= 1, 2, 3 with probabilities 0.20, 0.50, 0.30. Which product belongs in the expected value calculation for X \= 2?
 {
 =A. 2(0.50)#The value 2 is multiplied by its probability, 0.50.
-~B. 1(0.20)#That product belongs to X = 1.
-~C. 3(0.30)#That product belongs to X = 3.
+~B. 1(0.20)#That product belongs to X \= 1.
+~C. 3(0.30)#That product belongs to X \= 3.
 ~D. 2 + 0.50#Expected value uses multiplication, not addition of value and probability.
 }
 
@@ -76,7 +76,7 @@ MLA Standard: MLA.STAT.PSU.12
 Question:
 What is 1(0.20) + 2(0.50) + 3(0.30)?
 {
-=A. 2.10#0.20 + 1.00 + 0.90 = 2.10.
+=A. 2.10#0.20 + 1.00 + 0.90 \= 2.10.
 ~B. 1.50#This is too low; multiply and add carefully.
 ~C. 1.90#This misses part of the weighted total.
 ~D. 3.00#This is the largest value, not the expected value.
@@ -102,7 +102,7 @@ A fair number cube has values 1 through 6. What is the expected value?
 {
 ~A. 6#That is the largest possible roll, not the average.
 ~B. 1#That is the smallest possible roll, not the average.
-=C. 3.5#(1 + 2 + 3 + 4 + 5 + 6)/6 = 3.5.
+=C. 3.5#(1 + 2 + 3 + 4 + 5 + 6)/6 \= 3.5.
 ~D. 21#That is the sum of the values, not the average.
 }
 
@@ -139,18 +139,18 @@ A game pays $1, $2, or $3 with equal probability. What is the expected value?
 ~A. $1#This is only the smallest possible payout.
 ~B. $3#This is only the largest possible payout.
 ~C. $6#This is the sum of the payouts, not the average.
-=D. $2#With equal probabilities, the mean is (1 + 2 + 3)/3 = 2.
+=D. $2#With equal probabilities, the mean is (1 + 2 + 3)/3 \= 2.
 }
 
 ::STAT_U06_L02_Q13::
 Question ID: STAT_U06_L02_Q13
 MLA Standard: MLA.STAT.PSU.12
 Question:
-What is the expected value of X when X = 0 with probability 0.70 and X = 10 with probability 0.30?
+What is the expected value of X when X \= 0 with probability 0.70 and X \= 10 with probability 0.30?
 {
 ~A. 7#This uses the probability 0.70 with the value 10 incorrectly.
 ~B. 10#This assumes the highest value happens every time.
-=C. 3#0(0.70) + 10(0.30) = 3.
+=C. 3#0(0.70) + 10(0.30) \= 3.
 ~D. 0.30#This is a probability, not the expected value.
 }
 
@@ -198,7 +198,7 @@ A fair spinner has values 5 and 9. What is the expected value?
 {
 ~A. 5#This is only one possible value.
 ~B. 9#This is only one possible value.
-=C. 7#With equal probabilities, (5 + 9)/2 = 7.
+=C. 7#With equal probabilities, (5 + 9)/2 \= 7.
 ~D. 14#This is the sum, not the average.
 }
 
@@ -218,12 +218,12 @@ Which mistake most directly affects expected value?
 Question ID: STAT_U06_L02_Q19
 MLA Standard: MLA.STAT.PSU.12
 Question:
-A distribution has X = 2 with probability 0.25 and X = 6 with probability 0.75. What is the expected value?
+A distribution has X \= 2 with probability 0.25 and X \= 6 with probability 0.75. What is the expected value?
 {
 ~A. 2#This ignores the value 6 and its probability.
 ~B. 4#This treats the two values as equally likely.
 ~C. 8#This adds the two values without weighting.
-=D. 5#2(0.25) + 6(0.75) = 0.50 + 4.50 = 5.
+=D. 5#2(0.25) + 6(0.75) \= 0.50 + 4.50 \= 5.
 }
 
 ::STAT_U06_L02_Q20::
@@ -247,7 +247,7 @@ What is 4(0.25) + 8(0.75)ˣ
 ~A. 3#This is too low and does not match the weighted products.
 ~B. 12#This adds the values but ignores probabilities.
 ~C. 0.75#This is one probability, not the expected value.
-=D. 7#1 + 6 = 7.
+=D. 7#1 + 6 \= 7.
 }
 
 ::STAT_U06_L02_Q22::
@@ -266,10 +266,10 @@ If all outcomes are equally likely, how can expected value often be found?
 Question ID: STAT_U06_L02_Q23
 MLA Standard: MLA.STAT.PSU.12
 Question:
-What is the expected value of X if X = 1, 2, 3, 4 and each value has probability 0.25?
+What is the expected value of X if X \= 1, 2, 3, 4 and each value has probability 0.25?
 {
 ~A. 1#This is only the smallest value.
-=B. 2.5#1(0.25) + 2(0.25) + 3(0.25) + 4(0.25) = 2.5.
+=B. 2.5#1(0.25) + 2(0.25) + 3(0.25) + 4(0.25) \= 2.5.
 ~C. 4#This is only the largest value.
 ~D. 10#This is the sum of values, not the weighted average.
 }
@@ -281,7 +281,7 @@ Question:
 A fair game costs $3 to play and has an expected payout of $5. What is the expected net gain?
 {
 ~A. $8#Adding cost and payout does not find net gain.
-=B. $2#Expected net gain is expected payout minus cost: 5 - 3 = 2.
+=B. $2#Expected net gain is expected payout minus cost: 5 - 3 \= 2.
 ~C. $5#This ignores the $3 cost.
 ~D. $3#This is the cost, not the net gain.
 }

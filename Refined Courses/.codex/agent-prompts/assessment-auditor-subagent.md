@@ -22,8 +22,8 @@ Check:
 - `.gift` extension
 - UTF-8 plain text
 - no HTML
-- no unescaped reserved GIFT characters inside visible answer-choice text
-- no unescaped equation or inequality operators in visible answer choices, including `=`, `>=`, and `<=`
+- no unescaped reserved GIFT characters inside question text, visible answer-choice text, or feedback text
+- no unescaped equation or inequality operators in displayed GIFT text, including `=`, `>=`, and `<=`
 - correct question count
 - exactly four choices
 - exactly one correct answer
@@ -33,6 +33,7 @@ Check:
 - no duplicate answer choices
 - no malformed GIFT blocks
 - leading answer controls are preserved as `=A.` / `~B.` etc. and are not escaped
+- structural feedback delimiters are preserved as `#`, but reserved characters inside feedback after the delimiter are escaped
 - no predictable answer pattern
 - no weak feedback
 - Guided Practice questions assess only that lesson

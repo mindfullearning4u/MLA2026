@@ -50,7 +50,7 @@ Create:
 - Overwrite older copies with current certified version.
 - Preserve UTF-8 plain text exactly.
 - No formatting conversion.
-- Before export, validate that visible answer-choice text escapes reserved GIFT characters:
+- Before export, validate that displayed GIFT text escapes reserved GIFT characters in question stems, visible answer-choice text, and feedback:
   - `=` as `\=`
   - `~` as `\~`
   - `#` as `\#`
@@ -59,6 +59,7 @@ Create:
   - `>=` as `>\=`
   - `<=` as `<\=`
 - Do not escape the leading GIFT control characters at the start of answer choices, such as `=A.` or `~B.`
+- Do not escape the structural feedback delimiter `#`; escape reserved characters inside the feedback text after that delimiter.
 - Validate source and destination text match exactly.
 
 ## Report

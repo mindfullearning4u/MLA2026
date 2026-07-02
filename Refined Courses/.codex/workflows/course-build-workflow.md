@@ -13,7 +13,7 @@ Use this workflow when building or repairing a course.
 5. Main agent fixes approved structural issues.
 6. Rigor auditor reviews lesson quality.
 7. Visual auditor or rigor auditor identifies needed visuals.
-8. Main agent validates reserved GIFT character escaping inside visible answer-choice text before any assessment bank is certified.
+8. Main agent validates reserved GIFT character escaping inside all displayed GIFT text before any assessment bank is certified, including question stems, visible answer choices, and feedback.
 9. Assessment auditor validates GIFT.
 10. Assessment visual auditor checks every question.
 11. Resource/simulation agent researches suggestions.

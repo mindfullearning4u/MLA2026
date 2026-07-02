@@ -1,14 +1,14 @@
 # GIFT Reserved Character Escape Audit Report
 
-Audit date: 2026-07-01
+Audit dates: 2026-07-01 and 2026-07-02
 
 ## Purpose
 
-Moodle GIFT import treats unescaped reserved characters inside answer text as control characters. This audit corrected answer choices where mathematical equations or inequalities used unescaped reserved characters, causing Moodle to split answer choices during import.
+Moodle GIFT import treats unescaped reserved characters inside displayed GIFT text as control characters. This audit corrected answer choices, question stems, and feedback where mathematical equations or inequalities used unescaped reserved characters, causing Moodle to split text into unintended answer choices during import.
 
 ## Required Escape Rule
 
-Visible answer-choice text must escape:
+Displayed GIFT text must escape these reserved characters in question stems, visible answer-choice text, and feedback text:
 
 - `=` as `\=`
 - `~` as `\~`
@@ -23,6 +23,8 @@ The leading answer control must remain unchanged:
 - Correct answer choices still begin with `=A.`, `=B.`, `=C.`, or `=D.`
 - Incorrect answer choices still begin with `~A.`, `~B.`, `~C.`, or `~D.`
 
+The structural feedback delimiter `#` must remain unchanged, but reserved characters inside the feedback after that delimiter must be escaped.
+
 ## Scope
 
 Active `.gift` files were audited across the repository, excluding `_Archive`.
@@ -32,6 +34,15 @@ Initial scan:
 - Active GIFT files checked: 2,004
 - Files with unescaped answer-text reserved characters: 236
 - Answer-choice lines corrected: 4,367
+
+Second Moodle-preview follow-up scan:
+
+- Active GIFT files checked: 2,004
+- Files with unescaped feedback or stem reserved characters: 490
+- Feedback lines with unescaped reserved characters: 2,502
+- Question or metadata text lines with unescaped reserved characters: 3,369
+- Files corrected in second pass: 490
+- Lines corrected in second pass: 5,871
 
 Files corrected by course:
 
@@ -56,7 +67,7 @@ The following reusable standards/workflows were updated:
 
 Post-fix parser validation:
 
-- Remaining unescaped reserved characters inside visible answer-choice text: 0
+- Remaining unescaped reserved characters inside question text, visible answer-choice text, and feedback text: 0
 - Files with remaining escape failures: 0
 
 Local structural note:

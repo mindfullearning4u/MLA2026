@@ -35,16 +35,22 @@ Math notation must use UTF-8 mathematical plain text:
 
 ## Required GIFT Character Escaping
 
-Before any `.gift` file is written, exported, or certified, escape reserved GIFT characters that appear inside visible answer-choice text.
+Before any `.gift` file is written, exported, or certified, escape reserved GIFT characters that appear inside any displayed GIFT text.
+
+This applies to:
+
+- question stems and directions
+- visible answer-choice text
+- answer feedback after the feedback delimiter
 
 Do not alter the leading GIFT control character that begins an answer choice:
 
 - keep correct choices starting with `=A.`, `=B.`, `=C.`, or `=D.`
 - keep distractors starting with `~A.`, `~B.`, `~C.`, or `~D.`
 
-Only escape reserved characters after the answer label and before the feedback delimiter.
+Do not alter the structural feedback delimiter `#` that separates answer text from feedback. Escape reserved characters inside the feedback text after that delimiter.
 
-Required escaping inside displayed answer text:
+Required escaping inside displayed GIFT text:
 
 - `=` becomes `\=`
 - `~` becomes `\~`
@@ -62,8 +68,10 @@ Examples:
 - Incorrect: `~B. x >= -4#This includes the boundary and shades right.`
 - Correct: `=C. y <\= -2x + 4#The solid boundary and shading below match the inequality.`
 - Incorrect: `=C. y <= -2x + 4#The solid boundary and shading below match the inequality.`
+- Correct: `=D. y \= 4x - 1#Use y \= mx + b with m \= 4 and b \= -1.`
+- Incorrect: `=D. y \= 4x - 1#Use y = mx + b with m = 4 and b = -1.`
 
-This is a Moodle import safety requirement. Any unescaped reserved character inside visible answer text is a certification failure.
+This is a Moodle import safety requirement. Any unescaped reserved character inside question text, visible answer text, or feedback text is a certification failure because Moodle can split the text into unintended answer choices.
 
 ## Required Question Structure
 
@@ -101,7 +109,7 @@ GIFT files must avoid:
 
 - HTML tags
 - malformed braces
-- unescaped reserved GIFT characters inside visible answer-choice text
+- unescaped reserved GIFT characters inside question text, visible answer-choice text, or feedback text
 - duplicate answer choices
 - duplicate question stems
 - missing correct answers
