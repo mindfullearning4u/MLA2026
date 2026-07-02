@@ -32,8 +32,8 @@ A ball height model has zeros at t = 0 and t = 5. What is a reasonable domain?
 {
 ~A. all real numbers #Negative time and time after landing may not fit.
 ~B. t < 0 #Negative time is not meaningful.
-=C. 0 <= t <= 5 #Correct. The model is physically meaningful from launch until landing.
-~D. t >= 5 only #That begins at landing.
+=C. 0 <\= t <\= 5 #Correct. The model is physically meaningful from launch until landing.
+~D. t >\= 5 only #That begins at landing.
 }
 
 
@@ -96,7 +96,7 @@ Question:
 Which value should be used to interpret the starting amount in A(t)?
 {
 ~A. A(1) #This is the amount after one time unit.
-~B. t = 0 only #The full output A(0) gives the amount.
+~B. t \= 0 only #The full output A(0) gives the amount.
 ~C. the leading coefficient only #The leading coefficient does not directly give the starting amount.
 =D. A(0) #Correct. The starting amount is the output when the input time is 0.
 }
@@ -186,10 +186,10 @@ MLA Standard: Support-only application; no new primary MLA standard
 Question:
 A polynomial model is valid only for 0 <= t <= 10. Which input should be rejected?
 {
-~A. t = 0 #The domain includes 0.
-~B. t = 5 #The domain includes values between 0 and 10.
-=C. t = 12 #Correct. This input is outside the stated domain.
-~D. t = 10 #The domain includes 10.
+~A. t \= 0 #The domain includes 0.
+~B. t \= 5 #The domain includes values between 0 and 10.
+=C. t \= 12 #Correct. This input is outside the stated domain.
+~D. t \= 10 #The domain includes 10.
 }
 
 
@@ -252,7 +252,7 @@ Question:
 If a polynomial model has zeros at 1 and 9, what interval might represent positive output between zeros?
 {
 ~A. x < 1 or x > 9 #That describes outside the zeros.
-~B. x = 1 and x = 9 only #At the zeros, output is 0.
+~B. x \= 1 and x \= 9 only #At the zeros, output is 0.
 ~C. all real numbers #Zeros divide intervals where sign may change.
 =D. 1 < x < 9 #Correct. If the graph is above the x-axis between zeros, that interval gives positive output.
 }

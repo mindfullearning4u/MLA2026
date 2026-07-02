@@ -4,10 +4,10 @@ MLA Standard: Support-only synthesis; no new primary MLA standard
 Question:
 A phone plan charges $35 plus $12 per gigabyte. Which model gives monthly cost C for g gigabytes?
 {
-=A. C=35+12g#Correct. The fixed monthly charge is added to the variable data charge.
-~B. C=35g+12#This reverses the fixed charge and the per-gigabyte rate.
-~C. C=12g-35#This subtracts the fixed charge instead of adding it.
-~D. C=35(12)ᵍ#This is exponential, but the context has a constant rate per gigabyte.
+=A. C\=35+12g#Correct. The fixed monthly charge is added to the variable data charge.
+~B. C\=35g+12#This reverses the fixed charge and the per-gigabyte rate.
+~C. C\=12g-35#This subtracts the fixed charge instead of adding it.
+~D. C\=35(12)ᵍ#This is exponential, but the context has a constant rate per gigabyte.
 }
 
 
@@ -17,10 +17,10 @@ MLA Standard: Support-only synthesis; no new primary MLA standard
 Question:
 A car loses 15% of its value each year from an initial value of $20,000. Which model fits the value after t years?
 {
-~A. V=20000+0.15t#This is linear and does not model repeated percent decrease.
-=B. V=20000(0.85)ᵗ#Correct. A 15% decrease leaves 85% of the value each year.
-~C. V=20000(1.15)ᵗ#This represents a 15% increase, not depreciation.
-~D. V=0.85(20000)ᵗ#This incorrectly uses the initial value as the exponential base.
+~A. V\=20000+0.15t#This is linear and does not model repeated percent decrease.
+=B. V\=20000(0.85)ᵗ#Correct. A 15% decrease leaves 85% of the value each year.
+~C. V\=20000(1.15)ᵗ#This represents a 15% increase, not depreciation.
+~D. V\=0.85(20000)ᵗ#This incorrectly uses the initial value as the exponential base.
 }
 
 
@@ -160,10 +160,10 @@ MLA Standard: Support-only synthesis; no new primary MLA standard
 Question:
 A school wants at least $1,000. It already has $250 and earns $30 per sale. Which inequality models this goal?
 {
-=A. 250+30x >= 1000#Correct. Current funds plus sales revenue must be at least the goal.
-~B. 250+30x <= 1000#This models staying at or below the goal.
-~C. 30+250x >= 1000#This reverses the fixed amount and sale rate.
-~D. 1000+30x >= 250#This does not represent the amount needed to reach the goal.
+=A. 250+30x >\= 1000#Correct. Current funds plus sales revenue must be at least the goal.
+~B. 250+30x <\= 1000#This models staying at or below the goal.
+~C. 30+250x >\= 1000#This reverses the fixed amount and sale rate.
+~D. 1000+30x >\= 250#This does not represent the amount needed to reach the goal.
 }
 
 
@@ -186,10 +186,10 @@ MLA Standard: Support-only synthesis; no new primary MLA standard
 Question:
 A model predicts revenue R=15x and cost C=200+5x. What equation finds the break-even point?
 {
-~A. 15x=200#This ignores the variable cost of 5x.
-~B. 200+5x=0#This finds when cost is zero, not break-even.
-=C. 15x=200+5x#Correct. Break-even occurs when revenue equals cost.
-~D. 15+5=200x#This does not match the revenue and cost expressions.
+~A. 15x\=200#This ignores the variable cost of 5x.
+~B. 200+5x\=0#This finds when cost is zero, not break-even.
+=C. 15x\=200+5x#Correct. Break-even occurs when revenue equals cost.
+~D. 15+5\=200x#This does not match the revenue and cost expressions.
 }
 
 
@@ -238,10 +238,10 @@ MLA Standard: Support-only synthesis; no new primary MLA standard
 Question:
 Which model best represents a quantity that decreases by half each time period?
 {
-~A. y=a+0.5x#This adds a constant amount, so it is linear.
-~B. y=0.5a+x#This does not repeatedly halve the quantity.
-=C. y=a(0.5)ˣ#Correct. Multiplying by 0.5 each period gives repeated halving.
-~D. y=ax+0.5#This is linear with a y-intercept of 0.5.
+~A. y\=a+0.5x#This adds a constant amount, so it is linear.
+~B. y\=0.5a+x#This does not repeatedly halve the quantity.
+=C. y\=a(0.5)ˣ#Correct. Multiplying by 0.5 each period gives repeated halving.
+~D. y\=ax+0.5#This is linear with a y-intercept of 0.5.
 }
 
 

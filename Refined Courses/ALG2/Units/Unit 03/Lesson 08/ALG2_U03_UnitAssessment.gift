@@ -40,10 +40,10 @@ MLA Standard: MLA.A2.RR.2
 Question:
 What is the domain of f(x)=sqrt(x+4)?
 {
-~A. x <= -4#This allows negative radicands to the left.
-~B. x != -4#x = -4 is allowed.
+~A. x <\= -4#This allows negative radicands to the left.
+~B. x !\= -4#x = -4 is allowed.
 ~C. all real numbers#Inputs less than -4 are not allowed.
-=D. x >= -4#Correct. The radicand must be nonnegative.
+=D. x >\= -4#Correct. The radicand must be nonnegative.
 }
 
 ::ALG2_U03_UA_Q05::
@@ -52,9 +52,9 @@ MLA Standard: MLA.A2.RR.2
 Question:
 What is the range of f(x)=sqrt(x) - 3?
 {
-=A. y >= -3#Correct. The square root output starts at 0, then shifts down 3.
-~B. y >= 3#The graph shifts down, not up.
-~C. x >= -3#Range describes output values.
+=A. y >\= -3#Correct. The square root output starts at 0, then shifts down 3.
+~B. y >\= 3#The graph shifts down, not up.
+~C. x >\= -3#Range describes output values.
 ~D. all real numbers#A square root graph has a minimum output here.
 }
 
@@ -64,10 +64,10 @@ MLA Standard: MLA.A2.RR.1; MLA.A2.RR.3
 Question:
 Solve sqrt(x-2)=4.
 {
-~A. x = 2#This makes the radical 0.
-=B. x = 18#Correct. Squaring gives x - 2 = 16.
-~C. x = 14#This subtracts 2 instead of adding it.
-~D. x = 4#This is the radical value, not x.
+~A. x \= 2#This makes the radical 0.
+=B. x \= 18#Correct. Squaring gives x - 2 = 16.
+~C. x \= 14#This subtracts 2 instead of adding it.
+~D. x \= 4#This is the radical value, not x.
 }
 
 ::ALG2_U03_UA_Q07::
@@ -76,9 +76,9 @@ MLA Standard: MLA.A2.RR.1; MLA.A2.RR.3
 Question:
 Which value checks for sqrt(x+9)=x-3?
 {
-~A. x = 0 only#x = 0 gives 3 = -3, which is false.
-~B. x = 0 and x = 7#x = 0 is extraneous.
-=C. x = 7 only#Correct. x = 0 appears after squaring but fails the original equation.
+~A. x \= 0 only#x = 0 gives 3 = -3, which is false.
+~B. x \= 0 and x \= 7#x = 0 is extraneous.
+=C. x \= 7 only#Correct. x = 0 appears after squaring but fails the original equation.
 ~D. no solution#x = 7 checks.
 }
 
@@ -88,10 +88,10 @@ MLA Standard: MLA.A2.RR.1; MLA.A2.RR.3
 Question:
 A model d=sqrt(16t) has d=20. What is t?
 {
-~A. t = 5#This divides 20 by 4 before squaring.
-~B. t = 20#This is the distance value.
-~C. t = 400#This is d squared, not t.
-=D. t = 25#Correct. 400 = 16t, so t = 25.
+~A. t \= 5#This divides 20 by 4 before squaring.
+~B. t \= 20#This is the distance value.
+~C. t \= 400#This is d squared, not t.
+=D. t \= 25#Correct. 400 = 16t, so t = 25.
 }
 
 ::ALG2_U03_UA_Q09::
@@ -100,8 +100,8 @@ MLA Standard: MLA.A2.AE.6
 Question:
 Simplify (x²-9)/(x-3).
 {
-=A. x + 3, x != 3#Correct. Factor as (x-3)(x+3) and keep the original restriction.
-~B. x - 3, x != 3#The remaining factor is x+3.
+=A. x + 3, x !\= 3#Correct. Factor as (x-3)(x+3) and keep the original restriction.
+~B. x - 3, x !\= 3#The remaining factor is x+3.
 ~C. x + 3, no restriction#The original denominator excludes x=3.
 ~D. x²+3#The numerator must be factored.
 }
@@ -112,9 +112,9 @@ MLA Standard: MLA.A2.AE.6
 Question:
 What restriction applies to 4/(x+5)?
 {
-~A. x != 5#The sign is reversed.
-=B. x != -5#Correct. The denominator is zero at x=-5.
-~C. x != 4#The numerator does not restrict the domain.
+~A. x !\= 5#The sign is reversed.
+=B. x !\= -5#Correct. The denominator is zero at x=-5.
+~C. x !\= 4#The numerator does not restrict the domain.
 ~D. all real numbers#One input makes the denominator zero.
 }
 
@@ -126,7 +126,7 @@ Multiply (2x/3)(9/x²).
 {
 ~A. 6x#One x remains in the denominator.
 ~B. 3/x#The coefficient simplifies to 6.
-=C. 6/x, x != 0#Correct. The product is 18x/(3x²)=6/x.
+=C. 6/x, x !\= 0#Correct. The product is 18x/(3x²)=6/x.
 ~D. 6/x, no restriction#The original denominator excludes x=0.
 }
 
@@ -139,7 +139,7 @@ Simplify 2/x + 5/x.
 ~A. 7/(2x)#Do not add matching denominators.
 ~B. 10/x#The numerators add, not multiply.
 ~C. 7/x, no restriction#The denominator excludes x=0.
-=D. 7/x, x != 0#Correct. Common denominators stay the same while numerators add.
+=D. 7/x, x !\= 0#Correct. Common denominators stay the same while numerators add.
 }
 
 ::ALG2_U03_UA_Q13::
@@ -148,7 +148,7 @@ MLA Standard: Support-only extension of MLA.A2.AE.6; no new primary MLA standard
 Question:
 Simplify 1/x + 1/(x+2).
 {
-=A. (2x+2)/(x(x+2)), x != 0 and x != -2#Correct. Use LCD x(x+2) and combine x+2+x.
+=A. (2x+2)/(x(x+2)), x !\= 0 and x !\= -2#Correct. Use LCD x(x+2) and combine x+2+x.
 ~B. 2/(2x+2)#Denominators are not added.
 ~C. (x+2)/(x(x+2))#The second numerator contributes x.
 ~D. (2x+2)/(x+2)#The full LCD remains.
@@ -160,10 +160,10 @@ MLA Standard: MLA.A2.RR.4
 Question:
 Solve 6/x = 3.
 {
-~A. x = 0#This is restricted.
-=B. x = 2#Correct. Multiply by x to get 6=3x.
-~C. x = 1/2#This is the reciprocal.
-~D. x = 6#This gives 1, not 3.
+~A. x \= 0#This is restricted.
+=B. x \= 2#Correct. Multiply by x to get 6=3x.
+~C. x \= 1/2#This is the reciprocal.
+~D. x \= 6#This gives 1, not 3.
 }
 
 ::ALG2_U03_UA_Q15::
@@ -172,10 +172,10 @@ MLA Standard: MLA.A2.RR.4
 Question:
 Solve 2/(x-1)=1.
 {
-~A. x = 1#This is restricted.
-~B. x = -3#This does not check.
-=C. x = 3#Correct. Multiply by x-1 to get 2=x-1.
-~D. x = 2#This gives 2, not 1.
+~A. x \= 1#This is restricted.
+~B. x \= -3#This does not check.
+=C. x \= 3#Correct. Multiply by x-1 to get 2=x-1.
+~D. x \= 2#This gives 2, not 1.
 }
 
 ::ALG2_U03_UA_Q16::
@@ -184,10 +184,10 @@ MLA Standard: MLA.A2.RR.4
 Question:
 Which value is restricted in 1/(x-8)=2?
 {
-~A. x = -8#The sign is reversed.
-~B. x = 2#This is not a denominator zero.
-~C. x = 0#The denominator is not zero at 0.
-=D. x = 8#Correct. The denominator x-8 cannot be zero.
+~A. x \= -8#The sign is reversed.
+~B. x \= 2#This is not a denominator zero.
+~C. x \= 0#The denominator is not zero at 0.
+=D. x \= 8#Correct. The denominator x-8 cannot be zero.
 }
 
 ::ALG2_U03_UA_Q17::
@@ -196,10 +196,10 @@ MLA Standard: MLA.A2.RR.5; MLA.A2.RR.6
 Question:
 What is the vertical asymptote of f(x)=1/(x+6)?
 {
-=A. x = -6#Correct. Set x+6=0.
-~B. x = 6#The sign is reversed.
-~C. y = -6#Vertical asymptotes use x=value.
-~D. y = 0#This is horizontal behavior.
+=A. x \= -6#Correct. Set x+6=0.
+~B. x \= 6#The sign is reversed.
+~C. y \= -6#Vertical asymptotes use x=value.
+~D. y \= 0#This is horizontal behavior.
 }
 
 ::ALG2_U03_UA_Q18::
@@ -208,10 +208,10 @@ MLA Standard: MLA.A2.RR.5; MLA.A2.RR.6
 Question:
 What is the horizontal asymptote of f(x)=5/x?
 {
-~A. x = 0#That is the vertical asymptote.
-=B. y = 0#Correct. A constant over x approaches 0 as x grows.
-~C. y = 5#The output does not approach 5.
-~D. x = 5#This is not an asymptote.
+~A. x \= 0#That is the vertical asymptote.
+=B. y \= 0#Correct. A constant over x approaches 0 as x grows.
+~C. y \= 5#The output does not approach 5.
+~D. x \= 5#This is not an asymptote.
 }
 
 ::ALG2_U03_UA_Q19::
@@ -220,10 +220,10 @@ MLA Standard: MLA.A2.RR.5; MLA.A2.RR.6
 Question:
 What is the horizontal asymptote of f(x)=(2x+1)/(x-4)?
 {
-~A. x = 4#That is vertical asymptote.
-~B. y = 0#Equal degrees do not approach 0 here.
-=C. y = 2#Correct. Equal degrees use the leading coefficient ratio 2/1.
-~D. y = 1#This uses a constant.
+~A. x \= 4#That is vertical asymptote.
+~B. y \= 0#Equal degrees do not approach 0 here.
+=C. y \= 2#Correct. Equal degrees use the leading coefficient ratio 2/1.
+~D. y \= 1#This uses a constant.
 }
 
 ::ALG2_U03_UA_Q20::
@@ -234,7 +234,7 @@ In T(n)=90/n, why is n=0 not allowed?
 {
 ~A. T equals 90#90/0 is undefined.
 ~B. T equals 0#Division by zero is not 0.
-~C. n=0 is the maximum#It is not in the domain.
+~C. n\=0 is the maximum#It is not in the domain.
 =D. division by zero is undefined and zero objects is not meaningful#Correct. The denominator and context both reject n=0.
 }
 
@@ -280,10 +280,10 @@ MLA Standard: MLA.A2.RR.1; MLA.A2.RR.3
 Question:
 Solve sqrt(3x+1)=4.
 {
-~A. x = 3#This does not make the radicand 16.
-~B. x = 15#This misses division by 3.
-~C. x = 17#This adds instead of solving.
-=D. x = 5#Correct. Squaring gives 3x+1=16.
+~A. x \= 3#This does not make the radicand 16.
+~B. x \= 15#This misses division by 3.
+~C. x \= 17#This adds instead of solving.
+=D. x \= 5#Correct. Squaring gives 3x+1=16.
 }
 
 ::ALG2_U03_UA_Q25::
@@ -292,7 +292,7 @@ MLA Standard: MLA.A2.AE.6
 Question:
 Simplify (x²+4x)/(x).
 {
-=A. x + 4, x != 0#Correct. Factor x(x+4) and keep the original restriction.
+=A. x + 4, x !\= 0#Correct. Factor x(x+4) and keep the original restriction.
 ~B. x + 4, no restriction#The denominator excludes x=0.
 ~C. x²+4#The common factor x should cancel.
 ~D. 4#Canceling only one term is invalid.
@@ -305,7 +305,7 @@ Question:
 Simplify 3/(x+1) - 1/(x+1).
 {
 ~A. 4/(x+1)#The operation is subtraction.
-=B. 2/(x+1), x != -1#Correct. Subtract numerators over the common denominator.
+=B. 2/(x+1), x !\= -1#Correct. Subtract numerators over the common denominator.
 ~C. 2/(2x+2)#The denominator is not doubled.
 ~D. 2/(x+1), no restriction#The denominator excludes x=-1.
 }
@@ -316,10 +316,10 @@ MLA Standard: MLA.A2.RR.4
 Question:
 Solve x/(x-2)=3.
 {
-~A. x = 2#This is restricted.
-~B. x = -3#This does not check.
-=C. x = 3#Correct. Multiply by x-2 to get x=3x-6.
-~D. x = 6#This is 2x, not x.
+~A. x \= 2#This is restricted.
+~B. x \= -3#This does not check.
+=C. x \= 3#Correct. Multiply by x-2 to get x=3x-6.
+~D. x \= 6#This is 2x, not x.
 }
 
 ::ALG2_U03_UA_Q28::
@@ -328,10 +328,10 @@ MLA Standard: MLA.A2.RR.5; MLA.A2.RR.6
 Question:
 What is the domain of f(x)=(x+1)/(x-7)?
 {
-~A. x != -1#The numerator zero is allowed.
-~B. x != -7#The sign is reversed.
+~A. x !\= -1#The numerator zero is allowed.
+~B. x !\= -7#The sign is reversed.
 ~C. all real numbers#One value is restricted.
-=D. x != 7#Correct. The denominator is zero at x=7.
+=D. x !\= 7#Correct. The denominator is zero at x=7.
 }
 
 ::ALG2_U03_UA_Q29::
@@ -376,10 +376,10 @@ MLA Standard: MLA.A2.RR.2
 Question:
 Which parent function has domain x >= 0 and range y >= 0?
 {
-~A. f(x)=1/x#That rational function excludes x=0.
-~B. f(x)=x²#A quadratic has all real domain.
-~C. f(x)=x³#A cubic has all real domain and range.
-=D. f(x)=sqrt(x)#Correct. The square root parent starts at the origin and extends right/up.
+~A. f(x)\=1/x#That rational function excludes x=0.
+~B. f(x)\=x²#A quadratic has all real domain.
+~C. f(x)\=x³#A cubic has all real domain and range.
+=D. f(x)\=sqrt(x)#Correct. The square root parent starts at the origin and extends right/up.
 }
 
 ::ALG2_U03_UA_Q33::
@@ -388,7 +388,7 @@ MLA Standard: MLA.A2.AE.6
 Question:
 Divide (x²-1)/(x+2) by (x-1)/(x+2).
 {
-=A. x + 1, x != -2 and x != 1#Correct. Multiply by the reciprocal and keep restrictions.
+=A. x + 1, x !\= -2 and x !\= 1#Correct. Multiply by the reciprocal and keep restrictions.
 ~B. x - 1#The remaining factor is x+1.
 ~C. x + 1, no restriction#Original denominators and divisor create restrictions.
 ~D. 1/(x+1)#This flips the result.
@@ -400,10 +400,10 @@ MLA Standard: MLA.A2.RR.5; MLA.A2.RR.6
 Question:
 Which rational function has vertical asymptote x=-3?
 {
-~A. f(x)=1/(x-3)#This has asymptote x=3.
-=B. f(x)=1/(x+3)#Correct. The denominator is zero at x=-3.
-~C. f(x)=x+3#This is linear.
-~D. f(x)=3/x#This has asymptote x=0.
+~A. f(x)\=1/(x-3)#This has asymptote x=3.
+=B. f(x)\=1/(x+3)#Correct. The denominator is zero at x=-3.
+~C. f(x)\=x+3#This is linear.
+~D. f(x)\=3/x#This has asymptote x=0.
 }
 
 ::ALG2_U03_UA_Q35::
@@ -412,10 +412,10 @@ MLA Standard: MLA.A2.RR.1; MLA.A2.RR.3
 Question:
 A model d=sqrt(25t) has d=15. What is t?
 {
-~A. t = 3#This divides 15 by 5 before squaring.
-~B. t = 15#This is the output value.
-=C. t = 9#Correct. 225=25t, so t=9.
-~D. t = 225#This is d squared.
+~A. t \= 3#This divides 15 by 5 before squaring.
+~B. t \= 15#This is the output value.
+=C. t \= 9#Correct. 225=25t, so t=9.
+~D. t \= 225#This is d squared.
 }
 
 ::ALG2_U03_UA_Q36::
@@ -427,7 +427,7 @@ Simplify 1/(x-1)+1/(x+1).
 ~A. 2/((x-1)(x+1))#The x terms add to 2x.
 ~B. 2/(2x)#Denominators are not added.
 ~C. 2x/(x+1)#The full LCD remains.
-=D. 2x/((x-1)(x+1)), x != 1 and x != -1#Correct. The numerator is (x+1)+(x-1)=2x.
+=D. 2x/((x-1)(x+1)), x !\= 1 and x !\= -1#Correct. The numerator is (x+1)+(x-1)=2x.
 }
 
 ::ALG2_U03_UA_Q37::
@@ -460,10 +460,10 @@ MLA Standard: MLA.A2.RR.4
 Question:
 Solve 10/(x+3)=2.
 {
-~A. x = -3#This is restricted.
-~B. x = 5#This gives 10/8.
-=C. x = 2#Correct. 10=2(x+3), so x=2.
-~D. x = 8#This is not the solved value.
+~A. x \= -3#This is restricted.
+~B. x \= 5#This gives 10/8.
+=C. x \= 2#Correct. 10=2(x+3), so x=2.
+~D. x \= 8#This is not the solved value.
 }
 
 ::ALG2_U03_UA_Q40::

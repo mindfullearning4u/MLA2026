@@ -28,9 +28,9 @@ MLA Standard: MLA.PC.FA.4; MLA.PC.FA.5
 Question:
 Which statement correctly identifies restrictions for f(x)=sqrt(x-2) and g(x)=1/(x+5)
 {
-~A. f excludes x=2, and g requires x>=-5.#The radical endpoint x=2 is allowed, and rational restrictions are excluded values, not interval domains.
-=C. f requires x>=2, and g excludes x=-5.#Correct. The radical needs x-2>=0, and the rational denominator cannot equal 0.
-~B. f requires x<=2, and g excludes x=5.#The radical inequality is reversed, and the rational exclusion has the wrong sign.
+~A. f excludes x\=2, and g requires x>\=-5.#The radical endpoint x=2 is allowed, and rational restrictions are excluded values, not interval domains.
+=C. f requires x>\=2, and g excludes x\=-5.#Correct. The radical needs x-2>=0, and the rational denominator cannot equal 0.
+~B. f requires x<\=2, and g excludes x\=5.#The radical inequality is reversed, and the rational exclusion has the wrong sign.
 ~D. f allows all real numbers, and g excludes no values.#Both functions have restrictions from their structures.
 }
 
@@ -89,9 +89,9 @@ Question:
 A system solution is (4,9). A Piecewise rule says use f(x)=2x+1 for x>=4. Which statement is correct
 {
 ~A. The system graphs are parallel, and the Piecewise rule uses x<4.#A given solution means the graphs intersect, and x=4 belongs to x>=4.
-=D. The system graphs intersect at (4,9), and f(4)=9 uses the x>=4 rule.#Correct. A system solution is an intersection, and x=4 is included in x>=4.
+=D. The system graphs intersect at (4,9), and f(4)\=9 uses the x>\=4 rule.#Correct. A system solution is an intersection, and x=4 is included in x>=4.
 ~B. The system has no solution, and f(4) cannot be evaluated.#The ordered pair is a solution, and the Piecewise interval includes x=4.
-~C. The system solution is only a y-intercept, and f(4)=8.#A system solution is a shared point, and 2(4)+1=9.
+~C. The system solution is only a y-intercept, and f(4)\=8.#A system solution is a shared point, and 2(4)+1=9.
 }
 
 ::PC_U01_PRE_Q09::
@@ -100,7 +100,7 @@ MLA Standard: MLA.PC.FA.4; MLA.PC.FA.8; MLA.PC.FA.9
 Question:
 Let f(x)=sqrt(x) and g(x)=x-7. What domain condition is needed for f(g(x))
 {
-=A. x>=7#Correct. f(g(x))=sqrt(x-7), so x-7 must be nonnegative.
+=A. x>\=7#Correct. f(g(x))=sqrt(x-7), so x-7 must be nonnegative.
 ~B. x<7#This would make x-7 negative, which is not allowed inside the square root.
 ~C. x cannot equal 7#The input x=7 is allowed because the radicand is 0.
 ~D. all real numbers#The square root in the composition creates a domain restriction.

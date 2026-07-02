@@ -17,8 +17,8 @@ If segment CD is constructed as a copy of segment AB, which statement should be 
 {
 ~A. CD > AB#A copied segment should not be longer than the original.
 ~B. CD < AB#A copied segment should not be shorter than the original.
-~C. C = D#Points are locations, not segment lengths.
-=D. CD = AB#Correct. A copied segment has the same length as the original.
+~C. C \= D#Points are locations, not segment lengths.
+=D. CD \= AB#Correct. A copied segment has the same length as the original.
 }
 ::GEO_U01_Assessment_Q03::
 Question ID: GEO_U01_A_Q03
@@ -49,9 +49,9 @@ Question:
 If angle DEF is a copy of angle ABC, which statement should be true?
 {
 ~A. mangle DEF > mangle ABC#A copied angle should not be larger than the original.
-=B. mangle DEF = mangle ABC#Correct. A copied angle has the same measure as the original.
+=B. mangle DEF \= mangle ABC#Correct. A copied angle has the same measure as the original.
 ~C. mangle DEF < mangle ABC#A copied angle should not be smaller than the original.
-~D. DE = AB#Copying an angle does not require these segment lengths to match.
+~D. DE \= AB#Copying an angle does not require these segment lengths to match.
 }
 ::GEO_U01_Assessment_Q06::
 Question ID: GEO_U01_A_Q06
@@ -82,9 +82,9 @@ Question:
 If M is the midpoint of segment AB, which statement is true?
 {
 ~A. AM > MB#A midpoint creates equal parts.
-~B. AB = MB#The whole segment is not equal to one part.
-=C. AM = MB#Correct. A midpoint divides a segment into two equal lengths.
-~D. A = B#Distinct endpoints are not equal segment lengths.
+~B. AB \= MB#The whole segment is not equal to one part.
+=C. AM \= MB#Correct. A midpoint divides a segment into two equal lengths.
+~D. A \= B#Distinct endpoints are not equal segment lengths.
 }
 ::GEO_U01_Assessment_Q09::
 Question ID: GEO_U01_A_Q09
@@ -104,9 +104,9 @@ Question:
 If ray BD bisects angle ABC, which statement is true?
 {
 ~A. mangle ABD > mangle DBC#An angle bisector creates equal angle measures.
-~B. AB = BC#Angle bisection does not require equal side lengths.
-~C. BD = AB#Ray length is not the angle-bisector conclusion.
-=D. mangle ABD = mangle DBC#Correct. The ray divides the angle into two congruent angles.
+~B. AB \= BC#Angle bisection does not require equal side lengths.
+~C. BD \= AB#Ray length is not the angle-bisector conclusion.
+=D. mangle ABD \= mangle DBC#Correct. The ray divides the angle into two congruent angles.
 }
 ::GEO_U01_Assessment_Q11::
 Question ID: GEO_U01_A_Q11
@@ -127,7 +127,7 @@ Which evidence best supports that line line l is the perpendicular bisector of A
 {
 ~A. Line line l looks centered on AB#Appearance alone is not enough evidence.
 ~B. Line line l is drawn longer than AB#Line length does not prove perpendicular bisection.
-=C. AM = MB and line line l forms right angles with AB#Correct. A perpendicular bisector requires both conditions.
+=C. AM \= MB and line line l forms right angles with AB#Correct. A perpendicular bisector requires both conditions.
 ~D. A and B are labeled#Labels do not prove the required relationships.
 }
 ::GEO_U01_Assessment_Q13::
@@ -224,10 +224,10 @@ MLA Standard: MLA.GEO.RP.1
 Question:
 If angle 1 and angle 2 are vertical angles, which statement is supported?
 {
-~A. mangle 1 + mangle 2 = 180°#Vertical angles are congruent, not always supplementary.
+~A. mangle 1 + mangle 2 \= 180°#Vertical angles are congruent, not always supplementary.
 =B. angle 1 ≅ angle 2#Correct. Vertical angles are congruent.
 ~C. angle 1 and angle 2 form a linear pair#Vertical angles are not adjacent linear-pair angles.
-~D. mangle 1 = 90°#Vertical angles are not always right angles.
+~D. mangle 1 \= 90°#Vertical angles are not always right angles.
 }
 ::GEO_U01_Assessment_Q22::
 Question ID: GEO_U01_A_Q22
@@ -235,10 +235,10 @@ MLA Standard: MLA.GEO.RP.1
 Question:
 If angle A and angle B form a linear pair, which statement is true?
 {
-~A. mangle A = mangle B#Linear-pair angles are not always congruent.
-~B. mangle A + mangle B = 90°#This is a right-angle sum, not a linear-pair sum.
+~A. mangle A \= mangle B#Linear-pair angles are not always congruent.
+~B. mangle A + mangle B \= 90°#This is a right-angle sum, not a linear-pair sum.
 ~C. angle A and angle B are vertical angles#A linear pair is adjacent.
-=D. mangle A + mangle B = 180°#Correct. Linear-pair angles are supplementary.
+=D. mangle A + mangle B \= 180°#Correct. Linear-pair angles are supplementary.
 }
 ::GEO_U01_Assessment_Q23::
 Question ID: GEO_U01_A_Q23
@@ -337,7 +337,7 @@ Which proof step is incomplete?
 ~A. Statement: angle 1 and angle 2 are vertical angles. Reason: Given.#This statement has a valid reason.
 =B. Statement: angle 1 ≅ angle 2. Reason: It looks true.#Correct. Appearance is not a valid proof reason.
 ~C. Statement: angle 1 ≅ angle 2. Reason: Vertical angles are congruent.#This statement has a valid reason.
-~D. Statement: mangle A + mangle B = 180°. Reason: Definition of supplementary angles.#This statement has a valid reason.
+~D. Statement: mangle A + mangle B \= 180°. Reason: Definition of supplementary angles.#This statement has a valid reason.
 }
 ::GEO_U01_Assessment_Q32::
 Question ID: GEO_U01_A_Q32

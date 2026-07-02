@@ -33,6 +33,38 @@ Math notation must use UTF-8 mathematical plain text:
 - do not use caret notation such as `x^2`, `2^3`, or `16^(1/2)` in final assessment files
 - keep notation plain text; do not use HTML, images, MathJax, LaTeX delimiters, or rich-text conversion for exponent formatting
 
+## Required GIFT Character Escaping
+
+Before any `.gift` file is written, exported, or certified, escape reserved GIFT characters that appear inside visible answer-choice text.
+
+Do not alter the leading GIFT control character that begins an answer choice:
+
+- keep correct choices starting with `=A.`, `=B.`, `=C.`, or `=D.`
+- keep distractors starting with `~A.`, `~B.`, `~C.`, or `~D.`
+
+Only escape reserved characters after the answer label and before the feedback delimiter.
+
+Required escaping inside displayed answer text:
+
+- `=` becomes `\=`
+- `~` becomes `\~`
+- `#` becomes `\#`
+- `{` becomes `\{`
+- `}` becomes `\}`
+- `>=` becomes `>\=`
+- `<=` becomes `<\=`
+
+Examples:
+
+- Correct: `=A. y \= 5x + 12#The slope is 5 and the y-intercept is 12.`
+- Incorrect: `=A. y = 5x + 12#The slope is 5 and the y-intercept is 12.`
+- Correct: `~B. x >\= -4#This includes the boundary and shades right.`
+- Incorrect: `~B. x >= -4#This includes the boundary and shades right.`
+- Correct: `=C. y <\= -2x + 4#The solid boundary and shading below match the inequality.`
+- Incorrect: `=C. y <= -2x + 4#The solid boundary and shading below match the inequality.`
+
+This is a Moodle import safety requirement. Any unescaped reserved character inside visible answer text is a certification failure.
+
 ## Required Question Structure
 
 Each question must include:
@@ -69,6 +101,7 @@ GIFT files must avoid:
 
 - HTML tags
 - malformed braces
+- unescaped reserved GIFT characters inside visible answer-choice text
 - duplicate answer choices
 - duplicate question stems
 - missing correct answers

@@ -77,9 +77,9 @@ Question:
 For (f / g)(x) where g(x) = x + 8, which value is excluded
 {
 ~A. no value is excluded#A quotient has a restriction where the denominator is zero.
-~B. x = 8#This uses the wrong sign when solving x + 8 = 0.
-~C. x = 0#The denominator is not necessarily zero at x = 0.
-=D. x = -8#Correct. The denominator function cannot equal 0, so x = -8 is excluded.
+~B. x \= 8#This uses the wrong sign when solving x + 8 = 0.
+~C. x \= 0#The denominator is not necessarily zero at x = 0.
+=D. x \= -8#Correct. The denominator function cannot equal 0, so x = -8 is excluded.
 }
 
 ::PC_U01_L04_Q08::
@@ -100,9 +100,9 @@ MLA Standard: MLA.PC.FA.9
 Question:
 Let f(x) = sqrt(x) and g(x) = x - 5. What domain condition is needed for f(g(x))
 {
-~A. x <= 5#This reverses the inequality. Review the lesson rule to identify why this choice does not match the required step.
+~A. x <\= 5#This reverses the inequality. Review the lesson rule to identify why this choice does not match the required step.
 ~B. x cannot equal 5#The input x = 5 is allowed because the radicand is 0.
-=C. x >= 5#Correct. f(g(x)) = sqrt(x - 5), so x - 5 must be nonnegative.
+=C. x >\= 5#Correct. f(g(x)) = sqrt(x - 5), so x - 5 must be nonnegative.
 ~D. all real numbers#The square root creates a domain restriction.
 }
 
@@ -184,9 +184,9 @@ MLA Standard: MLA.PC.FA.9
 Question:
 Let f(x) = 1 / x and g(x) = x + 2. Which input is excluded from f(g(x))
 {
-~A. x = 2#This uses the wrong sign.
-=C. x = -2#Correct. f(g(x)) = 1 / (x + 2), so x cannot equal -2.
-~B. x = 0#The denominator in the composition is x + 2, not x.
+~A. x \= 2#This uses the wrong sign.
+=C. x \= -2#Correct. f(g(x)) = 1 / (x + 2), so x cannot equal -2.
+~B. x \= 0#The denominator in the composition is x + 2, not x.
 ~D. no input is excluded#The denominator x + 2 cannot equal zero.
 }
 

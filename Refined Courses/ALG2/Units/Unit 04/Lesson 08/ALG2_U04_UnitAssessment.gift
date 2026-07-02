@@ -28,10 +28,10 @@ MLA Standard: MLA.A2.FM.2; MLA.A2.FM.3
 Question:
 A car worth 20000 depreciates 10% annually. Which model fits the value after t years?
 {
-~A. V(t)=20000(1.10)ᵗ #This models growth because the factor is greater than 1.
-~B. V(t)=0.90(20000)ᵗ #This reverses the initial value and decay factor.
-=C. V(t)=20000(0.90)ᵗ #Correct. Losing 10% means 90% of the value remains each year.
-~D. V(t)=20000-10t #This is a fixed linear decrease, not percent decay.
+~A. V(t)\=20000(1.10)ᵗ #This models growth because the factor is greater than 1.
+~B. V(t)\=0.90(20000)ᵗ #This reverses the initial value and decay factor.
+=C. V(t)\=20000(0.90)ᵗ #Correct. Losing 10% means 90% of the value remains each year.
+~D. V(t)\=20000-10t #This is a fixed linear decrease, not percent decay.
 }
 
 ::ALG2_U04_UA_Q04::
@@ -64,10 +64,10 @@ MLA Standard: MLA.A2.LOG.1
 Question:
 Solve log_2(x)=5.
 {
-~A. x=10 #This multiplies the base and exponent instead of rewriting the logarithm.
-=B. x=32 #Correct. log_2(x)=5 means 2⁵=x, so x=32.
-~C. x=7 #This adds the base and exponent, but a logarithm asks for a power.
-~D. x=3 #This subtracts from the exponent and does not satisfy the logarithmic equation.
+~A. x\=10 #This multiplies the base and exponent instead of rewriting the logarithm.
+=B. x\=32 #Correct. log_2(x)=5 means 2⁵=x, so x=32.
+~C. x\=7 #This adds the base and exponent, but a logarithm asks for a power.
+~D. x\=3 #This subtracts from the exponent and does not satisfy the logarithmic equation.
 }
 
 ::ALG2_U04_UA_Q07::
@@ -88,10 +88,10 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 What is the inverse of y=10ˣ?
 {
-~A. y=10x #This changes the exponential function into a linear function.
-~B. y=x¹⁰ #This is a power function, not the inverse of an exponential function.
-=C. y=log_10(x) #Correct. The inverse of base-10 exponential growth is the base-10 logarithm.
-~D. y=10/x #This reciprocal expression is not an inverse logarithmic relationship.
+~A. y\=10x #This changes the exponential function into a linear function.
+~B. y\=x¹⁰ #This is a power function, not the inverse of an exponential function.
+=C. y\=log_10(x) #Correct. The inverse of base-10 exponential growth is the base-10 logarithm.
+~D. y\=10/x #This reciprocal expression is not an inverse logarithmic relationship.
 }
 
 ::ALG2_U04_UA_Q09::
@@ -100,10 +100,10 @@ MLA Standard: MLA.A2.EX.1
 Question:
 A geometric sequence has first term 5 and common ratio 3. Which explicit rule gives the nth term?
 {
-~A. a_n=5+3n #This is linear because it adds a constant amount.
-=B. a_n=5(3)⁽ⁿ⁻¹⁾ #Correct. A geometric explicit rule uses first term times common ratio to the n-1 power.
-~C. a_n=3(5)⁽ⁿ⁻¹⁾ #This reverses the first term and the common ratio.
-~D. a_n=5n³ #This is a power function, not a geometric sequence rule.
+~A. a_n\=5+3n #This is linear because it adds a constant amount.
+=B. a_n\=5(3)⁽ⁿ⁻¹⁾ #Correct. A geometric explicit rule uses first term times common ratio to the n-1 power.
+~C. a_n\=3(5)⁽ⁿ⁻¹⁾ #This reverses the first term and the common ratio.
+~D. a_n\=5n³ #This is a power function, not a geometric sequence rule.
 }
 
 ::ALG2_U04_UA_Q10::
@@ -136,10 +136,10 @@ MLA Standard: MLA.A2.LOG.1
 Question:
 Which exponential equation is equivalent to log_5(125)=3?
 {
-=A. 5³=125 #Correct. A logarithm states the exponent needed on the base to produce the input.
-~B. 3⁵=125 #This switches the base and exponent.
-~C. 125⁵=3 #This uses the input as the base.
-~D. 5(125)=3 #This treats the logarithm as multiplication.
+=A. 5³\=125 #Correct. A logarithm states the exponent needed on the base to produce the input.
+~B. 3⁵\=125 #This switches the base and exponent.
+~C. 125⁵\=3 #This uses the input as the base.
+~D. 5(125)\=3 #This treats the logarithm as multiplication.
 }
 
 ::ALG2_U04_UA_Q13::
@@ -148,10 +148,10 @@ MLA Standard: MLA.A2.EX.3
 Question:
 Solve 3ˣ=81.
 {
-~A. x=3 #3³ is 27, not 81.
-=B. x=4 #Correct. 3⁴ equals 81.
-~C. x=9 #3⁹ is far larger than 81.
-~D. x=27 #This is a power value, not the exponent.
+~A. x\=3 #3³ is 27, not 81.
+=B. x\=4 #Correct. 3⁴ equals 81.
+~C. x\=9 #3⁹ is far larger than 81.
+~D. x\=27 #This is a power value, not the exponent.
 }
 
 ::ALG2_U04_UA_Q14::
@@ -232,10 +232,10 @@ MLA Standard: MLA.A2.FM.3
 Question:
 A medicine amount halves every hour. If the starting amount is 80 mg, which model gives the amount after t hours?
 {
-~A. A(t)=80(2)ᵗ #This doubles instead of halves.
-=B. A(t)=80(0.5)ᵗ #Correct. Each hour keeps one-half of the previous amount.
-~C. A(t)=0.5(80)ᵗ #This reverses the initial amount and decay factor.
-~D. A(t)=80-0.5t #This is linear, not half-life decay.
+~A. A(t)\=80(2)ᵗ #This doubles instead of halves.
+=B. A(t)\=80(0.5)ᵗ #Correct. Each hour keeps one-half of the previous amount.
+~C. A(t)\=0.5(80)ᵗ #This reverses the initial amount and decay factor.
+~D. A(t)\=80-0.5t #This is linear, not half-life decay.
 }
 
 ::ALG2_U04_UA_Q21::
@@ -268,10 +268,10 @@ MLA Standard: MLA.A2.EX.3
 Question:
 What is the horizontal asymptote of y=2ˣ-3?
 {
-~A. y=0 #This is the parent function asymptote before shifting down.
-=B. y=-3 #Correct. Subtracting 3 shifts the horizontal asymptote from y=0 to y=-3.
-~C. x=-3 #The asymptote is horizontal, so it must be written as y equals a number.
-~D. y=2 #The base 2 does not determine the horizontal asymptote.
+~A. y\=0 #This is the parent function asymptote before shifting down.
+=B. y\=-3 #Correct. Subtracting 3 shifts the horizontal asymptote from y=0 to y=-3.
+~C. x\=-3 #The asymptote is horizontal, so it must be written as y equals a number.
+~D. y\=2 #The base 2 does not determine the horizontal asymptote.
 }
 
 ::ALG2_U04_UA_Q24::
@@ -292,10 +292,10 @@ MLA Standard: MLA.A2.EX.3
 Question:
 Solve 2⁽ˣ⁺¹⁾=16.
 {
-~A. x=2 #Then 2⁽³⁾=8, not 16.
-=B. x=3 #Correct. Since 16=2⁴, x+1=4, so x=3.
-~C. x=4 #This forgets to subtract 1 after matching exponents.
-~D. x=5 #This makes the exponent too large.
+~A. x\=2 #Then 2⁽³⁾=8, not 16.
+=B. x\=3 #Correct. Since 16=2⁴, x+1=4, so x=3.
+~C. x\=4 #This forgets to subtract 1 after matching exponents.
+~D. x\=5 #This makes the exponent too large.
 }
 
 ::ALG2_U04_UA_Q26::
@@ -304,10 +304,10 @@ MLA Standard: MLA.A2.LOG.2
 Question:
 Solve log_3(x-1)=2.
 {
-~A. x=5 #This would make x-1 equal 4, not 9.
-~B. x=8 #This would make x-1 equal 7, not 9.
-=C. x=10 #Correct. Rewrite as x-1=3², so x=10.
-~D. x=12 #This makes x-1 equal 11, not 9.
+~A. x\=5 #This would make x-1 equal 4, not 9.
+~B. x\=8 #This would make x-1 equal 7, not 9.
+=C. x\=10 #Correct. Rewrite as x-1=3², so x=10.
+~D. x\=12 #This makes x-1 equal 11, not 9.
 }
 
 ::ALG2_U04_UA_Q27::
@@ -316,10 +316,10 @@ MLA Standard: MLA.A2.LOG.3
 Question:
 If eˣ=7, which equation gives x?
 {
-~A. x=7e #This treats the exponential equation as multiplication.
-~B. x=e/7 #This uses division and does not undo eˣ.
-=C. x=ln(7) #Correct. The natural logarithm is the inverse of eˣ.
-~D. x=ln(e)+7 #This adds 7 instead of applying the inverse function to 7.
+~A. x\=7e #This treats the exponential equation as multiplication.
+~B. x\=e/7 #This uses division and does not undo eˣ.
+=C. x\=ln(7) #Correct. The natural logarithm is the inverse of eˣ.
+~D. x\=ln(e)+7 #This adds 7 instead of applying the inverse function to 7.
 }
 
 ::ALG2_U04_UA_Q28::
@@ -352,10 +352,10 @@ MLA Standard: MLA.A2.FM.2
 Question:
 Which model best represents a starting amount of 120 that triples every month?
 {
-~A. y=3(120)ˣ #This reverses the initial value and growth factor.
-=B. y=120(3)ˣ #Correct. The initial amount is 120 and the repeated multiplier is 3.
-~C. y=120+3x #This is linear growth by adding 3 each month.
-~D. y=120(0.3)ˣ #This models decay, not tripling.
+~A. y\=3(120)ˣ #This reverses the initial value and growth factor.
+=B. y\=120(3)ˣ #Correct. The initial amount is 120 and the repeated multiplier is 3.
+~C. y\=120+3x #This is linear growth by adding 3 each month.
+~D. y\=120(0.3)ˣ #This models decay, not tripling.
 }
 
 ::ALG2_U04_UA_Q31::
@@ -376,10 +376,10 @@ MLA Standard: MLA.A2.EX.3
 Question:
 Solve 4(2ˣ)=64.
 {
-~A. x=2 #Then 4(2²)=16, not 64.
-=B. x=4 #Correct. Divide by 4 to get 2ˣ=16, so x=4.
-~C. x=6 #This does not account correctly for the coefficient 4.
-~D. x=16 #This gives the power value instead of the exponent.
+~A. x\=2 #Then 4(2²)=16, not 64.
+=B. x\=4 #Correct. Divide by 4 to get 2ˣ=16, so x=4.
+~C. x\=6 #This does not account correctly for the coefficient 4.
+~D. x\=16 #This gives the power value instead of the exponent.
 }
 
 ::ALG2_U04_UA_Q33::
@@ -388,10 +388,10 @@ MLA Standard: MLA.A2.EX.3
 Question:
 Solve 5(3ˣ)=135.
 {
-~A. x=2 #Then 5(9)=45, not 135.
-=B. x=3 #Correct. Divide by 5 to get 3ˣ=27, so x=3.
-~C. x=5 #This makes the exponential term too large.
-~D. x=27 #This is the power value, not the exponent.
+~A. x\=2 #Then 5(9)=45, not 135.
+=B. x\=3 #Correct. Divide by 5 to get 3ˣ=27, so x=3.
+~C. x\=5 #This makes the exponential term too large.
+~D. x\=27 #This is the power value, not the exponent.
 }
 
 ::ALG2_U04_UA_Q34::
@@ -401,7 +401,7 @@ Question:
 Which step should be completed first when solving log_2(x+3)=4?
 {
 ~A. subtract 4 from both sides #This does not use the inverse relationship.
-=B. rewrite as x+3=2⁴ #Correct. Convert the logarithmic equation into exponential form.
+=B. rewrite as x+3\=2⁴ #Correct. Convert the logarithmic equation into exponential form.
 ~C. multiply x+3 by 2 #The base is not a multiplier outside the logarithm.
 ~D. divide both sides by 2 #The base does not divide the equation this way.
 }
@@ -474,6 +474,6 @@ A savings account is modeled by A(t)=800(1.05)ᵗ. Which process correctly finds
 {
 ~A. multiply 800 and 1.05, then divide by 1200 #This ignores that t is an exponent.
 ~B. subtract 800 from 1200, then divide by 1.05 #This treats the model as linear.
-=C. divide by 800, then use logarithms to solve (1.05)ᵗ=1.5 #Correct. Isolate the exponential factor before applying logarithms.
-~D. set t=1200 because the target balance is 1200 #The variable t represents time, not the balance.
+=C. divide by 800, then use logarithms to solve (1.05)ᵗ\=1.5 #Correct. Isolate the exponential factor before applying logarithms.
+~D. set t\=1200 because the target balance is 1200 #The variable t represents time, not the balance.
 }

@@ -42,6 +42,7 @@ Use this table in unit and course reports:
 | Rigor | Does instruction teach step by step? | page examples | PASS/FAIL/SUGGESTION | |
 | Visuals | Are needed visuals present and accurate? | page/question review | PASS/FAIL/SUGGESTION | |
 | GIFT | Is every assessment Moodle-ready? | GIFT validation | PASS/FAIL | |
+| GIFT escape safety | Are reserved GIFT characters escaped inside visible answer-choice text without altering leading answer controls? | answer-line parser validation for `=`, `~`, `#`, `{`, `}`, `>=`, and `<=` | PASS/FAIL | |
 | Assessment alignment | Do Guided Practice and Lesson Quiz questions assess only that lesson, and do Unit Pretest and Unit Assessment questions assess only material taught in that unit? | GIFT + course crosswalk + unit mapping + lesson mapping | PASS/FAIL | |
 | Assessment visuals | Does each question include needed representations? | question-by-question review | PASS/FAIL/SUGGESTION | |
 | Answer pattern | Is there no predictable answer pattern? | answer sequence audit | PASS/FAIL | |

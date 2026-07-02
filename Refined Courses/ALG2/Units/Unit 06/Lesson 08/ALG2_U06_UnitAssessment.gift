@@ -76,10 +76,10 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 An investment grows from $1,000 by 4% annually. Which model gives value after t years?
 {
-~A. V=1000+0.04t#This is linear, not repeated percent growth.
-~B. V=1000(0.96)ᵗ#This models a 4% decrease.
-=C. V=1000(1.04)ᵗ#Correct. Annual growth of 4% uses a factor of 1.04.
-~D. V=1.04(1000)ᵗ#This incorrectly uses the starting amount as the base.
+~A. V\=1000+0.04t#This is linear, not repeated percent growth.
+~B. V\=1000(0.96)ᵗ#This models a 4% decrease.
+=C. V\=1000(1.04)ᵗ#Correct. Annual growth of 4% uses a factor of 1.04.
+~D. V\=1.04(1000)ᵗ#This incorrectly uses the starting amount as the base.
 }
 
 ::ALG2_U06_UA_Q08::
@@ -148,10 +148,10 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 A gym charges $40 to join and $20 per month. Which model gives total cost after m months?
 {
-=A. C=40+20m#Correct. The joining fee is fixed and the monthly cost is variable.
-~B. C=20+40m#This reverses the joining fee and monthly rate.
-~C. C=40m-20#This subtracts the monthly cost instead of adding the fixed fee.
-~D. C=40(20)ᵐ#This is exponential and does not fit a fixed monthly charge.
+=A. C\=40+20m#Correct. The joining fee is fixed and the monthly cost is variable.
+~B. C\=20+40m#This reverses the joining fee and monthly rate.
+~C. C\=40m-20#This subtracts the monthly cost instead of adding the fixed fee.
+~D. C\=40(20)ᵐ#This is exponential and does not fit a fixed monthly charge.
 }
 
 ::ALG2_U06_UA_Q14::
@@ -220,10 +220,10 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 A savings account starts at $600 and earns simple interest of $30 per year. Which model applies after t years?
 {
-~A. S=600(1.30)ᵗ#This models compound percent growth, not simple interest.
-~B. S=30(600)ᵗ#This uses the starting value incorrectly as a base.
-=C. S=600+30t#Correct. Simple interest adds a constant amount each year.
-~D. S=600-30t#This models the balance decreasing by 30 each year.
+~A. S\=600(1.30)ᵗ#This models compound percent growth, not simple interest.
+~B. S\=30(600)ᵗ#This uses the starting value incorrectly as a base.
+=C. S\=600+30t#Correct. Simple interest adds a constant amount each year.
+~D. S\=600-30t#This models the balance decreasing by 30 each year.
 }
 
 ::ALG2_U06_UA_Q20::
@@ -280,7 +280,7 @@ MLA Standard: Support-only synthesis; no new primary MLA standard
 Question:
 Which final answer is strongest for a modeling problem?
 {
-~A. x=12#This gives a value but no context, units, or interpretation.
+~A. x\=12#This gives a value but no context, units, or interpretation.
 ~B. 12 units maybe#This is vague and does not explain reasoning.
 ~C. The equation was solved#This does not state the result or its meaning.
 =D. The model predicts 12 months, assuming the rate stays constant#Correct. This includes value, units, and an assumption.
@@ -364,10 +364,10 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 A store has a fixed cost of $500 and earns $25 profit per item before fixed costs. Which equation finds the break-even item count x?
 {
-~A. 25x+500=0#This sets total cost plus revenue equal to zero.
-~B. 500x=25#This treats the fixed cost as a rate.
-=C. 25x=500#Correct. Break-even occurs when item profit covers the fixed cost.
-~D. 25+500=x#This adds unrelated quantities and does not model break-even.
+~A. 25x+500\=0#This sets total cost plus revenue equal to zero.
+~B. 500x\=25#This treats the fixed cost as a rate.
+=C. 25x\=500#Correct. Break-even occurs when item profit covers the fixed cost.
+~D. 25+500\=x#This adds unrelated quantities and does not model break-even.
 }
 
 ::ALG2_U06_UA_Q32::
@@ -400,10 +400,10 @@ MLA Standard: MLA.A2.EX.4
 Question:
 Which model is exponential?
 {
-~A. y=4x+7#The variable has exponent 1, so this is linear.
-=B. y=7(4)ˣ#Correct. The variable appears in the exponent.
-~C. y=x²+4#This is quadratic, not exponential.
-~D. y=4/x#This is rational, not exponential.
+~A. y\=4x+7#The variable has exponent 1, so this is linear.
+=B. y\=7(4)ˣ#Correct. The variable appears in the exponent.
+~C. y\=x²+4#This is quadratic, not exponential.
+~D. y\=4/x#This is rational, not exponential.
 }
 
 ::ALG2_U06_UA_Q35::
@@ -448,10 +448,10 @@ MLA Standard: MLA.A2.EX.4
 Question:
 A bacterial culture doubles every hour from 200 bacteria. Which model gives the amount after h hours?
 {
-~A. B=200+2h#This adds 2 each hour, not doubles.
-=B. B=200(2)ʰ#Correct. Doubling each hour means multiplying by 2 repeatedly.
-~C. B=2(200)ʰ#This incorrectly uses the initial amount as the base.
-~D. B=200(0.5)ʰ#This models halving, not doubling.
+~A. B\=200+2h#This adds 2 each hour, not doubles.
+=B. B\=200(2)ʰ#Correct. Doubling each hour means multiplying by 2 repeatedly.
+~C. B\=2(200)ʰ#This incorrectly uses the initial amount as the base.
+~D. B\=200(0.5)ʰ#This models halving, not doubling.
 }
 
 ::ALG2_U06_UA_Q39::

@@ -4,10 +4,10 @@ MLA Standard: MLA.PC.FA.4
 Question:
 What is the domain of f(x) = sqrt(x + 3)
 {
-~A. x <= -3#This reverses the inequality. The radicand must be at least 0.
+~A. x <\= -3#This reverses the inequality. The radicand must be at least 0.
 ~B. all real numbers#The square root creates a restriction on the radicand.
-=C. x >= -3#Correct. The radicand x + 3 must be nonnegative, so x >= -3.
-~D. x >= 3#This uses the wrong sign when solving x + 3 >= 0.
+=C. x >\= -3#Correct. The radicand x + 3 must be nonnegative, so x >= -3.
+~D. x >\= 3#This uses the wrong sign when solving x + 3 >= 0.
 }
 
 ::PC_U01_L03_Q02::
@@ -40,10 +40,10 @@ MLA Standard: MLA.PC.FA.5
 Question:
 What vertical asymptote is indicated by g(x) = 3 / (x + 7)
 {
-=C. x = -7#Correct. x + 7 = 0 at x = -7.
-~A. x = 7#This uses the wrong sign when setting the denominator equal to 0.
-~B. y = -7#A vertical asymptote is written using x, not y.
-~D. y = 7#This gives the wrong variable and sign.
+=C. x \= -7#Correct. x + 7 = 0 at x = -7.
+~A. x \= 7#This uses the wrong sign when setting the denominator equal to 0.
+~B. y \= -7#A vertical asymptote is written using x, not y.
+~D. y \= 7#This gives the wrong variable and sign.
 }
 
 ::PC_U01_L03_Q05::
@@ -64,10 +64,10 @@ MLA Standard: MLA.PC.FA.5
 Question:
 What is the domain of h(x) = (x - 2) / (x + 5)
 {
-~A. all real numbers except x = 2#The numerator being zero does not restrict the domain.
-~B. x >= -5#This is a radical-style restriction, not a rational denominator restriction.
+~A. all real numbers except x \= 2#The numerator being zero does not restrict the domain.
+~B. x >\= -5#This is a radical-style restriction, not a rational denominator restriction.
 ~D. all real numbers#The denominator cannot equal zero, so one value is excluded.
-=C. all real numbers except x = -5#Correct. x + 5 cannot equal 0.
+=C. all real numbers except x \= -5#Correct. x + 5 cannot equal 0.
 }
 
 ::PC_U01_L03_Q07::
@@ -100,10 +100,10 @@ MLA Standard: MLA.PC.FA.4
 Question:
 Which function has domain x >= 2
 {
-=A. f(x) = sqrt(x - 2)#Correct. x - 2 >= 0 gives x >= 2.
-~B. f(x) = sqrt(x + 2)#This has domain x >= -2.
-~C. f(x) = sqrt(2 - x)#This has domain x <= 2.
-~D. f(x) = 1 / (x - 2)#This excludes x = 2 but allows values on both sides.
+=A. f(x) \= sqrt(x - 2)#Correct. x - 2 >= 0 gives x >= 2.
+~B. f(x) \= sqrt(x + 2)#This has domain x >= -2.
+~C. f(x) \= sqrt(2 - x)#This has domain x <= 2.
+~D. f(x) \= 1 / (x - 2)#This excludes x = 2 but allows values on both sides.
 }
 
 ::PC_U01_L03_Q10::
@@ -148,9 +148,9 @@ MLA Standard: MLA.PC.FA.4
 Question:
 Solve the domain inequality for f(x) = sqrt(3x + 12).
 {
-~A. x <= -4#This reverses the inequality after solving.
-=C. x >= -4#Correct. 3x + 12 >= 0 gives x >= -4.
-~B. x >= 4#This uses the wrong sign.
+~A. x <\= -4#This reverses the inequality after solving.
+=C. x >\= -4#Correct. 3x + 12 >= 0 gives x >= -4.
+~B. x >\= 4#This uses the wrong sign.
 ~D. all real numbers#The radicand must be nonnegative, so the domain is restricted.
 }
 
@@ -173,9 +173,9 @@ Question:
 What is the range of f(x) = sqrt(x + 1) - 3
 {
 ~A. all real numbers#The square root function has a lower bound after the shift.
-~C. y >= 1#This confuses the input shift with the output shift.
-=B. y >= -3#Correct. The square root part is at least 0, then the function shifts down 3.
-~D. y <= -3#The square root graph opens upward from its starting output.
+~C. y >\= 1#This confuses the input shift with the output shift.
+=B. y >\= -3#Correct. The square root part is at least 0, then the function shifts down 3.
+~D. y <\= -3#The square root graph opens upward from its starting output.
 }
 
 ::PC_U01_L03_Q16::
@@ -185,7 +185,7 @@ Question:
 For r(x) = 6 / (x - 1), what happens as x gets very close to 1
 {
 ~A. The function becomes exactly 0.#The numerator stays 6, and the denominator approaches 0.
-~B. The function is defined at x = 1.#The denominator is zero at x = 1, so the function is not defined there.
+~B. The function is defined at x \= 1.#The denominator is zero at x = 1, so the function is not defined there.
 ~C. The domain becomes all real numbers.#The excluded value remains part of the domain restriction.
 =D. The output changes without bound near the vertical asymptote.#Correct. Values grow very large in magnitude near the zero denominator.
 }
@@ -197,9 +197,9 @@ Question:
 Which graph feature belongs to f(x) = sqrt(x - 9)
 {
 =D. Endpoint at (9, 0)#Correct. The radical begins where x - 9 = 0.
-~A. Vertical asymptote at x = 9#Radical endpoints are not vertical asymptotes.
+~A. Vertical asymptote at x \= 9#Radical endpoints are not vertical asymptotes.
 ~B. Endpoint at (-9, 0)#This uses the wrong sign.
-~C. Hole at x = 9#A hole is associated with some rational functions, not this radical endpoint.
+~C. Hole at x \= 9#A hole is associated with some rational functions, not this radical endpoint.
 }
 
 ::PC_U01_L03_Q18::
@@ -221,9 +221,9 @@ Question:
 What is the domain of f(x) = sqrt(10 - x)
 {
 ~A. all real numbers#The even-index radical restricts the domain.
-~B. x >= 10#This reverses the inequality. The radicand 10 - x must be nonnegative.
+~B. x >\= 10#This reverses the inequality. The radicand 10 - x must be nonnegative.
 ~D. x > 10#Inputs greater than 10 make the radicand negative.
-=C. x <= 10#Correct. 10 - x >= 0 gives x <= 10.
+=C. x <\= 10#Correct. 10 - x >= 0 gives x <= 10.
 }
 
 ::PC_U01_L03_Q20::
@@ -232,10 +232,10 @@ MLA Standard: MLA.PC.FA.5
 Question:
 Which statement is true about r(x) = (x - 2) / (x - 2)
 {
-~A. x = 2 is allowed because the factors match.#The original denominator is zero at x = 2, so the input is excluded.
+~A. x \= 2 is allowed because the factors match.#The original denominator is zero at x = 2, so the input is excluded.
 ~B. The function has no restriction.#The denominator still creates an excluded value in the original function.
-~C. The y-intercept is excluded because y = 2.#Domain restrictions concern x-values, not y-values.
-=D. x = 2 is excluded even though the expression simplifies elsewhere.#Correct. The original denominator cannot be zero, so x = 2 is not in the domain.
+~C. The y-intercept is excluded because y \= 2.#Domain restrictions concern x-values, not y-values.
+=D. x \= 2 is excluded even though the expression simplifies elsewhere.#Correct. The original denominator cannot be zero, so x = 2 is not in the domain.
 }
 
 ::PC_U01_L03_Q21::

@@ -4,10 +4,10 @@ MLA Standard: MLA.PC.FA.4
 Question:
 What is the domain of f(x) = sqrt(x - 8)
 {
-~A. x <= 8#This reverses the inequality. The radicand must be nonnegative, so x - 8 must be at least 0.
+~A. x <\= 8#This reverses the inequality. The radicand must be nonnegative, so x - 8 must be at least 0.
 ~B. all real numbers#Even-index radical functions often have restrictions because the radicand cannot be negative.
 ~D. x > 0#This ignores the shift inside the radical. The boundary comes from x - 8 = 0.
-=C. x >= 8#Correct. x - 8 >= 0 gives x >= 8.}
+=C. x >\= 8#Correct. x - 8 >= 0 gives x >= 8.}
 
 ::PC_U01_L03_GP02::
 Question ID: PC_U01_L03_GP02
@@ -26,10 +26,10 @@ MLA Standard: MLA.PC.FA.5
 Question:
 For h(x) = 1 / (x - 2), which vertical asymptote is indicated
 {
-=C. x = 2#Correct. The denominator is zero at x = 2, giving a vertical asymptote.
-~A. x = 0#The denominator is not zero when x = 0.
-~B. x = -2#This sign comes from solving the denominator incorrectly.
-~D. y = 2#A vertical asymptote is written as x equals a value, not y equals a value.}
+=C. x \= 2#Correct. The denominator is zero at x = 2, giving a vertical asymptote.
+~A. x \= 0#The denominator is not zero when x = 0.
+~B. x \= -2#This sign comes from solving the denominator incorrectly.
+~D. y \= 2#A vertical asymptote is written as x equals a value, not y equals a value.}
 
 ::PC_U01_L03_GP04::
 Question ID: PC_U01_L03_GP04
@@ -39,7 +39,7 @@ In a context modeled by d(t) = sqrt(t), why is t restricted to t >= 0
 {
 ~A. The denominator cannot equal zero.#This applies to rational functions, not this radical model.
 =B. The radicand must be nonnegative and time values are not negative in the model.#Correct. Both the radical structure and the context support t >= 0.
-~C. Square root functions always have domain t <= 0.#This reverses the usual restriction for sqrt(t).
+~C. Square root functions always have domain t <\= 0.#This reverses the usual restriction for sqrt(t).
 ~D. The output must be negative.#The square root output is nonnegative, not negative.}
 
 ::PC_U01_L03_GP05::

@@ -13,15 +13,16 @@ Use this workflow when building or repairing a course.
 5. Main agent fixes approved structural issues.
 6. Rigor auditor reviews lesson quality.
 7. Visual auditor or rigor auditor identifies needed visuals.
-8. Assessment auditor validates GIFT.
-9. Assessment visual auditor checks every question.
-10. Resource/simulation agent researches suggestions.
-11. Main agent applies only approved corrections.
-12. Unit completion auditor checks each unit before the next unit begins.
-13. Verification subagents re-audit.
-14. Course completion auditor checks the full course.
-15. Final certification auditor issues decision.
-16. Main agent writes final report.
+8. Main agent validates reserved GIFT character escaping inside visible answer-choice text before any assessment bank is certified.
+9. Assessment auditor validates GIFT.
+10. Assessment visual auditor checks every question.
+11. Resource/simulation agent researches suggestions.
+12. Main agent applies only approved corrections.
+13. Unit completion auditor checks each unit before the next unit begins.
+14. Verification subagents re-audit.
+15. Course completion auditor checks the full course.
+16. Final certification auditor issues decision.
+17. Main agent writes final report.
 
 ## Editing Rule
 

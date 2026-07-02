@@ -50,6 +50,15 @@ Create:
 - Overwrite older copies with current certified version.
 - Preserve UTF-8 plain text exactly.
 - No formatting conversion.
+- Before export, validate that visible answer-choice text escapes reserved GIFT characters:
+  - `=` as `\=`
+  - `~` as `\~`
+  - `#` as `\#`
+  - `{` as `\{`
+  - `}` as `\}`
+  - `>=` as `>\=`
+  - `<=` as `<\=`
+- Do not escape the leading GIFT control characters at the start of answer choices, such as `=A.` or `~B.`
 - Validate source and destination text match exactly.
 
 ## Report
@@ -66,6 +75,6 @@ Include:
 - files overwritten
 - files missing
 - validation failures
+- reserved-character escape failures
 - source/destination mismatches
 - final decision PASS or FAIL
-

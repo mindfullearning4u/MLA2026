@@ -40,10 +40,10 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 For f(x) = (x - 4)²(x + 1), which zero has even multiplicity?
 {
-~A. x = -1 #This zero comes from a factor with exponent 1.
-~B. x = -4 #The sign is reversed for the factor x - 4.
-~C. x = 1 #The sign is reversed for the factor x + 1.
-=D. x = 4 #Correct. The repeated factor (x - 4)² gives even multiplicity.
+~A. x \= -1 #This zero comes from a factor with exponent 1.
+~B. x \= -4 #The sign is reversed for the factor x - 4.
+~C. x \= 1 #The sign is reversed for the factor x + 1.
+=D. x \= 4 #Correct. The repeated factor (x - 4)² gives even multiplicity.
 }
 
 ::ALG2_U02_Pretest_Q05::
@@ -52,7 +52,7 @@ MLA Standard: Support-only review; no new primary MLA standard
 Question:
 Which feature is most useful for sketching f(x) = (x + 2)(x - 5)?
 {
-=A. Zeros at x = -2 and x = 5 #Correct. Setting x + 2 = 0 and x - 5 = 0 gives the two x-intercepts for the sketch.
+=A. Zeros at x \= -2 and x \= 5 #Correct. Setting x + 2 = 0 and x - 5 = 0 gives the two x-intercepts for the sketch.
 ~B. The y-intercept is 5. #The y-intercept is f(0) = -10, not 5.
 ~C. Vertex at (-2, 5) #The factors do not directly give this vertex.
 ~D. No x-intercepts #The factored form shows two x-intercepts.
@@ -77,9 +77,9 @@ Question:
 Which interval solves x² - 16 <= 0?
 {
 ~A. -4 < x < 4 #This excludes the boundary values, but the inequality includes equality.
-~B. x <= -4 or x >= 4 #That is where the graph is on or above the x-axis.
-=C. -4 <= x <= 4 #Correct. The graph is on or below the x-axis between and including the zeros.
-~D. -16 <= x <= 16 #These values come from the constant, not the zeros.
+~B. x <\= -4 or x >\= 4 #That is where the graph is on or above the x-axis.
+=C. -4 <\= x <\= 4 #Correct. The graph is on or below the x-axis between and including the zeros.
+~D. -16 <\= x <\= 16 #These values come from the constant, not the zeros.
 }
 
 ::ALG2_U02_Pretest_Q08::
@@ -112,8 +112,8 @@ MLA Standard: Unit 2 standards synthesis; no new primary MLA standard
 Question:
 A polynomial graph touches and turns at x = -3, crosses at x = 2, and falls to the right. Which statement is most reasonable?
 {
-~A. x = -3 has odd multiplicity and x = 2 has even multiplicity. #Touching suggests even multiplicity; crossing suggests odd multiplicity.
-=B. x = -3 likely has even multiplicity, and x = 2 likely has odd multiplicity. #Correct. Touching indicates even multiplicity and crossing indicates odd multiplicity.
+~A. x \= -3 has odd multiplicity and x \= 2 has even multiplicity. #Touching suggests even multiplicity; crossing suggests odd multiplicity.
+=B. x \= -3 likely has even multiplicity, and x \= 2 likely has odd multiplicity. #Correct. Touching indicates even multiplicity and crossing indicates odd multiplicity.
 ~C. The leading coefficient must be positive. #Falling to the right suggests a negative leading coefficient for odd degree behavior.
 ~D. There are no real zeros. #The graph has real zeros at -3 and 2.
 }

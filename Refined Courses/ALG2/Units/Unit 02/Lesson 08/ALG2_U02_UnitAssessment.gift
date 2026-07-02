@@ -40,10 +40,10 @@ MLA Standard: MLA.A2.PF.8
 Question:
 For f(x) = (x - 2)²(x + 5), which zero has even multiplicity?
 {
-~A. x = 5 #This reverses the sign of the factor x + 5.
-~B. x = -2 #This reverses the sign of the factor x - 2.
-~C. x = -5 #This zero has multiplicity 1 because the factor x + 5 is not repeated.
-=D. x = 2 #Correct. The repeated factor (x - 2)² gives zero x = 2 with even multiplicity.
+~A. x \= 5 #This reverses the sign of the factor x + 5.
+~B. x \= -2 #This reverses the sign of the factor x - 2.
+~C. x \= -5 #This zero has multiplicity 1 because the factor x + 5 is not repeated.
+=D. x \= 2 #Correct. The repeated factor (x - 2)² gives zero x = 2 with even multiplicity.
 }
 
 ::ALG2_U02_UA_Q05::
@@ -76,9 +76,9 @@ MLA Standard: MLA.A2.PF.2
 Question:
 Solve x² - 1 >= 0.
 {
-~A. -1 <= x <= 1 #That interval gives values on or below the x-axis.
+~A. -1 <\= x <\= 1 #That interval gives values on or below the x-axis.
 ~B. -1 < x < 1 #This excludes endpoints and chooses the wrong interval.
-=C. x <= -1 or x >= 1 #Correct. The graph is on or above the x-axis outside the zeros and includes them.
+=C. x <\= -1 or x >\= 1 #Correct. The graph is on or above the x-axis outside the zeros and includes them.
 ~D. all real numbers #Values between -1 and 1 make the expression negative.
 }
 
@@ -148,10 +148,10 @@ MLA Standard: MLA.A2.PF.8
 Question:
 For f(x) = (x + 3)³(x - 1), which zero has multiplicity 3?
 {
-=A. x = -3 #Correct. The factor x + 3 gives zero -3 and has exponent 3.
-~B. x = 3 #This reverses the sign of the zero from x + 3.
-~C. x = 1 #This zero has multiplicity 1 from the factor x - 1.
-~D. x = -1 #This reverses the sign of the zero from x - 1.
+=A. x \= -3 #Correct. The factor x + 3 gives zero -3 and has exponent 3.
+~B. x \= 3 #This reverses the sign of the zero from x + 3.
+~C. x \= 1 #This zero has multiplicity 1 from the factor x - 1.
+~D. x \= -1 #This reverses the sign of the zero from x - 1.
 }
 
 ::ALG2_U02_UA_Q14::
@@ -185,7 +185,7 @@ Question:
 Solve x² - 9 < 0.
 {
 ~A. x < -3 or x > 3 #That is where the graph is above the x-axis.
-~B. -3 <= x <= 3 #This includes endpoints where the value is 0.
+~B. -3 <\= x <\= 3 #This includes endpoints where the value is 0.
 ~C. all real numbers #Outside the interval, the expression is positive.
 =D. -3 < x < 3 #Correct. The upward-opening graph is below the x-axis between the zeros, excluding endpoints.
 }
@@ -232,10 +232,10 @@ MLA Standard: MLA.A2.PF.4
 Question:
 What is the axis of symmetry for f(x) = (x + 4)² + 9?
 {
-~A. x = 4 #The sign inside the parentheses is reversed.
-~B. y = 9 #This is a horizontal line.
-~C. x = 9 #The y-coordinate is not the axis value.
-=D. x = -4 #Correct. The axis of symmetry passes through the vertex x-coordinate.
+~A. x \= 4 #The sign inside the parentheses is reversed.
+~B. y \= 9 #This is a horizontal line.
+~C. x \= 9 #The y-coordinate is not the axis value.
+=D. x \= -4 #Correct. The axis of symmetry passes through the vertex x-coordinate.
 }
 
 ::ALG2_U02_UA_Q21::
@@ -292,10 +292,10 @@ MLA Standard: MLA.A2.PF.2
 Question:
 Solve x² + 5x + 6 = 0.
 {
-=A. x = -2 and x = -3 #Correct. Factoring gives (x + 2)(x + 3) = 0.
-~B. x = 2 and x = 3 #These signs are reversed.
-~C. x = 5 and x = 6 #These are coefficient and constant values.
-~D. x = 0 and x = 6 #These do not satisfy the equation.
+=A. x \= -2 and x \= -3 #Correct. Factoring gives (x + 2)(x + 3) = 0.
+~B. x \= 2 and x \= 3 #These signs are reversed.
+~C. x \= 5 and x \= 6 #These are coefficient and constant values.
+~D. x \= 0 and x \= 6 #These do not satisfy the equation.
 }
 
 ::ALG2_U02_UA_Q26::
@@ -376,10 +376,10 @@ MLA Standard: MLA.A2.PF.3
 Question:
 Which zeros come from f(x) = x(x - 5)(x + 4)?
 {
-~A. x = 0, -5, and 4 #The signs of the last two zeros are reversed.
-~B. x = 5 and -4 only #The factor x gives zero 0 too.
-~C. x = 1, 5, and 4 #The coefficient of x is not a zero.
-=D. x = 0, 5, and -4 #Correct. Set each factor equal to zero.
+~A. x \= 0, -5, and 4 #The signs of the last two zeros are reversed.
+~B. x \= 5 and -4 only #The factor x gives zero 0 too.
+~C. x \= 1, 5, and 4 #The coefficient of x is not a zero.
+=D. x \= 0, 5, and -4 #Correct. Set each factor equal to zero.
 }
 
 ::ALG2_U02_UA_Q33::
@@ -400,8 +400,8 @@ MLA Standard: MLA.A2.PF.2
 Question:
 Which solves (x - 2)(x + 4) >= 0?
 {
-~A. -4 <= x <= 2 #That interval gives nonpositive values.
-=B. x <= -4 or x >= 2 #Correct. The product is nonnegative outside the zeros and includes endpoints.
+~A. -4 <\= x <\= 2 #That interval gives nonpositive values.
+=B. x <\= -4 or x >\= 2 #Correct. The product is nonnegative outside the zeros and includes endpoints.
 ~C. -4 < x < 2 #This is the wrong interval and excludes endpoints.
 ~D. all real numbers #Between the zeros the product is negative.
 }
@@ -436,10 +436,10 @@ MLA Standard: MLA.A2.PF.3
 Question:
 Which function is written in factored form?
 {
-=A. f(x) = (x - 2)(x + 5) #Correct. Factored form shows a product of factors.
-~B. f(x) = x² + 3x - 10 #This is standard form.
-~C. f(x) = (x - 1)² + 4 #This is vertex form.
-~D. f(x) = 2x + 5 #This is linear form.
+=A. f(x) \= (x - 2)(x + 5) #Correct. Factored form shows a product of factors.
+~B. f(x) \= x² + 3x - 10 #This is standard form.
+~C. f(x) \= (x - 1)² + 4 #This is vertex form.
+~D. f(x) \= 2x + 5 #This is linear form.
 }
 
 ::ALG2_U02_UA_Q38::
