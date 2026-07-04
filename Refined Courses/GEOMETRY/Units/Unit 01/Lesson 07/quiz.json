@@ -1,4 +1,4 @@
-{
+﻿{
     "course":  "GEO",
     "unit":  "Unit 01",
     "lesson":  "Lesson 07",
@@ -17,8 +17,7 @@
                                  "description":  "I can evaluate arguments and use counterexamples to disprove false statements."
                              }
                          ],
-    "format":  "GIFT",
-    "giftFile":  "GEO_U01_L07_Quiz.gift",
+    "format":  "Moodle XML",
     "questionBankSize":  20,
     "questionsPerAttempt":  5,
     "masteryThreshold":  80,
@@ -26,5 +25,6 @@
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      }
+                      },
+    "xmlFile":  "Moodle XML/GEO_U01_L07_Quiz_MoodleXML.xml"
 }
