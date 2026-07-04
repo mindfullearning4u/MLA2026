@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/PRECALCULUS/Units/Unit 01/Lesson 04/guided_practice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L04_GP01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L04_GP01</p><p><strong>MLA Standard:</strong> MLA.PC.FA.8</p><p>Let f(x) = x + 4 and g(x) = 3x. What is (f + g)(x)</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x&#178; + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the functions instead of adding their outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines unlike terms incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4x + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. (x + 4) + 3x = 4x + 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3x - 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts instead of adding.\]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L04_GP02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L04_GP02</p><p><strong>MLA Standard:</strong> MLA.PC.FA.9</p><p>Let f(x) = x&#178; and g(x) = x + 1. What is f(g(x))</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + x + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not correctly square x + 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2x + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This treats the square as multiplication by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x&#178; + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This applies f first and then adds 1, but composition requires substituting g(x) into f.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(x + 1)&#178;]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(g(x)) means square the entire expression x + 1.\]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L04_GP03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L04_GP03</p><p><strong>MLA Standard:</strong> MLA.PC.FA.8</p><p>If f(x) = x - 2 and g(x) = 5, what is (fg)(x)</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This combines by subtraction, not multiplication.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5x - 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply 5(x - 2) to get 5x - 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the function outputs instead of multiplying them.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x - 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 5 from the expression incorrectly.\]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L04_GP04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L04_GP04</p><p><strong>MLA Standard:</strong> MLA.PC.FA.10</p><p>A temperature function T(h) gives temperature at height h, and h(t) gives height at time t. What does T(h(t)) represent</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Temperature added to height]]></text>
+      <feedback format="html">
+        <text><![CDATA[Composition uses one output as another input, not addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Time at a temperature]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the input-output relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Height at a temperature]]></text>
+      <feedback format="html">
+        <text><![CDATA[The outer function is temperature, not height.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Temperature at time t]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Height is found from time, then temperature is found from that height.\]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L04_GP05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L04_GP05</p><p><strong>MLA Standard:</strong> MLA.PC.FA.9</p><p>Let f(x) = 1 / x and g(x) = x - 3. Which input is excluded from f(g(x))</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x = 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(g(x)) = 1 / (x - 3), so x cannot equal 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The inner expression x - 3 must not equal 0, so the excluded value is different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x = -3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong sign for solving x - 3 = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[no values are excluded]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator x - 3 creates a domain restriction.\]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

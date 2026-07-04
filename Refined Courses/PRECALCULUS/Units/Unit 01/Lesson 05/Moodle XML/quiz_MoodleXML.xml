@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/PRECALCULUS/Units/Unit 01/Lesson 05/quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q01</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = x - 4</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x - 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the original function instead of reversing it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = 4x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplication by 4 does not undo subtracting 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x / 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division by 4 would undo multiplication by 4, not subtraction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = x + 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Adding 4 undoes subtracting 4.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q02</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = 3x&#178;</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = 3x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the original function.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = x / 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Dividing by 3 undoes multiplying by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not undo multiplication by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Addition does not undo multiplication by 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q03</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>If f(8) = -2 and f has an inverse, what is f(-2)</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The inverse maps the output -2 back to the input 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies the values and does not represent the inverse.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This keeps the output instead of reversing the relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts values but does not use inverse meaning.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q04</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What graph relationship do inverse functions have</p><p><img src="@@PLUGINFILE@@/PC_U01_L05_Q04_graph.png" alt="Coordinate graph supports line, slope, intercept, or inequality interpretation." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="PC_U01_L05_Q04_graph.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAvgAAAH0CAYAAABICFkFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAERaSURBVHhe7d3fy13Xfefx82fMzURXxcOEmuZCTGFKmAtdHNqrMQy0c2daiKBjNHYOEZSgEYXwEJuh0LphYp9Rp+6NelEyZhxETKPjuBK1mkqtsSUcuYqP1SIiqRjZxMiyMWv4nu/zfXSetfc6zz4/9l7fvfb7BZu0kh79eK8l+aPjI3kUAAAAABRjFH8CAAAAgP5i4AMAAAAFYeADAAAABWHgAwAAAAVh4AMAAAAFYeADAAAABWHgAwAAAAVh4AMAAAAFYeADAAAABWHgAwAAAAVh4AMAAAAFYeADAAAABWHgAwAAAAVh4AMAAAAFYeADAAAABWHgAwAAAAVh4AMAAAAFYeADAAAABWHgAwAAAAVh4AMAAAAFYeADAAAABWHgAwAAAAXpxcCfTUZhNKp/JrP4S/fZLEyWf3zjaZjHX8SVeZiOq2fi//sNAABQLtcDf9Wwj58yhn6PBv58GsY157B4yjgMAACAXnI68KOh2/AZT93O4Yb6M/Dn03GlfznnAAAA0F8OB37ibR+NnnHo97bsz8CP/+0KL9oDAAD44G7g178yXD/c45G5eHq9NPs68OvPBwAAAN1zNvBr3ppzxGCv/oZgEg5/xOGvc/H2kdnkyG+j+vWmv6yq+XZq/21E/P1blhj48fd3h4O69jdJK76PyS7x9zkparLiyx/+tpr8mOt6N3iSZxqp/LmDmu9TfFYrfnwAAABt8DXw43G0Ymg+9njU1e+0aHhPJpU/HHr4PeM1v8moPDXDrsG3s/w0+b7KOJzWDvD9b6P6nWiu0rrmqRmn2w/8+Ouoayma/0bgsZYHfuX7Hn+/4ruT+rEBAAC0x9XAj19N3mrAHohHV/wc/k1E/H1IPpVReNS3Ez9142/dr6PJb4BqNBn39kTDujJw46fJEI9eCa895yZfpqL9gV/3bdj3rXJ31vp6AQAAdsP1wN/NPqoZzakRumpUVkZxPK5rvp1oxMc/vur3o+7rWP52qp+/fqPq13HUv8GoG9fbvQf/6Ffnm73KH6uO70bPuhErb9WZhFndp8UfBwAA0AFHAz8eZ6lRVx2g8XN4r1W/fGrPHRqVldEZf//iAdfk24m/jvjHGH8d8edXf6NRN75XiV+Br//4+PsR/1i3Hfjx9yP++KhTNWR2ccf4cfhdBgAAAzHAgV8dq83E37/464m+ncpvEFQ8DFd+X+u+jq0G/lE/hsdWfz+3H/jxq+CHfhzR58Xftg9xy6XH53cYAAAMhKOBH4/G1LCLB3v1WXs0HyEeu/rE4zj6duq/80cM9Abf15Uff5QGX7854tvZeuDHX8fS9+Vw77jzKitG96ondVZHqbwtZ93vLwAAwO65GvjxkI5HpWp/4Me/0ah/4iHHwF/boW/Dvo5t3p7T8cCv+/ZWNQUAAOiAq4Efj8rqiK4X/8Zg44Ff+4psYnhWvm8Nv52Vw7nB17Hy44/S4Os3R3w7Oxn40fdn8W1s9fac+IwaPut9Iwfie2dP3AoAAKBLvgZ+PEDlWTVC98VDa7OBf9Tf7BKPxyMGfuXz1dbf1yOG92pH/RgeW/393NXAr75NZ7byDzofJf7xNXziH1wTtb8ZtGfzHgAAANtyNvCrw9Ke2g2WGFlrj2YRf12Vb/CoAR9/fvz9EPEAjYdgg+/rVgO/2rf+4+MfS/xj3d3Aj388R3/fPIjPcRTG4+je1p0dAABAB9wN/LrxtN4Tj80Go1nEA//Q11P3fYpHbzyK9Vke+ZX39le+Lw2+r1sO/Mq3Ufk6jvr8/S+1q4Ff8+1t/3W2K/5Nkv5msHpH6roBAAC0zeHAF6nRd9QTj+6ar6tuNC9UB9rqJx6g636f44+v+Trqvq9bD/yagbrqqfs+7HTgx1/X6m83u8pvBJfuXOXfRmzXBQAAYBNOB76qHX6JJz10G4xmUxloh5/JdNUfAK1+O9MV3//q23dE9euofF93MPAXjvixLp767+TCLgd+3fdl4x9Xq6q/CYy/n5U7u6IhAABAG1wPfJN+xbnJsGwwmg+peSX+4GNW/RWOiW+nMl7r/i2DSXwdh77Ijgb+vvq2q76PaqcDP+7a4NvPIj7LuvOJzzD5mzkAAIB29GLg90ODcY6EqB2LGAAAYGMM/J1h4G8qflsL+x4AAGBzDPydYeA3F78lh24AAAC7wsDfGQb+OuJX7Xn1HgAAYDcY+DvDwF9HdeA7/YO1AAAAPcPABwAAAArCwAcAAAAKwsAHAAAACsLABwAAAArCwAcAAAAKwsAHAAAACsLABwAAAArCwAcAAAAKwsAHAAAACsLABwAAAArCwAcAAAAK0snAn01GYTydx598SJMvAwAAAGC19gf+bBJGoyPGe5MvAwAAAOBIrQ78+XS8GO6rxnuTLwMAAACgmfYG/uJV+XGYzmdhkhrvTb4MAAAAgMbaG/gHmoz3Jl8GAAAAwFEY+AAAAEBBGPgJ//Iv/xI+/PBDHh4eHp6l57XXXgt7e3uL/40/j4eHh2fIj2xHLxj4CXJQoIOgAQ0MHUL43ve+F371V3918b9Dxl2ggaGDooOvBgz8BE+HlBMdaCBooOjAwDfcBRoYOig6+GrAwE/wdEg50YEGggaKDgx8w12ggaGDooOvBgz8BE+HlBMdaCBooOjAwDfcBRoYOig6+GrAwE/wdEg50YEGggaKDgx8w12ggaGDooOvBh0M/H7ydEg50YEGggaKDgx8w12ggaGDooOvBgz8BE+HlBMdaCBooOjAwDfcBRoYOig6+GrAwE/wdEg50YEGggaKDgx8w12ggaGDooOvBgz8BE+HlBMdaCBooOjAwDfcBRoYOig6+GrAwE/wdEg50YEGggaKDusP/NlkFEajSZjVffok/tT+4C7QwNBB0cFXAwZ+gqdDyokONBA0UHRYf+CH+TSMR6NwaMvXfVrPcBdoYOig6OCrAQM/wdMh5UQHGggaKDpsMPDDPEzHh1+tn0/Hta/q9wl3gQaGDooOvhow8BM8HVJOdKCBoIGiwyYDPx701cHfR9wFGhg6KDr4asDAT/B0SDnRgQaCBooOmw38Q2/JWfzf4+Dov2u4Ee4CDQwdFB18NWDgJ3g6pJzoQANBA0WHDQf+0h+qXbyaP56Gnu977gINDtBB0cFXAwZ+gqdDyokONBA0UHTYfOCH2SSMRuMwHo/CuO8v33MXFmig6KCG2uHjT78IL7x6Kzz53Jvh2vWfx5+dDQM/YagXNUYHGggaKDpsMfDDLExG8ldm9v/tOYK7QANDBzW0Djbsn3jmjfBvfvevF8+zL1+Nv1g2DPyEoV3UFDrQQNBA0WGbgb//Np0C3p4juAs0MHRQQ+lQN+zt+co3fhzuPngUf0gWDPyEoVzUo9CBBoIGig7bDHz923N6/pfnHOAu0MDQQZXeYdWwt+erp2bh8nsfxR+aBQM/ofSL2hQdaCBooOiwxcBfvAe/33/3/TLuAg0MHVSpHZoMe3n//Uuvfxjev+Xn308y8BNKvajrogMNBA0UHTYZ+Pbe+3JevRfcBRoYOqjSOnz2+ZeNh718WeGpAQM/wdMh5UQHGggaKDpsMvDLxF2ggaGDKqWDjHUZ7TLe40Fvj4z+P/7hBwfD3nhqwMBP8HRIOdGBBoIGig4MfMNdoIGhg+p7h6bDXl7Vl7ft1PHUgIGf4OmQcqIDDQQNFB0Y+Ia7QANDB9XXDrsY9sZTAwZ+gqdDyokONBA0UHRg4BvuAg0MHVTfOuxy2BtPDRj4CZ4OKSc60EDQQNGBgW+4CzQwdFB96dDGsDeeGrQ68OfT8eJvTtCnX//1Qk+HlBMdaCBooOjAwDfcBRoYOqg+dGhr2BtPDVob+Iv/YuHyqF/8Hcj9+WvSPB1STnSggaCBogMD33AXaGDooDx3OH/pTjh++nJl0Ntz7OTFcOb8zY2HvfHUoJ2BP5+G8WgUxtFL9otX9Hvynyn3dEg50YEGggaKDgx8w12ggaGD8tih6bC/++BR/KEb8dSgnYG/eLW+5i05qU93yNMh5UQHGggaKDow8A13gQaGDspTh66HvfHUgIGf4OmQcqIDDQQNFB0Y+Ia7QANDB+WhQ65hbzw0MO0M/P236MTvt9c/dMvA7xM60EDQQNGBgW+4CzQwdFA5O+Qe9iZng1g7A//gD9lOwsHG3x/9fRr4PDw8PDyHn729vcXAl/+NP4+Hh4eny+eVH10PX/vmTyqD3p6vfOPH4dmXr4Zr139e+di2Hi9aG/hCR749kzBbjPz+DHzQQdCABoYOvIJvuAs0MHRQXXa4cO1eOHH2SmXQLz+nzt1o/RX7WJcNjtLqwK9YvAd/6VV9xzwdUk50oIGggaIDA99wF2hg6KC66NB02N++/zD+0E500aCplgb+LExq/prMxSv68RvznfJ0SDnRgQaCBooODHzDXaCBoYNqs4P3YW/abLCulgZ+zXvwe/Q36AhPh5QTHWggaKDowMA33AUaGDqoNjr0ZdibNhpsqrWBLyrvwY+/gGOeDiknOtBA0EDRgYFvuAs0MHRQu+zQt2FvdtlgW60O/D7zdEg50YEGggaKDgx8w12ggaGD2kWHy+991Mthb3bRYFcY+AmeDiknOtBA0EDRgYFvuAs0MHRQ23SQYf/U81crY375efrFt8P7d34Zf6gr2zTYNQZ+gqdDyokONBA0UHRg4BvuAg0MHdQmHZoO+3dvfxJ/qEubNGgLAz/B0yHlRAcaCBooOjDwDXeBBoYOap0OpQ17s06DtjHwEzwdUk50oIGggaIDA99wF2hg6KCadCh12JsmDbrCwE/wdEg50YEGggaKDgx8w12ggaGDWtWh9GFvVjXoGgM/wdMh5UQHGggaKDow8A13gQaGDqqugwz2IQx7U9cgFwZ+gqdDyokONBA0UHRg4BvuAg0MHdRyBxnsMtzjMb/8yPCXV/ZL4ukuMPATPB1STnSggaCBogMD33AXaGDooKTDUIe98XQXGPgJng4pJzrQQNBA0YGBb7gLNDB00Ffsf/uFtypjfijD3ni6Cwz8BE+HlBMdaCBooOjAwDfcBRqYIXcY+iv2MU93gYGf4OmQcqIDDQQNFB0Y+Ia7QAMzxA4M+3qe7gIDP8HTIeVEBxoIGig6MPANd4EGZkgdbt9/GE5+/53KmB/6sDee7gIDP8HTIeVEBxoIGig6MPANd4EGZggdZNifOnejMuaXn6//wd+EC9fuxR86KJ7uAgM/wdMh5UQHGggaKDow8A13gQam5A5Nhv2Js1cWw77kDk15asDAT/B0SDnRgQaCBooODHzDXaCBKbHDOsPelNhhXZ4aMPATPB1STnSggaCBogMD33AXaGBK6rDJsDclddiUpwYM/ARPh5QTHWggaKDowMA33AUamBI6bDPsTQkdtuWpAQM/wdMh5UQHGggaKDow8A13gQamzx3uPngUzpy/WRnzy89vfPtvVw570+cOu+KpAQM/wdMh5UQHGggaKDow8A13gQamjx1s2B87ebEy6O05fvpyOH/pTvyhSX3ssGueGjDwEzwdUk50oIGggaIDA99wF2hg+tShjWFv+tShLZ4atDPwZ5MwGo0SzzhM5/EH+OPpkHKiAw0EDRQdGPiGu0AD04cObQ5704cObfPUoJ2BX2sWJjLwJ7P4M1zydEg50YEGggaKDgx8w12ggfHcoYthbzx36IqnBp0N/NlEXr2fhH7Me1+HlBMdaCBooOjAwDfcBRoYjx26HPbGY4eueWrQzcCfT8N4NAo9efF+wdMh5UQHGggaKDow8A13gQbGU4ePP/0ivPDqrZXD/snn3tzpsDeeOuTiqUEnA3/x6v14Gnrw1vsDng4pJzrQQNBA0YGBb7gLNDAeOtiwf+KZNyqDfnnYv/T6h+Gzz7+MP3wnPHTIzVOD9gf+/qv34z78ydolng4pJzrQQNBA0YGBb7gLNDA5O3gY9iZnBy88NWh94M+n4169997IIfHw8PDwHH729vYWA1/+N/48Hh6ebp7rP/sgfPuVa+FXfj/9VpyvnpqF7/7lP4b3b80rH8/T3uNFywN/Hqbj/vzNOcs8HVJOdKCBoIGiA6/gG+4CDUyXHTy9Yh/rsoNXnhq0PPD1r8bs29tzhKdDyokONBA0UHRg4BvuAg1MFx08D3vTRQfvPDVod+Av3n/fj/+wVczTIeVEBxoIGig6MPANd4EGps0OMtZltMt4jwe9PTL6cw5702aHvvDUoN2Bv/gv2vbv/ffC0yHlRAcaCBooOjDwDXeBBqaNDk2HvbyqL6/ue9BGh77x1KDVgd/XP2ArPB1STnSggaCBogMD33AXaGB22aGPw97sskNfeWrQ6sDvM0+HlBMdaCBooOjAwDfcBRqYXXTo87A3u+jQd54aMPATPB1STnSggaCBogMD33AXaGC26VDCsDfbdCiFpwYM/ARPh5QTHWggaKDowMA33AUamE06lDTszSYdSuOpAQM/wdMh5UQHGggaKDow8A13gQZm3Q7nL90Jx09frgx6e46dvBi+81f/1Jthb9btUCJPDRj4CZ4OKSc60EDQQNGBgW+4CzQwTTs0GfZnzt8Mdx88ij+0F5p2KJmnBgz8BE+HlBMdaCBooOjAwDfcBRqYozqUPuzNUR2GwFMDBn6Cp0PKiQ40EDRQdGDgG+4CDUyqw1CGvUl1GBJPDRj4CZ4OKSc60EDQQNGBgW+4CzQwcYehDXsTdxgiTw0Y+AmeDiknOtBA0EDRgYFvuAs0MNZhqMPecB98NWDgJ3g6pJzoQANBA0UHBr7hLtDAvPKj6+HE2SuVQb/8fOsv3it22Bvug68GDPwET4eUEx1oIGig6MDAN9wFGly4du/IYX/q3I1w+/7D+EOLNPT7IDw1YOAneDqknOhAA0EDRQcGvuEuDLcBw77eUO/DMk8NGPgJng4pJzrQQNBA0YGBb7gLw2vAsF9taPehjqcGDPwET4eUEx1oIGig6MDAN9yF4TRg2DczlPuwiqcGDPwET4eUEx1oIGig6MDAN9yF8htcfOdfGw37t96+FX/oIJV+H5rw1ICBn+DpkHKiAw0EDRQdGPiGu1Bug8vvfRSeev5qZcwvP0+/+PbBK/aldlgXHXw1YOAneDqknOhAA0EDRQcGvuEulNeg6bB/9/Ynhz6utA6booOvBgz8BE+HlBMdaCBooOjAwDfchXIabDrsTSkdtkUHXw0Y+AmeDiknOtBA0EDRgYFvuAv9b7DtsDd977ArdPDVgIGf4OmQcqIDDQQNFB0Y+Ia70N8Guxr2pq8ddo0Ovhow8BM8HVJOdKCBoIGiAwPfcBf61+Dvbz3Y6bA3fevQFjr4asDAT/B0SDnRgQaCBooODHzDXehPAxnsMtzjMb/8yPCX3wBsoi8d2kYHXw1aHPizMBmNwih+JrP4C7rk6ZByogMNBA0UHRj4hrvgv0HTYS9v2dmG9w5doYOvBu0N/Pk0jEeT0I85X+XpkHKiAw0EDRQdGPiGu+C3QVfD3njt0DU6+GrQ3sCfTcJoPA3z+NN7wtMh5UQHGggaKDow8A13wV+Droe98dYhFzr4atDawJ9N+vN2nDqeDiknOtBA0EDRgYFvuAt+GuQa9sZLh9zo4KtBSwN/HqbjURhPJmG89P778bQ/r+d7OqSc6EADQQNFBwa+4S7kb/D+nV9mHfYmdwcv6OCrQUsDf/8P2C6/RWfxnvz+jHxPh5QTHWggaKDowMA33IV8DW7ffxhOnbtRGfPLz4mzV8LFd/41/tBW5OrgDR18NWhp4NebT8dh1JM/eCuHxMPDw8Nz+Nnb21sMfPnf+PN4eNp83nr7Vvi9P/lpZcwvP1//g78Jr/zoeuVjeXi6erzodOAv/uDtaBz68CK+p0PKiQ40EDRQdOAVfMNd6K5B01fsL1y7F39oJ7rq4B0dfDVg4Cd4OqSc6EADQQNFBwa+4S6038D7sDdtd+gLOvhq0M7A33+/ffyX6PTtLTqgg6ABDQwdGPiGu9Beg74Me9NWh76hg68G7Qz8/b9F59CYX7x6Xx39Xnk6pJzoQANBA0UHBr7hLuy+wd0Hj8K3/uK9ypj3OuzNrjv0FR18NWhp4Asb+Y+fvox74emQcqIDDQQNFB0Y+Ia7sLsGMuzPnL8Zjp28WBn09hw/fTn84Mov4g91YVcd+o4Ovhq0OPD7zdMh5UQHGggaKDow8A13YfsGTYf9+Ut34g91ZdsOpaCDrwYM/ARPh5QTHWggaKDowMA33IXNG5Qy7M2mHUpDB18NGPgJng4pJzrQQNBA0YGBb7gL6zcobdibdTuUig6+GjDwEzwdUk50oIGggaIDA99wF5o3KHXYm6YdSkcHXw0Y+AmeDiknOtBA0EDRgYFvuAtHN/j40y/Cd/7qn4od9uaoDkNBB18NGPgJng4pJzrQQNBA0YGBb7gL6QYy7F949VZ44pk3KoPeniefezO89PqH4bPPv4w/vHdSHYaGDr4aMPATPB1STnSggaCBogMD33AXqg2GNuxN3GGo6OCrAQM/wdMh5UQHGggaKDow8A134XGDoQ57w11QdPDVgIGf4OmQcqIDDQQNFB0Y+Ia7EML1n30w6GFvuAuKDr4aMPATPB1STnSggaCBogMD3wz5Ltgr9r/y++k/PDuEYW+GfBeW0cFXAwZ+gqdDyokONBA0UHRg4Jsh3gUZ6zLah/6KfWyId6EOHXw1YOAneDqknOhAA0EDRQcGvhnSXbBhL+M9HvT2yOiXV/Xl1f2hGdJdWIUOvhow8BM8HVJOdKCBoIGiAwPfDOEuMOybGcJdaIIOvhow8BM8HVJOdKCBoIGiAwPflHwXmg77b79ybdDD3pR8F9ZBB18NGPgJng4pJzrQQNBA0YGBb0q8C02Hvb1iX2KDTdBB0cFXAwZ+gqdDyokONBA0UHRg4JuS7sK6w96U1GAbdFB08NWAgZ/g6ZByogMNBA0UHRj4ppS7cP7SnbWHvSmlwbbooOjgqwEDP8HTIeVEBxoIGig6MPBN3++CDPvjpy9XBr09x05eDGfO3wx3HzyKP/RA3xvsCh0UHXw1YOAneDqknOhAA0EDRQcGvunrXdjFsDd9bbBrdFB08NWAgZ/g6ZByogMNBA0UHRj4pm93YZfD3vStQVvooOjgqwEDP8HTIeVEBxoIGig6MPBNX+5CG8Pe9KVB2+ig6OCrQasDfzYZhdHInnGYzuMv4ZenQ8qJDjQQNFB0YOAb73ehzWFvvDfoCh0UHXw1aG3g67ifhNnjT+jVyPd0SDnRgQaCBooODHzj9S5cuHYv/Ma3/7Yy6JefbYe98dqga3RQdPDVoJ2BP5+G8WgUJgfrfvGJYToehXFPFr6nQ8qJDjQQNFB0YOAbb3dBhv2Js1cqY375OXXuRrh9/2H8oRvz1iAXOig6+GrQzsCvpQN/dHj1u+XpkHKiAw0EDRQdGPjGy13IMeyNlwa50UHRwVeDzgb+fDrmLTo9RAcaCBooOjDwTe67kHPYm9wNvKCDooOvBq0PfB32+gdte/Li/YKnQ8qJDjQQNFB0YOCbXHfBw7A3uRp4QwdFB18NWh/4B/bfl9+nt+jw8PDw8Bx+9vb2FgNf/jf+PJ72nld+dD18/Q/+pjLml5/f+5OfhrfevlX5WB4enu4eL7ob+D17m46nQ8qJDjQQNFB04BV809VduPzeR+Gp569Wxvzyc/L773Tyin2sqwbe0UHRwVeDTgd+n/6qTE+HlBMdaCBooOjAwDdt34Umw/7pF98O797+JP7QzrTdoC/ooOjgq0E7A38x5KvvuddX8Jf+bnzHPB1STnSggaCBogMD37R1F/ow7E1bDfqGDooOvhq0M/Dtr8QcT8PBi/X7o5+/B79f6EADQQNFBwa+2fVd6NOwN7tu0Fd0UHTw1aClgS/2R/7+36BT94q+Z54OKSc60EDQQNGBgW92dRf6OOzNrhr0HR0UHXw1aHHg95unQ8qJDjQQNFB0YOCbbe9Cn4e92bZBKeig6OCrAQM/wdMh5UQHGggaKDow8M2md0EGuwz3eMwvPzL8PQ97s2mD0tBB0cFXAwZ+gqdDyokONBA0UHRg4Jt170LTYS+v7PfFug1KRQdFB18NGPgJng4pJzrQQNBA0YGBb5rehRKHvWnaoHR0UHTw1YCBn+DpkHKiAw0EDRQdGPjmqLtQ8rA3RzUYCjooOvhqwMBP8HRIOdGBBoIGig4MfJO6C0MY9ibVYGjooOjgqwEDP8HTIeVEBxoIGig6MPBNfBeGNOxN3GCo6KDo4KsBAz/B0yHlRAcaCBooOjDwjd2F2/cfhlPnblTG/PJz4uyVooa94eeDooOig68GDPwET4eUEx1oIGig6MDAN2+9favRsL9w7V78ocXg54Oig6KDrwYM/ARPh5QTHWggaKDowMBv+op9ycPe8PNB0UHRwVcDBn6Cp0PKiQ40EDRQdBjuwGfYV/HzQdFB0cFXAwZ+gqdDyokONBA0UHQY3sBn2Kfx80HRQdHBVwMGfoKnQ8qJDjQQNFB0GM7Av/vgEcP+CPx8UHRQdPDVgIGf4OmQcqIDDQQNFB3KH/gy7M+cvxmOnbxYGfT2HD99Obzyo+vxhw4OPx8UHRQdfDVg4Cd4OqSc6EADQQNFh3IHftNhf/7SncWX5y7QwNBB0cFXAwZ+gqdDyokONBA0UHQob+CvO+wNd4EGhg6KDr4aMPATPB1STnSggaCBokM5A3/TYW+4CzQwdFB08NWAgZ/g6ZByogMNBA0UHfo/8Lcd9oa7QANDB0UHXw0Y+AmeDiknOtBA0EDRob8D/+NPv9jJsDfcBRoYOig6+GrAwE/wdEg50YEGggaKDv0b+DLsX3j1VnjimTcqg96eJ597M7z0+npny12ggaGDooOvBgz8BE+HlBMdaCBooOjQn4G/zrD/7PMv4w8/EneBBoYOig6+GnQy8GeTURhP5/Enu+bpkHKiAw0EDRQd/A/8toe94S7QwNBB0cFXg/YH/mwSRiMGfl/RgQaCBooOfgd+V8PecBdoYOig6OCrQasDfz4dL8Y9A7+/6EADQQNFB38Dv+thb7gLNDB0UHTw1aC9gb945X4cpvNZmDDwe4sONBA0UHTwM/BlrOcY9oa7QANDB0UHXw3aG/gHGPh9RgcaCBooOuQf+DLWZbTLeI8HvT0y+mX8tzHsDXeBBoYOig6bNbB3u0xmS5+4g7e3M/ATNjmkEtGBBoIGig75Bv46w17ettM27gINDB0UHTZvIH8ZzWg0CbrxdTePDi3+9THwE+SQeHh4eHgOP3t7e4uBL/8bf14bz/u35uG7f/mP4aunZpVBb8+v/P7F8O1XroXrP/ug8vE8PDw8XT6beTzqD4/9zTHwEzY/pLLQgQaCBooO3b2C7+0V+xh3gQaGDooOWzbYf1tO5e06G2LgJ2x1SAWhAw0EDRQd2h/43oe94S7QwNBB0WHbBvuv4u/g1XvBwE/Y7pDKQQcaCBooOrQ78P989s/uh73hLtDA0EHRYbsG+tac/WcHL+Ez8BO2OaSS0IEGggaKDu0M/POX7oTjpy9XBr09x05eDGfO33Qx7A13gQaGDooOWzTYf3vOYtcv/99bYOAnbHxIhaEDDQQNFB12O/CbDvu7Dx7FH5odd4EGhg6KDps2mIfpePlV+/3/f8u36nQw8Ptps0MqDx1oIGig6LCbgd/nYW+4CzQwdFB02KyBvjVH/sOwS584n4bxlm/VYeAnbHJIJaIDDQQNFB22G/glDHvDXaCBoYOig68GDPwET4eUEx1oIGig6LDZwC9p2BvuAg0MHRQdfDVg4Cd4OqSc6EADQQNFh/UG/oVr94ob9oa7QANDB0UHXw0Y+AmeDiknOtBA0EDRodnAl2F/4uyVyqBffk6duxFu338Yf2hvcBdoYOig6OCrAQM/wdMh5UQHGggaKDqsHvhDGPaGu0ADQwdFB18NGPgJng4pJzrQQNBA0aF+4A9p2BvuAg0MHRQdfDVg4Cd4OqSc6EADQQNFh8MDf4jD3nAXaGDooOjgqwEDP8HTIeVEBxoIGig66MB/4uv/Nfzaf/thZcwPYdgb7gINDB0UHXw1YOAneDqknOhAA0EDNfQOl9/7aPDD3gz9LggaKDooOvhqwMBPeO211xavVA392dvbq3za0B4a0MCeoXb41nf/LPz6f/9/lTG//Pynb/7f8D/+5/+ufGypz1DvwvJDA33ooA8dvrfYjl4w8BPkosr7THl4eHiG+vy7//ifw7/9L/+rMuaXn2NP/VH4978+rnwsDw8Pz9Ae2Y5eMPATeAVfH35HTgN5aKDPUDo0ecX+1373/wzqFfv4GcpdWPXQQB866EMHXsHvBU/vo8qJDjQQNFCld5D32D/1/NXKmF9+5K048oq9/MNsyEq/C03QQNFB0cFXAwZ+gqdDyokONBA0UKV2aDLsn37x7fDu7U8Ww17+VTQDv8y7sA4aKDooOvhqwMBP8HRIOdGBBoIGqrQOMth/54/+oTLm64a9YeCr0u7CJmig6KDo4KsBAz/B0yHlRAcaCBqoUjrIYJfhHo/55Ude0ZdX9mMMfFXKXdgGDRQdFB18NWDgJ3g6pJzoQANBA9X3DtsMe8PAV32/C7tAA0UHRQdfDRj4CZ4OKSc60EDQQPW1wy6GvWHgq77ehV2igaKDooOvBgz8BE+HlBMdaCBooPrWYZfD3jDwVd/uQhtooOig6OCrAQM/wdMh5UQHGggaqL50aGPYGwa+6stdaBMNFB0UHXw1yDbwZ5NRGE/n8Se74emQcqIDDQQNlPcOt+8/DCe//05lzC8/v/Wdn2407A0DX3m/C12ggaKDooOvBnkG/mwSRiMGfh/QgQaCBsprBxn2p87dqIz55efE2SvhwrV78YeujYGvvN6FLtFA0UHRwVeDzgf+fDpejHsGfj/QgQaCBspbhy6HvWHgK293IQcaKDooOvhq0O3AX7xyPw7T+SxMGPi9QAcaCBooLx1yDHvDwFde7kJONFB0UHTw1aDbgX+Agd8XdKCBoIHK3SHnsDcMfJX7LnhAA0UHRQdfDRj4CZ4OKSc60EDQQOXq4GHYGwa+ynUXPKGBooOig68GDPwEOSQeHh6enM+16z8Pz758NXzlGz+uDHp7/sPpN8MrP7pe+di2nr29vcXAl/+NP4+Hh4dn6I8XDPwET4eUEx1oIGiguupw98GjcOb8zXDs5MXKoLfn+OnL4fylO/GHto5X8FVXd8EzGig6KDr4atDKwF/+m3IWz3gaDk95Bn5f0IEGggaq7Q6eh71h4Ku270If0EDRQdHBV4NWBv7RGPh9QQcaCBqotjr0YdgbBr5q6y70CQ0UHRQdfDVg4Cd4OqSc6EADQQO16w59GvaGga92fRf6iAaKDooOvhow8BM8HVJOdKCBoIHaVYc+DnvDwFe7ugt9RgNFB0UHXw0yDXz/PB1STnSggaCB2rbDx59+EV549VZ44pk3KoPeniefe9PlsDcMfLXtXSgBDRQdFB18NWDgJ3g6pJzoQANBA7Vph6bD/qXXPwyfff5l/OGuMPDVpnehJDRQdFB08NWAgZ/g6ZByogMNBA3Uuh1KGvaGga/WvQslooGig6KDrwYM/ARPh5QTHWggaKCadihx2BsGvmp6F0pGA0UHRQdfDRj4CZ4OKSc60EDQQB3VoeRhbxj46qi7MAQ0UHRQdPDVgIGf4OmQcqIDDQQNVKrDEIa9YeCr1F0YEhooOig6+GrAwE/wdEg50YEGggYq7iBjXUa7jPd40Nsjo/+Pf/hB74e9YeCr+C4MEQ0UHRQdfDVg4Cd4OqSc6EADQQNlHZoOe3lVX17dLwkDX/FzggaGDooOvhow8BM8HVJOdKCBoIF6/9Z8sMPeMPAVPydoYOig6OCrAQM/wdMh5UQHGoihN7BX7L96alYZ9EMZ9oaBr4b+c0LQQNFB0cFXAwZ+gqdDyokONBBDbTDkt+KkMPDVUH9OLKOBooOig68GDPwET4eUEx1oIIbYgGFfj4GvhvhzIkYDRQdFB18NGPgJng4pJzrQQAypwflLd8Lx05crg96eYycvhu/81T8NbtgbBr4a0s+JFBooOig6+GrAwE/wdEg50YEGYggNmgz7Z1++Gu4+eBR/6KAw8NUQfk4chQaKDooOvhow8BM8HVJOdKCBKLlBk2F/5vzNxbAvuUNTDHzFXaCBoYOig68GDPwET4eUEx1oIEpssM6wNyV2WBcDX3EXaGDooOjgqwEDP8HTIeVEBxqIkhpsMuxNSR02xcBX3AUaGDooOvhqwMBP8HRIOdGBBqKEBj+48ouNh70pocO2GPiKu0ADQwdFB18NGPgJng4pJzrQQPS5wYVr98KJs1cqg375OXXuxsphb/rcYVcY+Iq7QANDB0UHXw0Y+AmeDiknOtBA9LFB02F/+/7D+EOT+thh1xj4irtAA0MHRQdfDRj4CZ4OKSc60ED0qUEbw970qUNbGPiKu0ADQwdFB18NOh/4s8kojEb2jMN0Hn8JHzwdUk50oIHoQ4M2h73pQ4e2MfAVd4EGhg6KDr4adDrwddxPwuzxJ7gd+Z4OKSc60EB4btDFsDeeO3SFga+4CzQwdFB08NWgu4E/n4bxaBQmB+t+8YlhOh6FscOF7+mQcqIDDYTHBhff+dfOhr3x2KFrDHzFXaCBoYOig68G3Q38WjrwR4dXvwueDiknOtBAeGpw+b2PwlPPX62M+eXn6RffDu/f+WX8oVvz1CEXBr7iLtDA0EHRwVeDrAN/Ph3zFh3n6EAD4aFB02H/7u1P4g/dGQ8dcmPgK+4CDQwdFB18Ncgy8HXY6x+0dfji/YKnQ8qJDjQQORt4GPYmZwcvGPiKu0ADQwdFB18Nsgz8A/vvy/f6Fh0eHp58zw/efC/85h+m/8uz8vz2C2+Fv/67m5WP5Wnv2dvbWwx8+d/483h4eHiG/niRd+A7fpuOp0PKiQ40EF028PSKfazLDl7xCr7iLtDA0EHRwVeDVgb+8ltwFs94GpL73elflenpkHKiAw1EFw1ksHsd9qaLDt4x8BV3gQaGDooOvhq0MvBrLYZ89T33+puBpb8b3wlPh5QTHWgg2mwgg12Gezzmlx8Z/n9/60H8oZ1rs0NfMPAVd4EGhg6KDr4adDfw7a/EXH41f3/08/fg+0UHGog2GjQd9vKWHS/a6NA3DHzFXaCBoYOig68GHQ58sT/yl96+E7+i74WnQ8qJDjQQu2zQx2Fvdtmhrxj4irtAA0MHRQdfDToe+P3h6ZByogMNxC4a9HnYm1106DsGvuIu0MDQQdHBVwMGfoKnQ8qJDjQQ2zQoYdibbTqUgoGvuAs0MHRQdPDVgIGf4OmQcqIDDcQmDW7ff1jMsDebdCgNA19xF2hg6KDo4KsBAz/B0yHlRAcaiHUayLA/de5GZcwvPyfOXgkXrt2LP9S9dTqUioGvuAs0MHRQdPDVgIGf4OmQcqIDDUSTBiUPe9OkQ+kY+Iq7QANDB0UHXw0Y+AmeDiknOtBArGowhGFvVnUYCga+4i7QwNBB0cFXAwZ+gqdDyokONBB1DYY07E1dh6Fh4CvuAg0MHRQdfDVg4Cd4OqSc6EADsdxgiMPecBcY+Ia7QANDB0UHXw0Y+AmeDiknOtBASIO7Dx6Fb/3Fe5UxP4Rhb7gLDHzDXaCBoYOig68GDPwET4eUEx1oIMP+2ZevhmMnL1YGvT3HT18O5y/diT+0OEO/C4KBr7gLNDB0UHTw1YCBn+DpkHKiw3AbyLA/c/4mw37JUO/CMga+4i7QwNBB0cFXAwZ+gqdDyokOw2vAsE8b2l2ow8BX3AUaGDooOvhqwMBP8HRIOdFhOA0Y9kcbyl1YhYGvuAs0MHRQdPDVgIGf4OmQcqJD+Q2aDPuvffMngx72pvS70AQDX3EXaGDooOjgqwEDP8HTIeVEh3IbfPzpF+GFV2+tHPb2in2pDdZFBwa+4S7QwNBB0cFXAwZ+gqdDyokO5TWwYf/EM29UBr09Tz73Znjp9Q/DZ59/ufiY0hpsig4MfMNdoIGhg6KDrwYM/ARPh5QTHcppsMmwN6U02BYdGPiGu0ADQwdFB18NGPgJng4pJzr0v8E2w970vcGu0IGBb7gLNDB0UHTw1YCBn+DpkHKiQ38b7GLYm7422DU6MPANd4EGhg6KDr4aMPATPB1STnToX4NdDnvTtwZtoQMD33AXaGDooOjgqwEDP8HTIeVEh/40kLEuo33VsJfPW2fYm740aBsdGPiGu0ADQwdFB18NOh74szAZjcIofiaz+Atm5+mQcqKD/wY27OVV+XjQLw97eVVfXt3fhPcGXaEDA99wF2hg6KDo4KtBtwN/Pg3j0ST4m/NVng4pJzr4bdDFsDdeG3SNDgx8w12ggaGDooOvBt0O/NkkjMbTMI8/3SFPh5QTHfw16HLYG28NcqEDA99wF2hg6KDo4KtBpwN/NvH5dpw6ng4pJzr4aZBj2BsvDXKjAwPfcBdoYOig6OCrQYcDfx6m41EYTyZhvPT++/HU5+v5ng4pJzrkb5Bz2JvcDbygAwPfcBdoYOig6OCrQYcDf/8P2C6/RWfxnnyfI9/TIeVEh7wNzl+6s3LYHzt5sdVhb3I28IQODHzDXaCBoYOig68GHQ78evPpOIwc/sFbOSQenlzPn776TvjaN39SGfT2fOUbPw7Pvnw1XLv+88rH8vC0+ezt7S0Gvvxv/Hk8PDw8Q3+8yD7wF3/wdjQO3l7E93RIOdGh2wbyiv3x05crg375Ffsz52+Guw8exR/aqi4beEYHXsE33AUaGDooOvhq0MrA11fll/6e+1V/cw4D3zU6dNPA67A3XTToAzow8A13gQaGDooOvhq0MvBr7b/fPv5LdDy/RQd0EG028D7sTZsN+oQODHzDXaCBoYOig68G3Q38/b9F59CYX7x6Xx39Hng6pJzo0E6Dvgx700aDPqIDA99wF2hg6KDo4KtBhwNf2Mh//Hgc98LTIeVEh902uHDtXjhx9kpl0C8/noa92WWDPqMDA99wF2hg6KDo4KtBxwO/PzwdUk502E2DJsP+1Lkb4fb9h/GHurCLBiWgAwPfcBdoYOig6OCrAQM/wdMh5USH7Rr0fdibbRqUhA4MfMNdoIGhg6KDrwYM/ARPh5QTHTZrUMqwN5s0KBEdGPiGu0ADQwdFB18NGPgJng4pJzqs16C0YW/WaVAyOjDwDXeBBoYOig6+GjDwEzwdUk50aNag1GFvmjQYAjow8A13gQaGDooOvhow8BM8HVJOdFjd4PJ7H4Wnnr9aGfPLz9Mvvt3bYW9WNRgSOjDwDXeBBoYOig6+GjDwEzwdUk50qG/QdNi/e/uT+EN7qa7BENGBgW+4CzQwdFB08NWAgZ/g6ZByosPhBkMb9oZ7oOjAwDfcBRoYOig6+GrAwE/wdEg50UEbDHXYG+6BogMD33AXaGDooOjgqwEDP8HTIeU09A4y7H/zDy9XxvxQhr0Z+j0wdGDgG+4CDQwdFB18NWDgJ3g6pJyG2uHvbz0Y9Cv2saHegxgdGPiGu0ADQwdFB18NGPgJng4pp6F1kMEuwz0e88uPDP+hDHsztHuQQgcGvuEu0MDQQdHBVwMGfoKnQ8ppKB2aDnt5y84QDeUeHIUODHzDXaCBoYOig68GDPwET4eUU+kdmgx7eQ/+UIe9Kf0eNEUHBr7hLtDA0EHRwVcDBn6Cp0PKqdQOTYa9vWJfaoN10EDRgYFvuAs0MHRQdPDVgIGf4OmQciqtwzrD3pTWYBM0UHRg4BvuAg0MHRQdfDVg4Cd4OqScSunw/p1frj3sTSkNtkEDRQcGvuEu0MDQQdHBVwMGfoKnQ8qp7x1u338YTp27URnzy8+Js1dqh73pe4NdoIGiAwPfcBdoYOig6OCrAQM/wdMh5dTXDk2H/YVr9+IPrehrg12igaIDA99wF2hg6KDo4KsBAz/B0yHl1LcOuxz2pm8N2kADRQcGvuEu0MDQQdHBVwMGfoKnQ8qpLx3aGPamLw3aRANFBwa+4S7QwNBB0cFXAwZ+gqdDysl7hzaHvfHeoAs0UHRg4BvuAg0MHRQdfDXobuDPJmE0GiWecZjO4w/Iy9Mh5eS1w90Hj1of9sZrgy7RQNGBgW+4CzQwdFB08NWgu4FfaxYmMvAns/gzsvN0SDl56yDD/sz5m+HYyYuVQW/P8dOXww+u/CL+0I15a5ADDRQdGPiGu0ADQwdFB18Nsg782URevZ8Ef/Pe1yHl5KVD02F//tKd+EO35qVBTjRQdGDgG+4CDQwdFB18Ncg38OfTMB6NgsMX7xc8HVJOuTvkHPYmdwMPaKDowMA33AUaGDooOvhqkG3gL169H0+Ds7feH/B0SDnl6uBh2JtcDTyhgaIDA99wF2hg6KDo4KtBnoG//+r92NufrF3i6ZBy6rqDp2Fvum7gEQ0UHRj4hrtAA0MHRQdfDbIM/Pl07Pa990YOiae75/rPPgin/+xa+Mo3flwZ9PZ87Zs/CX/66juVj+Xh4enu2dvbWwx8+d/483h4eHiG/niRYeDPw3Ts82/OWebpkHJqu8PHn34RXnj1VnjimTcqg96eJ597M7z0ervfj1XabtAHNFB04BV8w12ggaGDooOvBq0MfH2FfunvuT/0Xnv9qzE9vz1HeDqknNrqsM6w/+zzL+MP71RbDfqEBooODHzDXaCBoYOig68GrQz8lRbvv/f3H7aKeTqknHbdoU/D3uy6QR/RQNGBgW+4CzQwdFB08NWg+4G/+C/a+n7/vfB0SDntqkMfh73ZVYM+o4GiAwPfcBdoYOig6OCrQecDvw9/wFZ4OqSctu3Q52Fvtm1QAhooOjDwDXeBBoYOig6+GnQ+8PvC0yHltGkHGet//MMPej3szaYNSkIDRQcGvuEu0MDQQdHBVwMGfoKnQ8pp3Q4y1mW0y3iPB709MvrlVX15db8P1m1QIhooOjDwDXeBBoYOig6+GjDwEzwdUk5NO5Q47E3TBiWjgaIDA99wF2hg6KDo4KsBAz/B0yHldFSHkoe9OarBENBA0YGBb7gLNDB0UHTw1YCBn+DpkHJKdRjCsDepBkNCA0UHBr7hLtDA0EHRwVcDBn6Cp0PKKe4wpGFv4gZDRANFBwa+4S7QwNBB0cFXAwZ+gqdDymm5w5/P/nlQw95wF2hg6MDAN9wFGhg6KDr4asDAT/B0SDlJh/OX7oTjpy9XBr09x05eDGfO3wx3HzyKP7wI3AUaGDow8A13gQaGDooOvhow8BM8HVIuMuy/9s2fVAb9UIa94S7QwNCBgW+4CzQwdFB08NWAgZ/g6ZC6NvRX7GNDvguGBooODHzDXaCBoYOig68GDPwET4fUFYZ9vSHehRgNFB0Y+Ia7QANDB0UHXw0Y+AmeDqltDPvVhnQXUmig6MDAN9wFGhg6KDr4asDAT/B0SG25cO1e+I1v/21l0C8P+2dfvjrYYW+GcBeOQgNFBwa+4S7QwNBB0cFXAwZ+gqdD2jUZ9ifOXqkM+uXn1Lkb4fb9h0V3aIoGNDB0YOAb7gINDB0UHXw1YOAneDqkXVln2JsSO6yLBjQwdGDgG+4CDQwdFB18NWDgJ3g6pG1tMuxNSR02RQMaGDow8A13gQaGDooOvhow8BM8HdKmthn2poQO26IBDQwdGPiGu0ADQwdFB18NGPgJng5pXbsY9qbPHXaFBjQwdGDgG+4CDQwdFB18NWDgJ3g6pKYuv/dR+K3v/LQy5pefk99/p9GwN33ssGs0oIGhAwPfcBdoYOig6OCrAQM/wdMhHUWG/VPPX62M+eXn6RffDu/e/iT+0CP1qUNbaEADQwcGvuEu0MDQQdHBVwMGfoKnQ0ppc9ibPnRoGw1oYOjAwDfcBRoYOig6+GrQ+cCfT8dhNBrtP+MwncdfwgdPhxTrYtgbzx26QgMaGDow8A13gQaGDooOvhp0OvBnk2jUzyaLoT+ZRV/QAU+HZLoc9sZjh67RgAaGDgx8w12ggaGDooOvBt0N/Pk0jEejMI5esl+8oj+eBm8v5Hs6pBzD3njqkAsNaGDowMA33AUaGDooOvhq0N3AX7xaX/OWnNSnZ+bhkGSw/84f/UNlzC8/8vltDHvjoUNuNKCBoQMD33AXaGDooOjgqwEDPyHnIclgl1fk4zG//Mgr+vLKfttydvCCBjQwdGDgG+4CDQwdFB18Nehu4O+/RSd+v73+oVsGvvA07E2ODt7QgAaGDgx8w12ggaGDooOvBt0N/IM/ZDsJBxt/f/R7HfhdPX/9dzfDb7/wVmXMLz+/+YeXww/efK/ysTw8PDxdPnt7e4uBL/8bfx4PDw/P0B8vOh34Qke+PZMwW4x8nwO/bR5fsY910cE7GtDA0IFX8A13gQaGDooOvhq0MvAP/133o9V/S87iPfhLr+o70eYh9WHYmzY79AUNaGDowMA33AUaGDooOvhq0MrArzcLk5q/JnPxin78xnwH2jik2/cfhlPnblTG/PLzW9/5qYthb9ro0Dc0oIGhAwPfcBdoYOig6OCrQYcDv+Y9+E7/Bh2xy0NqMuxPnL0SLly7F39odrvs0Fc0oIGhAwPfcBdoYOig6OCrQacDX1Tegx9/ASd2cUh9HvZmFx36jgY0MHRg4BvuAg0MHRQdfDXofOD3xTaHVMKwN9t0KAUNaGDowMA33AUaGDooOvhqwMBP2OSQShr2ZpMOpaEBDQwdGPiGu0ADQwdFB18NGPgJ6xxSicPerNOhVDSggaEDA99wF2hg6KDo4KsBAz+hySHdffAonDl/Mxw7ebEy6O05fvpyL4e9adKhdDSggaEDA99wF2hg6KDo4KsBAz9h1SE1HfbnL92JP7R3VnUYChrQwNCBgW+4CzQwdFB08NWAgZ9Qd0hDGvamrsPQ0IAGhg4MfMNdoIGhg6KDrwYM/ITlQxrisDeeLmsuNKCBoQMD33AXaGDooOjgqwEDP0EOacjD3ni6rLnQgAaGDgx8w12ggaGDooOvBgz8GjLsn3356qCHvfF0WXOhAQ0MHRj4hrtAA0MHRQdfDRj4NT77/Mvw1VOzyqiX58nn3gx/Pvvn+EOK5emy5kIDGhg6MPANd4EGhg6KDr4aMPATvvuX/1gZ9i+9/uFi/A+Jp8uaCw1oYOjAwDfcBRoYOig6+GrAwE94/9Z8MeqHOuyNp8uaCw1oYOjAwDfcBRoYOig6+GrAwE+QQ3r39ieDHfbG02XNhQY0MHRg4BvuAg0MHRQdfDVg4Cd4OqSc6EADQQNFBwa+4S7QwNBB0cFXAwZ+gqdDyokONBA0UHRg4BvuAg0MHRQdfDVg4Cd4OqSc6EADQQNFBwa+4S7QwNBB0cFXAwZ+gqdDyokONBA0UHRg4BvuAg0MHRQdfDVg4Cd4OqSc6EADQQNFBwa+4S7QwNBB0cFXAwZ+gqdDyokONBA0UHRg4BvuAg0MHRQdfDVg4Cd4OqSc6EADQQNFBwa+4S7QwNBB0cFXAwZ+gqdDyokONBA0UHRg4BvuAg0MHRQdfDXINvBnk1EYT+fxJx/S5Mu0xdMh5UQHGggaKDow8A13gQaGDooOvhrkGfizSRiNjhjvTb5MizwdUk50oIGggaIDA99wF2hg6KDo4KtB5wN/Ph0vhvuq8d7ky7TN0yHlRAcaCBooOjDwDXeBBoYOig6+GnQ78Bevyo/DdD4Lk9R4b/JlOuDpkHKiAw0EDRQdGPiGu0ADQwdFB18Nuh34B5qM9yZfpj2eDiknOtBA0EDRgYFvuAs0MHRQdPDVgIGf4OmQcqIDDQQNFB0Y+Ia7QANDB0UHXw0Y+Am3b99eHBQPDw8Pz+PntddeC3t7e4v/jT+Ph4eHZ8iPbEcvGPgAAABAQVoZ+Mt/C87iGU/D4ZneZLw3+TIAAAAAlrUy8I/WZLw3+TIAAAAAljHwAQAAgIIw8AEAAICCZBr4AAAAANrAwAcAAAAKwsAHAAAACsLABwAAAArCwAcAAAAKwsBvaDZZ8Tf6zCZL/2GvcUh9sT6TH//yf7xsMou/xADMp2G8/B9wG2SEffsthplgHqbjwz8fkr82oCCc+yGD/jWAfx4YtsFj3nYiA7+J/YOpPbjF5y0dVvz/F0B/Ak/Cwc/b/R6D+olc+TEP+69xtV/UB3UHFmzkVX8+DPUuDAPnHhvurwH888CwDZas+vUg3oXx/98SBv4R5tPxwe+6qgenv+jHn7649MXccP2FK/7hlPVjPEr9OevdWPrFbSiWXokYzBUwi1ftqr8wD/YuDAXnftiQfw3gnwf72AbG605k4K9y8LusxO/OE/+Ksqif6IkfYxeX043EP9yHSX+xmkzr78VgLX6tKOTnPJob5LkP/NcA/nmg2AbK8U5k4Dey6uBqfqIX9ov+4P813MF56j1I/069fItflMbTME/8ojVUi58j0iX+DBRtiOc++F8D+OfBgcFvg0P87UQGfiOJg0u9jyr16T22/K+gSvuxHengX0cv/bj3/+FWuRNFW/pXskP9h3udQf9DbcAGee78GsA/Dw4b9DY4xN9OZOA34u/gulPzh8uG9ovZ/i/o8Y+3i3/F5smhf/U61H+4x+wf9oMPMTADPXd+DeCfB4+xDQ7ztxMZ+I0kDi7jv3rpTOIX8UH9YpZ6pa6Dn6BuxHc9cS+G5OCVqyFHGKDBnju/Bij+eaAS5z+obXCIv53IwF/+BdueynsqVx1cORe8tkPqF63Up/dcbYPEOQ+pwSz+tENPeQ1EXQf7YdpfEVj5NQFFG/K5V34+DODXgFoD++dBUurHm/r04vnbiQz8RhIHl/GvP+pM4nJ28btPP+rPv4ufoG6l7sUA2NCJ7wPKxrlHBvtrAP88WEid/6C2wbL6e5FzJzLwG0kdXM3vVuP/vwCVPym//xO7tkep4n8tO8QGy1K/uJdu6Oc+VJx71VB/DRD882CBbbDM305k4Dey4uCWXtkp+V9V2r+atifVomj7v6gPuoEZ6D/cV79NYYivWg0D515joL8GHOCfBwtsA+NvJzLwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICCMPABAACAgjDwAQAAgIIw8AEAAICC/H8nrpu+tM5ztQAAAABJRU5ErkJggg==</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They are reflected across the x-axis.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reflection across the x-axis changes output signs, not inverse relationships.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They are reflected across the y-axis.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reflection across the y-axis changes input signs, not inverse relationships.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[They are reflected across the line y = x.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Inverses swap x and y coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They are vertical shifts of each other.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Inverse functions are not identified by a vertical shift.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q05</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = x / 5</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = 5x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiplying by 5 undoes dividing by 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x / 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the original function.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x + 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Addition does not undo division by 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x - 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not undo division by 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q06</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = 2x + 1</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = (x - 1) / 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Subtract 1, then divide by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = (x + 1) / 2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the wrong operation to undo +1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x / 2 + 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves the +1 instead of undoing it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = 2x - 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not undo the multiplication by 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q07</p><p><strong>MLA Standard:</strong> MLA.PC.FA.12</p><p>Which restriction makes f(x) = x&#178; one-to-one</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This describes output values, not a domain restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Over all real numbers, negative and positive inputs can share the same output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x is not 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Removing only 0 does not prevent pairs such as -2 and 2 from sharing an output.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Restricting to nonnegative inputs makes x&#178; pass the horizontal line test.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q08</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>If f(6) = 11, what must be true about f</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(11) = 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The inverse statement means f maps 11 to 6.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(6) = 11]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the inverse relationship incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(11) = 11]]></text>
+      <feedback format="html">
+        <text><![CDATA[The output should be 6, not 11.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(6) = -11]]></text>
+      <feedback format="html">
+        <text><![CDATA[There is no sign change implied by inverse notation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q09</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is f(f(x)) for inverse functions f and f</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would describe additive opposites, not inverse functions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[That would describe reciprocal products, not function inverses.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The inverse should undo f, leaving x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A function composed with its inverse returns the original input.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q10</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = x + 12</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = 12x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplication does not undo addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = x - 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Subtracting 12 undoes adding 12.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x / 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division does not undo addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x + 12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the original function.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q11</p><p><strong>MLA Standard:</strong> MLA.PC.FA.12</p><p>Which test helps determine whether a graph has an inverse function without restricting the domain</p><p><img src="@@PLUGINFILE@@/PC_U01_L05_Q11_visual.png" alt="Precalculus support visual reinforces the graph, diagram, coordinate representation, or table named in the question." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="PC_U01_L05_Q11_visual.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Distance formula test]]></text>
+      <feedback format="html">
+        <text><![CDATA[Distance formula does not determine invertibility.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Vertical line test only]]></text>
+      <feedback format="html">
+        <text><![CDATA[The vertical line test checks whether a relation is a function, not whether it is one-to-one.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Horizontal line test]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Passing the horizontal line test shows the function is one-to-one.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Slope-intercept test]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not a standard test for invertibility.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q12</p><p><strong>MLA Standard:</strong> MLA.PC.FA.13</p><p>A function converts Celsius to Fahrenheit. What does the inverse convert</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Fahrenheit to Celsius]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The inverse reverses Celsius-to-Fahrenheit conversion.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Celsius to Celsius]]></text>
+      <feedback format="html">
+        <text><![CDATA[The inverse reverses the original conversion.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Fahrenheit to Fahrenheit]]></text>
+      <feedback format="html">
+        <text><![CDATA[The inverse does not keep the same input and output unit.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Celsius to Kelvin]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a different temperature conversion.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q13</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>Which ordered pair must appear on f if (2, 9) is on f</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, -9)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes the sign instead of switching coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(9, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Inverses switch input and output coordinates.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(-2, 9)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This changes the sign of the input.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(2, 9)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the original ordered pair rather than reversing it.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q14</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = (x - 3) / 4</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = (x + 3) / 4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not reverse both operations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = 4x + 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Multiply by 4, then add 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x / 4 - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the same operation order.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = 4x - 3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not undo the subtraction correctly after multiplying.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q15</p><p><strong>MLA Standard:</strong> MLA.PC.FA.12</p><p>Why is f(x) = |x| not one-to-one on all real numbers</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It is always decreasing.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The graph decreases then increases, so this description is inaccurate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has no y-intercept.]]></text>
+      <feedback format="html">
+        <text><![CDATA[It has a y-intercept at 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has no domain.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Its domain is all real numbers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Opposite inputs can produce the same output.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. For example, f(-3) and f(3) both equal 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q16</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>Which equation shows correct inverse verification for f(x) = x + 2 and g(x) = x - 2</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) + g(x) = x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Adding does not verify inverse relationships.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(g(x)) = x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. f(g(x)) = (x - 2) + 2 = x.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) - g(x) = x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not show the functions undo each other.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x)g(x) = x]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiplication is not inverse verification.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q17</p><p><strong>MLA Standard:</strong> MLA.PC.FA.13</p><p>If a function maps hours worked to pay earned, what does the inverse map</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[hours worked to hours worked]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not reverse the relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[pay earned to hours worked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. The inverse reverses the original input-output relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[pay earned to pay earned]]></text>
+      <feedback format="html">
+        <text><![CDATA[This keeps the output unit unchanged.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[hours worked to dollars squared]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not represent the inverse context.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q18</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What is the inverse of f(x) = 5x - 10</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = (x - 10) / 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This repeats the subtraction instead of undoing it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = x / 5 - 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not reverse the order of operations.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[f(x) = (x + 10) / 5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Add 10, then divide by 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(x) = 5x + 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not undo multiplication by 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q19</p><p><strong>MLA Standard:</strong> MLA.PC.FA.12</p><p>Which domain restriction can make f(x) = (x - 1) invertible</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y &gt;= 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is a range statement, not a domain restriction.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[all real numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[The full parabola is not one-to-one.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x is not 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Removing the vertex does not remove all repeated outputs.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[x &gt;= 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. One side of the parabola is one-to-one.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q20</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>If f and g are inverses, what is g(f(4))</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Inverse composition returns the original input, not zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses inverse functions with reciprocal products.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. g(f(4)) returns the original input 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[f(4)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The outer inverse should undo f.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q21</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>Which first step best supports a solution for Inverse Functions and Domain Restrictions</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Skip directly to an answer without naming the given information.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Skipping the setup often leads to using the wrong method.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Identify the given representation, quantities, and restrictions before calculating.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. A strong Precalculus solution begins by identifying the representation and restrictions so the method matches the task.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use any formula from a different unit.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A different unit may use different assumptions or tools.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Base the answer only on how a graph or expression appears.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Appearance can be misleading unless it is supported by values or relationships.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q22</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What evidence should a student use when explaining Inverse Functions and Domain Restrictions</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Use labeled values, equations, graphs, or tables from the problem as evidence.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Evidence must come from the given mathematical representation, not from a guess or unrelated rule.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignore labels and units because they are not part of the calculation.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Labels and units help determine what the quantities mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use a future topic even when the current lesson gives enough information.]]></text>
+      <feedback format="html">
+        <text><![CDATA[The current lesson evidence should be used before reaching for later topics.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use the longest answer choice as evidence.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Answer length is not mathematical evidence.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q23</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>Which response best shows mastery of Inverse Functions and Domain Restrictions</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Change the given values to make the computation easier.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Changing given values changes the problem.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Give only a final number with no reasoning.]]></text>
+      <feedback format="html">
+        <text><![CDATA[A final number alone does not show how the relationship was used.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Copy vocabulary without applying it to the problem.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Vocabulary must be connected to the actual representation or calculation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Show the steps, connect them to the lesson relationship, and interpret the result.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Mastery requires both accurate work and an interpretation connected to the lesson relationship.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q24</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>What should be checked before finalizing work involving Inverse Functions and Domain Restrictions</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Check only that the answer choice is short.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Length does not show correctness.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Remove restrictions because they make the problem harder.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Restrictions are part of the mathematical meaning.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Assume every representation has the same domain.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Different representations may show different restrictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Check that notation, units, domain restrictions, and the final interpretation match the task.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. These checks help confirm that the answer is mathematically valid for the stated task.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>PC_U01_L05_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> PC_U01_L05_Q25</p><p><strong>MLA Standard:</strong> MLA.PC.FA.11</p><p>Which error should be avoided when working with Inverse Functions and Domain Restrictions</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Writing the given information first.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Writing givens first is a helpful setup, not the error.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Explaining why a theorem, identity, or model applies.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Explaining why a method applies strengthens the solution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Using an unrelated formula or visual pattern without checking the lesson conditions.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct. Appearance alone is not reliable; the method must match the conditions in the lesson.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Checking the final answer in the context of the problem.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Checking in context is a good habit, not an error.\]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

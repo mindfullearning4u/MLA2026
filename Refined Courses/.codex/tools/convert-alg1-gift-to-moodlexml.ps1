@@ -341,6 +341,29 @@ function Get-StatisticsVisualKind {
     return 'stats'
 }
 
+function Get-PrecalculusVisualKind {
+    param([string]$Stem)
+    $text = (ConvertFrom-GiftVisibleText $Stem).ToLower()
+    if ($text -notmatch 'graph|diagram|unit circle|radian|coterminal|reference angle|sin|cos|tan|trig|period|amplitude|phase|midline|periodic|identity|law of sines|law of cosines|circle|parabola|ellipse|hyperbola|conic|focus|directrix|asymptote|complex plane|polar|parametric|vector|magnitude|direction|sequence|series|limit|difference quotient|table') {
+        return $null
+    }
+    if ($text -match 'unit circle|radian|coterminal|reference angle|exact value') { return 'unitcircle' }
+    if ($text -match 'sin|cos|tan|trig|period|amplitude|phase|midline|periodic') { return 'triggraph' }
+    if ($text -match 'law of sines|law of cosines|triangle trigonometry') { return 'trigtriangle' }
+    if ($text -match 'circle.*conic|center.*radius|radius.*center') { return 'coniccircle' }
+    if ($text -match 'parabola|focus|directrix') { return 'conicparabola' }
+    if ($text -match 'ellipse|major axis|minor axis|foci') { return 'ellipse' }
+    if ($text -match 'hyperbola|transverse axis|conjugate axis|asymptote') { return 'hyperbola' }
+    if ($text -match 'complex plane|complex number|real axis|imaginary axis') { return 'complexplane' }
+    if ($text -match 'polar') { return 'polar' }
+    if ($text -match 'parametric') { return 'parametric' }
+    if ($text -match 'vector|magnitude|direction|component') { return 'vector' }
+    if ($text -match 'sequence|series|arithmetic|geometric|sigma') { return 'sequence' }
+    if ($text -match 'limit|difference quotient|average rate|approaches') { return 'limit' }
+    if ($text -match 'table') { return 'precalctable' }
+    return 'precalcgraph'
+}
+
 function Get-VisualDecision {
     param($Question)
     $stem = $Question.Stem
@@ -365,9 +388,18 @@ function Get-VisualDecision {
         return [pscustomobject]@{ Kind = 'answer-table'; Reason = 'Table text converted into Moodle HTML tables.'; Points = $null; Linear = $null; Quadratic = $null }
     }
 
+    $precalculusKind = Get-PrecalculusVisualKind $stem
+    if ($precalculusKind -and ($Question.QuestionId -match '^PC_|PRECALC' -or $Question.Standard -match '^MLA\.PC\.')) {
+        return [pscustomobject]@{ Kind = 'precalculus'; Reason = 'Precalculus support visual reinforces the graph, diagram, coordinate representation, or table named in the question.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $null; PrecalculusKind = $precalculusKind }
+    }
+
     $statisticsKind = Get-StatisticsVisualKind $stem
     if ($statisticsKind) {
         return [pscustomobject]@{ Kind = 'statistics'; Reason = 'Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $statisticsKind }
+    }
+
+    if ($precalculusKind) {
+        return [pscustomobject]@{ Kind = 'precalculus'; Reason = 'Precalculus support visual reinforces the graph, diagram, coordinate representation, or table named in the question.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $null; PrecalculusKind = $precalculusKind }
     }
 
     $geometryKind = Get-GeometryVisualKind $stem
@@ -965,6 +997,241 @@ function New-StatisticsImage {
     return $true
 }
 
+function New-PrecalculusImage {
+    param(
+        [string]$OutPath,
+        [string]$Kind,
+        [string]$Title = "Precalculus Support Visual"
+    )
+
+    $width = 760
+    $height = 470
+    $bmp = [System.Drawing.Bitmap]::new($width, $height)
+    $g = [System.Drawing.Graphics]::FromImage($bmp)
+    $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::AntiAlias
+    $g.Clear([System.Drawing.Color]::White)
+
+    $axisPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(60, 60, 60), 2)
+    $gridPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(224, 224, 224), 1)
+    $bluePen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(31, 99, 177), 3)
+    $redPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(204, 45, 45), 3)
+    $greenPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(38, 130, 82), 3)
+    $dashPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(130, 130, 130), 2)
+    $dashPen.DashStyle = [System.Drawing.Drawing2D.DashStyle]::Dash
+    $fillBlue = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(223, 237, 252))
+    $fillGold = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(255, 236, 184))
+    $fillGreen = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(221, 244, 231))
+    $font = [System.Drawing.Font]::new("Arial", 12)
+    $labelFont = [System.Drawing.Font]::new("Arial", 10)
+    $titleFont = [System.Drawing.Font]::new("Arial", 18, [System.Drawing.FontStyle]::Bold)
+
+    $g.DrawString($Title, $titleFont, [System.Drawing.Brushes]::Black, 24, 18)
+
+    function DrawGrid([int]$left, [int]$top, [int]$right, [int]$bottom) {
+        for ($x = $left; $x -le $right; $x += 45) { $g.DrawLine($gridPen, $x, $top, $x, $bottom) }
+        for ($y = $top; $y -le $bottom; $y += 45) { $g.DrawLine($gridPen, $left, $y, $right, $y) }
+        $g.DrawLine($axisPen, $left, [int](($top + $bottom) / 2), $right, [int](($top + $bottom) / 2))
+        $g.DrawLine($axisPen, [int](($left + $right) / 2), $top, [int](($left + $right) / 2), $bottom)
+    }
+
+    switch ($Kind) {
+        "unitcircle" {
+            $cx = 380; $cy = 245; $r = 145
+            $g.DrawEllipse($bluePen, $cx - $r, $cy - $r, 2 * $r, 2 * $r)
+            $g.DrawLine($axisPen, $cx - 190, $cy, $cx + 190, $cy)
+            $g.DrawLine($axisPen, $cx, $cy - 190, $cx, $cy + 190)
+            $angles = @(0,30,45,60,90,120,135,150,180,210,225,240,270,300,315,330)
+            foreach ($a in $angles) {
+                $rad = $a * [Math]::PI / 180
+                $x = [int]($cx + $r * [Math]::Cos($rad))
+                $y = [int]($cy - $r * [Math]::Sin($rad))
+                $g.FillEllipse([System.Drawing.Brushes]::Crimson, $x - 4, $y - 4, 8, 8)
+            }
+            $g.DrawLine($redPen, $cx, $cy, [int]($cx + $r * 0.707), [int]($cy - $r * 0.707))
+            $g.DrawString("radian angle", $font, [System.Drawing.Brushes]::Black, 442, 145)
+            $g.DrawString("(cos theta, sin theta)", $font, [System.Drawing.Brushes]::Black, 435, 210)
+        }
+        "triggraph" {
+            DrawGrid 70 95 690 390
+            $pts = @()
+            for ($i = 0; $i -le 360; $i += 3) {
+                $x = 70 + ($i / 360.0) * 620
+                $y = 242 - [Math]::Sin($i * [Math]::PI / 90.0) * 95
+                $pts += [System.Drawing.Point]::new([int]$x, [int]$y)
+            }
+            $g.DrawLines($bluePen, $pts)
+            $g.DrawLine($dashPen, 70, 242, 690, 242)
+            $g.DrawString("amplitude", $font, [System.Drawing.Brushes]::Black, 95, 135)
+            $g.DrawString("period", $font, [System.Drawing.Brushes]::Black, 355, 398)
+            $g.DrawString("midline", $font, [System.Drawing.Brushes]::Black, 600, 248)
+        }
+        "trigtriangle" {
+            $points = @([System.Drawing.Point]::new(180, 340), [System.Drawing.Point]::new(560, 340), [System.Drawing.Point]::new(420, 140))
+            $g.DrawPolygon($bluePen, $points)
+            $g.DrawString("a", $font, [System.Drawing.Brushes]::Black, 485, 245)
+            $g.DrawString("b", $font, [System.Drawing.Brushes]::Black, 285, 230)
+            $g.DrawString("c", $font, [System.Drawing.Brushes]::Black, 355, 355)
+            $g.DrawString("A", $font, [System.Drawing.Brushes]::Black, 158, 343)
+            $g.DrawString("B", $font, [System.Drawing.Brushes]::Black, 565, 343)
+            $g.DrawString("C", $font, [System.Drawing.Brushes]::Black, 420, 115)
+            $g.DrawString("Use sides and included/opposite angles.", $font, [System.Drawing.Brushes]::Black, 220, 392)
+        }
+        "coniccircle" {
+            DrawGrid 105 95 655 395
+            $g.DrawEllipse($bluePen, 265, 130, 230, 230)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 375, 240, 10, 10)
+            $g.DrawLine($redPen, 380, 245, 495, 245)
+            $g.DrawString("center", $font, [System.Drawing.Brushes]::Black, 390, 252)
+            $g.DrawString("radius", $font, [System.Drawing.Brushes]::Black, 430, 220)
+        }
+        "conicparabola" {
+            DrawGrid 105 95 655 395
+            $pts = @()
+            for ($x = -120; $x -le 120; $x += 4) {
+                $px = 380 + $x
+                $py = 315 - (($x * $x) / 120)
+                $pts += [System.Drawing.Point]::new([int]$px, [int]$py)
+            }
+            $g.DrawLines($bluePen, $pts)
+            $g.DrawLine($dashPen, 205, 345, 555, 345)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 374, 248, 12, 12)
+            $g.DrawString("focus", $font, [System.Drawing.Brushes]::Black, 392, 245)
+            $g.DrawString("directrix", $font, [System.Drawing.Brushes]::Black, 565, 338)
+        }
+        "ellipse" {
+            DrawGrid 105 95 655 395
+            $g.DrawEllipse($bluePen, 220, 165, 320, 150)
+            $g.DrawLine($redPen, 220, 240, 540, 240)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 295, 235, 10, 10)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 455, 235, 10, 10)
+            $g.DrawString("major axis", $font, [System.Drawing.Brushes]::Black, 340, 250)
+            $g.DrawString("foci", $font, [System.Drawing.Brushes]::Black, 470, 215)
+        }
+        "hyperbola" {
+            DrawGrid 105 95 655 395
+            $g.DrawLine($dashPen, 215, 360, 545, 120)
+            $g.DrawLine($dashPen, 215, 120, 545, 360)
+            $g.DrawArc($bluePen, 245, 160, 210, 160, 115, 130)
+            $g.DrawArc($bluePen, 305, 160, 210, 160, -65, 130)
+            $g.DrawString("asymptotes", $font, [System.Drawing.Brushes]::Black, 500, 115)
+            $g.DrawString("branches", $font, [System.Drawing.Brushes]::Black, 335, 335)
+        }
+        "complexplane" {
+            DrawGrid 105 95 655 395
+            $g.DrawString("real", $font, [System.Drawing.Brushes]::Black, 612, 246)
+            $g.DrawString("imaginary", $font, [System.Drawing.Brushes]::Black, 392, 102)
+            $g.DrawLine($redPen, 380, 245, 500, 155)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 494, 149, 12, 12)
+            $g.DrawString("a + bi", $font, [System.Drawing.Brushes]::Black, 510, 145)
+        }
+        "polar" {
+            $cx = 380; $cy = 245
+            for ($r = 45; $r -le 180; $r += 45) { $g.DrawEllipse($gridPen, $cx - $r, $cy - $r, 2 * $r, 2 * $r) }
+            for ($a = 0; $a -lt 180; $a += 30) {
+                $rad = $a * [Math]::PI / 180
+                $g.DrawLine($gridPen, [int]($cx - 190 * [Math]::Cos($rad)), [int]($cy - 190 * [Math]::Sin($rad)), [int]($cx + 190 * [Math]::Cos($rad)), [int]($cy + 190 * [Math]::Sin($rad)))
+            }
+            $pts = @()
+            for ($i = 0; $i -le 360; $i += 4) {
+                $t = $i * [Math]::PI / 180
+                $r = 90 * (1 + [Math]::Cos($t))
+                $pts += [System.Drawing.Point]::new([int]($cx + $r * [Math]::Cos($t)), [int]($cy - $r * [Math]::Sin($t)))
+            }
+            $g.DrawLines($bluePen, $pts)
+            $g.DrawString("polar grid", $font, [System.Drawing.Brushes]::Black, 75, 390)
+        }
+        "parametric" {
+            DrawGrid 105 95 655 395
+            $pts = @()
+            for ($i = 0; $i -le 240; $i += 4) {
+                $t = $i / 28.0
+                $x = 160 + $i * 1.9
+                $y = 245 - 95 * [Math]::Sin($t)
+                $pts += [System.Drawing.Point]::new([int]$x, [int]$y)
+            }
+            $g.DrawLines($bluePen, $pts)
+            $g.DrawString("x(t)", $font, [System.Drawing.Brushes]::Black, 570, 250)
+            $g.DrawString("y(t)", $font, [System.Drawing.Brushes]::Black, 390, 118)
+            $g.DrawString("motion over time", $font, [System.Drawing.Brushes]::Black, 300, 398)
+        }
+        "vector" {
+            DrawGrid 105 95 655 395
+            $g.DrawLine($redPen, 380, 245, 560, 145)
+            $g.DrawLine($redPen, 560, 145, 535, 147)
+            $g.DrawLine($redPen, 560, 145, 548, 168)
+            $g.DrawLine($dashPen, 380, 245, 560, 245)
+            $g.DrawLine($dashPen, 560, 245, 560, 145)
+            $g.DrawString("horizontal component", $font, [System.Drawing.Brushes]::Black, 400, 255)
+            $g.DrawString("vertical component", $font, [System.Drawing.Brushes]::Black, 565, 185)
+            $g.DrawString("magnitude and direction", $font, [System.Drawing.Brushes]::Black, 415, 130)
+        }
+        "sequence" {
+            $x0 = 85; $y0 = 130; $cw = 98; $ch = 55
+            $headers = @("n","1","2","3","4","5")
+            $values = @("a_n","3","6","12","24","48")
+            for ($c = 0; $c -lt 6; $c++) {
+                $g.FillRectangle($fillBlue, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawString($headers[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 45 + $c * $cw, $y0 + 18)
+                $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0 + $ch, $cw, $ch)
+                $g.DrawString($values[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 35 + $c * $cw, $y0 + $ch + 18)
+            }
+            $g.DrawString("Look for common difference, common ratio, or summation pattern.", $font, [System.Drawing.Brushes]::Black, 130, 300)
+        }
+        "limit" {
+            DrawGrid 105 95 655 395
+            $pts1 = @()
+            for ($i = -160; $i -le -12; $i += 4) {
+                $x = 380 + $i
+                $y = 245 - (12000 / ($i - 8))
+                $pts1 += [System.Drawing.Point]::new([int]$x, [int]$y)
+            }
+            $pts2 = @()
+            for ($i = 12; $i -le 160; $i += 4) {
+                $x = 380 + $i
+                $y = 245 - (12000 / ($i + 8))
+                $pts2 += [System.Drawing.Point]::new([int]$x, [int]$y)
+            }
+            if ($pts1.Count -gt 1) { $g.DrawLines($bluePen, $pts1) }
+            if ($pts2.Count -gt 1) { $g.DrawLines($bluePen, $pts2) }
+            $g.DrawLine($dashPen, 380, 95, 380, 395)
+            $g.DrawString("approaches", $font, [System.Drawing.Brushes]::Black, 470, 165)
+            $g.DrawString("check left and right behavior", $font, [System.Drawing.Brushes]::Black, 245, 398)
+        }
+        "precalctable" {
+            $x0 = 95; $y0 = 120; $cw = 115; $ch = 55
+            $headers = @("x", "-2", "-1", "0", "1")
+            $values = @("f(x)", "4", "1", "0", "1")
+            for ($c = 0; $c -lt 5; $c++) {
+                $g.FillRectangle($fillGreen, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawString($headers[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 55 + $c * $cw, $y0 + 18)
+                $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0 + $ch, $cw, $ch)
+                $g.DrawString($values[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 50 + $c * $cw, $y0 + $ch + 18)
+            }
+            $g.DrawString("Use the table to compare inputs, outputs, and pattern.", $font, [System.Drawing.Brushes]::Black, 165, 285)
+        }
+        default {
+            DrawGrid 105 95 655 395
+            $pts = @()
+            for ($i = -180; $i -le 180; $i += 4) {
+                $x = 380 + $i
+                $y = 245 - 0.004 * $i * $i + 70
+                $pts += [System.Drawing.Point]::new([int]$x, [int]$y)
+            }
+            $g.DrawLines($bluePen, $pts)
+            $g.DrawString("identify key features and representation", $font, [System.Drawing.Brushes]::Black, 235, 398)
+        }
+    }
+
+    $bmp.Save($OutPath, [System.Drawing.Imaging.ImageFormat]::Png)
+    $axisPen.Dispose(); $gridPen.Dispose(); $bluePen.Dispose(); $redPen.Dispose(); $greenPen.Dispose(); $dashPen.Dispose()
+    $fillBlue.Dispose(); $fillGold.Dispose(); $fillGreen.Dispose()
+    $font.Dispose(); $labelFont.Dispose(); $titleFont.Dispose()
+    $g.Dispose(); $bmp.Dispose()
+    return $true
+}
+
 function New-MoodleXml {
     param(
         [string]$SourceGift,
@@ -1062,6 +1329,16 @@ function New-MoodleXml {
             $imgName = (Get-SafeFilePart $question.QuestionId) + "_visual.png"
             $imgPath = Join-Path $AssetDir $imgName
             $created = New-StatisticsImage -OutPath $imgPath -Kind $decision.StatisticsKind -Title "Statistics Support Visual"
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
+        elseif ($decision.Kind -eq 'precalculus') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_visual.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-PrecalculusImage -OutPath $imgPath -Kind $decision.PrecalculusKind -Title "Precalculus Support Visual"
             if ($created) {
                 $visualCount++
                 $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
