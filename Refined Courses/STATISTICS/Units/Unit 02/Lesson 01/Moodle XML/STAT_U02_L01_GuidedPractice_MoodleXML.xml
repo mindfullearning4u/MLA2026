@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 02/Lesson 01/STAT_U02_L01_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>What is the mean of 4, 6, 8, 10?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the average of all values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[28]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sum before dividing by the number of values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sum is 28, and 28 divided by 4 is 7.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>What is the median of 3, 5, 7, 9, 21?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is below the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is above the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[The values are already ordered, and 7 is the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[21]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the largest value, not the median.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>A data set has an outlier much larger than the other values. Which measure of center is usually pulled upward the most?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses every value, so a large outlier can pull it upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is resistant because it depends on position.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mode depends on repetition, not the size of the outlier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is a measure of variability, not center.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For 2, 4, 4, 6, 9, what is the mode?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The value 4 occurs most often.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[2 occurs only once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[6 occurs only once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[9 occurs only once.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>A typical home price is being reported for a neighborhood with one extremely expensive mansion. Which measure of center is usually better?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mansion can pull the mean upward and make it less typical.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is less affected by an extremely high outlier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[There may be no repeated home price.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range describes spread, not a typical price.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

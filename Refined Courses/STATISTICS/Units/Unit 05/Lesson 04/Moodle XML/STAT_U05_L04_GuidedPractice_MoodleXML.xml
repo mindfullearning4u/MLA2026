@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 05/Lesson 04/STAT_U05_L04_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L04_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L04_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.3</p><p>What does repeated simulation help measure?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Variation in estimates across samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated samples show how estimates vary.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact answer with no uncertainty]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation does not remove uncertainty.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest possible value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation examines a distribution, not only the largest value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of variables in a table]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variable count is unrelated to sampling variation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L04_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L04_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.4</p><p>An observed result falls near the center of simulated results. What does that suggest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The observed result is consistent with the model]]></text>
+      <feedback format="html">
+        <text><![CDATA[A central result is typical under the model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[A typical result does not make the model impossible.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The sample was not collected]]></text>
+      <feedback format="html">
+        <text><![CDATA[The question assumes an observed result exists.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The result must be biased]]></text>
+      <feedback format="html">
+        <text><![CDATA[A typical result alone does not show bias.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L04_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L04_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.4</p><p>An observed result is far outside almost all simulated results. What is the best interpretation?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The model is automatically perfect]]></text>
+      <feedback format="html">
+        <text><![CDATA[An unusual result does not support a perfect model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The result is unusual under the model]]></text>
+      <feedback format="html">
+        <text><![CDATA[A far-out result may challenge the model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The result is guaranteed to happen often]]></text>
+      <feedback format="html">
+        <text><![CDATA[Unusual means it does not happen often in the simulation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The simulation has no purpose]]></text>
+      <feedback format="html">
+        <text><![CDATA[The simulation helps identify how unusual the result is.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L04_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L04_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.3</p><p>Which sample size usually produces less variation in estimates?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a biased sample]]></text>
+      <feedback format="html">
+        <text><![CDATA[Bias is a design problem, not a way to reduce valid variation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A smaller sample size]]></text>
+      <feedback format="html">
+        <text><![CDATA[Smaller samples usually vary more.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No sample at all]]></text>
+      <feedback format="html">
+        <text><![CDATA[Without a sample there is no estimate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A larger sample size]]></text>
+      <feedback format="html">
+        <text><![CDATA[Larger samples usually vary less from sample to sample.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L04_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L04_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.3</p><p>In a class data check, what does repeated simulation help measure?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact answer with no uncertainty]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation does not remove uncertainty.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Variation in estimates across samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated samples show how estimates vary.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest possible value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation examines a distribution, not only the largest value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of variables in a table]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variable count is unrelated to sampling variation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

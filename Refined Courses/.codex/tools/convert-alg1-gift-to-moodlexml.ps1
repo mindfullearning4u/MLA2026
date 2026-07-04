@@ -321,6 +321,26 @@ function Get-GeometryVisualKind {
     return 'geometry'
 }
 
+function Get-StatisticsVisualKind {
+    param([string]$Stem)
+    $text = (ConvertFrom-GiftVisibleText $Stem).ToLower()
+    if ($text -notmatch 'histogram|bar chart|bar graph|scatterplot|scatter plot|box plot|dot plot|pie chart|segmented bar|two-way table|relative frequency|frequency table|normal|distribution|residual|line of best fit|correlation|data display|graph|chart|table|probability|simulation') {
+        return $null
+    }
+    if ($text -match 'scatterplot|scatter plot|line of best fit|correlation|bivariate') { return 'scatter' }
+    if ($text -match 'histogram|interval') { return 'histogram' }
+    if ($text -match 'box plot|quartile|iqr|median|whisker') { return 'boxplot' }
+    if ($text -match 'pie chart|slice|percent') { return 'pie' }
+    if ($text -match 'segmented bar|relative frequency|percentages by|two-way') { return 'segmented' }
+    if ($text -match 'bar chart|bar graph|category|categorical|favorite') { return 'bar' }
+    if ($text -match 'dot plot|number line') { return 'dotplot' }
+    if ($text -match 'normal|z-score|standard deviation|bell') { return 'normal' }
+    if ($text -match 'residual') { return 'residual' }
+    if ($text -match 'probability|simulation|random') { return 'probability' }
+    if ($text -match 'table|frequency') { return 'table' }
+    return 'stats'
+}
+
 function Get-VisualDecision {
     param($Question)
     $stem = $Question.Stem
@@ -343,6 +363,11 @@ function Get-VisualDecision {
 
     if ($combined -match 'table|linear relationship|constant (rate|change)|x:\s*|Input\s+x:') {
         return [pscustomobject]@{ Kind = 'answer-table'; Reason = 'Table text converted into Moodle HTML tables.'; Points = $null; Linear = $null; Quadratic = $null }
+    }
+
+    $statisticsKind = Get-StatisticsVisualKind $stem
+    if ($statisticsKind) {
+        return [pscustomobject]@{ Kind = 'statistics'; Reason = 'Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $statisticsKind }
     }
 
     $geometryKind = Get-GeometryVisualKind $stem
@@ -767,6 +792,179 @@ function New-GeometryImage {
     return $true
 }
 
+function New-StatisticsImage {
+    param(
+        [string]$OutPath,
+        [string]$Kind = "stats",
+        [string]$Title = "Statistics Support Visual"
+    )
+
+    $width = 760
+    $height = 460
+    $bmp = [System.Drawing.Bitmap]::new($width, $height)
+    $g = [System.Drawing.Graphics]::FromImage($bmp)
+    $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::AntiAlias
+    $g.Clear([System.Drawing.Color]::White)
+    $font = [System.Drawing.Font]::new("Arial", 12)
+    $labelFont = [System.Drawing.Font]::new("Arial", 14, [System.Drawing.FontStyle]::Bold)
+    $titleFont = [System.Drawing.Font]::new("Arial", 20, [System.Drawing.FontStyle]::Bold)
+    $axisPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(45,45,45), 2)
+    $bluePen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(24,99,188), 3)
+    $redPen = [System.Drawing.Pen]::new([System.Drawing.Color]::Crimson, 3)
+    $fillBlue = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(95, 93, 159, 229))
+    $fillGreen = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(95, 65, 170, 95))
+    $fillGold = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(120, 235, 178, 62))
+
+    $g.DrawString($Title, $titleFont, [System.Drawing.Brushes]::Black, 30, 18)
+    $left = 110; $top = 95; $bottom = 365; $right = 650
+
+    switch ($Kind) {
+        "scatter" {
+            $g.DrawLine($axisPen, $left, $bottom, $right, $bottom)
+            $g.DrawLine($axisPen, $left, $bottom, $left, $top)
+            $pts = @(@(150,325),@(205,300),@(250,275),@(295,255),@(350,220),@(410,200),@(470,165),@(535,135),@(595,115))
+            foreach ($p in $pts) { $g.FillEllipse([System.Drawing.Brushes]::Crimson, $p[0]-5, $p[1]-5, 10, 10) }
+            $g.DrawLine($bluePen, 145,330,610,105)
+            $g.DrawString("x-variable", $font, [System.Drawing.Brushes]::Black, 335, 392)
+            $g.DrawString("y-variable", $font, [System.Drawing.Brushes]::Black, 28, 210)
+            $g.DrawString("pattern/trend", $font, [System.Drawing.Brushes]::Black, 455, 88)
+        }
+        "histogram" {
+            $g.DrawLine($axisPen, $left, $bottom, $right, $bottom)
+            $g.DrawLine($axisPen, $left, $bottom, $left, $top)
+            $bars = @(90,145,205,130,75)
+            for ($i = 0; $i -lt $bars.Count; $i++) {
+                $x = $left + 25 + ($i * 95)
+                $g.FillRectangle($fillBlue, $x, $bottom - $bars[$i], 95, $bars[$i])
+                $g.DrawRectangle($bluePen, $x, $bottom - $bars[$i], 95, $bars[$i])
+            }
+            $g.DrawString("intervals", $font, [System.Drawing.Brushes]::Black, 335, 392)
+            $g.DrawString("frequency", $font, [System.Drawing.Brushes]::Black, 28, 210)
+        }
+        "boxplot" {
+            $y = 245
+            $g.DrawLine($axisPen, 130, $y, 620, $y)
+            $g.DrawLine($bluePen, 210, $y, 300, $y)
+            $g.DrawLine($bluePen, 470, $y, 565, $y)
+            $g.DrawRectangle($bluePen, 300, 200, 170, 90)
+            $g.DrawLine($redPen, 385, 200, 385, 290)
+            $g.DrawLine($bluePen, 210, 220, 210, 270)
+            $g.DrawLine($bluePen, 565, 220, 565, 270)
+            $g.DrawString("min", $font, [System.Drawing.Brushes]::Black, 195, 292)
+            $g.DrawString("Q1", $font, [System.Drawing.Brushes]::Black, 292, 292)
+            $g.DrawString("median", $font, [System.Drawing.Brushes]::Crimson, 360, 174)
+            $g.DrawString("Q3", $font, [System.Drawing.Brushes]::Black, 462, 292)
+            $g.DrawString("max", $font, [System.Drawing.Brushes]::Black, 550, 292)
+        }
+        "pie" {
+            $rect = [System.Drawing.Rectangle]::new(260, 120, 230, 230)
+            $g.FillPie($fillBlue, $rect, 0, 126)
+            $g.FillPie($fillGreen, $rect, 126, 162)
+            $g.FillPie($fillGold, $rect, 288, 72)
+            $g.DrawEllipse($axisPen, $rect)
+            $g.DrawString("35%", $labelFont, [System.Drawing.Brushes]::Black, 390, 160)
+            $g.DrawString("45%", $labelFont, [System.Drawing.Brushes]::Black, 285, 240)
+            $g.DrawString("20%", $labelFont, [System.Drawing.Brushes]::Black, 415, 292)
+            $g.DrawString("parts of the whole", $font, [System.Drawing.Brushes]::Black, 305, 370)
+        }
+        "segmented" {
+            $labels = @("Group A", "Group B")
+            for ($i = 0; $i -lt 2; $i++) {
+                $y = 170 + ($i * 95)
+                $g.DrawString($labels[$i], $font, [System.Drawing.Brushes]::Black, 95, $y + 18)
+                $g.FillRectangle($fillBlue, 190, $y, 150, 48)
+                $g.FillRectangle($fillGreen, 340, $y, 210, 48)
+                $g.FillRectangle($fillGold, 550, $y, 90, 48)
+                $g.DrawRectangle($axisPen, 190, $y, 450, 48)
+            }
+            $g.DrawString("segments compare category percentages within each group", $font, [System.Drawing.Brushes]::Black, 170, 340)
+        }
+        "bar" {
+            $g.DrawLine($axisPen, $left, $bottom, $right, $bottom)
+            $g.DrawLine($axisPen, $left, $bottom, $left, $top)
+            $bars = @(130, 210, 160, 90)
+            for ($i = 0; $i -lt $bars.Count; $i++) {
+                $x = $left + 55 + ($i * 110)
+                $g.FillRectangle($fillGreen, $x, $bottom - $bars[$i], 60, $bars[$i])
+                $g.DrawRectangle($bluePen, $x, $bottom - $bars[$i], 60, $bars[$i])
+            }
+            $g.DrawString("categories", $font, [System.Drawing.Brushes]::Black, 325, 392)
+            $g.DrawString("count/frequency", $font, [System.Drawing.Brushes]::Black, 18, 205)
+        }
+        "dotplot" {
+            $g.DrawLine($axisPen, 150, 330, 615, 330)
+            $xs = @(190,190,235,280,280,280,325,370,370,415,460,460,505,550)
+            $levels = @{}
+            foreach ($x in $xs) {
+                if (-not $levels.ContainsKey($x)) { $levels[$x] = 0 }
+                $levels[$x]++
+                $g.FillEllipse([System.Drawing.Brushes]::Crimson, $x - 7, 330 - ($levels[$x] * 22), 14, 14)
+            }
+            $g.DrawString("each dot represents one data value", $font, [System.Drawing.Brushes]::Black, 250, 365)
+        }
+        "normal" {
+            $g.DrawLine($axisPen, $left, $bottom, $right, $bottom)
+            $pts = @()
+            for ($i = 0; $i -le 240; $i++) {
+                $x = -3.5 + ($i / 240.0) * 7.0
+                $y = [Math]::Exp(-0.5 * $x * $x)
+                $px = [int]($left + (($x + 3.5) / 7.0) * ($right - $left))
+                $py = [int]($bottom - ($y * 230))
+                $pts += [System.Drawing.Point]::new($px, $py)
+            }
+            $g.DrawLines($bluePen, $pts)
+            $g.DrawLine($redPen, 380, 130, 380, $bottom)
+            $g.DrawString("mean", $font, [System.Drawing.Brushes]::Crimson, 365, 372)
+            $g.DrawString("bell-shaped distribution", $font, [System.Drawing.Brushes]::Black, 290, 95)
+        }
+        "residual" {
+            $g.DrawLine($axisPen, $left, 235, $right, 235)
+            $pts = @(@(160,205),@(215,260),@(270,225),@(325,280),@(380,200),@(435,245),@(490,215),@(545,270),@(600,220))
+            foreach ($p in $pts) { $g.FillEllipse([System.Drawing.Brushes]::Crimson, $p[0]-5, $p[1]-5, 10, 10) }
+            $g.DrawString("residuals above and below 0", $font, [System.Drawing.Brushes]::Black, 275, 310)
+        }
+        "probability" {
+            $g.DrawRectangle($bluePen, 185, 145, 390, 170)
+            for ($i = 1; $i -lt 6; $i++) { $g.DrawLine($axisPen, 185 + ($i * 65), 145, 185 + ($i * 65), 315) }
+            $values = @("1","2","3","4","5","6")
+            for ($i = 0; $i -lt 6; $i++) { $g.DrawString($values[$i], $labelFont, [System.Drawing.Brushes]::Black, 210 + ($i * 65), 215) }
+            $g.DrawString("possible outcomes", $font, [System.Drawing.Brushes]::Black, 310, 335)
+        }
+        "table" {
+            $headers = @("Category", "Count", "Relative Freq.")
+            $rows = @(@("A","12","0.30"),@("B","18","0.45"),@("C","10","0.25"))
+            $x0 = 175; $y0 = 135; $cw = 135; $ch = 48
+            for ($c = 0; $c -lt 3; $c++) {
+                $g.FillRectangle($fillBlue, $x0 + ($c * $cw), $y0, $cw, $ch)
+                $g.DrawRectangle($axisPen, $x0 + ($c * $cw), $y0, $cw, $ch)
+                $g.DrawString($headers[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 10 + ($c * $cw), $y0 + 14)
+            }
+            for ($r = 0; $r -lt 3; $r++) {
+                for ($c = 0; $c -lt 3; $c++) {
+                    $g.DrawRectangle($axisPen, $x0 + ($c * $cw), $y0 + (($r + 1) * $ch), $cw, $ch)
+                    $g.DrawString($rows[$r][$c], $font, [System.Drawing.Brushes]::Black, $x0 + 45 + ($c * $cw), $y0 + 14 + (($r + 1) * $ch))
+                }
+            }
+        }
+        default {
+            $g.DrawLine($axisPen, $left, $bottom, $right, $bottom)
+            $g.DrawLine($axisPen, $left, $bottom, $left, $top)
+            $g.FillRectangle($fillBlue, 170, 210, 70, 155)
+            $g.FillRectangle($fillGreen, 280, 160, 70, 205)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 455, 195, 12, 12)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 510, 165, 12, 12)
+            $g.DrawString("read title, axes, scale, and context", $font, [System.Drawing.Brushes]::Black, 245, 392)
+        }
+    }
+
+    $bmp.Save($OutPath, [System.Drawing.Imaging.ImageFormat]::Png)
+    $axisPen.Dispose(); $bluePen.Dispose(); $redPen.Dispose()
+    $fillBlue.Dispose(); $fillGreen.Dispose(); $fillGold.Dispose()
+    $font.Dispose(); $labelFont.Dispose(); $titleFont.Dispose()
+    $g.Dispose(); $bmp.Dispose()
+    return $true
+}
+
 function New-MoodleXml {
     param(
         [string]$SourceGift,
@@ -854,6 +1052,16 @@ function New-MoodleXml {
             $imgName = (Get-SafeFilePart $question.QuestionId) + "_diagram.png"
             $imgPath = Join-Path $AssetDir $imgName
             $created = New-GeometryImage -OutPath $imgPath -Kind $decision.GeometryKind -Title "Geometry Support Diagram"
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
+        elseif ($decision.Kind -eq 'statistics') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_visual.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-StatisticsImage -OutPath $imgPath -Kind $decision.StatisticsKind -Title "Statistics Support Visual"
             if ($created) {
                 $visualCount++
                 $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'

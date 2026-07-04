@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 02/Lesson 01/STAT_U02_L01_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>What is the mean of 6, 8, 10, and 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sum is 36, and 36 divided by 4 is 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sum before dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>What is the median of 11, 13, 14, 18, 29?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is below the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is above the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered middle value is 14.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[29]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the median.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Which measure of center is most affected by a very large outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median is resistant to outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses all values, so an extreme value can pull it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode depends on frequency, not distance from other values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interquartile range]]></text>
+      <feedback format="html">
+        <text><![CDATA[IQR measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>A data set is 5, 5, 7, 9, 11. What is the mode?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[7 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5 occurs most often.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[9 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[11]]></text>
+      <feedback format="html">
+        <text><![CDATA[11 occurs once.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>A salary data set has one extremely high salary. Which measure usually gives a better typical salary?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The high salary can pull the mean upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is less affected by one extreme high value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[The maximum is the outlier, not a typical value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, what is the mean of 6, 8, 10, and 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sum is 36, and 36 divided by 4 is 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sum before dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, what is the median of 11, 13, 14, 18, 29?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is below the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is above the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered middle value is 14.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[29]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the median.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, which measure of center is most affected by a very large outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median is resistant to outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode depends on frequency, not distance from other values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interquartile range]]></text>
+      <feedback format="html">
+        <text><![CDATA[IQR measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses all values, so an extreme value can pull it.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, a data set is 5, 5, 7, 9, 11. What is the mode?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[7 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[9 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[11]]></text>
+      <feedback format="html">
+        <text><![CDATA[11 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5 occurs most often.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, a salary data set has one extremely high salary. Which measure usually gives a better typical salary?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is less affected by one extreme high value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The high salary can pull the mean upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[The maximum is the outlier, not a typical value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, what is the mean of 6, 8, 10, and 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sum is 36, and 36 divided by 4 is 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sum before dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, what is the median of 11, 13, 14, 18, 29?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered middle value is 14.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is below the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is above the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[29]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the median.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, which measure of center is most affected by a very large outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median is resistant to outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode depends on frequency, not distance from other values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses all values, so an extreme value can pull it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interquartile range]]></text>
+      <feedback format="html">
+        <text><![CDATA[IQR measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, a data set is 5, 5, 7, 9, 11. What is the mode?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5 occurs most often.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[7 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[9 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[11]]></text>
+      <feedback format="html">
+        <text><![CDATA[11 occurs once.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, a salary data set has one extremely high salary. Which measure usually gives a better typical salary?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is less affected by one extreme high value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The high salary can pull the mean upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[The maximum is the outlier, not a typical value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, what is the mean of 6, 8, 10, and 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sum is 36, and 36 divided by 4 is 9.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sum before dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, what is the median of 11, 13, 14, 18, 29?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is below the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is above the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[29]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the median.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered middle value is 14.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, which measure of center is most affected by a very large outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses all values, so an extreme value can pull it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median is resistant to outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode depends on frequency, not distance from other values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interquartile range]]></text>
+      <feedback format="html">
+        <text><![CDATA[IQR measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, a data set is 5, 5, 7, 9, 11. What is the mode?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5 occurs most often.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[7 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[9 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[11]]></text>
+      <feedback format="html">
+        <text><![CDATA[11 occurs once.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, a salary data set has one extremely high salary. Which measure usually gives a better typical salary?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The high salary can pull the mean upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[The maximum is the outlier, not a typical value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is less affected by one extreme high value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, what is the mean of 6, 8, 10, and 12?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one data value, not the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the sum before dividing.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[The sum is 36, and 36 divided by 4 is 9.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, what is the median of 11, 13, 14, 18, 29?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[13]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is below the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ordered middle value is 14.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is above the middle value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[29]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the median.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, which measure of center is most affected by a very large outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median is resistant to outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses all values, so an extreme value can pull it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mode]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode depends on frequency, not distance from other values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Interquartile range]]></text>
+      <feedback format="html">
+        <text><![CDATA[IQR measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, a data set is 5, 5, 7, 9, 11. What is the mode?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5 occurs most often.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[7 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[9 occurs once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[11]]></text>
+      <feedback format="html">
+        <text><![CDATA[11 occurs once.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L01_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L01_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, a salary data set has one extremely high salary. Which measure usually gives a better typical salary?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The high salary can pull the mean upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range measures spread, not center.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[The maximum is the outlier, not a typical value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is less affected by one extreme high value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

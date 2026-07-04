@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 04/Lesson 02/STAT_U04_L02_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L02_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L02_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.2</p><p>What does P(A | B) mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Probability of A or B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is union language, not conditional probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Probability of A given B happened]]></text>
+      <feedback format="html">
+        <text><![CDATA[The condition B is already known.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Probability of A and B only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is intersection language.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Probability of not A]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is complement language.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L02_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L02_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.3</p><p>If 12 of 30 students in Group B choose tutoring, what is P(tutoring | Group B)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[40 percent]]></text>
+      <feedback format="html">
+        <text><![CDATA[12/30 = 0.40 = 40 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12 percent]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the count as a percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[30 percent]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the group size as the percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[360 percent]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies instead of dividing.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L02_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L02_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.4</p><p>If P(A) = 0.40 and P(A | B) = 0.40, what is the best conclusion?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B changes the probability of A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The probabilities are equal, so B did not change A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[A has probability 0.40, not 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A and B are complements]]></text>
+      <feedback format="html">
+        <text><![CDATA[Equal probabilities do not make events complements.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A and B may be independent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The condition did not change the probability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L02_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L02_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.2</p><p>If P(A) = 0.40 and P(A | B) = 0.70, what is the best conclusion?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A and B are independent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The probability changed, so they are not independent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[The probabilities are not 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A and B are not independent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The condition changes the probability of A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B has no effect on A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The conditional probability is different.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L02_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L02_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.3</p><p>For P(A | B), which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of outcomes in B]]></text>
+      <feedback format="html">
+        <text><![CDATA[The condition B becomes the total.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always the full sample space]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is not conditional probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The denominator is the condition, not the target event.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No denominator]]></text>
+      <feedback format="html">
+        <text><![CDATA[A probability is a part divided by a relevant total.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

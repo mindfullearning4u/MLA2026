@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 06/Lesson 06/STAT_U06_L06_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>A strategy has 0.80 probability of gaining $5 and 0.20 probability of losing $10. What is its expected value?</p><p><img src="@@PLUGINFILE@@/STAT_U06_L06_Q01_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U06_L06_Q01_visual.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the possible loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-$10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the possible gain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$2]]></text>
+      <feedback format="html">
+        <text><![CDATA[5(0.80) + (-10)(0.20) = 4 - 2 = 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$15]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds absolute payoff values without probability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>What is a payoff?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability of an outcome]]></text>
+      <feedback format="html">
+        <text><![CDATA[Probability describes chance, not value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The name of a strategy only]]></text>
+      <feedback format="html">
+        <text><![CDATA[A strategy is a choice, not the payoff itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The gain or loss from an outcome]]></text>
+      <feedback format="html">
+        <text><![CDATA[Payoff is the value connected to an outcome.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of answer choices]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is unrelated to payoff analysis.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Why can a strategy with higher expected value still be risky?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Expected value is never useful]]></text>
+      <feedback format="html">
+        <text><![CDATA[Expected value is useful but not the only consideration.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Higher expected value always means no losses]]></text>
+      <feedback format="html">
+        <text><![CDATA[A high expected value can still include large possible losses.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Risk means the probabilities are missing]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk can be evaluated even when probabilities are known.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It may include a chance of a large loss or high variability]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk considers possible unfavorable outcomes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Strategy A has expected value $6. Strategy B has expected value $4 with lower risk. What should a recommendation explain?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only that A has the bigger number]]></text>
+      <feedback format="html">
+        <text><![CDATA[That ignores risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The tradeoff between expected value and risk]]></text>
+      <feedback format="html">
+        <text><![CDATA[A strong recommendation uses both pieces of evidence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only that B is safer]]></text>
+      <feedback format="html">
+        <text><![CDATA[That ignores expected value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the strategy names]]></text>
+      <feedback format="html">
+        <text><![CDATA[Names do not justify decisions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>A guaranteed payoff of $4 has what expected value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$4]]></text>
+      <feedback format="html">
+        <text><![CDATA[A guaranteed payoff has probability 1, so expected value is $4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$0]]></text>
+      <feedback format="html">
+        <text><![CDATA[The payoff is not zero.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This doubles the payoff without reason.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-$4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The payoff is positive, not negative.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which expression finds expected value for payoffs $12 and -$6 with probabilities 0.25 and 0.75?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12(0.25) + (-6)(0.75)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each payoff is multiplied by its probability, including the loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12 + 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores signs and probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.25 + 0.75]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only checks the probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12 - 0.75]]></text>
+      <feedback format="html">
+        <text><![CDATA[This mixes payoff and probability incorrectly.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>What is 12(0.25) + (-6)(0.75)ˣ</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes only the gain contribution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[-$1.50]]></text>
+      <feedback format="html">
+        <text><![CDATA[3 - 4.50 = -1.50.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$4.50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the negative sign on the loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$18]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds payoff magnitudes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which strategy has no risk of loss?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.50 chance of $20 and 0.50 chance of -$5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes a possible loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.80 chance of $8 and 0.20 chance of -$2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes a possible loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.10 chance of $100 and 0.90 chance of -$1]]></text>
+      <feedback format="html">
+        <text><![CDATA[This includes a possible loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Guaranteed $3]]></text>
+      <feedback format="html">
+        <text><![CDATA[A guaranteed positive payoff has no chance of loss.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Why should a loss be written as a negative payoff?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every strategy impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[Losses do not make strategies impossible.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes probability negative]]></text>
+      <feedback format="html">
+        <text><![CDATA[The payoff is negative, not the probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It lowers the expected value as a loss should]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative values correctly represent losses in the average.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the outcome from the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[Loss outcomes must remain in the table.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>A strategy has 0.60 chance of $10 and 0.40 chance of $0. What is expected value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the possible gain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This assumes the gain happens every time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$16]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds payoff and probability incorrectly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$6]]></text>
+      <feedback format="html">
+        <text><![CDATA[10(0.60) + 0(0.40) = 6.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which choice best describes risk?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The highest possible payoff only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk is about uncertainty or unfavorable outcomes, not only best case.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The chance of loss or variability in outcomes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk focuses on possible downside and uncertainty.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The name of the strategy]]></text>
+      <feedback format="html">
+        <text><![CDATA[A name does not describe risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The total number of rows in a table]]></text>
+      <feedback format="html">
+        <text><![CDATA[Rows do not define risk by themselves.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which recommendation is most statistically complete?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the one I like]]></text>
+      <feedback format="html">
+        <text><![CDATA[Preference alone is not statistical evidence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Choose based on expected value and explain the risk tradeoff]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses statistical evidence and context.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the biggest possible payoff]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores probability and risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the shortest description]]></text>
+      <feedback format="html">
+        <text><![CDATA[Length is irrelevant.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>A strategy has 0.25 chance of $40 and 0.75 chance of $0. What is expected value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses the probability as dollars.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This assumes the best outcome happens every time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$0]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the possible gain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$10]]></text>
+      <feedback format="html">
+        <text><![CDATA[40(0.25) + 0(0.75) = 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>If Strategy A has expected value $10 with possible $100 loss, and Strategy B has expected value $8 with no loss, what is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A has higher expected value, but B has lower risk]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both expected value and risk should be reported.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A is automatically best for everyone]]></text>
+      <feedback format="html">
+        <text><![CDATA[The possible large loss may matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B has higher expected value]]></text>
+      <feedback format="html">
+        <text><![CDATA[A has the higher expected value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Risk cannot be compared]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk can be discussed from possible losses.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which probability total is required in a complete payoff table?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[All outcome probabilities in the table should add to 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complete set of probabilities should not total 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out half the probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[A total greater than 1 is invalid.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>What is the expected value of a strategy with 0.50 chance of $6 and 0.50 chance of -$2?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$6]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-$2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the gain.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the payoffs but does not average by probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$2]]></text>
+      <feedback format="html">
+        <text><![CDATA[6(0.50) + (-2)(0.50) = 3 - 1 = 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Why is expected value useful for repeated decisions?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It guarantees the next payoff]]></text>
+      <feedback format="html">
+        <text><![CDATA[Expected value does not guarantee one outcome.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes all risk]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk can remain even when expected value is known.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It ignores probabilities]]></text>
+      <feedback format="html">
+        <text><![CDATA[Expected value depends on probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It estimates the long-run average payoff]]></text>
+      <feedback format="html">
+        <text><![CDATA[Expected value summarizes average outcome over many repetitions.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>A strategy has expected value -$3. What does that suggest over many repetitions?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run average payoff is a loss of about $3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative expected value suggests average loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It always loses exactly $3 each time]]></text>
+      <feedback format="html">
+        <text><![CDATA[Expected value is an average, not a guarantee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has no possible gains]]></text>
+      <feedback format="html">
+        <text><![CDATA[A negative expected value can still include some gains.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probabilities are invalid]]></text>
+      <feedback format="html">
+        <text><![CDATA[Negative expected value can be valid if losses outweigh gains.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which strategy has higher expected value: A is guaranteed $5; B has 0.50 chance of $20 and 0.50 chance of -$4?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A, because $5 is guaranteed]]></text>
+      <feedback format="html">
+        <text><![CDATA[A is safer, but compare expected values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[B, because its expected value is $8]]></text>
+      <feedback format="html">
+        <text><![CDATA[20(0.50) + (-4)(0.50) = 8.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They are equal]]></text>
+      <feedback format="html">
+        <text><![CDATA[B has expected value 8, not 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Neither can be compared]]></text>
+      <feedback format="html">
+        <text><![CDATA[Expected value allows comparison.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>What risk does Strategy B have if it can pay -$4?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No risk because expected value is positive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Positive expected value does not remove loss risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Risk of gaining too much]]></text>
+      <feedback format="html">
+        <text><![CDATA[The concern is the possible loss.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A possible loss of $4]]></text>
+      <feedback format="html">
+        <text><![CDATA[The negative payoff is a downside risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[No uncertainty at all]]></text>
+      <feedback format="html">
+        <text><![CDATA[A chance payoff is uncertain.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>What is expected value for 0.70 chance of $9 and 0.30 chance of -$3?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$6.30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the loss contribution.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[$5.40]]></text>
+      <feedback format="html">
+        <text><![CDATA[9(0.70) + (-3)(0.30) = 6.30 - 0.90 = 5.40.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[$9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This assumes the gain happens every time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[-$3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores the gain.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which statement is true about two strategies with the same expected value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[One may still be riskier because outcomes can vary more]]></text>
+      <feedback format="html">
+        <text><![CDATA[Risk depends on possible outcomes, not only expected value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They always have the same risk]]></text>
+      <feedback format="html">
+        <text><![CDATA[Same expected value does not mean same risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They must have identical payoffs]]></text>
+      <feedback format="html">
+        <text><![CDATA[Different payoff patterns can produce the same expected value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They cannot be compared]]></text>
+      <feedback format="html">
+        <text><![CDATA[They can be compared using risk and context.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>What should be checked before calculating expected value from a payoff table?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether the biggest payoff comes first]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not determine validity.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether all payoffs are positive]]></text>
+      <feedback format="html">
+        <text><![CDATA[Losses can be included as negative values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Whether probabilities are complete and add to 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complete probability model is needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Whether the table has exactly two rows]]></text>
+      <feedback format="html">
+        <text><![CDATA[Payoff tables can have more than two outcomes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which mistake makes a risky strategy look too favorable?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Ignoring possible losses]]></text>
+      <feedback format="html">
+        <text><![CDATA[Leaving out losses overstates expected value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Including all possible outcomes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That improves accuracy.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Multiplying payoffs by probabilities]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the correct method.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Writing losses as negative values]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is correct.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U06_L06_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U06_L06_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.DMC.2</p><p>Which final recommendation best uses the lesson standard?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the option with the biggest possible payoff only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This ignores probability and risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose the option with the shortest table]]></text>
+      <feedback format="html">
+        <text><![CDATA[Table length is not a decision rule.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Strategy A has higher expected value, but Strategy B has lower risk, so the choice depends on the decision goal]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses expected value and risk.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choose without calculating because risk is confusing]]></text>
+      <feedback format="html">
+        <text><![CDATA[The lesson standard requires evidence-based comparison.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

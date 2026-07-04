@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 04/Lesson 08/STAT_U04_L08_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L08_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L08_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>Which phrase describes a complement of event A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes an intersection, not a complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Outcomes in A or B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes a union, not a complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in the sample space that are not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement includes outcomes from the sample space outside event A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All outcomes in A only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That repeats event A instead of describing not A.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L08_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L08_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.2</p><p>Events A and B are independent when which comparison is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(A given B) is always 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independent events can have nonzero conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[P(A given B) is the same as P(A)]]></text>
+      <feedback format="html">
+        <text><![CDATA[If the condition does not change the probability, the events are independent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(A or B) equals 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[A union equaling 1 is not the definition of independence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(A and B) is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independent events can happen together.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L08_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L08_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.3</p><p>What does P(A given B) mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The probability of A when B is already known]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability uses B as the known condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability of not B]]></text>
+      <feedback format="html">
+        <text><![CDATA[Not B is a complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability of A or B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B is a union, not conditional probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability that nothing happens]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability still describes an event.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L08_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L08_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.4</p><p>If P(pass given review) is much higher than P(pass), what does that suggest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The sample space is empty]]></text>
+      <feedback format="html">
+        <text><![CDATA[The situation has outcomes, so the sample space is not empty.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Review has no relationship to passing]]></text>
+      <feedback format="html">
+        <text><![CDATA[A large change suggests a relationship, not no relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Passing is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[A higher probability does not mean impossible.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Review and passing are not independent in this context]]></text>
+      <feedback format="html">
+        <text><![CDATA[The condition changes the probability, so independence is not supported.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L08_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L08_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.5</p><p>Which everyday wording signals a condition?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Among students who study with notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Among restricts the group and creates a condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All students in the school]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the full group, not a condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The total survey group]]></text>
+      <feedback format="html">
+        <text><![CDATA[A total group is not conditional by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A list of all categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[A category list is not a conditional statement.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

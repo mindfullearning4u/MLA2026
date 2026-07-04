@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 02/Lesson 02/STAT_U02_L02_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>What is the range of 12, 15, 18, 22?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the minimum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is 22 minus 12, which equals 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[22]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds values instead of subtracting maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>A smaller standard deviation means what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The mean is always smaller]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation does not determine the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Values are typically closer to the mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation describes typical distance from the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The data are categorical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation is for numerical data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There are more outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Smaller standard deviation usually suggests less spread.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>What does range describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The middle value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median describes the middle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Overall spread from least to greatest value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The most common value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode describes the most frequent value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The average value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mean describes the average.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Two classes have the same mean score. Class A has range 8 and Class B has range 30. Which class is more consistent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A larger range means more spread, not more consistency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally consistent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ranges are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Class A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The smaller range shows less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot compare because the means match]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching means do not prevent comparing variability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Why should variability be reported with center?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes numerical data into categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variability does not change data type.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes all outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reporting variability does not remove values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how spread out the values are]]></text>
+      <feedback format="html">
+        <text><![CDATA[Center gives a typical value, while variability shows consistency and spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It replaces the need for a measure of center]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both center and spread are useful.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, what is the range of 12, 15, 18, 22?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the minimum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[22]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds values instead of subtracting maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is 22 minus 12, which equals 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, a smaller standard deviation means what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The mean is always smaller]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation does not determine the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The data are categorical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation is for numerical data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There are more outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Smaller standard deviation usually suggests less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Values are typically closer to the mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation describes typical distance from the mean.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, what does range describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Overall spread from least to greatest value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The middle value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median describes the middle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The most common value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode describes the most frequent value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The average value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mean describes the average.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, two classes have the same mean score. Class A has range 8 and Class B has range 30. Which class is more consistent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A larger range means more spread, not more consistency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Class A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The smaller range shows less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally consistent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ranges are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot compare because the means match]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching means do not prevent comparing variability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a class data check, why should variability be reported with center?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes numerical data into categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variability does not change data type.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes all outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reporting variability does not remove values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It replaces the need for a measure of center]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both center and spread are useful.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how spread out the values are]]></text>
+      <feedback format="html">
+        <text><![CDATA[Center gives a typical value, while variability shows consistency and spread.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, what is the range of 12, 15, 18, 22?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is 22 minus 12, which equals 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the minimum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[22]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds values instead of subtracting maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, a smaller standard deviation means what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The mean is always smaller]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation does not determine the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The data are categorical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation is for numerical data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Values are typically closer to the mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation describes typical distance from the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There are more outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Smaller standard deviation usually suggests less spread.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, what does range describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The middle value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median describes the middle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The most common value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode describes the most frequent value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The average value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mean describes the average.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Overall spread from least to greatest value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, two classes have the same mean score. Class A has range 8 and Class B has range 30. Which class is more consistent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A larger range means more spread, not more consistency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally consistent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ranges are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Class A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The smaller range shows less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot compare because the means match]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching means do not prevent comparing variability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>During a tutoring review, why should variability be reported with center?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes numerical data into categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variability does not change data type.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes all outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reporting variability does not remove values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how spread out the values are]]></text>
+      <feedback format="html">
+        <text><![CDATA[Center gives a typical value, while variability shows consistency and spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It replaces the need for a measure of center]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both center and spread are useful.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, what is the range of 12, 15, 18, 22?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the minimum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is 22 minus 12, which equals 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[22]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds values instead of subtracting maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, a smaller standard deviation means what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Values are typically closer to the mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation describes typical distance from the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The mean is always smaller]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation does not determine the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The data are categorical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation is for numerical data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There are more outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Smaller standard deviation usually suggests less spread.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, what does range describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Overall spread from least to greatest value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The middle value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median describes the middle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The most common value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode describes the most frequent value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The average value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mean describes the average.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, two classes have the same mean score. Class A has range 8 and Class B has range 30. Which class is more consistent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A larger range means more spread, not more consistency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Class A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The smaller range shows less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally consistent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ranges are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot compare because the means match]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching means do not prevent comparing variability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>For a school survey report, why should variability be reported with center?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how spread out the values are]]></text>
+      <feedback format="html">
+        <text><![CDATA[Center gives a typical value, while variability shows consistency and spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes numerical data into categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variability does not change data type.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes all outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reporting variability does not remove values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It replaces the need for a measure of center]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both center and spread are useful.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, what is the range of 12, 15, 18, 22?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the minimum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[22]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the maximum, not the range.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds values instead of subtracting maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range is 22 minus 12, which equals 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, a smaller standard deviation means what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Values are typically closer to the mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation describes typical distance from the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The mean is always smaller]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation does not determine the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The data are categorical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation is for numerical data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There are more outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Smaller standard deviation usually suggests less spread.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, what does range describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The middle value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Median describes the middle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The most common value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mode describes the most frequent value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The average value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Mean describes the average.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Overall spread from least to greatest value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Range is maximum minus minimum.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, two classes have the same mean score. Class A has range 8 and Class B has range 30. Which class is more consistent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Class A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The smaller range shows less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A larger range means more spread, not more consistency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally consistent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ranges are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot compare because the means match]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching means do not prevent comparing variability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L02_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L02_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>In a homework analysis, why should variability be reported with center?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes numerical data into categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[Variability does not change data type.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes all outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Reporting variability does not remove values.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how spread out the values are]]></text>
+      <feedback format="html">
+        <text><![CDATA[Center gives a typical value, while variability shows consistency and spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It replaces the need for a measure of center]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both center and spread are useful.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

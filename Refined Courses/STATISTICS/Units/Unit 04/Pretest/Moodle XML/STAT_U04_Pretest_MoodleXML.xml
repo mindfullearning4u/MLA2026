@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 04/Pretest/STAT_U04_Pretest</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>Which phrase describes a complement of event A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in the sample space that are not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement includes outcomes from the sample space outside event A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes an intersection, not a complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Outcomes in A or B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes a union, not a complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All outcomes in A only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That repeats event A instead of describing not A.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.2</p><p>Events A and B are independent when which comparison is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(A given B) is always 0]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independent events can have nonzero conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(A or B) equals 1]]></text>
+      <feedback format="html">
+        <text><![CDATA[A union equaling 1 is not the definition of independence.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[P(A given B) is the same as P(A)]]></text>
+      <feedback format="html">
+        <text><![CDATA[If the condition does not change the probability, the events are independent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[P(A and B) is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independent events can happen together.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.3</p><p>What does P(A given B) mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability of not B]]></text>
+      <feedback format="html">
+        <text><![CDATA[Not B is a complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The probability of A when B is already known]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability uses B as the known condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability of A or B]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B is a union, not conditional probability.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The probability that nothing happens]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability still describes an event.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.4</p><p>If P(pass given review) is much higher than P(pass), what does that suggest?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The sample space is empty]]></text>
+      <feedback format="html">
+        <text><![CDATA[The situation has outcomes, so the sample space is not empty.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Review and passing are not independent in this context]]></text>
+      <feedback format="html">
+        <text><![CDATA[The condition changes the probability, so independence is not supported.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Review has no relationship to passing]]></text>
+      <feedback format="html">
+        <text><![CDATA[A large change suggests a relationship, not no relationship.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Passing is impossible]]></text>
+      <feedback format="html">
+        <text><![CDATA[A higher probability does not mean impossible.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.5</p><p>Which everyday wording signals a condition?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All students in the school]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the full group, not a condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The total survey group]]></text>
+      <feedback format="html">
+        <text><![CDATA[A total group is not conditional by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A list of all categories]]></text>
+      <feedback format="html">
+        <text><![CDATA[A category list is not a conditional statement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Among students who study with notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Among restricts the group and creates a condition.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a two-way table, a row total or column total is called what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Joint frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[A joint frequency is an inside cell for two categories at once.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation is an ordered arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is outside an event.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies are totals in the margins of the table.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.7</p><p>P(A) = 0.40, P(B) = 0.30, and P(A and B) = 0.10. What is P(A or B)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.60]]></text>
+      <feedback format="html">
+        <text><![CDATA[Add 0.40 and 0.30, then subtract the overlap 0.10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.80]]></text>
+      <feedback format="html">
+        <text><![CDATA[This overcounts the overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.70]]></text>
+      <feedback format="html">
+        <text><![CDATA[This forgets to subtract the overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This gives only the overlap.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.8</p><p>For independent events with P(A) = 0.50 and P(B) = 0.30, what is P(A and B)?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses only P(A) and ignores B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[0.15]]></text>
+      <feedback format="html">
+        <text><![CDATA[For independent events, multiply 0.50 by 0.30.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.80]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds probabilities, which matches an or question.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[0.20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts instead of multiplying.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>A shirt comes in 5 colors and 4 sizes. How many color-size options are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[Multiply the stage choices: 5 times 4.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds the choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only colors.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only sizes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_PT_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_PT_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>Choosing 2 students from 6 for the same team is best modeled by what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Permutation would be used if order or role mattered.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[Complement means not in an event.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for the same team.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being applied.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

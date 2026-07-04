@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 02/Lesson 03/STAT_U02_L03_GuidedPractice</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L03_GP_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L03_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Set A has median 12 and range 4. Set B has median 12 and range 20. Which set is more consistent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Set A]]></text>
+      <feedback format="html">
+        <text><![CDATA[The same median with smaller range means Set A has less spread.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Set B]]></text>
+      <feedback format="html">
+        <text><![CDATA[Set B has a larger range, so it is less consistent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Both are equally consistent]]></text>
+      <feedback format="html">
+        <text><![CDATA[The ranges are different.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cannot compare because medians match]]></text>
+      <feedback format="html">
+        <text><![CDATA[Matching medians still allow comparison of variability.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L03_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L03_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Which summary is usually less affected by a high outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Median]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median depends on position, so one high value has less effect.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The mean uses every value and can be pulled upward.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Range]]></text>
+      <feedback format="html">
+        <text><![CDATA[The range can increase greatly because of the high value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Maximum]]></text>
+      <feedback format="html">
+        <text><![CDATA[The maximum is the high outlier itself.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L03_GP_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L03_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Store A wait times are 3, 4, 4, 5, 18. What value is the likely outlier?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[3 is near the cluster.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[4 is part of the cluster.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[5 is near the cluster.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[18]]></text>
+      <feedback format="html">
+        <text><![CDATA[18 is far from the cluster of values between 3 and 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L03_GP_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L03_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Two classes have similar means, but Class B has much larger standard deviation. What is true?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B has a smaller mean]]></text>
+      <feedback format="html">
+        <text><![CDATA[The means are described as similar.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B has no outliers]]></text>
+      <feedback format="html">
+        <text><![CDATA[A larger standard deviation does not prove there are no outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Class B scores are more spread out]]></text>
+      <feedback format="html">
+        <text><![CDATA[Larger standard deviation means values are typically farther from the mean.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Class B must have fewer students]]></text>
+      <feedback format="html">
+        <text><![CDATA[Standard deviation describes spread, not sample size.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U02_L03_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U02_L03_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.DVD.4</p><p>Why should outliers be considered when comparing data sets?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They always make the median invalid]]></text>
+      <feedback format="html">
+        <text><![CDATA[The median is often resistant to outliers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[They can affect summaries and conclusions]]></text>
+      <feedback format="html">
+        <text><![CDATA[Outliers can change measures such as mean and range and influence interpretation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They should always be deleted]]></text>
+      <feedback format="html">
+        <text><![CDATA[Outliers should be investigated, not automatically removed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They only occur in categorical data]]></text>
+      <feedback format="html">
+        <text><![CDATA[Outliers are unusual numerical values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

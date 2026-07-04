@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 05/Lesson 03/STAT_U05_L03_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>A survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>What does a confidence level describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run success rate of the interval method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level describes the method over many repeated samples.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The percent of people in the sample who agree]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is a sample percentage, not confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact chance that one person is correct]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level is not about one person being correct.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of survey questions asked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Question count does not define confidence level.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>Why can simulation help develop a margin of error?</p><p><img src="@@PLUGINFILE@@/STAT_U05_L03_QZ_Q03_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U05_L03_QZ_Q03_visual.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for random sampling]]></text>
+      <feedback format="html">
+        <text><![CDATA[Good sampling design is still needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every sample estimate identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation shows variation, not identical results.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how sample estimates vary across repeated samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated simulated samples reveal typical sampling variation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It proves the exact population value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation estimates uncertainty; it does not prove the exact value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>A mean estimate is 35 with a margin of error of 5. What interval should be reported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 to 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not center the interval on 35.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 to 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin is not the lower endpoint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Use 35 - 5 and 35 + 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>In a class data check, a survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>In a class data check, what does a confidence level describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The percent of people in the sample who agree]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is a sample percentage, not confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run success rate of the interval method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level describes the method over many repeated samples.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact chance that one person is correct]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level is not about one person being correct.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of survey questions asked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Question count does not define confidence level.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>In a class data check, why can simulation help develop a margin of error?</p><p><img src="@@PLUGINFILE@@/STAT_U05_L03_QZ_Q07_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U05_L03_QZ_Q07_visual.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAvgAAAHMCAYAAACgIdzFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB+JSURBVHhe7d3LcSPJli1QitGTHvX46kEFWoKnAluVaz2gKG2WqqQmfLZJgkR4eHxAgAjU8bXMwsqKAOKzEfSziWRWPb0BAABlPLVfAAAA/rkUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAo5KEL/p+Xp7enp9728vanffKiP28vFz3/Ukv7z9fPzvn59e1v+5SbOPr4v+s29wA/t3R/Lfn79vo8fa9e9rz4z8v0/f26X2vcx32Vrw2AIz1kwf/7+twpdJ1tdSCeF41LCspeW/v/7eF99PF/123uAX5u6/5aNnvvdjT89ge575f8s+/jdZWvDYAjPV7Bbz/J29q6Q7H9FPGygrJtz/5/c3gfffxfdpN7gJ/bc3+t+Pv69jx5j7Ze39yrk+f/g+/jTZWvDYAjPVjBbwf9vm3+AeGVBWXTb+9/y9HH/023ugf4uWvvr/b1G+9P+wPd6pMrUfAB+B2PVfBnn/w9v73OJt68PMwLQfucSwvKlt/e/5ajj/+LbnYP8HNtvpffX5f8ms7yr+dUp+AD8Dseq+A3n+Q9z5vdp+XBOCsW7dZpD4uvueS5s9csn+NE++lld1/fbn78d0ufmm8UuwvPfZcb3AP7Ht9zrOk+Ph5vy2+2tZxusY+pthDve33nPNr37+XPBffXhtkPakvn19577fN2vI/RXsuuc96x78175NtidtccHwB+4LEK/qwU9D69Xbc4ZLvDti0XvW16Dvv3vzW8eyWvv52f8u2O//msblmcbvNS87Nz3+UG98CHHde/Wd6aUvzy0pzbnmu9xT4+rZXY09a7znfb55Hr339/bZnfI92Xttc0e9LW+zg/ztI22/XmvufnN79H3p908TrSfV3v+ADwA49V8FeHdW9Azl1SUPaU2/Y1+/e/Prw39zPZvj/V3HzdzuO/P2Pv9V/6Q8Zkaz+R3XL9PfBh+/q3y9ue4rZ1frfYx/xcV7fetW6ex8f7tPnezlvyotm+Oq9t78H5U9bfx9kxVrf2Xlzf98dTtu6R+TUsbrOL23F8APiBByv4vU9wF7bZsDzXlsR2sM+PMxncszLVvn7H/leHd/P6zrWcSkOvUMxef/Hx59ffFstZcfp6/bXnvsPs3Ba2zrG/bVz/+1O2yluvFE9zmpW72XF+Zx/Tc916vP+c+XFO9txfO7Tv4+x47Tn1jrP2Pl57L67t+/SUjXvkqnVkx/EB4Acer+BHWwxWttnA/djBZkGZFNjZYN16/dbjsTa8p4/1r2HNtcdvS2XvU+PTMdrHrj33na6+B9av/+MpG+Wt3Uf3E+b2vVjP6yf7aH/Ymp9ntMdp74n28d55nLTn0+5rr3Y/TTbte9w9obX38dp7cW3fp6es3yPXrSM7jg8AP/CYBf9k9glYf2uH7vZg3bL1+q3HY214t68/bW05XNK+/srjX1Qs2mNfeu4X+vE9sHb9p6esl7dd+2hL3qw4X7uPNu/ee/1heR/RFvzl/VxyzC3tOZ1n3D7W7fftea/dx1/b3ntxbd+np2zdI2va82tz3HF8APiBxy74E+2wXBvo7XPbwbqsLR391+/Z/8bw3lNc29d8ufb4a4/tcNW5X6O97vOtvQd2XONmeWv20W+gG/u5dh87ruNkcR/vD+7fzyzn3v21U/sp/ddx9x5j47yvuhc39v3+lLVMl+1bR3YcHwB+4B9U8M+15aAdvO3j7WD9Nvv95+7Wvn7P/reHd78EdLZZKbz2+GuP7fPzc7+VNoP2HthxjZvl7dpy/v7glfvYcR0ni/t4f3D/fmbZ9u6vvdp9ff4gtva76xPb5/3ze3F73+uZfvvZOrLj+ADwAw9U8C8cdu0ng5Ph3ZaKdrB2Xv++nT4F3nr91uNxwfV0z2W6TbvJtcdfe+xCF5/7mgvPqz325EA79rVZ3nbsI1b3c+0+dr4+Fvfx/uD+/ey6v/ZrC3jOa/q19k9fzl1w3u390NlWf22pt+/VTJeOuXcd2XF8APiBByr47TBsh3Gj/aP55snTT9TawdocazZY23NpX7+1//dn/Hx490rDRdf3/oyV429f34/tOPdl7Xldcw+sXf/pKRvlrd3HQk5tgV0tkRfvo82k//pY3kfsyOPM9v11gfaeeH55e1n9/jt32XlPtMfNdtN75Np1ZMfxAeAHHqjgzwvKfKB+aotd53mrBaUd/LMWuV3KVvf/8Ywrh3fz+psW/Pb1bRmcPqfNdtv6ua+53T1w6XvYvv79Gc0+ejm1Ja79NPr6fbSZzM8z2uO017t+P7S2769LtNc33frXc3LZec+t3YtbmbU5NOd69Tpy7bUBQN9DFfzZwNu9tYOzHcwb/3m+yeO9MnLh/j+esTm8v/YxKwbbpe7q469m8H6AyfHbx68593W3ugfm7+P5ebTn2D7+oX8u55fcFsBZzr+0j/UfZtrHO8+ZHWNq+/66TC/vffvePu+f34tX3iOr30Pzfc/v0e1rA4CfeLCC3yuW29u8zPSH8/v2XgJ6w3dtm5eQ9f3HyvC++BrbYnDl8U/PaIvl2nba7w3OfdPFx7jwHljY5vuYF+f1bX6f3GYfF15L572enUf3Od8Wj9cp0bvMyvC+81g974vvk/m9uHidC9vWDwjrW/verlwbAFzh8Qp+XDC456Xs01ah2DjGy+v09bNes7X/reG9cfzvrS0Fn649/qddJb997bXnvsfuY6zcA20G7fbyMnl8vp95hq8rec3ukXe32MenPZks7mB+Hu3VTmzeX5fql+F55q2N896Tyfu2dC9eeY9sHH99Hdm4NgD4occs+J/WPl2bDdqeXkmZDNHOcP96vCkkveK0uv99w/uqa7zB8T90cnjf5p94nrvq3He6xTHmP8Scyt70uuf7W8hwVurWcrrFPqb6mWy9fuE81qzeX5ebn/dS6T6377zn+/7e5u/r3M/vkflzpue5to7suzYAuNRDF3w41i0K2C32AQCwn4IPi25Rzm+xDwCA/RR8WHSLcn6LfQAA7Kfgw6JblPNb7AMAYD8FHxbdopzfYh8AAPsp+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+JT2H//v/2w2m81m625QlYJPae1iPuL2n//9v2//9fw/7/9sHxtlk4EMsslABu0GVSn4lNYu5iNuGeb/+te/3v/ZPjbKJgMZZJOBDNoNqlLwKc1C/vb273//+32g55+jkoEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqU9xkL+9+31+ent6enp7fn1b/vgrzt0oP99fXt++rj2r+3lT/usX3doBm9/3l6aDA6I4OAMzpzdE/f+fjgyg7+vz9Pvg4PuhyMziFkOz69v970LHmUuwO9S8Cnt+IX8u9wfUWjisIH+52VWZI4a6odl0PsB56B74bAMJo79fjgug+l1t9sYBX8lgzuvB8fPBfh9Cj6lHbqQdwruvQtNHDPQz4f5y9tXfznLZIRS8+fllMHz28dbv5DLHRyVwbn209t7fz8cl8H3n+Lc+5pbR2Xw/d6fvhem98M914ND5wLciYJPaUct5G2ROarQxCEDffHXMM5+XeWOE/2QDM6v9ewTyu97Y7CC3/nTjHt/PxyWwdm13/G27zomg7MfbI8O4MC5APek4FPaUQv5V4lLsVssu/dxzEBfMlLB7+mX/ns4OoPTn2Y8v7wc9v1wVAZLP/Df83vg5JgMzv8E48+hv6YVR80FuCcFn9KOWsgz0L8Gl4L/5bzo3DOLR8hgUvLuXO7j0AxOv5p18A+8R2Xw/atane3O98IhGXT+9Gay3fkHnaPmAtyTgk9pD7GQH1ho4pCB3jP5Ownfv4d7D4+QQVvy7txpDszg9Ont53t+4PfDMRmc/XpK91e17pvDIRk0Bf9078//jsp9PMRcgF+m4FPaQyzkBxaaOGSgt5q/cHzvHB4ig0+9v2x4D0dl8PWrOQ/wJ1pHZdA30K+rnRf88z+xOOheeIi5AL9Mwae0h1jIDxpiJ4cM9HPtf03ojmXm5PAMJgYqdl/v/dlfKD7w++GQDBb1P9n/bYdkcF7wJ/f8Md8LDzEX4Jcp+JT2EAv5gYUmDhnoJ+3v3t5xiJ87NIOZY0rNERm0v5bU3+73JxlHZLBsoIK/eM8vff13PcRcgF+m4FPaQyzkwxb85v/gescB3jokg8X3/Zj/JvoRGSj4++6De35vHJLB4v//4ZjvhYeYC/DLFHxKe4iFfHHA38cxA70pd3f8hLLnmAzOf8D5LjVH/cXCYzLoOPD74ZgM+vfBUf+Tp2MymF7v6X0/6u+jPMRcgF+m4FPaQyzkBxaaOGSgt7+a09vu2GoOySDav39wtt37Xjgsg9aB3w+HZeA+aD7FPzaDh5gL8MsUfEp7iIX8wEITRwz0xf+xz/k2QsF/1/yq0p0/sT05NoMzB34/HJuB+yDaX9s6IoOHmAvwyxR8SrOQHz/QH4EMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwae084V81O2/nv/nfaDnn+1jo2wykEE2Gcig3aAqBZ/S2sV8xO0///t/34d5/tk+NsomAxlkk4EM2g2qUvAprV3MbTabzWY7bVCVgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AHfx5+3l6ent+fXv5N9f/jRPm2hf8wD+vr69PNL5ADCj4AMc4p9Y8B/tfADoUfABDqHgA/A7FHyguFOR/vjn0+fWK6l/X5+/Hu8+5+/r2/PZ409PL2+Tfr76eFuO95xX+5oP7Xmu/5DwoX3NnuNMvz49z6fn17fTs9t9PzUn1D7eO3abw8c+1rKZ73eWw+r7AVCXgg8U910SvwrgZ/E7L4x/XvKc57evL7XP+fz38xL5/ppT0d16fFai95xX+5pTqV05z47Na+scp//19t9P+57/IHMq+XuPff6c7+Lefm3532f73Xw/AOpS8IHipoXz5KMgfhbTThmcPefPy7RQtrYen5XjHee18Jq2iE9f09hzbQv7nX+9/+/tvr9ccOxJDm1ZP/vax9Pa8zg95YL3C6AwBR8obqGEvhfGzwK4VAY7pbL3qyIf9j2+WY4n59K8ZvU8O1+P1desF+b513eez8nS45vH7mVz9rXV/U6zW34/AOpS8IHiemWxV/A7n4DPPoH++/b6fP473e1+1x5vi+yO82pf836e0/1/b53C+/WarWtrz+2k/XrvfDr7Pll6fPPYvWzagt9efy+HtfcDoC4FHyiuVxZPJXHPJ/idr787lce9j7dFdsd5ta9ZOs81S69Z+0HiS/v1C89n6fHNY/eyaQt+Z7+r2vcDoC4FHyjuoxh2f9d95S/Ifj2n9wn0l14RPXf+eFtk23//MDmv9jkL57lq4TW934Nvz+X02sVzXtj3l4XHt4/dy/Xsawv73dbbL0A9Cj5Q3GfBPy92nYK4+V976XxqvPWXOteL7Om8zl7z+asn3+fVvua0z+lx5v8lm6nNa+vu4zu37+d9fAq+/rrPT8o/f0jZPvb8GvtFfPq1zRw23w+AuhR8oLhTgXz9KqxLv4v9UQBXnjP73e/m1z1WH2+L7Kmwfhfp+THb13xoz3PPf/qxfc3s2ma/r55znx//ez/fRbndd/dPSxaPPT9GW+aXvtbud5bD6vsBUJeCDxTXK5AAUJeCDxSn4AMwFgUfKE7BB2AsCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAU8v8BWmskLxAJHFUAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for random sampling]]></text>
+      <feedback format="html">
+        <text><![CDATA[Good sampling design is still needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how sample estimates vary across repeated samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated simulated samples reveal typical sampling variation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every sample estimate identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation shows variation, not identical results.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It proves the exact population value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation estimates uncertainty; it does not prove the exact value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>In a class data check, a mean estimate is 35 with a margin of error of 5. What interval should be reported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 to 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not center the interval on 35.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Use 35 - 5 and 35 + 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 to 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin is not the lower endpoint.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>During a tutoring review, a survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>During a tutoring review, what does a confidence level describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The percent of people in the sample who agree]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is a sample percentage, not confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact chance that one person is correct]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level is not about one person being correct.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of survey questions asked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Question count does not define confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run success rate of the interval method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level describes the method over many repeated samples.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>During a tutoring review, why can simulation help develop a margin of error?</p><p><img src="@@PLUGINFILE@@/STAT_U05_L03_QZ_Q11_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U05_L03_QZ_Q11_visual.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for random sampling]]></text>
+      <feedback format="html">
+        <text><![CDATA[Good sampling design is still needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every sample estimate identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation shows variation, not identical results.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It proves the exact population value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation estimates uncertainty; it does not prove the exact value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how sample estimates vary across repeated samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated simulated samples reveal typical sampling variation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>During a tutoring review, a mean estimate is 35 with a margin of error of 5. What interval should be reported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Use 35 - 5 and 35 + 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 to 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not center the interval on 35.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 to 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin is not the lower endpoint.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>For a school survey report, a survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>For a school survey report, what does a confidence level describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The percent of people in the sample who agree]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is a sample percentage, not confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run success rate of the interval method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level describes the method over many repeated samples.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact chance that one person is correct]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level is not about one person being correct.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of survey questions asked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Question count does not define confidence level.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>For a school survey report, why can simulation help develop a margin of error?</p><p><img src="@@PLUGINFILE@@/STAT_U05_L03_QZ_Q15_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U05_L03_QZ_Q15_visual.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAvgAAAHMCAYAAACgIdzFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB+JSURBVHhe7d3LcSPJli1QitGTHvX46kEFWoKnAluVaz2gKG2WqqQmfLZJgkR4eHxAgAjU8bXMwsqKAOKzEfSziWRWPb0BAABlPLVfAAAA/rkUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAo5KEL/p+Xp7enp9728vanffKiP28vFz3/Ukv7z9fPzvn59e1v+5SbOPr4v+s29wA/t3R/Lfn79vo8fa9e9rz4z8v0/f26X2vcx32Vrw2AIz1kwf/7+twpdJ1tdSCeF41LCspeW/v/7eF99PF/123uAX5u6/5aNnvvdjT89ge575f8s+/jdZWvDYAjPV7Bbz/J29q6Q7H9FPGygrJtz/5/c3gfffxfdpN7gJ/bc3+t+Pv69jx5j7Ze39yrk+f/g+/jTZWvDYAjPVjBbwf9vm3+AeGVBWXTb+9/y9HH/023ugf4uWvvr/b1G+9P+wPd6pMrUfAB+B2PVfBnn/w9v73OJt68PMwLQfucSwvKlt/e/5ajj/+LbnYP8HNtvpffX5f8ms7yr+dUp+AD8Dseq+A3n+Q9z5vdp+XBOCsW7dZpD4uvueS5s9csn+NE++lld1/fbn78d0ufmm8UuwvPfZcb3AP7Ht9zrOk+Ph5vy2+2tZxusY+pthDve33nPNr37+XPBffXhtkPakvn19577fN2vI/RXsuuc96x78175NtidtccHwB+4LEK/qwU9D69Xbc4ZLvDti0XvW16Dvv3vzW8eyWvv52f8u2O//msblmcbvNS87Nz3+UG98CHHde/Wd6aUvzy0pzbnmu9xT4+rZXY09a7znfb55Hr339/bZnfI92Xttc0e9LW+zg/ztI22/XmvufnN79H3p908TrSfV3v+ADwA49V8FeHdW9Azl1SUPaU2/Y1+/e/Prw39zPZvj/V3HzdzuO/P2Pv9V/6Q8Zkaz+R3XL9PfBh+/q3y9ue4rZ1frfYx/xcV7fetW6ex8f7tPnezlvyotm+Oq9t78H5U9bfx9kxVrf2Xlzf98dTtu6R+TUsbrOL23F8APiBByv4vU9wF7bZsDzXlsR2sM+PMxncszLVvn7H/leHd/P6zrWcSkOvUMxef/Hx59ffFstZcfp6/bXnvsPs3Ba2zrG/bVz/+1O2yluvFE9zmpW72XF+Zx/Tc916vP+c+XFO9txfO7Tv4+x47Tn1jrP2Pl57L67t+/SUjXvkqnVkx/EB4Acer+BHWwxWttnA/djBZkGZFNjZYN16/dbjsTa8p4/1r2HNtcdvS2XvU+PTMdrHrj33na6+B9av/+MpG+Wt3Uf3E+b2vVjP6yf7aH/Ymp9ntMdp74n28d55nLTn0+5rr3Y/TTbte9w9obX38dp7cW3fp6es3yPXrSM7jg8AP/CYBf9k9glYf2uH7vZg3bL1+q3HY214t68/bW05XNK+/srjX1Qs2mNfeu4X+vE9sHb9p6esl7dd+2hL3qw4X7uPNu/ee/1heR/RFvzl/VxyzC3tOZ1n3D7W7fftea/dx1/b3ntxbd+np2zdI2va82tz3HF8APiBxy74E+2wXBvo7XPbwbqsLR391+/Z/8bw3lNc29d8ufb4a4/tcNW5X6O97vOtvQd2XONmeWv20W+gG/u5dh87ruNkcR/vD+7fzyzn3v21U/sp/ddx9x5j47yvuhc39v3+lLVMl+1bR3YcHwB+4B9U8M+15aAdvO3j7WD9Nvv95+7Wvn7P/reHd78EdLZZKbz2+GuP7fPzc7+VNoP2HthxjZvl7dpy/v7glfvYcR0ni/t4f3D/fmbZ9u6vvdp9ff4gtva76xPb5/3ze3F73+uZfvvZOrLj+ADwAw9U8C8cdu0ng5Ph3ZaKdrB2Xv++nT4F3nr91uNxwfV0z2W6TbvJtcdfe+xCF5/7mgvPqz325EA79rVZ3nbsI1b3c+0+dr4+Fvfx/uD+/ey6v/ZrC3jOa/q19k9fzl1w3u390NlWf22pt+/VTJeOuXcd2XF8APiBByr47TBsh3Gj/aP55snTT9TawdocazZY23NpX7+1//dn/Hx490rDRdf3/oyV429f34/tOPdl7Xldcw+sXf/pKRvlrd3HQk5tgV0tkRfvo82k//pY3kfsyOPM9v11gfaeeH55e1n9/jt32XlPtMfNdtN75Np1ZMfxAeAHHqjgzwvKfKB+aotd53mrBaUd/LMWuV3KVvf/8Ywrh3fz+psW/Pb1bRmcPqfNdtv6ua+53T1w6XvYvv79Gc0+ejm1Ja79NPr6fbSZzM8z2uO017t+P7S2769LtNc33frXc3LZec+t3YtbmbU5NOd69Tpy7bUBQN9DFfzZwNu9tYOzHcwb/3m+yeO9MnLh/j+esTm8v/YxKwbbpe7q469m8H6AyfHbx68593W3ugfm7+P5ebTn2D7+oX8u55fcFsBZzr+0j/UfZtrHO8+ZHWNq+/66TC/vffvePu+f34tX3iOr30Pzfc/v0e1rA4CfeLCC3yuW29u8zPSH8/v2XgJ6w3dtm5eQ9f3HyvC++BrbYnDl8U/PaIvl2nba7w3OfdPFx7jwHljY5vuYF+f1bX6f3GYfF15L572enUf3Od8Wj9cp0bvMyvC+81g974vvk/m9uHidC9vWDwjrW/verlwbAFzh8Qp+XDC456Xs01ah2DjGy+v09bNes7X/reG9cfzvrS0Fn649/qddJb997bXnvsfuY6zcA20G7fbyMnl8vp95hq8rec3ukXe32MenPZks7mB+Hu3VTmzeX5fql+F55q2N896Tyfu2dC9eeY9sHH99Hdm4NgD4occs+J/WPl2bDdqeXkmZDNHOcP96vCkkveK0uv99w/uqa7zB8T90cnjf5p94nrvq3He6xTHmP8Scyt70uuf7W8hwVurWcrrFPqb6mWy9fuE81qzeX5ebn/dS6T6377zn+/7e5u/r3M/vkflzpue5to7suzYAuNRDF3w41i0K2C32AQCwn4IPi25Rzm+xDwCA/RR8WHSLcn6LfQAA7Kfgw6JblPNb7AMAYD8FHxbdopzfYh8AAPsp+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+JT2H//v/2w2m81m625QlYJPae1iPuL2n//9v2//9fw/7/9sHxtlk4EMsslABu0GVSn4lNYu5iNuGeb/+te/3v/ZPjbKJgMZZJOBDNoNqlLwKc1C/vb273//+32g55+jkoEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqU9xkL+9+31+ent6enp7fn1b/vgrzt0oP99fXt++rj2r+3lT/usX3doBm9/3l6aDA6I4OAMzpzdE/f+fjgyg7+vz9Pvg4PuhyMziFkOz69v970LHmUuwO9S8Cnt+IX8u9wfUWjisIH+52VWZI4a6odl0PsB56B74bAMJo79fjgug+l1t9sYBX8lgzuvB8fPBfh9Cj6lHbqQdwruvQtNHDPQz4f5y9tXfznLZIRS8+fllMHz28dbv5DLHRyVwbn209t7fz8cl8H3n+Lc+5pbR2Xw/d6fvhem98M914ND5wLciYJPaUct5G2ROarQxCEDffHXMM5+XeWOE/2QDM6v9ewTyu97Y7CC3/nTjHt/PxyWwdm13/G27zomg7MfbI8O4MC5APek4FPaUQv5V4lLsVssu/dxzEBfMlLB7+mX/ns4OoPTn2Y8v7wc9v1wVAZLP/Df83vg5JgMzv8E48+hv6YVR80FuCcFn9KOWsgz0L8Gl4L/5bzo3DOLR8hgUvLuXO7j0AxOv5p18A+8R2Xw/atane3O98IhGXT+9Gay3fkHnaPmAtyTgk9pD7GQH1ho4pCB3jP5Ownfv4d7D4+QQVvy7txpDszg9Ont53t+4PfDMRmc/XpK91e17pvDIRk0Bf9078//jsp9PMRcgF+m4FPaQyzkBxaaOGSgt5q/cHzvHB4ig0+9v2x4D0dl8PWrOQ/wJ1pHZdA30K+rnRf88z+xOOheeIi5AL9Mwae0h1jIDxpiJ4cM9HPtf03ojmXm5PAMJgYqdl/v/dlfKD7w++GQDBb1P9n/bYdkcF7wJ/f8Md8LDzEX4Jcp+JT2EAv5gYUmDhnoJ+3v3t5xiJ87NIOZY0rNERm0v5bU3+73JxlHZLBsoIK/eM8vff13PcRcgF+m4FPaQyzkwxb85v/gescB3jokg8X3/Zj/JvoRGSj4++6De35vHJLB4v//4ZjvhYeYC/DLFHxKe4iFfHHA38cxA70pd3f8hLLnmAzOf8D5LjVH/cXCYzLoOPD74ZgM+vfBUf+Tp2MymF7v6X0/6u+jPMRcgF+m4FPaQyzkBxaaOGSgt7+a09vu2GoOySDav39wtt37Xjgsg9aB3w+HZeA+aD7FPzaDh5gL8MsUfEp7iIX8wEITRwz0xf+xz/k2QsF/1/yq0p0/sT05NoMzB34/HJuB+yDaX9s6IoOHmAvwyxR8SrOQHz/QH4EMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwae084V81O2/nv/nfaDnn+1jo2wykEE2Gcig3aAqBZ/S2sV8xO0///t/34d5/tk+NsomAxlkk4EM2g2qUvAprV3MbTabzWY7bVCVgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AHfx5+3l6ent+fXv5N9f/jRPm2hf8wD+vr69PNL5ADCj4AMc4p9Y8B/tfADoUfABDqHgA/A7FHyguFOR/vjn0+fWK6l/X5+/Hu8+5+/r2/PZ409PL2+Tfr76eFuO95xX+5oP7Xmu/5DwoX3NnuNMvz49z6fn17fTs9t9PzUn1D7eO3abw8c+1rKZ73eWw+r7AVCXgg8U910SvwrgZ/E7L4x/XvKc57evL7XP+fz38xL5/ppT0d16fFai95xX+5pTqV05z47Na+scp//19t9P+57/IHMq+XuPff6c7+Lefm3532f73Xw/AOpS8IHipoXz5KMgfhbTThmcPefPy7RQtrYen5XjHee18Jq2iE9f09hzbQv7nX+9/+/tvr9ccOxJDm1ZP/vax9Pa8zg95YL3C6AwBR8obqGEvhfGzwK4VAY7pbL3qyIf9j2+WY4n59K8ZvU8O1+P1desF+b513eez8nS45vH7mVz9rXV/U6zW34/AOpS8IHiemWxV/A7n4DPPoH++/b6fP473e1+1x5vi+yO82pf836e0/1/b53C+/WarWtrz+2k/XrvfDr7Pll6fPPYvWzagt9efy+HtfcDoC4FHyiuVxZPJXHPJ/idr787lce9j7dFdsd5ta9ZOs81S69Z+0HiS/v1C89n6fHNY/eyaQt+Z7+r2vcDoC4FHyjuoxh2f9d95S/Ifj2n9wn0l14RPXf+eFtk23//MDmv9jkL57lq4TW934Nvz+X02sVzXtj3l4XHt4/dy/Xsawv73dbbL0A9Cj5Q3GfBPy92nYK4+V976XxqvPWXOteL7Om8zl7z+asn3+fVvua0z+lx5v8lm6nNa+vu4zu37+d9fAq+/rrPT8o/f0jZPvb8GvtFfPq1zRw23w+AuhR8oLhTgXz9KqxLv4v9UQBXnjP73e/m1z1WH2+L7Kmwfhfp+THb13xoz3PPf/qxfc3s2ma/r55znx//ez/fRbndd/dPSxaPPT9GW+aXvtbud5bD6vsBUJeCDxTXK5AAUJeCDxSn4AMwFgUfKE7BB2AsCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAU8v8BWmskLxAJHFUAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how sample estimates vary across repeated samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated simulated samples reveal typical sampling variation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for random sampling]]></text>
+      <feedback format="html">
+        <text><![CDATA[Good sampling design is still needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every sample estimate identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation shows variation, not identical results.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It proves the exact population value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation estimates uncertainty; it does not prove the exact value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>For a school survey report, a mean estimate is 35 with a margin of error of 5. What interval should be reported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 to 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not center the interval on 35.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Use 35 - 5 and 35 + 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 to 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin is not the lower endpoint.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>In a homework analysis, a survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>In a homework analysis, what does a confidence level describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The percent of people in the sample who agree]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is a sample percentage, not confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run success rate of the interval method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level describes the method over many repeated samples.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact chance that one person is correct]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level is not about one person being correct.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of survey questions asked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Question count does not define confidence level.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>In a homework analysis, why can simulation help develop a margin of error?</p><p><img src="@@PLUGINFILE@@/STAT_U05_L03_QZ_Q19_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U05_L03_QZ_Q19_visual.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAvgAAAHMCAYAAACgIdzFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB+JSURBVHhe7d3LcSPJli1QitGTHvX46kEFWoKnAluVaz2gKG2WqqQmfLZJgkR4eHxAgAjU8bXMwsqKAOKzEfSziWRWPb0BAABlPLVfAAAA/rkUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAoRMEHAIBCFHwAAChEwQcAgEIUfAAAKETBBwCAQhR8AAAo5KEL/p+Xp7enp9728vanffKiP28vFz3/Ukv7z9fPzvn59e1v+5SbOPr4v+s29wA/t3R/Lfn79vo8fa9e9rz4z8v0/f26X2vcx32Vrw2AIz1kwf/7+twpdJ1tdSCeF41LCspeW/v/7eF99PF/123uAX5u6/5aNnvvdjT89ge575f8s+/jdZWvDYAjPV7Bbz/J29q6Q7H9FPGygrJtz/5/c3gfffxfdpN7gJ/bc3+t+Pv69jx5j7Ze39yrk+f/g+/jTZWvDYAjPVjBbwf9vm3+AeGVBWXTb+9/y9HH/023ugf4uWvvr/b1G+9P+wPd6pMrUfAB+B2PVfBnn/w9v73OJt68PMwLQfucSwvKlt/e/5ajj/+LbnYP8HNtvpffX5f8ms7yr+dUp+AD8Dseq+A3n+Q9z5vdp+XBOCsW7dZpD4uvueS5s9csn+NE++lld1/fbn78d0ufmm8UuwvPfZcb3AP7Ht9zrOk+Ph5vy2+2tZxusY+pthDve33nPNr37+XPBffXhtkPakvn19577fN2vI/RXsuuc96x78175NtidtccHwB+4LEK/qwU9D69Xbc4ZLvDti0XvW16Dvv3vzW8eyWvv52f8u2O//msblmcbvNS87Nz3+UG98CHHde/Wd6aUvzy0pzbnmu9xT4+rZXY09a7znfb55Hr339/bZnfI92Xttc0e9LW+zg/ztI22/XmvufnN79H3p908TrSfV3v+ADwA49V8FeHdW9Azl1SUPaU2/Y1+/e/Prw39zPZvj/V3HzdzuO/P2Pv9V/6Q8Zkaz+R3XL9PfBh+/q3y9ue4rZ1frfYx/xcV7fetW6ex8f7tPnezlvyotm+Oq9t78H5U9bfx9kxVrf2Xlzf98dTtu6R+TUsbrOL23F8APiBByv4vU9wF7bZsDzXlsR2sM+PMxncszLVvn7H/leHd/P6zrWcSkOvUMxef/Hx59ffFstZcfp6/bXnvsPs3Ba2zrG/bVz/+1O2yluvFE9zmpW72XF+Zx/Tc916vP+c+XFO9txfO7Tv4+x47Tn1jrP2Pl57L67t+/SUjXvkqnVkx/EB4Acer+BHWwxWttnA/djBZkGZFNjZYN16/dbjsTa8p4/1r2HNtcdvS2XvU+PTMdrHrj33na6+B9av/+MpG+Wt3Uf3E+b2vVjP6yf7aH/Ymp9ntMdp74n28d55nLTn0+5rr3Y/TTbte9w9obX38dp7cW3fp6es3yPXrSM7jg8AP/CYBf9k9glYf2uH7vZg3bL1+q3HY214t68/bW05XNK+/srjX1Qs2mNfeu4X+vE9sHb9p6esl7dd+2hL3qw4X7uPNu/ee/1heR/RFvzl/VxyzC3tOZ1n3D7W7fftea/dx1/b3ntxbd+np2zdI2va82tz3HF8APiBxy74E+2wXBvo7XPbwbqsLR391+/Z/8bw3lNc29d8ufb4a4/tcNW5X6O97vOtvQd2XONmeWv20W+gG/u5dh87ruNkcR/vD+7fzyzn3v21U/sp/ddx9x5j47yvuhc39v3+lLVMl+1bR3YcHwB+4B9U8M+15aAdvO3j7WD9Nvv95+7Wvn7P/reHd78EdLZZKbz2+GuP7fPzc7+VNoP2HthxjZvl7dpy/v7glfvYcR0ni/t4f3D/fmbZ9u6vvdp9ff4gtva76xPb5/3ze3F73+uZfvvZOrLj+ADwAw9U8C8cdu0ng5Ph3ZaKdrB2Xv++nT4F3nr91uNxwfV0z2W6TbvJtcdfe+xCF5/7mgvPqz325EA79rVZ3nbsI1b3c+0+dr4+Fvfx/uD+/ey6v/ZrC3jOa/q19k9fzl1w3u390NlWf22pt+/VTJeOuXcd2XF8APiBByr47TBsh3Gj/aP55snTT9TawdocazZY23NpX7+1//dn/Hx490rDRdf3/oyV429f34/tOPdl7Xldcw+sXf/pKRvlrd3HQk5tgV0tkRfvo82k//pY3kfsyOPM9v11gfaeeH55e1n9/jt32XlPtMfNdtN75Np1ZMfxAeAHHqjgzwvKfKB+aotd53mrBaUd/LMWuV3KVvf/8Ywrh3fz+psW/Pb1bRmcPqfNdtv6ua+53T1w6XvYvv79Gc0+ejm1Ja79NPr6fbSZzM8z2uO017t+P7S2769LtNc33frXc3LZec+t3YtbmbU5NOd69Tpy7bUBQN9DFfzZwNu9tYOzHcwb/3m+yeO9MnLh/j+esTm8v/YxKwbbpe7q469m8H6AyfHbx68593W3ugfm7+P5ebTn2D7+oX8u55fcFsBZzr+0j/UfZtrHO8+ZHWNq+/66TC/vffvePu+f34tX3iOr30Pzfc/v0e1rA4CfeLCC3yuW29u8zPSH8/v2XgJ6w3dtm5eQ9f3HyvC++BrbYnDl8U/PaIvl2nba7w3OfdPFx7jwHljY5vuYF+f1bX6f3GYfF15L572enUf3Od8Wj9cp0bvMyvC+81g974vvk/m9uHidC9vWDwjrW/verlwbAFzh8Qp+XDC456Xs01ah2DjGy+v09bNes7X/reG9cfzvrS0Fn649/qddJb997bXnvsfuY6zcA20G7fbyMnl8vp95hq8rec3ukXe32MenPZks7mB+Hu3VTmzeX5fql+F55q2N896Tyfu2dC9eeY9sHH99Hdm4NgD4occs+J/WPl2bDdqeXkmZDNHOcP96vCkkveK0uv99w/uqa7zB8T90cnjf5p94nrvq3He6xTHmP8Scyt70uuf7W8hwVurWcrrFPqb6mWy9fuE81qzeX5ebn/dS6T6377zn+/7e5u/r3M/vkflzpue5to7suzYAuNRDF3w41i0K2C32AQCwn4IPi25Rzm+xDwCA/RR8WHSLcn6LfQAA7Kfgw6JblPNb7AMAYD8FHxbdopzfYh8AAPsp+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+JT2H//v/2w2m81m625QlYJPae1iPuL2n//9v2//9fw/7/9sHxtlk4EMsslABu0GVSn4lNYu5iNuGeb/+te/3v/ZPjbKJgMZZJOBDNoNqlLwKc1C/vb273//+32g55+jkoEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqVZyA30kIEMQgYyCHOBESj4lGYhN9BDBjIIGcggzAVGoOBTmoXcQA8ZyCBkIIMwFxiBgk9pFnIDPWQgg5CBDMJcYAQKPqU9xkL+9+31+ent6enp7fn1b/vgrzt0oP99fXt++rj2r+3lT/usX3doBm9/3l6aDA6I4OAMzpzdE/f+fjgyg7+vz9Pvg4PuhyMziFkOz69v970LHmUuwO9S8Cnt+IX8u9wfUWjisIH+52VWZI4a6odl0PsB56B74bAMJo79fjgug+l1t9sYBX8lgzuvB8fPBfh9Cj6lHbqQdwruvQtNHDPQz4f5y9tXfznLZIRS8+fllMHz28dbv5DLHRyVwbn209t7fz8cl8H3n+Lc+5pbR2Xw/d6fvhem98M914ND5wLciYJPaUct5G2ROarQxCEDffHXMM5+XeWOE/2QDM6v9ewTyu97Y7CC3/nTjHt/PxyWwdm13/G27zomg7MfbI8O4MC5APek4FPaUQv5V4lLsVssu/dxzEBfMlLB7+mX/ns4OoPTn2Y8v7wc9v1wVAZLP/Df83vg5JgMzv8E48+hv6YVR80FuCcFn9KOWsgz0L8Gl4L/5bzo3DOLR8hgUvLuXO7j0AxOv5p18A+8R2Xw/atane3O98IhGXT+9Gay3fkHnaPmAtyTgk9pD7GQH1ho4pCB3jP5Ownfv4d7D4+QQVvy7txpDszg9Ont53t+4PfDMRmc/XpK91e17pvDIRk0Bf9078//jsp9PMRcgF+m4FPaQyzkBxaaOGSgt5q/cHzvHB4ig0+9v2x4D0dl8PWrOQ/wJ1pHZdA30K+rnRf88z+xOOheeIi5AL9Mwae0h1jIDxpiJ4cM9HPtf03ojmXm5PAMJgYqdl/v/dlfKD7w++GQDBb1P9n/bYdkcF7wJ/f8Md8LDzEX4Jcp+JT2EAv5gYUmDhnoJ+3v3t5xiJ87NIOZY0rNERm0v5bU3+73JxlHZLBsoIK/eM8vff13PcRcgF+m4FPaQyzkwxb85v/gescB3jokg8X3/Zj/JvoRGSj4++6De35vHJLB4v//4ZjvhYeYC/DLFHxKe4iFfHHA38cxA70pd3f8hLLnmAzOf8D5LjVH/cXCYzLoOPD74ZgM+vfBUf+Tp2MymF7v6X0/6u+jPMRcgF+m4FPaQyzkBxaaOGSgt7+a09vu2GoOySDav39wtt37Xjgsg9aB3w+HZeA+aD7FPzaDh5gL8MsUfEp7iIX8wEITRwz0xf+xz/k2QsF/1/yq0p0/sT05NoMzB34/HJuB+yDaX9s6IoOHmAvwyxR8SrOQHz/QH4EMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwac0C7mBHjKQQchABmEuMAIFn9Is5AZ6yEAGIQMZhLnACBR8SrOQG+ghAxmEDGQQ5gIjUPApzUJuoIcMZBAykEGYC4xAwae084V81O2/nv/nfaDnn+1jo2wykEE2Gcig3aAqBZ/S2sV8xO0///t/34d5/tk+NsomAxlkk4EM2g2qUvAprV3MbTabzWY7bVCVgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AABQiIIPAACFKPgAAFCIgg8AAIUo+AAAUIiCDwAAhSj4AHfx5+3l6ent+fXv5N9f/jRPm2hf8wD+vr69PNL5ADCj4AMc4p9Y8B/tfADoUfABDqHgA/A7FHyguFOR/vjn0+fWK6l/X5+/Hu8+5+/r2/PZ409PL2+Tfr76eFuO95xX+5oP7Xmu/5DwoX3NnuNMvz49z6fn17fTs9t9PzUn1D7eO3abw8c+1rKZ73eWw+r7AVCXgg8U910SvwrgZ/E7L4x/XvKc57evL7XP+fz38xL5/ppT0d16fFai95xX+5pTqV05z47Na+scp//19t9P+57/IHMq+XuPff6c7+Lefm3532f73Xw/AOpS8IHipoXz5KMgfhbTThmcPefPy7RQtrYen5XjHee18Jq2iE9f09hzbQv7nX+9/+/tvr9ccOxJDm1ZP/vax9Pa8zg95YL3C6AwBR8obqGEvhfGzwK4VAY7pbL3qyIf9j2+WY4n59K8ZvU8O1+P1desF+b513eez8nS45vH7mVz9rXV/U6zW34/AOpS8IHiemWxV/A7n4DPPoH++/b6fP473e1+1x5vi+yO82pf836e0/1/b53C+/WarWtrz+2k/XrvfDr7Pll6fPPYvWzagt9efy+HtfcDoC4FHyiuVxZPJXHPJ/idr787lce9j7dFdsd5ta9ZOs81S69Z+0HiS/v1C89n6fHNY/eyaQt+Z7+r2vcDoC4FHyjuoxh2f9d95S/Ifj2n9wn0l14RPXf+eFtk23//MDmv9jkL57lq4TW934Nvz+X02sVzXtj3l4XHt4/dy/Xsawv73dbbL0A9Cj5Q3GfBPy92nYK4+V976XxqvPWXOteL7Om8zl7z+asn3+fVvua0z+lx5v8lm6nNa+vu4zu37+d9fAq+/rrPT8o/f0jZPvb8GvtFfPq1zRw23w+AuhR8oLhTgXz9KqxLv4v9UQBXnjP73e/m1z1WH2+L7Kmwfhfp+THb13xoz3PPf/qxfc3s2ma/r55znx//ez/fRbndd/dPSxaPPT9GW+aXvtbud5bD6vsBUJeCDxTXK5AAUJeCDxSn4AMwFgUfKE7BB2AsCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAUouADAEAhCj4AABSi4AMAQCEKPgAAFKLgAwBAIQo+AAAU8v8BWmskLxAJHFUAAAAASUVORK5CYII=</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for random sampling]]></text>
+      <feedback format="html">
+        <text><![CDATA[Good sampling design is still needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how sample estimates vary across repeated samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated simulated samples reveal typical sampling variation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every sample estimate identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation shows variation, not identical results.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It proves the exact population value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation estimates uncertainty; it does not prove the exact value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>In a homework analysis, a mean estimate is 35 with a margin of error of 5. What interval should be reported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 to 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not center the interval on 35.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 to 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin is not the lower endpoint.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Use 35 - 5 and 35 + 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>For a second data example, a survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>For a second data example, what does a confidence level describe?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The percent of people in the sample who agree]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is a sample percentage, not confidence level.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The exact chance that one person is correct]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level is not about one person being correct.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The long-run success rate of the interval method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Confidence level describes the method over many repeated samples.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The number of survey questions asked]]></text>
+      <feedback format="html">
+        <text><![CDATA[Question count does not define confidence level.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>For a second data example, why can simulation help develop a margin of error?</p><p><img src="@@PLUGINFILE@@/STAT_U05_L03_QZ_Q23_visual.png" alt="Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts." style="max-width:100%;height:auto;" /></p>]]></text>
+      <file name="STAT_U05_L03_QZ_Q23_visual.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It shows how sample estimates vary across repeated samples]]></text>
+      <feedback format="html">
+        <text><![CDATA[Repeated simulated samples reveal typical sampling variation.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It removes the need for random sampling]]></text>
+      <feedback format="html">
+        <text><![CDATA[Good sampling design is still needed.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It makes every sample estimate identical]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation shows variation, not identical results.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It proves the exact population value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Simulation estimates uncertainty; it does not prove the exact value.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.2</p><p>For a second data example, a mean estimate is 35 with a margin of error of 5. What interval should be reported?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25 to 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not center the interval on 35.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[35 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30 to 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Use 35 - 5 and 35 + 5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 to 35]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin is not the lower endpoint.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U05_L03_QZ_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U05_L03_QZ_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.INF.1</p><p>In an end-of-lesson review, a survey estimates that 58% of students prefer online review with a margin of error of 4 percentage points. What interval is represented?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4% to 58%]]></text>
+      <feedback format="html">
+        <text><![CDATA[The margin of error is not the lower endpoint by itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[54% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtract and add 4 percentage points to the estimate.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[58% to 62%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This only adds the margin and does not subtract it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50% to 54%]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts too much and does not center on 58%.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

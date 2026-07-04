@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 03/Lesson 05/STAT_U03_L05_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which sequence shows exponential growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2, 4, 6, 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 2 each time, so it is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[16, 14, 12, 10]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 2 each time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2, 3, 5, 8]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use a constant multiplier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2, 4, 8, 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each value is multiplied by 2.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which sequence shows exponential decay?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[100, 90, 80, 70]]></text>
+      <feedback format="html">
+        <text><![CDATA[This subtracts 10 each time, so it is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10, 20, 30, 40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds 10 each time.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5, 7, 10, 14]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not use one constant multiplier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[100, 50, 25, 12.5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each value is multiplied by 0.5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>In y = 75(1.2)ˣ, what is the starting value?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the growth factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[90]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the value after one step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x]]></text>
+      <feedback format="html">
+        <text><![CDATA[x is the input variable.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[75]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting value is the number multiplied by the exponential factor.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>In y = 75(1.2)ˣ, what is the growth factor?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor inside parentheses is multiplied each step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[75]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the starting value.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This confuses 20 percent with the factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[x]]></text>
+      <feedback format="html">
+        <text><![CDATA[x is the input variable.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>A growth factor of 1.2 means what percent increase each step?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[20 percent increase]]></text>
+      <feedback format="html">
+        <text><![CDATA[1.2 means 100 percent plus 20 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1.2 percent increase]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor 1.2 equals a 20 percent increase, not 1.2 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[80 percent decrease]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 indicates growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[120 percent decrease]]></text>
+      <feedback format="html">
+        <text><![CDATA[A decrease cannot be represented by a factor greater than 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>A decay factor of 0.80 means what percent decrease each step?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[80 percent decrease]]></text>
+      <feedback format="html">
+        <text><![CDATA[Keeping 80 percent means losing 20 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[20 percent decrease]]></text>
+      <feedback format="html">
+        <text><![CDATA[1 - 0.80 = 0.20, so the decrease is 20 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[8 percent decrease]]></text>
+      <feedback format="html">
+        <text><![CDATA[0.80 is not the same as 8 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[180 percent increase]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor less than 1 shows decay.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Use y = 10(3)ˣ to predict y when x = 2.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses x = 1, not x = 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[60]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies by 3 and by 2 instead of using 3&#178;.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[100]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not follow the model.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[90]]></text>
+      <feedback format="html">
+        <text><![CDATA[10(3)&#178; = 10(9) = 90.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Use y = 50(0.5)ˣ to predict y when x = 2.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the starting value at x = 0.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12.5]]></text>
+      <feedback format="html">
+        <text><![CDATA[50(0.5)&#178; = 50(0.25) = 12.5.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[25]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the value after one step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[100]]></text>
+      <feedback format="html">
+        <text><![CDATA[This increases instead of decays.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which model shows exponential growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y = 30(1.4)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor 1.4 is greater than 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 30(0.7)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This shows decay because the factor is less than 1.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 30 + 4x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear, not exponential.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 4x + 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear, not exponential.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which model shows exponential decay?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 90(1.1)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[This shows growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 90 + 6x]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[y = 6x + 90]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[y = 90(0.6)ˣ]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor 0.6 is between 0 and 1.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>What makes a data pattern exponential rather than linear?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It uses two variables]]></text>
+      <feedback format="html">
+        <text><![CDATA[Linear and exponential models both can use two variables.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has a table]]></text>
+      <feedback format="html">
+        <text><![CDATA[Tables can represent many types of patterns.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes by a constant difference]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes a linear pattern.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It changes by a constant multiplier]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential patterns use repeated multiplication.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>What makes a data pattern linear rather than exponential?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[It changes by a constant difference]]></text>
+      <feedback format="html">
+        <text><![CDATA[Linear patterns add or subtract the same amount each step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It changes by a constant multiplier]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes exponential change.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It curves upward]]></text>
+      <feedback format="html">
+        <text><![CDATA[A curve often suggests non-linear growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[It has a starting value]]></text>
+      <feedback format="html">
+        <text><![CDATA[Both model types can have starting values.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>In y = 60(1.15)ˣ, what does 1.15 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add 1.15 each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential models multiply by the factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 1.15]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting value is 60.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiply by 1.15 each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[The factor is the repeated multiplier.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Decrease by 15 percent]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 indicates increase.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>In y = 60(0.85)ˣ, what does 0.85 represent?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Increase by 85 percent]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor less than 1 shows decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Keep 85 percent each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[Keeping 85 percent means decreasing by 15 percent.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 0.85]]></text>
+      <feedback format="html">
+        <text><![CDATA[The starting value is 60.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Add 0.85 each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential models multiply by the factor.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which prediction is most risky?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Predicting one step beyond the observed data]]></text>
+      <feedback format="html">
+        <text><![CDATA[This may still be reasonable if context supports it.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Predicting within the observed data range]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is usually less risky.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Predicting far outside the observed data range]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential models can grow or shrink quickly, so far extrapolation is risky.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Predicting at an observed x-value]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not risky compared with extrapolation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Why can exponential predictions become unrealistic?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Repeated multiplication can grow or shrink very quickly]]></text>
+      <feedback format="html">
+        <text><![CDATA[Fast change can lead to unrealistic long-range predictions.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exponential models cannot use numbers]]></text>
+      <feedback format="html">
+        <text><![CDATA[They can use numbers.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They always become linear]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential models do not become linear by definition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[They prove causation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Models do not prove causation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which context often fits exponential growth?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A taxi fare increasing by 3 dollars per mile]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is constant addition, so it is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A population doubling over equal time intervals]]></text>
+      <feedback format="html">
+        <text><![CDATA[Doubling is repeated multiplication by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A score increasing by exactly 2 points each week]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is linear.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A balance decreasing by exactly 5 dollars each day]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is linear decrease.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which context often fits exponential decay?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A bill increasing by 10 dollars each month]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is linear growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Distance increasing by 2 miles every hour]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is linear growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Medicine amount decreasing by the same percent each hour]]></text>
+      <feedback format="html">
+        <text><![CDATA[Same percent decrease is exponential decay.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Points increasing by 1 every round]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is linear growth.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Use y = 25(2)ˣ to predict y when x = 3.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[75]]></text>
+      <feedback format="html">
+        <text><![CDATA[This multiplies 25 by 3, not by 2&#179;.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[200]]></text>
+      <feedback format="html">
+        <text><![CDATA[25(2)&#179; = 25(8) = 200.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[100]]></text>
+      <feedback format="html">
+        <text><![CDATA[This uses 2&#178;, not 2&#179;.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[250]]></text>
+      <feedback format="html">
+        <text><![CDATA[This does not follow the model.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Use y = 80(0.5)ˣ to predict y when x = 3.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[80(0.5)&#179; = 80(0.125) = 10.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[40]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the value after one step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the value after two steps.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[160]]></text>
+      <feedback format="html">
+        <text><![CDATA[This increases instead of decays.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which phrase best describes exponential association?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A curved relationship based on repeated multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential association changes by factors.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A straight relationship based on repeated addition]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes linear association.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A relationship between two categories only]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes categorical association, not exponential numerical modeling.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A relationship that always proves causation]]></text>
+      <feedback format="html">
+        <text><![CDATA[No model alone proves causation.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>The values 7, 14, 28, 56 have what growth factor?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[The first value is 7, but the repeated multiplier is 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[14]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is the second value, not the growth factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each value is multiplied by 2.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[49]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is not the repeated multiplier.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>The values 81, 27, 9, 3 have what decay factor?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[The values are divided by 3, which means multiplied by 1/3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one of the values, not the factor.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1/3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Each value is multiplied by 1/3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[27]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is one of the values, not the factor.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which is the best interpretation of y = 500(0.9)ˣ</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 0.9 and add 500 each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the model parts and uses addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Start at 500 and keep 90 percent each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[The model starts at 500 and decays by 10 percent each step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 500 and increase by 90 percent each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor of 0.9 means decay, not growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 500 and subtract 0.9 each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[Exponential models multiply, not subtract.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U03_L05_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U03_L05_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.BVM.6</p><p>Which is the best interpretation of y = 500(1.08)ˣ</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 1.08 and add 500 each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[This reverses the model parts and uses addition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 500 and decrease by 8 percent each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor greater than 1 shows growth.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Start at 500 and increase by 8 percent each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor of 1.08 means 8 percent growth each step.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Start at 500 and increase by 108 percent each step]]></text>
+      <feedback format="html">
+        <text><![CDATA[A factor of 1.08 means 108 percent of the previous value, or 8 percent increase.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

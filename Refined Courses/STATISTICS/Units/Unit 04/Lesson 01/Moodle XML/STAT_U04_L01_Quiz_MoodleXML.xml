@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 04/Lesson 01/STAT_U04_L01_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>What is the sample space for flipping one coin?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 2, 3, 4, 5, 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the sample space for a number cube.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[H, T]]></text>
+      <feedback format="html">
+        <text><![CDATA[Heads and tails are the two possible outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[H only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out tails.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[T only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out heads.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>For S = (1, 2, 3, 4, 5, 6), which event represents rolling an even number?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are odd outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are outcomes greater than 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the even outcomes in the sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>If A = (1, 2, 3) and B = (3, 4, 5), what is A and B?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A or B, not A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The intersection contains outcomes in both events.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>If S = (red, blue, green) and A = (red), what is not A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A, not the complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The complement contains outcomes in S that are not in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red, blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out blue.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>What does A or B mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in A, in B, or in both]]></text>
+      <feedback format="html">
+        <text><![CDATA[The union includes either event and any overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes not A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The full sample space every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B may be smaller than the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a class data check, what is the sample space for flipping one coin?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 2, 3, 4, 5, 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the sample space for a number cube.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[H only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out tails.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[H, T]]></text>
+      <feedback format="html">
+        <text><![CDATA[Heads and tails are the two possible outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[T only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out heads.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a class data check, for S = (1, 2, 3, 4, 5, 6), which event represents rolling an even number?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are odd outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are outcomes greater than 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the even outcomes in the sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a class data check, if A = (1, 2, 3) and B = (3, 4, 5), what is A and B?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A or B, not A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The intersection contains outcomes in both events.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a class data check, if S = (red, blue, green) and A = (red), what is not A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red, blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out blue.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A, not the complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The complement contains outcomes in S that are not in A.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a class data check, what does A or B mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in A, in B, or in both]]></text>
+      <feedback format="html">
+        <text><![CDATA[The union includes either event and any overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes not A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The full sample space every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B may be smaller than the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>During a tutoring review, what is the sample space for flipping one coin?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[H only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out tails.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 2, 3, 4, 5, 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the sample space for a number cube.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[H, T]]></text>
+      <feedback format="html">
+        <text><![CDATA[Heads and tails are the two possible outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[T only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out heads.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>During a tutoring review, for S = (1, 2, 3, 4, 5, 6), which event represents rolling an even number?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are odd outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are outcomes greater than 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the even outcomes in the sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>During a tutoring review, if A = (1, 2, 3) and B = (3, 4, 5), what is A and B?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The intersection contains outcomes in both events.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A or B, not A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in B.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>During a tutoring review, if S = (red, blue, green) and A = (red), what is not A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A, not the complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The complement contains outcomes in S that are not in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out blue.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red, blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>During a tutoring review, what does A or B mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes not A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in A, in B, or in both]]></text>
+      <feedback format="html">
+        <text><![CDATA[The union includes either event and any overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The full sample space every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B may be smaller than the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>For a school survey report, what is the sample space for flipping one coin?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[H, T]]></text>
+      <feedback format="html">
+        <text><![CDATA[Heads and tails are the two possible outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[T only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out heads.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 2, 3, 4, 5, 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the sample space for a number cube.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[H only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out tails.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>For a school survey report, for S = (1, 2, 3, 4, 5, 6), which event represents rolling an even number?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the even outcomes in the sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are odd outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are outcomes greater than 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>For a school survey report, if A = (1, 2, 3) and B = (3, 4, 5), what is A and B?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A or B, not A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The intersection contains outcomes in both events.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>For a school survey report, if S = (red, blue, green) and A = (red), what is not A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A, not the complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red, blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The complement contains outcomes in S that are not in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out blue.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>For a school survey report, what does A or B mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The full sample space every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B may be smaller than the full sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in A, in B, or in both]]></text>
+      <feedback format="html">
+        <text><![CDATA[The union includes either event and any overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes not A.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a homework analysis, what is the sample space for flipping one coin?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1, 2, 3, 4, 5, 6]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the sample space for a number cube.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[H, T]]></text>
+      <feedback format="html">
+        <text><![CDATA[Heads and tails are the two possible outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[H only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out tails.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[T only]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out heads.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a homework analysis, for S = (1, 2, 3, 4, 5, 6), which event represents rolling an even number?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(2, 4, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are the even outcomes in the sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 3, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are odd outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Those are outcomes greater than 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5, 6)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a homework analysis, if A = (1, 2, 3) and B = (3, 4, 5), what is A and B?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2, 3, 4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A or B, not A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(3)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The intersection contains outcomes in both events.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(1, 2)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(4, 5)]]></text>
+      <feedback format="html">
+        <text><![CDATA[These are only in B.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a homework analysis, if S = (red, blue, green) and A = (red), what is not A?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is A, not the complement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(red, blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the full sample space.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[(green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[This leaves out blue.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[(blue, green)]]></text>
+      <feedback format="html">
+        <text><![CDATA[The complement contains outcomes in S that are not in A.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L01_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L01_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.1</p><p>In a homework analysis, what does A or B mean?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Outcomes in A, in B, or in both]]></text>
+      <feedback format="html">
+        <text><![CDATA[The union includes either event and any overlap.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes in both A and B]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes A and B.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only outcomes not in A]]></text>
+      <feedback format="html">
+        <text><![CDATA[That describes not A.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The full sample space every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[A or B may be smaller than the full sample space.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

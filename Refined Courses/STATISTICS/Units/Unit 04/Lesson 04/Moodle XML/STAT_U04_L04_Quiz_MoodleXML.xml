@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 04/Lesson 04/STAT_U04_L04_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>A two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>A condition says &quot;among students who chose online notes.&quot; Which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of students who chose online notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability stays inside the group named by the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The grand total of all students every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is for overall probabilities, not conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only students who chose paper notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the opposite group, not the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest number in the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[The largest number may not match the question.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>Which table value is a marginal frequency?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the grand total]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is useful, but marginal frequencies are row and column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only an inside cell]]></text>
+      <feedback format="html">
+        <text><![CDATA[An inside cell is a joint frequency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A row total or column total]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies appear in the margins as row or column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a percentage written outside the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percentage may be a relative frequency, not the count itself.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>Two characteristics appear approximately independent when conditional percentages are what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Written as raw counts only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Raw counts can mislead because group sizes may differ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Close to each other]]></text>
+      <feedback format="html">
+        <text><![CDATA[Similar conditional percentages suggest the condition does not change the probability much.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always equal to 100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional percentages do not need to equal 100% individually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Based only on the largest row]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independence requires comparing relevant groups, not only the largest row.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a class data check, a two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a class data check, a condition says &quot;among students who chose online notes.&quot; Which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The grand total of all students every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is for overall probabilities, not conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of students who chose online notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability stays inside the group named by the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only students who chose paper notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the opposite group, not the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest number in the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[The largest number may not match the question.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a class data check, which table value is a marginal frequency?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the grand total]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is useful, but marginal frequencies are row and column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only an inside cell]]></text>
+      <feedback format="html">
+        <text><![CDATA[An inside cell is a joint frequency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A row total or column total]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies appear in the margins as row or column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a percentage written outside the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percentage may be a relative frequency, not the count itself.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a class data check, two characteristics appear approximately independent when conditional percentages are what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Written as raw counts only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Raw counts can mislead because group sizes may differ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always equal to 100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional percentages do not need to equal 100% individually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Based only on the largest row]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independence requires comparing relevant groups, not only the largest row.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Close to each other]]></text>
+      <feedback format="html">
+        <text><![CDATA[Similar conditional percentages suggest the condition does not change the probability much.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>During a tutoring review, a two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>During a tutoring review, a condition says &quot;among students who chose online notes.&quot; Which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of students who chose online notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability stays inside the group named by the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The grand total of all students every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is for overall probabilities, not conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only students who chose paper notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the opposite group, not the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest number in the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[The largest number may not match the question.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>During a tutoring review, which table value is a marginal frequency?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A row total or column total]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies appear in the margins as row or column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the grand total]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is useful, but marginal frequencies are row and column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only an inside cell]]></text>
+      <feedback format="html">
+        <text><![CDATA[An inside cell is a joint frequency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a percentage written outside the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percentage may be a relative frequency, not the count itself.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>During a tutoring review, two characteristics appear approximately independent when conditional percentages are what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Written as raw counts only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Raw counts can mislead because group sizes may differ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always equal to 100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional percentages do not need to equal 100% individually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Close to each other]]></text>
+      <feedback format="html">
+        <text><![CDATA[Similar conditional percentages suggest the condition does not change the probability much.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Based only on the largest row]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independence requires comparing relevant groups, not only the largest row.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a school survey report, a two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a school survey report, a condition says &quot;among students who chose online notes.&quot; Which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The grand total of all students every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is for overall probabilities, not conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of students who chose online notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability stays inside the group named by the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only students who chose paper notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the opposite group, not the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest number in the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[The largest number may not match the question.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a school survey report, which table value is a marginal frequency?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the grand total]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is useful, but marginal frequencies are row and column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only an inside cell]]></text>
+      <feedback format="html">
+        <text><![CDATA[An inside cell is a joint frequency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a percentage written outside the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percentage may be a relative frequency, not the count itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A row total or column total]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies appear in the margins as row or column totals.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a school survey report, two characteristics appear approximately independent when conditional percentages are what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Written as raw counts only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Raw counts can mislead because group sizes may differ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always equal to 100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional percentages do not need to equal 100% individually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Based only on the largest row]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independence requires comparing relevant groups, not only the largest row.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Close to each other]]></text>
+      <feedback format="html">
+        <text><![CDATA[Similar conditional percentages suggest the condition does not change the probability much.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a homework analysis, a two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a homework analysis, a condition says &quot;among students who chose online notes.&quot; Which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of students who chose online notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability stays inside the group named by the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The grand total of all students every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is for overall probabilities, not conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only students who chose paper notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the opposite group, not the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest number in the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[The largest number may not match the question.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a homework analysis, which table value is a marginal frequency?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the grand total]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is useful, but marginal frequencies are row and column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only an inside cell]]></text>
+      <feedback format="html">
+        <text><![CDATA[An inside cell is a joint frequency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a percentage written outside the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percentage may be a relative frequency, not the count itself.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A row total or column total]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies appear in the margins as row or column totals.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In a homework analysis, two characteristics appear approximately independent when conditional percentages are what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Written as raw counts only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Raw counts can mislead because group sizes may differ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always equal to 100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional percentages do not need to equal 100% individually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Based only on the largest row]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independence requires comparing relevant groups, not only the largest row.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Close to each other]]></text>
+      <feedback format="html">
+        <text><![CDATA[Similar conditional percentages suggest the condition does not change the probability much.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a second data example, a two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a second data example, a condition says &quot;among students who chose online notes.&quot; Which denominator should be used?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The total number of students who chose online notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability stays inside the group named by the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The grand total of all students every time]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is for overall probabilities, not conditional probabilities.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only students who chose paper notes]]></text>
+      <feedback format="html">
+        <text><![CDATA[That is the opposite group, not the condition.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the largest number in the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[The largest number may not match the question.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a second data example, which table value is a marginal frequency?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only the grand total]]></text>
+      <feedback format="html">
+        <text><![CDATA[The grand total is useful, but marginal frequencies are row and column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A row total or column total]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequencies appear in the margins as row or column totals.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only an inside cell]]></text>
+      <feedback format="html">
+        <text><![CDATA[An inside cell is a joint frequency.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only a percentage written outside the table]]></text>
+      <feedback format="html">
+        <text><![CDATA[A percentage may be a relative frequency, not the count itself.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>For a second data example, two characteristics appear approximately independent when conditional percentages are what?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Written as raw counts only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Raw counts can mislead because group sizes may differ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Always equal to 100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional percentages do not need to equal 100% individually.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Close to each other]]></text>
+      <feedback format="html">
+        <text><![CDATA[Similar conditional percentages suggest the condition does not change the probability much.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Based only on the largest row]]></text>
+      <feedback format="html">
+        <text><![CDATA[Independence requires comparing relevant groups, not only the largest row.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L04_QZ_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L04_QZ_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.6</p><p>In an end-of-lesson review, a two-way table shows 18 students are ninth graders who prefer online notes out of 90 students total. What type of probability is 18 out of 90?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability within ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[Conditional probability would use the ninth-grade total as the denominator.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal probability for all ninth graders]]></text>
+      <feedback format="html">
+        <text><![CDATA[A marginal probability would use a row or column total, not an inside cell.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Theoretical probability from a model]]></text>
+      <feedback format="html">
+        <text><![CDATA[The data are observed, so this is empirical, not theoretical.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Joint empirical probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[The count includes two categories at once and comes from observed data.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

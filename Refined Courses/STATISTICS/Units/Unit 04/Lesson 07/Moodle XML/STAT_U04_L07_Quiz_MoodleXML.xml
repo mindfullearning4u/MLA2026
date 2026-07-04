@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/STATISTICS/Units/Unit 04/Lesson 07/STAT_U04_L07_Quiz</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q01</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>A menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q02</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>A race awards first, second, and third place from 8 runners. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[A combination would fit if order did not matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order matters because first, second, and third are different roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is an event outside another event, not an arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequency belongs to two-way tables, not ranking.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q03</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>A club chooses 3 students from 9 for the same committee. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Addition rule]]></text>
+      <feedback format="html">
+        <text><![CDATA[The addition rule is for A or B probabilities, not selecting a committee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for equal committee roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation would overcount the same group in different orders.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being given in this selection.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q04</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>A code has 2 letters followed by 2 digits. Which operation combines the choices for each position?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Averaging]]></text>
+      <feedback format="html">
+        <text><![CDATA[Averaging does not count outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not combine independent stages of choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[The counting principle multiplies choices across stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Division only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division alone does not count all possible codes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q05</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>In a class data check, a menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q06</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>In a class data check, a race awards first, second, and third place from 8 runners. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[A combination would fit if order did not matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order matters because first, second, and third are different roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is an event outside another event, not an arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequency belongs to two-way tables, not ranking.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q07</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>In a class data check, a club chooses 3 students from 9 for the same committee. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Addition rule]]></text>
+      <feedback format="html">
+        <text><![CDATA[The addition rule is for A or B probabilities, not selecting a committee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for equal committee roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation would overcount the same group in different orders.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being given in this selection.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q08</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>In a class data check, a code has 2 letters followed by 2 digits. Which operation combines the choices for each position?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[The counting principle multiplies choices across stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Averaging]]></text>
+      <feedback format="html">
+        <text><![CDATA[Averaging does not count outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not combine independent stages of choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Division only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division alone does not count all possible codes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q09</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>During a tutoring review, a menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q10</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>During a tutoring review, a race awards first, second, and third place from 8 runners. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[A combination would fit if order did not matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order matters because first, second, and third are different roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is an event outside another event, not an arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequency belongs to two-way tables, not ranking.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q11</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>During a tutoring review, a club chooses 3 students from 9 for the same committee. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Addition rule]]></text>
+      <feedback format="html">
+        <text><![CDATA[The addition rule is for A or B probabilities, not selecting a committee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation would overcount the same group in different orders.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being given in this selection.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for equal committee roles.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q12</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>During a tutoring review, a code has 2 letters followed by 2 digits. Which operation combines the choices for each position?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Averaging]]></text>
+      <feedback format="html">
+        <text><![CDATA[Averaging does not count outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not combine independent stages of choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[The counting principle multiplies choices across stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Division only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division alone does not count all possible codes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q13</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>For a school survey report, a menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q14</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>For a school survey report, a race awards first, second, and third place from 8 runners. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order matters because first, second, and third are different roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[A combination would fit if order did not matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is an event outside another event, not an arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequency belongs to two-way tables, not ranking.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q15</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>For a school survey report, a club chooses 3 students from 9 for the same committee. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for equal committee roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Addition rule]]></text>
+      <feedback format="html">
+        <text><![CDATA[The addition rule is for A or B probabilities, not selecting a committee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation would overcount the same group in different orders.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being given in this selection.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q16</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>For a school survey report, a code has 2 letters followed by 2 digits. Which operation combines the choices for each position?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Averaging]]></text>
+      <feedback format="html">
+        <text><![CDATA[Averaging does not count outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not combine independent stages of choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Division only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division alone does not count all possible codes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[The counting principle multiplies choices across stages.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q17</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>In a homework analysis, a menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q18</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>In a homework analysis, a race awards first, second, and third place from 8 runners. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[A combination would fit if order did not matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is an event outside another event, not an arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order matters because first, second, and third are different roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequency belongs to two-way tables, not ranking.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q19</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>In a homework analysis, a club chooses 3 students from 9 for the same committee. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for equal committee roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Addition rule]]></text>
+      <feedback format="html">
+        <text><![CDATA[The addition rule is for A or B probabilities, not selecting a committee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation would overcount the same group in different orders.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being given in this selection.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q20</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>In a homework analysis, a code has 2 letters followed by 2 digits. Which operation combines the choices for each position?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[The counting principle multiplies choices across stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Averaging]]></text>
+      <feedback format="html">
+        <text><![CDATA[Averaging does not count outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not combine independent stages of choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Division only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division alone does not count all possible codes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q21</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>For a second data example, a menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q22</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>For a second data example, a race awards first, second, and third place from 8 runners. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[A combination would fit if order did not matter.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Complement]]></text>
+      <feedback format="html">
+        <text><![CDATA[A complement is an event outside another event, not an arrangement.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Marginal frequency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Marginal frequency belongs to two-way tables, not ranking.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order matters because first, second, and third are different roles.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q23</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.10</p><p>For a second data example, a club chooses 3 students from 9 for the same committee. What method fits best?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Addition rule]]></text>
+      <feedback format="html">
+        <text><![CDATA[The addition rule is for A or B probabilities, not selecting a committee.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combination]]></text>
+      <feedback format="html">
+        <text><![CDATA[Order does not matter for equal committee roles.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Permutation]]></text>
+      <feedback format="html">
+        <text><![CDATA[A permutation would overcount the same group in different orders.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Conditional probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[No condition is being given in this selection.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q24</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>For a second data example, a code has 2 letters followed by 2 digits. Which operation combines the choices for each position?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Averaging]]></text>
+      <feedback format="html">
+        <text><![CDATA[Averaging does not count outcomes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Subtraction]]></text>
+      <feedback format="html">
+        <text><![CDATA[Subtraction does not combine independent stages of choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Division only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Division alone does not count all possible codes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Multiplication]]></text>
+      <feedback format="html">
+        <text><![CDATA[The counting principle multiplies choices across stages.]]></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>STAT_U04_L07_QZ_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Question ID:</strong> STAT_U04_L07_QZ_Q25</p><p><strong>MLA Standard:</strong> MLA.STAT.PSU.9</p><p>In an end-of-lesson review, a menu has 4 entrees and 3 drinks. How many entree-drink pairs are possible?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[This adds choices instead of multiplying stages.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only entree choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[This counts only drink choices.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[This is staged counting, so multiply 4 by 3.]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
