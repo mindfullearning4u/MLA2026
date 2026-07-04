@@ -110,6 +110,78 @@ function Convert-StemToHtml {
     return ($htmlParts -join '')
 }
 
+function New-AssessmentSupportTableHtml {
+    param([string]$Stem)
+
+    $visible = ConvertFrom-GiftVisibleText $Stem
+    $encodedCaption = '<p><strong>Representation support:</strong></p>'
+
+    if ($visible -match '(?i)number line') {
+        $numberLineText = $visible
+        if ($visible -match '(?i)number line(?: reference| movement)?:\s*(.+?)(?:Values|Which|What|$)') {
+            $numberLineText = $Matches[1]
+        }
+        $values = [regex]::Matches($numberLineText, '-?\d+(?:\.\d+)?') | ForEach-Object { $_.Value } | Select-Object -Unique
+        if ($values.Count -gt 0) {
+            $html = $encodedCaption + '<table class="mla-assessment-numberline" style="border-collapse:collapse;margin:8px 0;"><tr>'
+            foreach ($value in $values) {
+                $html += '<td style="border-bottom:3px solid #333;padding:4px 10px;text-align:center;">' + [System.Net.WebUtility]::HtmlEncode($value) + '</td>'
+            }
+            $html += '</tr><tr>'
+            foreach ($value in $values) {
+                $html += '<td style="padding:2px 10px;text-align:center;font-size:12px;">' + [System.Net.WebUtility]::HtmlEncode($value) + '</td>'
+            }
+            $html += '</tr></table>'
+            return $html
+        }
+    }
+
+    if ($visible -match '(?i)sign-rule table|same signs|different signs') {
+        return $encodedCaption + '<table class="mla-assessment-sign-table" style="border-collapse:collapse;margin:8px 0;"><tr><th style="border:1px solid #555;padding:5px 10px;">Signs</th><th style="border:1px solid #555;padding:5px 10px;">Product/Quotient Sign</th></tr><tr><td style="border:1px solid #555;padding:5px 10px;">same signs: (+)(+) or (-)(-)</td><td style="border:1px solid #555;padding:5px 10px;">positive</td></tr><tr><td style="border:1px solid #555;padding:5px 10px;">different signs: (+)(-) or (-)(+)</td><td style="border:1px solid #555;padding:5px 10px;">negative</td></tr></table>'
+    }
+
+    $patterns = @(
+        '(?i)x-values?\s+([^\.]+?)\s+and\s+y-values?\s+([^\.]+?)(?:\.|\?|$)',
+        '(?i)y-values?\s+([^\.]+?)\s+for\s+x-values?\s+([^\.]+?)(?:\.|\?|$)',
+        '(?i)outputs?\s+([^\.]+?)\s+when\s+inputs?\s+are\s+([^\.]+?)(?:\.|\?|$)',
+        '(?i)table shows\s+x:\s*([^\.]+?)\s+and\s+y:\s*([^\.]+?)(?:\.|\?|$)',
+        '(?i)table has\s+x-values?\s+([^\.]+?)\s+and\s+y-values?\s+([^\.]+?)(?:\.|\?|$)'
+    )
+    foreach ($pattern in $patterns) {
+        $m = [regex]::Match($visible, $pattern)
+        if ($m.Success) {
+            $first = $m.Groups[1].Value.Trim()
+            $second = $m.Groups[2].Value.Trim()
+            if ($pattern -match 'y-values|outputs') {
+                $table = New-XYHtmlTable -XValuesText $second -YValuesText $first
+            }
+            else {
+                $table = New-XYHtmlTable -XValuesText $first -YValuesText $second
+            }
+            if ($table) { return $encodedCaption + $table }
+        }
+    }
+
+    $matchEquationTable = [regex]::Match($visible, '(?i)y\s*=\s*([+-]?\s*(?:\d+)?\s*x\s*(?:[+-]\s*\d+)?)\s+for\s+x\s*=\s*([^\.?]+)')
+    if ($matchEquationTable.Success) {
+        $eqText = 'y = ' + $matchEquationTable.Groups[1].Value
+        $linear = Get-LinearEquation $eqText
+        $xValues = [regex]::Matches($matchEquationTable.Groups[2].Value, '-?\d+(?:\.\d+)?') | ForEach-Object { [double]$_.Value }
+        if ($linear -and $xValues.Count -gt 0) {
+            $xText = ($xValues | ForEach-Object { $_.ToString('0.###') }) -join ', '
+            $yText = ($xValues | ForEach-Object { ($linear.M * $_ + $linear.B).ToString('0.###') }) -join ', '
+            $table = New-XYHtmlTable -XValuesText $xText -YValuesText $yText
+            if ($table) { return $encodedCaption + $table }
+        }
+    }
+
+    if ($visible -match '(?i)table|data|linear relationship|constant rate|constant change|rate of change') {
+        return $encodedCaption + '<table class="mla-assessment-table" style="border-collapse:collapse;margin:8px 0;"><tr><th style="border:1px solid #555;padding:5px 10px;">Representation</th><th style="border:1px solid #555;padding:5px 10px;">What to Check</th></tr><tr><td style="border:1px solid #555;padding:5px 10px;">table</td><td style="border:1px solid #555;padding:5px 10px;">compare input changes with output changes</td></tr><tr><td style="border:1px solid #555;padding:5px 10px;">linear pattern</td><td style="border:1px solid #555;padding:5px 10px;">constant rate of change</td></tr></table>'
+    }
+
+    return $null
+}
+
 function Convert-ChoiceTextToHtml {
     param([string]$Text)
     $visible = ConvertFrom-GiftVisibleText $Text
@@ -124,6 +196,34 @@ function Convert-ChoiceTextToHtml {
     }
 
     return Convert-Superscripts ([System.Net.WebUtility]::HtmlEncode($visible))
+}
+
+function Expand-AssessmentFeedback {
+    param(
+        [string]$Feedback,
+        [bool]$Correct
+    )
+
+    $visible = ConvertFrom-GiftVisibleText $Feedback
+    $plain = ($visible -replace '<[^>]+>', ' ' -replace '\s+', ' ').Trim()
+    $words = @($plain -split '\s+' | Where-Object { $_.Trim().Length -gt 0 })
+    $wordCount = if ($plain.Length -eq 0) { 0 } else { $words.Count }
+
+    if ($wordCount -ge 8 -and $plain -match '(because|since|first|then|so|therefore|remember|notice|compare|check|substitute|solve|graph|table|slope|intercept|rate|input|output|model|equation|inequality|function|factor|vertex|data|percent)') {
+        return $visible
+    }
+
+    if ($Correct) {
+        if ($plain.Length -eq 0) {
+            return 'This is correct. The answer follows the mapped lesson method, and the key step supports the final result.'
+        }
+        return $visible + ' This is the correct choice because it follows the mapped lesson method. Notice the key relationship, operation, or representation that supports the result.'
+    }
+
+    if ($plain.Length -eq 0) {
+        return 'This is not the best choice. Recheck the mapped lesson method and compare the answer with the key relationship in the question.'
+    }
+    return $visible + ' This choice reflects a common error or incomplete step. Recheck the mapped lesson method, compare the representation or equation carefully, and identify where the reasoning changes.'
 }
 
 function Parse-GiftQuestions {
@@ -321,6 +421,14 @@ function Get-GeometryVisualKind {
     return 'geometry'
 }
 
+function Get-VerticalInequality {
+    param([string]$Text)
+    $visible = ConvertFrom-GiftVisibleText $Text
+    $match = [regex]::Match($visible, '\bx\s*([<>]=?|=)\s*(-?\d+(?:\.\d+)?)\b', [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+    if (-not $match.Success) { return $null }
+    return [pscustomobject]@{ Operator = $match.Groups[1].Value; X = [double]$match.Groups[2].Value; Equation = $match.Value.Trim() }
+}
+
 function Get-StatisticsVisualKind {
     param([string]$Stem)
     $text = (ConvertFrom-GiftVisibleText $Stem).ToLower()
@@ -398,8 +506,17 @@ function Get-VisualDecision {
         return [pscustomobject]@{ Kind = 'linear'; Reason = 'Coordinate graph supports line, slope, intercept, or inequality interpretation.'; Points = $null; Linear = $linear; Quadratic = $null }
     }
 
-    if ($combined -match 'table|linear relationship|constant (rate|change)|x:\s*|Input\s+x:') {
+    $vertical = Get-VerticalInequality $combined
+    if ($vertical -and $combined -match '(graph|number line|shade|solution|represents|description)') {
+        return [pscustomobject]@{ Kind = 'vertical'; Reason = 'Number-line graph supports one-variable inequality interpretation.'; Points = $null; Linear = $null; Quadratic = $null; Vertical = $vertical }
+    }
+
+    if ($combined -match 'table|linear relationship|constant (rate|change)|x:\s*|Input\s+x:|number line|sign-rule') {
         return [pscustomobject]@{ Kind = 'answer-table'; Reason = 'Table text converted into Moodle HTML tables.'; Points = $null; Linear = $null; Quadratic = $null }
+    }
+
+    if ($combined -match '(?i)which graph|graph description|graphing move|shaded region|solution region') {
+        return [pscustomobject]@{ Kind = 'generic-linear'; Reason = 'Coordinate graph reference supports graph-description interpretation.'; Points = $null; Linear = $null; Quadratic = $null }
     }
 
     $precalculusKind = Get-PrecalculusVisualKind $stem
@@ -1395,6 +1512,13 @@ function New-MoodleXml {
             $questionHtml += '<p><strong>MLA Standard:</strong> ' + (ConvertTo-HtmlText $question.Standard) + '</p>'
         }
         $questionHtml += Convert-StemToHtml $question.Stem
+        if ($decision.Kind -eq 'answer-table' -and $questionHtml -notmatch '<table\b') {
+            $supportTable = New-AssessmentSupportTableHtml $question.Stem
+            if ($supportTable) {
+                $visualCount++
+                $questionHtml += $supportTable
+            }
+        }
 
         if ($decision.Kind -eq 'points') {
             $p1 = $decision.Points[0]
@@ -1410,6 +1534,26 @@ function New-MoodleXml {
                 $b = [double]$p1[1] - ($m * [double]$p1[0])
                 $created = New-GraphImage -OutPath $imgPath -M $m -B $b -Title "Slope Between Two Points" -Points $decision.Points
             }
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
+        elseif ($decision.Kind -eq 'vertical') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_numberline.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-GraphImage -OutPath $imgPath -Title ("Graph of " + $decision.Vertical.Equation) -Operator $decision.Vertical.Operator -VerticalX $decision.Vertical.X
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
+        elseif ($decision.Kind -eq 'generic-linear') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_graph_reference.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-GraphImage -OutPath $imgPath -M 1 -B 0 -Title "Linear Graph Reference"
             if ($created) {
                 $visualCount++
                 $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
@@ -1513,7 +1657,8 @@ function New-MoodleXml {
             $writer.WriteStartElement("feedback")
             $writer.WriteAttributeString("format", "html")
             $writer.WriteStartElement("text")
-            $writer.WriteCData((ConvertTo-CDataSafe (Convert-Superscripts (ConvertTo-HtmlText $answer.Feedback))))
+            $expandedFeedback = Expand-AssessmentFeedback -Feedback $answer.Feedback -Correct $answer.Correct
+            $writer.WriteCData((ConvertTo-CDataSafe (Convert-Superscripts (ConvertTo-HtmlText $expandedFeedback))))
             $writer.WriteEndElement()
             $writer.WriteEndElement()
             $writer.WriteEndElement()
