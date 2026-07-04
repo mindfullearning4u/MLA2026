@@ -67,9 +67,17 @@ For every lesson:
 - Primary standards match approved mapping.
 - Support standards are not treated as unauthorized primary standards.
 - Standards appear or are traceable in lesson files.
+- Every mapped standard is explicitly taught in the assigned lesson pages.
+- Every mapped standard has assessment evidence in that lesson or unit assessment structure.
+- Every guided practice and lesson quiz question traces to the lesson mapping.
+- Every pretest and unit assessment question traces to the unit mapping.
 - No future-unit content appears.
+- No future-lesson content appears in lesson-specific assessments.
 - No unauthorized standards appear.
 - No off-topic drift appears.
+- Mapping evidence is cited for every PASS decision.
+
+Mapping failures are blockers. Do not mark a unit PASS or PASS WITH SUGGESTIONS if any mapped standard is missing from instruction or assessment, or if an assessment question reaches outside the approved mapping.
 
 ## Page Model Checks
 
@@ -132,6 +140,8 @@ For every assessment file:
 - No duplicate answer choices.
 - No answer pattern.
 - Visual necessity is checked question by question.
+- Question-to-mapping alignment is checked question by question.
+- Missing assessment coverage for mapped standards is checked.
 
 ## Resource and Simulation Checks
 
@@ -166,4 +176,3 @@ Required sections:
 13. Accreditation/compliance readiness result
 14. Remaining issues
 15. Final decision: PASS, PASS WITH SUGGESTIONS, or FAIL
-

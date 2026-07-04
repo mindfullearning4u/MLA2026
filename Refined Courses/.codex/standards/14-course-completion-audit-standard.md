@@ -51,12 +51,15 @@ Verify:
 
 - every mapped standard appears in the intended course location
 - no mapped standard is missing
+- every mapped standard appears in instruction and in appropriate assessment evidence
 - no unauthorized standard is introduced
 - no standard is orphaned
 - no duplicate primary ownership appears unless mapping allows it
 - lesson titles match mapping
 - lesson purposes match mapping
 - Lesson 8 in every unit is synthesis
+- every lesson, page, guided practice, quiz, pretest, and unit assessment cites or traces to the approved mapping
+- no old unit overview or old source artifact is used as source-of-truth mapping
 
 ## Instructional Certification
 
@@ -83,6 +86,9 @@ Verify:
 - feedback is teachable
 - answer patterns are avoided
 - visual necessity was reviewed question by question
+- mapping alignment was reviewed question by question
+- no mapped standard is missing assessment coverage
+- no assessment question reaches outside its approved lesson or unit mapping
 - no HTML contamination
 - no malformed syntax
 - no duplicate stems or answer choices
@@ -129,4 +135,3 @@ Required final decision:
 `CERTIFIED WITH SUGGESTIONS` means all compliance requirements pass, but optional improvements remain.
 
 `NOT CERTIFIED` means at least one required standard, structure, assessment, mapping, LMS, or compliance item failed.
-
