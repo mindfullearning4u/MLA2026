@@ -13,7 +13,7 @@ Run this workflow after all units are complete.
 5. Validate all lesson pages.
 6. Validate all metadata JSON.
 7. Validate all assessments.
-8. Validate all assessment visuals.
+8. Validate all assessment visuals as a blocking certification gate.
 9. Validate all answer patterns and feedback.
 10. Validate all Lesson 8 synthesis lessons.
 11. Validate all resource/simulation reviews.
@@ -24,3 +24,4 @@ Run this workflow after all units are complete.
 
 Prior reports are not enough. Current files must be checked directly before certification.
 
+Assessment visual validation must produce PASS before final certification. If any math or science assessment question requires a graph, table, number line, diagram, model, data display, or other visual representation and that representation is missing from the question, the course completion audit must stop with FAIL.
