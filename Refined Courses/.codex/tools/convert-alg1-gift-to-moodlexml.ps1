@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$CourseRoot = "ALG1",
     [switch]$CleanGenerated
 )
@@ -7,6 +7,9 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
 Add-Type -AssemblyName System.Drawing
+
+$script:DegreeSymbol = [string][char]0x00B0
+$script:MojibakeDegree = [string][char]0x00C2 + [string][char]0x00B0
 
 function ConvertFrom-GiftVisibleText {
     param([string]$Text)
@@ -17,6 +20,7 @@ function ConvertFrom-GiftVisibleText {
     $result = $result -replace '\\#', '#'
     $result = $result -replace '\\{', '{'
     $result = $result -replace '\\}', '}'
+    $result = $result -replace [regex]::Escape($script:MojibakeDegree), $script:DegreeSymbol
     return $result.Trim()
 }
 
@@ -40,6 +44,8 @@ function Get-SafeFilePart {
 function Convert-Superscripts {
     param([string]$Text)
     $result = $Text
+    $result = $result -replace [regex]::Escape($script:MojibakeDegree), '&deg;'
+    $result = $result -replace [regex]::Escape($script:DegreeSymbol), '&deg;'
     $mojibakeSup2 = [string][char]0x00C2 + [string][char]0x00B2
     $mojibakeSup3 = [string][char]0x00C2 + [string][char]0x00B3
     $result = $result -replace [regex]::Escape($mojibakeSup2), '<sup>2</sup>'
@@ -123,7 +129,7 @@ function Convert-ChoiceTextToHtml {
 function Parse-GiftQuestions {
     param([string]$Path)
     $raw = [System.IO.File]::ReadAllText($Path, [System.Text.UTF8Encoding]::new($false))
-    $pattern = '(?ms)::(?<name>.*?)::\s*(?<body>.*?)(?:\r?\n)?\{\s*(?<answers>.*?)\s*\}\s*(?=(?:\r?\n){2,}::|\z)'
+    $pattern = '(?ms)::(?<name>.*?)::\s*(?<body>.*?)(?:\r?\n)?\{\s*(?<answers>.*?)\s*\}\s*(?=\r?\n::|\z)'
     $matches = [regex]::Matches($raw, $pattern)
     $questions = @()
 
@@ -296,6 +302,25 @@ function Get-QuadraticEquation {
     return $null
 }
 
+function Get-GeometryVisualKind {
+    param([string]$Stem)
+    $text = (ConvertFrom-GiftVisibleText $Stem).ToLower()
+    if ($text -notmatch 'diagram|figure|drawing|circle|arc|chord|tangent|secant|ray|segment|angle|parallel|perpendicular|triangle|quadrilateral|parallelogram|trapezoid|coordinate|rotation|reflection|translation|dilation|transformation|prism|cylinder|cone|sphere|net|marked|tick|matching|bisector|midpoint|linear pair|vertical angles') {
+        return $null
+    }
+    if ($text -match 'circle|arc|chord|tangent|secant|inscribed|central angle') { return 'circle' }
+    if ($text -match 'reflection|translation|rotation|dilation|transformation|coordinate') { return 'transform' }
+    if ($text -match 'prism|cylinder|cone|sphere|net|volume|surface area') { return 'solid' }
+    if ($text -match 'parallelogram|trapezoid|quadrilateral|rectangle|square|rhombus') { return 'quadrilateral' }
+    if ($text -match 'triangle|isosceles|equilateral|exterior angle|interior angle|congruent.*triangle') { return 'triangle' }
+    if ($text -match 'perpendicular bisector|midpoint|bisector') { return 'bisector' }
+    if ($text -match 'linear pair|vertical angles|intersecting lines|parallel|perpendicular') { return 'lines' }
+    if ($text -match 'tick marks|matching tick|congruent.*segment') { return 'segments' }
+    if ($text -match 'ray|angle|matching arcs|square corner|right angle') { return 'angle' }
+    if ($text -match 'straight line|collinear|between') { return 'line' }
+    return 'geometry'
+}
+
 function Get-VisualDecision {
     param($Question)
     $stem = $Question.Stem
@@ -320,7 +345,12 @@ function Get-VisualDecision {
         return [pscustomobject]@{ Kind = 'answer-table'; Reason = 'Table text converted into Moodle HTML tables.'; Points = $null; Linear = $null; Quadratic = $null }
     }
 
-    return [pscustomobject]@{ Kind = 'none'; Reason = 'No visual required by question wording.'; Points = $null; Linear = $null; Quadratic = $null }
+    $geometryKind = Get-GeometryVisualKind $stem
+    if ($geometryKind) {
+        return [pscustomobject]@{ Kind = 'geometry'; Reason = 'Geometry diagram supports visual interpretation without adding new assessment facts.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $geometryKind }
+    }
+
+    return [pscustomobject]@{ Kind = 'none'; Reason = 'No visual required by question wording.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null }
 }
 
 function New-GraphImage {
@@ -602,6 +632,141 @@ function New-QuadraticImage {
     return $true
 }
 
+function New-GeometryImage {
+    param(
+        [string]$OutPath,
+        [string]$Kind = "geometry",
+        [string]$Title = "Geometry Diagram"
+    )
+
+    $width = 760
+    $height = 460
+    $bmp = [System.Drawing.Bitmap]::new($width, $height)
+    $g = [System.Drawing.Graphics]::FromImage($bmp)
+    $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::AntiAlias
+    $g.Clear([System.Drawing.Color]::White)
+    $font = [System.Drawing.Font]::new("Arial", 12)
+    $labelFont = [System.Drawing.Font]::new("Arial", 14, [System.Drawing.FontStyle]::Bold)
+    $titleFont = [System.Drawing.Font]::new("Arial", 20, [System.Drawing.FontStyle]::Bold)
+    $pen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(35,35,35), 3)
+    $bluePen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(24,99,188), 4)
+    $redPen = [System.Drawing.Pen]::new([System.Drawing.Color]::Crimson, 3)
+    $dashPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(35,35,35), 3)
+    $dashPen.DashStyle = [System.Drawing.Drawing2D.DashStyle]::Dash
+
+    $g.DrawString($Title, $titleFont, [System.Drawing.Brushes]::Black, 30, 18)
+
+    switch ($Kind) {
+        "circle" {
+            $cx = 380; $cy = 245; $r = 120
+            $g.DrawEllipse($bluePen, $cx - $r, $cy - $r, $r * 2, $r * 2)
+            $g.FillEllipse([System.Drawing.Brushes]::Black, $cx - 4, $cy - 4, 8, 8)
+            $g.DrawLine($pen, $cx, $cy, $cx + 105, $cy - 55)
+            $g.DrawLine($pen, $cx, $cy, $cx - 95, $cy - 70)
+            $g.DrawArc($redPen, $cx - $r, $cy - $r, $r * 2, $r * 2, 208, 82)
+            $g.DrawLine($dashPen, $cx - 95, $cy - 70, $cx + 105, $cy - 55)
+            $g.DrawString("center", $font, [System.Drawing.Brushes]::Black, $cx + 8, $cy + 5)
+            $g.DrawString("intercepted arc", $font, [System.Drawing.Brushes]::Crimson, $cx - 80, $cy - 155)
+        }
+        "transform" {
+            for ($x = 120; $x -le 620; $x += 50) { $g.DrawLine([System.Drawing.Pens]::LightGray, $x, 95, $x, 390) }
+            for ($y = 95; $y -le 390; $y += 50) { $g.DrawLine([System.Drawing.Pens]::LightGray, 120, $y, 620, $y) }
+            $tri1 = @([System.Drawing.Point]::new(220,310), [System.Drawing.Point]::new(300,310), [System.Drawing.Point]::new(250,220))
+            $tri2 = @([System.Drawing.Point]::new(470,310), [System.Drawing.Point]::new(550,310), [System.Drawing.Point]::new(520,220))
+            $g.DrawPolygon($bluePen, $tri1)
+            $g.DrawPolygon($redPen, $tri2)
+            $g.DrawString("preimage", $font, [System.Drawing.Brushes]::Black, 205, 330)
+            $g.DrawString("image", $font, [System.Drawing.Brushes]::Black, 485, 330)
+            $g.DrawLine($dashPen, 315, 265, 445, 265)
+            $g.DrawString("rigid motion / dilation", $font, [System.Drawing.Brushes]::Black, 305, 235)
+        }
+        "solid" {
+            $g.DrawRectangle($bluePen, 210, 175, 150, 120)
+            $g.DrawRectangle($bluePen, 270, 125, 150, 120)
+            $g.DrawLine($bluePen, 210,175,270,125); $g.DrawLine($bluePen,360,175,420,125)
+            $g.DrawLine($bluePen,210,295,270,245); $g.DrawLine($bluePen,360,295,420,245)
+            $g.DrawEllipse($redPen, 500, 155, 120, 45)
+            $g.DrawLine($redPen, 500,177,500,300); $g.DrawLine($redPen,620,177,620,300)
+            $g.DrawEllipse($redPen, 500, 278, 120, 45)
+            $g.DrawString("prism", $font, [System.Drawing.Brushes]::Black, 250, 315)
+            $g.DrawString("cylinder", $font, [System.Drawing.Brushes]::Black, 530, 330)
+        }
+        "quadrilateral" {
+            $pts = @([System.Drawing.Point]::new(230,300), [System.Drawing.Point]::new(520,300), [System.Drawing.Point]::new(450,150), [System.Drawing.Point]::new(160,150))
+            $g.DrawPolygon($bluePen, $pts)
+            $g.DrawLine($dashPen, 230,300,450,150)
+            $g.DrawLine($dashPen, 160,150,520,300)
+            $g.DrawString("opposite sides / angles", $font, [System.Drawing.Brushes]::Black, 270, 325)
+            $g.DrawString("diagonals", $font, [System.Drawing.Brushes]::Black, 360, 205)
+        }
+        "triangle" {
+            $pts = @([System.Drawing.Point]::new(220,315), [System.Drawing.Point]::new(540,315), [System.Drawing.Point]::new(380,120))
+            $g.DrawPolygon($bluePen, $pts)
+            $g.DrawArc($redPen, 345, 255, 70, 70, 205, 130)
+            $g.DrawString("A", $labelFont, [System.Drawing.Brushes]::Black, 205, 318)
+            $g.DrawString("B", $labelFont, [System.Drawing.Brushes]::Black, 545, 318)
+            $g.DrawString("C", $labelFont, [System.Drawing.Brushes]::Black, 375, 92)
+            $g.DrawString("use side and angle relationships", $font, [System.Drawing.Brushes]::Black, 250, 350)
+        }
+        "bisector" {
+            $g.DrawLine($bluePen, 160,260,600,260)
+            $g.DrawLine($redPen, 380,125,380,380)
+            $g.DrawString("A", $labelFont, [System.Drawing.Brushes]::Black, 145, 270)
+            $g.DrawString("M", $labelFont, [System.Drawing.Brushes]::Black, 368, 270)
+            $g.DrawString("B", $labelFont, [System.Drawing.Brushes]::Black, 605, 270)
+            $g.DrawLine($pen, 355,245,355,275); $g.DrawLine($pen, 405,245,405,275)
+            $g.DrawString("midpoint and right angles", $font, [System.Drawing.Brushes]::Black, 285, 395)
+        }
+        "lines" {
+            $g.DrawLine($bluePen, 140,310,620,135)
+            $g.DrawLine($bluePen, 135,140,615,315)
+            $g.DrawArc($redPen, 345, 205, 70, 70, 20, 75)
+            $g.DrawArc($redPen, 345, 205, 70, 70, 200, 75)
+            $g.DrawString("intersecting lines", $font, [System.Drawing.Brushes]::Black, 305, 345)
+            $g.DrawString("vertical / linear-pair angles", $font, [System.Drawing.Brushes]::Black, 270, 370)
+        }
+        "segments" {
+            $g.DrawLine($bluePen, 155,205,345,205)
+            $g.DrawLine($bluePen, 415,205,605,205)
+            $g.DrawLine($redPen, 240,185,250,225); $g.DrawLine($redPen, 510,185,520,225)
+            $g.DrawString("D", $labelFont, [System.Drawing.Brushes]::Black, 140, 220)
+            $g.DrawString("E", $labelFont, [System.Drawing.Brushes]::Black, 350, 220)
+            $g.DrawString("F", $labelFont, [System.Drawing.Brushes]::Black, 400, 220)
+            $g.DrawString("G", $labelFont, [System.Drawing.Brushes]::Black, 610, 220)
+            $g.DrawString("matching tick marks indicate congruent segments", $font, [System.Drawing.Brushes]::Black, 210, 285)
+        }
+        "angle" {
+            $g.DrawLine($bluePen, 220,320,560,320)
+            $g.DrawLine($bluePen, 220,320,465,140)
+            $g.DrawArc($redPen, 245,265,95,95,270,38)
+            $g.DrawString("A", $labelFont, [System.Drawing.Brushes]::Black, 200, 330)
+            $g.DrawString("shared endpoint / vertex", $font, [System.Drawing.Brushes]::Black, 275, 350)
+        }
+        "line" {
+            $g.DrawLine($bluePen, 140,245,620,245)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 275,237,16,16)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 375,237,16,16)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 475,237,16,16)
+            $g.DrawString("A", $labelFont, [System.Drawing.Brushes]::Black, 270, 260)
+            $g.DrawString("B", $labelFont, [System.Drawing.Brushes]::Black, 370, 260)
+            $g.DrawString("C", $labelFont, [System.Drawing.Brushes]::Black, 470, 260)
+            $g.DrawString("collinear points with B between A and C", $font, [System.Drawing.Brushes]::Black, 245, 315)
+        }
+        default {
+            $g.DrawLine($bluePen, 180,300,580,300)
+            $g.DrawLine($bluePen, 250,150,510,330)
+            $g.DrawArc($redPen, 275,250,80,80,270,45)
+            $g.DrawString("Use only marked or stated evidence.", $font, [System.Drawing.Brushes]::Black, 240, 360)
+        }
+    }
+
+    $bmp.Save($OutPath, [System.Drawing.Imaging.ImageFormat]::Png)
+    $pen.Dispose(); $bluePen.Dispose(); $redPen.Dispose(); $dashPen.Dispose()
+    $font.Dispose(); $labelFont.Dispose(); $titleFont.Dispose()
+    $g.Dispose(); $bmp.Dispose()
+    return $true
+}
+
 function New-MoodleXml {
     param(
         [string]$SourceGift,
@@ -685,6 +850,16 @@ function New-MoodleXml {
                 $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
             }
         }
+        elseif ($decision.Kind -eq 'geometry') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_diagram.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-GeometryImage -OutPath $imgPath -Kind $decision.GeometryKind -Title "Geometry Support Diagram"
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
 
         $writer.WriteStartElement("question")
         $writer.WriteAttributeString("type", "multichoice")
@@ -755,11 +930,15 @@ if ($CleanGenerated) {
 
 $giftFiles = Get-ChildItem -Path (Join-Path $root "Units") -Recurse -Filter "*.gift" |
     Where-Object { $_.FullName -notmatch 'Moodle XML Visual Trial' } |
+    Where-Object {
+        $siblingPretest = Join-Path (Join-Path $_.DirectoryName "Pretest") $_.Name
+        -not ($_.Directory.Name -match '^Unit \d{2}$' -and $_.Name -match 'Pretest\.gift$' -and (Test-Path $siblingPretest))
+    } |
     Sort-Object FullName
 
 $results = @()
 foreach ($gift in $giftFiles) {
-    $questions = Parse-GiftQuestions $gift.FullName
+    $questions = @(Parse-GiftQuestions $gift.FullName)
     if ($questions.Count -eq 0) {
         throw "No questions parsed from $($gift.FullName)"
     }
@@ -784,7 +963,7 @@ $lines = @(
     "Rules applied:",
     "- Original `.gift` files were not deleted or modified.",
     "- Moodle XML files are stored in `Moodle XML` folders beside their source assessment banks.",
-    "- Graph visuals are embedded inside the XML question text using Moodle XML base64 file attachments.",
+    "- Graph and diagram visuals are embedded inside the XML question text using Moodle XML base64 file attachments.",
     "- Answer choices strip visible `A.`, `B.`, `C.`, `D.` prefixes because Moodle XML supplies answer lettering.",
     "- Table-style answer choices are converted into Moodle HTML tables.",
     "- Math exponents are rendered with HTML superscript where detected.",
@@ -793,7 +972,7 @@ $lines = @(
     "- Source GIFT files converted: $($results.Count)",
     "- XML files created: $($results.Count)",
     "- Questions converted: $totalQuestions",
-    "- Embedded graph visuals generated: $totalVisuals",
+    "- Embedded graph/diagram visuals generated: $totalVisuals",
     "",
     "| Source GIFT | Moodle XML | Questions | Embedded visuals |",
     "|---|---|---:|---:|"
