@@ -27,7 +27,7 @@ Check:
 - instructional rigor
 - visuals
 - assessment files
-- GIFT mechanics
+- Moodle XML mechanics
 - assessment visuals
 - answer patterns
 - feedback quality
@@ -49,4 +49,3 @@ Use final decision:
 - FAIL
 
 Do not edit files.
-

@@ -1,4 +1,16 @@
-# Assessment Moodle Import Standard
+# DEPRECATED - Legacy GIFT Source Notes Only
+
+This file is deprecated. Do not use it as the active assessment standard.
+
+The active production assessment standard is:
+
+`.codex/standards/06-assessment-moodle-xml-standard.md`
+
+Moodle XML is required for every production assessment in every course. GIFT is legacy/source material only and must not be certified, exported, or delivered as a final production assessment.
+
+---
+
+# Legacy Assessment Moodle Import Notes
 
 ## Purpose
 

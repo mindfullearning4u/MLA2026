@@ -73,11 +73,11 @@ Do not write:
 
 unless that object is actually included in the question.
 
-## GIFT Constraint
+## Production XML Requirement
 
-Assessment GIFT files are plain text and generally must not include HTML. If a visual is required but cannot be safely embedded in GIFT, report it for approval and identify the Moodle-safe implementation options.
+Moodle XML is required for all production assessments. If a visual is required, it must be embedded directly in the Moodle XML question.
 
-For math and science production assessments, Moodle XML is the required format when visuals, formatted tables, diagrams, models, equations, or data displays are needed. GIFT may remain as a source or backup, but GIFT cannot certify a visually dependent assessment.
+GIFT is legacy/source material only and cannot certify any production assessment.
 
 ## Certification Rule
 

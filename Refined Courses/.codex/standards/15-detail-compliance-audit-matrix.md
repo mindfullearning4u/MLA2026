@@ -16,7 +16,7 @@ Every course must be audited across these categories:
 6. Page role requirements
 7. Instructional rigor
 8. Mathematical or subject visuals
-9. Assessment GIFT mechanics
+9. Assessment Moodle XML mechanics
 10. Assessment rigor and alignment
 11. Assessment visual necessity
 12. Answer pattern
@@ -41,9 +41,9 @@ Use this table in unit and course reports:
 | Page roles | Does each page perform its required role? | P01-P07 review | PASS/FAIL | |
 | Rigor | Does instruction teach step by step? | page examples | PASS/FAIL/SUGGESTION | |
 | Visuals | Are needed visuals present and accurate? | page/question review | PASS/FAIL/SUGGESTION | |
-| GIFT | Is every assessment Moodle-ready? | GIFT validation | PASS/FAIL | |
-| GIFT escape safety | Are reserved GIFT characters escaped inside question text, visible answer-choice text, and feedback text without altering leading answer controls or structural feedback delimiters? | GIFT parser validation for `=`, `~`, `#`, `{`, `}`, `>=`, and `<=` in displayed text | PASS/FAIL | |
-| Assessment alignment | Do Guided Practice and Lesson Quiz questions assess only that lesson, and do Unit Pretest and Unit Assessment questions assess only material taught in that unit? | GIFT + course crosswalk + unit mapping + lesson mapping | PASS/FAIL | |
+| Moodle XML | Is every production assessment Moodle-ready XML? | XML validation | PASS/FAIL | |
+| Legacy GIFT | Are `.gift` files treated only as legacy source/conversion artifacts, not production assessments? | file inventory + export audit | PASS/FAIL | |
+| Assessment alignment | Do Guided Practice and Lesson Quiz questions assess only that lesson, and do Unit Pretest and Unit Assessment questions assess only material taught in that unit? | Moodle XML + course crosswalk + unit mapping + lesson mapping | PASS/FAIL | |
 | Assessment visuals | Does each question include needed representations? | question-by-question review | PASS/FAIL/SUGGESTION | |
 | Answer pattern | Is there no predictable answer pattern? | answer sequence audit | PASS/FAIL | |
 | Feedback | Is feedback teachable? | answer feedback audit | PASS/FAIL | |

@@ -20,7 +20,7 @@ Check:
 - no unbalanced visible layout sections
 - no empty boxes
 - no text outside containers
-- no backend `.gift` filenames displayed
+- no backend assessment filenames displayed
 - exactly one TOR support box per page
 - page title matches page role
 - ALG1-style card layout is followed
@@ -34,4 +34,3 @@ Use:
 |---|---|---|---|---|---|
 
 Do not edit files.
-

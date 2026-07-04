@@ -11,7 +11,7 @@ Read:
 - course crosswalk for the audited course
 - approved unit mapping for the audited course
 - approved lesson mapping for the audited course
-- `.codex/standards/06-assessment-gift-standard.md`
+- `.codex/standards/06-assessment-moodle-xml-standard.md`
 - `.codex/standards/07-assessment-visual-audit-standard.md`
 - `.codex/standards/08-answer-pattern-and-feedback-standard.md`
 
@@ -20,12 +20,10 @@ Read:
 Check:
 
 - expected files exist
-- expected Moodle XML files exist when visuals, formatted tables, diagrams, formulas, or data displays are needed
-- GIFT is allowed only for plain-text backup/source files or assessment banks that truly require no visual/special formatting
-- `.gift` extension, UTF-8 plain text, and no HTML when auditing GIFT
-- no unescaped reserved GIFT characters inside question text, visible answer-choice text, or feedback text when auditing GIFT
-- no unescaped equation or inequality operators in displayed GIFT text, including `=`, `>=`, and `<=` when auditing GIFT
-- valid Moodle XML structure when auditing XML
+- expected Moodle XML files exist for every production assessment
+- GIFT is legacy/source material only and is not a production assessment format
+- no `.gift` file is certified, exported, or treated as production-ready
+- valid Moodle XML structure
 - correct question count
 - exactly four choices
 - exactly one correct answer
@@ -33,9 +31,9 @@ Check:
 - feedback for every answer choice
 - no duplicate stems
 - no duplicate answer choices
-- no malformed GIFT blocks
-- leading answer controls are preserved as `=A.` / `~B.` etc. and are not escaped
-- structural feedback delimiters are preserved as `#`, but reserved characters inside feedback after the delimiter are escaped
+- no malformed XML
+- no broken embedded images, files, tables, passages, or stimulus objects
+- answer choices do not include visible `A.`, `B.`, `C.`, or `D.` prefixes
 - no predictable answer pattern
 - no weak feedback
 - Guided Practice questions assess only that lesson

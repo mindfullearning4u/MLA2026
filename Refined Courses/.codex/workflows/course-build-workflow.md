@@ -13,7 +13,7 @@ Use this workflow when building or repairing a course.
 5. Main agent fixes approved structural issues.
 6. Rigor auditor reviews lesson quality and verifies every mapped standard is taught in the assigned lesson.
 7. Visual auditor or rigor auditor identifies needed visuals.
-8. Main agent validates reserved GIFT character escaping inside all displayed GIFT text before any assessment bank is certified, including question stems, visible answer choices, and feedback.
+8. Main agent validates Moodle XML exists and is structurally valid for every production assessment bank.
 9. Assessment auditor validates assessments and verifies every question traces to the unit and lesson mapping.
 10. Assessment visual auditor checks every question.
 11. Resource/simulation agent researches suggestions.

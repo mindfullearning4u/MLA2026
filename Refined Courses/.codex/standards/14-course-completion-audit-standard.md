@@ -78,7 +78,7 @@ Verify:
 
 Verify:
 
-- all GIFT files are Moodle-ready
+- all production assessment files are Moodle-ready XML
 - all required counts are met
 - every question has four choices
 - every question has one correct answer
@@ -89,8 +89,7 @@ Verify:
 - mapping alignment was reviewed question by question
 - no mapped standard is missing assessment coverage
 - no assessment question reaches outside its approved lesson or unit mapping
-- no HTML contamination
-- no malformed syntax
+- no malformed XML or broken embedded media
 - no duplicate stems or answer choices
 
 ## Technical and LMS Certification

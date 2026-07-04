@@ -51,7 +51,7 @@ The agent must check:
 
 Assessments must be Moodle-ready and aligned question by question.
 
-Use Moodle XML when visuals, tables, diagrams, formulas, passages, data displays, or embedded representations are needed. GIFT is not sufficient for visually dependent math or science assessments.
+Use Moodle XML for every production assessment in every course. GIFT is legacy/source material only and is not sufficient for production assessment delivery.
 
 Every assessment question must be checked for:
 

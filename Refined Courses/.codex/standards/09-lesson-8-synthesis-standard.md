@@ -13,7 +13,7 @@ Lesson 8 is not:
 - assessment launch only
 - isolated skill practice
 - a place to introduce major new standards
-- a page that displays backend `.gift` filenames
+- a page that displays backend assessment filenames
 
 ## Lesson 8 Must
 
@@ -47,4 +47,3 @@ Classify:
 - REQUIRED STRUCTURAL FIX
 - SUGGESTION ONLY
 - BLOCKED BY MAPPING CONFLICT
-

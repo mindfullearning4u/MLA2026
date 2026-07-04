@@ -36,10 +36,10 @@ Verify:
 - Unit folder exists.
 - Lessons 01-08 exist.
 - Unit Pretest exists.
-- Lesson 01-07 Guided Practice files exist.
-- Lesson 01-07 Lesson Quiz files exist.
-- Lesson 08 Guided Practice exists.
-- Lesson 08 Unit Assessment exists.
+- Lesson 01-07 Guided Practice Moodle XML files exist.
+- Lesson 01-07 Lesson Quiz Moodle XML files exist.
+- Lesson 08 Guided Practice Moodle XML exists.
+- Lesson 08 Unit Assessment Moodle XML exists.
 - No required lesson folder is missing.
 - No required assessment file is missing.
 
@@ -103,7 +103,7 @@ For every page:
 - No empty containers.
 - No text sits outside intended containers.
 - Exactly one TOR support box appears.
-- No visible `.gift` filename appears.
+- No visible backend assessment filename appears.
 - No broken layout.
 - No malformed character corruption.
 - Page headings match page role.
@@ -123,10 +123,10 @@ For every page:
 
 For every assessment file:
 
-- File is `.gift`.
-- File is UTF-8 plain text.
-- File contains no HTML.
-- Moodle GIFT syntax is valid.
+- File is Moodle XML.
+- File is UTF-8.
+- Moodle XML structure is valid.
+- Legacy GIFT files are not certified or exported as production assessments.
 - Guided Practice has required count.
 - Lesson Quiz has required count.
 - Unit Pretest has required count.

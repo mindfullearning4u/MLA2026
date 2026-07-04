@@ -36,11 +36,13 @@ Every lesson folder must include:
 
 Typical math lesson files:
 
-- Lessons 1-7: `COURSE_U##_L##_GuidedPractice.gift`
-- Lessons 1-7: `COURSE_U##_L##_Quiz.gift`
-- Lesson 8: `COURSE_U##_L08_GuidedPractice.gift`
-- Lesson 8: `COURSE_U##_UnitAssessment.gift`
-- Unit folder: `COURSE_U##_Pretest.gift`
+- Lessons 1-7: `COURSE_U##_L##_GuidedPractice_MoodleXML.xml`
+- Lessons 1-7: `COURSE_U##_L##_Quiz_MoodleXML.xml`
+- Lesson 8: `COURSE_U##_L08_GuidedPractice_MoodleXML.xml`
+- Lesson 8: `COURSE_U##_UnitAssessment_MoodleXML.xml`
+- Unit folder: `COURSE_U##_Pretest_MoodleXML.xml`
+
+Legacy `.gift` files may exist as source or archive artifacts, but they are not production assessment files.
 
 ## Metadata Validation
 
@@ -70,4 +72,3 @@ Report:
 - extra files that may be old artifacts
 - files to ignore
 - files recommended for archive
-

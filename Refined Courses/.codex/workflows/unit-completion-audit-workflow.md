@@ -13,7 +13,7 @@ Run this workflow after a unit is built or corrected.
 5. Run instructional rigor audit.
 6. Run visual audit.
 7. Run Lesson 8 synthesis audit.
-8. Run assessment GIFT audit.
+8. Run assessment Moodle XML audit.
 9. Run assessment visual audit.
 10. Run answer pattern and feedback audit.
 11. Run resource/simulation review.

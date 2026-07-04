@@ -79,10 +79,10 @@ Required sections:
 - student-facing readiness or practice language
 - standards display when required by department model
 - clear reference to Moodle Guided Practice
-- no visible backend `.gift` filenames
+- no visible backend assessment filenames
 - Teacher of Record support box
 
-The actual Guided Practice bank must be in the matching `.gift` file and follow the assessment standard.
+The actual Guided Practice bank must be in the matching Moodle XML assessment file and follow the assessment standard.
 
 ## P06 Independent Work
 
@@ -130,4 +130,3 @@ For each lesson:
 - No broken HTML layout.
 - No missing page heading.
 - Page role matches page number.
-

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Copy certified Moodle-ready `.gift` files from a course into the thumb drive assessment folder.
+Copy certified Moodle-ready `.xml` files from a course into the thumb drive assessment folder.
 
 ## Source
 
@@ -45,22 +45,15 @@ Create:
 
 ## Rules
 
-- Copy `.gift` files only.
+- Copy `.xml` Moodle XML files only.
 - Preserve exact filename unless conflict exists.
 - Overwrite older copies with current certified version.
-- Preserve UTF-8 plain text exactly.
-- No formatting conversion.
-- Before export, validate that displayed GIFT text escapes reserved GIFT characters in question stems, visible answer-choice text, and feedback:
-  - `=` as `\=`
-  - `~` as `\~`
-  - `#` as `\#`
-  - `{` as `\{`
-  - `}` as `\}`
-  - `>=` as `>\=`
-  - `<=` as `<\=`
-- Do not escape the leading GIFT control characters at the start of answer choices, such as `=A.` or `~B.`
-- Do not escape the structural feedback delimiter `#`; escape reserved characters inside the feedback text after that delimiter.
-- Validate source and destination text match exactly.
+- Preserve UTF-8 XML exactly.
+- No conversion during export.
+- Validate XML structure before export.
+- Validate embedded visuals/stimulus are present where required before export.
+- Validate source and destination files match exactly.
+- Do not export `.gift` files. GIFT is legacy/source material only.
 
 ## Report
 
@@ -76,6 +69,7 @@ Include:
 - files overwritten
 - files missing
 - validation failures
-- reserved-character escape failures
+- XML validation failures
+- missing embedded visual/stimulus failures
 - source/destination mismatches
 - final decision PASS or FAIL

@@ -26,7 +26,7 @@ Check:
 - instructional rigor
 - Lesson 8 synthesis
 - assessment quality
-- GIFT readiness
+- Moodle XML readiness
 - assessment visual necessity
 - answer pattern
 - feedback quality
@@ -49,4 +49,3 @@ Use final decision:
 - NOT CERTIFIED
 
 Do not edit files.
-

@@ -15,7 +15,7 @@ Before work, read:
 - `.codex/standards/03-lesson-page-model-p01-p07.md`
 - `.codex/standards/04-instructional-rigor-and-mastery-standard.md`
 - `.codex/standards/05-mathematical-visual-standard.md`
-- `.codex/standards/06-assessment-gift-standard.md`
+- `.codex/standards/06-assessment-moodle-xml-standard.md`
 - `.codex/standards/07-assessment-visual-audit-standard.md`
 - `.codex/standards/13-unit-completion-audit-standard.md`
 - `.codex/standards/14-course-completion-audit-standard.md`
@@ -35,7 +35,7 @@ Before work, read:
 9. Suggest external resources and simulations for approval only.
 10. Require every lesson and assessment question to trace to the approved unit and lesson mapping.
 11. Require every mapped standard to be taught and assessed.
-12. Require math/science assessment XML when visuals, formatted tables, diagrams, formulas, data displays, or passages are needed.
+12. Require Moodle XML for every production assessment in every course.
 13. Treat missing mandatory visuals, missing mapped standards, and out-of-mapping assessment questions as FAIL, not suggestions.
 14. Reject subagent reports that do not cite mapping evidence or current-file evidence.
 

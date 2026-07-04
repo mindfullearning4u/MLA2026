@@ -19,7 +19,7 @@ The expected quality bar is strict: every course must be built as if it will be 
 7. Every lesson must display or trace the mapped standards required by the certified mapping.
 8. Lesson pages must follow the ALG1 Math Department visual/layout model unless the course has a separately approved department model.
 9. Instruction must be detailed, sequential, and written as if a veteran teacher is teaching asynchronously.
-10. Assessments must be Moodle-ready and mechanically valid. Use Moodle XML when visuals, formatted tables, diagrams, formulas, equations, passages, data displays, or other embedded representations are needed. GIFT may remain only as a plain-text source/backup format when no visual or special formatting is required.
+10. Assessments must be Moodle-ready Moodle XML and mechanically valid. Moodle XML is required for every production assessment in every course. GIFT is legacy/source material only and is not a production assessment format.
 11. Correct answers must not follow a predictable answer pattern.
 12. Feedback must be teachable feedback, not short right/wrong labels.
 13. External resources and simulations are suggestions only unless explicitly approved for insertion.

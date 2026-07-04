@@ -31,7 +31,7 @@ Search the course folder for:
 - `Course Overview*`
 - `lesson.json`
 - `quiz.json`
-- `.gift`
+- `.xml`
 - `Course Audit`
 
 Do not use `Unit Overview.md` to define expected content. It may be listed as an old artifact but not used as mapping evidence.
@@ -80,4 +80,3 @@ Initial analysis is complete only when:
 - Missing source files are listed.
 - Conflicts are listed.
 - Build/audit mode is stated.
-

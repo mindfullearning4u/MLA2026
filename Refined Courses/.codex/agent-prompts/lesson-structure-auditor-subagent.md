@@ -31,7 +31,7 @@ For each unit and lesson, check:
 - page headings and learning targets reflect the approved mapped lesson, not an old unit overview or unrelated source
 - no missing page
 - no duplicate page
-- expected GIFT files exist
+- expected Moodle XML assessment files exist
 
 ## Mapping Gate
 
