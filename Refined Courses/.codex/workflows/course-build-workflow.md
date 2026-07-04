@@ -9,24 +9,46 @@ Use this workflow when building or repairing a course.
 1. Main agent reads master standards.
 2. Mapping agent performs initial source analysis.
 3. Main agent confirms mapping trace table and locks it as the source of truth for all unit agents.
-4. Structure auditor checks file shell and verifies every unit/lesson folder traces to the mapping.
-5. Main agent fixes approved structural issues.
-6. Rigor auditor reviews lesson quality and verifies every mapped standard is taught in the assigned lesson.
-7. Visual auditor or rigor auditor identifies needed visuals.
-8. Main agent validates Moodle XML exists and is structurally valid for every production assessment bank.
-9. Assessment auditor validates assessments and verifies every question traces to the unit and lesson mapping.
-10. Assessment visual auditor checks every question.
-11. Resource/simulation agent researches suggestions.
-12. Main agent applies only approved corrections.
-13. Unit completion auditor checks each unit before the next unit begins.
-14. Verification subagents re-audit the previous subagent findings and check for missed mapping, standards, visual, rigor, structure, workflow, and assessment issues.
-15. Course completion auditor checks the full course.
-16. Final certification auditor issues decision.
-17. Main agent writes final report.
+4. Main agent creates a required unit/category subagent coverage plan before coursewide edits or certification.
+5. Structure/workflow auditor checks each unit and verifies every unit/lesson folder traces to the mapping.
+6. Main agent fixes approved structural issues.
+7. Instructional rigor auditor reviews each unit and verifies every mapped standard is taught in the assigned lesson.
+8. Visual auditor or rigor auditor identifies needed visuals for each unit.
+9. Main agent validates Moodle XML exists and is structurally valid for every production assessment bank.
+10. Assessment alignment auditor validates each unit and verifies every question traces to the unit and lesson mapping.
+11. Assessment visual/XML auditor checks every question in each unit.
+12. Metadata/LMS-format auditor checks each unit.
+13. Resource/simulation agent researches suggestions when relevant, and always for science/lab courses.
+14. Main agent inspects every reported issue and applies necessary corrections for confirmed findings.
+15. Unit completion auditor checks each unit before the next unit begins or before final certification.
+16. Verification subagents re-audit the previous subagent findings and check for missed mapping, standards, visual, rigor, structure, workflow, metadata, LMS, and assessment issues.
+17. Main agent reruns affected unit/category audits after fixes.
+18. Course completion auditor checks the full course.
+19. Final certification auditor issues decision.
+20. Main agent writes final report.
+
+## Required Unit/Category Subagent Plan
+
+For a six-unit course, the plan must include:
+
+- Unit 01: instructional rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS
+- Unit 02: instructional rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS
+- Unit 03: instructional rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS
+- Unit 04: instructional rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS
+- Unit 05: instructional rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS
+- Unit 06: instructional rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS
+- coursewide source/mapping analysis
+- coursewide resource/simulation review when applicable
+- cross-check verification layer
+- final certification layer
+
+The main agent may use grouped subagent assignments only when the output remains unit-by-unit and category-specific. A single all-course subagent is not sufficient for full production or certification.
 
 ## Editing Rule
 
 Subagents are read-only unless the user explicitly authorizes subagent edits.
+
+The main agent owns remediation. If a subagent finds a defect, the main agent must inspect the current file, make the necessary fix when valid, rerun validation, and document the correction.
 
 ## Mapping Enforcement Rule
 

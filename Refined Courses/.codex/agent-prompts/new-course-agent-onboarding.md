@@ -17,6 +17,8 @@ Before auditing, building, correcting, or certifying the course, read:
 
 Then locate and read the course crosswalk, standards inventory, unit mapping, lesson mapping, course overview, lesson JSON, quiz JSON, lesson pages, and assessment files.
 
+Before any coursewide audit or certification claim, create an explicit subagent coverage plan. The plan must name each unit and each audit category. Do not proceed as if a single whole-course scan, script run, or main-agent-only review is enough.
+
 ## Non-Negotiable User Requirements
 
 The user requires precision, accuracy, consistency, strict standards alignment, accreditation readiness, and compliance readiness from the beginning of production.
@@ -66,16 +68,32 @@ Every assessment question must be checked for:
 
 ## Subagent Structure
 
-For full course production or certification, the main agent must coordinate layered audits:
+For full course production, major repair, recertification, or coursewide audit, the main agent must coordinate layered audits with ALG1-level rigor:
 
 - one instructional rigor auditor per unit
 - one structure/workflow auditor per unit
-- one assessment auditor per unit
-- one assessment visual auditor per unit
+- one assessment alignment auditor per unit
+- one assessment visual/XML auditor per unit
+- one metadata/LMS-format auditor per unit
+- resource/simulation auditor when relevant, and always for science/lab courses
 - cross-checking verification auditor layer
-- final certification auditor
+- final certification auditor after all fixes and reruns
 
-Subagents must cite mapping evidence and current-file evidence. A PASS without evidence is invalid.
+Subagents must cite mapping evidence and current-file evidence. A PASS without evidence is invalid. If a subagent reports something missing or weak, the main agent must inspect the exact current file, make the necessary fix when the finding is valid, rerun the relevant audit, and document the correction.
+
+For a six-unit course, the minimum expected audit evidence is unit-by-unit and category-by-category:
+
+- Unit 01 instructional rigor, structure/workflow, assessment alignment, assessment visuals/XML, metadata/LMS
+- Unit 02 instructional rigor, structure/workflow, assessment alignment, assessment visuals/XML, metadata/LMS
+- Unit 03 instructional rigor, structure/workflow, assessment alignment, assessment visuals/XML, metadata/LMS
+- Unit 04 instructional rigor, structure/workflow, assessment alignment, assessment visuals/XML, metadata/LMS
+- Unit 05 instructional rigor, structure/workflow, assessment alignment, assessment visuals/XML, metadata/LMS
+- Unit 06 instructional rigor, structure/workflow, assessment alignment, assessment visuals/XML, metadata/LMS
+- cross-course mapping/source verification
+- cross-course subagent-miss verification
+- final certification
+
+Do not tell the user a course has the same rigor as ALG1 unless this layered evidence exists.
 
 ## Certification Rule
 

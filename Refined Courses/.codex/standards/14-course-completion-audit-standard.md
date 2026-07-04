@@ -22,6 +22,14 @@ Use:
 
 - mapping trace table
 - all unit completion audits
+- unit/category subagent coverage table
+- all unit instructional rigor subagent reports
+- all unit structure/workflow subagent reports
+- all unit assessment alignment subagent reports
+- all unit assessment visual/XML subagent reports
+- all unit metadata/LMS-format subagent reports
+- cross-check verification subagent report
+- final certification subagent report
 - all current course files
 - current assessment files
 - current metadata files
@@ -30,6 +38,26 @@ Use:
 - `.codex/standards/*`
 
 Do not rely only on prior certification reports. Validate current files directly.
+
+Do not rely only on scripts, tools, or main-agent direct inspection. For full course certification, ALG1-level layered subagent evidence is required. A course cannot be certified if the required unit/category subagent coverage is missing or incomplete.
+
+## Required Subagent Coverage Certification
+
+Verify:
+
+- each unit has an instructional rigor audit
+- each unit has a structure/workflow audit
+- each unit has an assessment alignment audit
+- each unit has an assessment visual/XML audit
+- each unit has a metadata/LMS-format audit
+- science/lab courses have resource/simulation review
+- cross-course source/mapping analysis was completed
+- cross-check verification reviewed whether subagents missed anything
+- every valid subagent finding was inspected by the main agent
+- every confirmed defect was fixed or documented as blocked
+- affected audits were rerun after fixes
+
+If any required unit/category audit is missing, unsupported, or lacks mapping/current-file evidence, final decision must be `NOT CERTIFIED`.
 
 ## Full Course Inventory
 
@@ -134,3 +162,5 @@ Required final decision:
 `CERTIFIED WITH SUGGESTIONS` means all compliance requirements pass, but optional improvements remain.
 
 `NOT CERTIFIED` means at least one required standard, structure, assessment, mapping, LMS, or compliance item failed.
+
+`NOT CERTIFIED` is also required when the subagent coverage table is incomplete or when any subagent PASS lacks evidence.

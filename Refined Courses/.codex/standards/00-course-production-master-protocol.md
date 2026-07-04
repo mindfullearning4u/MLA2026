@@ -35,6 +35,10 @@ The expected quality bar is strict: every course must be built as if it will be 
 
 The main agent is responsible for the final quality of the course. Subagents provide evidence, but the main agent must verify that subagents followed the standards and did not miss required mapping, rigor, structure, assessment, visual, LMS, or compliance checks.
 
+The main agent may use scripts and tools for mechanical validation, but tool output does not replace the required subagent audit model for full course production, major repair, recertification, or any user request to audit a course. Every course must receive the ALG1-level audit structure unless the user explicitly asks for a limited, narrow check.
+
+If a subagent identifies a missing item, unclear lesson, missing visual, mapping drift, weak assessment, metadata defect, or compliance issue, the main agent must inspect the current file directly and either fix the issue or document why it is not a valid finding. The main agent must not merely summarize subagent findings without acting on confirmed defects.
+
 The main agent must reject any subagent report that:
 
 - does not cite the approved unit and lesson mapping
@@ -47,16 +51,33 @@ The main agent must reject any subagent report that:
 
 ## Layered Subagent Audit Model
 
-For full course production or repair, use layered unit-level audits:
+For full course production, major repair, recertification, or coursewide audit, layered subagent audits are mandatory. A main agent must not replace these audits with only scripts, spot checks, or a single whole-course read.
+
+Required unit/category audit grid:
 
 1. Unit instructional rigor auditor for each unit.
 2. Unit structure/workflow auditor for each unit.
-3. Unit assessment auditor for each unit.
-4. Unit assessment visual auditor for each unit.
-5. Cross-checking verification auditor to review the previous subagent findings.
-6. Final certification auditor after all unit gates pass.
+3. Unit assessment alignment auditor for each unit.
+4. Unit assessment visual/XML auditor for each unit.
+5. Unit metadata/LMS-format auditor for each unit.
+6. Resource/simulation auditor when the course or unit would benefit from external practice, and always for science/lab courses.
+7. Cross-checking verification auditor layer to review whether the unit/category subagents missed mapping, rigor, visual, structure, workflow, assessment, LMS, or compliance defects.
+8. Final certification auditor only after all unit and category gates pass.
 
-Each unit-level subagent must check the approved unit mapping and lesson mapping. Every PASS decision must cite evidence.
+Each unit-level and category-level subagent must check the approved unit mapping and lesson mapping. Every PASS decision must cite evidence. A PASS without mapped standard evidence, lesson-file evidence, assessment-file evidence, and current-file inspection is invalid.
+
+For a six-unit course, the minimum audit coverage is:
+
+- six instructional rigor audits, one per unit
+- six structure/workflow audits, one per unit
+- six assessment alignment audits, one per unit
+- six assessment visual/XML audits, one per unit
+- six metadata/LMS-format audits, one per unit
+- one cross-course mapping and source analysis
+- one cross-course verification audit checking subagent misses
+- one final certification audit after fixes and reruns
+
+The main agent may group units into parallel subagent assignments only when the assignment still names the units and category explicitly and produces unit-by-unit findings. Broad statements such as "Geometry looks good" or "course passed" are not acceptable evidence.
 
 ## Locked Content Boundary
 
@@ -109,8 +130,10 @@ For each course:
 14. Re-validate current files directly.
 15. Run unit completion audit after each completed unit.
 16. Run cross-check verification on subagent reports.
-17. Run final course completion audit after all units pass.
-18. Produce final PASS/FAIL report.
+17. Fix every confirmed subagent finding or document why it is invalid.
+18. Rerun the affected unit/category audits after fixes.
+19. Run final course completion audit after all units pass.
+20. Produce final PASS/FAIL report.
 
 ## PASS Requirements
 
