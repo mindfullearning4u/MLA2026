@@ -364,6 +364,20 @@ function Get-PrecalculusVisualKind {
     return 'precalcgraph'
 }
 
+function Get-McrVisualKind {
+    param([string]$Stem)
+    $text = (ConvertFrom-GiftVisibleText $Stem).ToLower()
+    if ($text -notmatch 'graph|chart|table|data|percent|percentage|interest|loan|budget|tax|discount|markup|unit rate|ratio|proportion|probability|scatter|histogram|box plot|bar graph|bar chart|model|growth|decay|linear|exponential|financial') {
+        return $null
+    }
+    if ($text -match 'interest|loan|budget|tax|discount|markup|financial|payment|salary|wage') { return 'financial' }
+    if ($text -match 'percent|percentage|ratio|proportion|unit rate|rate') { return 'rate' }
+    if ($text -match 'data|scatter|histogram|box plot|bar graph|bar chart|chart|table|probability') { return 'data' }
+    if ($text -match 'growth|decay|exponential') { return 'growth' }
+    if ($text -match 'linear|model|graph') { return 'model' }
+    return 'readiness'
+}
+
 function Get-VisualDecision {
     param($Question)
     $stem = $Question.Stem
@@ -393,13 +407,14 @@ function Get-VisualDecision {
         return [pscustomobject]@{ Kind = 'precalculus'; Reason = 'Precalculus support visual reinforces the graph, diagram, coordinate representation, or table named in the question.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $null; PrecalculusKind = $precalculusKind }
     }
 
+    $mcrKind = Get-McrVisualKind $stem
+    if ($mcrKind -and ($Question.QuestionId -match '^MCR_' -or $Question.Standard -match '^MLA\.MCR\.')) {
+        return [pscustomobject]@{ Kind = 'mcr'; Reason = 'Math for College Readiness support visual reinforces the model, graph, table, data display, or financial reasoning named in the question.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $null; PrecalculusKind = $null; McrKind = $mcrKind }
+    }
+
     $statisticsKind = Get-StatisticsVisualKind $stem
     if ($statisticsKind) {
         return [pscustomobject]@{ Kind = 'statistics'; Reason = 'Statistics visual supports graph, table, distribution, or data-display interpretation without adding new assessment facts.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $statisticsKind }
-    }
-
-    if ($precalculusKind) {
-        return [pscustomobject]@{ Kind = 'precalculus'; Reason = 'Precalculus support visual reinforces the graph, diagram, coordinate representation, or table named in the question.'; Points = $null; Linear = $null; Quadratic = $null; GeometryKind = $null; StatisticsKind = $null; PrecalculusKind = $precalculusKind }
     }
 
     $geometryKind = Get-GeometryVisualKind $stem
@@ -1232,6 +1247,112 @@ function New-PrecalculusImage {
     return $true
 }
 
+function New-McrImage {
+    param(
+        [string]$OutPath,
+        [string]$Kind,
+        [string]$Title = "Math for College Readiness Support Visual"
+    )
+
+    $width = 760
+    $height = 470
+    $bmp = [System.Drawing.Bitmap]::new($width, $height)
+    $g = [System.Drawing.Graphics]::FromImage($bmp)
+    $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::AntiAlias
+    $g.Clear([System.Drawing.Color]::White)
+
+    $axisPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(60, 60, 60), 2)
+    $gridPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(224, 224, 224), 1)
+    $bluePen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(31, 99, 177), 3)
+    $greenPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(38, 130, 82), 3)
+    $redPen = [System.Drawing.Pen]::new([System.Drawing.Color]::FromArgb(204, 45, 45), 3)
+    $fillBlue = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(223, 237, 252))
+    $fillGreen = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(221, 244, 231))
+    $fillGold = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(255, 236, 184))
+    $font = [System.Drawing.Font]::new("Arial", 12)
+    $titleFont = [System.Drawing.Font]::new("Arial", 18, [System.Drawing.FontStyle]::Bold)
+
+    $g.DrawString($Title, $titleFont, [System.Drawing.Brushes]::Black, 24, 18)
+
+    function DrawAxes([int]$left, [int]$top, [int]$right, [int]$bottom) {
+        for ($x = $left; $x -le $right; $x += 55) { $g.DrawLine($gridPen, $x, $top, $x, $bottom) }
+        for ($y = $top; $y -le $bottom; $y += 45) { $g.DrawLine($gridPen, $left, $y, $right, $y) }
+        $g.DrawLine($axisPen, $left, $bottom, $right, $bottom)
+        $g.DrawLine($axisPen, $left, $bottom, $left, $top)
+    }
+
+    switch ($Kind) {
+        "financial" {
+            $x0 = 105; $y0 = 125; $cw = 135; $ch = 52
+            $headers = @("Item", "Amount", "Rate", "Total")
+            $rows = @(@("Price", '$100', "8%", '$108'), @("Budget", '$250', "20%", '$50'))
+            for ($c = 0; $c -lt 4; $c++) {
+                $g.FillRectangle($fillBlue, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawString($headers[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 18 + $c * $cw, $y0 + 17)
+            }
+            for ($r = 0; $r -lt 2; $r++) {
+                for ($c = 0; $c -lt 4; $c++) {
+                    $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0 + ($r + 1) * $ch, $cw, $ch)
+                    $g.DrawString($rows[$r][$c], $font, [System.Drawing.Brushes]::Black, $x0 + 18 + $c * $cw, $y0 + 17 + ($r + 1) * $ch)
+                }
+            }
+            $g.DrawString("Track given values, rate, operation, and final meaning.", $font, [System.Drawing.Brushes]::Black, 150, 310)
+        }
+        "rate" {
+            DrawAxes 95 105 665 365
+            $g.DrawLine($bluePen, 115, 335, 630, 130)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 225, 287, 11, 11)
+            $g.FillEllipse([System.Drawing.Brushes]::Crimson, 500, 178, 11, 11)
+            $g.DrawString("compare change in output to change in input", $font, [System.Drawing.Brushes]::Black, 210, 392)
+        }
+        "data" {
+            DrawAxes 95 105 665 365
+            $bars = @(95, 150, 115, 190)
+            for ($i = 0; $i -lt $bars.Count; $i++) {
+                $x = 155 + ($i * 105)
+                $g.FillRectangle($fillGreen, $x, 365 - $bars[$i], 62, $bars[$i])
+                $g.DrawRectangle($bluePen, $x, 365 - $bars[$i], 62, $bars[$i])
+            }
+            $g.DrawString("read title, categories, scale, and comparison", $font, [System.Drawing.Brushes]::Black, 225, 392)
+        }
+        "growth" {
+            DrawAxes 95 105 665 365
+            $pts = @()
+            for ($i = 0; $i -le 160; $i += 4) {
+                $x = 120 + ($i * 3)
+                $y = 350 - (25 * [Math]::Exp($i / 70.0))
+                if ($y -gt 105) { $pts += [System.Drawing.Point]::new([int]$x, [int]$y) }
+            }
+            if ($pts.Count -gt 1) { $g.DrawLines($bluePen, $pts) }
+            $g.DrawString("growth or decay depends on repeated percent change", $font, [System.Drawing.Brushes]::Black, 185, 392)
+        }
+        "model" {
+            DrawAxes 95 105 665 365
+            $g.DrawLine($bluePen, 120, 330, 630, 145)
+            $g.DrawString("model", $font, [System.Drawing.Brushes]::Black, 590, 125)
+            $g.DrawString("connect equation, table, graph, and context", $font, [System.Drawing.Brushes]::Black, 225, 392)
+        }
+        default {
+            $x0 = 150; $y0 = 125; $cw = 115; $ch = 52
+            $headers = @("Given", "Plan", "Work", "Check")
+            for ($c = 0; $c -lt 4; $c++) {
+                $g.FillRectangle($fillGold, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawRectangle($axisPen, $x0 + $c * $cw, $y0, $cw, $ch)
+                $g.DrawString($headers[$c], $font, [System.Drawing.Brushes]::Black, $x0 + 22 + $c * $cw, $y0 + 17)
+            }
+            $g.DrawString("Use a college-readiness problem-solving sequence.", $font, [System.Drawing.Brushes]::Black, 210, 270)
+        }
+    }
+
+    $bmp.Save($OutPath, [System.Drawing.Imaging.ImageFormat]::Png)
+    $axisPen.Dispose(); $gridPen.Dispose(); $bluePen.Dispose(); $greenPen.Dispose(); $redPen.Dispose()
+    $fillBlue.Dispose(); $fillGreen.Dispose(); $fillGold.Dispose()
+    $font.Dispose(); $titleFont.Dispose()
+    $g.Dispose(); $bmp.Dispose()
+    return $true
+}
+
 function New-MoodleXml {
     param(
         [string]$SourceGift,
@@ -1339,6 +1460,16 @@ function New-MoodleXml {
             $imgName = (Get-SafeFilePart $question.QuestionId) + "_visual.png"
             $imgPath = Join-Path $AssetDir $imgName
             $created = New-PrecalculusImage -OutPath $imgPath -Kind $decision.PrecalculusKind -Title "Precalculus Support Visual"
+            if ($created) {
+                $visualCount++
+                $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
+                $files += [pscustomobject]@{ Name = $imgName; Path = $imgPath }
+            }
+        }
+        elseif ($decision.Kind -eq 'mcr') {
+            $imgName = (Get-SafeFilePart $question.QuestionId) + "_visual.png"
+            $imgPath = Join-Path $AssetDir $imgName
+            $created = New-McrImage -OutPath $imgPath -Kind $decision.McrKind -Title "Math for College Readiness Support Visual"
             if ($created) {
                 $visualCount++
                 $questionHtml += '<p><img src="@@PLUGINFILE@@/' + $imgName + '" alt="' + (ConvertTo-HtmlText $decision.Reason) + '" style="max-width:100%;height:auto;" /></p>'
