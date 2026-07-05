@@ -18,6 +18,20 @@ Use this standard whenever the user says a phrase like:
 
 This standard applies to all courses in the repository, not only Algebra 1.
 
+## Required Pre-Transfer Gate
+
+Moodle lesson transfer happens only after course production is ready.
+
+An agent must not transfer lesson pages into Moodle until the following are all true for the requested scope:
+
+1. Lesson developer work has been completed and passed using `.codex/agent-prompts/lesson-developer-agent.md`.
+2. Assessment developer work has been completed and passed using `.codex/agent-prompts/assessment-developer-agent.md`.
+3. Required unit audits have passed with mapping evidence and current-file evidence.
+4. The final course audit/certification gate has passed when the transfer scope is a full course.
+5. All confirmed defects from lesson rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS, mapping, and final audit have been fixed and rerun.
+
+If any item above is missing, incomplete, unsupported by evidence, or FAIL, stop. Do not begin Moodle transfer. The main agent must complete or coordinate the missing development, correction, and audit work first.
+
 ## Required Outcome
 
 The required outcome is that the correct existing Moodle lesson pages contain the exact current HTML source from the matching repository lesson files.

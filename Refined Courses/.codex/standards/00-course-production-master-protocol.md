@@ -32,6 +32,7 @@ The expected quality bar is strict: every course must be built as if it will be 
 20. A course, unit, lesson, or assessment cannot be called clean, complete, student ready, production ready, certified, or PASS unless all blocking gates pass from direct current-file inspection.
 21. Moodle lesson transfer must follow `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`. Do not improvise Moodle transfer steps.
 22. Lesson content development and assessment development must use developer prompt files, not audit-only prompt files.
+23. Moodle transfer is a post-certification action only. Do not transfer lessons to Moodle until lesson development passes, assessment development passes, and the final course audit/certification gate passes with evidence.
 
 ## Main Agent Responsibility
 
@@ -105,6 +106,16 @@ When the user explicitly authorizes rebuild mode, use the standards in these fil
 ## Moodle Lesson Transfer Boundary
 
 When the user asks to transfer, load, copy, paste, or update lesson pages in Moodle, the Moodle lesson transfer standard controls the work.
+
+Moodle transfer must not begin until all required production gates are complete:
+
+- lesson developer work has passed for the assigned course/unit/lesson scope
+- assessment developer work has passed for the assigned course/unit/lesson scope
+- required unit audits have passed
+- required course completion/final certification audit has passed
+- any confirmed defects from lesson, assessment, structure, visual, mapping, metadata, or LMS audits have been fixed and rerun
+
+If any of these items are missing, incomplete, unsupported by evidence, or still FAIL, the agent must stop and complete the development/audit work before Moodle transfer.
 
 Required transfer files:
 

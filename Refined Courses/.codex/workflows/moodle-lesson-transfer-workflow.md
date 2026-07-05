@@ -8,6 +8,20 @@ Before any agent transfers repository lesson pages into Moodle, the agent must r
 
 This file is the controlling standard for Moodle lesson page transfer. It applies whenever the user asks to transfer, load, copy, update, or paste repository lesson pages into Moodle.
 
+## Required Pre-Transfer Gate
+
+Moodle transfer is not allowed until the repository course files are production ready.
+
+Before any Moodle transfer begins, the main agent must verify and cite evidence that:
+
+- lesson developer work is complete and PASS for the requested scope
+- assessment developer work is complete and PASS for the requested scope
+- all required unit audits are PASS for the requested scope
+- the final course audit/certification gate is PASS when the requested scope is a full course
+- every confirmed issue from lesson rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS, mapping, and final audit has been fixed and rerun
+
+If any required gate is missing, unsupported, incomplete, or FAIL, stop. Do not open Moodle for transfer. Complete the lesson, assessment, and audit work first.
+
 ## Mandatory Rules
 
 - Repository HTML is the source of truth.

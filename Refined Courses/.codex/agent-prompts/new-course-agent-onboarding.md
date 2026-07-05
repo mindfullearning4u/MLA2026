@@ -115,4 +115,6 @@ When the user asks to transfer, load, copy, update, or paste lesson pages into M
 - `.codex/workflows/moodle-lesson-transfer-workflow.md`
 - `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`
 
+Moodle transfer may happen only after the course files are production ready. Before transfer, verify that lesson developer work, assessment developer work, required unit audits, and final course audit/certification have passed for the requested scope. If any confirmed issue remains unresolved or any gate is missing, unsupported, incomplete, or FAIL, stop and complete the development/audit work first.
+
 The Moodle transfer standard controls the workflow. Do not improvise transfer steps. Do not use Moodle import, GIFT, or XML for lesson page transfer. Do not transfer `P05.html` unless explicitly requested. Save, verify, and log each Moodle page transfer.

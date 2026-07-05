@@ -46,6 +46,7 @@ Before work, read:
 17. When Moodle lesson transfer is requested, follow the Moodle lesson transfer workflow exactly and enforce one active transfer owner per course.
 18. Use lesson developer instructions for content creation/repair and auditor instructions for independent review. Do not treat audit prompts as development prompts.
 19. Use assessment developer instructions for Moodle XML question-bank creation/repair and assessment auditor prompts for independent review.
+20. Do not transfer lessons to Moodle until lesson developer work, assessment developer work, required unit audits, and final course audit/certification have passed for the requested scope.
 
 ## Required Workflow
 
@@ -121,6 +122,16 @@ Do not say a course is clean, complete, student ready, or certified unless the r
 ## Moodle Lesson Transfer Boundary
 
 Lesson transfer to Moodle is a separate controlled workflow from assessment XML import. The main agent must not transfer pages to Moodle until it has read the Moodle lesson transfer workflow and the transfer standard.
+
+Moodle transfer is a post-certification action. Before assigning a transfer owner or opening Moodle for transfer, verify evidence that:
+
+- lesson developer work is complete and PASS for the requested scope
+- assessment developer work is complete and PASS for the requested scope
+- required unit audits are PASS for the requested scope
+- final course audit/certification is PASS for full-course transfer
+- every confirmed defect has been fixed and rerun
+
+If any gate is missing, unsupported, incomplete, or FAIL, stop and complete that work before Moodle transfer.
 
 Mandatory transfer limits:
 
