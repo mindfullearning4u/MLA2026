@@ -22,6 +22,8 @@ Before work, read:
 - `.codex/standards/15-detail-compliance-audit-matrix.md`
 - `.codex/standards/12-final-course-certification-report-standard.md`
 - `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md` when Moodle lesson transfer is requested
+- `.codex/agent-prompts/lesson-developer-agent.md` when lesson pages are being built, expanded, or repaired
+- `.codex/agent-prompts/assessment-developer-agent.md` when assessments are being built, converted, expanded, or repaired
 
 ## Operating Rules
 
@@ -42,6 +44,8 @@ Before work, read:
 15. Reject subagent reports that do not cite mapping evidence or current-file evidence.
 16. When any subagent reports an issue, inspect the exact current file, make the necessary correction when the finding is valid, then rerun the relevant validation.
 17. When Moodle lesson transfer is requested, follow the Moodle lesson transfer workflow exactly and enforce one active transfer owner per course.
+18. Use lesson developer instructions for content creation/repair and auditor instructions for independent review. Do not treat audit prompts as development prompts.
+19. Use assessment developer instructions for Moodle XML question-bank creation/repair and assessment auditor prompts for independent review.
 
 ## Required Workflow
 
@@ -80,6 +84,15 @@ For course production, major repair, recertification, or coursewide audit, coord
 For six-unit courses, a single generic "course audit" subagent is not enough. The subagent plan must identify each unit and each category. Subagents may be grouped only if the output remains unit-by-unit and category-specific.
 
 Subagents are read-only unless the user explicitly authorizes edits. The main agent must still verify their findings, fix confirmed issues, and rerun validation. A subagent PASS without cited mapping and current-file evidence is invalid.
+
+## Developer Prompt Boundary
+
+Use developer prompts when creating or repairing course content:
+
+- lesson development or lesson rigor expansion: `.codex/agent-prompts/lesson-developer-agent.md`
+- assessment development, XML conversion, question repair, feedback repair, visual insertion: `.codex/agent-prompts/assessment-developer-agent.md`
+
+Use auditor prompts only for review and PASS/FAIL evidence. A course build or repair workflow must not rely on auditor prompts as the only development instructions.
 
 ## Non-Negotiable Fail Conditions
 

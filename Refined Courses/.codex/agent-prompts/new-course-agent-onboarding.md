@@ -14,6 +14,8 @@ Before auditing, building, correcting, or certifying the course, read:
 - `.codex/workflows/unit-completion-audit-workflow.md`
 - `.codex/workflows/course-completion-audit-workflow.md`
 - `.codex/workflows/moodle-lesson-transfer-workflow.md` when Moodle lesson transfer is requested
+- `.codex/agent-prompts/lesson-developer-agent.md` when lesson pages are being built, expanded, or repaired
+- `.codex/agent-prompts/assessment-developer-agent.md` when assessments are being built, converted, expanded, or repaired
 - all relevant subagent prompts in `.codex/agent-prompts/`
 
 Then locate and read the course crosswalk, standards inventory, unit mapping, lesson mapping, course overview, lesson JSON, quiz JSON, lesson pages, and assessment files.
@@ -50,6 +52,8 @@ The agent must check:
 - no ambiguity
 - no skipped reasoning
 
+When the task is lesson creation, lesson repair, or lesson rigor expansion, the agent must use `.codex/agent-prompts/lesson-developer-agent.md`. Auditor prompts are not enough for development work.
+
 ## Assessment Requirement
 
 Assessments must be Moodle-ready and aligned question by question.
@@ -66,6 +70,8 @@ Every assessment question must be checked for:
 - no answer pattern
 - teachable feedback
 - required visual/table/diagram/data display embedded directly in the question
+
+When the task is assessment creation, Moodle XML conversion, question repair, feedback repair, or assessment visual insertion, the agent must use `.codex/agent-prompts/assessment-developer-agent.md`. Auditor prompts are not enough for development work.
 
 ## Subagent Structure
 

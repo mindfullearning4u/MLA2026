@@ -31,12 +31,19 @@ The expected quality bar is strict: every course must be built as if it will be 
 19. Math lessons and assessments must include veteran-teacher-style visuals, tables, graphs, number lines, diagrams, and data displays wherever they clarify the concept, remove ambiguity, or are warranted by the question.
 20. A course, unit, lesson, or assessment cannot be called clean, complete, student ready, production ready, certified, or PASS unless all blocking gates pass from direct current-file inspection.
 21. Moodle lesson transfer must follow `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`. Do not improvise Moodle transfer steps.
+22. Lesson content development and assessment development must use developer prompt files, not audit-only prompt files.
 
 ## Main Agent Responsibility
 
 The main agent is responsible for the final quality of the course. Subagents provide evidence, but the main agent must verify that subagents followed the standards and did not miss required mapping, rigor, structure, assessment, visual, LMS, or compliance checks.
 
 The main agent may use scripts and tools for mechanical validation, but tool output does not replace the required subagent audit model for full course production, major repair, recertification, or any user request to audit a course. Every course must receive the ALG1-level audit structure unless the user explicitly asks for a limited, narrow check.
+
+The main agent must distinguish development prompts from audit prompts:
+
+- Use `.codex/agent-prompts/lesson-developer-agent.md` when creating, expanding, or repairing lesson pages.
+- Use `.codex/agent-prompts/assessment-developer-agent.md` when creating, converting, expanding, or repairing assessment files.
+- Use auditor prompts only for independent review, evidence, and PASS/FAIL decisions.
 
 If a subagent identifies a missing item, unclear lesson, missing visual, mapping drift, weak assessment, metadata defect, or compliance issue, the main agent must inspect the current file directly and either fix the issue or document why it is not a valid finding. The main agent must not merely summarize subagent findings without acting on confirmed defects.
 
