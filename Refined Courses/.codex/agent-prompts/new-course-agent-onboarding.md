@@ -13,6 +13,7 @@ Before auditing, building, correcting, or certifying the course, read:
 - `.codex/workflows/course-build-workflow.md`
 - `.codex/workflows/unit-completion-audit-workflow.md`
 - `.codex/workflows/course-completion-audit-workflow.md`
+- `.codex/workflows/moodle-lesson-transfer-workflow.md` when Moodle lesson transfer is requested
 - all relevant subagent prompts in `.codex/agent-prompts/`
 
 Then locate and read the course crosswalk, standards inventory, unit mapping, lesson mapping, course overview, lesson JSON, quiz JSON, lesson pages, and assessment files.
@@ -100,3 +101,12 @@ Do not tell the user a course has the same rigor as ALG1 unless this layered evi
 Do not call the course clean, complete, student ready, production ready, certified, or PASS unless all required gates pass.
 
 Any missing mapped standard, missing assessment coverage, missing mandatory visual, out-of-mapping lesson content, out-of-mapping assessment question, malformed Moodle file, weak feedback, broken structure, empty required file, or unsupported PASS claim is a blocker.
+
+## Moodle Lesson Transfer Requirement
+
+When the user asks to transfer, load, copy, update, or paste lesson pages into Moodle, the agent must read:
+
+- `.codex/workflows/moodle-lesson-transfer-workflow.md`
+- `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`
+
+The Moodle transfer standard controls the workflow. Do not improvise transfer steps. Do not use Moodle import, GIFT, or XML for lesson page transfer. Do not transfer `P05.html` unless explicitly requested. Save, verify, and log each Moodle page transfer.

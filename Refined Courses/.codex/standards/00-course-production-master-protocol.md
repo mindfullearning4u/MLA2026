@@ -30,6 +30,7 @@ The expected quality bar is strict: every course must be built as if it will be 
 18. No assessment may ask questions outside the approved lesson or unit mapping.
 19. Math lessons and assessments must include veteran-teacher-style visuals, tables, graphs, number lines, diagrams, and data displays wherever they clarify the concept, remove ambiguity, or are warranted by the question.
 20. A course, unit, lesson, or assessment cannot be called clean, complete, student ready, production ready, certified, or PASS unless all blocking gates pass from direct current-file inspection.
+21. Moodle lesson transfer must follow `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`. Do not improvise Moodle transfer steps.
 
 ## Main Agent Responsibility
 
@@ -93,6 +94,28 @@ When the current task is structure-only mode:
 - Improvements to rigor, clarity, examples, scaffolding, visuals, or resources must be reported as suggestions only.
 
 When the user explicitly authorizes rebuild mode, use the standards in these files to write or revise content, but still preserve the approved mapping and course architecture.
+
+## Moodle Lesson Transfer Boundary
+
+When the user asks to transfer, load, copy, paste, or update lesson pages in Moodle, the Moodle lesson transfer standard controls the work.
+
+Required transfer files:
+
+- `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`
+- `.codex/workflows/moodle-lesson-transfer-workflow.md`
+
+Mandatory transfer rules:
+
+- repository lesson HTML is the source of truth
+- Moodle is the destination
+- one course has one active transfer owner at a time
+- one transfer owner uses one dedicated Moodle browser session
+- standard page transfer scope is `P01.html`, `P02.html`, `P03.html`, `P04.html`, `P06.html`, and `P07.html`
+- `P05.html` is excluded unless the user explicitly requests it
+- no Moodle page, Moodle activity, course section, Moodle file, quiz, question bank, or repository file may be deleted
+- every saved Moodle page must be verified and logged
+
+Lesson transfer to Moodle is not assessment import. Do not use Moodle import, GIFT, or XML for lesson page transfer.
 
 ## Required Source Order
 

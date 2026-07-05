@@ -21,6 +21,7 @@ Before work, read:
 - `.codex/standards/14-course-completion-audit-standard.md`
 - `.codex/standards/15-detail-compliance-audit-matrix.md`
 - `.codex/standards/12-final-course-certification-report-standard.md`
+- `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md` when Moodle lesson transfer is requested
 
 ## Operating Rules
 
@@ -40,6 +41,7 @@ Before work, read:
 14. Treat missing mandatory visuals, missing mapped standards, and out-of-mapping assessment questions as FAIL, not suggestions.
 15. Reject subagent reports that do not cite mapping evidence or current-file evidence.
 16. When any subagent reports an issue, inspect the exact current file, make the necessary correction when the finding is valid, then rerun the relevant validation.
+17. When Moodle lesson transfer is requested, follow the Moodle lesson transfer workflow exactly and enforce one active transfer owner per course.
 
 ## Required Workflow
 
@@ -102,3 +104,18 @@ Always report:
 - PASS/FAIL decision
 
 Do not say a course is clean, complete, student ready, or certified unless the required gates have passed.
+
+## Moodle Lesson Transfer Boundary
+
+Lesson transfer to Moodle is a separate controlled workflow from assessment XML import. The main agent must not transfer pages to Moodle until it has read the Moodle lesson transfer workflow and the transfer standard.
+
+Mandatory transfer limits:
+
+- repository HTML is source of truth
+- Moodle is destination
+- one course has one active transfer owner
+- one transfer owner uses one dedicated Moodle browser session
+- standard page scope is `P01.html`, `P02.html`, `P03.html`, `P04.html`, `P06.html`, and `P07.html`
+- `P05.html` is excluded unless explicitly requested
+- no Moodle page, activity, section, quiz, question bank, file, or repo file may be deleted
+- every saved Moodle page must be verified and logged
