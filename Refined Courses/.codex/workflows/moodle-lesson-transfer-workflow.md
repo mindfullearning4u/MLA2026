@@ -19,8 +19,26 @@ Before any Moodle transfer begins, the main agent must verify and cite evidence 
 - all required unit audits are PASS for the requested scope
 - the final course audit/certification gate is PASS when the requested scope is a full course
 - every confirmed issue from lesson rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS, mapping, and final audit has been fixed and rerun
+- the transfer agent has performed a final repository checkpoint on the exact lesson files to be transferred
 
 If any required gate is missing, unsupported, incomplete, or FAIL, stop. Do not open Moodle for transfer. Complete the lesson, assessment, and audit work first.
+
+## Final Repository Checkpoint Before Moodle
+
+Before opening Moodle or saving any Moodle page, the assigned transfer agent must re-check the exact repository files in the transfer scope. This checkpoint is required even when prior lesson developers, assessment developers, and auditors already passed the course.
+
+For every lesson page in scope, verify:
+
+- the page belongs to the correct course, unit, lesson, and page number
+- the page follows the approved unit mapping and lesson mapping
+- mapped standards are visible or traceable
+- no outside-standard, future-unit, future-lesson, or unmapped content is being transferred
+- the lesson teaches asynchronously and does not rely on teacher-led instruction
+- no prohibited teacher-led language remains, including teacher check, teacher guidance, teacher will explain, teacher will show, or wait for teacher instruction
+- Teacher of Record language is limited to support, intervention, checkpoint, submission, clarification, retake, and workflow decisions
+- the page is self-contained enough that the student can learn from the lesson without a live teacher filling in missing steps
+
+If this checkpoint finds a defect, stop transfer for the affected scope. Correct the repository file first, rerun the relevant audit or checkpoint, and only then continue Moodle transfer. Do not fix repository defects directly inside Moodle.
 
 ## Mandatory Rules
 

@@ -36,8 +36,11 @@ if (-not (Test-Path -LiteralPath $auditDir)) {
   New-Item -ItemType Directory -Path $auditDir | Out-Null
 }
 
-$pages = Get-ChildItem -Path (Join-Path $resolvedRoot "Units") -Recurse -File -Include "P02.html","P03.html","P04.html","P06.html" |
+$pagePattern = '^(P02|P03|P04|P06)(_|\.html$)'
+$pages = @(Get-ChildItem -Path (Join-Path $resolvedRoot "Units") -Recurse -File -Filter "*.html" |
+  Where-Object { $_.Name -match $pagePattern } |
   Sort-Object FullName
+)
 
 $failures = @()
 foreach ($page in $pages) {
@@ -52,6 +55,7 @@ foreach ($page in $pages) {
     }
   }
 }
+$failures = @($failures)
 
 $reportPath = Join-Path $auditDir "$($CourseCode)_LESSON_RIGOR_DEPTH_AUDIT.md"
 $decision = if ($failures.Count -eq 0) { "PASS" } else { "FAIL" }
@@ -76,7 +80,7 @@ if ($failures.Count -gt 0) {
   $lines.Add("| File | Words |")
   $lines.Add("|---|---:|")
   foreach ($failure in $failures) {
-    $lines.Add("| `$($failure.File)` | $($failure.Words) |")
+    $lines.Add('| `' + $failure.File + '` | ' + $failure.Words + ' |')
   }
 } else {
   $lines.Add("## Result")
