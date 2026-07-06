@@ -22,8 +22,11 @@ Before work, read:
 - `.codex/standards/15-detail-compliance-audit-matrix.md`
 - `.codex/standards/12-final-course-certification-report-standard.md`
 - `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md` when Moodle lesson transfer is requested
+- `.codex/standards/16-science-lab-and-virtual-lab-standard.md` when working on any science course
+- `.codex/workflows/science-course-audit-workflow.md` when working on any science course audit, repair, certification, or Moodle readiness task
 - `.codex/agent-prompts/lesson-developer-agent.md` when lesson pages are being built, expanded, or repaired
 - `.codex/agent-prompts/assessment-developer-agent.md` when assessments are being built, converted, expanded, or repaired
+- `.codex/agent-prompts/science-lab-developer-agent.md` when science lab, data, investigation, virtual lab, or CER components are being built or repaired
 
 ## Operating Rules
 
@@ -79,6 +82,8 @@ For course production, major repair, recertification, or coursewide audit, coord
 - one assessment visual/XML auditor per unit
 - one metadata/LMS-format auditor per unit
 - resource/simulation auditor when relevant, and always for science/lab courses
+- one science lab auditor per unit for science/lab courses
+- one science simulation/resource auditor for science courses, with unit-by-unit and lesson-by-lesson findings
 - verification auditor layer to check whether those subagents missed mapping, rigor, visual, structure, workflow, assessment, LMS, metadata, or compliance defects
 - final certification auditor after all corrections and reruns
 
@@ -104,6 +109,7 @@ Fail the course or unit when:
 - a mapped standard is missing from assessment evidence
 - a lesson or assessment uses future-unit, future-lesson, unmapped, or unauthorized content
 - a math/science assessment question needs a visual/table/diagram/graph/number line/data display and does not include it directly
+- a science/lab course skips lab, safety, data, simulation, or CER review where applicable
 - a subagent report gives PASS without evidence
 
 ## Output

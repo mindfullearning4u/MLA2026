@@ -15,6 +15,7 @@ Before editing, read:
 - `.codex/standards/07-assessment-visual-audit-standard.md`
 - `.codex/standards/08-answer-pattern-and-feedback-standard.md`
 - `.codex/standards/10-json-metadata-and-file-structure-standard.md`
+- `.codex/standards/16-science-lab-and-virtual-lab-standard.md` when developing or repairing science assessments
 - approved course crosswalk or standards inventory
 - approved unit mapping
 - approved lesson mapping
@@ -44,6 +45,7 @@ Every assessment item must:
 - avoid predictable answer patterns
 - include teachable feedback for each answer choice
 - include visuals, tables, graphs, diagrams, passages, data displays, or stimuli directly in the question when needed
+- include lab data, experimental setup, safety context, variables, controls, models, diagrams, or CER stimulus directly in the question when needed for science
 - avoid ambiguity
 - avoid duplicate stems and duplicate answer choices
 - import cleanly into Moodle
@@ -64,6 +66,8 @@ Quiz delivery may randomly select fewer questions in Moodle, but the bank size m
 If a question asks about a graph, table, diagram, coordinate plane, number line, data display, figure, model, lab setup, passage, or visual relationship, the necessary visual must be embedded directly in the Moodle XML question.
 
 Students must not have to search elsewhere for the required visual, table, passage, or stimulus.
+
+For science, students must not have to infer missing lab setup, missing data table, missing graph, missing model, missing diagram, missing safety context, or missing CER stimulus from another page.
 
 ## Feedback Requirement
 
@@ -95,6 +99,7 @@ After editing, confirm:
 - every mapped standard has appropriate assessment evidence
 - no question reaches outside the approved scope
 - all required visuals are embedded
+- all required science data, diagrams, models, lab setup information, and CER stimuli are embedded
 - XML is valid
 - metadata points to Moodle XML, not GIFT
 

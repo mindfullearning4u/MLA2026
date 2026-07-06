@@ -14,6 +14,7 @@ Before editing, read:
 - `.codex/standards/03-lesson-page-model-p01-p07.md`
 - `.codex/standards/04-instructional-rigor-and-mastery-standard.md`
 - `.codex/standards/05-mathematical-visual-standard.md`
+- `.codex/standards/16-science-lab-and-virtual-lab-standard.md` when developing or repairing science lessons
 - `.codex/standards/09-lesson-8-synthesis-standard.md`
 - approved course crosswalk or standards inventory
 - approved unit mapping
@@ -104,6 +105,10 @@ For math and science, this includes but is not limited to:
 - diagrams
 - geometry figures
 - lab diagrams
+- lab setup diagrams
+- scientific models
+- CER organizers
+- variable/control tables
 - models
 - data displays
 - formula structure tables
@@ -124,6 +129,7 @@ After editing, confirm:
 - TOR language is limited to support, intervention, checkpoint, submission, and retake workflow
 - page sequence remains intact
 - lesson remains Moodle-friendly HTML
+- science lessons include lab/data/safety/CER support when required by the mapping
 
 ## Output
 
