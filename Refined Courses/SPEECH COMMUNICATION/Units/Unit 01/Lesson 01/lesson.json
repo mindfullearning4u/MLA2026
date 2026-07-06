@@ -1,41 +1,67 @@
 {
-  "course": "SPEECH COMMUNICATION",
-  "courseTitle": "Speech Communication",
-  "unit": "Unit 01",
-  "lesson": "Lesson 01",
-  "title": "Speech Communication Course Foundations",
-  "primaryStandards": [
-    {
-      "code": "MLA.SPEECH.COM.08",
-      "description": "Use appropriate collaborative techniques and active listening skills when engaging in discussions in a variety of situations."
-    }
-  ],
-  "supportStandards": [
-    {
-      "code": "MLA.SPEECH.COM.10",
-      "description": "Communicate information, ideas, and concepts necessary for academic success in Language Arts."
-    },
-    {
-      "code": "MLA.SPEECH.COM.11",
-      "description": "Communicate for social and instructional purposes within the school setting."
-    }
-  ],
-  "pages": [
-    {"id": "P01", "title": "Lesson Overview", "file": "P01.html"},
-    {"id": "P02", "title": "Notebook Task Part 1", "file": "P02.html"},
-    {"id": "P03", "title": "Notebook Task Part 2", "file": "P03.html"},
-    {"id": "P04", "title": "Worked Example", "file": "P04.html"},
-    {"id": "P05", "title": "Guided Practice", "file": "P05.html"},
-    {"id": "P06", "title": "Independent Work", "file": "P06.html"},
-    {"id": "P07", "title": "Checkpoint", "file": "P07.html"}
-  ],
-  "guidedPractice": {
-    "file": "SPEECH_U01_L01_GuidedPractice.gift",
-    "questionCount": 5
-  },
-  "quiz": {
-    "file": "SPEECH_U01_L01_Quiz.gift",
-    "questionCount": 25
-  },
-  "masteryThreshold": 80
+    "course":  "SPEECH COMMUNICATION",
+    "courseTitle":  "Speech Communication",
+    "unit":  "Unit 01",
+    "lesson":  "Lesson 01",
+    "title":  "Speech Communication Course Foundations",
+    "primaryStandards":  {
+                             "code":  "MLA.SPEECH.COM.08",
+                             "description":  "Use appropriate collaborative techniques and active listening skills when engaging in discussions in a variety of situations."
+                         },
+    "supportStandards":  [
+                             {
+                                 "code":  "MLA.SPEECH.COM.10",
+                                 "description":  "Communicate information, ideas, and concepts necessary for academic success in Language Arts."
+                             },
+                             {
+                                 "code":  "MLA.SPEECH.COM.11",
+                                 "description":  "Communicate for social and instructional purposes within the school setting."
+                             }
+                         ],
+    "pages":  [
+                  {
+                      "id":  "P01",
+                      "title":  "Lesson Overview",
+                      "file":  "P01.html"
+                  },
+                  {
+                      "id":  "P02",
+                      "title":  "Notebook Task Part 1",
+                      "file":  "P02.html"
+                  },
+                  {
+                      "id":  "P03",
+                      "title":  "Notebook Task Part 2",
+                      "file":  "P03.html"
+                  },
+                  {
+                      "id":  "P04",
+                      "title":  "Worked Example",
+                      "file":  "P04.html"
+                  },
+                  {
+                      "id":  "P05",
+                      "title":  "Guided Practice",
+                      "file":  "P05.html"
+                  },
+                  {
+                      "id":  "P06",
+                      "title":  "Independent Work",
+                      "file":  "P06.html"
+                  },
+                  {
+                      "id":  "P07",
+                      "title":  "Checkpoint",
+                      "file":  "P07.html"
+                  }
+              ],
+    "guidedPractice":  {
+                           "moodleXmlFile":  "Moodle XML/SPEECH_U01_L01_GuidedPractice_MoodleXML.xml",
+                           "questionCount":  5
+                       },
+    "quiz":  {
+                 "moodleXmlFile":  "Moodle XML/SPEECH_U01_L01_Quiz_MoodleXML.xml",
+                 "questionCount":  25
+             },
+    "masteryThreshold":  80
 }
