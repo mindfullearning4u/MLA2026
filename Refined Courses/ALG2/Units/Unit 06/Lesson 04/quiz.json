@@ -1,4 +1,4 @@
-{
+﻿{
     "course":  "ALG2",
     "unit":  "Unit 06",
     "lesson":  "Lesson 04",
@@ -12,14 +12,15 @@
                           "floridaBenchmark":  "MA.912.DP.2.9"
                       }
                   ],
-    "giftFile":  "ALG2_U06_L04_Quiz.gift",
     "questionBankSize":  20,
     "questionsPerAttempt":  5,
-    "format":  "GIFT",
+    "format":  "Moodle XML",
     "masteryThreshold":  80,
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      }
+                      },
+    "moodleXmlFile":  "ALG2\\Units\\Unit 06\\Lesson 04\\Moodle XML\\ALG2_U06_L04_Quiz_MoodleXML.xml",
+    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 06\\Lesson 04\\Moodle XML\\ALG2_U06_L04_GuidedPractice_MoodleXML.xml"
 }

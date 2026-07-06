@@ -1,14 +1,13 @@
-{
+﻿{
     "course":  "ALG2",
     "questionBankSize":  40,
-    "giftFile":  "ALG2_U04_UnitAssessment.gift",
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
     "questionsPerAttempt":  40,
-    "format":  "GIFT",
+    "format":  "Moodle XML",
     "masteryThreshold":  80,
     "primaryStandard":  {
                             "code":  "Unit 4 standards synthesis; no new primary MLA standard",
@@ -23,5 +22,7 @@
                                       "B":  10,
                                       "A":  10
                                   },
-    "unit":  "Unit 04"
+    "unit":  "Unit 04",
+    "moodleXmlFile":  "ALG2\\Units\\Unit 04\\Lesson 08\\Moodle XML\\ALG2_U04_UnitAssessment_MoodleXML.xml",
+    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 04\\Lesson 08\\Moodle XML\\ALG2_U04_L08_GuidedPractice_MoodleXML.xml"
 }

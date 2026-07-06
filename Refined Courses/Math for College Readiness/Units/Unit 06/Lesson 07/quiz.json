@@ -1,4 +1,4 @@
-{
+﻿{
     "course":  "MCR",
     "courseTitle":  "Math for College Readiness",
     "unit":  "Unit 06",
@@ -8,9 +8,8 @@
                             "code":  "Support-only extension of Unit 6 standards",
                             "description":  "I can solve multi-step measurement problems involving constraints, design choices, and reasonableness."
                         },
-    "format":  "GIFT",
-    "giftFile":  "MCR_U06_L07_Quiz.gift",
-    "questionBankSize":  20,
+    "format":  "Moodle XML",
+    "questionBankSize":  25,
     "questionsPerAttempt":  5,
     "masteryThreshold":  80,
     "attemptPolicy":  {
@@ -19,9 +18,11 @@
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
     "correctAnswerDistribution":  {
-                                      "A":  5,
-                                      "B":  5,
-                                      "C":  5,
-                                      "D":  5
-                                  }
+                                      "A":  7,
+                                      "B":  6,
+                                      "C":  6,
+                                      "D":  6
+                                  },
+    "moodleXmlFile":  "Math for College Readiness\\Units\\Unit 06\\Lesson 07\\Moodle XML\\MCR_U06_L07_Quiz_MoodleXML.xml",
+    "moodleXmlGuidedPracticeFile":  "Math for College Readiness\\Units\\Unit 06\\Lesson 07\\Moodle XML\\MCR_U06_L07_GuidedPractice_MoodleXML.xml"
 }

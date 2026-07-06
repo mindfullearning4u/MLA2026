@@ -1,13 +1,12 @@
-{
+﻿{
     "course":  "ALG2",
     "questionBankSize":  20,
-    "giftFile":  "ALG2_U05_L07_Quiz.gift",
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
-    "format":  "GIFT",
+    "format":  "Moodle XML",
     "correctAnswerDistribution":  {
                                       "C":  6,
                                       "D":  6,
@@ -23,5 +22,7 @@
                             "description":  "Compare, interpret, and solve using multiple function representations and features.",
                             "floridaBenchmark":  "MA.912.F.1.9; MA.912.AR.4.2; MA.912.AR.4.4"
                         },
-    "unit":  "Unit 05"
+    "unit":  "Unit 05",
+    "moodleXmlFile":  "ALG2\\Units\\Unit 05\\Lesson 07\\Moodle XML\\ALG2_U05_L07_Quiz_MoodleXML.xml",
+    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 05\\Lesson 07\\Moodle XML\\ALG2_U05_L07_GuidedPractice_MoodleXML.xml"
 }

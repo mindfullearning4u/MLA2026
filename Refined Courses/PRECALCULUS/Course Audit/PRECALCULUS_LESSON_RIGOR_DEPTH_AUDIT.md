@@ -3,7 +3,7 @@
 - Course root: `C:\Users\acrue\MLA2026-1\Refined Courses\PRECALCULUS`
 - Pages checked: 192
 - Minimum word threshold: 250
-- Pages below threshold: 58
+- Pages below threshold: 57
 - Final decision: FAIL
 
 ## Audit Rule
@@ -50,8 +50,7 @@ P02, P03, P04, and P06 pages must contain enough direct teaching, modeling, anti
 | `Units\Unit 04\Lesson 01\P06_Independent_Work.html` | 233 |
 | `Units\Unit 04\Lesson 02\P02_Notebook_Task_Part_1.html` | 211 |
 | `Units\Unit 04\Lesson 02\P06_Independent_Work.html` | 239 |
-| `Units\Unit 04\Lesson 03\P02_Notebook_Task_Part_1.html` | 216 |
-| `Units\Unit 04\Lesson 03\P06_Independent_Work.html` | 239 |
+| `Units\Unit 04\Lesson 03\P02_Notebook_Task_Part_1.html` | 249 |
 | `Units\Unit 04\Lesson 04\P02_Notebook_Task_Part_1.html` | 209 |
 | `Units\Unit 04\Lesson 04\P06_Independent_Work.html` | 239 |
 | `Units\Unit 04\Lesson 05\P02_Notebook_Task_Part_1.html` | 210 |

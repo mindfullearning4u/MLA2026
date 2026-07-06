@@ -1,14 +1,13 @@
-{
+﻿{
     "course":  "ALG2",
     "questionBankSize":  20,
-    "giftFile":  "ALG2_U03_L03_Quiz.gift",
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
     "questionsPerAttempt":  5,
-    "format":  "GIFT",
+    "format":  "Moodle XML",
     "masteryThreshold":  80,
     "primaryStandard":  {
                             "code":  "MLA.A2.RR.1; MLA.A2.RR.3",
@@ -23,5 +22,7 @@
                                       "B":  6,
                                       "A":  7
                                   },
-    "unit":  "Unit 03"
+    "unit":  "Unit 03",
+    "moodleXmlFile":  "ALG2\\Units\\Unit 03\\Lesson 03\\Moodle XML\\ALG2_U03_L03_Quiz_MoodleXML.xml",
+    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 03\\Lesson 03\\Moodle XML\\ALG2_U03_L03_GuidedPractice_MoodleXML.xml"
 }

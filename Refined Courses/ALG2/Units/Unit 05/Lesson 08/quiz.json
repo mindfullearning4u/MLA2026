@@ -1,13 +1,12 @@
-{
+﻿{
     "course":  "ALG2",
     "questionBankSize":  40,
-    "giftFile":  "ALG2_U05_UnitAssessment.gift",
     "attemptPolicy":  {
                           "studentAttemptsBeforeIntervention":  1,
                           "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
                           "questionReuseRule":  "Questions must not repeat exactly across attempts."
                       },
-    "format":  "GIFT",
+    "format":  "Moodle XML",
     "correctAnswerDistribution":  {
                                       "C":  10,
                                       "D":  10,
@@ -23,5 +22,7 @@
                             "description":  "Synthesize systems, transformations, composition, inverses, and advanced function analysis.",
                             "floridaBenchmark":  "Unit 5 benchmarks synthesis"
                         },
-    "unit":  "Unit 05"
+    "unit":  "Unit 05",
+    "moodleXmlFile":  "ALG2\\Units\\Unit 05\\Lesson 08\\Moodle XML\\ALG2_U05_UnitAssessment_MoodleXML.xml",
+    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 05\\Lesson 08\\Moodle XML\\ALG2_U05_L08_GuidedPractice_MoodleXML.xml"
 }
