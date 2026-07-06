@@ -64,20 +64,22 @@ The main agent must inspect and fix every valid finding, then rerun affected aud
 1. Confirm the course folder.
 2. Confirm the course is a science course and whether it is lab-designated.
 3. Locate standards, crosswalk, unit mapping, lesson mapping, and lab matrix.
-4. Build a mapping trace table.
-5. Inventory files: units, lessons, P01-P07, JSON, XML, lab matrices.
-6. Audit lesson rigor and self-paced instruction.
-7. Audit lab/data/investigation evidence.
-8. Audit lab safety.
-9. Audit CER and scientific explanation.
-10. Audit visuals, diagrams, models, data tables, and graphs.
-11. Audit Moodle XML assessments and embedded stimuli.
-12. Audit assessment alignment to lesson/unit mapping.
-13. Run simulation/resource review.
-14. Fix confirmed issues.
-15. Rerun failed category audits.
-16. Produce unit completion audits.
-17. Produce final course completion/certification report.
+4. Verify official standards source provenance, including Florida B.E.S.T., CPALMS, Common Core, ACT, and SAT alignment where applicable.
+5. Build a mapping trace table.
+6. Build a lab/data/visual/simulation requirement table before lesson production.
+7. Inventory files: units, lessons, P01-P07, JSON, XML, lab matrices.
+8. Audit lesson rigor and self-paced instruction.
+9. Audit lab/data/investigation evidence.
+10. Audit lab safety.
+11. Audit CER and scientific explanation.
+12. Audit visuals, diagrams, models, data tables, and graphs.
+13. Audit Moodle XML assessments and embedded stimuli.
+14. Audit assessment alignment to lesson/unit mapping.
+15. Run simulation/resource review.
+16. Fix confirmed issues.
+17. Rerun failed category audits.
+18. Produce unit completion audits.
+19. Produce final course completion/certification report.
 
 ## Required Science Audit Table
 
@@ -86,11 +88,22 @@ Use this table in science reports:
 | Unit | Lesson | Mapping Focus | Lab/Data Requirement | Lesson Evidence | Safety Evidence | Visual/Data Evidence | CER Evidence | Simulation Review | Assessment Evidence | Result | Fix |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
+## Required Architecture Mapping Tables
+
+Before science lesson production, produce or verify:
+
+| Standard Code | Official Source Checked | CPALMS/FDOE Reference | MLA Numbering Status | Unit Placement | Lesson Placement | Lab/Data Requirement | Visual/Model/Data Requirement | ACT/SAT/Common Core Readiness Note | Status |
+|---|---|---|---|---|---|---|---|---|---|
+
+| Unit | Lesson | Lesson Focus | Lab or Investigation | Simulation/Virtual Lab Candidate | Visuals/Data/Models Needed | Safety Notes | Candidate Resource Location | Assessment Stimulus Needed |
+|---|---|---|---|---|---|---|---|---|
+
 ## Certification Gate
 
 A science course cannot be marked certified or ready for Moodle transfer unless:
 
 - all standard course audit gates pass
+- official standards source provenance has been checked and documented
 - Moodle XML assessments exist and validate
 - lab/data requirements are mapped and present
 - safety guidance is present where needed
@@ -109,4 +122,3 @@ Use:
 - `NOT CERTIFIED`
 
 Do not use `CERTIFIED` if simulation review, lab audit, safety audit, or XML assessment validation is missing.
-

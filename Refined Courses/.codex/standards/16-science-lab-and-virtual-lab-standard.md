@@ -35,6 +35,32 @@ Use sources in this order:
 
 Do not use old `Unit Overview.md` files as source of truth.
 
+## Official Standards and Readiness Source Requirement
+
+Before science lesson or assessment production begins, the architecture package must document which official sources were used to verify the standards and readiness alignments.
+
+Required source checks when applicable:
+
+- Florida B.E.S.T. Standards
+- CPALMS official benchmark and course references
+- Florida Department of Education course or standards documents
+- Common Core literacy in science/technical subjects when explicitly required
+- ACT College and Career Readiness Standards or official ACT science/readiness documentation
+- College Board SAT Suite or SAT Skills Insight documentation
+
+The science mapping package must not rely on unofficial summaries for standard text, standard numbering, lab requirements, or readiness alignment.
+
+The crosswalk, unit mapping, and lesson mapping must capture:
+
+- exact standard or benchmark code
+- official source checked
+- MLA numbering alignment
+- lab/data/investigation requirement
+- required visual/model/data display
+- simulation or virtual lab review requirement
+- candidate resource location for approval
+- assessment stimulus requirement
+
 ## Lab Requirement
 
 Every lab-aligned unit or lesson must include student-facing lab or investigation support appropriate to the mapped standard.
@@ -52,6 +78,8 @@ A valid science lab experience may include:
 - experimental design and critique
 
 Do not invent a lab that is outside the approved mapping. Do not add experiments requiring unsafe materials, live specimens, hazardous chemicals, heat, pressure, electricity, sharp tools, or specialized equipment unless the approved course architecture explicitly supports it and the safety controls are fully documented.
+
+If the official standard or benchmark implies investigation, data analysis, model analysis, graph interpretation, lab safety, scientific explanation, or evidence-based reasoning, capture that requirement in the unit and lesson mapping before lesson development begins.
 
 ## Required Lab Components
 
@@ -194,4 +222,3 @@ Science lab audits must report:
 
 | Course | Unit | Lesson | Lab/Data Requirement | Evidence Found | Safety Present? | Simulation Review Present? | Assessment Evidence | Result | Required Fix |
 |---|---|---|---|---|---|---|---|---|---|
-

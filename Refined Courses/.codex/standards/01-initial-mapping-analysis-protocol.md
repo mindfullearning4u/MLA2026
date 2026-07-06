@@ -18,6 +18,10 @@ Before building or auditing, answer these questions in writing:
 8. Which unit and lesson files already exist?
 9. Which old files must be ignored as source-of-truth artifacts?
 10. Is this task read-only audit, structure-only correction, or authorized rebuild?
+11. Which official standards sources were checked?
+12. Are Florida B.E.S.T., CPALMS, Common Core, ACT, and SAT alignments required for this course?
+13. Which labs, simulations, data displays, diagrams, models, or visuals are required by the standards or mapping?
+14. Where can approved or candidate labs, simulations, data sets, or visuals be found for later approval?
 
 ## Required Source Discovery
 
@@ -33,6 +37,11 @@ Search the course folder for:
 - `quiz.json`
 - `.xml`
 - `Course Audit`
+- `*lab*`
+- `*virtual*lab*`
+- `*simulation*`
+- `*source*matrix*`
+- `*data*source*`
 
 Do not use `Unit Overview.md` to define expected content. It may be listed as an old artifact but not used as mapping evidence.
 
@@ -44,6 +53,31 @@ Before edits, produce a table with these columns:
 |---|---|---|---|---|---|---|---|
 
 Every unit and lesson must appear in the table.
+
+For science courses, and for any course with required visuals/resources, the mapping trace table must also include:
+
+| Unit | Lesson | Lab/Data Requirement | Required Visuals/Models/Data Displays | Required Simulation or Virtual Lab Review | Candidate Resource Location | Safety Notes | Assessment Stimulus Requirement |
+|---|---|---|---|---|---|---|---|
+
+These columns are not optional for science courses. If a lesson does not require a lab, simulation, or visual, write `None required by mapping` and cite the evidence.
+
+## Official Standards Provenance Table
+
+Before approving a crosswalk or mapping package, produce a standards provenance table:
+
+| Standard Code | Official Source Checked | Source URL or File | Exact Standard/Benchmark Title | Course Use | Crosswalk Location | Unit Mapping Location | Lesson Mapping Location | Status |
+|---|---|---|---|---|---|---|---|---|
+
+Required checks:
+
+- MLA numbering is accurate and internally consistent.
+- Florida B.E.S.T. or applicable Florida standards are correctly represented.
+- CPALMS benchmark/course references are checked when available.
+- Common Core is used only when explicitly required or for appropriate literacy-in-science/technical alignment.
+- ACT/SAT alignment is documented as readiness support, not as a replacement for Florida or MLA standards.
+- No standard is orphaned.
+- No mapped standard is missing from unit or lesson mapping.
+- No unapproved standard is introduced.
 
 ## Source Conflict Rule
 
@@ -69,6 +103,9 @@ For each lesson, determine:
 - What visuals or resources may be needed?
 - What assessment evidence is expected?
 - Whether Lesson 8 is synthesis or new content.
+- For science, what lab, investigation, data set, model, safety note, CER, simulation, or virtual lab evidence is required?
+- For science, what diagram, table, graph, map, model, lab setup, or data display must be included in lessons and assessments?
+- Where candidate labs, simulations, or visuals may be sourced for user approval.
 
 ## Completion Criteria
 
@@ -77,6 +114,8 @@ Initial analysis is complete only when:
 - All sources are identified.
 - Old source artifacts are excluded.
 - Mapping trace table is complete.
+- Standards provenance table is complete when standards or crosswalk accuracy is being audited.
+- Science lab/data/visual/simulation mapping columns are complete for science courses.
 - Missing source files are listed.
 - Conflicts are listed.
 - Build/audit mode is stated.
