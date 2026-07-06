@@ -44,7 +44,9 @@ This audit reviews the Biology architecture package only. It does not certify le
 | PHASE_3A_A_MAPPING_FRAMEWORK.md | PASS |
 | PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md | PASS |
 | PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md | PASS |
+| PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md | PASS - Added 2026-07-06 for stricter science lab/visual/simulation mapping |
 | FINAL_ARCHITECTURE_AUDIT.md | PASS |
+| BIOLOGY_SCIENCE_ARCHITECTURE_REAUDIT_2026-07-06.md | PASS - Updated science architecture re-audit |
 
 ## Updated Standards Count
 
@@ -106,18 +108,31 @@ This audit reviews the Biology architecture package only. It does not certify le
 | 17 | Unit 1 Lesson 8 now includes `MLA.BIO.LAB.03`. | PASS |
 | 18 | Lab science expectations are represented. | PASS |
 | 19 | Virtual lab/data expectations are represented. | PASS |
-| 20 | Common Core alignment is included. | PASS |
-| 21 | ACT Science alignment is included. | PASS |
-| 22 | SAT science reading/data alignment is included. | PASS |
-| 23 | College readiness alignment is included. | PASS |
-| 24 | Workforce readiness alignment is included. | PASS |
-| 25 | Scientific literacy alignment is included. | PASS |
-| 26 | Biology identity remains distinct from Chemistry, Physics, Environmental Science, Earth/Space Science, Marine Science, and Anatomy and Physiology. | PASS |
-| 27 | No lesson content was created. | PASS |
-| 28 | No assessment content was created. | PASS |
-| 29 | No HTML content was created. | PASS |
-| 30 | No JSON content was created. | PASS |
-| 31 | No GIFT content was created. | PASS |
+| 20 | Lesson-level lab, visual, simulation, and resource requirements are mapped. | PASS - See `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` |
+| 21 | Candidate resource locations are identified for approval only. | PASS |
+| 22 | Assessment stimulus needs are identified for lesson and unit assessments. | PASS |
+| 23 | Common Core alignment is included. | PASS |
+| 24 | ACT Science alignment is included. | PASS |
+| 25 | SAT science reading/data alignment is included. | PASS |
+| 26 | College readiness alignment is included. | PASS |
+| 27 | Workforce readiness alignment is included. | PASS |
+| 28 | Scientific literacy alignment is included. | PASS |
+| 29 | Biology identity remains distinct from Chemistry, Physics, Environmental Science, Earth/Space Science, Marine Science, and Anatomy and Physiology. | PASS |
+| 30 | No lesson content was created. | PASS |
+| 31 | No assessment content was created. | PASS |
+| 32 | No HTML content was created. | PASS |
+| 33 | No JSON content was created. | PASS |
+| 34 | No GIFT content was created. | PASS |
+
+## 2026-07-06 Science Architecture Re-Audit Addendum
+
+The Biology architecture package was re-audited against the updated MLA science requirements for official source provenance, lab planning, visual planning, simulation review, candidate resource locations, and assessment stimulus planning.
+
+Correction added:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file is now a required source of truth before Biology lesson development, assessment development, Moodle XML production, or Moodle transfer. If that file identifies a required lab, investigation, simulation review, visual, graph, table, model, data display, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for exclusion.
 
 ## Production Boundary Confirmation
 

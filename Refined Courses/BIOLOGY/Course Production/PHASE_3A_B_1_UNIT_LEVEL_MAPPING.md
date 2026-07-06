@@ -6,6 +6,12 @@ This document maps the Biology course architecture across six units. It identifi
 
 This is architecture only. It does not create lesson content, assessment content, HTML content, JSON content, GIFT content, or LMS pages.
 
+## Required Companion Mapping
+
+The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, data displays, safety notes, candidate resource locations, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
+
 ## Unit-Level Standards Map
 
 | Unit | Unit Title | Primary MLA Standards | Primary Florida Alignment | Lab/Data Emphasis | Unit Assessment Evidence |
@@ -80,6 +86,7 @@ This is architecture only. It does not create lesson content, assessment content
 | Florida standards represented | PASS |
 | Lab science expectations represented | PASS |
 | Virtual lab/data expectations represented | PASS |
+| Lab/visual/simulation/resource companion matrix required | PASS |
 | Scientific inquiry represented | PASS |
 | Data analysis represented | PASS |
 | Biology identity preserved | PASS |

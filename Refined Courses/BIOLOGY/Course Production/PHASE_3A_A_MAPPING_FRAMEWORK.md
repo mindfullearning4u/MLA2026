@@ -84,6 +84,14 @@ Biology is a laboratory science course. Each unit must include architecture supp
 
 Virtual labs may use simulations, data sets, models, microscopy images, case data, or field-observation data when physical lab access is not available. Virtual lab expectations must preserve inquiry, data analysis, and safety reasoning.
 
+The controlling Biology lab, visual, simulation, and resource matrix is:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, graph, model, data table, lab, investigation, simulation review, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
+
+Candidate resources are suggestions for approval only. External resources must not be embedded into lessons until approved.
+
 ## Lesson 8 Control
 
 Every Unit Lesson 8 must:
@@ -104,4 +112,5 @@ Every Unit Lesson 8 must:
 | Lesson 8 no-new-primary-standard rule | Compare Lesson 8 primary standards to Lessons 1-7 in same unit. |
 | Florida alignment complete | Verify each MLA standard maps to Florida benchmark codes. |
 | Lab and data expectations represented | Verify SCI/LAB standards and lab evidence appear across units. |
+| Lab, visual, simulation, and resource matrix represented | Verify `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` is used before lesson, assessment, or Moodle transfer work. |
 | Biology identity preserved | Verify adjacent science content remains benchmark-bound. |
