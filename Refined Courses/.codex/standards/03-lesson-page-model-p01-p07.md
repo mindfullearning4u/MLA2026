@@ -4,6 +4,14 @@
 
 Every lesson must follow the approved seven-page MLA lesson model. ALG1 Math Department is the current high-standard visual and workflow reference.
 
+## Asynchronous Lesson Boundary
+
+The seven lesson pages are the primary instruction. They must teach the student directly and must not require a live teacher to explain, demonstrate, guide, or check the lesson content.
+
+Teacher of Record support boxes are required, but they are for support, intervention, checkpoint review, submission workflow, clarification, retake approval, and help after the student has used the lesson. They must not replace missing instruction.
+
+Do not include teacher-led workflow language such as "teacher check," "your teacher will show you," "wait for teacher guidance," or "the teacher will explain." If a page would require that kind of teacher action for the student to learn the content, the page must be expanded.
+
 ## P01 Lesson Overview
 
 Required sections:

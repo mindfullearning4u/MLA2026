@@ -24,6 +24,7 @@ For each lesson:
 - Are all mapped primary and support standards taught in the correct lesson?
 - Is any mapped standard missing from instruction?
 - Is any unmapped, future-unit, or future-lesson content introduced?
+- Is any outside-standard content introduced?
 - Does every instructional objective trace to the approved unit and lesson mapping?
 - Does the lesson teach in sequence?
 - Are actual problems shown?
@@ -34,12 +35,17 @@ For each lesson:
 - Does P04 include three worked examples?
 - Are common mistakes teachable?
 - Are P06/P07 self-contained?
+- Does the lesson avoid teacher-led, teacher-check, or teacher-guidance language?
+- Is Teacher of Record language limited to support, intervention, checkpoint, submission, clarification, and retake workflow?
+- Can the student learn the content from the lesson itself without needing a live teacher to fill in missing instruction?
 
 ## Mapping Gate
 
 This is a blocking gate. Do not mark instructional rigor as PASS unless every lesson can be traced to the approved unit mapping and lesson mapping.
 
 For every lesson, cite the mapping evidence used. If a standard appears in the mapping but is not explicitly taught in the lesson pages, the lesson fails. If a lesson teaches or emphasizes a standard not assigned to that lesson, the lesson fails unless the mapping explicitly permits it as support or review.
+
+Teacher-led wording is also a blocking rigor issue. If lesson content says or implies that a teacher will teach, demonstrate, guide, check, or explain the core lesson content, the lesson fails until that wording is replaced with self-contained student guidance and appropriate Teacher of Record support language.
 
 ## Locked Content Boundary
 

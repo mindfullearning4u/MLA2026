@@ -27,18 +27,59 @@ Do not use old `Unit Overview.md` files as source of truth.
 
 Every lesson must teach like a veteran teacher teaching the student directly.
 
+The lesson is the instruction. There is no classroom teacher teaching the lesson live. The only human instructional role is the Teacher of Record for support, intervention, clarification, checkpoint review, retake approval, and required workflow decisions.
+
 The lesson developer must make sure the lesson:
 
 - follows the approved unit and lesson mapping exactly
 - teaches every mapped standard assigned to the lesson
-- avoids teaching future-unit, future-lesson, or unmapped content unless the mapping allows support/review
+- stays within the approved course standards, unit mapping, and lesson mapping
+- avoids teaching future-unit, future-lesson, outside-standard, or unmapped content unless the mapping explicitly allows support/review
 - is detailed, sequential, and self-contained
 - explains what to do and why each step is done
 - anticipates student confusion before it happens
 - includes common mistakes with teachable correction
 - uses visuals, tables, graphs, diagrams, number lines, models, data displays, or examples wherever a veteran teacher would use them
-- includes enough context that a remedial, standard, or accelerated student can follow the lesson independently
+- includes enough context that remedial, standard, and accelerated students can follow the lesson independently
 - preserves the required `P01.html` through `P07.html` page model
+
+## Asynchronous Instruction and TOR Boundary
+
+Do not write lessons as if a teacher will teach, explain, guide, check, or fill in missing steps during the lesson. The lesson pages must provide the teaching.
+
+Prohibited lesson language includes:
+
+- "your teacher will explain"
+- "your teacher will show you"
+- "wait for teacher guidance"
+- "complete a teacher check"
+- "ask your teacher to teach this"
+- "the teacher will walk you through"
+- any required teacher-led mini lesson, teacher check, teacher demonstration, or live teacher guidance as part of learning the content
+
+Allowed TOR language includes:
+
+- "contact your Teacher of Record if you are still unsure"
+- "submit to the Teacher of Record"
+- "meet with the Teacher of Record before another attempt"
+- "the Teacher of Record will review the checkpoint or retake workflow"
+- "ask the Teacher of Record for help after you have reviewed the lesson steps and examples"
+
+Teacher of Record support must not replace missing instruction. If a student would need the TOR to understand the lesson content, the lesson is incomplete and must be expanded.
+
+## Standards and Mapping Boundary
+
+Every lesson must stay inside the assigned course standard, unit mapping, and lesson mapping.
+
+The lesson developer must not:
+
+- add content because it seems useful if it is outside the approved standard or mapping
+- teach future-unit or future-lesson material as new instruction
+- assess skills that have not been taught in the assigned lesson or unit
+- omit a mapped standard because it appears difficult or repetitive
+- use broad enrichment in place of required mapped instruction
+
+Every mapped standard assigned to the lesson must be explicitly taught, practiced, and traceable in the lesson pages and assessment structure. No standard assigned to the lesson may be missing from instruction, and no lesson may drift outside the approved course standards.
 
 ## Page Requirements
 
@@ -79,6 +120,8 @@ After editing, confirm:
 - standards are taught in the assigned lesson
 - no mapped standard is missing
 - no unauthorized content was added
+- no teacher-led lesson, teacher check, or teacher guidance language remains
+- TOR language is limited to support, intervention, checkpoint, submission, and retake workflow
 - page sequence remains intact
 - lesson remains Moodle-friendly HTML
 

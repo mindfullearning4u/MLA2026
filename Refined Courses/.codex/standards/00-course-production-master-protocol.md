@@ -33,6 +33,8 @@ The expected quality bar is strict: every course must be built as if it will be 
 21. Moodle lesson transfer must follow `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`. Do not improvise Moodle transfer steps.
 22. Lesson content development and assessment development must use developer prompt files, not audit-only prompt files.
 23. Moodle transfer is a post-certification action only. Do not transfer lessons to Moodle until lesson development passes, assessment development passes, and the final course audit/certification gate passes with evidence.
+24. Lessons must not rely on teacher-led instruction, teacher checks, or teacher guidance. The lesson pages must teach the content. Teacher of Record language is allowed only for support, intervention, checkpoint, submission, clarification, retake, and workflow decisions.
+25. Lessons and assessments must stay within the approved course standards, unit mapping, and lesson mapping. No outside-standard content, future-unit content, future-lesson content, or unmapped content may be taught or assessed unless explicitly allowed by the approved mapping.
 
 ## Main Agent Responsibility
 
