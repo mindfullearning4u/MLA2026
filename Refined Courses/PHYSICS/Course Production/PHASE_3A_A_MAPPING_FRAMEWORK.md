@@ -43,3 +43,13 @@ Momentum is intentionally mapped in Unit 2 and Unit 3. Unit 2 addresses momentum
 | College readiness | Quantitative reasoning, lab practice, system modeling, and evidence-based explanation. |
 | Workforce readiness | Safety, technical documentation, collaboration, measurement, and applied technology systems. |
 | Scientific literacy | Nature of science, models, laws, theories, evidence, and societal decision making. |
+
+## Required Lab, Visual, Simulation, and Resource Matrix
+
+The controlling Physics lab, visual, simulation, and resource matrix is:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, graph, model, data table, equation, vector diagram, force diagram, ray diagram, circuit diagram, lab, investigation, simulation review, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
+
+Candidate resources are suggestions for approval only. External resources must not be embedded into lessons until approved.

@@ -37,7 +37,10 @@ This audit reviews the Physics architecture package only. It does not certify le
 | PHASE_3A_A_MAPPING_FRAMEWORK.md | PASS |
 | PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md | PASS |
 | PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md | PASS |
+| PHYSICS_LAB_AND_VIRTUAL_LAB_MATRIX.md | PASS |
+| PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md | PASS - Added 2026-07-06 for stricter science lab/visual/simulation mapping |
 | FINAL_ARCHITECTURE_AUDIT.md | PASS |
+| PHYSICS_SCIENCE_ARCHITECTURE_REAUDIT_2026-07-06.md | PASS - Updated science architecture re-audit |
 
 ## Standards Count Audit
 
@@ -91,19 +94,32 @@ This audit reviews the Physics architecture package only. It does not certify le
 | 19 | Support standards are consistently treated as support unless listed as primary. | PASS |
 | 20 | Lab science expectations are represented. | PASS |
 | 21 | Virtual lab/data expectations are represented. | PASS |
-| 22 | Common Core/B.E.S.T. ELA alignment is included. | PASS |
-| 23 | ACT Science alignment is included. | PASS |
-| 24 | SAT science reading/data alignment is included. | PASS |
-| 25 | College readiness alignment is included. | PASS |
-| 26 | Workforce readiness alignment is included. | PASS |
-| 27 | Scientific literacy alignment is included. | PASS |
-| 28 | Quantitative reasoning is represented. | PASS |
-| 29 | Physics identity remains distinct from Chemistry, Biology, Environmental Science, Earth/Space Science, Marine Science, and Anatomy and Physiology. | PASS |
-| 30 | No lesson content was created. | PASS |
-| 31 | No assessment content was created. | PASS |
-| 32 | No HTML content was created. | PASS |
-| 33 | No JSON content was created. | PASS |
-| 34 | No GIFT content was created. | PASS |
+| 22 | Lesson-level lab, visual, simulation, and resource requirements are mapped. | PASS - See `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` |
+| 23 | Candidate resource locations are identified for approval only. | PASS |
+| 24 | Assessment stimulus needs are identified for lesson and unit assessments. | PASS |
+| 25 | Common Core/B.E.S.T. ELA alignment is included. | PASS |
+| 26 | ACT Science alignment is included. | PASS |
+| 27 | SAT science reading/data alignment is included. | PASS |
+| 28 | College readiness alignment is included. | PASS |
+| 29 | Workforce readiness alignment is included. | PASS |
+| 30 | Scientific literacy alignment is included. | PASS |
+| 31 | Quantitative reasoning is represented. | PASS |
+| 32 | Physics identity remains distinct from Chemistry, Biology, Environmental Science, Earth/Space Science, Marine Science, and Anatomy and Physiology. | PASS |
+| 33 | No lesson content was created. | PASS |
+| 34 | No assessment content was created. | PASS |
+| 35 | No HTML content was created. | PASS |
+| 36 | No JSON content was created. | PASS |
+| 37 | No GIFT content was created. | PASS |
+
+## 2026-07-06 Science Architecture Re-Audit Addendum
+
+The Physics architecture package was re-audited against the updated MLA science requirements for official source provenance, lab planning, visual planning, simulation review, candidate resource locations, safety controls, and assessment stimulus planning.
+
+Correction added:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file is now a required source of truth before Physics lesson development, assessment development, Moodle XML production, or Moodle transfer. If that file identifies a required lab, investigation, simulation review, visual, graph, table, equation, vector diagram, force diagram, ray diagram, circuit diagram, data display, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for exclusion.
 
 ## Lesson 8 Audit
 
