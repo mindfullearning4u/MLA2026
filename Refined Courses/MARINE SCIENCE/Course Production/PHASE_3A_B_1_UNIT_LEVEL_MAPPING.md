@@ -4,6 +4,12 @@
 
 This document maps MLA Marine Science standards to six units. It identifies primary standards, support/spiral standards, Florida benchmark alignment, evidence categories, and unit rationale. It does not create lessons, assessments, HTML, JSON, GIFT files, or LMS pages.
 
+## Required Companion Mapping
+
+The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required marine labs, field-data practices, simulations, visuals, data displays, safety controls, candidate resources, and assessment stimuli from the companion matrix are represented.
+
 ## Unit-Level Mapping
 
 | Unit | Unit Title | Primary MLA Standards | Support/Spiral Standards | Florida Benchmarks | Evidence Categories | Rationale |
@@ -35,3 +41,4 @@ This document maps MLA Marine Science standards to six units. It identifies prim
 | Marine Science identity preserved | PASS |
 | Lesson 8 protection possible | PASS |
 | No lesson content created | PASS |
+| Lab/visual/simulation/resource companion matrix required | PASS |

@@ -4,6 +4,14 @@
 
 This framework defines how Marine Science standards are distributed across six units and 48 lessons. It protects workload balance, Marine Science identity, laboratory/data expectations, and mastery-based online learning. It does not create lessons or assessments.
 
+## Required Lab, Visual, Simulation, and Resource Matrix
+
+The mapping framework must be used with:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level marine labs, field-data practices, maps, graphs, bathymetry, water-quality data, food webs, population models, coastal models, technology diagrams, simulation review, safety controls, resource approval checks, and assessment stimulus requirements.
+
 ## Mapping Philosophy
 
 | Mapping Element | Rule |
@@ -13,6 +21,7 @@ This framework defines how Marine Science standards are distributed across six u
 | Spiral standard | A standard reinforced across units through data, vocabulary, field/lab reasoning, or evidence explanation. |
 | Lesson 8 | Synthesis only; introduces no new primary standard. |
 | Marine identity | Every mapping decision must stay anchored in oceans, coasts, marine ecosystems, ocean data, or marine technology. |
+| Lab, visual, simulation, and resource matrix | Verify `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` is used before lesson, assessment, or Moodle transfer work. |
 
 ## Lesson Load Rules
 

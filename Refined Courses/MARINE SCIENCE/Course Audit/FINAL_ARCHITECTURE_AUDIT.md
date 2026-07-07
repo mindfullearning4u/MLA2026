@@ -31,6 +31,7 @@ Final decision:
 | Lesson 8 introduces no new primary standard | PASS |
 | Text and data source matrix created | PASS |
 | Lab and virtual lab matrix created | PASS |
+| Standardized lab/visual/simulation/resource matrix created | PASS |
 | Florida benchmark alignment included | PASS |
 | Readiness alignments included | PASS |
 | No lessons created | PASS |
@@ -74,6 +75,7 @@ No required corrections remain after architecture validation.
 | Create a marine lab/virtual lab matrix before lesson production | Completed in `MARINE_SCIENCE_LAB_AND_VIRTUAL_LAB_MATRIX.md` |
 | Preserve Lesson 8 protection during production | Required production control |
 | Keep all passages, data tables, maps, and source sets embedded in future lessons and assessments | Required production control |
+| Use `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` as mandatory lab, visual, simulation, resource, and assessment-stimulus gate | Completed |
 
 ## 7. Standards Coverage Matrix
 
@@ -138,6 +140,8 @@ No required corrections remain after architecture validation.
 | Marine laboratory expectations represented | PASS |
 | Virtual laboratory expectations represented | PASS |
 | Marine data, maps, models, water-quality evidence, monitoring data, and exploration tools represented | PASS |
+| Lesson-level candidate resource locations identified for approval | PASS |
+| Lesson-level assessment stimulus needs identified | PASS |
 | No lesson content created | PASS |
 | No assessment content created | PASS |
 
@@ -196,3 +200,11 @@ Marine Science Architecture Package:
 **PASS — APPROVED FOR PRODUCTION ARCHITECTURE LOCK**
 
 This certification applies to architecture only. It does not authorize or create lesson content, assessments, HTML files, JSON files, GIFT files, or LMS pages.
+
+## 16. 2026-07-06 Science Architecture Re-Audit Addendum
+
+The updated science architecture re-audit added a mandatory companion map:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file must be used by future Marine Science lesson developers, assessment developers, unit auditors, final course auditors, Moodle XML developers, and Moodle transfer agents. It documents official source controls, Florida B.E.S.T. support boundaries, Common Core support boundaries, ACT/SAT readiness support, ELD support boundaries, lab/data requirements, simulation review requirements, required visuals, candidate resource locations, safety controls, and assessment stimulus requirements.

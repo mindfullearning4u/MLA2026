@@ -4,6 +4,12 @@
 
 This document maps all 48 Marine Science lessons across six units. It identifies unit number, lesson number, lesson title, primary standards, support standards, lesson purpose, assessment evidence, and rationale. It is architecture only.
 
+## Required Companion Mapping
+
+This lesson-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+Every lesson developer, assessment developer, course auditor, and Moodle transfer agent must check the companion matrix before certifying a lesson, guided practice, lesson quiz, unit pretest, unit assessment, Moodle XML file, or Moodle transfer. If a mapped lesson requires a lab, investigation, simulation review, ocean map, graph, bathymetry display, water-quality table, food web, habitat diagram, technology model, source excerpt, or decision matrix, that requirement is mandatory unless the main agent documents a standards-based exception.
+
 ## Lesson-Level Mapping
 
 | Unit | Lesson | Lesson Title | Primary Standards | Support Standards | Lesson Purpose | Assessment Evidence | Rationale |
@@ -69,3 +75,4 @@ This document maps all 48 Marine Science lessons across six units. It identifies
 | No Lesson 8 introduces a new primary standard | PASS |
 | Lessons 1-7 use lesson quiz evidence | PASS |
 | Marine Science identity preserved | PASS |
+| Lesson-level lab/visual/simulation/resource companion matrix required | PASS |
