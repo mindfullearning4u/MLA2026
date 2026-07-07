@@ -34,7 +34,7 @@ const lessons = {
         feedback: "Evidence is the data, observation, source detail, or model feature that supports the claim."
       },
       {
-        html: `<p><strong>Question:</strong> Do mealworms move faster at room temperature or in a cooler environment?</p>`,
+        html: `<div style="border:1px solid #94a3b8;padding:8px;"><strong>Testable question stimulus:</strong> Do mealworms move faster at room temperature or in a cooler environment?</div>`,
         stem: "Why is this a scientific question?",
         correct: "It can be answered by measuring movement speed under two temperature conditions.",
         distractors: ["It asks what mealworms prefer emotionally.", "It cannot use evidence.", "It already tells the correct answer."],
@@ -76,7 +76,7 @@ const lessons = {
         feedback: "Variables and controls make the investigation fair and measurable."
       },
       {
-        html: `<p><strong>Original question:</strong> Do seeds like water?</p>`,
+        html: `<div style="border:1px solid #94a3b8;padding:8px;"><strong>Original question stimulus:</strong> Do seeds like water?</div>`,
         stem: "Which revision makes the question testable?",
         correct: "How does the amount of water affect the percent of bean seeds that germinate after 7 days?",
         distractors: ["Why is water the best thing?", "Are seeds happy with water?", "Do students like watering seeds?"],
@@ -167,7 +167,7 @@ const lessons = {
         feedback: "Models simplify or represent real systems to support understanding."
       },
       {
-        html: `<p><strong>Observation:</strong> A slide is blurry at high power.</p>`,
+        html: `<div style="border:1px solid #94a3b8;padding:8px;"><strong>Microscope observation stimulus:</strong> A slide is blurry at high power.</div>`,
         stem: "What is the safest first step for improving focus?",
         correct: "Use careful fine focus while viewing the slide.",
         distractors: ["Force the objective lens into the slide.", "Remove the slide and guess what it shows.", "Use unapproved liquid on the lens."],
@@ -188,7 +188,7 @@ const lessons = {
         feedback: "A stronger science source provides relevant evidence that can be checked."
       },
       {
-        html: `<p><strong>Claim:</strong> Extra nitrate caused algae coverage to increase.</p><table border="1" cellpadding="6"><tr><th>Week</th><th>Nitrate</th><th>Algae Coverage</th></tr><tr><td>1</td><td>2 mg/L</td><td>10%</td></tr><tr><td>2</td><td>12 mg/L</td><td>45%</td></tr></table>`,
+        html: `<div style="border:1px solid #94a3b8;padding:8px;"><strong>Claim stimulus:</strong> Extra nitrate caused algae coverage to increase.</div><table border="1" cellpadding="6"><tr><th>Week</th><th>Nitrate</th><th>Algae Coverage</th></tr><tr><td>1</td><td>2 mg/L</td><td>10%</td></tr><tr><td>2</td><td>12 mg/L</td><td>45%</td></tr></table>`,
         stem: "Which evidence best supports the claim?",
         correct: "Nitrate increased from 2 mg/L to 12 mg/L while algae coverage increased from 10% to 45%.",
         distractors: ["The table has two rows.", "Algae are green.", "The claim uses the word nitrate."],
@@ -202,7 +202,7 @@ const lessons = {
         feedback: "Purpose helps identify possible bias or limits in how a source presents claims."
       },
       {
-        html: `<p><strong>Two explanations:</strong> A. Nutrient runoff increased algae. B. The pond changed because someone said it looked different.</p>`,
+        html: `<div style="border:1px solid #94a3b8;padding:8px;"><strong>Two explanations stimulus:</strong><br>A. Nutrient runoff increased algae.<br>B. The pond changed because someone said it looked different.</div>`,
         stem: "Which explanation is better supported if measured nitrate and algae data increased after rain?",
         correct: "Explanation A, because it connects to measured nutrient and algae data.",
         distractors: ["Explanation B, because opinions are always stronger.", "Explanation B, because it avoids numbers.", "Neither explanation can ever use data."],
