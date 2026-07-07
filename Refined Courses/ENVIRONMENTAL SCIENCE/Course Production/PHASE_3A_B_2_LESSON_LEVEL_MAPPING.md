@@ -6,6 +6,12 @@ This document maps all 48 Environmental Science lessons across six units. It ide
 
 This is architecture only. It does not create lessons, assessments, HTML content, JSON content, GIFT content, or LMS pages.
 
+## Required Companion Mapping
+
+This lesson-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+Every lesson developer, assessment developer, course auditor, and Moodle transfer agent must check the companion matrix before certifying a lesson, guided practice, lesson quiz, unit pretest, unit assessment, Moodle XML file, or Moodle transfer. If a mapped lesson requires a lab, investigation, simulation review, visual, map, graph, food web, population model, data table, climate/pollution data set, source excerpt, or decision matrix, that requirement is mandatory unless the main agent documents a standards-based exception.
+
 ## Lesson-Level Mapping
 
 | Unit | Lesson | Lesson Title | Primary Standards | Support Standards | Lesson Purpose | Assessment Evidence | Rationale |
@@ -73,3 +79,4 @@ This is architecture only. It does not create lessons, assessments, HTML content
 | Laboratory expectations represented | PASS |
 | Virtual lab/data expectations represented | PASS |
 | Environmental Science identity preserved | PASS |
+| Lesson-level lab/visual/simulation/resource companion matrix required | PASS |

@@ -10,6 +10,14 @@
 6. Lesson 8 includes Unit Assessment evidence.
 7. No lesson, assessment, HTML, JSON, GIFT, or LMS content is created by this architecture package.
 
+## Required Lab, Visual, Simulation, and Resource Matrix
+
+The mapping framework must be used with:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level labs, environmental monitoring data, maps, graphs, models, food webs, population models, climate/pollution data, candidate simulations, safety controls, resource approval checks, and assessment stimulus requirements.
+
 ## Unit-Level Standards Map
 
 | Unit | Primary MLA Standards | Support MLA Standards |
@@ -30,3 +38,4 @@
 | Sustainability literacy | Units 4-6, supported coursewide. |
 | Environmental decision-making | Units 1 and 6, with support across Units 3-5. |
 | Identity control | Supporting science concepts are framed only through environmental standards. |
+| Lab, visual, simulation, and resource matrix represented | Verify `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` is used before lesson, assessment, or Moodle transfer work. |

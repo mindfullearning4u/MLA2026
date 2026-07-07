@@ -35,6 +35,7 @@ The Environmental Science architecture package is complete and certification-rea
 | Lesson-Level Mapping verified | PASS |
 | ENV Text and Data Source Matrix created | PASS |
 | ENV Lab and Virtual Lab Matrix created | PASS |
+| Standardized lab/visual/simulation/resource matrix created | PASS |
 
 ## Standards Validation
 
@@ -110,6 +111,8 @@ The Environmental Science architecture package is complete and certification-rea
 | Evidence-based reasoning represented | PASS |
 | Safety focus represented | PASS |
 | Student deliverable categories identified in lab matrix | PASS |
+| Lesson-level candidate resource locations identified for approval | PASS |
+| Lesson-level assessment stimulus needs identified | PASS |
 
 ## Readiness Validation
 
@@ -130,8 +133,17 @@ The Environmental Science architecture package is complete and certification-rea
 | Preserve Environmental Science identity during lesson production | Required |
 | Use `ENV_TEXT_AND_DATA_SOURCE_MATRIX.md` for future source selection guidance | Completed |
 | Use `ENV_LAB_AND_VIRTUAL_LAB_MATRIX.md` for future lab/virtual lab planning guidance | Completed |
+| Use `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` as mandatory lab, visual, simulation, resource, and assessment-stimulus gate | Completed |
 | Maintain Lesson 8 as synthesis and Unit Assessment only | Required |
 | Do not create lesson, assessment, HTML, JSON, GIFT, or LMS content until production begins | Required |
+
+## 2026-07-06 Science Architecture Re-Audit Addendum
+
+The updated science architecture re-audit added a mandatory companion map:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file must be used by future Environmental Science lesson developers, assessment developers, unit auditors, final course auditors, Moodle XML developers, and Moodle transfer agents. It documents official source controls, Florida B.E.S.T. support boundaries, Common Core support boundaries, ACT/SAT readiness support, health-support boundaries, lab/data requirements, simulation review requirements, required visuals, candidate resource locations, safety controls, and assessment stimulus requirements.
 
 ## Final Certification Decision
 

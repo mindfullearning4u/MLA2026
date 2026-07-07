@@ -1,5 +1,11 @@
 # Environmental Science Phase 3A-B-1: Unit-Level Mapping
 
+## Required Companion Mapping
+
+The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required labs, simulations, visuals, data displays, safety controls, candidate resources, and assessment stimuli from the companion matrix are represented.
+
 ## Unit Mapping Detail
 
 | Unit | Title | Primary Standards | Support Standards | Unit Assessment Evidence |
@@ -21,3 +27,4 @@
 | Every unit primary standard is assigned for primary instruction in Lessons 1-7 | PASS |
 | Support standards are consistently treated as support unless explicitly listed as primary | PASS |
 | Environmental Science identity remains distinct from other science courses | PASS |
+| Lab/visual/simulation/resource companion matrix required | PASS |
