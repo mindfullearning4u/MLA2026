@@ -41,3 +41,13 @@ Lesson 8 in each unit synthesizes the unit primary standards listed above only a
 ## Identity Control
 
 Biology, Chemistry, and Physics standards appear only where the official Earth/Space Science course record requires them. They are framed as Earth history, Earth-space, climate, astronomical, or supporting physical-process evidence rather than as separate course identities.
+
+## Required Lab, Visual, Simulation, and Resource Matrix
+
+The controlling Earth/Space Science lab, visual, simulation, and resource matrix is:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, map, graph, model, data table, cross section, weather map, climate graph, astronomical diagram, lab, investigation, simulation review, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
+
+Candidate resources are suggestions for approval only. External resources must not be embedded into lessons until approved.

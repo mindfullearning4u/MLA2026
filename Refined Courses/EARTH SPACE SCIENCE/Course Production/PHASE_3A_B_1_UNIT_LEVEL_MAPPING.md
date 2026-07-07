@@ -1,5 +1,11 @@
 # Earth/Space Science Phase 3A-B-1: Unit-Level Mapping
 
+## Required Companion Mapping
+
+The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, maps, models, diagrams, data displays, safety notes, candidate resource locations, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
+
 ## Unit Mapping Detail
 
 | Unit | Title | Primary Standards | Support Standards | Unit Assessment Evidence |
@@ -20,6 +26,7 @@
 | Every MLA Earth/Space Science standard appears in unit mapping | PASS |
 | Every unit primary standard is assigned for primary instruction in Lessons 1-7 | PASS |
 | Support standards are consistently treated as support unless explicitly listed as primary | PASS |
+| Lab/visual/simulation/resource companion matrix required | PASS |
 | Earth/Space Science identity remains distinct from other science courses | PASS |
 
 ## Domain Coverage by Unit

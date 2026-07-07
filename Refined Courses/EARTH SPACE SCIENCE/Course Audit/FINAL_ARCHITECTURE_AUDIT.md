@@ -37,8 +37,12 @@ This audit reviews the Earth/Space Science architecture package only. It does no
 | PHASE_3A_A_MAPPING_FRAMEWORK.md | PASS |
 | PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md | PASS |
 | PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md | PASS |
+| ESS_LAB_AND_VIRTUAL_LAB_MATRIX.md | PASS |
+| ESS_TEXT_AND_DATA_SOURCE_MATRIX.md | PASS |
+| PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md | PASS - Added 2026-07-06 for stricter science lab/visual/simulation mapping |
 | FINAL_ARCHITECTURE_AUDIT.md | PASS |
 | EARTH_SPACE_SCIENCE_ARCHITECTURE_CONSISTENCY_AUDIT.md | PASS |
+| ESS_SCIENCE_ARCHITECTURE_REAUDIT_2026-07-06.md | PASS - Updated science architecture re-audit |
 
 ## Standards Count Audit
 
@@ -97,12 +101,25 @@ This audit reviews the Earth/Space Science architecture package only. It does no
 | 25 | Scientific literacy alignment complete. | PASS |
 | 26 | Lab science expectations represented. | PASS |
 | 27 | Virtual lab expectations represented. | PASS |
-| 28 | Earth/Space Science identity preserved. | PASS |
-| 29 | No lesson content created. | PASS |
-| 30 | No assessment content created. | PASS |
-| 31 | No HTML content created. | PASS |
-| 32 | No JSON content created. | PASS |
-| 33 | No GIFT content created. | PASS |
+| 28 | Lesson-level lab, visual, simulation, and resource requirements are mapped. | PASS - See `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` |
+| 29 | Candidate resource locations are identified for approval only. | PASS |
+| 30 | Assessment stimulus needs are identified for lesson and unit assessments. | PASS |
+| 31 | Earth/Space Science identity preserved. | PASS |
+| 32 | No lesson content created. | PASS |
+| 33 | No assessment content created. | PASS |
+| 34 | No HTML content created. | PASS |
+| 35 | No JSON content created. | PASS |
+| 36 | No GIFT content created. | PASS |
+
+## 2026-07-06 Science Architecture Re-Audit Addendum
+
+The Earth/Space Science architecture package was re-audited against the updated MLA science requirements for official source provenance, lab planning, visual planning, simulation review, candidate resource locations, safety controls, and assessment stimulus planning.
+
+Correction added:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file is now a required source of truth before Earth/Space Science lesson development, assessment development, Moodle XML production, or Moodle transfer. If that file identifies a required lab, investigation, simulation review, visual, map, graph, table, model, cross section, weather map, climate graph, astronomical diagram, data display, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for exclusion.
 
 ## Lesson 8 Audit
 

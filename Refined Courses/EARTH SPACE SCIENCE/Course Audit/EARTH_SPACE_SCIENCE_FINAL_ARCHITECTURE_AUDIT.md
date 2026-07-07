@@ -24,6 +24,7 @@ The Earth/Space Science architecture package is structurally complete and certif
 | Course Overview uses full MLA format | PASS |
 | Primary/support standard classifications consistent | PASS |
 | Source and lab matrices created for production guidance | PASS |
+| Standardized lab/visual/simulation/resource matrix created | PASS - Added 2026-07-06 |
 
 ## 3. Strengths
 
@@ -55,6 +56,7 @@ No required corrections were identified during this final certification audit.
 |---|---|
 | Create text/data source guidance for future lesson production | Completed in `ESS_TEXT_AND_DATA_SOURCE_MATRIX.md` |
 | Create lab/virtual lab guidance for future lesson production | Completed in `ESS_LAB_AND_VIRTUAL_LAB_MATRIX.md` |
+| Create standardized lab/visual/simulation/resource guidance for future lesson, assessment, XML, and Moodle transfer production | Completed in `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` |
 | Preserve guidance-only status until lesson production begins | Required production control |
 
 ## 7. Standards Coverage Matrix
@@ -106,6 +108,18 @@ No required corrections were identified during this final certification audit.
 | Field-data and remote-data expectations represented | PASS |
 | Safety focus represented | PASS |
 | Student deliverable categories identified | PASS |
+| Candidate resource locations identified for approval only | PASS |
+| Assessment stimulus needs identified | PASS |
+
+## 10A. 2026-07-06 Science Architecture Re-Audit Addendum
+
+The Earth/Space Science architecture package was re-audited against the updated MLA science requirements for official source provenance, lab planning, visual planning, simulation review, candidate resource locations, safety controls, and assessment stimulus planning.
+
+Correction added:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file is now a required source of truth before Earth/Space Science lesson development, assessment development, Moodle XML production, or Moodle transfer. If that file identifies a required lab, investigation, simulation review, visual, map, graph, table, model, cross section, weather map, climate graph, astronomical diagram, data display, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for exclusion.
 
 ## 11. Identity Validation
 
