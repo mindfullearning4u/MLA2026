@@ -14,6 +14,14 @@ This document establishes the official mapping rules for Anatomy and Physiology.
 
 This is architecture only. No lessons, assessments, HTML, JSON, GIFT, or LMS pages are created.
 
+## Required Lab, Visual, Simulation, and Resource Matrix
+
+The mapping framework must be used with:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level anatomy labs, case-data investigations, diagrams, histology images, physiological graphs, medical case stimuli, body-system models, simulation review, safety controls, resource approval checks, and assessment stimulus requirements.
+
 ## Mapping Philosophy
 
 | Mapping Element | Rule |
@@ -23,6 +31,7 @@ This is architecture only. No lessons, assessments, HTML, JSON, GIFT, or LMS pag
 | Spiral standard | A standard that recurs across units for reinforcement, especially inquiry, lab/data, literacy, quantitative reasoning, and scientific communication. |
 | Lesson 8 | Synthesis only. Lesson 8 may assess standards taught earlier in the unit but may not introduce a new primary standard. |
 | Lab/data evidence | Every unit must include at least one identifiable lab-style, virtual lab, case-data, model, or physiological data investigation. |
+| Lab, visual, simulation, and resource matrix | Verify `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` is used before lesson, assessment, or Moodle transfer work. |
 
 ## Unit Standard Distribution
 

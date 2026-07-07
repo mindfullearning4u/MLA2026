@@ -1,5 +1,11 @@
 # Phase 3A-B-1: Anatomy and Physiology Unit-Level Mapping
 
+## Required Companion Mapping
+
+The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+
+No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required labs, case-data tasks, simulations, visuals, data displays, body-system models, safety controls, candidate resources, and assessment stimuli from the companion matrix are represented.
+
 ## Unit Mapping Detail
 
 | Unit | Title | Primary Standards | Support Standards | Lab/Data Emphasis | Unit Assessment Evidence |
@@ -23,6 +29,7 @@
 | Every primary unit standard can be taught in Lessons 1-7 | PASS |
 | Lesson 8 can remain synthesis only | PASS |
 | Anatomy and Physiology identity remains distinct | PASS |
+| Lab/visual/simulation/resource companion matrix required | PASS |
 
 ## Domain Coverage by Unit
 

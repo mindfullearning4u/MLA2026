@@ -23,6 +23,7 @@ The architecture package includes:
 - `PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md`
 - `PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md`
 - `ANP_LAB_AND_VIRTUAL_LAB_MATRIX.md`
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
 
 The package uses the existing MLA science production framework, follows Biology as the primary science model, incorporates Chemistry and Physics support-model patterns, and applies Earth/Space Science and Marine Science lab documentation expectations.
 
@@ -46,6 +47,7 @@ Final certification decision:
 | Lab science | Course is explicitly designated as a high-school laboratory science. | PASS |
 | Virtual lab expectations | Explicitly documented in Course Overview, Phase 1B, mapping framework, unit mapping, and lesson mapping. | PASS |
 | Lab matrix | Dedicated A&P lab and virtual lab matrix created for all six units and 48 lessons. | PASS |
+| Standardized lab/visual/simulation/resource matrix | Mandatory companion matrix created for lesson, assessment, XML, and Moodle transfer gates. | PASS |
 | Production scope | No lessons, assessments, HTML, JSON, GIFT, LMS pages, or student-facing instructional content created. | PASS |
 
 ---
@@ -87,6 +89,7 @@ The Course Production folder follows the same standard architecture filename pat
 Recommended before lesson production:
 
 - Use the lesson-level lab/data evidence column to guide future lab and virtual lab tasks.
+- Use `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` as the required lab, visual, simulation, resource, and assessment-stimulus gate.
 - Maintain model/case/data evidence in every unit.
 - Preserve structure-before-function sequencing when producing lessons.
 - Keep health, chemistry, biology, and physics support content subordinate to Anatomy and Physiology outcomes.
@@ -166,6 +169,18 @@ These are production guidance recommendations, not architecture deficiencies.
 | Scientific communication included | PASS |
 | Every unit supports at least one lab or virtual lab experience | PASS |
 | `ANP_LAB_AND_VIRTUAL_LAB_MATRIX.md` covers all 48 lessons | PASS |
+| Lesson-level candidate resource locations identified for approval | PASS |
+| Lesson-level assessment stimulus needs identified | PASS |
+
+---
+
+## 10A. 2026-07-06 Science Architecture Re-Audit Addendum
+
+The updated science architecture re-audit added a mandatory companion map:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file must be used by future Anatomy and Physiology lesson developers, assessment developers, unit auditors, final course auditors, Moodle XML developers, and Moodle transfer agents. It documents official source controls, Florida B.E.S.T. support boundaries, Common Core support boundaries, ACT/SAT readiness support, health and ELD support boundaries, lab/data requirements, simulation review requirements, required visuals, candidate resource locations, safety controls, and assessment stimulus requirements.
 
 ---
 
