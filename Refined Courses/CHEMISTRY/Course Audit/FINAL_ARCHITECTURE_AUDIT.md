@@ -37,7 +37,9 @@ This audit reviews the Chemistry architecture package only. It does not certify 
 | PHASE_3A_A_MAPPING_FRAMEWORK.md | PASS |
 | PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md | PASS |
 | PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md | PASS |
+| PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md | PASS - Added 2026-07-06 for stricter science lab/visual/simulation mapping |
 | FINAL_ARCHITECTURE_AUDIT.md | PASS |
+| CHEMISTRY_SCIENCE_ARCHITECTURE_REAUDIT_2026-07-06.md | PASS - Updated science architecture re-audit |
 
 ## Standards Count Audit
 
@@ -91,13 +93,26 @@ This audit reviews the Chemistry architecture package only. It does not certify 
 | 19 | Chemistry identity preserved. | PASS |
 | 20 | Lab science expectations represented. | PASS |
 | 21 | Virtual labs represented. | PASS |
-| 22 | Quantitative reasoning represented. | PASS |
-| 23 | Scientific inquiry represented. | PASS |
-| 24 | No lessons created. | PASS |
-| 25 | No assessments created. | PASS |
-| 26 | No HTML content created. | PASS |
-| 27 | No GIFT content created. | PASS |
-| 28 | No JSON content created. | PASS |
+| 22 | Lesson-level lab, visual, simulation, and resource requirements are mapped. | PASS - See `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` |
+| 23 | Candidate resource locations are identified for approval only. | PASS |
+| 24 | Assessment stimulus needs are identified for lesson and unit assessments. | PASS |
+| 25 | Quantitative reasoning represented. | PASS |
+| 26 | Scientific inquiry represented. | PASS |
+| 27 | No lessons created. | PASS |
+| 28 | No assessments created. | PASS |
+| 29 | No HTML content created. | PASS |
+| 30 | No GIFT content created. | PASS |
+| 31 | No JSON content created. | PASS |
+
+## 2026-07-06 Science Architecture Re-Audit Addendum
+
+The Chemistry architecture package was re-audited against the updated MLA science requirements for official source provenance, lab planning, visual planning, simulation review, candidate resource locations, safety controls, and assessment stimulus planning.
+
+Correction added:
+
+- `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
+
+This file is now a required source of truth before Chemistry lesson development, assessment development, Moodle XML production, or Moodle transfer. If that file identifies a required lab, investigation, simulation review, visual, graph, table, equation, particle model, data display, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for exclusion.
 
 ## Lesson 8 Audit
 
