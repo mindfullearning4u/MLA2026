@@ -1,0 +1,50 @@
+# Physics Unit 6 Lesson and Assessment Strict Rigor Audit
+
+Date: 2026-07-08
+Course: Physics
+Unit: Unit 06 - Modern, Cosmic, and Applied Physics Systems
+
+## Mapping Lock
+
+Unit 6 was built from:
+
+- PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md
+- PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md
+- PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md
+
+## Unit 6 Lesson Validation
+
+| Lesson | Title | Primary Standard | Required Lab/Data/Visual Evidence | Status |
+|---|---|---|---|---|
+| 01 | Matter in the Universe | MLA.PHYS.APP.01 | Cosmic matter pattern investigation using a matter distribution model and scale diagram. | PASS |
+| 02 | Physical Forces at Cosmic Scale | MLA.PHYS.APP.01 | Cosmic force/scale model investigation using a force-at-scale diagram and comparison table. | PASS |
+| 03 | Atomic Models and Evidence | MLA.PHYS.APP.02 | Atomic model evidence investigation using an atomic model timeline and evidence table. | PASS |
+| 04 | Modern Physics and Reference Frames | MLA.PHYS.APP.02 | Reference-frame investigation using a reference-frame diagram and scenario table. | PASS |
+| 05 | Models, Theories, and Laws | MLA.PHYS.SCI.03 | Nature-of-science comparison investigation using a model/theory/law comparison chart. | PASS |
+| 06 | Science, Reliability, and Change | MLA.PHYS.SCI.02 | Reliability and source evidence investigation using a replication/reliability evidence table. | PASS |
+| 07 | Physics-Informed Decisions | MLA.PHYS.SCI.03 | Applied physics decision investigation using a benefit/risk/evidence organizer and technology data. | PASS |
+| 08 | Putting It All Together | MLA.PHYS.APP.01, MLA.PHYS.APP.02, MLA.PHYS.SCI.02, MLA.PHYS.SCI.03 | Unit synthesis across cosmic systems, atomic models, modern physics, and applied decisions. | PASS |
+
+## Assessment Validation
+
+- Unit Pretest: 10 Moodle XML questions.
+- Lesson 01-07 Quiz Banks: 25 Moodle XML questions each.
+- Lesson 01-08 Guided Practice: 5 Moodle XML questions each.
+- Unit Assessment: 40 Moodle XML questions.
+- Every question includes Question ID and MLA Standard text.
+- Every question includes embedded visual/data/model stimulus.
+- Every question has exactly four answer choices and exactly one correct answer.
+- Answer choices do not use visible A/B/C/D prefixes.
+- Feedback is teachable and tied to the mapped standard.
+
+## Instructional Rigor Validation
+
+- P01-P07 are populated for all eight lessons.
+- P02 includes a Veteran Teacher Slow Walk.
+- P03 includes support for remedial, standard, and accelerated readiness.
+- P04 includes exactly three worked examples.
+- Visuals are required and embedded where a veteran Physics teacher would show them: cosmic scale models, force comparison tables, atomic model timelines, reference-frame scenarios, model/theory/law charts, reliability matrices, and applied decision models.
+- Lessons are self-contained and do not require a live teacher to teach the content.
+- Teacher of Record language is limited to support, checkpoint review, intervention, and retake workflow.
+
+Final Decision: PASS
