@@ -52,7 +52,7 @@ const resources = {
   ],
   "02-05": [
     ["PhET: Gravity and Orbits", "https://phet.colorado.edu/en/simulations/gravity-and-orbits"],
-    ["NASA: Solar System Overview", "https://science.nasa.gov/solar-system/"],
+    ["NASA/JPL Eyes: Solar System Interactive", "https://eyes.nasa.gov/apps/solar-system/"],
   ],
   "02-06": [
     ["PhET: Collision Lab", "https://phet.colorado.edu/en/simulations/collision-lab"],
@@ -164,11 +164,11 @@ const resources = {
     ["PhET: Faraday's Law", "https://phet.colorado.edu/en/simulations/faradays-law"],
   ],
   "06-01": [
-    ["NASA: Universe Overview", "https://science.nasa.gov/universe/overview/"],
+    ["NASA: Types of Galaxies", "https://science.nasa.gov/universe/galaxies/types/"],
   ],
   "06-02": [
     ["PhET: Gravity Force Lab Basics", "https://phet.colorado.edu/en/simulations/gravity-force-lab-basics"],
-    ["NASA: Solar System Overview", "https://science.nasa.gov/solar-system/"],
+    ["NASA/JPL Eyes: Solar System Interactive", "https://eyes.nasa.gov/apps/solar-system/"],
   ],
   "06-03": [
     ["PhET: Rutherford Scattering", "https://phet.colorado.edu/en/simulations/rutherford-scattering"],
@@ -181,17 +181,17 @@ const resources = {
     ["OpenStax: Frontiers of Physics", "https://openstax.org/books/college-physics-2e/pages/34-introduction-to-frontiers-of-physics"],
   ],
   "06-06": [
-    ["NASA: Science Mission Directorate", "https://science.nasa.gov/"],
-    ["NOAA: Research", "https://research.noaa.gov/"],
+    ["Understanding Science: How Science Works", "https://undsci.berkeley.edu/understanding-science-101/how-science-works/"],
+    ["NIST: SI Redefinition", "https://www.nist.gov/si-redefinition"],
   ],
   "06-07": [
-    ["NASA: Technology Transfer", "https://technology.nasa.gov/"],
-    ["NIST: Science and Technology", "https://www.nist.gov/"],
+    ["Department of Energy: LED Lighting", "https://www.energy.gov/energysaver/led-lighting"],
+    ["NIST: SI Redefinition", "https://www.nist.gov/si-redefinition"],
   ],
   "06-08": [
-    ["NASA: Universe Overview", "https://science.nasa.gov/universe/overview/"],
+    ["NASA: Types of Galaxies", "https://science.nasa.gov/universe/galaxies/types/"],
     ["PhET: Rutherford Scattering", "https://phet.colorado.edu/en/simulations/rutherford-scattering"],
-    ["NASA: Science Mission Directorate", "https://science.nasa.gov/"],
+    ["NIST: SI Redefinition", "https://www.nist.gov/si-redefinition"],
   ],
 };
 
