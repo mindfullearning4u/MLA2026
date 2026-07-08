@@ -4,7 +4,7 @@
 
 The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
 
-No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required labs, case-data tasks, simulations, visuals, data displays, body-system models, safety controls, candidate resources, and assessment stimuli from the companion matrix are represented.
+No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required labs, case-data tasks, simulations, visuals, data displays, body-system models, safety controls, direct resource links, step-by-step student resource directions, and assessment stimuli from the companion matrix are represented.
 
 ## Unit Mapping Detail
 

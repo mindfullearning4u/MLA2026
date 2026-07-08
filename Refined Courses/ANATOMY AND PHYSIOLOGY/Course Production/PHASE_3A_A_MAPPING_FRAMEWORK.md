@@ -20,7 +20,7 @@ The mapping framework must be used with:
 
 - `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
 
-That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level anatomy labs, case-data investigations, diagrams, histology images, physiological graphs, medical case stimuli, body-system models, simulation review, safety controls, resource approval checks, and assessment stimulus requirements.
+That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level anatomy labs, case-data investigations, diagrams, histology images, physiological graphs, medical case stimuli, body-system models, simulation review, safety controls, direct resource links, step-by-step student resource directions, and assessment stimulus requirements.
 
 ## Mapping Philosophy
 
