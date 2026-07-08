@@ -19,14 +19,15 @@ Read:
 4. Note login/account requirements.
 5. Align every resource to a course, unit, lesson, and topic.
 6. For science labs, simulation review is mandatory.
-7. Do not add links to course files.
+7. Provide the exact direct URL to the specific activity/resource when one exists.
+8. Do not use only a provider homepage, search page, or collection page for a required lab/simulation/resource.
+9. Do not add links to course files.
 
 ## Output
 
 Use:
 
-| Course | Unit | Lesson | Topic | Resource Name | URL | Provider | Free? | Login Required? | Why It Helps | Recommendation |
-|---|---|---|---|---|---|---|---|---|---|---|
+| Course | Unit | Lesson | Topic | Resource Name | Exact Direct URL | Provider | Free? | Login Required? | Opens Directly To Activity? | Why It Helps | Recommendation |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
 If no resource is found, report search notes.
-

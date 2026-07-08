@@ -4,6 +4,8 @@
 
 Agents must identify free resources that could enhance student learning, especially simulations and interactive experiences. Resources are suggestions for approval, not automatic additions.
 
+When the user approves insertion or explicitly directs that lab, simulation, or resource links must be included, the lesson must contain the exact direct clickable URL to the specific activity, virtual lab, data set, or resource. Provider names, homepages, search pages, collection pages, or vague directions to "search for" a resource are not sufficient when a direct activity URL exists.
+
 ## Applies To
 
 This standard applies to all departments:
@@ -65,16 +67,21 @@ For each unit or lesson, ask:
 For science lab courses:
 
 - every lab-aligned unit or lesson must be reviewed for simulations or virtual labs
-- if found, report for approval
+- if found before approval, report for approval with the exact direct URL
+- if approved or explicitly directed by the user, insert the exact direct clickable URL into the lesson where students need it
+- the link must open the specific activity, simulation, virtual lab, data set, or resource directly
+- student-facing directions must not require students to search, browse a provider homepage, or guess which resource to open
+- verify whether the link is free, whether login is required, and whether it opens without payment
+- record the exact URL in `lesson.json`, the lesson page, or the audit evidence
 - if not found, report search notes and "No appropriate free simulation found"
 - do not invent labs
 - do not replace required lab content
-- do not insert links without approval
+- do not insert links without approval unless the user has explicitly directed that exact links must be inserted for the course or scope
+- missing exact direct links for required or approved labs/simulations are blockers for Moodle transfer readiness
 
 ## Output Format
 
 Use this table:
 
-| Course | Unit | Lesson | Topic | Resource Name | URL | Provider | Free? | Login Required? | Why It Helps | Recommendation |
-|---|---|---|---|---|---|---|---|---|---|---|
-
+| Course | Unit | Lesson | Topic | Resource Name | Exact Direct URL | Provider | Free? | Login Required? | Opens Directly To Activity? | Inserted In Lesson? | Why It Helps | Recommendation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|

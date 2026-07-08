@@ -144,6 +144,8 @@ Verify:
 - science courses with lab components completed mandatory simulation review
 - suggestions are approval-only
 - no unapproved external resources were inserted
+- approved or required labs, simulations, data sets, and resources include exact direct clickable URLs
+- no required resource asks students to search, browse a provider homepage, or guess which activity to open
 
 ## Final Course Audit Output
 

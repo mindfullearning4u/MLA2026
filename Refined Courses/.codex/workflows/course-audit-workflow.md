@@ -50,6 +50,7 @@ Every course audit report must include a coverage table with one row per unit an
 - assessment visuals/XML checked
 - metadata/LMS checked
 - resources/simulations checked when applicable
+- exact direct resource URLs checked when resources are approved or required
 - corrections made
 - rerun result
 

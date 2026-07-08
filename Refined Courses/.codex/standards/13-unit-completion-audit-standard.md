@@ -152,6 +152,8 @@ For every unit:
 - Science lab simulations were reviewed when applicable.
 - Suggested resources are listed for approval only.
 - No external links were inserted without approval.
+- Approved or required resources include exact direct clickable URLs in the lesson files.
+- No required lab, simulation, data set, or resource asks students to search, browse, or guess which activity to open.
 
 ## Unit Audit Output
 
@@ -172,7 +174,7 @@ Required sections:
 9. Assessment visual result
 10. JSON/metadata result
 11. HTML/LMS result
-12. Resource/simulation suggestions
+12. Resource/simulation suggestions and exact direct-link evidence
 13. Accreditation/compliance readiness result
 14. Remaining issues
 15. Final decision: PASS, PASS WITH SUGGESTIONS, or FAIL

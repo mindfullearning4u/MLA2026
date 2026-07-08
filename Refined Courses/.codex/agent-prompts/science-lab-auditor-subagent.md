@@ -52,8 +52,10 @@ For each lesson, answer:
 6. Are tables, graphs, diagrams, models, or data displays present where a veteran science teacher would use them?
 7. Is CER taught or used when students must justify conclusions?
 8. Are simulations/virtual labs reviewed for the topic?
-9. Are assessment questions aligned to the lesson or unit lab/data skill?
-10. Do assessment questions include needed data, diagrams, models, or stimuli directly in Moodle XML?
+9. When a simulation, virtual lab, data set, or resource is required or approved, does the lesson include the exact direct clickable URL to the specific activity/resource?
+10. Are students able to click directly to the resource without searching, browsing a provider homepage, or guessing which activity to use?
+11. Are assessment questions aligned to the lesson or unit lab/data skill?
+12. Do assessment questions include needed data, diagrams, models, or stimuli directly in Moodle XML?
 
 ## Fail Conditions
 
@@ -66,14 +68,15 @@ Mark `FAIL` when:
 - CER is required but not taught or practiced
 - an assessment question asks about missing data/diagram/model
 - simulation review is missing for a science/lab lesson
+- a required or approved simulation/resource is named but the exact direct clickable URL is missing
+- a student is told to search or browse for a required lab/simulation/resource
 - content drifts outside approved mapping
 
 ## Output
 
 Use this table:
 
-| Unit | Lesson | Mapping Evidence | Lab/Data Requirement | Current File Evidence | Safety | Data/Visuals | CER | Simulation Review | Assessment Evidence | Result | Required Fix |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+| Unit | Lesson | Mapping Evidence | Lab/Data Requirement | Current File Evidence | Safety | Data/Visuals | CER | Simulation Review | Exact Direct URL Evidence | Assessment Evidence | Result | Required Fix |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 Do not mark PASS unless every required item has current-file evidence.
-

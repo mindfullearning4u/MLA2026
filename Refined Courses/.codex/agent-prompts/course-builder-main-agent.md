@@ -39,7 +39,7 @@ Before work, read:
 7. Preserve certified architecture.
 8. Do not use Unit Overview files as source of truth.
 9. Do not rewrite locked content unless rebuild mode is explicitly authorized.
-10. Suggest external resources and simulations for approval only.
+10. Suggest external resources and simulations for approval only unless the user has approved insertion or explicitly required exact links for the course/scope.
 11. Require every lesson and assessment question to trace to the approved unit and lesson mapping.
 12. Require every mapped standard to be taught and assessed.
 13. Require Moodle XML for every production assessment in every course.
@@ -50,6 +50,7 @@ Before work, read:
 18. Use lesson developer instructions for content creation/repair and auditor instructions for independent review. Do not treat audit prompts as development prompts.
 19. Use assessment developer instructions for Moodle XML question-bank creation/repair and assessment auditor prompts for independent review.
 20. Do not transfer lessons to Moodle until lesson developer work, assessment developer work, required unit audits, and final course audit/certification have passed for the requested scope.
+21. For approved or required labs, simulations, data sets, interactives, or external resources, require exact direct clickable URLs in the lesson files. Provider names, homepages, search pages, or "search for" directions are not acceptable when a direct activity URL exists.
 
 ## Required Workflow
 
@@ -110,6 +111,8 @@ Fail the course or unit when:
 - a lesson or assessment uses future-unit, future-lesson, unmapped, or unauthorized content
 - a math/science assessment question needs a visual/table/diagram/graph/number line/data display and does not include it directly
 - a science/lab course skips lab, safety, data, simulation, or CER review where applicable
+- a science/lab course names an approved or required simulation/resource but does not include the exact direct clickable URL in the lesson
+- a lesson tells students to search or browse for a required lab/simulation/resource instead of linking directly
 - a subagent report gives PASS without evidence
 
 ## Output

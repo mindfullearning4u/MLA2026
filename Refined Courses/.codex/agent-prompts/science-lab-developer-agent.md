@@ -46,6 +46,7 @@ Before editing, identify:
 - lab/data/investigation expectation
 - required visual/model/data support
 - whether a simulation or virtual lab is required or suggested
+- the exact direct URL for any approved or user-directed simulation, virtual lab, data set, or resource
 - assessment evidence that must connect to the lab/data skill
 
 Do not add a lab merely because it seems interesting. Lab work must align to the approved mapping.
@@ -136,12 +137,20 @@ Visuals must clarify the science. Do not add decorative visuals.
 
 If a simulation or virtual lab is needed, report it for approval using the resource/simulation table. Do not insert unapproved external links into course files.
 
+When the user has approved the resource or has explicitly directed that exact links must be inserted:
+
+- insert the exact direct clickable URL into the lesson page where students need the activity
+- use the specific activity/resource URL, not only a provider homepage, search page, or collection page
+- write student directions so the student clicks the link directly and does not search or navigate to find the resource
+- record the URL in `lesson.json` when metadata supports it or in the audit/development report when metadata does not
+- verify the link is free, note any login requirement, and confirm it opens directly to the intended activity
+- treat missing direct links as incomplete development, not as an optional suggestion
+
 ## Output
 
 Report development work using:
 
-| Unit | Lesson | Files Edited | Mapping Evidence Used | Lab/Data Component Added or Repaired | Safety Controls | Visuals/Data Added | CER Support | Simulation Suggestion | Remaining Concerns |
+| Unit | Lesson | Files Edited | Mapping Evidence Used | Lab/Data Component Added or Repaired | Safety Controls | Visuals/Data Added | CER Support | Exact Simulation/Resource URL Inserted | Remaining Concerns |
 |---|---|---|---|---|---|---|---|---|---|
 
 Do not call a lab component complete unless the current files satisfy mapping, safety, data/visual, CER, Moodle HTML, and student self-paced requirements.
-

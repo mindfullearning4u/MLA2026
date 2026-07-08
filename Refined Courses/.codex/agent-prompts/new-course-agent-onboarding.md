@@ -102,6 +102,12 @@ For a six-unit course, the minimum expected audit evidence is unit-by-unit and c
 
 Do not tell the user a course has the same rigor as ALG1 unless this layered evidence exists.
 
+## Science Resource Direct-Link Requirement
+
+For science courses and any course with labs, simulations, data sets, interactives, or external resources, resource review is mandatory. Recommendations may require approval, but once the user approves a resource or explicitly directs that exact links must be included, the lesson must contain the exact direct clickable URL to the specific activity/resource.
+
+Provider names, homepages, search pages, collection pages, and directions such as "search for this simulation" are not enough when a direct activity URL exists. A student must be able to click the lesson link and arrive at the intended lab, simulation, data set, or resource without navigating or guessing. Missing direct links are blockers for certification and Moodle transfer readiness.
+
 ## Certification Rule
 
 Do not call the course clean, complete, student ready, production ready, certified, or PASS unless all required gates pass.

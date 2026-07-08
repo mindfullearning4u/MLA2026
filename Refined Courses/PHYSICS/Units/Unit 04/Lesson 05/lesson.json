@@ -37,7 +37,19 @@
       "NASA EM spectrum resources",
       "CPALMS resources"
     ],
-    "assessmentStimulus": "directly embedded Moodle XML stimulus"
+    "assessmentStimulus": "directly embedded Moodle XML stimulus",
+    "approvedDirectResources": [
+      {
+        "name": "NASA: Electromagnetic Spectrum",
+        "exactDirectUrl": "https://science.nasa.gov/ems/",
+        "access": "Free public resource; verify availability before Moodle transfer."
+      },
+      {
+        "name": "OpenStax: Special Relativity",
+        "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/28-introduction-to-special-relativity",
+        "access": "Free public resource; verify availability before Moodle transfer."
+      }
+    ]
   },
   "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
 }

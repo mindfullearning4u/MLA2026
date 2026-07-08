@@ -59,6 +59,7 @@ The crosswalk, unit mapping, and lesson mapping must capture:
 - required visual/model/data display
 - simulation or virtual lab review requirement
 - candidate resource location for approval
+- approved exact direct resource URL when inserted
 - assessment stimulus requirement
 
 ## Lab Requirement
@@ -132,7 +133,16 @@ Priority sources:
 - public education agencies
 - official science organizations
 
-Resources are suggestions only unless the user approves insertion into course files.
+Resources are suggestions only unless the user approves insertion into course files or explicitly directs that exact links must be inserted for the course or scope.
+
+When insertion is approved or directed:
+
+- use the exact direct clickable URL for the specific simulation, virtual lab, data set, or resource
+- do not use only a provider name, provider homepage, search page, or collection page when a direct activity URL exists
+- do not tell students to search for the resource
+- place the link in the lesson page where the student needs it and record it in `lesson.json` or audit evidence
+- verify free access, login requirements, and whether the link opens directly to the intended activity
+- treat a missing exact direct link as a certification and Moodle-transfer blocker
 
 ## Data and Visual Requirement
 
@@ -195,6 +205,7 @@ A science course is not certification-ready unless the audit evidence shows:
 - lab designation, when applicable
 - lab or investigation integration across units
 - virtual lab/simulation review
+- exact direct URLs for approved or required simulations, virtual labs, data sets, or resources
 - standards alignment
 - data analysis opportunities
 - scientific explanation/CER opportunities
@@ -214,11 +225,13 @@ Mark the unit or course `FAIL` when:
 - lab safety is missing where an investigation is present
 - a simulation review was skipped
 - a resource was inserted without approval
+- an approved or required simulation/resource is named but lacks an exact direct clickable URL
+- students are told to search, browse, or navigate to find a required lab/simulation/resource
 - old Unit Overview files were used as source of truth
 
 ## Output Requirement
 
 Science lab audits must report:
 
-| Course | Unit | Lesson | Lab/Data Requirement | Evidence Found | Safety Present? | Simulation Review Present? | Assessment Evidence | Result | Required Fix |
-|---|---|---|---|---|---|---|---|---|---|
+| Course | Unit | Lesson | Lab/Data Requirement | Evidence Found | Safety Present? | Simulation Review Present? | Exact Direct URL Present When Required? | Assessment Evidence | Result | Required Fix |
+|---|---|---|---|---|---|---|---|---|---|---|

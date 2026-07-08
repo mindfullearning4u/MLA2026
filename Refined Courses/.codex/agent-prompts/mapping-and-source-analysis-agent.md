@@ -54,6 +54,6 @@ For science courses, the build readiness decision must explicitly state whether 
 - required diagrams, tables, graphs, models, maps, or data displays
 - safety requirements
 - CER or scientific explanation requirements
-- where candidate resources may be found for approval
+- where candidate resources may be found for approval, including exact direct URLs when available
 
 Do not edit files.

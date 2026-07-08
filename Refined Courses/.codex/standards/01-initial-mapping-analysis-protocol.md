@@ -21,7 +21,7 @@ Before building or auditing, answer these questions in writing:
 11. Which official standards sources were checked?
 12. Are Florida B.E.S.T., CPALMS, Common Core, ACT, and SAT alignments required for this course?
 13. Which labs, simulations, data displays, diagrams, models, or visuals are required by the standards or mapping?
-14. Where can approved or candidate labs, simulations, data sets, or visuals be found for later approval?
+14. Where can approved or candidate labs, simulations, data sets, or visuals be found for later approval, including exact direct URLs when available?
 
 ## Required Source Discovery
 
@@ -56,7 +56,7 @@ Every unit and lesson must appear in the table.
 
 For science courses, and for any course with required visuals/resources, the mapping trace table must also include:
 
-| Unit | Lesson | Lab/Data Requirement | Required Visuals/Models/Data Displays | Required Simulation or Virtual Lab Review | Candidate Resource Location | Safety Notes | Assessment Stimulus Requirement |
+| Unit | Lesson | Lab/Data Requirement | Required Visuals/Models/Data Displays | Required Simulation or Virtual Lab Review | Candidate or Approved Exact Direct Resource URL | Safety Notes | Assessment Stimulus Requirement |
 |---|---|---|---|---|---|---|---|
 
 These columns are not optional for science courses. If a lesson does not require a lab, simulation, or visual, write `None required by mapping` and cite the evidence.
@@ -105,7 +105,7 @@ For each lesson, determine:
 - Whether Lesson 8 is synthesis or new content.
 - For science, what lab, investigation, data set, model, safety note, CER, simulation, or virtual lab evidence is required?
 - For science, what diagram, table, graph, map, model, lab setup, or data display must be included in lessons and assessments?
-- Where candidate labs, simulations, or visuals may be sourced for user approval.
+- Where candidate labs, simulations, or visuals may be sourced for user approval, including exact direct URLs when available.
 
 ## Completion Criteria
 

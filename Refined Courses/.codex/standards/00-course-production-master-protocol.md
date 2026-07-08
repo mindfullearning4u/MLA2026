@@ -22,7 +22,7 @@ The expected quality bar is strict: every course must be built as if it will be 
 10. Assessments must be Moodle-ready Moodle XML and mechanically valid. Moodle XML is required for every production assessment in every course. GIFT is legacy/source material only and is not a production assessment format.
 11. Correct answers must not follow a predictable answer pattern.
 12. Feedback must be teachable feedback, not short right/wrong labels.
-13. External resources and simulations are suggestions only unless explicitly approved for insertion.
+13. External resources and simulations are suggestions only unless explicitly approved for insertion or explicitly required by the user for the course/scope. When approved or required, the lesson must include the exact direct clickable URL to the specific activity/resource, not a provider homepage or search page.
 14. Reports and prior audits are useful context but never override direct validation of current files.
 15. Standards, accreditation readiness, and compliance readiness must be maintained from the start of production, not added at the end.
 16. Every lesson, page, assessment question, visual, standard, and activity must trace to the approved unit mapping and lesson mapping.
@@ -193,7 +193,7 @@ A course cannot receive PASS unless:
 - P04, P06, and P07 meet page-specific requirements.
 - Assessments meet count, format, syntax, feedback, standards, mapping, visual, and answer-pattern requirements.
 - Mandatory visuals or representations are present directly in lessons and assessment questions where needed.
-- Science lab/simulation review is complete when applicable.
+- Science lab/simulation review is complete when applicable, and approved or required resources include exact direct clickable URLs.
 - Unit completion audits are complete.
 - Full course completion audit is complete.
 - Final report lists remaining issues and certification decision.

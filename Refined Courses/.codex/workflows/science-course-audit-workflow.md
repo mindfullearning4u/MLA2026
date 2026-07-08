@@ -76,17 +76,18 @@ The main agent must inspect and fix every valid finding, then rerun affected aud
 13. Audit Moodle XML assessments and embedded stimuli.
 14. Audit assessment alignment to lesson/unit mapping.
 15. Run simulation/resource review.
-16. Fix confirmed issues.
-17. Rerun failed category audits.
-18. Produce unit completion audits.
-19. Produce final course completion/certification report.
+16. Verify exact direct clickable URLs are present in lessons for every approved or required lab, simulation, data set, or resource.
+17. Fix confirmed issues.
+18. Rerun failed category audits.
+19. Produce unit completion audits.
+20. Produce final course completion/certification report.
 
 ## Required Science Audit Table
 
 Use this table in science reports:
 
-| Unit | Lesson | Mapping Focus | Lab/Data Requirement | Lesson Evidence | Safety Evidence | Visual/Data Evidence | CER Evidence | Simulation Review | Assessment Evidence | Result | Fix |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+| Unit | Lesson | Mapping Focus | Lab/Data Requirement | Lesson Evidence | Safety Evidence | Visual/Data Evidence | CER Evidence | Simulation Review | Exact Direct URL Evidence | Assessment Evidence | Result | Fix |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Required Architecture Mapping Tables
 
@@ -95,7 +96,7 @@ Before science lesson production, produce or verify:
 | Standard Code | Official Source Checked | CPALMS/FDOE Reference | MLA Numbering Status | Unit Placement | Lesson Placement | Lab/Data Requirement | Visual/Model/Data Requirement | ACT/SAT/Common Core Readiness Note | Status |
 |---|---|---|---|---|---|---|---|---|---|
 
-| Unit | Lesson | Lesson Focus | Lab or Investigation | Simulation/Virtual Lab Candidate | Visuals/Data/Models Needed | Safety Notes | Candidate Resource Location | Assessment Stimulus Needed |
+| Unit | Lesson | Lesson Focus | Lab or Investigation | Simulation/Virtual Lab Candidate | Visuals/Data/Models Needed | Safety Notes | Candidate or Approved Exact Direct Resource URL | Assessment Stimulus Needed |
 |---|---|---|---|---|---|---|---|---|
 
 ## Certification Gate
@@ -108,6 +109,7 @@ A science course cannot be marked certified or ready for Moodle transfer unless:
 - lab/data requirements are mapped and present
 - safety guidance is present where needed
 - simulations/resources were reviewed
+- exact direct clickable URLs are present for approved or required simulations/resources
 - required visuals/data/diagrams/models are present
 - assessment questions include needed stimuli directly in XML
 - no lesson relies on teacher-led instruction
@@ -121,4 +123,4 @@ Use:
 - `CERTIFIED WITH SUGGESTIONS`
 - `NOT CERTIFIED`
 
-Do not use `CERTIFIED` if simulation review, lab audit, safety audit, or XML assessment validation is missing.
+Do not use `CERTIFIED` if simulation review, exact direct URL evidence, lab audit, safety audit, or XML assessment validation is missing.
