@@ -7,25 +7,45 @@ URL: https://www.cpalms.org/PreviewCourse/Preview/22644
 |---|---|---|---|
 | SS.912.G.1.1 | Design maps using a variety of technologies based on descriptive data to explain physical and cultural attributes of major world regions. | CPALMS World History #2109310 | Included |
 | SS.912.G.1.2 | Use spatial perspective and appropriate geographic terms and tools, including the Six Essential Elements, as organizational schema to describe any given place. | CPALMS World History #2109310 | Included |
+| SS.912.G.1.3 | Employ applicable units of measurement and scale to solve simple locational problems using maps and globes. | CPALMS World History #2109310 | Included |
+| SS.912.G.2.1 | Identify the physical characteristics and the human characteristics that define and differentiate regions. | CPALMS World History #2109310 | Included |
+| SS.912.G.2.2 | Describe the factors and processes that contribute to the differences between developing and developed regions of the world. | CPALMS World History #2109310 | Included |
+| SS.912.G.2.3 | Use geographic terms and tools to analyze case studies of regional issues in different parts of the world that have critical economic, physical, or political ramifications. | CPALMS World History #2109310 | Included |
 | SS.912.G.4.1 | Interpret population growth and other demographic data for any given place. | CPALMS World History #2109310 | Included |
 | SS.912.G.4.2 | Use geographic terms and tools to analyze the push and pull factors contributing to human migration within and among places. | CPALMS World History #2109310 | Included |
 | SS.912.G.4.3 | Use geographic terms and tools to analyze the effects of migration both on the place of origin and destination, including border areas. | CPALMS World History #2109310 | Included |
 | SS.912.G.4.7 | Use geographic terms and tools to explain cultural diffusion throughout places, regions, and the world. | CPALMS World History #2109310 | Included |
 | SS.912.G.4.9 | Use political maps to describe the change in boundaries and governments within continents over time. | CPALMS World History #2109310 | Included |
+| SS.912.H.1.3 | Relate works in the arts to various cultures. | CPALMS World History #2109310 | Included |
 | SS.912.H.3.1 | Analyze the effects of transportation, trade, communication, science, and technology on the preservation and diffusion of culture. | CPALMS World History #2109310 | Included |
 | SS.912.HE.1.1 | Define the Holocaust as the planned and systematic state-sponsored persecution and murder of European Jews by Nazi Germany and its collaborators between 1933 and 1945. | CPALMS World History #2109310 | Included |
 | SS.912.W.1.1 | Use timelines to establish cause and effect relationships of historical events. | CPALMS World History #2109310 | Included |
+| SS.912.W.1.2 | Compare time measurement systems used by different cultures. | CPALMS World History #2109310 | Included |
 | SS.912.W.1.3 | Interpret and evaluate primary and secondary sources. | CPALMS World History #2109310 | Included |
 | SS.912.W.1.4 | Explain how historians use historical inquiry and other sciences to understand the past. | CPALMS World History #2109310 | Included |
+| SS.912.W.1.5 | Compare conflicting interpretations or schools of thought about world events and individual contributions to history. | CPALMS World History #2109310 | Included |
+| SS.912.W.1.6 | Evaluate the role of history in shaping identity and character. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.1 | Locate the extent of Byzantine territory at the height of the empire. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.10 | Describe medieval social hierarchy, the changing role of the Church, feudalism, and private property. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.11 | Describe the rise and achievements of significant rulers in medieval Europe. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.12 | Recognize the importance of Christian monasteries and convents. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.13 | Explain how Western civilization arose from Greco-Roman, Judeo-Christian, and northern European cultures. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.14 | Describe the causes and effects of the Great Famine, Black Death, Great Schism, and Hundred Years War. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.15 | Determine the factors that contributed to the growth of a modern economy. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.16 | Trace the growth and development of national identity in England, France, and Spain. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.17 | Identify key figures and achievements of the medieval period. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.18 | Describe medieval English legal and constitutional developments leading to modern democratic institutions. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.19 | Describe the impact of Japan's physiography on economic and political development. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.2 | Describe the impact of Constantine, Constantinople, and legal recognition of Christianity. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.20 | Summarize cultural, economic, political, and religious developments in medieval Japan. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.21 | Compare Japanese feudalism with Western European feudalism. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.22 | Describe Japan's cultural and economic relationship to China and Korea. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.3 | Analyze Byzantine continuity with and departure from the old Roman Empire. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.4 | Identify key figures associated with the Byzantine Empire. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.5 | Explain the contributions of the Byzantine Empire. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.6 | Describe the causes and effects of Iconoclasm and the Christian schism. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.7 | Analyze causes of Byzantine decline. | CPALMS World History #2109310 | Included |
+| SS.912.W.2.8 | Describe the rise of the Ottoman Turks, the conquest of Constantinople, and the growth of the Ottoman Empire. | CPALMS World History #2109310 | Included |
 | SS.912.W.2.9 | Analyze the impact of the collapse of the Western Roman Empire on Europe. | CPALMS World History #2109310 | Included |
 | SS.912.W.3.1 | Discuss significant people and beliefs associated with Islam. | CPALMS World History #2109310 | Included |
 | SS.912.W.3.10 | Identify characteristics of Ghana. | CPALMS World History #2109310 | Included |

@@ -1,4 +1,4 @@
-# World History Visual, Source, and Stimulus Mapping
+﻿# World History Visual, Source, and Stimulus Mapping
 
 World History requires maps, timelines, primary/secondary source reasoning, data tables, comparison charts, and cause-effect organizers. Assessment questions must include the visual or stimulus inside the Moodle XML question when the question depends on it.
 
@@ -48,7 +48,7 @@ World History requires maps, timelines, primary/secondary source reasoning, data
 | Unit 06 | Lesson 02 | Cold War developments timeline | Embed directly in lesson and assessment when question depends on it | No external navigation required |
 | Unit 06 | Lesson 03 | background-conflict-event chart | Embed directly in lesson and assessment when question depends on it | No external navigation required |
 | Unit 06 | Lesson 04 | independence movement comparison table | Embed directly in lesson and assessment when question depends on it | No external navigation required |
-| Unit 06 | Lesson 05 | population and technology impact table | Embed directly in lesson and assessment when question depends on it | No external navigation required |
+| Unit 06 | Lesson 05 | population, migration, and technology impact table | Embed directly in lesson and assessment when question depends on it | No external navigation required |
 | Unit 06 | Lesson 06 | case study response matrix | Embed directly in lesson and assessment when question depends on it | No external navigation required |
 | Unit 06 | Lesson 07 | globalization impact web | Embed directly in lesson and assessment when question depends on it | No external navigation required |
 | Unit 06 | Lesson 08 | modern world evidence portfolio | Embed directly in lesson and assessment when question depends on it | No external navigation required |

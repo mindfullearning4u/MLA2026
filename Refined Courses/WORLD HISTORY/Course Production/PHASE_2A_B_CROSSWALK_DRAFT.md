@@ -9,17 +9,33 @@ Crosswalk rule: CPALMS/FDOE World History Social Studies standards are the contr
 | Unit | Unit Title | Standard | Standard Description |
 |---|---|---|---|
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.1 | Use timelines to establish cause and effect relationships of historical events. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.2 | Compare time measurement systems used by different cultures. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.3 | Interpret and evaluate primary and secondary sources. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.4 | Explain how historians use historical inquiry and other sciences to understand the past. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.5 | Compare conflicting interpretations or schools of thought about world events and individual contributions to history. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.6 | Evaluate the role of history in shaping identity and character. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.G.1.1 | Design maps using a variety of technologies based on descriptive data to explain physical and cultural attributes of major world regions. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.G.1.2 | Use spatial perspective and appropriate geographic terms and tools, including the Six Essential Elements, as organizational schema to describe any given place. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.G.1.3 | Employ applicable units of measurement and scale to solve simple locational problems using maps and globes. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.G.4.9 | Use political maps to describe the change in boundaries and governments within continents over time. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.1 | Locate the extent of Byzantine territory at the height of the empire. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.2 | Describe the impact of Constantine, Constantinople, and legal recognition of Christianity. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.3 | Analyze Byzantine continuity with and departure from the old Roman Empire. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.4 | Identify key figures associated with the Byzantine Empire. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.5 | Explain the contributions of the Byzantine Empire. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.6 | Describe the causes and effects of Iconoclasm and the Christian schism. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.7 | Analyze causes of Byzantine decline. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.8 | Describe the rise of the Ottoman Turks, the conquest of Constantinople, and the growth of the Ottoman Empire. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.9 | Analyze the impact of the collapse of the Western Roman Empire on Europe. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.10 | Describe medieval social hierarchy, the changing role of the Church, feudalism, and private property. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.11 | Describe the rise and achievements of significant rulers in medieval Europe. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.12 | Recognize the importance of Christian monasteries and convents. |
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.13 | Explain how Western civilization arose from Greco-Roman, Judeo-Christian, and northern European cultures. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.14 | Describe the causes and effects of the Great Famine, Black Death, Great Schism, and Hundred Years War. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.15 | Determine the factors that contributed to the growth of a modern economy. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.16 | Trace the growth and development of national identity in England, France, and Spain. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.17 | Identify key figures and achievements of the medieval period. |
+| Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.2.18 | Describe medieval English legal and constitutional developments leading to modern democratic institutions. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.1 | Discuss significant people and beliefs associated with Islam. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.2 | Compare major beliefs and principles of Judaism, Christianity, and Islam. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.3 | Determine causes, effects, and extent of Islamic military expansion. |
@@ -33,6 +49,9 @@ Crosswalk rule: CPALMS/FDOE World History Social Studies standards are the contr
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.11 | Identify figures and characteristics of Mali. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.12 | Identify characteristics of Songhai. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.13 | Compare developments in East, West, and South Africa. |
+| Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.G.2.1 | Identify the physical characteristics and the human characteristics that define and differentiate regions. |
+| Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.G.2.2 | Describe the factors and processes that contribute to the differences between developing and developed regions of the world. |
+| Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.G.2.3 | Use geographic terms and tools to analyze case studies of regional issues in different parts of the world that have critical economic, physical, or political ramifications. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.14 | Examine factors that led to the fall of Ghana, Mali, and Songhai. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.15 | Analyze legacies of Olmec, Zapotec, and Chavin civilizations. |
 | Unit 02 | Islamic Civilizations, African Kingdoms, and American Civilizations | SS.912.W.3.16 | Locate major civilizations of Mesoamerica and Andean South America. |
@@ -47,6 +66,7 @@ Crosswalk rule: CPALMS/FDOE World History Social Studies standards are the contr
 | Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.W.4.1 | Identify economic and political causes for the rise of Italian city-states. |
 | Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.W.4.2 | Recognize influences on Renaissance architecture, art, and literature. |
 | Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.W.4.3 | Identify major Renaissance artistic, literary, and technological contributions. |
+| Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.H.1.3 | Relate works in the arts to various cultures. |
 | Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.W.4.4 | Identify characteristics of Renaissance humanism in works of art. |
 | Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.W.4.5 | Describe how ideas from the Middle Ages and Renaissance led to the Scientific Revolution. |
 | Unit 03 | Japan, Renaissance, Reformation, Scientific Revolution, and Exploration | SS.912.W.4.6 | Describe how Scientific Revolution theories and methods challenged earlier periods. |
