@@ -144,9 +144,13 @@ When inserting a resource:
 - insert the exact direct clickable URL into the lesson page where students need the activity
 - use the specific activity/resource URL, not only a provider homepage, search page, or collection page
 - write student directions so the student clicks the link directly and does not search or navigate to find the resource
+- write step-by-step directions next to the link that tell the student what to click after the page opens, which tab/model/control/heading/table/figure to use, what to observe, what evidence to record, and how the evidence connects to the mapped standard
+- for simulations, include launch/play directions, required toggles or controls when applicable, an observation task, and a specific data/CER evidence task
+- for readings, data sets, diagrams, and agency resources, identify the exact section, heading, table, image, or figure the student should use and what information to extract
 - record the URL in `lesson.json` when metadata supports it or in the audit/development report when metadata does not
 - verify the link is free, note any login requirement, and confirm it opens directly to the intended activity
 - treat missing direct links as incomplete development, not as an optional suggestion
+- treat missing student-use directions as incomplete development, not as an optional suggestion
 
 ## Output
 

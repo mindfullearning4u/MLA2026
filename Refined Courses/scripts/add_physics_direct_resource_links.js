@@ -195,6 +195,107 @@ const resources = {
   ],
 };
 
+function procedureFor(name, url) {
+  const lower = `${name} ${url}`.toLowerCase();
+  if (lower.includes("phet")) {
+    return [
+      "Click the link, then click the play or launch button for the simulation. If the page offers versions, use the HTML5 version.",
+      "Start with the default screen or the first simulation screen. Turn on labels, vectors, values, paths, graphs, or field lines when those controls are available.",
+      "Change only one variable at a time, such as mass, force, distance, charge, wavelength, or velocity. Watch what changes before adjusting another control.",
+      "Record one observation from the model and identify the Physics relationship shown by that observation.",
+      "Use the observation as evidence in the notebook task, guided practice, or checkpoint when the lesson asks for simulation evidence.",
+    ];
+  }
+  if (lower.includes("eyes.nasa.gov")) {
+    return [
+      "Click the link and wait for NASA/JPL Eyes to load. If a start or launch button appears, click it.",
+      "Use the Solar System view that opens. Rotate, zoom, or select the Sun, Earth, Moon, or another body only as needed for this lesson.",
+      "Observe how distance, orbit path, and relative motion are represented in the model.",
+      "Record one observation about orbital motion, scale, or gravitational organization.",
+      "Connect the observation to the lesson by explaining how gravity and motion organize the system.",
+    ];
+  }
+  if (lower.includes("openstax")) {
+    return [
+      "Click the link and stay on the exact OpenStax section that opens.",
+      "Read the section title, first explanation, key equation or model, and any figure or table in the linked section.",
+      "Identify the quantity, relationship, law, or model that matches the lesson.",
+      "Record one formula, visual detail, or evidence statement from the section.",
+      "Return to the lesson and use that evidence in the notebook task or checkpoint.",
+    ];
+  }
+  if (lower.includes("nasa") && lower.includes("galaxies")) {
+    return [
+      "Click the link and use the NASA Types of Galaxies page that opens.",
+      "Read the headings for galaxy types and examine the images or descriptions for each type.",
+      "Record how matter is arranged in at least two galaxy types.",
+      "Explain how gravity and matter distribution help organize large-scale structures.",
+      "Use that evidence in the Unit 6 matter-in-the-universe task.",
+    ];
+  }
+  if (lower.includes("nasa") && lower.includes("ems")) {
+    return [
+      "Click the link and use the NASA Electromagnetic Spectrum page that opens.",
+      "Find the spectrum order from radio waves through gamma rays.",
+      "Compare wavelength, frequency, or energy for two parts of the spectrum.",
+      "Record one pattern from the spectrum and one example of how that wave type is used or observed.",
+      "Connect the pattern to the lesson's wave or electromagnetic radiation concept.",
+    ];
+  }
+  if (lower.includes("berkeley") || lower.includes("understanding-science")) {
+    return [
+      "Click the link and use the How Science Works page that opens.",
+      "Read the section headings and identify how evidence, testing, peer review, and revision work together.",
+      "Record two reliability features that make a scientific claim stronger.",
+      "Explain why repeated evidence or review matters before accepting a claim.",
+      "Use the notes in the reliability or scientific-change task.",
+    ];
+  }
+  if (lower.includes("nist")) {
+    return [
+      "Click the link and use the NIST SI Redefinition page that opens.",
+      "Read the section explaining that SI units are based on constants of nature.",
+      "Identify one measurement unit or constant discussed on the page.",
+      "Record how using constants improves reliability or consistency in science.",
+      "Connect that evidence to the lesson's reliability, measurement, or Physics-informed decision task.",
+    ];
+  }
+  if (lower.includes("energy.gov")) {
+    return [
+      "Click the link and use the Department of Energy LED Lighting page that opens.",
+      "Read the sections that compare LED lighting efficiency, energy use, and benefits.",
+      "Record one benefit, one constraint, and one evidence statement about LED lighting.",
+      "Use the evidence to complete a Physics-informed decision comparison.",
+      "Return to the lesson and explain the decision using energy, power, or efficiency reasoning.",
+    ];
+  }
+  if (lower.includes("cern")) {
+    return [
+      "Click the link and use the CERN Standard Model page that opens.",
+      "Read the explanation of particles and forces at the subatomic scale.",
+      "Record one particle or interaction described by the page.",
+      "Explain how this evidence supports the lesson's atomic or modern Physics model.",
+      "Use the note as evidence in the lesson task.",
+    ];
+  }
+  return [
+    "Click the link and use only the exact page that opens.",
+    "Read the heading, labels, captions, and any table, image, graph, or diagram before taking notes.",
+    "Record one observation, model detail, formula, or fact from the resource.",
+    "Explain how that evidence connects to the lesson objective.",
+    "Return to the lesson task and use the evidence in your response.",
+  ];
+}
+
+function procedureHtml(items) {
+  return items
+    .map(([name, url]) => {
+      const steps = procedureFor(name, url).map((step) => `<li>${step}</li>`).join("");
+      return `<div style="margin-top:14px;"><h3 style="font-size:20px; margin:0 0 6px 0;">How to use ${name}</h3><ol style="padding-left:24px; margin-top:6px;">${steps}</ol></div>`;
+    })
+    .join("");
+}
+
 for (let u = 1; u <= 6; u++) {
   for (let l = 1; l <= 8; l++) {
     const unit = String(u).padStart(2, "0");
@@ -223,7 +324,7 @@ for (let u = 1; u <= 6; u++) {
     const links = items
       .map(([name, url]) => `<li><a href="${url}" target="_blank" rel="noopener noreferrer">${name}</a></li>`)
       .join("");
-    const section = `  <section style="border:1px solid #d1d5db; border-left:6px solid #f59e0b; border-radius:10px; padding:20px; margin-bottom:18px; background:#fffbeb;">\n    <h2 style="font-size:23px; margin-top:0;">Direct Resource Link</h2>\n<p>Use the direct link below only when the lesson or checkpoint asks you to use an approved virtual resource. The link opens the specific resource; you should not search for a different activity.</p><ul style="padding-left:24px;">${links}</ul>\n  </section>\n`;
+    const section = `  <section style="border:1px solid #d1d5db; border-left:6px solid #f59e0b; border-radius:10px; padding:20px; margin-bottom:18px; background:#fffbeb;">\n    <h2 style="font-size:23px; margin-top:0;">Direct Resource Link</h2>\n<p>Use the direct link below only when the lesson or checkpoint asks you to use an approved virtual resource. The link opens the specific resource; you should not search for a different activity.</p><ul style="padding-left:24px;">${links}</ul>\n${procedureHtml(items)}\n  </section>\n`;
 
     if (!html.includes("Direct Resource Link")) {
       const marker = '  <section style="border:1px solid #d1d5db; border-left:6px solid #7c3aed;';

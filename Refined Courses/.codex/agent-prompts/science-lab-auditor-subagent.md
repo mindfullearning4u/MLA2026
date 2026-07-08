@@ -53,6 +53,7 @@ For each lesson, answer:
 7. Is CER taught or used when students must justify conclusions?
 8. Are simulations/virtual labs reviewed for the topic?
 9. When a simulation, virtual lab, data set, or resource is required or approved, does the lesson include the exact direct clickable URL to the specific activity/resource?
+10. Does the lesson tell the student what to click after the link opens, what controls/settings/sections to use, what to observe, what evidence to record, and how that evidence supports the mapped standard?
 10. Are students able to click directly to the resource without searching, browsing a provider homepage, or guessing which activity to use?
 11. Are assessment questions aligned to the lesson or unit lab/data skill?
 12. Do assessment questions include needed data, diagrams, models, or stimuli directly in Moodle XML?
@@ -69,6 +70,7 @@ Mark `FAIL` when:
 - an assessment question asks about missing data/diagram/model
 - simulation review is missing for a science/lab lesson
 - a required or approved simulation/resource is named but the exact direct clickable URL is missing
+- a required or approved simulation/resource is linked but lacks step-by-step student-use directions
 - a student is told to search or browse for a required lab/simulation/resource
 - content drifts outside approved mapping
 

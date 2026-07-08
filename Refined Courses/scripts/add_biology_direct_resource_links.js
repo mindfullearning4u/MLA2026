@@ -118,6 +118,98 @@ const resources = {
 const oldSafetyText = "External simulations and resources are approval-only. Use the lesson content, embedded tables, diagrams, maps, models, and data displays as the required source for mastery unless an approved resource is later added.";
 const newSafetyText = "Approved direct resource links are included when a free, student-safe resource supports the lesson. Use the exact lesson link provided; do not search for a different activity or resource.";
 
+function procedureFor(name, url) {
+  const lower = `${name} ${url}`.toLowerCase();
+  if (lower.includes("phet")) {
+    return [
+      "Click the link, then click the play or launch button for the simulation. If the page offers versions, use the HTML5 version.",
+      "Use the first screen or default model first. Turn on labels, values, graphs, or other evidence tools if the simulation provides them.",
+      "Change only one variable at a time. Watch what changes in the model before changing a second variable.",
+      "Record one observation from the simulation and one science explanation that connects the observation to this lesson.",
+      "Use your observation as evidence in the notebook task, guided practice, or checkpoint when the lesson asks for simulation evidence.",
+    ];
+  }
+  if (lower.includes("openstax")) {
+    return [
+      "Click the link and stay on the exact OpenStax section that opens. Do not navigate to another chapter unless the lesson tells you to.",
+      "Read the section title, opening paragraph, bold vocabulary, and any figure or table that appears in the linked section.",
+      "Write down two key science ideas from the section and one visual detail from a figure, table, or diagram when one is present.",
+      "Connect the notes to the lesson question by explaining what the linked section helps you understand.",
+      "Return to the lesson page and use those notes as evidence for the notebook task or checkpoint.",
+    ];
+  }
+  if (lower.includes("cdc")) {
+    return [
+      "Click the link and use the page section that explains how vaccines work.",
+      "Read for the sequence of immune-system events, not for every detail on the site.",
+      "Record the role of the vaccine, the immune response, and the reason the response helps protect the body.",
+      "Connect the evidence to the lesson by explaining how body systems respond to a pathogen or vaccine stimulus.",
+      "Use your notes to answer the lesson task without searching other CDC pages.",
+    ];
+  }
+  if (lower.includes("nasa earth") || lower.includes("world of change") || lower.includes("carbon cycle")) {
+    return [
+      "Click the link and wait for the NASA Earth Observatory page or visual feature to load.",
+      "Use the main image, map, timeline, caption, or labeled visual on the linked page.",
+      "Identify what is changing over time or what cycle/process the visual shows.",
+      "Record one evidence statement from the image, caption, map, or timeline.",
+      "Connect that evidence to the lesson concept, such as cycling of matter, photosynthesis, respiration, ecosystems, or environmental change.",
+    ];
+  }
+  if (lower.includes("usgs")) {
+    return [
+      "Click the link and use the page section, diagram, map, or data table that opens on the linked USGS page.",
+      "Read the labels and captions before reading the full page.",
+      "Record the process, pattern, or data trend shown by the diagram, map, or table.",
+      "Explain how that evidence supports the lesson concept.",
+      "Do not search the USGS site for another activity unless your Teacher of Record specifically directs you to do so.",
+    ];
+  }
+  if (lower.includes("epa")) {
+    return [
+      "Click the link and use the specific EPA page that opens.",
+      "Read the headings first so you know which section matches the lesson task.",
+      "Use the page to identify one environmental issue, data source, sustainability idea, or evidence pattern.",
+      "Record one evidence statement and one explanation of why that evidence matters.",
+      "Use the evidence in the lesson task or checkpoint instead of searching for another EPA page.",
+    ];
+  }
+  if (lower.includes("noaa")) {
+    return [
+      "Click the link and use the NOAA fact page that opens.",
+      "Read the main answer, diagram, labels, and caption before taking notes.",
+      "Record the key physical or ecological pattern described by NOAA.",
+      "Connect the pattern to the lesson concept using one complete sentence.",
+      "Return to the lesson and use that sentence as evidence in your response.",
+    ];
+  }
+  if (lower.includes("genome") || lower.includes("smithsonian")) {
+    return [
+      "Click the link and use the exact page that opens.",
+      "Read the headings and examine any diagram, image, timeline, or evidence display on the page.",
+      "Record two facts that directly support the lesson topic.",
+      "Write one sentence explaining how the evidence helps answer the lesson question.",
+      "Use only the linked page unless the lesson gives a different approved link.",
+    ];
+  }
+  return [
+    "Click the link and use only the exact page that opens.",
+    "Read the heading, labels, captions, and any table, image, graph, or diagram before taking notes.",
+    "Record one observation or fact from the resource.",
+    "Explain how that evidence connects to the lesson objective.",
+    "Return to the lesson task and use the evidence in your response.",
+  ];
+}
+
+function procedureHtml(items) {
+  return items
+    .map(([name, url]) => {
+      const steps = procedureFor(name, url).map((step) => `<li>${step}</li>`).join("");
+      return `<div style="margin-top:14px;"><h3 style="font-size:20px; margin:0 0 6px 0;">How to use ${name}</h3><ol style="padding-left:24px; margin-top:6px;">${steps}</ol></div>`;
+    })
+    .join("");
+}
+
 for (let u = 1; u <= 6; u++) {
   for (let l = 1; l <= 8; l++) {
     const unit = String(u).padStart(2, "0");
@@ -150,7 +242,7 @@ for (let u = 1; u <= 6; u++) {
     const links = items
       .map(([name, url]) => `<li><a href="${url}" target="_blank" rel="noopener noreferrer">${name}</a></li>`)
       .join("");
-    const section = `  <section style="border: 1px solid #d1d5db; border-left: 6px solid #f59e0b; border-radius: 10px; padding: 20px; margin-bottom: 18px; background: #fffbeb;">\n    <h2 style="font-size: 23px; margin-top: 0;">Direct Resource Link</h2>\n<p>Use the direct link below only when the lesson or checkpoint asks you to use an approved virtual resource. The link opens the specific resource; you should not search for a different activity.</p><ul style="padding-left: 24px;">${links}</ul>\n  </section>\n`;
+    const section = `  <section style="border: 1px solid #d1d5db; border-left: 6px solid #f59e0b; border-radius: 10px; padding: 20px; margin-bottom: 18px; background: #fffbeb;">\n    <h2 style="font-size: 23px; margin-top: 0;">Direct Resource Link</h2>\n<p>Use the direct link below only when the lesson or checkpoint asks you to use an approved virtual resource. The link opens the specific resource; you should not search for a different activity.</p><ul style="padding-left: 24px;">${links}</ul>\n${procedureHtml(items)}\n  </section>\n`;
 
     const marker = '  <section style="border: 1px solid #d1d5db; border-left: 6px solid #7c3aed;';
     if (!html.includes("Direct Resource Link")) {

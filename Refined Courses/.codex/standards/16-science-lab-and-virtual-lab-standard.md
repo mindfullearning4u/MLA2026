@@ -143,8 +143,12 @@ When a resource is inserted:
 - do not use only a provider name, provider homepage, search page, or collection page when a direct activity URL exists
 - do not tell students to search for the resource
 - place the link in the lesson page where the student needs it and record it in `lesson.json` or audit evidence
+- place step-by-step student-use directions next to the link so students know what to click, what controls/settings/sections to use, what to observe, what evidence to record, and how the observation supports the lesson standard
+- for simulations, include launch/play directions and the specific model controls, toggles, variables, or views students should use when applicable
+- for linked readings, data sets, diagrams, agency resources, or visual pages, identify the specific heading, image, table, figure, or section students should examine and what information they must collect
 - verify free access, login requirements, and whether the link opens directly to the intended activity
 - treat a missing exact direct link as a certification and Moodle-transfer blocker
+- treat missing step-by-step student-use directions as a certification and Moodle-transfer blocker
 
 ## Data and Visual Requirement
 
@@ -208,6 +212,7 @@ A science course is not certification-ready unless the audit evidence shows:
 - lab or investigation integration across units
 - virtual lab/simulation review
 - exact direct URLs for approved or required simulations, virtual labs, data sets, or resources
+- step-by-step student-use directions for every approved or required simulation, virtual lab, data set, or resource
 - standards alignment
 - data analysis opportunities
 - scientific explanation/CER opportunities
@@ -228,6 +233,7 @@ Mark the unit or course `FAIL` when:
 - a simulation review was skipped
 - a resource was inserted without approval
 - an approved or required simulation/resource is named but lacks an exact direct clickable URL
+- an approved or required simulation/resource is linked but lacks student-facing directions for what to click, what to observe, what to record, and how to use the evidence
 - students are told to search, browse, or navigate to find a required lab/simulation/resource
 - old Unit Overview files were used as source of truth
 

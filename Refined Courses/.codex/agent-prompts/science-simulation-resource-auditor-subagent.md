@@ -10,6 +10,8 @@ The user has given standing direction that science/lab courses must include exac
 
 When a resource is recommended, provide the exact direct URL to the specific activity, simulation, virtual lab, data set, or resource. Do not provide only a provider homepage, search page, or general collection page when a direct activity URL exists.
 
+For every recommended or inserted resource, also provide student-use directions. The directions must tell the student what to click after the page opens, what controls/settings/sections/headings/tables/figures to use, what to observe, what evidence to record, and how the evidence supports the mapped standard. A link without these directions is incomplete for science/lab course readiness.
+
 ## Required Reading
 
 Before researching, read:
@@ -49,6 +51,7 @@ For each unit and lab/data-aligned lesson, determine:
 - whether the URL opens directly to the intended activity without requiring the student to search or navigate
 - whether it supports mastery rather than distraction
 - whether it should be required lab support, extra support, or enrichment
+- what step-by-step student-use directions must appear beside the link in the lesson
 
 If no appropriate resource is found, report the search notes and state `No appropriate free simulation found`.
 
