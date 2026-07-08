@@ -1,30 +1,13 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  5,
     "lesson":  5,
     "title":  "The Sun and Earth Conditions",
-    "standards":  [
-                      "MLA.ESS.AST.05"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.COS.02"
-                         ],
-    "purpose":  "Connect Sun properties and dynamic nature to Earth conditions and events.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "The Sun and Earth Conditions",
-    "requiredVisualsModelsData":  "Sun-Earth data/model analysis",
-    "assessmentStimulusExpectation":  "NASA; NOAA Space Weather Prediction Center",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NOAA Space Weather Prediction Center: Sun",
-    "directSimulationUrl":  "https://www.swpc.noaa.gov/phenomena/solar-flares-radio-blackouts",
-    "directSimulationStudentTask":  "Click the link and use the solar flare explanation. Observe how solar activity affects Earth conditions. Record one solar event, one Earth effect, and one safety note.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.AST.05",
+    "required_visual_model_data":  "solar activity diagram and Sun-Earth effects table",
+    "direct_resource":  {
+                            "url":  "https://www.swpc.noaa.gov/phenomena/solar-flares-radio-blackouts",
+                            "title":  "NOAA Space Weather Prediction Center: Solar Flares"
+                        },
+    "rigor_status":  "layered rigorous rebuild completed"
 }

@@ -1,30 +1,13 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  2,
     "lesson":  1,
     "title":  "Earth\u0027s Layers and Interior",
-    "standards":  [
-                      "MLA.ESS.EAR.01"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.LAB.02"
-                         ],
-    "purpose":  "Describe Earth\u0027s layers and interactions among them.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Earth\u0027s Layers and Interior",
-    "requiredVisualsModelsData":  "Earth interior model analysis",
-    "assessmentStimulusExpectation":  "USGS; OpenStax Earth Science; CK-12",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "USGS Inside the Earth",
-    "directSimulationUrl":  "https://www.usgs.gov/programs/VHP/inside-earth",
-    "directSimulationStudentTask":  "Click the link and use the Earth interior explanation. Observe the layer names and structure. Record each layer, one property, and how the model helps explain Earth processes.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.EAR.01",
+    "required_visual_model_data":  "Earth layer cross-section and layer-property table",
+    "direct_resource":  {
+                            "url":  "https://www.usgs.gov/programs/VHP/inside-earth",
+                            "title":  "USGS Inside the Earth"
+                        },
+    "rigor_status":  "layered rigorous rebuild completed"
 }

@@ -1,31 +1,13 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  2,
     "lesson":  7,
     "title":  "Geologic Evidence and Earth-System Models",
-    "standards":  [
-                      "MLA.ESS.EAR.02",
-                      "MLA.ESS.EAR.04"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.LAB.03"
-                         ],
-    "purpose":  "Use evidence to connect processes, features, and models.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Geologic Evidence and Earth-System Models",
-    "requiredVisualsModelsData":  "Multi-source geologic evidence synthesis",
-    "assessmentStimulusExpectation":  "USGS; Florida Geological Survey; NOAA",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "USGS National Geologic Map Database",
-    "directSimulationUrl":  "https://ngmdb.usgs.gov/mapview/?center=-97,39.6\u0026zoom=4",
-    "directSimulationStudentTask":  "Click the link and use the geologic map viewer. Observe map colors, boundaries, and rock unit patterns. Record one pattern and explain what process or history it may represent.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.EAR.02; MLA.ESS.EAR.04",
+    "required_visual_model_data":  "geologic map, cross section, and process-feature model",
+    "direct_resource":  {
+                            "url":  "https://ngmdb.usgs.gov/mapview/?center=-97,39.6\u0026zoom=4",
+                            "title":  "USGS National Geologic Map Database"
+                        },
+    "rigor_status":  "layered rigorous rebuild completed"
 }

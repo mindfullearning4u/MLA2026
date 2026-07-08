@@ -1,30 +1,13 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  5,
     "lesson":  7,
     "title":  "Earth, Moon, and Sun Relationships",
-    "standards":  [
-                      "MLA.ESS.AST.06"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.COS.03"
-                         ],
-    "purpose":  "Apply physical principles to Earth-Moon-Sun relationships.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Earth, Moon, and Sun Relationships",
-    "requiredVisualsModelsData":  "Orbital relationship model investigation",
-    "assessmentStimulusExpectation":  "NASA; PhET gravity/orbits if appropriate; OpenStax",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "PhET Gravity and Orbits",
-    "directSimulationUrl":  "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html",
-    "directSimulationStudentTask":  "Click the link and use the model screen. Observe how mass, distance, and motion affect orbits. Record one Earth-Moon-Sun relationship, one control you changed, and what changed in the model.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.AST.06",
+    "required_visual_model_data":  "orbit model, phase/tide/eclipse relationship table, and gravity-control observations",
+    "direct_resource":  {
+                            "url":  "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html",
+                            "title":  "PhET Gravity and Orbits"
+                        },
+    "rigor_status":  "layered rigorous rebuild completed"
 }

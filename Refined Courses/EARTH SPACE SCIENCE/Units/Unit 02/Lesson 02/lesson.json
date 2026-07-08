@@ -1,30 +1,13 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  2,
     "lesson":  2,
     "title":  "Surface Features and Surface Processes",
-    "standards":  [
-                      "MLA.ESS.EAR.02"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.LAB.02"
-                         ],
-    "purpose":  "Connect surface features to formative surface processes.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Surface Features and Surface Processes",
-    "requiredVisualsModelsData":  "Landform/process evidence analysis",
-    "assessmentStimulusExpectation":  "USGS; NASA Earth Observatory; NOAA",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NASA Earth Observatory: Weathering and Erosion",
-    "directSimulationUrl":  "https://earthobservatory.nasa.gov/features/Weathering",
-    "directSimulationStudentTask":  "Click the link and use the weathering explanation. Observe how surface material changes. Record one surface feature, the process that forms or changes it, and the evidence shown on the page.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.EAR.02",
+    "required_visual_model_data":  "landform image, process diagram, and feature-process table",
+    "direct_resource":  {
+                            "url":  "https://earthobservatory.nasa.gov/features/Weathering",
+                            "title":  "NASA Earth Observatory: Weathering and Erosion"
+                        },
+    "rigor_status":  "layered rigorous rebuild completed"
 }

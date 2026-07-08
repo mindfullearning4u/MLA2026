@@ -4,7 +4,9 @@ Date: 2026-07-08
 
 ## Final Decision
 
-NOT CERTIFIED FOR STUDENT ENROLLMENT OR MOODLE TRANSFER
+SUPERSEDED - PRIOR FAILURE CORRECTED
+
+This audit captured the failure state before the slower unit-by-unit rebuild. It has been superseded by `EARTH_SPACE_SCIENCE_FINAL_LAYERED_COURSE_CERTIFICATION_AUDIT_2026-07-08.md`, after Units 01-06 were rebuilt and passed layered unit audits.
 
 This layered audit supersedes the earlier structural Moodle-transfer readiness audit. The prior audit verified file presence, XML parseability, basic question counts, direct links, and required structural elements. This layered audit evaluates instructional rigor, lesson-specific teaching depth, assessment quality, and veteran-teacher clarity.
 

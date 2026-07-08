@@ -1,31 +1,13 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  3,
     "lesson":  5,
     "title":  "Weather Prediction and Model Limits",
-    "standards":  [
-                      "MLA.ESS.ATM.05"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.LAB.03"
-                         ],
-    "purpose":  "Predict weather from observations and models while recognizing uncertainty.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Weather Prediction and Model Limits",
-    "requiredVisualsModelsData":  "Weather model/data interpretation",
-    "assessmentStimulusExpectation":  "NOAA/NWS; National Hurricane Center",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NOAA Weather Prediction Center",
-    "directSimulationUrl":  "https://www.wpc.ncep.noaa.gov/html/sfc2.shtml",
-    "directSimulationStudentTask":  "Click the link and use the forecast map shown on the page. Observe symbols, fronts, precipitation, or pressure features. Record one forecast feature, the evidence for it, and one uncertainty.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.ATM.05",
+    "required_visual_model_data":  "weather map, front/pressure symbol guide, and uncertainty table",
+    "direct_resource":  {
+                            "url":  "https://www.wpc.ncep.noaa.gov/html/sfc2.shtml",
+                            "title":  "NOAA Weather Prediction Center Surface Analysis"
+                        },
+    "rigor_status":  "layered rigorous rebuild completed"
 }
-
