@@ -140,7 +140,7 @@ No required corrections remain after architecture validation.
 | Marine laboratory expectations represented | PASS |
 | Virtual laboratory expectations represented | PASS |
 | Marine data, maps, models, water-quality evidence, monitoring data, and exploration tools represented | PASS |
-| Lesson-level candidate resource locations identified for approval | PASS |
+| Lesson-level direct resource requirements identified | PASS |
 | Lesson-level assessment stimulus needs identified | PASS |
 | No lesson content created | PASS |
 | No assessment content created | PASS |
@@ -207,4 +207,4 @@ The updated science architecture re-audit added a mandatory companion map:
 
 - `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
 
-This file must be used by future Marine Science lesson developers, assessment developers, unit auditors, final course auditors, Moodle XML developers, and Moodle transfer agents. It documents official source controls, Florida B.E.S.T. support boundaries, Common Core support boundaries, ACT/SAT readiness support, ELD support boundaries, lab/data requirements, simulation review requirements, required visuals, candidate resource locations, safety controls, and assessment stimulus requirements.
+This file must be used by future Marine Science lesson developers, assessment developers, unit auditors, final course auditors, Moodle XML developers, and Moodle transfer agents. It documents official source controls, Florida B.E.S.T. support boundaries, Common Core support boundaries, ACT/SAT readiness support, ELD support boundaries, lab/data requirements, simulation review requirements, required visuals, direct resource requirements, safety controls, and assessment stimulus requirements.

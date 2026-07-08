@@ -10,7 +10,7 @@ The mapping framework must be used with:
 
 - `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
 
-That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level marine labs, field-data practices, maps, graphs, bathymetry, water-quality data, food webs, population models, coastal models, technology diagrams, simulation review, safety controls, resource approval checks, and assessment stimulus requirements.
+That companion matrix is required before lesson development, assessment development, Moodle XML production, or Moodle transfer. It controls lesson-level marine labs, field-data practices, maps, graphs, bathymetry, water-quality data, food webs, population models, coastal models, technology diagrams, simulation review, safety controls, direct resource requirements, and assessment stimulus requirements.
 
 ## Mapping Philosophy
 

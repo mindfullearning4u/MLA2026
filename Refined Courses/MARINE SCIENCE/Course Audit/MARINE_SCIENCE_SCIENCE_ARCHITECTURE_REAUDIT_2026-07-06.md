@@ -6,7 +6,7 @@ Course number: `2002500`
 
 ## Purpose
 
-This audit applies the updated MLA science architecture requirements for official source provenance, lab planning, simulation review, visual planning, assessment stimulus planning, safety controls, and candidate resource identification.
+This audit applies the updated MLA science architecture requirements for official source provenance, lab planning, simulation review, visual planning, assessment stimulus planning, safety controls, and direct resource identification.
 
 ## Files Reviewed
 
@@ -41,7 +41,7 @@ This audit applies the updated MLA science architecture requirements for officia
 
 | Finding | Severity | Correction |
 |---|---|---|
-| Marine Science already had lab and data-source matrices, but they did not fully match the newer standardized science gate requiring official source controls, candidate resource locations, and explicit assessment stimuli. | Medium | Created `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` using the existing matrices and the lesson map as source. |
+| Marine Science already had lab and data-source matrices, but they did not fully match the newer standardized science gate requiring official source controls, direct resource requirements, and explicit assessment stimuli. | Medium | Created `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md` using the existing matrices and the lesson map as source. |
 | The mapping framework, unit map, and lesson map could be read without the stricter lab/visual/simulation matrix. | High | Updated those files to require the companion matrix before lesson, assessment, Moodle XML, or Moodle transfer work. |
 | Safety constraints needed to be explicit because Marine Science can involve water collection, fieldwork, live organisms, glassware, water-quality testing, pollutants, shoreline visits, boating, diving, and equipment use. | High | Added safety controls that default to virtual labs, simulations, public data, maps, models, images, videos, teacher-provided data, or TOR/school-approved activities. |
 | Lesson-level assessment stimulus needs were not locked in a single production gate. | High | Added lesson-by-lesson assessment stimulus requirements for all 48 lessons. |
@@ -59,9 +59,9 @@ This audit applies the updated MLA science architecture requirements for officia
 | Unit-level assessment stimulus needs captured | PASS |
 | Lesson-level lab/data/investigation needs captured | PASS |
 | Lesson-level visuals/models/data displays captured | PASS |
-| Lesson-level candidate resource locations captured for approval | PASS |
+| Lesson-level direct resource requirements captured | PASS |
 | Lesson-level assessment stimulus needs captured | PASS |
-| Resource approval controls documented | PASS |
+| Direct resource controls documented | PASS |
 | Science lab standard referenced | PASS |
 
 ## Production Gate
@@ -89,7 +89,7 @@ This architecture re-audit does not certify:
 - final assessment XML
 - Moodle question-bank import
 - Moodle course transfer
-- external simulation/resource approval
+- external simulation/resource verification
 
 Assessments must use Moodle XML only and must embed every required stimulus directly in the question.
 

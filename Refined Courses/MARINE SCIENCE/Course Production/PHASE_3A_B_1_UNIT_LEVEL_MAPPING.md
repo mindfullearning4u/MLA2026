@@ -8,7 +8,7 @@ This document maps MLA Marine Science standards to six units. It identifies prim
 
 The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
 
-No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required marine labs, field-data practices, simulations, visuals, data displays, safety controls, candidate resources, and assessment stimuli from the companion matrix are represented.
+No unit may be certified for lesson production, assessment production, Moodle XML production, or Moodle transfer unless required marine labs, field-data practices, simulations, visuals, data displays, safety controls, direct resources, and assessment stimuli from the companion matrix are represented.
 
 ## Unit-Level Mapping
 
