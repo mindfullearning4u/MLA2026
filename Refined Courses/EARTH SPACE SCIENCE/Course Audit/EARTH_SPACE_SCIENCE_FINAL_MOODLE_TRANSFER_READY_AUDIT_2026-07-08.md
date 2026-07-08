@@ -4,9 +4,9 @@ Date: 2026-07-08
 
 ## Decision
 
-CERTIFIED
+SUPERSEDED - NOT FINAL
 
-Earth Space Science is ready for Moodle transfer after full course build, correction, and audit.
+This structural audit was superseded by `EARTH_SPACE_SCIENCE_LAYERED_RIGOR_AUDIT_2026-07-08.md`. The layered audit found that the course is structurally complete but not yet rigorous enough for student enrollment or Moodle transfer.
 
 ## Audit Scope
 
