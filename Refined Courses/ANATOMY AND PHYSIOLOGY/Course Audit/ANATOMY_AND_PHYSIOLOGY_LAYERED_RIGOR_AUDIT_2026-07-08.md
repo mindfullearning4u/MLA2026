@@ -4,9 +4,21 @@ Date: 2026-07-08
 
 ## Final Decision
 
-NOT CERTIFIED FOR STUDENT ENROLLMENT OR MOODLE TRANSFER
+SUPERSEDED - PRIOR FAILURE CORRECTED
 
-This layered audit supersedes the earlier structural Moodle-transfer readiness audit. The prior audit verified file presence, XML parseability, basic question counts, direct links, and required structural elements. This layered audit evaluates instructional rigor, lesson-specific teaching depth, assessment quality, anatomy/physiology visual specificity, and veteran-teacher clarity.
+This audit documented the failure condition found before the July 8 rigorous rebuild. It is retained as an evidence trail, but it no longer represents the current state of the course.
+
+Current controlling certification file:
+
+- `ANATOMY_AND_PHYSIOLOGY_FINAL_MOODLE_TRANSFER_READY_AUDIT_2026-07-08.md`
+
+Correction completed after this failure audit:
+
+- Units 01-06 rebuilt with lesson-specific anatomy and physiology teaching profiles.
+- P02-P04 now include step-by-step body-system, process, diagram, model, graph, or case-data reasoning tied to the mapped lesson standard.
+- Required lab/model/data resources remain direct links and include step-by-step student directions for what to open, observe, record, and use.
+- Moodle XML assessments were regenerated with lesson-specific scenarios, content-specific answer choices, exactly four choices, exactly one correct answer, and teachable feedback.
+- Validation now rejects the prior generic XML wording, duplicate answer choices, duplicate stems, missing standards, invalid XML, and prohibited resource/teacher-language patterns.
 
 ## Audit Layers
 
@@ -52,4 +64,4 @@ This layered audit supersedes the earlier structural Moodle-transfer readiness a
 
 ## Final Statement
 
-Anatomy and Physiology is structurally built but not yet rigorous enough for student enrollment. It must go through slower unit-by-unit instructional redevelopment and assessment redevelopment before Moodle transfer.
+This file records the original failure condition. The current course status is controlled by the final Moodle transfer ready audit, which reports zero validation failures after the rigorous rebuild.
