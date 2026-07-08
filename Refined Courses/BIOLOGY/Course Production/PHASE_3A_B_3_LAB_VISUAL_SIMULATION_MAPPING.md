@@ -4,7 +4,7 @@
 
 This document closes the science architecture gap for Biology before lesson or assessment revision begins. It identifies, at the unit and lesson level, where labs, data investigations, simulations, visuals, models, diagrams, tables, graphs, safety notes, candidate resources, and assessment stimuli must be planned.
 
-This is architecture only. It does not insert links into lessons, approve third-party resources, create student-facing lesson content, create Moodle XML, create HTML, or replace final human approval.
+This is architecture and source-of-truth planning. Under the current MLA science direct-link standard, free, student-safe, directly aligned resources from trusted sources may be inserted into lesson files without separate approval. Resources that require login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment still require approval before insertion.
 
 ## Official Source Control
 
@@ -94,12 +94,12 @@ If a lesson below identifies a required visual, data display, model, investigati
 | 6 | 07 | Environmental Monitoring and Policy Decisions | Monitoring data and policy evidence analysis | Monitoring map; water/air/land data table; policy evidence organizer | EPA; NOAA; USGS; NASA; state/local public data sources | Monitoring data table/map |
 | 6 | 08 | Putting It All Together | Unit synthesis across ecosystems, populations, food webs, biodiversity, resources, and monitoring | Mixed stimuli: map, food web, population graph, biodiversity data, resource table | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
 
-## Resource Approval Controls
+## Resource Direct-Link Controls
 
-- Candidate resources are not automatically approved for embedding.
-- The resource auditor must verify each candidate is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
-- The main agent must ask for user approval before inserting external links into lesson files.
-- If a resource requires login, payment, special hardware, mature content, unsafe activity, or non-public access, reject it unless explicitly approved.
+- Free, student-safe, directly aligned resources from trusted sources must be inserted as exact direct links when they support the mapped lesson.
+- The resource auditor must verify each resource is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
+- Students must receive the exact direct activity/resource URL. Do not provide only a provider homepage, search page, or vague instruction to search for a resource.
+- The main agent asks for user approval only when a resource requires login, payment, special hardware, mature content, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
 - Lessons must include all required context, data, passage text, diagrams, or instructions directly in the lesson or Moodle XML item. Students must not be forced to hunt elsewhere to understand the task.
 
 ## Architecture Validation
