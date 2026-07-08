@@ -1,10 +1,10 @@
-# Environmental Science Phase 3A-B-3: Lab, Visual, Simulation, and Resource Mapping
+﻿# Environmental Science Phase 3A-B-3: Lab, Visual, Simulation, and Resource Mapping
 
 ## Purpose
 
-This document standardizes the Environmental Science lab, visual, simulation, resource, and assessment-stimulus map under the updated MLA science architecture requirements. It extends the existing `ENV_LAB_AND_VIRTUAL_LAB_MATRIX.md` and `ENV_TEXT_AND_DATA_SOURCE_MATRIX.md` by adding official source controls, candidate resource locations, assessment stimulus requirements, and production gates.
+This document standardizes the Environmental Science lab, visual, simulation, resource, and assessment-stimulus map under the updated MLA science architecture requirements. It extends the existing `ENV_LAB_AND_VIRTUAL_LAB_MATRIX.md` and `ENV_TEXT_AND_DATA_SOURCE_MATRIX.md` by adding official source controls, direct resource links, required student action directions, assessment stimulus requirements, and production gates.
 
-This is architecture only. It does not insert links into lessons, approve third-party resources, create student-facing lesson content, create Moodle XML, create HTML, or replace final human approval.
+This is a production source of truth. Lessons must include exact direct links for required simulations, models, labs, data sources, and visuals. Each link must include step-by-step student directions for what to click, observe, record, and submit after opening the link.
 
 ## Official Source Control
 
@@ -46,7 +46,7 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 
 ## Lesson-Level Lab, Visual, Simulation, and Resource Matrix
 
-| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Candidate Resource Location for Approval | Assessment Stimulus Needed |
+| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Required Direct Resource Location | Assessment Stimulus Needed |
 |---|---:|---|---|---|---|---|
 | 1 | 01 | Environmental Science as Evidence | Evidence/source classification using environmental claims and data | Claim-evidence-reasoning organizer; source/evidence table | CPALMS resources; EPA; NOAA; USGS | Environmental claim/source excerpt |
 | 1 | 02 | Lab Safety and Environmental Monitoring | Monitoring safety and procedure scenario analysis | Safety scenario; monitoring procedure diagram; field-data table | CPALMS resources; EPA monitoring resources; NOAA/USGS field data examples | Safety/monitoring scenario |
@@ -55,7 +55,7 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 | 1 | 05 | Science, Non-Science, and Environmental Claims | Scientific vs non-scientific claim evaluation | Claim sorting chart; source reliability checklist | CPALMS; EPA; NOAA; public agency source examples | Claims/source reliability stimulus |
 | 1 | 06 | Environmental Decisions and Society | Environmental decision case analysis | Decision matrix; evidence tradeoff chart | EPA; NOAA; local/state environmental agencies | Decision scenario with evidence table |
 | 1 | 07 | Environmental Investigation Design | Investigation design using environmental data | Variables/control table; method/evidence organizer | EPA/USGS/NOAA data sets; CPALMS resources | Investigation scenario and variables table |
-| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, monitoring, data, models, and decisions | Mixed stimuli: source excerpt, safety scenario, data table, graph, map, model | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, monitoring, data, models, and decisions | Mixed stimuli: source excerpt, safety scenario, data table, graph, map, model | Use direct resources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 2 | 01 | Ecosystem Change and Succession | Ecosystem change and succession data/model analysis | Succession sequence diagram; ecosystem change graph | HHMI BioInteractive; CK-12; CPALMS; National Geographic Education | Succession model or ecosystem data |
 | 2 | 02 | Freshwater, Marine, and Terrestrial Systems | Biotic/abiotic system classification investigation | Habitat diagram; biotic/abiotic table; ecosystem map | NOAA; USGS; EPA; CPALMS | Habitat/system classification stimulus |
 | 2 | 03 | Relationships Among Organisms | Species interaction model analysis | Interaction table; predator-prey/parasitism/mutualism examples | HHMI BioInteractive; CK-12; CPALMS; public ecology resources | Species interaction scenario/table |
@@ -63,7 +63,7 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 | 2 | 05 | Energy Transfer and Conservation in Ecosystems | Energy transfer model and conservation analysis | Energy pyramid; energy-flow diagram; percent-transfer table | CK-12; HHMI; OpenStax Biology; CPALMS | Energy pyramid/data table |
 | 2 | 06 | Biodiversity, Speciation, and Extinction | Biodiversity data and extinction evidence analysis | Biodiversity index table; species graph; extinction trend chart | HHMI BioInteractive; IUCN public summaries; Smithsonian; CPALMS | Biodiversity/extinction data stimulus |
 | 2 | 07 | Invasive Species and Biodiversity Loss | Invasive species case and spread model analysis | Invasive spread map; impact table; biodiversity comparison graph | USDA/USGS invasive species resources; Florida Fish and Wildlife; CPALMS | Invasive species case map/data |
-| 2 | 08 | Putting It All Together | Unit synthesis across ecosystems, relationships, food webs, energy, biodiversity, and invasive species | Mixed stimuli: ecosystem diagram, food web, graph, interaction table, invasive map | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 2 | 08 | Putting It All Together | Unit synthesis across ecosystems, relationships, food webs, energy, biodiversity, and invasive species | Mixed stimuli: ecosystem diagram, food web, graph, interaction table, invasive map | Use direct resources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 3 | 01 | Population Characteristics | Population structure data analysis | Population pyramid; density/distribution map; demographic table | Census data; EPA; CK-12; CPALMS | Population pyramid/map/table |
 | 3 | 02 | Births, Deaths, Immigration, and Emigration | Population change factor analysis | Birth/death/immigration/emigration table; line graph | Census; Gapminder; CK-12; CPALMS | Population change data table/graph |
 | 3 | 03 | Limiting Factors and Carrying Capacity | Carrying capacity model investigation | Carrying-capacity graph; limiting factor table | PhET/Concord where applicable; CK-12; HHMI; CPALMS | Carrying-capacity graph/model |
@@ -71,7 +71,7 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 | 3 | 05 | Environmental Factors and Public Health | Environmental health relationship case analysis | Exposure pathway diagram; health/environment table | CDC; EPA; CPALMS; Florida Department of Health | Environmental health case data |
 | 3 | 06 | Pathogens, Heredity, and Environmental Quality | Public health/environment model analysis | Pathogen transmission diagram; environment-health data table | CDC; EPA; CPALMS; Florida Department of Health | Public health/environment scenario |
 | 3 | 07 | Population Impact Case Analysis | Population/resource impact case using data | Case data table; impact graph; CER organizer | EPA; NOAA; USGS; CPALMS | Population impact case data |
-| 3 | 08 | Putting It All Together | Unit synthesis across population structure, dynamics, carrying capacity, human impact, and health | Mixed stimuli: population graph, carrying-capacity model, resource table, health case | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 3 | 08 | Putting It All Together | Unit synthesis across population structure, dynamics, carrying capacity, human impact, and health | Mixed stimuli: population graph, carrying-capacity model, resource table, health case | Use direct resources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 4 | 01 | Renewable and Nonrenewable Resources | Resource comparison and tradeoff investigation | Renewable/nonrenewable comparison table; resource map | EIA; EPA; USGS; CPALMS | Resource comparison stimulus |
 | 4 | 02 | Resource Production, Use, and Renewal | Resource-rate and availability analysis | Renewal-rate graph; use/production data table | EIA; USGS; EPA; CPALMS | Resource-rate table/graph |
 | 4 | 03 | Energy Production Technologies | Energy technology impact case analysis | Energy technology diagram; impact comparison chart | EIA; EPA; NREL; CPALMS | Energy technology data/comparison |
@@ -79,7 +79,7 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 | 4 | 05 | Sustainable Land Use | Land-use map and planning scenario analysis | Land-use map; stakeholder tradeoff table | EPA; USGS land cover; Florida agencies; CPALMS | Land-use map/scenario |
 | 4 | 06 | Resource Management Case Study | Resource management decision case analysis | Cost-benefit table; management decision matrix | EPA; USGS; state resource agencies; CPALMS | Management case data |
 | 4 | 07 | Energy and Resource Decision-Making | Energy/resource decision evidence analysis | Decision matrix; resource-impact graph | EIA; EPA; NREL; CPALMS | Energy/resource decision stimulus |
-| 4 | 08 | Putting It All Together | Unit synthesis across resources, availability, energy technologies, land use, and management | Mixed stimuli: resource map, rate graph, technology chart, land-use scenario | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 4 | 08 | Putting It All Together | Unit synthesis across resources, availability, energy technologies, land use, and management | Mixed stimuli: resource map, rate graph, technology chart, land-use scenario | Use direct resources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 5 | 01 | Climate Change Conditions | Climate condition data analysis | Climate graph; forcing/condition diagram; trend table | NOAA Climate.gov; NASA Earth Observatory; EPA Climate Indicators | Climate graph/data stimulus |
 | 5 | 02 | Oceans, Atmosphere, Hydrology, and Florida | Florida ocean/atmosphere/hydrology case analysis | Florida map; ocean-atmosphere diagram; hydrology data graph | NOAA; NASA; Florida Climate Center; USGS | Florida systems map/data |
 | 5 | 03 | Pollution from Human Activity | Pollution impact data/model analysis | Pollution source pathway diagram; runoff/water/air data table | EPA; NOAA; USGS; CPALMS | Pollution data/model stimulus |
@@ -87,7 +87,7 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 | 5 | 05 | Technology and Environmental Quality | Technology impact model and case analysis | Technology impact chart; benefit/risk table | EPA; DOE/NREL; CPALMS; public agency reports | Technology impact stimulus |
 | 5 | 06 | Biotechnology and Environmental Decisions | Biotechnology/environment case evaluation | Biotechnology process diagram; risk/benefit table | HHMI; NIH/NHGRI; EPA; CPALMS | Biotechnology decision case |
 | 5 | 07 | Pollution and Climate Case Analysis | Pollution/climate monitoring case synthesis | Monitoring data table; climate/pollution graph; CER organizer | EPA; NOAA; NASA; USGS | Pollution/climate case data |
-| 5 | 08 | Putting It All Together | Unit synthesis across climate, Florida systems, pollution, waste, technology, and biotechnology | Mixed stimuli: climate graph, Florida map, pollution data, waste scenario, technology chart | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 5 | 08 | Putting It All Together | Unit synthesis across climate, Florida systems, pollution, waste, technology, and biotechnology | Mixed stimuli: climate graph, Florida map, pollution data, waste scenario, technology chart | Use direct resources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 6 | 01 | Environmental Monitoring and Policy | Monitoring report and policy decision analysis | Monitoring report excerpt; policy evidence table | EPA; NOAA; state environmental agencies; CPALMS | Monitoring/policy report stimulus |
 | 6 | 02 | Individual Impacts and Lifestyles | Sustainability footprint model analysis | Lifestyle impact chart; sustainability data table | EPA; NOAA; Project Drawdown if approved; CPALMS | Lifestyle/sustainability data |
 | 6 | 03 | Evidence-Based Environmental Decisions | Evidence-based decision argument investigation | Decision matrix; CER organizer; evidence table | EPA; NOAA; USGS; CPALMS | Decision argument scenario |
@@ -95,15 +95,16 @@ If a lesson below identifies a required visual, map, graph, data table, food web
 | 6 | 05 | Sustainability Solutions | Sustainability solution model evaluation | Solution comparison table; future impact graph | EPA; NOAA; United Nations resources only if approved; CPALMS | Sustainability solution stimulus |
 | 6 | 06 | Policy Tradeoffs and Environmental Justice | Policy tradeoff and environmental justice scenario analysis | Stakeholder map; tradeoff matrix; equity/evidence table | EPA EJScreen if approved; state/local public data; CPALMS | Policy tradeoff scenario |
 | 6 | 07 | Future Environmental Systems | Future systems evidence and solution analysis | Future scenario graph; systems model; monitoring trend table | NOAA; NASA; EPA; USGS; CPALMS | Future systems data/model |
-| 6 | 08 | Putting It All Together | Unit synthesis across monitoring, policy, sustainability, conservation, tradeoffs, and future systems | Mixed stimuli: monitoring report, policy matrix, sustainability chart, conservation map, future graph | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 6 | 08 | Putting It All Together | Unit synthesis across monitoring, policy, sustainability, conservation, tradeoffs, and future systems | Mixed stimuli: monitoring report, policy matrix, sustainability chart, conservation map, future graph | Use direct resources from Lessons 1-7 only | Unit-level mixed stimuli |
 
-## Resource Approval Controls
+## Direct Resource Controls
 
-- Candidate resources are not automatically approved for embedding.
-- The resource auditor must verify each candidate is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
-- The main agent must ask for user approval before inserting external links into lesson files.
-- If a resource requires login, payment, special hardware, unsafe activity, mature content, or non-public access, reject it unless explicitly approved.
+- Required simulations, labs, models, data pages, visuals, and external learning resources must be inserted directly into the applicable lesson page.
+- Each required resource must use an exact direct URL. Do not send students to a homepage, collection page, or vague provider location when a direct lesson/resource page is available.
+- No student may be required to perform site lookup, move through unrelated provider pages, choose among unrelated resources, guess where to click, or navigate a provider site to find the assigned simulation, model, data source, visual, or case evidence.
+- Every linked resource block must include step-by-step student directions that state what to open, what to click or observe, what evidence to record, and how the evidence will be used in the notebook task, guided practice, checkpoint, or assessment.
 - Lessons must include all required context, data, maps, diagrams, models, tables, source excerpts, or instructions directly in the lesson or Moodle XML item. Students must not be forced to hunt elsewhere to understand the task.
+- The Teacher of Record is positioned as a support resource for clarification, feedback, and reassessment guidance, not as the primary instructor delivering the lesson.
 
 ## Safety Controls
 
@@ -127,10 +128,13 @@ Do not require students to handle pollutants, collect unknown water/soil/biologi
 | Unit-level visual/model/data-display requirements mapped | PASS |
 | Lesson-level lab/data/investigation requirements mapped | PASS |
 | Lesson-level simulation/virtual lab review needs mapped | PASS |
-| Candidate resource locations listed for approval | PASS |
+| Required direct resource locations and step-by-step directions required | PASS |
 | Assessment stimulus needs identified | PASS |
-| Lesson production still blocked until this matrix is used by lesson developers | PASS |
+| Lesson production requires this matrix as the source of truth | PASS |
 
 ## Final Decision
 
 Environmental Science architecture is approved to proceed to lesson and assessment audit only after all future Environmental Science agents use this file as a required source of truth.
+
+
+
