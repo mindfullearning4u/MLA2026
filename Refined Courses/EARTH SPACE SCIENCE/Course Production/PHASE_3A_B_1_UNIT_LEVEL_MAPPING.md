@@ -1,10 +1,10 @@
-# Earth/Space Science Phase 3A-B-1: Unit-Level Mapping
+﻿# Earth/Space Science Phase 3A-B-1: Unit-Level Mapping
 
 ## Required Companion Mapping
 
 The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
 
-That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, maps, models, diagrams, data displays, safety notes, candidate resource locations, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
+That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, maps, models, diagrams, data displays, safety notes, required direct resource locations, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
 
 ## Unit Mapping Detail
 
@@ -40,3 +40,4 @@ That companion file identifies the required labs, investigations, simulations, v
 | HIS | Unit 4 |
 | AST | Unit 5 |
 | COS | Unit 6 |
+

@@ -1,4 +1,4 @@
-# Earth/Space Science Phase 3A-A: Mapping Framework
+﻿# Earth/Space Science Phase 3A-A: Mapping Framework
 
 ## Mapping Rules
 
@@ -48,6 +48,7 @@ The controlling Earth/Space Science lab, visual, simulation, and resource matrix
 
 - `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`
 
-Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, map, graph, model, data table, cross section, weather map, climate graph, astronomical diagram, lab, investigation, simulation review, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
+Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, map, graph, model, data table, cross section, weather map, climate graph, astronomical diagram, lab, investigation, simulation review, safety note, required direct resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
 
-Candidate resources are suggestions for approval only. External resources must not be embedded into lessons until approved.
+Trusted free science resources must be inserted as exact direct links with adjacent step-by-step student directions. Owner review is required only for resources with login, payment, unsafe activity, questionable source quality, special hardware, non-public access, mature content, or uncertain alignment.
+

@@ -1,8 +1,8 @@
-# Earth/Space Science Phase 3A-B-3: Lab, Visual, Simulation, and Resource Mapping
+﻿# Earth/Space Science Phase 3A-B-3: Lab, Visual, Simulation, and Resource Mapping
 
 ## Purpose
 
-This document standardizes the Earth/Space Science lab, visual, simulation, resource, and assessment-stimulus map under the updated MLA science architecture requirements. It extends the existing `ESS_LAB_AND_VIRTUAL_LAB_MATRIX.md` and `ESS_TEXT_AND_DATA_SOURCE_MATRIX.md` by adding official source controls, candidate resource locations, assessment stimulus requirements, and production gates.
+This document standardizes the Earth/Space Science lab, visual, simulation, resource, and assessment-stimulus map under the updated MLA science architecture requirements. It extends the existing `ESS_LAB_AND_VIRTUAL_LAB_MATRIX.md` and `ESS_TEXT_AND_DATA_SOURCE_MATRIX.md` by adding official source controls, required direct resource locations, assessment stimulus requirements, and production gates.
 
 This is architecture only. It does not insert links into lessons, approve third-party resources, create student-facing lesson content, create Moodle XML, create HTML, or replace final human approval.
 
@@ -45,7 +45,7 @@ If a lesson below identifies a required visual, map, data display, model, cross 
 
 ## Lesson-Level Lab, Visual, Simulation, and Resource Matrix
 
-| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Candidate Resource Location for Approval | Assessment Stimulus Needed |
+| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Required Direct Resource Source or Location | Assessment Stimulus Needed |
 |---|---:|---|---|---|---|---|
 | 1 | 01 | Earth/Space Science as Evidence | Evidence/source classification using Earth/space claims and data | CER organizer; source/evidence table | CPALMS resources; NASA; NOAA; USGS | Evidence/source excerpt or claim table |
 | 1 | 02 | Lab Safety, Field Data, and Measurement | Safety and field-data scenario analysis | Safety scenario; field-data table; measurement diagram | CPALMS resources; NOAA/USGS field data examples | Safety/field-data scenario |
@@ -96,12 +96,14 @@ If a lesson below identifies a required visual, map, data display, model, cross 
 | 6 | 07 | Earth-Space Systems and Scientific Decisions | Applied Earth-space decision evidence analysis | Decision matrix; source reliability table; technology/system data | NASA; NOAA; USGS; Space Florida | Decision/source/data stimulus |
 | 6 | 08 | Putting It All Together | Unit synthesis across space exploration, EM evidence, radiation, waves, technologies, energy, motion, gravity, and applied systems | Mixed stimuli: EM chart, satellite data, magnetic/technology model, orbit data, source excerpt | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
 
-## Resource Approval Controls
+## Direct Resource Controls
 
-- Candidate resources are not automatically approved for embedding.
-- The resource auditor must verify each candidate is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
-- The main agent must ask for user approval before inserting external links into lesson files.
-- If a resource requires login, payment, special hardware, unsafe activity, mature content, or non-public access, reject it unless explicitly approved.
+- Earth/Space Science is a science lab course. Free, student-safe, directly aligned simulations, virtual labs, public data sets, maps, models, and trusted agency resources must be inserted directly into the lesson where students need them.
+- The resource auditor must verify each resource is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
+- The agent does not need to ask again before inserting a free, trusted, directly aligned science resource from NASA, NOAA, USGS, OpenStax, PhET, CK-12, HHMI, Concord Consortium, official universities, public education agencies, or official science organizations.
+- Require owner review only when the resource requires login, payment, special hardware, unsafe activity, mature content, non-public access, questionable source quality, or uncertain alignment.
+- Use the exact direct clickable URL for the specific activity, simulation, data set, map, article, model, or resource. Non-specific provider pages and vague directions that require students to locate or select a different activity are not acceptable when a direct resource exists.
+- Every inserted resource must include adjacent student-facing directions that tell the student what to click/open, what section/control/data/model to use, what to observe, what evidence to record, and how the evidence connects to the lesson standard.
 - Lessons must include all required context, data, maps, diagrams, models, tables, source excerpts, or instructions directly in the lesson or Moodle XML item. Students must not be forced to hunt elsewhere to understand the task.
 
 ## Safety Controls
@@ -125,10 +127,13 @@ Do not require students to observe severe weather, view the Sun directly, handle
 | Unit-level visual/model/data-display requirements mapped | PASS |
 | Lesson-level lab/data/investigation requirements mapped | PASS |
 | Lesson-level simulation/virtual lab review needs mapped | PASS |
-| Candidate resource locations listed for approval | PASS |
+| Required direct resource locations listed | PASS |
 | Assessment stimulus needs identified | PASS |
 | Lesson production still blocked until this matrix is used by lesson developers | PASS |
 
 ## Final Decision
 
 Earth/Space Science architecture is approved to proceed to lesson and assessment audit only after all future Earth/Space Science agents use this file as a required source of truth.
+
+
+
