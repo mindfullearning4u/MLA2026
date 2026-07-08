@@ -1,32 +1,24 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  1,
     "lesson":  1,
     "title":  "Earth/Space Science as Evidence",
-    "standards":  [
-                      "MLA.ESS.SCI.01",
-                      "MLA.ESS.SCI.02"
-                  ],
-    "supportStandards":  [
-                             "ELA.K12.EE.1.1",
-                             "ELA.K12.EE.2.1"
-                         ],
-    "purpose":  "Establish inquiry, evidence, and reliable sources.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Earth/Space Science as Evidence",
-    "requiredVisualsModelsData":  "Evidence/source classification using Earth/space claims and data",
-    "assessmentStimulusExpectation":  "CPALMS resources; NASA; NOAA; USGS",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NASA Earth Observatory: A Walk Through Time",
-    "directSimulationUrl":  "https://earthobservatory.nasa.gov/features/BlueMarble",
-    "directSimulationStudentTask":  "Click the link and use the image and caption as the evidence source. Observe what the image shows about Earth as a system. Record one observation, one inference, one source detail, and one claim the evidence can support.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.SCI.01; MLA.ESS.SCI.02",
+    "required_visual_model_data":  "CER organizer, source reliability checklist, and Earth image evidence table",
+    "direct_resource":  {
+                            "record":  "one direct observation, one inference, one source detail, and one claim that the evidence can support",
+                            "title":  "NASA Earth Observatory: A Walk Through Time",
+                            "url":  "https://earthobservatory.nasa.gov/features/BlueMarble",
+                            "observe":  "the image caption, source organization, and what can be directly seen versus inferred"
+                        },
+    "pages":  [
+                  "P01.html",
+                  "P02.html",
+                  "P03.html",
+                  "P04.html",
+                  "P05.html",
+                  "P06.html",
+                  "P07.html"
+              ],
+    "rigor_status":  "Unit 1 rigorous rebuild completed"
 }

@@ -1,31 +1,24 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  1,
     "lesson":  7,
     "title":  "Earth Systems Investigation Design",
-    "standards":  [
-                      "MLA.ESS.SCI.01",
-                      "MLA.ESS.LAB.03"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.ATM.03"
-                         ],
-    "purpose":  "Plan investigations and evaluate Earth-system data.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Earth Systems Investigation Design",
-    "requiredVisualsModelsData":  "Investigation design using Earth-system data",
-    "assessmentStimulusExpectation":  "NOAA/USGS data sets; NASA Earth observations",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NOAA National Centers for Environmental Information",
-    "directSimulationUrl":  "https://www.ncei.noaa.gov/access/monitoring/monthly-report/",
-    "directSimulationStudentTask":  "Click the link and use the monthly report page as a data source. Observe the displayed climate summary structure. Record the variable, time period, evidence source, and one investigation question that could be answered with the data.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.SCI.01; MLA.ESS.LAB.03",
+    "required_visual_model_data":  "investigation question planner, variables table, evidence-quality checklist, and data-source record",
+    "direct_resource":  {
+                            "record":  "one investigation question, independent variable, dependent variable, controlled condition, data source, and evidence limitation",
+                            "title":  "NOAA National Centers for Environmental Information",
+                            "url":  "https://www.ncei.noaa.gov/access/monitoring/monthly-report/",
+                            "observe":  "how official climate summaries organize variable, location, time period, and source information"
+                        },
+    "pages":  [
+                  "P01.html",
+                  "P02.html",
+                  "P03.html",
+                  "P04.html",
+                  "P05.html",
+                  "P06.html",
+                  "P07.html"
+              ],
+    "rigor_status":  "Unit 1 rigorous rebuild completed"
 }

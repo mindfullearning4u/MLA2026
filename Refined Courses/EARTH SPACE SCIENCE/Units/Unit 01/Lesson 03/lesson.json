@@ -1,31 +1,24 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  1,
     "lesson":  3,
     "title":  "Maps, Graphs, Models, and Scale",
-    "standards":  [
-                      "MLA.ESS.LAB.02"
-                  ],
-    "supportStandards":  [
-                             "MA.K12.MTR.2.1",
-                             "MA.K12.MTR.5.1"
-                         ],
-    "purpose":  "Use representations to describe Earth/space evidence.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Maps, Graphs, Models, and Scale",
-    "requiredVisualsModelsData":  "Map/graph/model interpretation investigation",
-    "assessmentStimulusExpectation":  "USGS maps; NOAA data tools; NASA visualizations",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "USGS Topographic Maps",
-    "directSimulationUrl":  "https://www.usgs.gov/programs/national-geospatial-program/topographic-maps",
-    "directSimulationStudentTask":  "Click the link and use the topographic map explanation. Observe the map symbols, scale, and elevation evidence. Record what a map scale tells you, what contour information shows, and how the representation supports Earth science reasoning.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.LAB.02",
+    "required_visual_model_data":  "map legend, scale bar, graph axes, and simplified model comparison",
+    "direct_resource":  {
+                            "record":  "what a legend explains, what a scale bar does, what contour or elevation information means, and one model limitation",
+                            "title":  "USGS Topographic Maps",
+                            "url":  "https://www.usgs.gov/programs/national-geospatial-program/topographic-maps",
+                            "observe":  "the way map symbols, scale, and elevation evidence represent real locations"
+                        },
+    "pages":  [
+                  "P01.html",
+                  "P02.html",
+                  "P03.html",
+                  "P04.html",
+                  "P05.html",
+                  "P06.html",
+                  "P07.html"
+              ],
+    "rigor_status":  "Unit 1 rigorous rebuild completed"
 }

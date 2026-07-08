@@ -1,36 +1,24 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  1,
     "lesson":  8,
     "title":  "Putting It All Together",
-    "standards":  [
-                      "MLA.ESS.SCI.01",
-                      "MLA.ESS.SCI.02",
-                      "MLA.ESS.SCI.03",
-                      "MLA.ESS.LAB.01",
-                      "MLA.ESS.LAB.02",
-                      "MLA.ESS.LAB.03",
-                      "MLA.ESS.ATM.03"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.EAR.01"
-                         ],
-    "purpose":  "Synthesize inquiry, source reliability, lab safety, data, models, and Earth systems.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Putting It All Together",
-    "requiredVisualsModelsData":  "Unit synthesis across inquiry, safety, data, maps, models, and Earth systems",
-    "assessmentStimulusExpectation":  "Use approved resources from Lessons 1-7 only",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NASA Earth System Science",
-    "directSimulationUrl":  "https://science.nasa.gov/earth-science/earth-system-science/",
-    "directSimulationStudentTask":  "Click the link and use the system explanation for unit review. Observe how multiple Earth spheres interact. Record one inquiry rule, one safety rule, one data rule, and one Earth-system interaction.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.SCI.01; MLA.ESS.SCI.02; MLA.ESS.SCI.03; MLA.ESS.LAB.01; MLA.ESS.LAB.02; MLA.ESS.LAB.03; MLA.ESS.ATM.03",
+    "required_visual_model_data":  "unit synthesis evidence packet with source excerpt, safety scenario, map scale, graph, observation/inference table, and Earth-systems model",
+    "direct_resource":  {
+                            "record":  "one evidence rule, one safety rule, one representation rule, one uncertainty rule, one model rule, and one Earth-system interaction",
+                            "title":  "NASA Earth System Science",
+                            "url":  "https://science.nasa.gov/earth-science/earth-system-science/",
+                            "observe":  "how evidence, safety, data, models, and Earth-system interactions work together"
+                        },
+    "pages":  [
+                  "P01.html",
+                  "P02.html",
+                  "P03.html",
+                  "P04.html",
+                  "P05.html",
+                  "P06.html",
+                  "P07.html"
+              ],
+    "rigor_status":  "Unit 1 rigorous rebuild completed"
 }

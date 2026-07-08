@@ -1,30 +1,24 @@
 ﻿{
-    "course":  "EARTH SPACE SCIENCE",
+    "course":  "Earth Space Science",
     "unit":  1,
     "lesson":  4,
     "title":  "Data Patterns, Uncertainty, and Claims",
-    "standards":  [
-                      "MLA.ESS.LAB.03"
-                  ],
-    "supportStandards":  [
-                             "MLA.ESS.SCI.02"
-                         ],
-    "purpose":  "Analyze patterns, uncertainty, and evidence-based claims.",
-    "pageModel":  "P01-P07",
-    "productionStatus":  "Built for Moodle transfer audit",
-    "labDataRequirement":  "Data Patterns, Uncertainty, and Claims",
-    "requiredVisualsModelsData":  "Data reliability and uncertainty analysis",
-    "assessmentStimulusExpectation":  "NOAA climate/weather data; NASA Earthdata; USGS data",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "NOAA Climate Data Primer",
-    "directSimulationUrl":  "https://www.climate.gov/maps-data/climate-data-primer",
-    "directSimulationStudentTask":  "Click the link and use the climate data primer. Observe how data are collected and displayed. Record one data pattern, one uncertainty or limitation, and one claim that would need more evidence.",
-    "directSimulationStudentUseDirections":  [
-                                                 "Click the exact link in P01 or P03.",
-                                                 "Use only the named section, model, map, data table, graph, image, or source.",
-                                                 "Observe the required evidence.",
-                                                 "Record the evidence in the notebook.",
-                                                 "Connect the evidence to the lesson standard using CER."
-                                             ],
-    "noTeacherLedInstruction":  true
+    "standards":  "MLA.ESS.LAB.03",
+    "required_visual_model_data":  "data table, graph, pattern/uncertainty chart, and claim-evidence-reasoning organizer",
+    "direct_resource":  {
+                            "record":  "one pattern, one possible uncertainty or limitation, and one claim that would need additional evidence",
+                            "title":  "NOAA Climate Data Primer",
+                            "url":  "https://www.climate.gov/maps-data/climate-data-primer",
+                            "observe":  "how climate data are collected, organized, displayed, and interpreted across place and time"
+                        },
+    "pages":  [
+                  "P01.html",
+                  "P02.html",
+                  "P03.html",
+                  "P04.html",
+                  "P05.html",
+                  "P06.html",
+                  "P07.html"
+              ],
+    "rigor_status":  "Unit 1 rigorous rebuild completed"
 }
