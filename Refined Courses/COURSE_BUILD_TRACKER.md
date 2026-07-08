@@ -24,9 +24,9 @@ Last updated: 2026-07-08
 | English II | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | English III | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | English IV | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Algebra 1 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation |
-| Geometry | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Algebra 2 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Algebra 1 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
+| Geometry | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
+| Algebra 2 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Pre-Calculus | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation |
 | Math for College Readiness | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Statistics | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -82,9 +82,9 @@ These courses have active course folders and have been treated as course-build c
 | English / Language Arts | English II | `ENGLISH II` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
 | English / Language Arts | English III | `ENGLISH III` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
 | English / Language Arts | English IV | `ENGLISH IV` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
-| Mathematics | Algebra 1 | `ALG1` | Complete | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation | User reported an agent is transferring ALG1 assessments to Moodle. Do not touch while transfer agent is active. |
-| Mathematics | Geometry | `GEOMETRY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Moodle transfer logs exist in repo; final Moodle completion needs confirmation. |
-| Mathematics | Algebra 2 | `ALG2` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Moodle transfer logs exist in repo; final Moodle completion needs confirmation. |
+| Mathematics | Algebra 1 | `ALG1` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
+| Mathematics | Geometry | `GEOMETRY` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
+| Mathematics | Algebra 2 | `ALG2` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Mathematics | Pre-Calculus | `PRECALCULUS` | Complete | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation | Moodle transfer session log exists in repo. |
 | Mathematics | Math for College Readiness | `Math for College Readiness` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Math course completed under layered rigor audit expectations. |
 | Mathematics | Statistics | `STATISTICS` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Math course completed under layered rigor audit expectations. |
@@ -139,9 +139,9 @@ The following should be updated only after a transfer agent or Moodle verificati
 
 | Course | Lesson Transfer | Assessment Transfer | Moodle QA Preview | Student Enrollment Ready | Evidence |
 |---|---|---|---|---|---|
-| Algebra 1 | In Moodle transfer / needs confirmation | In Moodle transfer / needs confirmation | Needs confirmation | Needs confirmation | User reported ALG1 assessment transfer in progress. |
-| Algebra 2 | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Moodle transfer log exists in repo. |
-| Geometry | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Moodle transfer log exists in repo. |
+| Algebra 1 | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
+| Algebra 2 | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
+| Geometry | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Pre-Calculus | In Moodle transfer / needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Moodle transfer session log exists in repo. |
 | All other completed courses | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Confirm after Moodle transfer agent completes. |
 
