@@ -16,25 +16,57 @@ Last updated: 2026-07-08
 | Needs confirmation | Evidence exists, but the exact Moodle transfer status needs to be confirmed by the transfer agent or Moodle. |
 | TBD | Decision still needed, usually because the 37-course build target does not match the 47-course catalog list. |
 
-## Summary
+## Course Status Summary
 
-| Area | Catalog Count | Course Production Complete | Lessons + Assessments Complete | Moodle Transfer Ready | Transferred / In Transfer |
-|---|---:|---:|---:|---:|---:|
-| English / Language Arts | 4 | 4 | 4 | 4 | Needs confirmation |
-| Mathematics | 6 | 6 | 6 | 6 | Needs confirmation |
-| Science | 5 | 5 | 5 | 5 | Needs confirmation |
-| Social Studies and Financial Literacy | 4 | 0 | 0 | 0 | 0 |
-| Physical Education & Health | 1 | 0 | 0 | 0 | 0 |
-| Fine Arts / Practical Arts | 4 | 1 | 1 | 1 | Needs confirmation |
-| World Language / College Readiness | 2 | 0 | 0 | 0 | 0 |
-| College & Career Readiness | 3 | 0 | 0 | 0 | 0 |
-| Technology & AI Pathway | 5 | 0 | 0 | 0 | 0 |
-| Social Sciences & Humanities | 4 | 0 | 0 | 0 | 0 |
-| Science Electives | 2 | 2 | 2 | 2 | Needs confirmation |
-| English Electives | 2 | 2 | 2 | 2 | Needs confirmation |
-| Business & Entrepreneurship | 3 | 0 | 0 | 0 | 0 |
-| Life Skills & Wellness | 2 | 0 | 0 | 0 | 0 |
-| **Total** | **47** | **20** | **20** | **20** | **Needs confirmation** |
+| Course | Department | Credits | Course Production | Lessons + Assessments | Final Audit | Moodle Transfer |
+|---|---|---:|---|---|---|---|
+| English I | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| English II | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| English III | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| English IV | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Algebra 1 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation |
+| Geometry | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Algebra 2 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Pre-Calculus | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation |
+| Math for College Readiness | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Statistics | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Biology (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Chemistry (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Physics (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Earth/Space Science | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Environmental Science | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| World History | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
+| U.S. History | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
+| U.S. Government | Social Studies and Financial Literacy | 0.5 | Not started | Not started | Not started | Not started |
+| Personal Financial Literacy and Economics | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
+| Health & Physical Education | Physical Education & Health | 1.0 | Not started | Not started | Not started | Not started |
+| Foundations of Art | Fine Arts / Practical Arts | 1.0 | Not started | Not started | Not started | Not started |
+| Digital Media & Design | Fine Arts / Practical Arts | 1.0 | Not started | Not started | Not started | Not started |
+| Speech & Communication | Fine Arts / Practical Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Entrepreneurship Principles | Fine Arts / Practical Arts | 1.0 | Not started | Not started | Not started | Not started |
+| Spanish I | World Language / College Readiness | 1.0 | Not started | Not started | Not started | Not started |
+| Spanish II | World Language / College Readiness | 1.0 | Not started | Not started | Not started | Not started |
+| College & Career Readiness | College & Career Readiness | 1.0 | Not started | Not started | Not started | Not started |
+| Leadership Development | College & Career Readiness | 1.0 | Not started | Not started | Not started | Not started |
+| Career Planning & Portfolio | College & Career Readiness | 0.5 | Not started | Not started | Not started | Not started |
+| Introduction to Computer Science | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
+| AI Foundations | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
+| Digital Citizenship & Online Safety | Technology & AI Pathway | 0.5 | Not started | Not started | Not started | Not started |
+| Coding with Python | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
+| Data Literacy for Teens | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
+| Psychology | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
+| Sociology | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
+| Global Perspectives | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
+| Cultural Studies | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
+| Marine Science | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Anatomy & Physiology | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Creative Writing | English Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Journalism | English Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Principles of Business | Business & Entrepreneurship | 1.0 | Not started | Not started | Not started | Not started |
+| Entrepreneurship Lab | Business & Entrepreneurship | 1.0 | Not started | Not started | Not started | Not started |
+| Digital Marketing | Business & Entrepreneurship | 1.0 | Not started | Not started | Not started | Not started |
+| Life Skills & Independent Living | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
+| Nutrition & Wellness | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 
 Current repo-complete count: **20 courses**.
 
