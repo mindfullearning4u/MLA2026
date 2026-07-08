@@ -10,10 +10,10 @@ Official build target: **47 catalog courses**
 
 ```text
 47 total courses
-20 course-build complete / Moodle transfer ready
+21 course-build complete / Moodle transfer ready
 3 transferred to Moodle
 1 currently in Moodle transfer
-27 still need to be built
+26 still need to be built
 ```
 
 ## Status Key
@@ -46,7 +46,7 @@ Official build target: **47 catalog courses**
 | Physics (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Earth/Space Science | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Environmental Science | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| World History | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
+| World History | Social Studies and Financial Literacy | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | U.S. History | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
 | U.S. Government | Social Studies and Financial Literacy | 0.5 | Not started | Not started | Not started | Not started |
 | Personal Financial Literacy and Economics | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
@@ -116,7 +116,7 @@ These courses are listed in the catalog but do not currently have completed acti
 
 | Department | Catalog Course | Credits | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | Build Target |
 |---|---|---:|---|---|---|---|---|---|
-| Social Studies and Financial Literacy | World History | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Studies and Financial Literacy | World History | 1.0 | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Required |
 | Social Studies and Financial Literacy | U.S. History | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Social Studies and Financial Literacy | U.S. Government | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
 | Social Studies and Financial Literacy | Personal Financial Literacy and Economics | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
