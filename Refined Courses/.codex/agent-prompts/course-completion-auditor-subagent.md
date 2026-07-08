@@ -24,7 +24,7 @@ Check:
 - mapping traceability
 - lesson-page consistency
 - instructional rigor
-- Lesson 8 synthesis
+- final synthesis lesson: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses
 - assessment quality
 - Moodle XML readiness
 - assessment visual necessity

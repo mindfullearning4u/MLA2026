@@ -22,6 +22,7 @@ Before building or auditing, answer these questions in writing:
 12. Are Florida B.E.S.T., CPALMS, Common Core, ACT, and SAT alignments required for this course?
 13. Which labs, simulations, data displays, diagrams, models, or visuals are required by the standards or mapping?
 14. Where can approved or candidate labs, simulations, data sets, or visuals be found for later approval, including exact direct URLs when available?
+15. Is this course 1.0 credit or 0.5 credit, and does it require 8 lessons per unit or 5 lessons per unit?
 
 ## Required Source Discovery
 
@@ -49,10 +50,14 @@ Do not use `Unit Overview.md` to define expected content. It may be listed as an
 
 Before edits, produce a table with these columns:
 
-| Unit | Lesson | Approved Lesson Title | Primary Standard(s) | Support Standard(s) | Benchmark(s) | Lesson Purpose | Source File |
-|---|---|---|---|---|---|---|---|
+| Unit | Lesson | Credit-Based Lesson Role | Approved Lesson Title | Primary Standard(s) | Support Standard(s) | Benchmark(s) | Lesson Purpose | Source File |
+|---|---|---|---|---|---|---|---|---|
 
 Every unit and lesson must appear in the table.
+
+For 1.0-credit courses, list Lessons 1-8 in each unit and identify Lesson 8 as the synthesis/unit-assessment lesson.
+
+For 0.5-credit courses, list Lessons 1-5 in each unit and identify Lesson 5 as the synthesis/unit-assessment lesson. Do not map a Lesson 5 lesson quiz for a 0.5-credit course.
 
 For science courses, and for any course with required visuals/resources, the mapping trace table must also include:
 
@@ -102,7 +107,7 @@ For each lesson, determine:
 - What examples are required to teach the skill?
 - What visuals or resources may be needed?
 - What assessment evidence is expected?
-- Whether Lesson 8 is synthesis or new content.
+- Whether the final lesson is synthesis or new content. For 1.0-credit courses this is Lesson 8; for 0.5-credit courses this is Lesson 5.
 - For science, what lab, investigation, data set, model, safety note, CER, simulation, or virtual lab evidence is required?
 - For science, what diagram, table, graph, map, model, lab setup, or data display must be included in lessons and assessments?
 - Where candidate labs, simulations, or visuals may be sourced for user approval, including exact direct URLs when available.

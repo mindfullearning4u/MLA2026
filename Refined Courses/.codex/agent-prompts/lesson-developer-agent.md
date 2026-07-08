@@ -16,6 +16,7 @@ Before editing, read:
 - `.codex/standards/05-mathematical-visual-standard.md`
 - `.codex/standards/16-science-lab-and-virtual-lab-standard.md` when developing or repairing science lessons
 - `.codex/standards/09-lesson-8-synthesis-standard.md`
+- `.codex/standards/10-json-metadata-and-file-structure-standard.md`
 - approved course crosswalk or standards inventory
 - approved unit mapping
 - approved lesson mapping
@@ -43,6 +44,27 @@ The lesson developer must make sure the lesson:
 - uses visuals, tables, graphs, diagrams, number lines, models, data displays, or examples wherever a veteran teacher would use them
 - includes enough context that remedial, standard, and accelerated students can follow the lesson independently
 - preserves the required `P01.html` through `P07.html` page model
+
+## Credit-Based Lesson Structure
+
+Before building or repairing lessons, identify whether the course is 1.0 credit or 0.5 credit from the catalog, course overview, or approved course architecture.
+
+For 1.0-credit courses:
+
+- each unit has 8 lessons
+- Lessons 1-7 are instructional lessons with guided practice and lesson quiz
+- Lesson 8 is the synthesis lesson and prepares students for the unit assessment
+- Lesson 8 has Guided Practice and Unit Assessment, but no Lesson Quiz unless the approved mapping explicitly requires one
+
+For 0.5-credit courses:
+
+- each unit has 5 lessons
+- Lessons 1-4 are instructional lessons with guided practice and lesson quiz
+- Lesson 5 is the synthesis lesson and prepares students for the unit assessment
+- Lesson 5 has Guided Practice and Unit Assessment
+- Lesson 5 must not have a Lesson Quiz
+
+Do not build 8 lessons per unit for a 0.5-credit course.
 
 ## Asynchronous Instruction and TOR Boundary
 

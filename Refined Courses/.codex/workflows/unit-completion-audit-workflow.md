@@ -12,7 +12,7 @@ Run this workflow after a unit is built or corrected.
 4. Run LMS HTML formatting audit.
 5. Run instructional rigor audit.
 6. Run visual audit.
-7. Run Lesson 8 synthesis audit.
+7. Run final synthesis lesson audit: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses.
 8. Run assessment Moodle XML audit.
 9. Run assessment visual audit.
 10. Run answer pattern and feedback audit.

@@ -85,7 +85,7 @@ Verify:
 - no duplicate primary ownership appears unless mapping allows it
 - lesson titles match mapping
 - lesson purposes match mapping
-- Lesson 8 in every unit is synthesis
+- the final lesson in every unit is synthesis: Lesson 8 for 1.0-credit courses and Lesson 5 for 0.5-credit courses
 - every lesson, page, guided practice, quiz, pretest, and unit assessment cites or traces to the approved mapping
 - no old unit overview or old source artifact is used as source-of-truth mapping
 

@@ -17,6 +17,12 @@ Default requirement:
 - Unit Pretest = 10 questions
 - Unit Assessment Bank = 40 questions
 
+Credit-based assessment structure:
+
+- 1.0-credit courses use 6 units with 8 lessons per unit. Lessons 1-7 have lesson quiz banks. Lesson 8 is synthesis and has Guided Practice plus Unit Assessment, but no Lesson 8 lesson quiz unless the approved mapping explicitly requires one.
+- 0.5-credit courses use 6 units with 5 lessons per unit. Lessons 1-4 have lesson quiz banks. Lesson 5 is synthesis and has Guided Practice plus Unit Assessment, but no Lesson 5 lesson quiz.
+- Do not create, require, certify, stage, or import a lesson quiz bank for the synthesis/unit-assessment lesson unless the approved mapping explicitly overrides the academy structure.
+
 If a course-specific standard conflicts, report the conflict and use the current course standard only after confirmation.
 
 ## Required Moodle XML Format

@@ -61,6 +61,30 @@ Unless the approved course structure says otherwise:
 
 Quiz delivery may randomly select fewer questions in Moodle, but the bank size must still meet the production standard.
 
+## Credit-Based Assessment Structure
+
+Before creating or repairing assessment files, identify whether the course is 1.0 credit or 0.5 credit from the catalog, course overview, or approved course architecture.
+
+For 1.0-credit courses:
+
+- 6 units
+- 8 lessons per unit
+- Lessons 1-7 have Guided Practice and Lesson Quiz banks
+- Lesson 8 is the synthesis/unit-assessment lesson
+- Lesson 8 has Guided Practice and Unit Assessment
+- Lesson 8 does not have a Lesson Quiz bank unless the approved mapping explicitly requires one
+
+For 0.5-credit courses:
+
+- 6 units
+- 5 lessons per unit
+- Lessons 1-4 have Guided Practice and Lesson Quiz banks
+- Lesson 5 is the synthesis/unit-assessment lesson
+- Lesson 5 has Guided Practice and Unit Assessment
+- Lesson 5 does not have a Lesson Quiz bank
+
+Do not create, require, certify, stage, or import a Lesson 5 quiz for a 0.5-credit course. Do not create, require, certify, stage, or import a quiz for the final synthesis/unit-assessment lesson in any course unless the approved mapping explicitly overrides the academy structure.
+
 ## Visual Requirement
 
 If a question asks about a graph, table, diagram, coordinate plane, number line, data display, figure, model, lab setup, passage, or visual relationship, the necessary visual must be embedded directly in the Moodle XML question.

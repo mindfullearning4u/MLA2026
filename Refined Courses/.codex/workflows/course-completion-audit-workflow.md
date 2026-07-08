@@ -17,7 +17,7 @@ Run this workflow after all units are complete.
 9. Validate all assessments.
 10. Validate all assessment visuals as a blocking certification gate.
 11. Validate all answer patterns and feedback.
-12. Validate all Lesson 8 synthesis lessons.
+12. Validate all final synthesis lessons: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses.
 13. Validate all resource/simulation reviews.
 14. Validate accreditation and compliance evidence.
 15. Confirm every valid subagent finding was fixed and rerun.

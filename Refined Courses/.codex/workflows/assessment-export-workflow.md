@@ -25,6 +25,8 @@ Create:
 
 ## Files to Export Per Unit
 
+For 1.0-credit courses:
+
 - Unit Pretest
 - Lesson 01 Guided Practice
 - Lesson 01 Lesson Quiz
@@ -42,6 +44,22 @@ Create:
 - Lesson 07 Lesson Quiz
 - Lesson 08 Guided Practice
 - Lesson 08 Unit Assessment
+
+For 0.5-credit courses:
+
+- Unit Pretest
+- Lesson 01 Guided Practice
+- Lesson 01 Lesson Quiz
+- Lesson 02 Guided Practice
+- Lesson 02 Lesson Quiz
+- Lesson 03 Guided Practice
+- Lesson 03 Lesson Quiz
+- Lesson 04 Guided Practice
+- Lesson 04 Lesson Quiz
+- Lesson 05 Guided Practice
+- Lesson 05 Unit Assessment
+
+Do not export a Lesson 05 Lesson Quiz for a 0.5-credit course. Lesson 05 is the synthesis/unit-assessment lesson.
 
 ## Rules
 

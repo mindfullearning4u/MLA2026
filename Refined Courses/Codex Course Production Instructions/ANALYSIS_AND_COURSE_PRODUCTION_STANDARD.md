@@ -85,6 +85,7 @@ The analysis agent must identify:
 - benchmark tracker or standards inventory
 - required unit count
 - required lesson count
+- course credit value and required lesson count per unit
 - course pacing or mastery sequence
 - available source materials
 - missing source materials
@@ -129,6 +130,7 @@ The unit mapping must define:
 - required simulation or virtual lab review for the unit
 - candidate resource locations for labs, simulations, data sets, or visuals
 - lesson sequence
+- credit-based lesson structure: 8 lessons per unit for 1.0-credit courses or 5 lessons per unit for 0.5-credit courses
 - mastery progression
 - pretest and unit assessment scope
 - prerequisite knowledge
@@ -148,6 +150,7 @@ The lesson mapping must define:
 - student mastery evidence
 - guided practice scope
 - lesson quiz scope
+- final synthesis lesson location: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses
 - required visuals or representations when known
 - required lab, investigation, data, model, safety, CER, simulation, or virtual lab component when applicable
 - where the lesson developer can find candidate labs, simulations, visuals, diagrams, data sets, or models for approval

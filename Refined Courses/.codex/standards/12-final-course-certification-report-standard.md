@@ -26,7 +26,7 @@ Include:
 8. Lesson structure result
 9. P01-P07 page model result
 10. Instructional rigor result
-11. Lesson 8 synthesis result
+11. Final synthesis lesson result: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses
 12. Visual/resource result
 13. Assessment result
 14. Assessment visual audit result
@@ -50,4 +50,3 @@ PASS WITH SUGGESTIONS may be used only when all required structural and complian
 ## Evidence Requirement
 
 Reports must reference exact files and exact unit/lesson locations. Do not make broad claims without file evidence.
-

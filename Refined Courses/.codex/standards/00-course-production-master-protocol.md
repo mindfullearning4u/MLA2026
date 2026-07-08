@@ -35,6 +35,7 @@ The expected quality bar is strict: every course must be built as if it will be 
 23. Moodle transfer is a post-certification action only. Do not transfer lessons to Moodle until lesson development passes, assessment development passes, and the final course audit/certification gate passes with evidence.
 24. Lessons must not rely on teacher-led instruction, teacher checks, or teacher guidance. The lesson pages must teach the content. Teacher of Record language is allowed only for support, intervention, checkpoint, submission, clarification, retake, and workflow decisions.
 25. Lessons and assessments must stay within the approved course standards, unit mapping, and lesson mapping. No outside-standard content, future-unit content, future-lesson content, or unmapped content may be taught or assessed unless explicitly allowed by the approved mapping.
+26. Course credit value controls lesson count. A 1.0-credit course uses 6 units with 8 lessons per unit. A 0.5-credit course uses 6 units with 5 lessons per unit. For 0.5-credit courses, Lesson 5 is the synthesis/unit-assessment lesson, includes Guided Practice and Unit Assessment, and must not have a Lesson Quiz. Lessons 1-4 have lesson quizzes.
 
 ## Main Agent Responsibility
 
@@ -189,7 +190,7 @@ A course cannot receive PASS unless:
 - Every required file exists and is non-empty where content is required.
 - Every lesson has `lesson.json`, `quiz.json`, and `P01.html` through `P07.html`.
 - Standards are included or traceable in every lesson.
-- Lesson 8 in every unit functions as synthesis.
+- The final lesson in every unit functions as synthesis. For 1.0-credit courses this is Lesson 8; for 0.5-credit courses this is Lesson 5.
 - P04, P06, and P07 meet page-specific requirements.
 - Assessments meet count, format, syntax, feedback, standards, mapping, visual, and answer-pattern requirements.
 - Mandatory visuals or representations are present directly in lessons and assessment questions where needed.

@@ -34,12 +34,17 @@ Do not use `Unit Overview.md` as a source of truth.
 Verify:
 
 - Unit folder exists.
-- Lessons 01-08 exist.
+- Required lesson folders exist according to course credit value: Lessons 01-08 for 1.0-credit courses; Lessons 01-05 for 0.5-credit courses.
 - Unit Pretest exists.
-- Lesson 01-07 Guided Practice Moodle XML files exist.
-- Lesson 01-07 Lesson Quiz Moodle XML files exist.
-- Lesson 08 Guided Practice Moodle XML exists.
-- Lesson 08 Unit Assessment Moodle XML exists.
+- For 1.0-credit courses, Lesson 01-07 Guided Practice Moodle XML files exist.
+- For 1.0-credit courses, Lesson 01-07 Lesson Quiz Moodle XML files exist.
+- For 1.0-credit courses, Lesson 08 Guided Practice Moodle XML exists.
+- For 1.0-credit courses, Lesson 08 Unit Assessment Moodle XML exists.
+- For 0.5-credit courses, Lesson 01-04 Guided Practice Moodle XML files exist.
+- For 0.5-credit courses, Lesson 01-04 Lesson Quiz Moodle XML files exist.
+- For 0.5-credit courses, Lesson 05 Guided Practice Moodle XML exists.
+- For 0.5-credit courses, Lesson 05 Unit Assessment Moodle XML exists.
+- For 0.5-credit courses, Lesson 05 Lesson Quiz Moodle XML must not exist unless the approved mapping explicitly requires an exception.
 - No required lesson folder is missing.
 - No required assessment file is missing.
 

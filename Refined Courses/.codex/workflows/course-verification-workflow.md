@@ -12,7 +12,7 @@ Use this workflow after corrections are made.
 4. Validate P01-P07 page roles.
 5. Validate P04 has three worked examples.
 6. Validate P06/P07 workflow.
-7. Validate Lesson 8 synthesis.
+7. Validate final synthesis lesson: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses.
 8. Validate Moodle XML mechanics.
 9. Validate answer pattern.
 10. Validate feedback quality.

@@ -6,7 +6,7 @@ Every lesson and unit must have the required file structure and valid metadata.
 
 ## Required Course Structure
 
-Default MLA course structure:
+Default MLA course structure for 1.0-credit courses:
 
 - 6 units unless the certified course architecture states otherwise
 - 8 lessons per unit
@@ -15,6 +15,20 @@ Default MLA course structure:
 - guided practice per lesson
 - lesson quiz for Lessons 1-7
 - unit assessment in Lesson 8
+
+Default MLA course structure for 0.5-credit courses:
+
+- 6 units unless the certified course architecture states otherwise
+- 5 lessons per unit
+- 7 pages per lesson
+- unit pretest per unit
+- guided practice per lesson
+- lesson quiz for Lessons 1-4 only
+- Lesson 5 is the synthesis lesson
+- unit assessment in Lesson 5
+- Lesson 5 must not have a lesson quiz bank
+
+Agents must determine course credit value during course analysis before creating the unit/lesson structure. Do not default a 0.5-credit course to 8 lessons per unit.
 
 ## Required Lesson Files
 
@@ -34,13 +48,22 @@ Every lesson folder must include:
 
 ## Required Assessment Files
 
-Typical math lesson files:
+Typical 1.0-credit course assessment files:
 
 - Lessons 1-7: `COURSE_U##_L##_GuidedPractice_MoodleXML.xml`
 - Lessons 1-7: `COURSE_U##_L##_Quiz_MoodleXML.xml`
 - Lesson 8: `COURSE_U##_L08_GuidedPractice_MoodleXML.xml`
 - Lesson 8: `COURSE_U##_UnitAssessment_MoodleXML.xml`
 - Unit folder: `COURSE_U##_Pretest_MoodleXML.xml`
+
+Typical 0.5-credit course assessment files:
+
+- Lessons 1-4: `COURSE_U##_L##_GuidedPractice_MoodleXML.xml`
+- Lessons 1-4: `COURSE_U##_L##_Quiz_MoodleXML.xml`
+- Lesson 5: `COURSE_U##_L05_GuidedPractice_MoodleXML.xml`
+- Lesson 5: `COURSE_U##_UnitAssessment_MoodleXML.xml`
+- Unit folder: `COURSE_U##_Pretest_MoodleXML.xml`
+- No Lesson 5 lesson quiz file should be created or required.
 
 Legacy `.gift` files may exist as source or archive artifacts, but they are not production assessment files.
 
