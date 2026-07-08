@@ -4,6 +4,18 @@ Source: `C:\Users\acrue\MLA2026-1\catalogs\HS Catalog`
 
 Last updated: 2026-07-08
 
+## Quick View
+
+Official build target: **47 catalog courses**
+
+```text
+47 total courses
+20 course-build complete / Moodle transfer ready
+3 transferred to Moodle
+1 currently in Moodle transfer
+27 still need to be built
+```
+
 ## Status Key
 
 | Status | Meaning |
@@ -14,7 +26,6 @@ Last updated: 2026-07-08
 | Transferred to Moodle | Course transfer has been completed and confirmed. |
 | Not started | No course folder or production build is present in the active course workspace. |
 | Needs confirmation | Evidence exists, but the exact Moodle transfer status needs to be confirmed by the transfer agent or Moodle. |
-| TBD | Decision still needed, usually because the 37-course build target does not match the 47-course catalog list. |
 
 ## Course Status Summary
 
@@ -70,7 +81,7 @@ Last updated: 2026-07-08
 
 Current repo-complete count: **20 courses**.
 
-Important count note: the active catalog lists **47 courses**. If the official first-build target is **37 courses**, then **10 catalog courses must be marked optional, deferred, or outside the first-build target**.
+Important count note: the active catalog lists **47 courses**, and all 47 are part of the required build target.
 
 ## Completed / Moodle Transfer Ready Courses
 
@@ -103,35 +114,35 @@ These courses have active course folders and have been treated as course-build c
 
 These courses are listed in the catalog but do not currently have completed active course folders in the workspace.
 
-| Department | Catalog Course | Credits | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | First-Build Target |
+| Department | Catalog Course | Credits | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | Build Target |
 |---|---|---:|---|---|---|---|---|---|
-| Social Studies and Financial Literacy | World History | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Studies and Financial Literacy | U.S. History | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Studies and Financial Literacy | U.S. Government | 0.5 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Studies and Financial Literacy | Personal Financial Literacy and Economics | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Physical Education & Health | Health & Physical Education | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Fine Arts / Practical Arts | Foundations of Art | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Fine Arts / Practical Arts | Digital Media & Design | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Fine Arts / Practical Arts | Entrepreneurship Principles | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| World Language / College Readiness | Spanish I | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| World Language / College Readiness | Spanish II | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| College & Career Readiness | College & Career Readiness | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| College & Career Readiness | Leadership Development | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| College & Career Readiness | Career Planning & Portfolio | 0.5 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Technology & AI Pathway | Introduction to Computer Science | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Technology & AI Pathway | AI Foundations | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Technology & AI Pathway | Digital Citizenship & Online Safety | 0.5 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Technology & AI Pathway | Coding with Python | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Technology & AI Pathway | Data Literacy for Teens | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Sciences & Humanities | Psychology | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Sciences & Humanities | Sociology | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Sciences & Humanities | Global Perspectives | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Social Sciences & Humanities | Cultural Studies | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Business & Entrepreneurship | Principles of Business | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Business & Entrepreneurship | Entrepreneurship Lab | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Business & Entrepreneurship | Digital Marketing | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Life Skills & Wellness | Life Skills & Independent Living | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
-| Life Skills & Wellness | Nutrition & Wellness | 1.0 | Not started | Not started | Not started | Not started | Not started | TBD |
+| Social Studies and Financial Literacy | World History | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Studies and Financial Literacy | U.S. History | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Studies and Financial Literacy | U.S. Government | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Studies and Financial Literacy | Personal Financial Literacy and Economics | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Physical Education & Health | Health & Physical Education | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Fine Arts / Practical Arts | Foundations of Art | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Fine Arts / Practical Arts | Digital Media & Design | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Fine Arts / Practical Arts | Entrepreneurship Principles | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| World Language / College Readiness | Spanish I | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| World Language / College Readiness | Spanish II | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| College & Career Readiness | College & Career Readiness | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| College & Career Readiness | Leadership Development | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| College & Career Readiness | Career Planning & Portfolio | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
+| Technology & AI Pathway | Introduction to Computer Science | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Technology & AI Pathway | AI Foundations | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Technology & AI Pathway | Digital Citizenship & Online Safety | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
+| Technology & AI Pathway | Coding with Python | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Technology & AI Pathway | Data Literacy for Teens | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Sciences & Humanities | Psychology | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Sciences & Humanities | Sociology | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Sciences & Humanities | Global Perspectives | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Sciences & Humanities | Cultural Studies | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Business & Entrepreneurship | Principles of Business | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Business & Entrepreneurship | Entrepreneurship Lab | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Business & Entrepreneurship | Digital Marketing | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Life Skills & Wellness | Life Skills & Independent Living | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Life Skills & Wellness | Nutrition & Wellness | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 
 ## Moodle Transfer Tracking
 
@@ -147,8 +158,6 @@ The following should be updated only after a transfer agent or Moodle verificati
 
 ## Next Tracker Decisions Needed
 
-1. Confirm whether the official first-build target is **37 courses** or the full **47-course catalog**.
-2. If the target is 37, mark 10 catalog courses as optional, deferred, or outside the first-build target.
-3. Confirm exactly which 3 courses have already been fully transferred to Moodle.
-4. Confirm which 1 course is currently in Moodle transfer.
-5. Update this tracker after each course completes course production, lessons/assessments, final audit, and Moodle transfer.
+1. Confirm exact Moodle transfer completion as each transfer agent finishes.
+2. Update this tracker after each course completes course production, lessons/assessments, final audit, and Moodle transfer.
+3. Keep all 47 catalog courses in the required build target unless the academy catalog is formally revised.
