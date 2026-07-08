@@ -21,7 +21,9 @@ Read:
 6. For science labs, simulation review is mandatory.
 7. Provide the exact direct URL to the specific activity/resource when one exists.
 8. Do not use only a provider homepage, search page, or collection page for a required lab/simulation/resource.
-9. Do not add links to course files.
+9. For science/lab courses, routine free, student-safe, directly aligned trusted resources do not require separate user approval; the user has already directed agents to include exact direct links.
+10. Mark approval needed only when the resource requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
+11. Do not add links to course files from this read-only research role.
 
 ## Output
 

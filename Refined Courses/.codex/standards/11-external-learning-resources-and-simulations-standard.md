@@ -6,6 +6,8 @@ Agents must identify free resources that could enhance student learning, especia
 
 When the user approves insertion or explicitly directs that lab, simulation, or resource links must be included, the lesson must contain the exact direct clickable URL to the specific activity, virtual lab, data set, or resource. Provider names, homepages, search pages, collection pages, or vague directions to "search for" a resource are not sufficient when a direct activity URL exists.
 
+Standing science-course directive: the user has explicitly directed that science/lab courses must include exact direct links for required or strongly aligned free simulations, virtual labs, data sets, and trusted resources. A science course agent does not need to ask again before inserting a free, student-safe, directly aligned resource link from a trusted source. Ask for approval only when the resource requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or the alignment is uncertain.
+
 ## Applies To
 
 This standard applies to all departments:
@@ -67,8 +69,8 @@ For each unit or lesson, ask:
 For science lab courses:
 
 - every lab-aligned unit or lesson must be reviewed for simulations or virtual labs
-- if found before approval, report for approval with the exact direct URL
-- if approved or explicitly directed by the user, insert the exact direct clickable URL into the lesson where students need it
+- if a free, student-safe, directly aligned resource is found from a trusted source, insert the exact direct clickable URL into the lesson where students need it without asking for separate approval
+- ask for approval only for resources with login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment
 - the link must open the specific activity, simulation, virtual lab, data set, or resource directly
 - student-facing directions must not require students to search, browse a provider homepage, or guess which resource to open
 - verify whether the link is free, whether login is required, and whether it opens without payment
@@ -76,7 +78,7 @@ For science lab courses:
 - if not found, report search notes and "No appropriate free simulation found"
 - do not invent labs
 - do not replace required lab content
-- do not insert links without approval unless the user has explicitly directed that exact links must be inserted for the course or scope
+- do not insert links that require approval until approval is received
 - missing exact direct links for required or approved labs/simulations are blockers for Moodle transfer readiness
 
 ## Output Format

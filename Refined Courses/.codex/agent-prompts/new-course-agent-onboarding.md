@@ -104,7 +104,9 @@ Do not tell the user a course has the same rigor as ALG1 unless this layered evi
 
 ## Science Resource Direct-Link Requirement
 
-For science courses and any course with labs, simulations, data sets, interactives, or external resources, resource review is mandatory. Recommendations may require approval, but once the user approves a resource or explicitly directs that exact links must be included, the lesson must contain the exact direct clickable URL to the specific activity/resource.
+For science courses and any course with labs, simulations, data sets, interactives, or external resources, resource review is mandatory. The user has given standing direction that science/lab courses must include exact direct links for required or strongly aligned free simulations, virtual labs, data sets, and trusted resources. A new agent does not need to ask again before inserting a free, student-safe, directly aligned resource link from a trusted source.
+
+Ask for approval only when the resource requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or the alignment is uncertain.
 
 Provider names, homepages, search pages, collection pages, and directions such as "search for this simulation" are not enough when a direct activity URL exists. A student must be able to click the lesson link and arrive at the intended lab, simulation, data set, or resource without navigating or guessing. Missing direct links are blockers for certification and Moodle transfer readiness.
 

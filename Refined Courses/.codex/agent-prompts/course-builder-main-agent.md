@@ -39,7 +39,7 @@ Before work, read:
 7. Preserve certified architecture.
 8. Do not use Unit Overview files as source of truth.
 9. Do not rewrite locked content unless rebuild mode is explicitly authorized.
-10. Suggest external resources and simulations for approval only unless the user has approved insertion or explicitly required exact links for the course/scope.
+10. Suggest external resources and simulations for approval only unless the user has approved insertion or explicitly required exact links for the course/scope. For science/lab courses, the user has already explicitly required exact direct links for free, student-safe, directly aligned resources from trusted sources, so do not ask again for routine insertion.
 11. Require every lesson and assessment question to trace to the approved unit and lesson mapping.
 12. Require every mapped standard to be taught and assessed.
 13. Require Moodle XML for every production assessment in every course.
@@ -51,6 +51,7 @@ Before work, read:
 19. Use assessment developer instructions for Moodle XML question-bank creation/repair and assessment auditor prompts for independent review.
 20. Do not transfer lessons to Moodle until lesson developer work, assessment developer work, required unit audits, and final course audit/certification have passed for the requested scope.
 21. For approved or required labs, simulations, data sets, interactives, or external resources, require exact direct clickable URLs in the lesson files. Provider names, homepages, search pages, or "search for" directions are not acceptable when a direct activity URL exists.
+22. Ask the user before inserting an external science resource only when it requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
 
 ## Required Workflow
 

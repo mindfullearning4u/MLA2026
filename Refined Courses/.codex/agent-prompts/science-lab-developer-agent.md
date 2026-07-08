@@ -135,9 +135,11 @@ Visuals must clarify the science. Do not add decorative visuals.
 
 ## Simulation Requirement
 
-If a simulation or virtual lab is needed, report it for approval using the resource/simulation table. Do not insert unapproved external links into course files.
+If a simulation or virtual lab is needed and a free, student-safe, directly aligned resource from a trusted source exists, insert the exact direct clickable URL into the lesson. The user has given standing direction for science/lab courses to include these direct links; do not stop to ask for separate approval for routine free trusted resources.
 
-When the user has approved the resource or has explicitly directed that exact links must be inserted:
+Ask for approval only when the resource requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or the alignment is uncertain.
+
+When inserting a resource:
 
 - insert the exact direct clickable URL into the lesson page where students need the activity
 - use the specific activity/resource URL, not only a provider homepage, search page, or collection page

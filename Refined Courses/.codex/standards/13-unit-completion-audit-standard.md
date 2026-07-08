@@ -150,7 +150,8 @@ For every unit:
 - Free external resources were reviewed.
 - Simulations were reviewed.
 - Science lab simulations were reviewed when applicable.
-- Suggested resources are listed for approval only.
+- Suggested resources that require approval are listed separately.
+- For science/lab courses, free, student-safe, directly aligned trusted resources are inserted as exact direct links under the standing science-course directive.
 - No external links were inserted without approval.
 - Approved or required resources include exact direct clickable URLs in the lesson files.
 - No required lab, simulation, data set, or resource asks students to search, browse, or guess which activity to open.

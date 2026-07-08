@@ -117,7 +117,7 @@ Required safety rules:
 
 For science lab courses, simulation and virtual lab review is mandatory.
 
-For every unit, and for every lesson where a simulation or virtual lab could support the mapped concept, the resource/simulation auditor must search for free resources and report them for approval.
+For every unit, and for every lesson where a simulation or virtual lab could support the mapped concept, the resource/simulation auditor must search for free resources and identify the exact direct activity/resource URL.
 
 Priority sources:
 
@@ -133,9 +133,11 @@ Priority sources:
 - public education agencies
 - official science organizations
 
-Resources are suggestions only unless the user approves insertion into course files or explicitly directs that exact links must be inserted for the course or scope.
+Standing science-course directive: the user has explicitly directed that science/lab courses must include exact direct links for required or strongly aligned free simulations, virtual labs, data sets, and trusted resources. A science course agent does not need to ask again before inserting a free, student-safe, directly aligned resource link from a trusted source.
 
-When insertion is approved or directed:
+Ask for approval only when the resource requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or the alignment is uncertain.
+
+When a resource is inserted:
 
 - use the exact direct clickable URL for the specific simulation, virtual lab, data set, or resource
 - do not use only a provider name, provider homepage, search page, or collection page when a direct activity URL exists
