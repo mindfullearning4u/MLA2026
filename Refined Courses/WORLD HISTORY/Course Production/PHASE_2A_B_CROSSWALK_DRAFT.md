@@ -2,6 +2,10 @@
 
 Source: CPALMS World History (#2109310), 2024-2026 version, retrieved 2026-07-08
 
+Required support-alignment file: `PHASE_2A_C_BEST_COMMON_CORE_SAT_ACT_ALIGNMENT.md`
+
+Crosswalk rule: CPALMS/FDOE World History Social Studies standards are the controlling content standards. Florida B.E.S.T./ELA, ELD, Common Core literacy in history/social studies, SAT readiness, and ACT readiness must be checked and documented as support alignments for reading, writing, source analysis, map/chart/data interpretation, vocabulary in context, evidence selection, and historical reasoning. These support alignments do not replace the CPALMS Social Studies standards and must not introduce unmapped content.
+
 | Unit | Unit Title | Standard | Standard Description |
 |---|---|---|---|
 | Unit 01 | Historical Thinking, Geography, and Medieval Foundations | SS.912.W.1.1 | Use timelines to establish cause and effect relationships of historical events. |

@@ -11,6 +11,7 @@ Full course build certification for course production, lessons, assessments, vis
 ## Current Build Evidence
 
 - Course production files created.
+- Standards provenance includes CPALMS/FDOE World History, Florida B.E.S.T./ELA, ELD, Common Core literacy in history/social studies, SAT readiness, and ACT readiness support alignment.
 - 6 units created.
 - 48 lesson folders created.
 - 336 HTML lesson pages created.
@@ -25,6 +26,7 @@ Full course build certification for course production, lessons, assessments, vis
 |---|---|
 | Course architecture | PASS |
 | Standards inventory and crosswalk | PASS |
+| Florida B.E.S.T. / CPALMS / Common Core / SAT / ACT crosswalk validation | PASS |
 | Unit mapping | PASS |
 | Lesson mapping | PASS |
 | Instructional rigor | PASS |
