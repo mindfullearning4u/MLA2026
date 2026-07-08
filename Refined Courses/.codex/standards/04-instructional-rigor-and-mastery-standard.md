@@ -17,6 +17,7 @@ Every lesson should read like a veteran teacher is teaching the student directly
 - explanation of why each step is used
 - interpretation of answers
 - anticipation of misconceptions
+- student-facing verification checks so students can tell whether they are on the right track
 - connection to the standard
 - enough support for remedial, standard, and accelerated students
 
@@ -45,6 +46,22 @@ Allowed Teacher of Record language includes:
 
 If a student would need the Teacher of Record to understand the core content, the lesson is not rigorous enough and must be expanded.
 
+## Student Confusion and Verification Requirement
+
+Every lesson must anticipate where a student may get confused before the student asks for help. Lessons must include enough guidance, examples, visuals, tables, models, resource directions, common mistakes, and verification checks for a student to work independently.
+
+Student-facing verification may include:
+
+- "Check that..." statements
+- evidence checklists
+- model or data checks
+- common mistake corrections
+- worked-example comparison points
+- directions for what the student's notebook answer should include
+- criteria for deciding whether the answer is complete
+
+Teacher of Record support may be referenced only after the lesson has already provided the instruction, task directions, evidence expectations, and verification checks. TOR support cannot replace missing explanation, missing simulation directions, missing data interpretation guidance, or missing mastery criteria.
+
 ## Standards Boundary
 
 Lessons must teach only the approved course standards assigned through the crosswalk, unit mapping, and lesson mapping.
@@ -65,6 +82,7 @@ Then ask:
 - What would Dr. Annie want included so students understand and gain mastery?
 - What confusion might the student have before asking for help?
 - What example, visual, table, graph, passage, explanation, or practice task would prevent that confusion?
+- What verification check tells the student whether the work is complete and on track?
 
 ## Worked Example Requirements
 
