@@ -92,7 +92,7 @@ The controlling Chemistry lab, visual, simulation, and resource matrix is:
 
 Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, graph, model, data table, equation, particle diagram, lab, investigation, simulation review, direct resource, student-use direction, safety note, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
 
-For Chemistry, routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and science resources must be embedded as exact direct student links when they support the mapped lesson. Each link must include step-by-step student-use directions for what to click after the page opens, what to observe, what evidence to record, and how that evidence connects to the lesson standard. Approval is required only for exceptions: login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
+Apply the global MLA science/lab resource standard to Chemistry. Routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and science resources must be embedded as exact direct student links when they support the mapped lesson. Each link must include step-by-step student-use directions for what to click after the page opens, what to observe, what evidence to record, and how that evidence connects to the lesson standard. Approval is required only for exceptions defined in the global MLA science/lab standards.
 
 ## Lesson 8 Control
 

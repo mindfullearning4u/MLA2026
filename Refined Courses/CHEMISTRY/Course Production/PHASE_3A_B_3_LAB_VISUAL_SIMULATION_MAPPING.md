@@ -4,7 +4,7 @@
 
 This document closes the science architecture gap for Chemistry before lesson or assessment revision begins. It identifies, at the unit and lesson level, where labs, data investigations, simulations, visuals, models, diagrams, tables, graphs, safety notes, required direct resource review, student-use directions, and assessment stimuli must be planned.
 
-This is a production source-of-truth document. It does not create Moodle XML or HTML by itself, but all future Chemistry lesson, assessment, audit, and Moodle-transfer agents must use it with the current MLA science standards. For routine free, student-safe, directly aligned trusted resources, exact direct student links are required and do not require separate user approval. Approval is required only for exceptions: login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
+This is a production source-of-truth document. It does not create Moodle XML or HTML by itself, but all future Chemistry lesson, assessment, audit, and Moodle-transfer agents must use it with the global MLA science/lab standards in `.codex/standards/11-external-learning-resources-and-simulations-standard.md` and `.codex/standards/16-science-lab-and-virtual-lab-standard.md`. This file maps where Chemistry needs labs, visuals, simulations, resources, and assessment stimuli; it does not create a Chemistry-specific resource policy.
 
 ## Official Source Control
 
@@ -94,11 +94,11 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 6 | 07 | Real-World Chemistry Applications | Real-world chemistry claims evaluation and communication | Source reliability table; CER organizer; application data chart | ACS; EPA; NASA/NOAA where applicable; OpenStax Chemistry 2e | Claims/source/data stimulus |
 | 6 | 08 | Putting It All Together | Unit synthesis across acids/bases, pH, rates, catalysts, equilibrium, and applications | Mixed stimuli: pH data, rate graph, catalyst diagram, equilibrium model, source excerpt | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 
-## Direct Resource and Student-Use Direction Controls
+## Global Direct Resource and Student-Use Direction Controls
 
-- For Chemistry, routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and science resources must be inserted into lesson files as exact direct student links.
+- Apply the global MLA science/lab resource standard to this Chemistry mapping. Routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and science resources must be inserted into lesson files as exact direct student links.
 - Do not use provider homepages, search pages, collection pages, or vague directions such as "search for" or "choose a simulation" when a direct activity/resource URL exists.
-- Each inserted link must include adjacent step-by-step student-use directions that state what to click after the page opens, what controls/settings/sections/tables/figures to use, what to observe, what evidence to record, and how that evidence connects to the mapped Chemistry standard.
+- Each inserted link must include adjacent step-by-step student-use directions that state what to click after the page opens, what controls/settings/sections/tables/figures to use, what to observe, what evidence to record, and how that evidence connects to the mapped lesson standard.
 - Approval is required only when a resource requires login, payment, special hardware, unsafe materials, mature content, non-public access, questionable source quality, or uncertain alignment.
 - If a resource cannot be safely and directly linked, document the reason and use an embedded lesson visual, data table, model, or teacher-provided data instead.
 - Lessons must include all required context, data, passage text, diagrams, equations, models, tables, or instructions directly in the lesson or Moodle XML item. Students must not be forced to hunt elsewhere to understand the task.

@@ -6,7 +6,7 @@ Audit Focus: Course-production source-of-truth language for direct resources, si
 
 ## Purpose
 
-This reaudit corrects Chemistry course-production MD files that still reflected the older candidate-resource and approval-only language. That language conflicted with the current MLA science requirement that routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and resources must be inserted as exact direct student links with adjacent step-by-step student-use directions.
+This reaudit corrects Chemistry course-production MD files that still reflected the older candidate-resource and approval-only language. That language conflicted with the global MLA science/lab requirement that routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and resources must be inserted as exact direct student links with adjacent step-by-step student-use directions.
 
 ## Files Corrected
 
@@ -25,7 +25,7 @@ This reaudit corrects Chemistry course-production MD files that still reflected 
 
 ## Current Rule
 
-For Chemistry and other science/lab courses:
+For all science/lab courses, including Chemistry:
 
 - exact direct links are required for routine free, student-safe, directly aligned trusted resources
 - provider homepages, search pages, collection pages, and vague directions are not acceptable when a direct resource exists
@@ -34,4 +34,4 @@ For Chemistry and other science/lab courses:
 
 ## Final Decision
 
-PASS. Chemistry production MD source-of-truth files now align with the current MLA direct-resource and student-use-direction requirements.
+PASS. Chemistry production MD source-of-truth files now defer to and align with the global MLA direct-resource and student-use-direction requirements. No Chemistry-specific simulation/lab policy is created by these files.
