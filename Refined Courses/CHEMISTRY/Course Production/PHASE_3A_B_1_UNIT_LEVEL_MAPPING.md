@@ -10,7 +10,7 @@ This is architecture only. It does not create lesson content, assessment content
 
 The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
 
-That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, models, diagrams, equations, data displays, safety notes, candidate resource locations, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
+That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, models, diagrams, equations, data displays, safety notes, required direct resource/simulation review, step-by-step student-use directions, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
 
 ## Unit-Level Standards Map
 

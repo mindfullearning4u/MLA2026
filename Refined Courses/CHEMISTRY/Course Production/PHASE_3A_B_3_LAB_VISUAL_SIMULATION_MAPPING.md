@@ -2,9 +2,9 @@
 
 ## Purpose
 
-This document closes the science architecture gap for Chemistry before lesson or assessment revision begins. It identifies, at the unit and lesson level, where labs, data investigations, simulations, visuals, models, diagrams, tables, graphs, safety notes, candidate resources, and assessment stimuli must be planned.
+This document closes the science architecture gap for Chemistry before lesson or assessment revision begins. It identifies, at the unit and lesson level, where labs, data investigations, simulations, visuals, models, diagrams, tables, graphs, safety notes, required direct resource review, student-use directions, and assessment stimuli must be planned.
 
-This is architecture only. It does not insert links into lessons, approve third-party resources, create student-facing lesson content, create Moodle XML, create HTML, or replace final human approval.
+This is a production source-of-truth document. It does not create Moodle XML or HTML by itself, but all future Chemistry lesson, assessment, audit, and Moodle-transfer agents must use it with the current MLA science standards. For routine free, student-safe, directly aligned trusted resources, exact direct student links are required and do not require separate user approval. Approval is required only for exceptions: login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
 
 ## Official Source Control
 
@@ -28,7 +28,7 @@ Lesson development, assessment development, Moodle XML production, or Moodle tra
 - `PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md`
 - `.codex/standards/16-science-lab-and-virtual-lab-standard.md`
 
-If a lesson below identifies a required visual, data display, equation model, particle model, investigation, or simulation review, the lesson developer and assessment developer must treat it as required unless the main agent documents a standards-based reason for excluding it.
+If a lesson below identifies a required visual, data display, equation model, particle model, investigation, simulation review, direct resource, or student-use direction requirement, the lesson developer and assessment developer must treat it as required unless the main agent documents a standards-based reason for excluding it.
 
 ## Unit-Level Lab and Visual Requirement Matrix
 
@@ -43,7 +43,7 @@ If a lesson below identifies a required visual, data display, equation model, pa
 
 ## Lesson-Level Lab, Visual, Simulation, and Resource Matrix
 
-| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Candidate Resource Location for Approval | Assessment Stimulus Needed |
+| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Required Resource/Simulation Review and Direct-Link Requirement | Assessment Stimulus Needed |
 |---|---:|---|---|---|---|---|
 | 1 | 01 | What Counts as Chemistry Evidence? | Evidence/source classification using chemical claims, observations, and data | Evidence table; claim-evidence-reasoning organizer | CPALMS resources; OpenStax Chemistry 2e scientific method sections; ACS education resources | Claim/source excerpt or evidence table |
 | 1 | 02 | Lab Safety, Tools, and Procedures | Lab safety and procedure critique; apparatus identification | Safety icons/table; apparatus diagrams; procedure flowchart | CPALMS resources; ACS safety resources; Flinn safety references for teacher review | Safety scenario and apparatus/procedure visual |
@@ -52,7 +52,7 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 1 | 05 | States of Matter and Particle Models | Particle model investigation of solids, liquids, gases, and phase transitions | Particle diagrams; phase change diagram; heating/cooling curve when appropriate | PhET States of Matter; CK-12; OpenStax Chemistry 2e | Particle model or phase data |
 | 1 | 06 | Physical and Chemical Properties and Changes | Classification of property/change evidence | Physical/chemical property chart; change evidence table | CK-12; OpenStax Chemistry 2e; CPALMS resources | Classification table or scenario |
 | 1 | 07 | Models, Laws, Theories, and Chemistry Decisions | Model/law/theory comparison and chemistry decision evidence | Model-law-theory comparison table; decision evidence organizer | CPALMS resources; ACS chemistry in society resources | Evidence-based decision scenario |
-| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, measurement, data, matter, and models | Mixed stimuli: safety scenario, measurement table, graph, particle diagram, matter chart | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
+| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, measurement, data, matter, and models | Mixed stimuli: safety scenario, measurement table, graph, particle diagram, matter chart | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 | 2 | 01 | Atomic Theory and Experimental Evidence | Atomic model evidence timeline investigation | Atomic model timeline; model comparison table | OpenStax Chemistry 2e; PhET Rutherford Scattering; CK-12 | Atomic model/evidence table |
 | 2 | 02 | Protons, Neutrons, Electrons, and Atomic Structure | Atomic particle model analysis | Atomic structure diagram; particle mass/charge/location table | OpenStax Chemistry 2e; CK-12 | Atomic diagram/table |
 | 2 | 03 | Isotopes, Atomic Mass, and Atomic Identity | Isotope abundance and average atomic mass data analysis | Isotope table; atomic mass calculation table | OpenStax Chemistry 2e; CK-12 isotope resources | Isotope data table |
@@ -60,7 +60,7 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 2 | 05 | Periodic Trends and Chemical Properties | Periodic trend data investigation | Periodic trend graphs; periodic table heat-map style visual | OpenStax Chemistry 2e; CK-12; PhET periodic table resources if appropriate | Trend graph or periodic table excerpt |
 | 2 | 06 | Quantized Energy and Atomic Energy Levels | Energy level model/spectrum evidence analysis | Energy level diagram; emission/absorption model | PhET Neon Lights and Other Discharge Lamps; OpenStax Chemistry 2e | Energy level or spectrum model |
 | 2 | 07 | Electromagnetic Spectrum and Atomic Applications | Spectrum data and wavelength/frequency/energy reasoning | EM spectrum diagram; wavelength-frequency-energy table | NASA EM spectrum resources; PhET; OpenStax Chemistry 2e | EM spectrum diagram/data |
-| 2 | 08 | Putting It All Together | Unit synthesis across atomic theory, structure, periodicity, energy, and spectra | Mixed stimuli: atomic models, isotope data, periodic table, trend graph, spectrum diagram | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
+| 2 | 08 | Putting It All Together | Unit synthesis across atomic theory, structure, periodicity, energy, and spectra | Mixed stimuli: atomic models, isotope data, periodic table, trend graph, spectrum diagram | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 | 3 | 01 | Why Atoms Bond | Bonding cause model using valence electrons and attractions | Valence electron diagram; attraction/repulsion model | OpenStax Chemistry 2e; CK-12; PhET molecule resources | Bonding model |
 | 3 | 02 | Ionic Bonding and Formula Units | Ionic transfer/lattice model analysis | Ion formation diagram; ionic lattice model; formula unit table | PhET Molecule Shapes/Build a Molecule where appropriate; OpenStax Chemistry 2e | Ionic model/formula table |
 | 3 | 03 | Covalent Bonding and Molecular Compounds | Covalent sharing and molecular structure model analysis | Lewis structures; molecular diagrams; bond model | PhET Build a Molecule; CK-12; OpenStax Chemistry 2e | Covalent model/Lewis diagram |
@@ -68,7 +68,7 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 3 | 05 | Intermolecular Forces | Intermolecular force comparison model | Hydrogen bonding and van der Waals models; boiling point/property data table | OpenStax Chemistry 2e; PhET molecule polarity resources | IMF model/property data |
 | 3 | 06 | Chemical Formulas and Compound Composition | Formula interpretation and composition analysis | Formula composition table; element count model | OpenStax Chemistry 2e; CK-12 | Formula/composition table |
 | 3 | 07 | Nomenclature and Chemical Communication | Naming/formula matching and communication practice | Nomenclature flowchart; ion/name tables | OpenStax Chemistry 2e; CK-12 | Naming/formula table |
-| 3 | 08 | Putting It All Together | Unit synthesis across bonding, formulas, compounds, and nomenclature | Mixed stimuli: bonding diagrams, formulas, nomenclature tables, property data | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
+| 3 | 08 | Putting It All Together | Unit synthesis across bonding, formulas, compounds, and nomenclature | Mixed stimuli: bonding diagrams, formulas, nomenclature tables, property data | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 | 4 | 01 | Evidence of Chemical Reactions | Reaction evidence scenario/video/data analysis | Reaction evidence table; observation vs inference chart | ACS resources; OpenStax Chemistry 2e; safe video/data resources | Reaction evidence scenario/table |
 | 4 | 02 | Reaction Types | Reaction classification investigation | Reaction type flowchart; example equation table | OpenStax Chemistry 2e; CK-12 | Reaction equation classification table |
 | 4 | 03 | Chemical Equations and Conservation of Mass | Conservation/balancing model analysis | Balanced equation model; atom inventory table | PhET Balancing Chemical Equations; OpenStax Chemistry 2e | Equation/atom-count table |
@@ -76,7 +76,7 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 4 | 05 | Stoichiometry and Reaction Quantities | Stoichiometry calculation and data interpretation | Stoichiometry flowchart; balanced equation; reactant/product quantity table | OpenStax Chemistry 2e; CK-12 | Stoichiometry table/equation |
 | 4 | 06 | Chemical and Nuclear Reactions | Chemical vs nuclear comparison analysis | Nuclear/chemical comparison chart; particle/equation model | OpenStax Chemistry 2e; CK-12; DOE educational resources for nuclear context | Comparison chart or equation model |
 | 4 | 07 | Quantitative Reaction Data | Reaction data reasonableness and limiting information analysis | Data table; calculation organizer; graph when appropriate | OpenStax Chemistry 2e; CK-12; Concord Consortium data resources | Reaction data table/calculation setup |
-| 4 | 08 | Putting It All Together | Unit synthesis across reactions, conservation, mole reasoning, stoichiometry, and reaction data | Mixed stimuli: reaction evidence, equations, mole table, stoichiometry data | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
+| 4 | 08 | Putting It All Together | Unit synthesis across reactions, conservation, mole reasoning, stoichiometry, and reaction data | Mixed stimuli: reaction evidence, equations, mole table, stoichiometry data | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 | 5 | 01 | Forms of Energy and Energy Transformations | Energy transformation model analysis | Energy flow diagram; energy type chart | OpenStax Chemistry 2e; CK-12 | Energy model/chart |
 | 5 | 02 | Temperature and Molecular Kinetic Energy | Temperature vs particle motion data/model investigation | Particle motion diagrams; temperature/kinetic energy data graph | PhET States of Matter; OpenStax Chemistry 2e | Particle motion/data graph |
 | 5 | 03 | Potential Energy Diagrams | Potential energy diagram interpretation | Potential energy graph; activation energy labels | OpenStax Chemistry 2e; CK-12; PhET reaction resources if appropriate | Potential energy diagram |
@@ -84,7 +84,7 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 5 | 05 | Ideal Gases and Kinetic Molecular Theory | Gas behavior data/model investigation | Gas particle model; pressure-volume-temperature data graphs | PhET Gas Properties; Concord Consortium; OpenStax Chemistry 2e | Gas law data/model |
 | 5 | 06 | Phase Transitions and Particle Motion | Phase change and particle motion model analysis | Phase diagram; heating/cooling curve; particle model | PhET States of Matter; OpenStax Chemistry 2e | Phase/heating curve or particle diagram |
 | 5 | 07 | Water, Solutions, and Concentration Reasoning | Solution concentration and water property data/model analysis | Solution particle diagram; concentration table; solubility/concentration graph | PhET Concentration; OpenStax Chemistry 2e; CK-12 | Solution/concentration data |
-| 5 | 08 | Putting It All Together | Unit synthesis across energy, temperature, diagrams, gases, phases, and solutions | Mixed stimuli: energy diagram, gas graph, particle model, concentration table | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
+| 5 | 08 | Putting It All Together | Unit synthesis across energy, temperature, diagrams, gases, phases, and solutions | Mixed stimuli: energy diagram, gas graph, particle model, concentration table | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 | 6 | 01 | Acids, Bases, and Ions in Solution | Acid/base ion model analysis | Hydronium/hydroxide model; acid/base comparison table | PhET pH Scale; OpenStax Chemistry 2e; CK-12 | Acid/base ion model |
 | 6 | 02 | pH and Quantitative Acid-Base Reasoning | pH scale and concentration data reasoning | pH scale; pH/concentration table; graph when appropriate | PhET pH Scale; OpenStax Chemistry 2e | pH data/table |
 | 6 | 03 | Reaction Rates and Concentration | Rate vs concentration data investigation | Rate graph; concentration table; collision model | PhET Reactions and Rates; CK-12; OpenStax Chemistry 2e | Rate data graph |
@@ -92,14 +92,15 @@ If a lesson below identifies a required visual, data display, equation model, pa
 | 6 | 05 | Dynamic Equilibrium | Reversible process/equilibrium model investigation | Dynamic equilibrium model; forward/reverse rate graph | PhET reversible reactions resources if available; OpenStax Chemistry 2e | Equilibrium model/graph |
 | 6 | 06 | Chemistry, Technology, and Society | Chemistry claim/source evidence analysis | Claims evidence table; benefit/risk organizer | ACS; EPA; NIH/CDC where chemistry-health/environment applies; CPALMS resources | Real-world source/data excerpt |
 | 6 | 07 | Real-World Chemistry Applications | Real-world chemistry claims evaluation and communication | Source reliability table; CER organizer; application data chart | ACS; EPA; NASA/NOAA where applicable; OpenStax Chemistry 2e | Claims/source/data stimulus |
-| 6 | 08 | Putting It All Together | Unit synthesis across acids/bases, pH, rates, catalysts, equilibrium, and applications | Mixed stimuli: pH data, rate graph, catalyst diagram, equilibrium model, source excerpt | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli from taught lessons |
+| 6 | 08 | Putting It All Together | Unit synthesis across acids/bases, pH, rates, catalysts, equilibrium, and applications | Mixed stimuli: pH data, rate graph, catalyst diagram, equilibrium model, source excerpt | Use direct resources from Lessons 1-7 only; do not introduce a new resource unless needed for unit synthesis and fully documented with student-use directions | Unit-level mixed stimuli from taught lessons |
 
-## Resource Approval Controls
+## Direct Resource and Student-Use Direction Controls
 
-- Candidate resources are not automatically approved for embedding.
-- The resource auditor must verify each candidate is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
-- The main agent must ask for user approval before inserting external links into lesson files.
-- If a resource requires login, payment, special hardware, unsafe materials, mature content, or non-public access, reject it unless explicitly approved.
+- For Chemistry, routine free, student-safe, directly aligned trusted simulations, virtual labs, data sets, and science resources must be inserted into lesson files as exact direct student links.
+- Do not use provider homepages, search pages, collection pages, or vague directions such as "search for" or "choose a simulation" when a direct activity/resource URL exists.
+- Each inserted link must include adjacent step-by-step student-use directions that state what to click after the page opens, what controls/settings/sections/tables/figures to use, what to observe, what evidence to record, and how that evidence connects to the mapped Chemistry standard.
+- Approval is required only when a resource requires login, payment, special hardware, unsafe materials, mature content, non-public access, questionable source quality, or uncertain alignment.
+- If a resource cannot be safely and directly linked, document the reason and use an embedded lesson visual, data table, model, or teacher-provided data instead.
 - Lessons must include all required context, data, passage text, diagrams, equations, models, tables, or instructions directly in the lesson or Moodle XML item. Students must not be forced to hunt elsewhere to understand the task.
 
 ## Safety Controls
@@ -123,10 +124,11 @@ Do not require students to use acids, bases, household chemicals, flames, hot pl
 | Unit-level visual/model/data-display requirements mapped | PASS |
 | Lesson-level lab/data/investigation requirements mapped | PASS |
 | Lesson-level simulation/virtual lab review needs mapped | PASS |
-| Candidate resource locations listed for approval | PASS |
+| Required resource/simulation review and direct-link requirements mapped | PASS |
+| Step-by-step student-use directions required for each inserted resource link | PASS |
 | Assessment stimulus needs identified | PASS |
 | Lesson production still blocked until this matrix is used by lesson developers | PASS |
 
 ## Final Decision
 
-Chemistry architecture is approved to proceed to lesson and assessment audit only after all future Chemistry agents use this file as a required source of truth.
+Chemistry architecture is approved to proceed to lesson, assessment, audit, and Moodle transfer only after all future Chemistry agents use this file as a required source of truth and apply the current MLA science direct-link and student-use-direction standards.
