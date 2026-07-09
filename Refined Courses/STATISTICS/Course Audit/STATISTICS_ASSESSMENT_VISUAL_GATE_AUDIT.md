@@ -2,6 +2,8 @@
 
 Generated: 2026-07-06 12:59:39 -04:00
 
+Updated: 2026-07-09 after blocker repair
+
 Course root: `C:\Users\acrue\MLA2026-1\Refined Courses\STATISTICS`
 
 ## Summary
@@ -10,9 +12,29 @@ Course root: `C:\Users\acrue\MLA2026-1\Refined Courses\STATISTICS`
 - Questions checked: 1590
 - Questions with embedded visual/table markup: 495
 - Mandatory visuals required: 95
-- Mandatory visuals present: 42
-- Mandatory visuals missing: 53
-- Final decision: **FAIL**
+- Initial mandatory visuals present: 42
+- Initial mandatory visuals missing: 53
+- Repaired mandatory visuals: 53
+- Current mandatory visuals missing after repair: 0
+- Current XML validation errors: 0
+- Current assessment count errors: 0
+- Final decision after repair: **PASS**
+
+## 2026-07-09 Blocker Repair Validation
+
+The 53 rows that initially failed because no embedded representation was found were repaired in the current Moodle XML files. Each affected question now includes an embedded Moodle-safe HTML table, diagram, or representation directly inside the question text.
+
+Validation results:
+
+| Check | Result |
+|---|---|
+| Previously failed visual rows rechecked | 53 |
+| Previously failed rows still missing visuals | 0 |
+| Moodle XML parse errors | 0 |
+| XML assessment files checked | 102 |
+| Files with unexpected question counts | 0 |
+
+The original finding table remains below for traceability. Its `FAIL` recommendation entries document the initial blocker, not the current post-repair state.
 
 ## Certification Rule
 

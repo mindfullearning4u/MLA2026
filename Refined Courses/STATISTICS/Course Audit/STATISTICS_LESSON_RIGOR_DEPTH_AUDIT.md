@@ -3,8 +3,33 @@
 - Course root: `C:\Users\acrue\MLA2026-1\Refined Courses\STATISTICS`
 - Pages checked: 192
 - Minimum word threshold: 250
-- Pages below threshold: 148
-- Final decision: FAIL
+- Initial pages below threshold: 148
+- Updated current-file pages below threshold after repair: 0
+- Final decision after repair: PASS
+
+## 2026-07-09 Rigor Repair Validation
+
+The current Statistics lesson files were repaired after this audit originally reported a depth blocker.
+
+Repair actions:
+
+- Added page-specific mastery support sections to under-depth P02, P03, P04, and P06 pages.
+- P02 pages now include student clarity notes for vocabulary, data structure, representation, and notebook evidence.
+- P03 pages now include common-confusion checks and decision guidance.
+- P04 pages now include worked-example verification guidance.
+- P06 pages now include independent-work guidance for Part A, Part B, and Part C.
+- Exactly one TOR support box remains on each lesson page.
+
+Current validation:
+
+| Check | Result |
+|---|---|
+| P02/P03/P04/P06 pages checked | 192 |
+| Pages below 250 words after repair | 0 |
+| HTML pages checked for TOR support boxes | 336 |
+| Pages without exactly one TOR support box | 0 |
+
+The original table below remains for traceability. It records the initial blocker before the 2026-07-09 repair.
 
 ## Audit Rule
 
