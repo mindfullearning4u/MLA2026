@@ -61,6 +61,23 @@ The following ALG1 lesson pages changed in the repository and should be checked 
 | Remaining mojibake markers `Ã` / `Â` in ALG1 lesson HTML | PASS - none found |
 | ALG1 assessment files modified in this cleanup | PASS - none |
 
+## Moodle Action Completed
+
+Date completed: 2026-07-09
+
+Result: PASS - all 31 listed ALG1 Moodle lesson pages were updated from the listed repository HTML files and preview-verified in Moodle.
+
+Evidence: See `ALG1\Course Audit\ALG1_MOODLE_PAGE_UPLOAD_LOG.md`, section `2026-07-09 Repo-to-Moodle Repair Verification`.
+
+Verification confirmed:
+
+- Exponents render with HTML superscript where the repo source requires superscript.
+- No caret exponent notation is visible in Moodle preview.
+- No mojibake characters such as `Ã` or `Â` are visible in Moodle preview.
+- No visible PowerShell newline artifacts such as `` `r `` or `` `n `` are visible in Moodle preview.
+- No malformed table/CSS text is visible in Moodle preview.
+- No ALG1 assessments were changed.
+
 ## Final Note
 
 Do not update Moodle assessments for this cleanup. Only the listed lesson pages and Moodle upload log were affected.
