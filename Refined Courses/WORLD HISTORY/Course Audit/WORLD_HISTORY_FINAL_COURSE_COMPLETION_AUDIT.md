@@ -13,6 +13,7 @@ Full course build certification for course production, lessons, assessments, vis
 - Course production files created.
 - Standards provenance includes CPALMS/FDOE World History, Florida B.E.S.T./ELA, ELD, Common Core literacy in history/social studies, SAT readiness, and ACT readiness support alignment.
 - Standards inventory, crosswalk, unit mapping, and lesson mapping validated at 118 standards with zero mismatches after CPALMS reconciliation.
+- Follow-up rigor and visual repair completed on 2026-07-09 after direct lesson review found that the original build was too table-heavy and did not contain embedded visual artifacts. See `WORLD_HISTORY_RIGOR_VISUAL_REPAIR_2026-07-09.md`.
 - 6 units created.
 - 48 lesson folders created.
 - 336 HTML lesson pages created.
@@ -32,8 +33,10 @@ Full course build certification for course production, lessons, assessments, vis
 | Lesson mapping | PASS |
 | Inventory/crosswalk/unit/lesson mapping consistency | PASS |
 | Instructional rigor | PASS |
+| Strengthened asynchronous step-by-step teaching | PASS |
 | Lesson structure P01-P07 | PASS |
 | Final synthesis lesson | PASS |
+| Embedded lesson visuals/maps/timelines/diagrams | PASS |
 | Moodle XML assessment format | PASS |
 | Assessment visual/stimulus embedding | PASS |
 | Answer pattern and feedback | PASS |
