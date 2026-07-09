@@ -1,4 +1,4 @@
-# GEO - Geometry
+﻿# GEO - Geometry
 **Credit:** 1.0 High School Mathematics Credit  
 **Course Type:** Mastery-Based High School Mathematics Course  
 
@@ -20,10 +20,10 @@ As a registered private school in the State of Florida, Mindful Learning Academy
 
 To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-• Florida B.E.S.T. Geometry Benchmarks
-• Common Core State Standards
-• SAT College Readiness Standards
-• ACT College and Career Readiness Standards
+- Florida B.E.S.T. Geometry Benchmarks
+- Common Core State Standards
+- SAT College Readiness Standards
+- ACT College and Career Readiness Standards
 
 This multi-framework approach allows students to develop mastery of essential concepts and skills while maintaining alignment with widely recognized academic expectations.
 
@@ -72,22 +72,22 @@ The course is organized into six units, each designed to build progressively on 
 
 Approved Geometry unit sequence:
 
-• Unit 1: Foundations of Geometry  
+- Unit 1: Foundations of Geometry  
 Students develop geometric vocabulary, spatial reasoning, measurement foundations, coordinate geometry readiness, and construction skills.
 
-• Unit 2: Reasoning, Proof, and Basic Transformations  
+- Unit 2: Reasoning, Proof, and Basic Transformations  
 Students develop logical reasoning, introductory proof habits, and visual transformation reasoning that supports later congruence and similarity.
 
-• Unit 3: Triangles, Congruence, and Quadrilaterals  
+- Unit 3: Triangles, Congruence, and Quadrilaterals  
 Students analyze triangle properties, congruence relationships, geometric reasoning, and quadrilateral proof before coordinate proof.
 
-• Unit 4: Similarity, Right Triangles, and Trigonometry  
+- Unit 4: Similarity, Right Triangles, and Trigonometry  
 Students develop proportional reasoning, similarity transformations, right-triangle relationships, and trigonometric applications.
 
-• Unit 5: Circles and Circle Measurement  
+- Unit 5: Circles and Circle Measurement  
 Students analyze circle relationships, circle constructions, circle measurement, and circle applications.
 
-• Unit 6: Coordinate Geometry, Measurement, and Modeling  
+- Unit 6: Coordinate Geometry, Measurement, and Modeling  
 Students apply geometric concepts using coordinate methods, circle equations, measurement formulas, scale effects, spatial visualization, and real-world modeling.
 
 Most lessons follow the MLA instructional workflow:
@@ -105,10 +105,10 @@ This structure provides multiple opportunities to learn, practice, apply, and de
 
 Each unit also includes:
 
-• Unit Pretest (diagnostic and acceleration eligibility)
-• Standards-aligned lessons
-• Teacher-reviewed submissions
-• Unit Assessment
+- Unit Pretest (diagnostic and acceleration eligibility)
+- Standards-aligned lessons
+- Teacher-reviewed submissions
+- Unit Assessment
 
 Instruction follows a mastery-based progression model requiring demonstrated understanding before advancement.
 
@@ -119,19 +119,19 @@ Instruction follows a mastery-based progression model requiring demonstrated und
 Most lessons follow the same learning sequence:
 
 Notebook Task Part 1
-↓
+->
 Notebook Task Part 2
-↓
+->
 Guided Practice
-↓
+->
 Independent Work
-↓
+->
 Checkpoint
-↓
+->
 Notebook Evidence Submission
-↓
+->
 Checkpoint Submission
-↓
+->
 Lesson Quiz
 
 This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
@@ -150,9 +150,9 @@ Diagnostic assessments aligned to MLA standards and cross-referenced academic fr
 
 Includes:
 
-• Notebook Task Part 1
-• Notebook Task Part 2
-• Independent Work
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
 
 Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
 
@@ -196,18 +196,18 @@ Mindful Learning Academy follows a mastery-based learning model.
 
 To progress successfully through the course, students must:
 
-• Complete all required lesson components
-• Submit Notebook Evidence
-• Submit Checkpoint Responses
-• Demonstrate lesson mastery through Lesson Quizzes
-• Complete all Unit Assessments
+- Complete all required lesson components
+- Submit Notebook Evidence
+- Submit Checkpoint Responses
+- Demonstrate lesson mastery through Lesson Quizzes
+- Complete all Unit Assessments
 
 Mastery is demonstrated through consistent performance across:
 
-• Notebook Evidence Submissions
-• Checkpoint Submissions
-• Lesson Quizzes
-• Unit Assessments
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
 
 A minimum mastery level of 80% is required before advancement.
 
