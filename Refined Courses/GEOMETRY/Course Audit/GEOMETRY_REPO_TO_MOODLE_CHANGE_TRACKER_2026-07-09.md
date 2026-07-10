@@ -44,6 +44,23 @@ The following Geometry repo lesson pages changed and should be checked against M
 
 `GEOMETRY/Course-Overview.md` was cleaned for Markdown formatting consistency only. Verify Moodle only if this file has been copied into a Moodle course overview, summary, or page.
 
+## Moodle Action Completed
+
+Date completed: 2026-07-09
+
+Result: PASS - all 8 listed Geometry Unit 1 `P01.html` Moodle lesson pages were updated from the listed repository HTML files and preview-verified in Moodle.
+
+Evidence: See `GEOMETRY\Course Audit\GEOMETRY_MOODLE_TRANSFER_SESSION_LOG_2026-07-07.md`, section `2026-07-09 Unit 1 P01 Header Repair Verification`.
+
+Verification confirmed:
+
+- Each Moodle preview header begins cleanly with `GEO | Unit 01 | Lesson ##`.
+- No mojibake appears before the header marker.
+- No visible mojibake characters or PowerShell newline artifacts appear in the Moodle previews.
+- Inline styling remains preserved in the Moodle previews.
+- Geometry assessments were not opened, edited, imported, reduced, or otherwise changed.
+- Lesson quiz banks must remain at the 25-question source-bank standard.
+
 ## Final Note
 
 Do not update Geometry Moodle assessments for this cleanup. The assessment reductions were rejected and restored.

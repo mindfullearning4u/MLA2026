@@ -67,3 +67,19 @@ The following lesson HTML files changed and should be checked against Moodle pag
 During Moodle transfer or Moodle update work, update only the lesson pages listed above unless a separate audit identifies additional Precalculus issues.
 
 Do not replace or regenerate Precalculus assessment XML files based on this tracker. Assessment XML already passed parse and count validation during this cleanup.
+
+## Moodle Action Completed
+
+Date completed: 2026-07-09
+
+Result: PASS - all listed Precalculus tracker items were handled under Moodle-facing transfer rules.
+
+Evidence: See `PRECALCULUS\Course Audit\PRECALCULUS_MOODLE_TRANSFER_SESSION_LOG_2026-07-08.md`, section `2026-07-09 Moodle-Facing Lesson Cleanup Verification`.
+
+Completion details:
+
+- 25 listed items mapped to Moodle lesson content pages and were updated from repository HTML, then preview-verified in Moodle.
+- 3 listed `P05_Guided_Practice.html` files were not updated in Moodle lesson pages because Precalculus Moodle lesson content pages do not include P05; Moodle guided practice is handled as an assessment activity.
+- Precalculus guided-practice assessment activities were not opened or edited.
+- Precalculus assessment XML files were not regenerated, replaced, re-imported, or changed.
+- Verification confirmed clean math notation, clean sigma notation where applicable, no mojibake/corrupted characters, no visible HTML markup artifacts, correct Unit/Lesson labels, and correct lesson-title rendering in Moodle previews.
