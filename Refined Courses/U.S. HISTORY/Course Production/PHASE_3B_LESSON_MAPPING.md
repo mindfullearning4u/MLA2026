@@ -56,3 +56,19 @@ Course structure: 1.0 credit. Lessons 1-7 have guided practice and lesson quiz. 
 ## Global Support Alignment
 
 Every lesson must include or trace to ELA evidence expectations and ELD support as appropriate. Data-heavy lessons must use MTR support for data, maps, tables, graphs, and reasonableness checks without turning U.S. History into a math course.
+
+## Full Crosswalk Trace Requirement
+
+This lesson mapping must be used together with `PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md`.
+
+For every lesson, lesson developers and assessment developers must carry forward:
+
+- primary CPALMS / Florida Social Studies standard(s)
+- Florida B.E.S.T. ELA support
+- Common Core literacy support
+- SAT readiness support
+- ACT readiness support
+- ELD/accessibility support
+- required visual/source/data/stimulus expectations
+
+No U.S. History lesson or assessment may be built from the `Standards` column alone.

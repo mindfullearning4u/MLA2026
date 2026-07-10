@@ -28,6 +28,7 @@ Scope: Course production files only. Lessons and assessments are not yet built.
 | `PHASE_3A_UNIT_MAPPING.md` | PASS |
 | `PHASE_3B_LESSON_MAPPING.md` | PASS |
 | `PHASE_3A_B_VISUAL_SOURCE_MAPPING.md` | PASS |
+| `PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md` | PASS |
 
 ## Mapping Validation
 
@@ -38,6 +39,7 @@ Scope: Course production files only. Lessons and assessments are not yet built.
 | Unit mapping present | PASS | 6 units mapped |
 | Lesson mapping present | PASS | 48 lessons mapped |
 | Standards source hierarchy | PASS | CPALMS controls; support alignments do not replace content standards |
+| Full crosswalk stack | PASS | Each lesson now traces to CPALMS / Florida Social Studies primary standards plus Florida B.E.S.T., Common Core, SAT, ACT, ELD/accessibility, and stimulus expectations |
 | Required visual/source mapping | PASS | Every lesson has a required visual/stimulus category |
 | Moodle assessment format rule | PASS | Moodle XML required; GIFT not production format |
 
@@ -68,6 +70,7 @@ Before building lessons, the lesson developer agent must read:
 - `U.S. HISTORY/Course Production/PHASE_3A_UNIT_MAPPING.md`
 - `U.S. HISTORY/Course Production/PHASE_3B_LESSON_MAPPING.md`
 - `U.S. HISTORY/Course Production/PHASE_3A_B_VISUAL_SOURCE_MAPPING.md`
+- `U.S. HISTORY/Course Production/PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md`
 
 Before building assessments, the assessment developer agent must read:
 
@@ -76,5 +79,6 @@ Before building assessments, the assessment developer agent must read:
 - `.codex/standards/07-assessment-visual-audit-standard.md`
 - `U.S. HISTORY/Course Production/PHASE_3B_LESSON_MAPPING.md`
 - `U.S. HISTORY/Course Production/PHASE_3A_B_VISUAL_SOURCE_MAPPING.md`
+- `U.S. HISTORY/Course Production/PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md`
 
 No Moodle transfer may begin until lessons, assessments, unit audits, and final course audit pass and all required course-content changes are committed.

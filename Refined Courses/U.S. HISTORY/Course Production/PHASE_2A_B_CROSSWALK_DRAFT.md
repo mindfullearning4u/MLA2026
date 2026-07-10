@@ -9,6 +9,24 @@ URL: https://www.cpalms.org/PreviewCourse/Preview/22636
 
 The CPALMS Social Studies standards are the controlling course standards. Support standards from ELA, ELD, MTR, Health/Public Policy, Common Core literacy, SAT, and ACT support evidence reading, maps/data interpretation, source analysis, historical writing, and student communication. Support standards do not create separate off-topic lessons.
 
+## Full Crosswalk Stack Enforcement
+
+U.S. History lessons and assessments must be built from the full crosswalk stack, not from CPALMS alone.
+
+Required stack for every lesson:
+
+| Crosswalk Layer | Required Use | Boundary |
+|---|---|---|
+| CPALMS / Florida Social Studies | Primary content standard and required historical content | Controls what is taught and assessed |
+| Florida B.E.S.T. ELA Expectations | Evidence, complex text, inference, format, voice/tone, academic communication | Supports historical reasoning; does not create separate ELA lessons |
+| Common Core Literacy in History/Social Studies | Text evidence, central idea, source analysis, visual integration, explanatory/argument writing | Supports historical literacy; does not replace Florida standards |
+| SAT Readiness | Information and Ideas, Craft and Structure, Expression of Ideas, Standard English Conventions, evidence, vocabulary, graphics | Embedded readiness support only |
+| ACT Readiness | Main idea, details, inference, interpretation, evidence evaluation, social science/data reading | Embedded readiness support only |
+| ELD / Accessibility | Academic vocabulary, visual support, clear directions, sentence frames where needed | Supports access and communication |
+| Visual / Source / Stimulus | Maps, timelines, charts, excerpts, photographs, political cartoons, data displays, tables, policy/court-case summaries | Must be embedded in lesson and XML question when needed |
+
+The binding lesson-by-lesson trace for this stack is `PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md`.
+
 | CPALMS Standard Cluster | Course Role | MLA Unit Placement | Lesson Mapping Requirement | Required Evidence / Stimulus |
 |---|---|---|---|---|
 | SS.912.A.1.1-SS.912.A.1.7 | Historical thinking, historiography, source analysis, timelines, visual interpretation, reliability, case studies, socio-cultural evidence | Unit 01 and reinforced all units | Teach explicitly in Unit 01; reuse as source-analysis process throughout the course | source excerpts, timelines, maps, charts, political cartoons, photographs, reliability checks |
