@@ -20,6 +20,18 @@ Before auditing, building, correcting, or certifying the course, read:
 
 Then locate and read the course crosswalk, standards inventory, unit mapping, lesson mapping, course overview, lesson JSON, quiz JSON, lesson pages, and assessment files.
 
+The course crosswalk is not complete if it only lists the primary content standards. For every course, verify the full alignment stack before building or auditing:
+
+- primary Florida/CPALMS or other controlling course standard
+- Florida B.E.S.T. support alignment
+- Common Core support alignment
+- SAT readiness support alignment
+- ACT readiness support alignment
+- ELD/accessibility support alignment when applicable
+- visual/source/data/lab/simulation/stimulus requirements
+
+Do not begin lesson or assessment development from CPALMS alone when the course requires the full crosswalk stack. If Florida B.E.S.T., Common Core, SAT, or ACT support alignment is missing from course production files, stop and repair the crosswalk or document the blocker before building.
+
 Before any coursewide audit or certification claim, create an explicit subagent coverage plan. The plan must name each unit and each audit category. Do not proceed as if a single whole-course scan, script run, or main-agent-only review is enough.
 
 ## Non-Negotiable User Requirements
@@ -27,6 +39,8 @@ Before any coursewide audit or certification claim, create an explicit subagent 
 The user requires precision, accuracy, consistency, strict standards alignment, accreditation readiness, and compliance readiness from the beginning of production.
 
 Every course must follow the approved unit mapping and lesson mapping. No lesson, page, assessment, question, visual, or standard may drift from the mapping.
+
+Every course must also follow the approved full crosswalk. The primary content standard controls what is taught and assessed; Florida B.E.S.T., Common Core, SAT, ACT, ELD, and other support alignments guide the evidence, reading, writing, data, communication, and readiness skills that must be embedded without creating off-standard content.
 
 Every mapped standard must be:
 

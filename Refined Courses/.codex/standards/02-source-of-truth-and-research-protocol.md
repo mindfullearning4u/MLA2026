@@ -62,6 +62,22 @@ Do not rely on unofficial summaries, third-party worksheets, blogs, or AI memory
 
 If the official source has changed, is inaccessible, or conflicts with an existing course file, document the conflict and do not silently rewrite the mapping.
 
+## Full Crosswalk Stack Requirement
+
+For all MLA course production, the crosswalk must identify the complete alignment stack required for that course. Agents must not treat CPALMS or any single state content source as the whole crosswalk when the course also requires support alignment.
+
+A complete crosswalk must document, as applicable:
+
+- primary course content standard source, such as CPALMS/FDOE, Florida B.E.S.T., NGSSS, CTE framework, or other controlling standard
+- Florida B.E.S.T. ELA or Mathematics support expectations when included or required
+- Common Core literacy, history/social studies, science/technical, or math support alignment when required
+- SAT readiness alignment as support, not a replacement standard
+- ACT readiness alignment as support, not a replacement standard
+- ELD/accessibility support alignment when applicable
+- visual, source, data, lab, simulation, or assessment-stimulus requirements
+
+Lesson and assessment agents must build from the approved full crosswalk package: standards inventory, crosswalk, unit mapping, lesson mapping, and visual/source/resource mapping. If any required support layer is missing, build readiness is blocked until the crosswalk is repaired or the omission is documented with user approval.
+
 ## Research Priority Sources
 
 For simulations and resources, prefer:

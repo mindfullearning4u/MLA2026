@@ -50,10 +50,12 @@ Do not use `Unit Overview.md` to define expected content. It may be listed as an
 
 Before edits, produce a table with these columns:
 
-| Unit | Lesson | Credit-Based Lesson Role | Approved Lesson Title | Primary Standard(s) | Support Standard(s) | Benchmark(s) | Lesson Purpose | Source File |
-|---|---|---|---|---|---|---|---|---|
+| Unit | Lesson | Credit-Based Lesson Role | Approved Lesson Title | Primary Standard(s) | Florida B.E.S.T. Support | Common Core Support | SAT Support | ACT Support | ELD/Accessibility Support | Benchmark(s) | Lesson Purpose | Source File |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 Every unit and lesson must appear in the table.
+
+The mapping trace table must use the full course crosswalk stack. Do not create a lesson mapping from CPALMS, Florida standards, or any single content-standard source alone when the course requires Florida B.E.S.T., Common Core, SAT, and ACT support alignment. Support alignments do not replace the primary content standard, but they must be documented and carried into lesson and assessment expectations.
 
 For 1.0-credit courses, list Lessons 1-8 in each unit and identify Lesson 8 as the synthesis/unit-assessment lesson.
 
@@ -80,6 +82,8 @@ Required checks:
 - CPALMS benchmark/course references are checked when available.
 - Common Core is used only when explicitly required or for appropriate literacy-in-science/technical alignment.
 - ACT/SAT alignment is documented as readiness support, not as a replacement for Florida or MLA standards.
+- For every course crosswalk, the agent verifies whether Florida B.E.S.T., Common Core, SAT, and ACT are required support layers and documents them explicitly when required.
+- The crosswalk must distinguish primary content standards from support/readiness standards so lessons and assessments stay inside the course standard while still building evidence, reading, data, and readiness skills.
 - No standard is orphaned.
 - No mapped standard is missing from unit or lesson mapping.
 - No unapproved standard is introduced.
@@ -102,6 +106,7 @@ Do not resolve conflicts silently. Report the conflict and ask for approval if i
 For each lesson, determine:
 
 - What standard is taught?
+- What Florida B.E.S.T., Common Core, SAT, and ACT support alignments apply?
 - What prerequisite knowledge is required?
 - What mathematical or subject object is central?
 - What examples are required to teach the skill?
@@ -119,6 +124,7 @@ Initial analysis is complete only when:
 - All sources are identified.
 - Old source artifacts are excluded.
 - Mapping trace table is complete.
+- Full crosswalk stack is complete: primary standards plus required Florida B.E.S.T., Common Core, SAT, ACT, and ELD/accessibility support alignments.
 - Standards provenance table is complete when standards or crosswalk accuracy is being audited.
 - Science lab/data/visual/simulation mapping columns are complete for science courses.
 - Missing source files are listed.

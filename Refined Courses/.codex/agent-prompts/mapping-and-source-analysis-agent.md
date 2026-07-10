@@ -47,6 +47,18 @@ Produce:
 7. Missing source files
 8. Build readiness decision
 
+The mapping trace table and standards provenance table must include the full course crosswalk stack, not only the primary content standard source. For every course where the alignment is applicable or required, identify:
+
+- primary Florida/CPALMS or other controlling course standard
+- Florida B.E.S.T. support alignment
+- Common Core support alignment
+- SAT readiness support alignment
+- ACT readiness support alignment
+- ELD or accessibility support alignment when applicable
+- visual, source, data, lab, simulation, or assessment-stimulus requirement
+
+Do not approve build readiness if the course package contains only CPALMS/Florida content standards but omits required Florida B.E.S.T., Common Core, SAT, or ACT crosswalk support.
+
 For science courses, the build readiness decision must explicitly state whether the current course package identifies:
 
 - required labs or investigations
