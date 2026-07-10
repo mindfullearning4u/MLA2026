@@ -49,7 +49,10 @@ Include:
 - files requiring correction
 - files not changed due to locked content
 - approval-needed items
+- commit/readiness status showing whether required course-content changes have been committed and whether any remaining uncommitted files are intentionally excluded logs or user-owned files
 
 Do not edit files.
 
 Reject PASS if any subagent report lacks evidence, omits mapping traceability, or treats a required issue as optional.
+
+Reject PASS if confirmed audit findings remain uncorrected, affected audits were not rerun, required course-content changes remain uncommitted, or the course working tree contains unexplained pending changes.

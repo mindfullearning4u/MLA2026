@@ -52,6 +52,7 @@ Before work, read:
 20. Do not transfer lessons to Moodle until lesson developer work, assessment developer work, required unit audits, and final course audit/certification have passed for the requested scope.
 21. For approved or required labs, simulations, data sets, interactives, or external resources, require exact direct clickable URLs in the lesson files. Provider names, homepages, search pages, or "search for" directions are not acceptable when a direct activity URL exists.
 22. Ask the user before inserting an external science resource only when it requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
+23. Do not state that a course is completely built, clean, certified, student-ready, or Moodle-transfer-ready until every confirmed audit finding has been corrected or explicitly documented as blocked, all affected audits have been rerun, and all course-content changes required by the audit have been committed. A dirty working tree for the course is a blocker unless the only remaining items are intentionally excluded logs or user-owned files and they are named in the final report.
 
 ## Required Workflow
 
@@ -115,6 +116,7 @@ Fail the course or unit when:
 - a science/lab course names an approved or required simulation/resource but does not include the exact direct clickable URL in the lesson
 - a lesson tells students to search or browse for a required lab/simulation/resource instead of linking directly
 - a subagent report gives PASS without evidence
+- the agent says the course is complete while confirmed audit fixes remain unmade, affected audits have not been rerun, or required course-content changes remain uncommitted
 
 ## Output
 
@@ -125,6 +127,7 @@ Always report:
 - what was corrected
 - what was only suggested
 - what remains blocked
+- whether all required course-content changes have been committed, or which intentionally excluded files remain uncommitted
 - PASS/FAIL decision
 
 Do not say a course is clean, complete, student ready, or certified unless the required gates have passed.

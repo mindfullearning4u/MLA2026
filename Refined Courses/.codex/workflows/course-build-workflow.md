@@ -25,7 +25,8 @@ Use this workflow when building or repairing a course.
 17. Main agent reruns affected unit/category audits after fixes.
 18. Course completion auditor checks the full course.
 19. Final certification auditor issues decision.
-20. Main agent writes final report.
+20. Main agent verifies that every confirmed audit correction has been made, affected audits have been rerun, and required course-content changes have been committed.
+21. Main agent writes final report.
 
 ## Required Unit/Category Subagent Plan
 
@@ -49,6 +50,17 @@ The main agent may use grouped subagent assignments only when the output remains
 Subagents are read-only unless the user explicitly authorizes subagent edits.
 
 The main agent owns remediation. If a subagent finds a defect, the main agent must inspect the current file, make the necessary fix when valid, rerun validation, and document the correction.
+
+## Completion and Commit Rule
+
+Do not report a course as completely built, clean, certified, student-ready, or Moodle-transfer-ready while valid audit findings are still pending or while required course-content changes are uncommitted.
+
+Before final PASS or Moodle-transfer-ready status, the main agent must verify:
+
+- confirmed audit findings were fixed or explicitly documented as blocked
+- affected audits were rerun after fixes
+- required course-content changes were committed
+- the course working tree is clean, except for intentionally excluded logs, transfer notes, or user-owned files named in the final report
 
 ## Mapping Enforcement Rule
 

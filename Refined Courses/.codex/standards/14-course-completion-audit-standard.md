@@ -41,6 +41,18 @@ Do not rely only on prior certification reports. Validate current files directly
 
 Do not rely only on scripts, tools, or main-agent direct inspection. For full course certification, ALG1-level layered subagent evidence is required. A course cannot be certified if the required unit/category subagent coverage is missing or incomplete.
 
+## Completion and Commit Gate
+
+A course cannot be called completely built, clean, certified, student-ready, or Moodle-transfer-ready until:
+
+- every confirmed audit finding has been corrected or explicitly documented as blocked
+- every affected unit/category audit has been rerun after the correction
+- every required lesson, assessment, metadata, mapping, or course-production change has been saved in the repository
+- every required course-content change has been committed
+- the course working tree is clean, or the only remaining uncommitted items are intentionally excluded logs, transfer notes, or user-owned files named in the final report
+
+If a valid audit finding remains unfixed, if rerun evidence is missing, or if required course-content changes are still uncommitted, the final decision must be `NOT CERTIFIED`.
+
 ## Required Subagent Coverage Certification
 
 Verify:
@@ -166,3 +178,5 @@ Required final decision:
 `NOT CERTIFIED` means at least one required standard, structure, assessment, mapping, LMS, or compliance item failed.
 
 `NOT CERTIFIED` is also required when the subagent coverage table is incomplete or when any subagent PASS lacks evidence.
+
+`NOT CERTIFIED` is also required when required audit corrections remain unmade, affected audits have not been rerun, or required course-content changes remain uncommitted.
