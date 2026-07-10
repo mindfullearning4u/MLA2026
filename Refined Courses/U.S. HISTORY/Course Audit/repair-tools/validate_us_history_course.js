@@ -26,10 +26,10 @@ const prohibited = /your teacher will explain|your teacher will show|wait for te
 const prohibitedHits = htmlFiles.filter((file) => prohibited.test(read(file)));
 const genericVisualHits = htmlFiles.filter((file) => /generic context\/evidence\/reasoning organizer/i.test(read(file)));
 const contentVisualHits = htmlFiles.filter((file) => /content-visual|Historical detail/.test(read(file)));
-const weakXmlPattern = /helps explain the lesson because|important only because it happened before the present day|proves any answer as long as it uses a familiar historical word|only names and dates matter|because explain|Explain the consequence or significance in a complete sentence|Name the historical setting before judging the evidence|Gilded Age railroad dispute|colonial-era event|twentieth-century Cold War policy|can replace the specific evidence/i;
+const weakXmlPattern = /helps explain the lesson because|important only because it happened before the present day|proves any answer as long as it uses a familiar historical word|only names and dates matter|because explain|Explain the consequence or significance in a complete sentence|Name the historical setting before judging the evidence|Gilded Age railroad dispute|colonial-era event|twentieth-century Cold War policy|can replace the specific evidence|(?<!\.)\.\.(?!\.)/i;
 const xmlPolishPattern = /supreme Court|kennedy Space|cuban migration|everglades restoration/;
 const weakXmlHits = [];
-const weakHtmlPattern = /This gives the student the historical setting so the answer is not a guess|is important because it happened in U\.S\. History|How does the evidence in this lesson help explain students|This visual\/stimulus is built|follows from that evidence/i;
+const weakHtmlPattern = /This gives the student the historical setting so the answer is not a guess|is important because it happened in U\.S\. History|How does the evidence in this lesson help explain students|This visual\/stimulus is built|follows from that evidence|(?<!\.)\.\.(?!\.)/i;
 const htmlPolishPattern = /supreme Court|kennedy Space|cuban migration|everglades restoration/;
 const weakHtmlHits = htmlFiles.filter((file) => weakHtmlPattern.test(read(file)));
 for (const file of htmlFiles) {
