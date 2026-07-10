@@ -318,9 +318,20 @@ Important MoodleCloud behavior:
 - MoodleCloud can time out or fail when actions are done too quickly.
 - Do one bank at a time.
 - Wait for each page, modal, upload, import-result page, and continue action to complete before moving to the next bank.
+- If Moodle freezes, times out, or shows an in-page `Reload`, `Refresh`, `Try again`, or similar recovery button, click that Moodle-provided recovery button first before asking the user to reload the browser.
+- After clicking a Moodle recovery button, wait for the page to fully reload, then verify the current course, question bank, category, and expected assessment context before continuing.
+- If the Moodle recovery button does not respond after one careful attempt, use the browser refresh/reload once, wait for the page to fully load, and re-confirm context before continuing.
+- If the browser appears stuck on the current Moodle URL, click/focus the browser address bar URL and press `Enter` or otherwise request navigation to the same URL.
+- If the browser shows a dialog asking whether to `Wait` or `Exit page`/leave the page, choose `Exit page`/leave. This abandons the frozen Moodle request.
+- After choosing `Exit page`/leave, Moodle may show a second Moodle recovery screen/dialog with a `Load`, `Reload`, `Refresh`, or `Try again` button. Click `Load` when it appears.
+- After clicking `Load`, wait for the page to refresh completely. Do not continue while Moodle is still loading.
+- Re-confirm course, activity/question bank, category, and assessment context before continuing.
+- This URL-click -> leave/exit-page -> Moodle reload-button flow is an approved MoodleCloud freeze recovery process and should be attempted before asking the user to manually reload, unless the browser prompt involves unsaved work that the agent has not already verified.
+- Never continue an import, question attachment, or cleanup action after a timeout/freeze until the page context is certain again.
 - MoodleCloud may stall after `Upload this file`. The file picker, loading box, or thinking box may remain open, and the import form may still look empty even though Moodle has already received the XML file.
-- If this happens, do not keep selecting the same file repeatedly. Wait a few seconds, close the stalled file picker/thinking box, and return to the import form.
-- After closing the stalled picker, click `Import` once even if the visible file area still appears empty.
+- Required recovery rule: if the file picker, loading box, or thinking box remains open after upload, wait a few seconds, close that stalled dialog/box, and return to the import form.
+- After the stalled dialog/box is closed, click `Import` once even if the visible file area still appears empty or does not show the filename.
+- Do not reselect or re-upload the same file before trying this close-dialog-then-import recovery step.
 - If Moodle proceeds to `Parsing questions from import file`, an import-result page, or a `Continue` page, the file attached successfully even if Moodle never visibly displayed the filename first.
 - If Moodle returns to the import form with a required-file validation message, then the file did not attach. Only then reopen `Choose a file...` and repeat the file selection.
 - After any stalled-picker recovery, verify the question bank itself before retrying the upload. Open the bank and confirm whether the expected questions loaded; do not create duplicate imports because the file box looked empty.
@@ -506,6 +517,13 @@ When selecting the category, use Moodle's visible `Type or select...` autocomple
 
 Do not rely only on Moodle's hidden category select control or backend option value. Moodle may leave the visible selected item on the default category, which can make the picker return zero questions even when the imported question bank contains the correct questions.
 
+For `Add a random question`, Moodle has two relevant category controls:
+
+1. The filter category used to display or confirm the imported questions.
+2. The random-question source category, sometimes shown as the parent/source category for the random slot.
+
+Both category controls must point to the same imported production category before adding random questions. If only the filter category is changed and the source category remains on `Default for ...`, Moodle may return to the quiz with `Questions: 0` or add random slots from the wrong source. For lesson quizzes, confirm the random slots say they draw from the imported lesson quiz category, such as `STAT_U01_L01_Quiz and subcategories`, and from the correct short bank, such as `U1L1 Q`.
+
 After choosing the imported category chip:
 
 1. Confirm the visible selected item/chip shows the imported category name and count.
@@ -514,12 +532,16 @@ After choosing the imported category chip:
 
 If the picker shows duplicate recent-bank labels, inspect whether the duplicates point to the same Moodle question-bank id. Duplicate recent labels that point to the same bank id are not duplicate imports by themselves. If duplicate labels point to different bank ids or the category choices do not match the expected course/unit/lesson/assessment naming, stop and report the mismatch before adding questions.
 
+For pretests, Moodle may display `Current bank: U# PRETEST` while the picker is still using the quiz activity's empty local bank. If the imported category, such as `STAT_U02_Pretest (10)`, does not appear, click `Switch bank` even if the current-bank label looks correct. In the switcher, select the course-level `U# PRETEST` entry, not the first/local quiz-bank entry. After selecting the course-level entry, wait for the category selector to repopulate and confirm the imported category appears before adding questions.
+
 If the picker briefly returns zero questions after a bank or category change:
 
 1. Wait for Moodle to finish rendering.
 2. Re-check the visible selected category chip.
 3. Re-apply filters if needed.
 4. Verify the quiz setup page still shows `Questions: 0` before retrying.
+
+If `Add a random question` appears to return to the quiz setup page with `Questions: 0`, do not immediately submit again. MoodleCloud may show stale quiz setup text during the transition. Reload or reopen the same quiz edit page once, wait for it to finish loading, and verify the actual count. Only retry the random-question add if the reloaded quiz setup page still shows `Questions: 0`.
 
 Never add a second set of questions unless the quiz setup page confirms the activity is still empty or the existing count is incorrect and the user has approved the correction.
 
@@ -575,16 +597,21 @@ Use this procedure for each lesson quiz activity.
 2. Open the correct lesson quiz activity, such as `U1L1 Q`.
 3. Open the quiz question editing page.
 4. Choose `Add a random question`.
-5. Confirm the selected question bank is the matching lesson quiz bank, such as `U1L1 Q`.
-6. In the visible `Type or select...` category autocomplete, choose the imported category containing the quiz bank questions, such as `ALG1_U01_L01_Quiz (20)` or the exact count shown by the imported course category.
-7. Confirm there is only one matching imported question set for that lesson quiz.
-8. Apply the filter or selection so Moodle loads the questions from that category.
-9. Set the number of random questions to `5`.
-10. Add the random questions to the quiz.
-11. Wait for Moodle to finish loading.
-12. Open the quiz.
-13. Click `Preview`.
-14. Verify the quiz displays correctly and is drawing from the correct lesson quiz bank.
+5. If Moodle shows `Current bank` as the quiz activity's local bank, click `Switch bank` and choose the matching course question bank, such as `U1L1 Q`.
+6. Confirm the selected question bank is the matching lesson quiz bank, such as `U1L1 Q`.
+7. In the visible `Type or select...` category autocomplete or category selector, choose the imported category containing the quiz bank questions, such as `ALG1_U01_L01_Quiz (20)` or the exact count shown by the imported course category.
+8. Set the random-question source category or parent category to the same imported category. Do not leave this source category on `Default for U#L# Q`.
+9. Confirm there is only one matching imported question set for that lesson quiz.
+10. Apply the filter or selection so Moodle loads or confirms the questions from that category.
+11. Set the number of random questions to `5`.
+12. Add the random questions to the quiz.
+13. Confirm Moodle reports that random questions were added.
+14. Verify the quiz setup page shows exactly `Questions: 5` and `Total of marks: 5.00`.
+15. Verify each random slot says it draws from the imported lesson quiz category and the matching short bank.
+16. Wait for Moodle to finish loading.
+17. Open the quiz.
+18. Click `Preview`.
+19. Verify the quiz displays correctly and is drawing from the correct lesson quiz bank.
 
 Lesson quizzes must use 5 random questions from the matching lesson quiz bank. Do not select all fixed questions for a lesson quiz unless the user explicitly changes the academy rule.
 

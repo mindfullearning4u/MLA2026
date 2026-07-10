@@ -11,8 +11,8 @@ Official build target: **47 catalog courses**
 ```text
 47 total courses
 21 course-build complete / Moodle transfer ready
-3 transferred to Moodle
-1 currently in Moodle transfer
+5 transferred to Moodle
+0 currently in Moodle transfer
 26 still need to be built
 ```
 
@@ -38,9 +38,9 @@ Official build target: **47 catalog courses**
 | Algebra 1 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Geometry | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Algebra 2 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
-| Pre-Calculus | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation |
+| Pre-Calculus | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Math for College Readiness | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Statistics | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Statistics | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Biology (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Chemistry (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Physics (Lab) | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -96,9 +96,9 @@ These courses have active course folders and have been treated as course-build c
 | Mathematics | Algebra 1 | `ALG1` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Mathematics | Geometry | `GEOMETRY` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Mathematics | Algebra 2 | `ALG2` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
-| Mathematics | Pre-Calculus | `PRECALCULUS` | Complete | Complete | Complete | Moodle transfer ready | In Moodle transfer / needs confirmation | Moodle transfer session log exists in repo. |
+| Mathematics | Pre-Calculus | `PRECALCULUS` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | Final Moodle transfer certification passed; see `PRECALCULUS\Course Audit\PRECALCULUS_MOODLE_TRANSFER_SESSION_LOG_2026-07-08.md`. |
 | Mathematics | Math for College Readiness | `Math for College Readiness` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Math course completed under layered rigor audit expectations. |
-| Mathematics | Statistics | `STATISTICS` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Math course completed under layered rigor audit expectations. |
+| Mathematics | Statistics | `STATISTICS` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | Final Moodle transfer certification passed; see `STATISTICS\Course Audit\STATISTICS_MOODLE_TRANSFER_SESSION_LOG_2026-07-09.md`. |
 | Science | Biology (Lab) | `BIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Lab/simulation links must be direct and include step-by-step student directions. |
 | Science | Chemistry (Lab) | `CHEMISTRY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Final chemistry audit was completed after direct resource wording corrections. |
 | Science | Physics (Lab) | `PHYSICS` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Lab/simulation links must be direct and include step-by-step student directions. |
@@ -153,7 +153,8 @@ The following should be updated only after a transfer agent or Moodle verificati
 | Algebra 1 | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Algebra 2 | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Geometry | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
-| Pre-Calculus | In Moodle transfer / needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Moodle transfer session log exists in repo. |
+| Pre-Calculus | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle transfer certification passed; see `PRECALCULUS\Course Audit\PRECALCULUS_MOODLE_TRANSFER_SESSION_LOG_2026-07-08.md`. |
+| Statistics | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle transfer certification passed; see `STATISTICS\Course Audit\STATISTICS_MOODLE_TRANSFER_SESSION_LOG_2026-07-09.md`. |
 | All other completed courses | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Confirm after Moodle transfer agent completes. |
 
 ## Next Tracker Decisions Needed

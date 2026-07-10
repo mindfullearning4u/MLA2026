@@ -1,4 +1,4 @@
-# STATISTICS - Statistics
+# Statistics
 **Credit:** 1.0 High School Mathematics Credit  
 **Course Type:** Mastery-Based High School Mathematics Course  
 
@@ -20,10 +20,10 @@ As a registered private school in the State of Florida, Mindful Learning Academy
 
 To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-â€¢ Florida B.E.S.T. / CPALMS Probability and Statistics Benchmarks
-â€¢ Common Core State Standards
-â€¢ SAT College Readiness Standards
-â€¢ ACT College and Career Readiness Standards
+- Florida B.E.S.T. / CPALMS Probability and Statistics Benchmarks
+- Common Core State Standards
+- SAT College Readiness Standards
+- ACT College and Career Readiness Standards
 
 This multi-framework approach allows students to develop mastery of essential concepts and skills while maintaining alignment with widely recognized academic expectations.
 
@@ -73,22 +73,22 @@ The course is organized into six units, each designed to build progressively on 
 
 Approved Statistics unit sequence:
 
-â€¢ Unit 1: Statistical Thinking and Data Foundations  
+- Unit 1: Statistical Thinking and Data Foundations  
 Students develop statistical thinking through statistical questions, variability, data types, variables, populations, samples, parameters, statistics, and the role of context.
 
-â€¢ Unit 2: Numerical Data, Variability, and Distribution Models  
+- Unit 2: Numerical Data, Variability, and Distribution Models  
 Students summarize and compare numerical data using measures of center, measures of variability, shape, outliers, normal models, standard deviation, and population percentage estimates.
 
-â€¢ Unit 3: Bivariate Data, Association, and Models  
+- Unit 3: Bivariate Data, Association, and Models  
 Students analyze relationships between two variables using correlation and causation, scatterplots, linear models, residuals, correlation coefficient, exponential models, two-way tables, relative frequencies, and categorical association.
 
-â€¢ Unit 4: Probability, Conditional Probability, and Counting  
+- Unit 4: Probability, Conditional Probability, and Counting  
 Students reason about sample spaces, events, complements, conditional probability, independence, empirical probability, addition and multiplication rules, counting rules, permutations, and combinations.
 
-â€¢ Unit 5: Sampling, Bias, Simulation, and Statistical Inference  
+- Unit 5: Sampling, Bias, Simulation, and Statistical Inference  
 Students analyze population parameters, sample statistics, random sampling, sampling methods, bias, surveys, observational studies, experiments, margin of error, confidence level, simulated samples, randomized treatment comparisons, statistical significance, and evidence-based decisions.
 
-â€¢ Unit 6: Random Variables, Expected Value, and Probability Decisions  
+- Unit 6: Random Variables, Expected Value, and Probability Decisions  
 Students develop and interpret probability distributions, random variables, theoretical and empirical expected value, binomial and geometric distributions, payoff values, risk, strategy comparison, and fair probability-based decisions.
 
 Most lessons follow the MLA instructional workflow:
@@ -106,10 +106,10 @@ This structure provides multiple opportunities to learn, practice, apply, and de
 
 Each unit also includes:
 
-â€¢ Unit Pretest (diagnostic and acceleration eligibility)
-â€¢ Standards-aligned lessons
-â€¢ Teacher-reviewed submissions
-â€¢ Unit Assessment
+- Unit Pretest (diagnostic and acceleration eligibility)
+- Standards-aligned lessons
+- Teacher-reviewed submissions
+- Unit Assessment
 
 Instruction follows a mastery-based progression model requiring demonstrated understanding before advancement.
 
@@ -120,19 +120,19 @@ Instruction follows a mastery-based progression model requiring demonstrated und
 Most lessons follow the same learning sequence:
 
 Notebook Task Part 1
-â†“
+->
 Notebook Task Part 2
-â†“
+->
 Guided Practice
-â†“
+->
 Independent Work
-â†“
+->
 Checkpoint
-â†“
+->
 Notebook Evidence Submission
-â†“
+->
 Checkpoint Submission
-â†“
+->
 Lesson Quiz
 
 This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
@@ -151,9 +151,9 @@ Diagnostic assessments aligned to MLA standards and cross-referenced academic fr
 
 Includes:
 
-â€¢ Notebook Task Part 1
-â€¢ Notebook Task Part 2
-â€¢ Independent Work
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
 
 Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
 
@@ -197,18 +197,18 @@ Mindful Learning Academy follows a mastery-based learning model.
 
 To progress successfully through the course, students must:
 
-â€¢ Complete all required lesson components
-â€¢ Submit Notebook Evidence
-â€¢ Submit Checkpoint Responses
-â€¢ Demonstrate lesson mastery through Lesson Quizzes
-â€¢ Complete all Unit Assessments
+- Complete all required lesson components
+- Submit Notebook Evidence
+- Submit Checkpoint Responses
+- Demonstrate lesson mastery through Lesson Quizzes
+- Complete all Unit Assessments
 
 Mastery is demonstrated through consistent performance across:
 
-â€¢ Notebook Evidence Submissions
-â€¢ Checkpoint Submissions
-â€¢ Lesson Quizzes
-â€¢ Unit Assessments
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
 
 A minimum mastery level of 80% is required before advancement.
 
