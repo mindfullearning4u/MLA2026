@@ -2,7 +2,7 @@
 
 Source: `C:\Users\acrue\MLA2026-1\catalogs\HS Catalog`
 
-Last updated: 2026-07-10
+Last updated: 2026-07-11
 
 ## Quick View
 
@@ -109,6 +109,7 @@ These courses have active course folders and have been treated as course-build c
 | Science Electives | Anatomy & Physiology | `ANATOMY AND PHYSIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Science layered audit requirements apply. |
 | English Electives | Creative Writing | `CREATIVE WRITING` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English elective completed. |
 | English Electives | Journalism | `JOURNALISM` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English elective completed. |
+| Social Studies and Financial Literacy | World History | `WORLD HISTORY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with social studies layered audit requirements. |
 | Social Studies and Financial Literacy | U.S. History | `U.S. HISTORY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with social studies layered audit requirements. |
 | Social Studies and Financial Literacy | U.S. Government | `U.S. GOVERNMENT` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | 0.5-credit structure: 6 units, 5 lessons per unit; Lesson 05 synthesis/unit assessment only. |
 
@@ -118,7 +119,6 @@ These courses are listed in the catalog but do not currently have completed acti
 
 | Department | Catalog Course | Credits | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | Build Target |
 |---|---|---:|---|---|---|---|---|---|
-| Social Studies and Financial Literacy | World History | 1.0 | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Required |
 | Social Studies and Financial Literacy | Personal Financial Literacy and Economics | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Physical Education & Health | Health & Physical Education | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Fine Arts / Practical Arts | Foundations of Art | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
