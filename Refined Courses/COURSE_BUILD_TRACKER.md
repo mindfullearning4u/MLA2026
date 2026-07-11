@@ -11,8 +11,8 @@ Official build target: **47 catalog courses**
 ```text
 47 total courses
 25 course-build complete / Moodle transfer ready
-6 transferred to Moodle
-1 currently in Moodle transfer
+7 transferred to Moodle
+0 currently in Moodle transfer
 22 still need to be built
 ```
 
@@ -31,7 +31,7 @@ Official build target: **47 catalog courses**
 
 | Course | Department | Credits | Course Production | Lessons + Assessments | Final Audit | Moodle Transfer |
 |---|---|---:|---|---|---|---|
-| English I | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer |
+| English I | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | English II | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | English III | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | English IV | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -89,7 +89,7 @@ These courses have active course folders and have been treated as course-build c
 
 | Department | Catalog Course | Repo Folder | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | Notes |
 |---|---|---|---|---|---|---|---|---|
-| English / Language Arts | English I | `ENGLISH I` | Complete | Complete | Complete | Moodle transfer ready | In Moodle transfer | English I transfer agent is currently finishing Moodle transfer. |
+| English / Language Arts | English I | `ENGLISH I` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH I\Course Audit\ENGLISH_I_MOODLE_TRANSFER_LOG_2026-07-10.md`. |
 | English / Language Arts | English II | `ENGLISH II` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
 | English / Language Arts | English III | `ENGLISH III` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
 | English / Language Arts | English IV | `ENGLISH IV` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
@@ -156,7 +156,7 @@ The following should be updated only after a transfer agent or Moodle verificati
 | Pre-Calculus | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle transfer certification passed; see `PRECALCULUS\Course Audit\PRECALCULUS_MOODLE_TRANSFER_SESSION_LOG_2026-07-08.md`. |
 | Statistics | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle transfer certification passed; see `STATISTICS\Course Audit\STATISTICS_MOODLE_TRANSFER_SESSION_LOG_2026-07-09.md`. |
 | Math for College Readiness | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `Math for College Readiness\Course Audit\MCR_MOODLE_TRANSFER_LOG_2026-07-10.md`. |
-| English I | In Moodle transfer | In Moodle transfer | In Moodle transfer | In Moodle transfer | Transfer agent currently finishing English I. |
+| English I | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH I\Course Audit\ENGLISH_I_MOODLE_TRANSFER_LOG_2026-07-10.md`. |
 | All other completed courses | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Confirm after Moodle transfer agent completes. |
 
 ## Next Tracker Decisions Needed
