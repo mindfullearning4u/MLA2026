@@ -11,9 +11,11 @@ Official build target: **47 catalog courses**
 ```text
 47 total courses
 28 course-build complete / Moodle transfer ready
+1 course-production complete / lessons and assessments pending
 8 transferred to Moodle
 0 currently in Moodle transfer
-19 still need to be built
+18 not started
+19 still need lessons, assessments, final audit, or full build completion
 ```
 
 ## Status Key
@@ -67,7 +69,7 @@ Official build target: **47 catalog courses**
 | Data Literacy for Teens | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | Psychology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Sociology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Global Perspectives | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
+| Global Perspectives | Social Sciences & Humanities | 1.0 | Complete | Not started | Not started | Not started |
 | Cultural Studies | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
 | Marine Science | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Anatomy & Physiology | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -136,7 +138,7 @@ These courses are listed in the catalog but do not currently have completed acti
 | Technology & AI Pathway | Digital Citizenship & Online Safety | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Coding with Python | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Data Literacy for Teens | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
-| Social Sciences & Humanities | Global Perspectives | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
+| Social Sciences & Humanities | Global Perspectives | 1.0 | Complete | Not started | Not started | Not started | Not started | Required |
 | Social Sciences & Humanities | Cultural Studies | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Business & Entrepreneurship | Principles of Business | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Business & Entrepreneurship | Entrepreneurship Lab | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |

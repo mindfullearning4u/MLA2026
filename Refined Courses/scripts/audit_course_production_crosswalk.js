@@ -16,6 +16,7 @@ const courses = [
   "PERSONAL FINANCIAL LITERACY AND ECONOMICS",
   "PSYCHOLOGY",
   "SOCIOLOGY",
+  "GLOBAL PERSPECTIVES",
 ];
 
 const requiredCategories = {
@@ -46,6 +47,7 @@ const socialCourses = new Set([
   "PERSONAL FINANCIAL LITERACY AND ECONOMICS",
   "PSYCHOLOGY",
   "SOCIOLOGY",
+  "GLOBAL PERSPECTIVES",
 ]);
 
 function read(file) {

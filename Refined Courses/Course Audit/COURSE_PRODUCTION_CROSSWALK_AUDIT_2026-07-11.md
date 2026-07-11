@@ -23,6 +23,7 @@ This audit checks course production files as the accreditation/compliance backbo
 | PERSONAL FINANCIAL LITERACY AND ECONOMICS | 8/8 | 24 | 24 | 24 | 24 | 48 |  | 0 | PASS |
 | PSYCHOLOGY | 8/8 | 14 | 14 | 14 | 14 | 48 |  | 0 | PASS |
 | SOCIOLOGY | 8/8 | 14 | 14 | 14 | 14 | 48 |  | 0 | PASS |
+| GLOBAL PERSPECTIVES | 8/8 | 13 | 13 | 13 | 13 | 48 |  | 0 | PASS |
 
 Overall Decision: PASS - course production crosswalk packages are tight
 
@@ -123,3 +124,7 @@ PASS: Crosswalk, inventory, unit mapping, lesson mapping, and required productio
 
 Warnings:
 - Course overview does not use explicit Course Overview heading.
+
+## GLOBAL PERSPECTIVES
+
+PASS: Crosswalk, inventory, unit mapping, lesson mapping, and required production controls are traceable.
