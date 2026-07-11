@@ -110,7 +110,10 @@ function extractRows(markdown) {
 }
 
 function countLessonRows(markdown) {
-  return extractRows(markdown).filter((row) => /^\|\s*(?:Unit\s*)?\d+\s*\|\s*(?:Lesson\s*)?\d+/i.test(row)).length;
+  const lineRows = extractRows(markdown).filter((row) => /^\|\s*(?:Unit\s*)?\d+\s*\|\s*(?:Lesson\s*)?\d+/i.test(row)).length;
+  if (lineRows > 0) return lineRows;
+  const inlineRows = markdown.match(/\|\s*(?:Unit\s*)?\d+\s*\|\s*(?:Lesson\s*)?\d+\s*\|/gi) || [];
+  return inlineRows.length;
 }
 
 function countUnitRows(markdown) {

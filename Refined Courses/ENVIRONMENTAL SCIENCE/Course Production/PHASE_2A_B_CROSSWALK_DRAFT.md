@@ -61,3 +61,57 @@ This document is architecture only. It does not create lessons, assessments, HTM
 | Scientific literacy included | PASS |
 | Sustainability literacy included | PASS |
 | Environmental Science identity preserved | PASS |
+
+<!-- EXTERNAL-CPALMS-VERIFICATION-START -->
+
+## External CPALMS Verification Addendum
+
+This addendum was generated from the official CPALMS course record(s) on 2026-07-11. These codes are the external source-of-truth content standards that the local MLA crosswalk must remain bounded to and trace through course production, lessons, and assessments.
+
+| Official CPALMS Record | Source URL |
+|---|---|
+| Environmental Science #2001340 | https://www.cpalms.org/PreviewCourse/Preview/23803 |
+
+| Official Content Code | Verification Requirement |
+|---|---|
+| SC.912.E.6.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.E.7.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.E.7.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.E.7.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.14.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.15.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.15.13 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.16.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.11 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.12 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.13 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.14 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.15 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.16 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.18 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.19 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.L.17.20 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.1.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.1.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.1.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.1.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.1.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.1.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.2.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.2.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.2.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.3.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.3.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.N.4.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.P.10.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SC.912.P.10.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+
+<!-- EXTERNAL-CPALMS-VERIFICATION-END -->

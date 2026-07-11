@@ -62,3 +62,118 @@
 | MLA.PSY.CAP.2 | Unit 06 Lesson 08 | Synthesis: Psychology Capstone and Ethical Application | Guided Practice, Unit Assessment, and mapped notebook/checkpoint evidence |
 | MLA.PSY.MH.1 | Unit 06 Lesson 08 | Synthesis: Psychology Capstone and Ethical Application | Guided Practice, Unit Assessment, and mapped notebook/checkpoint evidence |
 | MLA.PSY.MH.2 | Unit 06 Lesson 08 | Synthesis: Psychology Capstone and Ethical Application | Guided Practice, Unit Assessment, and mapped notebook/checkpoint evidence |
+
+<!-- EXTERNAL-CPALMS-VERIFICATION-START -->
+
+## External CPALMS Verification Addendum
+
+This addendum was generated from the official CPALMS course record(s) on 2026-07-11. These codes are the external source-of-truth content standards that the local MLA crosswalk must remain bounded to and trace through course production, lessons, and assessments.
+
+| Official CPALMS Record | Source URL |
+|---|---|
+| Psychology 1 #2107300 | https://www.cpalms.org/PreviewCourse/Preview/24561 |
+
+| Official Content Code | Verification Requirement |
+|---|---|
+| SS.912.P.1.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.1.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.1.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.1.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.1.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.11 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.2.12 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.11 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.12 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.13 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.3.14 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.11 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.12 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.13 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.14 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.15 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.6.16 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.7.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.8.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.11 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.11.12 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.12.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.12.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.12.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.12.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.12.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.12.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.13.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.1 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.2 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.3 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.4 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.5 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.6 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.7 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.8 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.9 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.10 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+| SS.912.P.16.11 | Must be represented in the local crosswalk package and remain within the approved unit and lesson mapping. |
+
+<!-- EXTERNAL-CPALMS-VERIFICATION-END -->
