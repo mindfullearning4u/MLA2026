@@ -20,6 +20,7 @@ Before any Moodle transfer begins, the main agent must verify and cite evidence 
 - the final course audit/certification gate is PASS when the requested scope is a full course
 - every confirmed issue from lesson rigor, structure/workflow, assessment alignment, assessment visual/XML, metadata/LMS, mapping, and final audit has been fixed and rerun
 - the transfer agent has performed a final repository checkpoint on the exact lesson files to be transferred
+- for full-course transfer, the course overview follows the approved ALG1-style student-facing structure and contains no internal-only production, architecture, draft, source-validation, or placeholder language
 
 If any required gate is missing, unsupported, incomplete, or FAIL, stop. Do not open Moodle for transfer. Complete the lesson, assessment, and audit work first.
 

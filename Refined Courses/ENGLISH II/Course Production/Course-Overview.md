@@ -16,7 +16,7 @@ Instruction is designed for independent student mastery in an online learning en
 
 ## Standards Alignment
 
-As a registered private school in the State of Florida, Mindful Learning Academy follows the Florida B.E.S.T. Standards as its primary academic framework.
+As a registered private school in the State of Florida, Mindful Learning Academy follows the Florida B.E.S.T. (Benchmarks for Excellent Student Thinking) Standards as its primary academic framework.
 
 To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
@@ -24,10 +24,10 @@ To support students across the United States and prepare them for future academi
 - Common Core Grade 9-10 English Language Arts Standards
 - SAT Reading and Writing expectations
 - ACT English and Reading expectations
-- College readiness expectations
-- Workforce communication expectations
 
-Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, instructional progression, assessment evidence, and mastery expectations. Each MLA English II standard is aligned to a Grade 10 Florida B.E.S.T. benchmark and organized within the approved MLA English domains:
+This multi-framework approach allows students to develop mastery of required English II skills while maintaining alignment with widely recognized academic and readiness expectations.
+
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA English II standard is aligned to one or more external academic frameworks and organized within the approved MLA English domains:
 
 - Reading
 - Writing
@@ -35,6 +35,10 @@ Mindful Learning Academy uses the MLA Standards Framework, a competency-based sy
 - Vocabulary
 - Research
 - Communication
+
+Students residing in states that do not use Florida B.E.S.T. or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes close reading, evidence-based reasoning, writing development, research, language precision, communication, and real-world application. Students demonstrate mastery through a competency-based progression model designed to support college, career, and lifelong learning readiness.
 
 ---
 
@@ -118,6 +122,38 @@ Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting I
 
 ---
 
+## Lesson Workflow
+
+Lessons 1-7 follow the same learning sequence:
+
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+
+English II lessons are designed to support independent mastery. Lessons explicitly teach reading, writing, research, language, vocabulary, and communication skills before students are expected to analyze, write, revise, research, or present independently.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
+
+---
+
 ## Assessment Structure
 
 Student learning is evaluated using multiple standards-aligned measures:
@@ -126,13 +162,23 @@ Student learning is evaluated using multiple standards-aligned measures:
 
 Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
 
-### Notebook Evidence Submissions
+### Notebook Evidence Submissions (Teacher of Record Graded)
 
-Includes Notebook Task Part 1, Notebook Task Part 2, Independent Work, notes, annotations, planning work, vocabulary reasoning, source notes, response drafts, revision notes, and practice work completed during instruction.
+Includes:
 
-### Checkpoint Submissions
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
+
+Students may also include additional notes, annotations, planning work, vocabulary reasoning, source notes, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reading process, writing process, and the development of academic habits.
+
+### Checkpoint Submissions (Teacher of Record Graded)
 
 Application-based mastery tasks requiring students to demonstrate reading analysis, writing development, research process, revision, communication, and evidence-based reasoning.
+
+Checkpoint Submission demonstrates application of English II skills in contexts that require explanation, support, organization, and communication.
 
 ### Lesson Quizzes
 
@@ -142,18 +188,62 @@ Standards-aligned quizzes in Lessons 1-7 that verify mastery of taught lesson sk
 
 Lesson 8 contains the Unit Assessment and synthesizes standards already taught in Lessons 1-7. Lesson 8 does not introduce new primary standards.
 
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
+
 ---
 
-## Production Controls
+## Mastery & Progression Criteria
 
-- English II follows the completed English I production framework as the master template.
-- The course uses six units and eight lessons per unit.
-- Lesson 8 remains Putting It All Together in every unit.
-- Lesson content is not created in this architecture phase.
-- All lesson production must preserve MLA naming conventions, artifact formats, audit phases, and structure-only controls until content development is authorized.
+Mindful Learning Academy follows a mastery-based learning model.
+
+To progress successfully through the course, students must:
+
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes in Lessons 1-7.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
+
+Mastery is demonstrated through consistent performance across:
+
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
+
+A minimum mastery level of 80% is required before advancement.
+
+Students may be required to revise and resubmit work until mastery is demonstrated.
+
+Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
+
+Revision opportunities, additional practice, remediation, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
 
-## Source and Validation Note
+## College / Skill Readiness Integration
 
-This architecture uses the public CPALMS standards system as the official source location for Florida standards references and mirrors the completed English I MLA framework. Benchmark wording was verified against CPALMS during the final architecture audit before lesson production.
+English II integrates skills essential for college readiness, career readiness, and future academic success. Students develop:
+
+- Close reading and evidence-based interpretation of complex literary and informational texts.
+- Academic vocabulary and precise language use.
+- Literary analysis, rhetorical analysis, and argument evaluation.
+- Argument, expository, narrative, research, and multimedia writing.
+- Source evaluation, synthesis, and responsible research habits.
+- Revision, audience awareness, clarity, cohesion, and standard English control.
+- Oral, digital, and collaborative communication.
+
+Instruction includes structured opportunities aligned with SAT Reading and Writing, ACT English and Reading, college readiness expectations, and workforce communication expectations.
+
+The course prepares students for advanced English coursework by strengthening independent reading, writing, research, revision, and communication habits that transfer across academic and professional contexts.

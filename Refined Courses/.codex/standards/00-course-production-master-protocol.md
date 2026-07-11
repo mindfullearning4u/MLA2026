@@ -37,6 +37,7 @@ The expected quality bar is strict: every course must be built as if it will be 
 25. Lessons must not rely on teacher-led instruction, teacher checks, or teacher guidance. The lesson pages must teach the content. Teacher of Record language is allowed only for support, intervention, checkpoint, submission, clarification, retake, and workflow decisions.
 26. Lessons and assessments must stay within the approved course standards, unit mapping, and lesson mapping. No outside-standard content, future-unit content, future-lesson content, or unmapped content may be taught or assessed unless explicitly allowed by the approved mapping.
 27. Course credit value controls lesson count. A 1.0-credit course uses 6 units with 8 lessons per unit. A 0.5-credit course uses 6 units with 5 lessons per unit. For 0.5-credit courses, Lesson 5 is the synthesis/unit-assessment lesson, includes Guided Practice and Unit Assessment, and must not have a Lesson Quiz. Lessons 1-4 have lesson quizzes.
+28. Course overview files must follow the approved ALG1-style student-facing structure unless the user explicitly approves a different department overview model. Required sections are: Course Description, Standards Alignment, Learning Objectives / Outcomes, Prerequisite Knowledge / Skills, Course Structure, Lesson Workflow, Assessment Structure, Mastery & Progression Criteria, and College / Skill Readiness Integration. Course overview files prepared for Moodle orientation must not contain internal-only architecture notes, production-control language, "content not created" language, source-validation notes, draft labels, placeholders, or audit-only commentary.
 
 ## Main Agent Responsibility
 
@@ -163,28 +164,30 @@ For each course:
 2. Identify all required source files.
 3. Build a mapping trace table before edits.
 4. Confirm unit count, lesson count, and lesson titles.
-5. Audit current structure.
-6. Audit lesson-page model.
-7. Audit standards traceability.
-8. Audit instructional rigor.
-9. Audit mathematical or domain visuals.
-10. Audit assessments.
-11. Audit assessment visuals with the blocking visual gate.
-12. Audit external resources and simulations.
-13. Make only approved corrections.
-14. Re-validate current files directly.
-15. Run unit completion audit after each completed unit.
-16. Run cross-check verification on subagent reports.
-17. Fix every confirmed subagent finding or document why it is invalid.
-18. Rerun the affected unit/category audits after fixes.
-19. Run final course completion audit after all units pass.
-20. Produce final PASS/FAIL report.
+5. Audit the course overview against the approved ALG1-style student-facing structure.
+6. Audit current structure.
+7. Audit lesson-page model.
+8. Audit standards traceability.
+9. Audit instructional rigor.
+10. Audit mathematical or domain visuals.
+11. Audit assessments.
+12. Audit assessment visuals with the blocking visual gate.
+13. Audit external resources and simulations.
+14. Make only approved corrections.
+15. Re-validate current files directly.
+16. Run unit completion audit after each completed unit.
+17. Run cross-check verification on subagent reports.
+18. Fix every confirmed subagent finding or document why it is invalid.
+19. Rerun the affected unit/category audits after fixes.
+20. Run final course completion audit after all units pass.
+21. Produce final PASS/FAIL report.
 
 ## PASS Requirements
 
 A course cannot receive PASS unless:
 
 - Unit and lesson sequence match certified mapping.
+- Course overview uses the approved student-facing structure and is suitable for Moodle orientation transfer.
 - Every mapped standard is taught in the assigned lesson.
 - Every mapped standard has appropriate assessment evidence.
 - Every assessment question traces to the approved lesson or unit mapping.

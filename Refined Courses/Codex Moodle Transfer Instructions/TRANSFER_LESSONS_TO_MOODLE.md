@@ -48,17 +48,19 @@ Required primary-agent checks before transfer:
 4. Identify the exact repository course folder.
 5. Identify the exact Moodle course shell.
 6. Confirm the course overview file exists and belongs to the correct course.
-7. Confirm unit and lesson mapping files exist and are current.
-8. Confirm every required lesson folder belongs to the correct course, unit, and lesson.
-9. Confirm required transfer pages `P01`, `P02`, `P03`, `P04`, `P06`, and `P07` exist for every lesson in scope.
-10. Confirm no lesson content has bled into the wrong unit, wrong lesson, or wrong page type.
-11. Confirm lesson page titles, headings, examples, tasks, vocabulary, standards, and internal references match the intended unit and lesson.
-12. Confirm lesson files visually and structurally follow the academy standard before transfer.
-13. Confirm Moodle XML assessments exist for every required pretest, guided practice, quiz, and unit assessment.
-14. Confirm assessment files align to the same course, unit, lesson, and mastery sequence as the lesson pages.
-15. Confirm assessment files are staged for Moodle import using the approved D drive path and naming sequence.
-16. Confirm no open audit defect remains unresolved.
-17. Perform the final repository checkpoint on the exact lesson pages to be transferred before opening Moodle or saving any Moodle page.
+7. Confirm the course overview follows the approved ALG1-style student-facing structure: Course Description, Standards Alignment, Learning Objectives / Outcomes, Prerequisite Knowledge / Skills, Course Structure, Lesson Workflow, Assessment Structure, Mastery & Progression Criteria, and College / Skill Readiness Integration.
+8. Confirm the course overview contains no internal-only architecture notes, production-control language, "content not created" language, source-validation notes, draft labels, placeholders, or audit-only commentary.
+9. Confirm unit and lesson mapping files exist and are current.
+10. Confirm every required lesson folder belongs to the correct course, unit, and lesson.
+11. Confirm required transfer pages `P01`, `P02`, `P03`, `P04`, `P06`, and `P07` exist for every lesson in scope.
+12. Confirm no lesson content has bled into the wrong unit, wrong lesson, or wrong page type.
+13. Confirm lesson page titles, headings, examples, tasks, vocabulary, standards, and internal references match the intended unit and lesson.
+14. Confirm lesson files visually and structurally follow the academy standard before transfer.
+15. Confirm Moodle XML assessments exist for every required pretest, guided practice, quiz, and unit assessment.
+16. Confirm assessment files align to the same course, unit, lesson, and mastery sequence as the lesson pages.
+17. Confirm assessment files are staged for Moodle import using the approved D drive path and naming sequence.
+18. Confirm no open audit defect remains unresolved.
+19. Perform the final repository checkpoint on the exact lesson pages to be transferred before opening Moodle or saving any Moodle page.
 
 If any check fails, the primary agent must stop Moodle transfer for the affected scope and assign or perform repository correction before Moodle work continues. The agent must not "fix around" repository problems directly in Moodle.
 
