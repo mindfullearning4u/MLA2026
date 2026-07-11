@@ -10,10 +10,10 @@ Official build target: **47 catalog courses**
 
 ```text
 47 total courses
-21 course-build complete / Moodle transfer ready
+23 course-build complete / Moodle transfer ready
 6 transferred to Moodle
 0 currently in Moodle transfer
-26 still need to be built
+24 still need to be built
 ```
 
 ## Status Key
@@ -47,8 +47,8 @@ Official build target: **47 catalog courses**
 | Earth/Space Science | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Environmental Science | Science | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | World History | Social Studies and Financial Literacy | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| U.S. History | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
-| U.S. Government | Social Studies and Financial Literacy | 0.5 | Not started | Not started | Not started | Not started |
+| U.S. History | Social Studies and Financial Literacy | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| U.S. Government | Social Studies and Financial Literacy | 0.5 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Personal Financial Literacy and Economics | Social Studies and Financial Literacy | 1.0 | Not started | Not started | Not started | Not started |
 | Health & Physical Education | Physical Education & Health | 1.0 | Not started | Not started | Not started | Not started |
 | Foundations of Art | Fine Arts / Practical Arts | 1.0 | Not started | Not started | Not started | Not started |
@@ -79,7 +79,7 @@ Official build target: **47 catalog courses**
 | Life Skills & Independent Living | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 | Nutrition & Wellness | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 
-Current repo-complete count: **20 courses**.
+Current repo-complete count: **23 courses**.
 
 Important count note: the active catalog lists **47 courses**, and all 47 are part of the required build target.
 
@@ -109,6 +109,8 @@ These courses have active course folders and have been treated as course-build c
 | Science Electives | Anatomy & Physiology | `ANATOMY AND PHYSIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Science layered audit requirements apply. |
 | English Electives | Creative Writing | `CREATIVE WRITING` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English elective completed. |
 | English Electives | Journalism | `JOURNALISM` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English elective completed. |
+| Social Studies and Financial Literacy | U.S. History | `U.S. HISTORY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with social studies layered audit requirements. |
+| Social Studies and Financial Literacy | U.S. Government | `U.S. GOVERNMENT` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | 0.5-credit structure: 6 units, 5 lessons per unit; Lesson 05 synthesis/unit assessment only. |
 
 ## Remaining Catalog Courses
 
@@ -117,8 +119,6 @@ These courses are listed in the catalog but do not currently have completed acti
 | Department | Catalog Course | Credits | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | Build Target |
 |---|---|---:|---|---|---|---|---|---|
 | Social Studies and Financial Literacy | World History | 1.0 | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Required |
-| Social Studies and Financial Literacy | U.S. History | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
-| Social Studies and Financial Literacy | U.S. Government | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
 | Social Studies and Financial Literacy | Personal Financial Literacy and Economics | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Physical Education & Health | Health & Physical Education | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Fine Arts / Practical Arts | Foundations of Art | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |

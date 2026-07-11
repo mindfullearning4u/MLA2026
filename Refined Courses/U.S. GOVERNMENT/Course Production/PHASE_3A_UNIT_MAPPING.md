@@ -1,0 +1,10 @@
+# U.S. Government Unit Mapping
+
+| Unit | Unit Title | Unit Purpose | Standards Covered | Visual / Source Requirement |
+|---|---|---|---|---|
+| Unit 01 | Constitutional Foundations and Civic Principles | build the foundation for understanding why American government is limited, constitutional, and based on civic responsibility | MLA.USG.FND.1; MLA.USG.FND.2; MLA.USG.FND.3; MLA.USG.FND.4 | Required visual/source tools embedded in lessons and XML where they clarify the standard. |
+| Unit 02 | The Constitution, Branches, and Federal Power | show how constitutional structure turns principles into working institutions | MLA.USG.CON.1; MLA.USG.CON.2; MLA.USG.CON.3; MLA.USG.CON.4 | Required visual/source tools embedded in lessons and XML where they clarify the standard. |
+| Unit 03 | Rights, Liberties, and Responsibilities | teach how rights are protected, interpreted, limited, expanded, and connected to civic responsibility | MLA.USG.RGT.1; MLA.USG.RGT.2; MLA.USG.RGT.3; MLA.USG.RGT.4 | Required visual/source tools embedded in lessons and XML where they clarify the standard. |
+| Unit 04 | Political Participation, Elections, and Public Opinion | explain how citizens, parties, media, campaigns, and elections connect the public to government decisions | MLA.USG.POL.1; MLA.USG.POL.2; MLA.USG.POL.3; MLA.USG.POL.4 | Required visual/source tools embedded in lessons and XML where they clarify the standard. |
+| Unit 05 | Public Policy, Federalism in Action, and Landmark Cases | connect policy decisions, federalism, court interpretation, and public budgets to real government choices | MLA.USG.PCY.1; MLA.USG.PCY.2; MLA.USG.PCY.3; MLA.USG.PCY.4 | Required visual/source tools embedded in lessons and XML where they clarify the standard. |
+| Unit 06 | Comparative Government, Florida Government, and Civic Action | prepare students to compare systems, understand Florida government, and plan lawful civic action | MLA.USG.CMP.1; MLA.USG.CMP.2; MLA.USG.CMP.3; MLA.USG.CMP.4 | Required visual/source tools embedded in lessons and XML where they clarify the standard. |
