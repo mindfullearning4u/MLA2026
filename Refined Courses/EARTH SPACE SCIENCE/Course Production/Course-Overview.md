@@ -1,181 +1,197 @@
-# ESS - Earth/Space Science
-
+﻿# ESS - Earth/Space Science
 **Credit:** 1.0 High School Science Credit  
-**Lab Designation:** High School Laboratory Science  
-**Course Type:** Mastery-Based High School Earth/Space Science Course  
-**Florida Course Reference:** Earth/Space Science, course number 2001310
-
----
-
-## Course Identity
-
-Course: EARTH SPACE SCIENCE  
-Florida course reference: Earth/Space Science  
-CPALMS course number: 2001310  
-CPALMS current course record: 23797  
-Version verified: 2024 - And Beyond (current)  
-Credit: One (1) credit  
-Length: Year (Y)  
-Grade levels: 9, 10, 11, 12  
-Graduation relevance: Equally Rigorous Science
+**Course Type:** Mastery-Based High School Laboratory Science Course  
 
 ---
 
 ## Course Description
 
-Earth/Space Science is a mastery-based high-school laboratory science course focused on Earth systems, geology, plate tectonics, geologic processes, oceans, atmosphere, weather, climate, Earth history, fossils, astronomy, the solar system, stars, galaxies, space exploration, Earth-space interactions, scientific modeling, and data analysis.
+Earth/Space Science teaches students to explain Earth systems, geology, plate tectonics, weather, climate, oceans, atmosphere, Earth history, astronomy, solar system patterns, galaxies, space exploration, and applied Earth-space systems using evidence and models.
 
-Students develop Earth/Space Science reasoning through evidence-based investigation, safe laboratory and field-data practices, Earth-system modeling, map and graph interpretation, astronomical scale reasoning, geologic evidence, weather and climate data, technical communication, and science-informed decision making. The course maintains clear boundaries from Biology, Chemistry, Physics, Environmental Science, Marine Science, and Anatomy and Physiology while using supporting concepts only where CPALMS Earth/Space Science requires them.
+Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
+
+This is a laboratory science course. Lessons include lab or virtual lab experiences, direct student-safe resource links when required, step-by-step directions for what students should do after opening a resource, data tables, diagrams, models, and evidence-based analysis tasks.
 
 ---
 
 ## Standards Alignment
 
-Mindful Learning Academy uses CPALMS Earth/Space Science / Florida science benchmarks as the primary academic framework for Earth/Space Science. The course architecture is aligned to:
+As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
 
-- CPALMS Earth/Space Science, course number 2001310
-- Florida Earth/Space Science benchmarks
-- Florida B.E.S.T. ELA Expectations embedded in the CPALMS course record
-- Florida Mathematical Thinking and Reasoning Standards embedded in the CPALMS course record
-- ELD science and social-instructional communication support standards
-- Common Core Literacy in Science and Technical Subjects
-- ACT Science readiness expectations
-- SAT science reading and data analysis expectations
-- College readiness expectations
-- Workforce readiness expectations
-- Scientific literacy expectations
+To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-MLA Earth/Space Science standards use the format `MLA.ESS.[DOMAIN].[NUMBER]` and are organized into these domains:
+- CPALMS Earth/Space Science; Florida science benchmarks; Florida B.E.S.T. embedded literacy expectations; Common Core Literacy in Science and Technical Subjects; ACT Science readiness; SAT science reading and data expectations
 
-- Scientific Inquiry and Practices
-- Laboratory and Data Skills
-- Earth Systems and Geology
-- Atmosphere, Weather, Climate, and Oceans
-- Earth History and Change
-- Astronomy and Solar Systems
-- Cosmic Systems and Space Exploration
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
+
+Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
 
 ---
 
-## Learning Outcomes
+## Learning Objectives / Outcomes
 
-By the end of Earth/Space Science, students will be able to:
+By the end of this course, students will be able to:
 
-- Ask testable Earth/Space Science questions and design evidence-based investigations.
-- Apply lab safety, measurement, model use, data collection, field-data expectations, and data interpretation.
-- Evaluate sources, scientific claims, models, explanations, theories, observations, inferences, and evidence.
-- Describe Earth layers, Earth-system interactions, surface processes, plate tectonics, geologic features, Florida geology, and ocean-basin development.
-- Analyze biogeochemical cycles, ocean motion, atmosphere-hydrosphere interactions, climate factors, weather prediction, severe weather, climate change conditions, and Florida atmospheric/oceanic influences.
-- Use fossil and origin-of-life evidence at the Earth/Space Science course level to explain Earth history and change over time.
-- Explain Big Bang evidence, matter distribution in the universe, astronomical distances, star evolution, the Sun, planetary systems, and Earth-Moon-Sun relationships.
-- Analyze space exploration effects, astronomical forces, electromagnetic evidence, waves, radiation, nuclear processes, heat transfer, motion, and gravity where they support Earth/Space Science standards.
-- Communicate Earth/Space Science findings using evidence, data, maps, models, technical vocabulary, appropriate format, and appropriate tone.
-
----
-
-## Prerequisite Knowledge
-
-Students should enter Earth/Space Science with general high-school science readiness, including:
-
-- reading grade-level informational text
-- using basic scientific vocabulary
-- identifying observations and evidence
-- reading tables, maps, graphs, diagrams, and models
-- performing measurement and unit reasoning
-- following written procedures
-- using arithmetic and proportional reasoning in science contexts
-- writing short evidence-based explanations
-
-Students are not expected to begin with mastery of high-school Earth/Space Science benchmarks. Inquiry, data analysis, Earth-system vocabulary, astronomical scale, geologic time, lab expectations, and standards-based reasoning are explicitly built across the course.
+- Use inquiry, lab safety, models, measurement, and data displays to study Earth and space systems.
+- Explain Earth spheres, system interactions, geologic processes, plate tectonics, and Florida geology.
+- Analyze weather, climate, oceans, atmosphere, severe weather, and climate evidence.
+- Interpret fossils, Earth history, scientific theories, and evidence of change over time.
+- Explain Big Bang evidence, astronomical distances, stars, the Sun, planets, and Earth-Moon-Sun relationships.
+- Analyze space exploration, electromagnetic evidence, radiation, waves, motion, gravity, and applied systems.
+- Use maps, diagrams, models, graphs, and data to support scientific explanations.
+- Communicate Earth and space science conclusions using evidence and technical vocabulary.
 
 ---
 
-## Six-Unit Sequence
+## Prerequisite Knowledge / Skills
 
-| Unit | Unit Title | Course Role |
-|---|---|---|
-| Unit 1 | Scientific Thinking and Earth Systems Foundations | Establishes inquiry, lab safety, measurement, data displays, model use, Earth spheres, system interactions, and evidence rules. |
-| Unit 2 | Geology, Plate Tectonics, and Earth's Structure | Develops Earth layers, surface processes, plate tectonics, geologic features, Florida geology, and ocean-basin development. |
-| Unit 3 | Weather, Climate, Oceans, and Atmosphere | Develops cycles, ocean motion, atmosphere/hydrosphere systems, weather prediction, severe weather, climate factors, climate change conditions, and Florida influences. |
-| Unit 4 | Earth History and Change Over Time | Develops fossil evidence, Earth history, origin-of-life explanations at course level, scientific theories, and evidence of change. |
-| Unit 5 | Astronomy, Solar System, and Stars | Develops Big Bang evidence, matter distribution, astronomical distances, star evolution, the Sun, planetary systems, and Earth-Moon-Sun relationships. |
-| Unit 6 | Galaxies, Space Exploration, and Earth-Space Systems | Develops space exploration, cosmic-scale forces, electromagnetic evidence, radiation, waves, nuclear processes, heat transfer, motion, gravity, and applied Earth-space systems. |
+Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
+
+- Middle school Earth and space science readiness, map and graph interpretation, measurement, models, observations, and evidence-based explanation.
+
+Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
+
+---
+
+## Course Structure
+
+The course is organized into six units, each designed to build progressively toward standards mastery.
+
+Approved unit sequence:
+
+- Unit 1: Scientific Thinking and Earth Systems Foundations
+- Unit 2: Geology, Plate Tectonics, and Earth Structure
+- Unit 3: Weather, Climate, Oceans, and Atmosphere
+- Unit 4: Earth History and Change Over Time
+- Unit 5: Astronomy, Solar System, and Stars
+- Unit 6: Galaxies, Space Exploration, and Earth-Space Systems
+
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
+
+This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
+
+---
+
+## Lesson Workflow
+
+Lessons 1-7 follow the same learning sequence:
+
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
 ---
 
 ## Assessment Structure
 
-Earth/Space Science uses the approved MLA assessment model:
+Student learning is evaluated using multiple standards-aligned measures:
 
 ### Unit Pretests
 
-Each unit begins with a diagnostic Unit Pretest aligned to the unit's MLA standards and Florida benchmark expectations.
+Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
 
-### Notebook Evidence
+### Notebook Evidence Submissions (Teacher of Record Graded)
 
-Notebook evidence may include observations, maps, models, data tables, graph interpretations, field-data notes, vocabulary reasoning, source notes, investigation planning, safety reasoning, and evidence-based explanations.
+Includes:
+
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
+
+Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
+
+Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
 
 ### Guided Practice
 
-Lessons 1-7 include guided practice aligned to the lesson's primary standards.
-
-### Checkpoints
-
-Checkpoints require students to apply the lesson's standards independently through Earth/Space Science evidence, data, maps, models, explanations, or argumentation.
+Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
 
 ### Lesson Quizzes
 
-Lessons 1-7 include standards-aligned lesson quizzes.
+Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
 
 ### Unit Assessments
 
-Lesson 8 in every unit is titled Putting It All Together and contains the Unit Assessment. Lesson 8 synthesizes standards already taught in Lessons 1-7 and introduces no new primary standard.
+Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
-## Lab Expectations
+## Mastery & Progression Criteria
 
-Earth/Space Science is a laboratory science course. Lab architecture must include:
+Mindful Learning Academy follows a mastery-based learning model.
 
-- scientific inquiry
-- safe procedures
-- variables
-- measurement
-- Earth-system models
-- maps, data tables, graphs, and diagrams
-- field-data or remotely sensed data where appropriate
-- evidence-based interpretation
-- technical communication
-- reflection on uncertainty, error, limitations, and reliability where appropriate
+To progress successfully through the course, students must:
 
----
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
 
-## Virtual Lab Expectations
+Mastery is demonstrated through consistent performance across:
 
-Virtual labs may use simulations, map tools, satellite data, weather data, climate data, astronomical data, geologic cross sections, fossil data, ocean data, authentic data sets, or graph-based investigations. Virtual labs must preserve the lab purpose by requiring students to observe, collect or interpret data, identify variables, analyze evidence, use models, and communicate conclusions.
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
 
----
+A minimum mastery level of 80% is required before advancement.
 
-## Mastery-Based Credit Structure
+Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
 
-Students earn credit through demonstrated mastery of Earth/Space Science standards across unit pretests, lesson evidence, guided practice, checkpoints, lesson quizzes, and unit assessments. Mastery evidence must align to the MLA Earth/Space Science standards and the Florida Earth/Space Science benchmark expectations in the architecture package.
-
----
-
-## Production Controls
-
-- This overview is architecture only.
-- No lesson content is created in this phase.
-- No assessment content is created in this phase.
-- No HTML content is created in this phase.
-- No JSON content is created in this phase.
-- No GIFT content is created in this phase.
-- `How-This-Course-Works.md`, `Expectations-and-Policies.md`, and `Course-Acknowledgement.md` are not created here because they are approved MLA standardized documents that will be copied later.
+Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
 
-## Source and Validation Note
+## College / Skill Readiness Integration
 
-Official source verified: CPALMS Earth/Space Science, course number `2001310`, current course record `23797`, version `2024 - And Beyond (current)`.
+This course builds skills essential for scientific literacy, environmental reasoning, space science awareness, data analysis, and future science coursework. Students develop:
 
-CPALMS-listed standards verified: 56. Science benchmarks verified: 41. Embedded/support standards verified: 15. MLA Earth/Space Science standards verified: 29.
+- Academic vocabulary and precise communication.
+- Evidence-based reasoning and explanation.
+- Interpretation of visuals, sources, models, data, or discipline-specific examples.
+- Independent learning habits in a mastery-based online environment.
+- Transferable reading, writing, thinking, and communication skills.
+
+Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.

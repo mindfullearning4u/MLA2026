@@ -1,122 +1,197 @@
-# MAR - Marine Science
-
+﻿# MAR - Marine Science
 **Credit:** 1.0 High School Science Credit  
-**Lab Designation:** High School Laboratory Science  
-**Course Type:** Mastery-Based High School Marine Science Course  
-**Florida Course Reference:** Marine Science, course number `2002500`
-
----
-
-## Course Identity
-
-Course: MARINE SCIENCE  
-Florida course reference: Marine Science  
-CPALMS course number: 2002500  
-Credit: One (1) credit  
-Length: Year (Y)  
-Grade levels: 9, 10, 11, 12  
-Graduation relevance: Equally Rigorous Science
+**Course Type:** Mastery-Based High School Laboratory Science Course  
 
 ---
 
 ## Course Description
 
-Marine Science is a mastery-based high-school laboratory science course focused on oceans, marine ecosystems, marine biodiversity, ocean zones, ocean currents, marine chemistry, marine geology, coastal systems, coral reefs, marine food webs, fisheries, human impacts on oceans, marine conservation, ocean exploration, and marine technology.
+Marine Science teaches students to analyze ocean systems, marine inquiry, ocean structure, chemistry, physical systems, ecosystems, biodiversity, food webs, fisheries, conservation, exploration, technology, and global ocean issues.
 
-Students develop marine science reasoning through evidence-based investigation, safe lab and field-data practices, oceanographic data analysis, maps and models, water-quality reasoning, marine ecosystem evidence, conservation decision-making, and technical communication. The course maintains clear boundaries from Biology, Environmental Science, Earth/Space Science, and Chemistry while using supporting concepts only where Florida/CPALMS Marine Science standards require them.
+Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
+
+This is a laboratory science course. Lessons include lab or virtual lab experiences, direct student-safe resource links when required, step-by-step directions for what students should do after opening a resource, data tables, diagrams, models, and evidence-based analysis tasks.
 
 ---
 
 ## Standards Alignment
 
-Mindful Learning Academy uses CPALMS Marine Science / Florida science benchmarks as the primary academic framework for Marine Science. The course architecture is aligned to:
+As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
 
-- CPALMS Marine Science, course number 2002500
-- Florida Marine Science benchmark expectations
-- Florida B.E.S.T. ELA Expectations embedded as literacy support
-- Florida Mathematical Thinking and Reasoning Standards embedded as data support
-- ELD science and social-instructional communication support standards
-- Common Core Literacy in Science and Technical Subjects
-- ACT Science readiness expectations
-- SAT science reading and data analysis expectations
-- College readiness expectations
-- Workforce readiness expectations
-- Scientific literacy expectations
+To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-MLA Marine Science standards use the format `MLA.MAR.[DOMAIN].[NUMBER]`.
+- Florida marine science benchmarks; CPALMS-aligned science expectations; Florida B.E.S.T. embedded literacy expectations; Common Core Literacy in Science and Technical Subjects; ACT Science readiness; SAT science reading and data expectations
+
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
+
+Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
 
 ---
 
-## Learning Outcomes
+## Learning Objectives / Outcomes
 
-By the end of Marine Science, students will be able to:
+By the end of this course, students will be able to:
 
-- Ask testable marine science questions and design evidence-based investigations.
-- Apply marine lab safety, field-data practices, measurement, sampling, and model use.
-- Interpret maps, bathymetry, data tables, graphs, water-quality data, and oceanographic models.
-- Explain ocean basins, zones, currents, waves, tides, upwelling, salinity, density, pH, nutrients, dissolved gases, and climate interactions.
-- Relate marine geology and coastal processes to habitats and shoreline systems.
-- Compare marine ecosystems, biodiversity, adaptations, habitats, and ecosystem change.
-- Analyze marine populations, limiting factors, food webs, productivity, and biogeochemical cycles.
-- Evaluate human impacts, fisheries, resource use, pollution, monitoring data, conservation, restoration, and sustainability.
-- Interpret evidence from sonar, satellites, sensors, ROVs, submersibles, maps, and oceanographic instruments.
-- Communicate marine science findings using evidence, data displays, technical vocabulary, appropriate format, and appropriate tone.
+- Use marine inquiry, safety, field and lab data, maps, models, and source reliability to study ocean systems.
+- Analyze ocean basins, zones, currents, waves, tides, salinity, density, water quality, geology, and coasts.
+- Explain marine habitats, coral reefs, estuaries, open ocean, deep sea, biodiversity, adaptation, and ecosystem change.
+- Analyze populations, limiting factors, species interactions, food webs, productivity, nutrient cycles, and water quality.
+- Evaluate pollution, fisheries, aquaculture, resource use, endangered species, restoration, monitoring, and policy.
+- Explain ocean exploration tools, sonar, satellites, sensors, ROVs, deep-ocean evidence, and global ocean systems.
+- Use maps, diagrams, charts, data displays, and marine evidence to support claims.
+- Communicate marine science explanations using evidence and technical vocabulary.
 
 ---
 
-## Prerequisite Knowledge
+## Prerequisite Knowledge / Skills
 
-Students should enter Marine Science with general high-school science readiness, including reading informational text, identifying evidence, reading tables and graphs, following procedures, using basic measurement, interpreting maps and models, and writing short evidence-based explanations.
+Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
 
-Students are not expected to begin with mastery of oceanography, marine chemistry, marine ecology, fisheries, conservation, or marine technology. These are explicitly built across the course.
+- Middle school science readiness, graph and map interpretation, data tables, observations, source evidence, and basic Earth and life science vocabulary.
+
+Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
 
 ---
 
-## Six-Unit Sequence
+## Course Structure
 
-| Unit | Unit Title | Course Role |
-|---|---|---|
-| Unit 1 | Marine Science Foundations and Ocean Inquiry | Establishes inquiry, safety, field/lab data, maps, models, evidence, source reliability, and ocean-system reasoning. |
-| Unit 2 | Ocean Structure, Chemistry, and Physical Systems | Develops ocean basins, zones, currents, waves, tides, salinity, density, water quality, marine geology, and coasts. |
-| Unit 3 | Marine Ecosystems and Biodiversity | Develops organism distribution, habitats, coral reefs, estuaries, open ocean, deep sea, biodiversity, adaptation, and ecosystem change. |
-| Unit 4 | Marine Processes, Food Webs, and Energy Flow | Develops populations, limiting factors, species interactions, food webs, productivity, nutrient cycles, and water-quality effects. |
-| Unit 5 | Human Impacts, Fisheries, and Marine Conservation | Develops pollution, fisheries, aquaculture, resource use, endangered species, restoration, monitoring, policy, and sustainability. |
-| Unit 6 | Ocean Exploration, Marine Technology, and Global Ocean Systems | Develops exploration tools, sonar, satellites, sensors, ROVs, deep ocean evidence, global ocean systems, careers, and final synthesis. |
+The course is organized into six units, each designed to build progressively toward standards mastery.
+
+Approved unit sequence:
+
+- Unit 1: Marine Science Foundations and Ocean Inquiry
+- Unit 2: Ocean Structure, Chemistry, and Physical Systems
+- Unit 3: Marine Ecosystems and Biodiversity
+- Unit 4: Marine Processes, Food Webs, and Energy Flow
+- Unit 5: Human Impacts, Fisheries, and Marine Conservation
+- Unit 6: Ocean Exploration, Marine Technology, and Global Ocean Systems
+
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
+
+This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
+
+---
+
+## Lesson Workflow
+
+Lessons 1-7 follow the same learning sequence:
+
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
 ---
 
 ## Assessment Structure
 
-Marine Science uses the approved MLA assessment model:
+Student learning is evaluated using multiple standards-aligned measures:
 
-- Unit Pretest at the beginning of each unit.
-- Lessons 1-7 include Guided Practice, Notebook Evidence, Checkpoint Submission, and Lesson Quiz.
-- Lesson 8 is titled Putting It All Together.
-- Lesson 8 contains the Unit Assessment.
-- Lesson 8 introduces no new primary standard.
+### Unit Pretests
+
+Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
+
+### Notebook Evidence Submissions (Teacher of Record Graded)
+
+Includes:
+
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
+
+Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
+
+Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
+
+### Guided Practice
+
+Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
+
+### Lesson Quizzes
+
+Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
+
+### Unit Assessments
+
+Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
-## Lab and Virtual Lab Expectations
+## Mastery & Progression Criteria
 
-Marine Science is a laboratory science course. Lab and virtual lab architecture must include scientific inquiry, safe procedures, sampling or data interpretation, water-quality reasoning, maps, graphs, marine models, field-data or remotely sensed data, evidence-based claims, uncertainty, and technical communication.
+Mindful Learning Academy follows a mastery-based learning model.
 
-Virtual labs may use ocean maps, current maps, bathymetry, water-quality data, fisheries data, coral reef monitoring data, satellite data, sensor data, ROV observations, or coastal-change evidence. These expectations are architecture guidance only.
+To progress successfully through the course, students must:
+
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
+
+Mastery is demonstrated through consistent performance across:
+
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
+
+A minimum mastery level of 80% is required before advancement.
+
+Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
+
+Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
 
-## Production Controls
+## College / Skill Readiness Integration
 
-- This overview is architecture only.
-- No lesson content is created in this phase.
-- No assessment content is created in this phase.
-- No HTML content is created in this phase.
-- No JSON content is created in this phase.
-- No GIFT content is created in this phase.
-- No LMS pages are created in this phase.
+This course builds skills essential for marine science literacy, environmental reasoning, field-data interpretation, resource decision-making, and future science coursework. Students develop:
 
----
+- Academic vocabulary and precise communication.
+- Evidence-based reasoning and explanation.
+- Interpretation of visuals, sources, models, data, or discipline-specific examples.
+- Independent learning habits in a mastery-based online environment.
+- Transferable reading, writing, thinking, and communication skills.
 
-## Source and Validation Note
-
-Official source basis: CPALMS Marine Science, course number `2002500`, Florida science benchmarks, and embedded literacy/data support standards used in MLA science production architecture. MLA Marine Science standards verified: 30.
+Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.

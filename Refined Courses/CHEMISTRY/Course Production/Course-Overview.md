@@ -1,171 +1,197 @@
-# CHEM - Chemistry
-
+﻿# CHEM - Chemistry
 **Credit:** 1.0 High School Science Credit  
-**Lab Designation:** High School Laboratory Science  
-**Course Type:** Mastery-Based High School Chemistry Course  
-**Florida Course Reference:** Chemistry 1, course number 2003340
+**Course Type:** Mastery-Based High School Laboratory Science Course  
 
 ---
 
 ## Course Description
 
-Chemistry is a mastery-based high-school laboratory science course focused on matter, energy, atomic theory, periodicity, chemical bonding, compounds, reactions, stoichiometry, gases, solutions, acids and bases, thermochemistry, reaction rates, equilibrium, and laboratory investigation.
+Chemistry develops understanding of matter, measurement, atomic structure, periodic trends, bonding, compounds, reactions, quantitative chemistry, gases, solutions, acids, bases, equilibrium, and real-world chemical applications.
 
-Students develop scientific thinking through evidence-based reasoning, experimental design, variables, lab safety, measurement, significant figures, scientific notation, quantitative reasoning, models, data displays, source evaluation, scientific argumentation, and technical communication. The course emphasizes Chemistry 1 expectations while maintaining clear boundaries from Biology, Physics, Environmental Science, Earth/Space Science, Marine Science, and Anatomy and Physiology.
+Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
+
+This is a laboratory science course. Lessons include lab or virtual lab experiences, direct student-safe resource links when required, step-by-step directions for what students should do after opening a resource, data tables, diagrams, models, and evidence-based analysis tasks.
 
 ---
 
 ## Standards Alignment
 
-Mindful Learning Academy uses CPALMS Chemistry 1 / Florida science benchmarks as the primary academic framework for Chemistry. The course architecture is aligned to:
+As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
 
-- CPALMS Chemistry 1, course number 2003340
-- Florida Chemistry 1 science benchmarks
-- Florida B.E.S.T. ELA Expectations embedded in the CPALMS course record
-- Florida Mathematical Thinking and Reasoning Standards embedded in the CPALMS course record
-- ELD science and social-instructional communication support standards
-- Common Core Literacy in Science and Technical Subjects
-- ACT Science readiness expectations
-- SAT science reading and data analysis expectations
-- College readiness expectations
-- Workforce readiness expectations
-- Scientific literacy expectations
+To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-MLA Chemistry standards use the format `MLA.CHEM.[DOMAIN].[NUMBER]` and are organized into these domains:
+- CPALMS Chemistry 1; Florida science benchmarks; Florida B.E.S.T. embedded literacy expectations; Common Core Literacy in Science and Technical Subjects; ACT Science readiness; SAT science reading and data expectations
 
-- Scientific Inquiry and Practices
-- Laboratory and Data Skills
-- Matter and Measurement
-- Atomic Structure and Periodicity
-- Bonding and Compounds
-- Reactions and Stoichiometry
-- Energy and Thermochemistry
-- Gases, Solutions, and Equilibrium
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
+
+Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
 
 ---
 
-## Learning Outcomes
+## Learning Objectives / Outcomes
 
-By the end of Chemistry, students will be able to:
+By the end of this course, students will be able to:
 
-- Ask testable chemistry questions and design evidence-based investigations.
-- Apply lab safety, measurement, data collection, significant figures, scientific notation, and data interpretation expectations.
-- Evaluate scientific claims, sources, explanations, laws, theories, models, observations, and inferences.
-- Classify matter by state, property, and physical or chemical change.
-- Explain atomic theory, atomic structure, electron arrangement, periodic table organization, and electromagnetic spectrum connections.
-- Interpret bonding forces, intermolecular attractions, formula representations, compound structure, and nomenclature.
-- Characterize chemical reactions, apply conservation of mass, use the mole concept, and solve stoichiometric relationships.
-- Differentiate chemical and nuclear reactions.
-- Explain energy transformations, temperature, kinetic energy, potential energy diagrams, and endothermic/exothermic processes.
-- Interpret ideal gas behavior, phase transitions, water properties, solution behavior, acid-base relationships, pH, reaction rates, catalysts, and dynamic equilibrium.
-- Communicate chemical findings using evidence, data, models, formulas, quantitative reasoning, appropriate format, and appropriate tone.
+- Use measurement, significant figures, scientific notation, and lab safety procedures.
+- Analyze matter, properties, atomic structure, periodic trends, and electron arrangements.
+- Explain bonding, molecular structure, formulas, compounds, and nomenclature.
+- Interpret chemical reactions, conservation of mass, mole relationships, and stoichiometry.
+- Analyze thermochemistry, gases, phase behavior, solutions, and concentration.
+- Explain acids, bases, pH, reaction rates, catalysts, and equilibrium.
+- Use data, models, equations, and diagrams to support chemical reasoning.
+- Communicate chemical explanations using evidence and technical vocabulary.
 
 ---
 
-## Prerequisite Knowledge
+## Prerequisite Knowledge / Skills
 
-Students should enter Chemistry with general middle school and early high-school science readiness, including:
+Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
 
-- reading grade-level informational text
-- using basic scientific vocabulary
-- identifying observations and evidence
-- reading tables, graphs, diagrams, and models
-- performing basic measurement
-- using ratios, proportions, and equation reasoning
-- following written procedures
-- writing short evidence-based explanations
+- Algebra readiness, scientific measurement, data tables, graphs, variables, basic matter concepts, and evidence-based explanations.
 
-Students are not expected to begin with mastery of high-school Chemistry 1 benchmarks. Inquiry, data analysis, quantitative reasoning, chemical vocabulary, lab expectations, and standards-based reasoning are explicitly built across the course.
+Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
 
 ---
 
-## Six-Unit Sequence
+## Course Structure
 
-| Unit | Unit Title | Course Role |
-|---|---|---|
-| Unit 1 | Scientific Thinking, Measurement, and Matter | Establishes inquiry, lab safety, measurement, significant figures, scientific notation, matter, properties, and data analysis. |
-| Unit 2 | Atomic Structure and the Periodic Table | Develops atomic theory, atomic particles, evidence, electron arrangement, periodicity, energy levels, and spectrum applications. |
-| Unit 3 | Chemical Bonding and Compounds | Develops bonding, intermolecular attractions, molecular structure, formula interpretation, compound composition, and nomenclature. |
-| Unit 4 | Chemical Reactions and Quantitative Chemistry | Develops reaction types, conservation of mass, mole concept, stoichiometry, and chemical/nuclear reaction distinctions. |
-| Unit 5 | Energy, Gases, and Solutions | Develops energy transformations, thermochemistry, temperature, gases, phase behavior, water, solutions, and concentration reasoning. |
-| Unit 6 | Acids, Bases, Equilibrium, and Real-World Chemistry | Develops acids, bases, pH, reaction rates, catalysts, dynamic equilibrium, and chemistry applications. |
+The course is organized into six units, each designed to build progressively toward standards mastery.
+
+Approved unit sequence:
+
+- Unit 1: Scientific Thinking, Measurement, and Matter
+- Unit 2: Atomic Structure and the Periodic Table
+- Unit 3: Chemical Bonding and Compounds
+- Unit 4: Chemical Reactions and Quantitative Chemistry
+- Unit 5: Energy, Gases, and Solutions
+- Unit 6: Acids, Bases, Equilibrium, and Real-World Chemistry
+
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
+
+This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
+
+---
+
+## Lesson Workflow
+
+Lessons 1-7 follow the same learning sequence:
+
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
 ---
 
 ## Assessment Structure
 
-Chemistry uses the approved MLA assessment model:
+Student learning is evaluated using multiple standards-aligned measures:
 
 ### Unit Pretests
 
-Each unit begins with a diagnostic Unit Pretest aligned to the unit's MLA standards and Florida benchmark expectations.
+Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
 
-### Notebook Evidence
+### Notebook Evidence Submissions (Teacher of Record Graded)
 
-Notebook evidence may include observations, measurements, data tables, graph interpretations, particle models, chemical formulas, calculations, source notes, investigation planning, safety reasoning, and evidence-based explanations.
+Includes:
+
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
+
+Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
+
+Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
 
 ### Guided Practice
 
-Lessons 1-7 include guided practice aligned to the lesson's primary standards.
-
-### Checkpoints
-
-Checkpoints require students to apply the lesson's standards independently through chemical evidence, quantitative reasoning, data, models, explanations, or argumentation.
+Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
 
 ### Lesson Quizzes
 
-Lessons 1-7 include standards-aligned lesson quizzes.
+Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
 
 ### Unit Assessments
 
-Lesson 8 in every unit is titled Putting It All Together and contains the Unit Assessment. Lesson 8 synthesizes standards already taught in Lessons 1-7 and introduces no new primary standard.
+Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
-## Lab Expectations
+## Mastery & Progression Criteria
 
-Chemistry is a laboratory science course. Lab architecture must include:
+Mindful Learning Academy follows a mastery-based learning model.
 
-- scientific inquiry
-- safe procedures
-- chemical handling expectations
-- measurable variables
-- measurement precision
-- significant figures and units
-- data tables and graphs
-- quantitative reasoning
-- evidence-based interpretation
-- technical communication
-- reflection on uncertainty, error, and reliability where appropriate
+To progress successfully through the course, students must:
 
----
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
 
-## Virtual Lab Expectations
+Mastery is demonstrated through consistent performance across:
 
-Virtual labs may use simulations, models, authentic data sets, particle diagrams, reaction data, gas law data, pH data, rate data, equilibrium models, or graph-based investigations. Virtual labs must preserve the lab purpose by requiring students to observe, collect or interpret data, identify variables, use quantitative reasoning, analyze evidence, and communicate conclusions.
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
 
----
+A minimum mastery level of 80% is required before advancement.
 
-## Mastery-Based Credit Structure
+Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
 
-Students earn credit through demonstrated mastery of Chemistry standards across unit pretests, lesson evidence, checkpoints, lesson quizzes, and unit assessments. Mastery evidence must align to the MLA Chemistry standards and the Florida Chemistry 1 benchmark expectations in the architecture package.
+Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
 
-## Production Controls
+## College / Skill Readiness Integration
 
-- This overview is architecture only.
-- No lesson content is created in this phase.
-- No assessment content is created in this phase.
-- No HTML content is created in this phase.
-- No JSON content is created in this phase.
-- No GIFT content is created in this phase.
-- `How-This-Course-Works.md`, `Expectations-and-Policies.md`, and `Course-Acknowledgement.md` are not created here because they are approved MLA standardized documents that will be copied later.
-- Lesson production must preserve the six-unit, eight-lesson structure.
-- Every Lesson 8 must remain Putting It All Together and contain the Unit Assessment.
+This course builds skills essential for laboratory chemistry, data analysis, quantitative reasoning, health science, environmental science, and college science readiness. Students develop:
 
----
+- Academic vocabulary and precise communication.
+- Evidence-based reasoning and explanation.
+- Interpretation of visuals, sources, models, data, or discipline-specific examples.
+- Independent learning habits in a mastery-based online environment.
+- Transferable reading, writing, thinking, and communication skills.
 
-## Source and Validation Note
-
-This architecture uses the public CPALMS Chemistry 1 course record as the official Florida source location for course identity, course expectations, standards references, lab expectations, and benchmark verification.
+Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.

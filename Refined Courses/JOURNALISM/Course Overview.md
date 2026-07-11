@@ -1,54 +1,195 @@
-# JOURNALISM Course Overview
+﻿# JOUR - Journalism
+**Credit:** 1.0 High School English Elective Credit  
+**Course Type:** Mastery-Based High School Journalism Course  
 
 ---
 
-## Course Overview
+## Course Description
 
-Journalism develops students’ ability to gather, evaluate, and communicate information for real-world audiences. Students learn to report accurately, analyze sources for credibility and bias, structure information clearly, and produce structured writing that informs, explains, and engages real-world audiences.
+Journalism develops students ability to gather information, evaluate sources, write accurate news and feature content, identify bias, verify facts, conduct interviews, edit responsibly, make ethical decisions, and publish for an audience.
 
-The course is organized around competency-based progression. Students move through the course by demonstrating mastery of required instructional components, with emphasis on informational writing, source evaluation, media literacy, audience awareness, ethical reporting, and publication.
+Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards from the Grades 9–12 band. The course does not use unique journalism standards. Students are expected to demonstrate writing fluency, critical evaluation of sources, logical organization of information, and clear communication through journalistic writing and presentation.
+---
+
+## Standards Alignment
+
+As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
+
+To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
+
+- Florida B.E.S.T. English Language Arts informational writing, research, language, vocabulary, communication, and presentation benchmarks; Common Core literacy support; SAT evidence expectations; ACT reading/English expectations
+
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
+
+Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
+
+---
+
+## Learning Objectives / Outcomes
+
+By the end of this course, students will be able to:
+
+- Explain journalism purpose, audience, factual reporting, and news values.
+- Write organized news content using clear leads, structure, transitions, and precise language.
+- Evaluate source reliability, bias, credibility, fact-checking, and verification.
+- Conduct interviews, develop questions, take notes, and integrate source information accurately.
+- Revise and edit for accuracy, fairness, clarity, ethics, and publication standards.
+- Create articles and multimedia products for a defined audience and purpose.
+- Use organizers, source notes, evidence charts, and publication rubrics to improve reporting.
+- Demonstrate mastery through reporting tasks, checkpoints, quizzes, and unit assessments.
+
+---
+
+## Prerequisite Knowledge / Skills
+
+Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
+
+- English reading and writing foundations, source use, paragraph organization, vocabulary, digital tools, and willingness to verify information carefully.
+
+Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
 
 ---
 
 ## Course Structure
 
-| Unit | Unit Title | Primary Focus |
-|------|------------|---------------|
-| Unit 01 | Foundations of Journalism and News Writing | News purpose, audience, structure, and factual reporting |
-| Unit 02 | News Structure and Informational Writing | Inverted pyramid, leads, organization, clarity, and transitions |
-| Unit 03 | Source Evaluation, Bias, and Credibility | Reliable sources, bias detection, fact-checking, and verification |
-| Unit 04 | Reporting, Interviews, and Information Gathering | Question development, interviews, note-taking, and source integration |
-| Unit 05 | Editing, Ethics, and Media Responsibility | Revision, accuracy, fairness, ethical decision-making, and publication standards |
-| Unit 06 | Publication, Presentation, and Media Production | Article publication, multimedia integration, oral presentation, and audience communication |
+The course is organized into six units, each designed to build progressively toward standards mastery.
+
+Approved unit sequence:
+
+- Unit 1: Foundations of Journalism and News Writing
+- Unit 2: News Structure and Informational Writing
+- Unit 3: Source Evaluation, Bias, and Credibility
+- Unit 4: Reporting, Interviews, and Information Gathering
+- Unit 5: Editing, Ethics, and Media Responsibility
+- Unit 6: Publication, Presentation, and Media Production
+
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
+
+This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
 
 ---
 
-## Standards Progression
+## Lesson Workflow
 
-ELA standards develop through a spiral progression across the course. Each benchmark is assigned a primary unit for focused instruction and assessment, while writing, communication, research, and vocabulary skills reappear as supporting skills in later units to deepen understanding.
+Lessons 1-7 follow the same learning sequence:
 
-The course progression emphasizes increasing independence in information gathering, evaluation, and communication. Students move from understanding journalistic purpose to structured reporting, source analysis, interviewing, ethical decision-making, and final publication and presentation.
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
 ---
 
-## Mastery Model
+## Assessment Structure
 
-Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment.
+Student learning is evaluated using multiple standards-aligned measures:
 
-Students are not advanced to the next unit until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
+### Unit Pretests
 
-The Unit Assessment is required for all students and contributes to the overall mastery determination.
+Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
 
-Students participating in the Accelerated Path must meet additional expectations. Please refer to the official Accelerated Path Overview document for full eligibility, requirements, and continuation criteria.
+### Notebook Evidence Submissions (Teacher of Record Graded)
+
+Includes:
+
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
+
+Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
+
+Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
+
+### Guided Practice
+
+Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
+
+### Lesson Quizzes
+
+Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
+
+### Unit Assessments
+
+Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
-## Design Validation
+## Mastery & Progression Criteria
 
-This course is a journalism course, not a literary analysis course. Reading and analysis appear only as tools for evaluating sources and understanding information. The primary course work is informational writing, reporting, source evaluation, interviews, and publication.
+Mindful Learning Academy follows a mastery-based learning model.
 
-The course maintains academic rigor through structured reporting, credibility analysis, ethical decision-making, revision cycles, and a capstone publication and presentation.
+To progress successfully through the course, students must:
+
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
+
+Mastery is demonstrated through consistent performance across:
+
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
+
+A minimum mastery level of 80% is required before advancement.
+
+Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
+
+Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
+
+## College / Skill Readiness Integration
+
+This course builds skills essential for media literacy, responsible publication, source evaluation, informational writing, and workplace communication. Students develop:
+
+- Academic vocabulary and precise communication.
+- Evidence-based reasoning and explanation.
+- Interpretation of visuals, sources, models, data, or discipline-specific examples.
+- Independent learning habits in a mastery-based online environment.
+- Transferable reading, writing, thinking, and communication skills.
+
+Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.

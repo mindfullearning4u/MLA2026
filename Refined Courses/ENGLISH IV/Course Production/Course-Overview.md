@@ -1,4 +1,4 @@
-# ENG4 - English IV
+﻿# ENG4 - English IV
 **Credit:** 1.0 High School English Language Arts Credit  
 **Course Type:** Mastery-Based High School English Language Arts Course  
 
@@ -6,35 +6,25 @@
 
 ## Course Description
 
-English IV is a mastery-based course that advances students' ability to evaluate complex literary and informational texts, explain the functional significance of literary elements, evaluate rhetoric and arguments across texts, conduct topical-issue research, write in-depth arguments and complex text analyses, use language precisely, and communicate ideas effectively through oral, digital, and multimedia formats.
+English IV prepares students for advanced reading, writing, research, rhetoric, presentation, and publication through complex literary, informational, argumentative, and multimedia tasks.
 
-Students extend the English III foundation through Grade 12 work in literary evaluation, multiple-theme development, character perspective, major poets in historical context, classic literature's influence on contemporary world texts, text effectiveness, central idea support effectiveness, related argument evaluation, rhetorical choices across multiple texts, topical research, in-depth argument writing, in-depth complex text analysis, revision, digital presentation design/evaluation, and multimedia publication.
-
-Instruction is designed for independent student mastery in an online learning environment. Lessons must explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. The course supports remedial, standard, and accelerated learners without assuming live teacher instruction, parent assistance, prior mastery, or strong academic vocabulary.
+Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
 
 ---
 
 ## Standards Alignment
 
-As a registered private school in the State of Florida, Mindful Learning Academy follows the Florida B.E.S.T. Standards as its primary academic framework.
+As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
 
 To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-- Florida B.E.S.T. Grade 12 English Language Arts Benchmarks
-- Common Core Grade 11-12 English Language Arts Standards
-- SAT Reading and Writing expectations
-- ACT English and Reading expectations
-- College readiness expectations
-- Workforce communication expectations
+- Florida B.E.S.T. Grade 12 English Language Arts Benchmarks; Common Core Grade 11-12 English Language Arts Standards; SAT Reading and Writing expectations; ACT English and Reading expectations
 
-Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, instructional progression, assessment evidence, and mastery expectations. Each MLA English IV standard is aligned to a Grade 12 Florida B.E.S.T. benchmark and organized within the approved MLA English domains:
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
 
-- Reading
-- Writing
-- Language
-- Vocabulary
-- Research
-- Communication
+Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
 
 ---
 
@@ -42,86 +32,71 @@ Mindful Learning Academy uses the MLA Standards Framework, a competency-based sy
 
 By the end of this course, students will be able to:
 
-- Paraphrase complex Grade 12 literary and informational texts accurately.
-- Integrate academic vocabulary in speaking and writing with Grade 12 precision.
-- Evaluate how literary elements enhance meaning or style and explain their functional significance in interpreting text.
-- Analyze two or more themes and evaluate their development throughout a literary text.
-- Evaluate character perspective, including conflicting perspectives.
-- Evaluate works of major poets in historical context.
-- Evaluate an author's use of figurative language.
-- Analyze the influence of classic literature on contemporary world texts.
-- Evaluate text structures and features, including how authors could make texts more effective.
-- Evaluate central idea development and how support could be more effective.
-- Evaluate author purpose, related arguments, claims, reasoning, same-information use, and rhetoric.
-- Evaluate rhetorical choices across multiple texts.
-- Write complex narratives that establish multiple perspectives and convey universal themes.
-- Write arguments based on in-depth analysis of topics or texts using valid reasoning, credible evidence, elaboration, and thorough subject understanding.
-- Write in-depth analyses of complex texts using logical organization and appropriate tone and voice.
-- Conduct research on a topical issue to answer a question and synthesize information from a variety of sources.
-- Revise writing to enhance purpose, clarity, structure, and style.
-- Apply standard English grammar, punctuation, capitalization, and spelling appropriate to grade level.
-- Determine word meanings using context clues, figurative language, word relationships, reference materials, etymology, derivations, commonly used foreign phrases, and background knowledge.
-- Present information orally with logical organization, coherent focus, credible evidence, and effective rhetorical devices where appropriate.
-- Design and evaluate digital presentations for effectiveness.
-- Create, publish, and share multimedia texts through a variety of digital formats.
+- Analyze complex literary and informational texts with precision and evidence.
+- Evaluate advanced author choices, rhetoric, argument structure, perspective, and style.
+- Write narrative, argumentative, analytical, research-based, and multimedia texts for specific audiences.
+- Conduct topical research using credible sources and responsible synthesis.
+- Revise writing for clarity, sophistication, coherence, tone, and standard English control.
+- Present information orally and digitally using purposeful organization and evidence.
+- Evaluate digital and multimedia communication for audience impact.
+- Prepare for college, career, and civic communication demands.
 
 ---
 
 ## Prerequisite Knowledge / Skills
 
-Students entering English IV should have prior experience with English I, English II, and English III skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
+Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
 
-- Reading grade-level literary and informational texts with attention to meaning and evidence.
-- Paraphrasing grade-level texts accurately.
-- Analyzing and evaluating literary elements, themes, perspective, figurative language, poetry, and literary influence.
-- Analyzing and evaluating informational text structure, central idea, support, purpose, rhetoric, argument, and reasoning.
-- Writing organized narrative, argumentative, analytical, and research-supported texts.
-- Conducting source-based research and synthesizing source information.
-- Revising writing for clarity, structure, style, audience, purpose, and publication.
-- Using standard English conventions and academic vocabulary.
-- Participating in discussion and explaining thinking with support.
-- Using digital tools for writing, presentation, collaboration, publication, and multimedia communication.
+- English I, English II, and English III reading, writing, research, rhetoric, analysis, revision, vocabulary, and communication skills.
 
-Students are not expected to begin the course with mastery of Grade 12 functional literary significance, major poets in historical context, classic influence on contemporary world texts, related argument evaluation, topical-issue research, in-depth argument writing, in-depth complex text analysis, digital presentation evaluation, or multimedia publication. These skills are explicitly taught and scaffolded throughout the course.
+Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
 
 ---
 
 ## Course Structure
 
-The course is organized into six units, each designed to build progressively toward English IV standards mastery.
+The course is organized into six units, each designed to build progressively toward standards mastery.
 
-Approved English IV unit sequence:
+Approved unit sequence:
 
-- **Unit 1: Foundations of Grade 12 Close Reading, Evidence, and Academic Voice**  
-  Students develop Grade 12 close reading, paraphrase, academic vocabulary, evidence use, advanced analytical written response, standard English foundations, and evidence-based discussion habits.
+- Unit 1: Foundations of Grade 12 Close Reading, Evidence, and Academic Voice
+- Unit 2: Advanced Literary Evaluation, Perspective, Poetry, and Narrative Synthesis
+- Unit 3: Advanced Informational Text, Rhetoric, and Argument Evaluation
+- Unit 4: Topical Research, Argument, and In-Depth Text Analysis
+- Unit 5: Language, Vocabulary, Style, and Revision
+- Unit 6: Synthesis, Presentation, Digital Evaluation, and Multimedia Publication
 
-- **Unit 2: Advanced Literary Evaluation, Perspective, Poetry, and Narrative Synthesis**  
-  Students evaluate literary elements, multiple themes, character perspective, major poets in historical context, figurative language, classic influence on contemporary world texts, and complex narratives with universal themes.
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
 
-- **Unit 3: Advanced Informational Text, Rhetoric, and Argument Evaluation**  
-  Students evaluate text effectiveness, central idea support, author purpose, related arguments, claims, reasoning, same-information use, and rhetorical choices across multiple texts.
+This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
 
-- **Unit 4: Topical Research, Argument, and In-Depth Text Analysis**  
-  Students conduct topical-issue research, synthesize information from a variety of sources, write in-depth arguments, and write in-depth analyses of complex texts.
+---
 
-- **Unit 5: Language, Vocabulary, Style, and Revision**  
-  Students apply standard English conventions, determine word meaning, use etymology, derivations, and commonly used foreign phrases, revise writing for purpose, clarity, structure, and style, and strengthen precision.
+## Lesson Workflow
 
-- **Unit 6: Synthesis, Presentation, Digital Evaluation, and Multimedia Publication**  
-  Students synthesize reading, research, writing, revision, language, vocabulary, rhetoric, and communication skills to present information orally, design and evaluate digital presentations, and create, publish, and share multimedia texts.
+Lessons 1-7 follow the same learning sequence:
 
-Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow:
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
 
-1. Lesson Overview
-2. Notebook Task - Part 1
-3. Notebook Task - Part 2
-4. Worked Example
-5. Guided Practice
-6. Independent Work
-7. Checkpoint
-8. Notebook Evidence Submission
-9. Checkpoint Submission
-10. Lesson Quiz
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
 
 Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
@@ -135,35 +110,86 @@ Student learning is evaluated using multiple standards-aligned measures:
 
 Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
 
-### Notebook Evidence Submissions
+### Notebook Evidence Submissions (Teacher of Record Graded)
 
-Includes Notebook Task Part 1, Notebook Task Part 2, Independent Work, notes, annotations, planning work, vocabulary reasoning, source notes, response drafts, revision notes, and practice work completed during instruction.
+Includes:
 
-### Checkpoint Submissions
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
 
-Application-based mastery tasks requiring students to demonstrate reading analysis, writing development, research process, revision, communication, and evidence-based reasoning.
+Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
+
+Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
+
+### Guided Practice
+
+Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
 
 ### Lesson Quizzes
 
-Standards-aligned quizzes in Lessons 1-7 that verify mastery of taught lesson skills before students advance.
+Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
 
 ### Unit Assessments
 
-Lesson 8 contains the Unit Assessment and synthesizes standards already taught in Lessons 1-7. Lesson 8 does not introduce new primary standards.
+Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
-## Production Controls
+## Mastery & Progression Criteria
 
-- English IV follows the approved English I, English II, and English III production frameworks as the master template.
-- The course uses six units and eight lessons per unit.
-- Lesson 8 remains Putting It All Together in every unit.
-- Lesson content is not created in this architecture phase.
-- All lesson production must preserve MLA naming conventions, artifact formats, audit phases, and structure-only controls until content development is authorized.
-- Audit reports must be stored in the sibling `Course Audit` folder.
+Mindful Learning Academy follows a mastery-based learning model.
+
+To progress successfully through the course, students must:
+
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
+
+Mastery is demonstrated through consistent performance across:
+
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
+
+A minimum mastery level of 80% is required before advancement.
+
+Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
+
+Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
 
-## Source and Validation Note
+## College / Skill Readiness Integration
 
-This architecture uses the public CPALMS standards system as the official source location for Florida standards references and mirrors the approved MLA English framework. Benchmark wording was verified against CPALMS before final architecture certification.
+This course builds skills essential for college composition, workplace communication, advanced research, digital publication, and senior-level academic independence. Students develop:
+
+- Academic vocabulary and precise communication.
+- Evidence-based reasoning and explanation.
+- Interpretation of visuals, sources, models, data, or discipline-specific examples.
+- Independent learning habits in a mastery-based online environment.
+- Transferable reading, writing, thinking, and communication skills.
+
+Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.

@@ -1,213 +1,197 @@
-# PHYS - Physics
-
+﻿# PHYS - Physics
 **Credit:** 1.0 High School Science Credit  
-**Lab Designation:** High School Laboratory Science  
-**Course Type:** Mastery-Based High School Physics Course  
-**Florida Course Reference:** Physics 1, course number 2003380
-
----
-
-## Course Identity
-
-Course: PHYSICS  
-Florida course reference: Physics 1  
-CPALMS course number: 2003380  
-CPALMS current course record: 23835  
-Version verified: 2024 - And Beyond (current)  
-Credit: One (1) credit  
-Length: Year (Y)  
-Grade levels: 9, 10, 11, 12  
-Graduation relevance: Equally Rigorous Science
+**Course Type:** Mastery-Based High School Laboratory Science Course  
 
 ---
 
 ## Course Description
 
-Physics is a mastery-based high-school laboratory science course focused on scientific inquiry, measurement, motion, forces, energy, momentum, waves, sound, light, optics, electricity, magnetism, matter, modern physics, and applied physical systems.
+Physics develops the ability to explain motion, forces, energy, momentum, thermal systems, waves, sound, light, optics, electricity, magnetism, matter, modern physics, and applied systems using evidence, mathematics, models, and data.
 
-Students develop physics reasoning through evidence-based investigation, safe laboratory practice, mathematical modeling, graphical analysis, vector and scalar reasoning, data interpretation, system modeling, technical communication, and physics-informed decision making. The course emphasizes CPALMS Physics 1 expectations while maintaining clear boundaries from Biology, Chemistry, Environmental Science, Earth/Space Science, Marine Science, and Anatomy and Physiology.
+Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
+
+This is a laboratory science course. Lessons include lab or virtual lab experiences, direct student-safe resource links when required, step-by-step directions for what students should do after opening a resource, data tables, diagrams, models, and evidence-based analysis tasks.
 
 ---
 
 ## Standards Alignment
 
-Mindful Learning Academy uses CPALMS Physics 1 / Florida science benchmarks as the primary academic framework for Physics. The course architecture is aligned to:
+As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
 
-- CPALMS Physics 1, course number 2003380
-- Florida Physics 1 science benchmarks
-- Florida B.E.S.T. ELA Expectations embedded in the CPALMS course record
-- Florida Mathematical Thinking and Reasoning Standards embedded in the CPALMS course record
-- ELD science and social-instructional communication support standards
-- Common Core Literacy in Science and Technical Subjects
-- ACT Science readiness expectations
-- SAT science reading and data analysis expectations
-- College readiness expectations
-- Workforce readiness expectations
-- Scientific literacy expectations
+To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
 
-MLA Physics standards use the format `MLA.PHYS.[DOMAIN].[NUMBER]` and are organized into these domains:
+- CPALMS Physics 1; Florida science benchmarks; Florida B.E.S.T. embedded literacy expectations; Common Core Literacy in Science and Technical Subjects; ACT Science readiness; SAT science reading and data expectations
 
-- Scientific Inquiry and Practices
-- Laboratory, Measurement, and Data Skills
-- Motion and Frames of Reference
-- Forces and Newtonian Mechanics
-- Energy, Momentum, and Thermal Systems
-- Waves, Sound, Light, and Optics
-- Electricity, Magnetism, and Materials
-- Modern, Cosmic, and Applied Physics
+Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
+
+Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
+
+Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
 
 ---
 
-## Learning Outcomes
+## Learning Objectives / Outcomes
 
-By the end of Physics, students will be able to:
+By the end of this course, students will be able to:
 
-- Ask testable physics questions and design evidence-based investigations.
-- Apply lab safety, measurement, apparatus use, data collection, and data interpretation expectations.
-- Evaluate scientific claims, models, sources, explanations, theories, laws, observations, and inferences.
-- Distinguish scalar and vector quantities and analyze position, velocity, and acceleration.
-- Apply Newton's laws to force interactions, gravitational systems, and physical models.
-- Explain fundamental forces, conservation of momentum, and collision interactions.
-- Analyze forms of energy, energy transformations, conservation of energy, work, power, heat, temperature, and particle-level thermal reasoning.
-- Describe measurable wave properties, sound, electromagnetic waves, frequency shifts, lenses, mirrors, and optics models.
-- Explain static charge, electric fields, conductors, semiconductors, insulators, current, voltage, resistance, power, and electromagnetic applications.
-- Explain atomic models, cosmic-scale matter patterns, reference-frame concepts, and physics-informed decisions.
-- Communicate physics findings using evidence, data, models, mathematical reasoning, technical vocabulary, appropriate format, and appropriate tone.
+- Use measurement, variables, graphs, models, and lab safety to investigate physical systems.
+- Analyze motion using position, velocity, acceleration, scalar, and vector reasoning.
+- Explain Newton laws, force interactions, gravity, orbital relationships, and momentum.
+- Analyze work, energy, power, conservation, thermal systems, and collisions.
+- Explain waves, sound, electromagnetic waves, light, lenses, mirrors, and ray diagrams.
+- Analyze charge, fields, voltage, current, resistance, power, circuits, and electromagnetic applications.
+- Use mathematical models and data displays to support physics claims.
+- Communicate physics reasoning with equations, diagrams, evidence, and units.
 
 ---
 
-## Prerequisite Knowledge
+## Prerequisite Knowledge / Skills
 
-Students should enter Physics with general high-school science and mathematics readiness, including:
+Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
 
-- reading grade-level informational text
-- using basic scientific vocabulary
-- identifying observations and evidence
-- reading tables, graphs, diagrams, and simple models
-- performing measurement and unit reasoning
-- following written procedures
-- using arithmetic, proportional reasoning, and basic algebra in science contexts
-- writing short evidence-based explanations
+- Algebra readiness, graph interpretation, unit conversion, proportional reasoning, measurement, and basic scientific inquiry skills.
 
-Students are not expected to begin with mastery of high-school Physics 1 benchmarks. Inquiry, measurement, graphing, vectors, mathematical modeling, lab expectations, and standards-based physics reasoning are explicitly built across the course.
+Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
 
 ---
 
-## Six-Unit Sequence
+## Course Structure
 
-| Unit | Unit Title | Course Role |
-|---|---|---|
-| Unit 1 | Scientific Thinking, Measurement, and Motion | Establishes inquiry, lab safety, tools, measurement, data displays, scalar/vector reasoning, position, velocity, and acceleration. |
-| Unit 2 | Forces and Newtonian Mechanics | Develops Newton's laws, force interactions, gravitational systems, orbital relationships, fundamental forces, and momentum as an interaction concept. |
-| Unit 3 | Work, Energy, Momentum, and Thermal Systems | Develops energy forms, energy transformations, conservation, work, power, thermal systems, and momentum conservation in collisions and systems. |
-| Unit 4 | Waves, Sound, Light, and Optics | Develops wave properties, sound, electromagnetic waves, frequency shifts, light, frames of reference, ray diagrams, lenses, and mirrors. |
-| Unit 5 | Electricity, Magnetism, and Matter | Develops static charge, fields, potential, conductors, semiconductors, insulators, current, voltage, resistance, power, circuits, and electromagnetic applications. |
-| Unit 6 | Modern, Cosmic, and Applied Physics Systems | Develops atomic models, cosmic-scale matter patterns, physical forces, modern reference-frame concepts, models, theories, laws, and physics-informed decisions. |
+The course is organized into six units, each designed to build progressively toward standards mastery.
+
+Approved unit sequence:
+
+- Unit 1: Scientific Thinking, Measurement, and Motion
+- Unit 2: Forces and Newtonian Mechanics
+- Unit 3: Work, Energy, Momentum, and Thermal Systems
+- Unit 4: Waves, Sound, Light, and Optics
+- Unit 5: Electricity, Magnetism, and Matter
+- Unit 6: Modern, Cosmic, and Applied Physics Systems
+
+Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
+
+This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
+
+---
+
+## Lesson Workflow
+
+Lessons 1-7 follow the same learning sequence:
+
+Lesson Overview  
+->  
+Notebook Task Part 1  
+->  
+Notebook Task Part 2  
+->  
+Worked Example  
+->  
+Guided Practice  
+->  
+Independent Work  
+->  
+Checkpoint  
+->  
+Notebook Evidence Submission  
+->  
+Checkpoint Submission  
+->  
+Lesson Quiz
+
+This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+
+Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
 
 ---
 
 ## Assessment Structure
 
-Physics uses the approved MLA assessment model:
+Student learning is evaluated using multiple standards-aligned measures:
 
 ### Unit Pretests
 
-Each unit begins with a diagnostic Unit Pretest aligned to the unit's MLA standards and Florida benchmark expectations.
+Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
 
-### Notebook Evidence
+### Notebook Evidence Submissions (Teacher of Record Graded)
 
-Notebook evidence may include observations, models, data tables, graph interpretations, mathematical representations, vocabulary reasoning, investigation planning, safety reasoning, and evidence-based explanations.
+Includes:
+
+- Notebook Task Part 1
+- Notebook Task Part 2
+- Independent Work
+
+Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
+
+Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
+
+### Checkpoint Submissions (Teacher of Record Graded)
+
+Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
+
+Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
 
 ### Guided Practice
 
-Lessons 1-7 include guided practice aligned to the lesson's primary standards.
-
-### Checkpoints
-
-Checkpoints require students to apply the lesson's standards independently through physics evidence, data, models, calculations, explanations, or argumentation.
+Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
 
 ### Lesson Quizzes
 
-Lessons 1-7 include standards-aligned lesson quizzes.
+Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
 
 ### Unit Assessments
 
-Lesson 8 in every unit is titled Putting It All Together and contains the Unit Assessment. Lesson 8 synthesizes standards already taught in Lessons 1-7 and introduces no new primary standard.
+Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
+
+### Grading Breakdown
+
+Notebook Evidence = 10%
+
+Checkpoint Submission = 20%
+
+Lesson Quizzes = 30%
+
+Unit Assessments = 40%
+
+This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
 ---
 
-## Lab Expectations
+## Mastery & Progression Criteria
 
-Physics is a laboratory science course. Lab architecture must include:
+Mindful Learning Academy follows a mastery-based learning model.
 
-- safe investigation procedures
-- variables and controls
-- measurement
-- units
-- force, motion, energy, wave, electricity, and circuit investigations
-- data tables
-- graphs
-- model use
-- simulations
-- evidence-based claims
-- error, uncertainty, and limitations
-- scientific communication
+To progress successfully through the course, students must:
 
-Lab expectations must remain visible across the course architecture. Students should encounter laboratory-style reasoning through physical investigations, virtual investigations, data interpretation, graph analysis, models, calculations, evidence-based explanations, and technical communication. Lab work may be hands-on, virtual, data-based, model-based, or simulation-supported, but it must preserve the essential purpose of laboratory science: students observe or analyze a physical phenomenon, use evidence, reason from data, and communicate a justified conclusion.
+- Complete all required lesson components.
+- Submit Notebook Evidence.
+- Submit Checkpoint Responses.
+- Demonstrate lesson mastery through Lesson Quizzes.
+- Complete all Unit Assessments.
+- Revise and resubmit work when required to demonstrate mastery.
 
----
+Mastery is demonstrated through consistent performance across:
 
-## Virtual Lab Expectations
+- Notebook Evidence Submissions
+- Checkpoint Submissions
+- Lesson Quizzes
+- Unit Assessments
 
-Virtual labs may use:
+A minimum mastery level of 80% is required before advancement.
 
-- motion simulations
-- force simulations
-- energy-transfer models
-- wave models
-- sound and light simulations
-- optics simulations
-- circuit simulators
-- electricity and magnetism models
-- data tables
-- graph-based investigations
-- video-analysis data
-- interactive models
+Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
 
-Virtual labs must require students to:
-
-- observe a phenomenon
-- identify variables
-- collect or interpret data
-- graph or analyze results
-- explain patterns
-- make evidence-based claims
-- reflect on uncertainty, error, or model limitations where appropriate
-
-Virtual labs are not optional enrichment. They are part of the laboratory science architecture when direct physical lab access is limited or when simulations provide clearer evidence of force, motion, wave, light, circuit, or field behavior. Virtual lab evidence must still require student reasoning, not passive viewing.
+Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
 
 ---
 
-## Mastery-Based Credit Structure
+## College / Skill Readiness Integration
 
-Students earn credit through demonstrated mastery of Physics standards across unit pretests, lesson evidence, guided practice, checkpoints, lesson quizzes, and unit assessments. Mastery evidence must align to the MLA Physics standards and the Florida Physics 1 benchmark expectations in the architecture package.
+This course builds skills essential for college science, engineering thinking, technical problem solving, data interpretation, and applied quantitative reasoning. Students develop:
 
----
+- Academic vocabulary and precise communication.
+- Evidence-based reasoning and explanation.
+- Interpretation of visuals, sources, models, data, or discipline-specific examples.
+- Independent learning habits in a mastery-based online environment.
+- Transferable reading, writing, thinking, and communication skills.
 
-## Production Controls
-
-- This overview is architecture only.
-- No lesson content is created in this phase.
-- No assessment content is created in this phase.
-- No HTML content is created in this phase.
-- No JSON content is created in this phase.
-- No GIFT content is created in this phase.
-- `How-This-Course-Works.md`, `Expectations-and-Policies.md`, and `Course-Acknowledgement.md` are not created here because they are approved MLA standardized documents that will be copied later.
-
----
-
-## Source and Validation Note
-
-Official source verified: CPALMS Physics 1, course number `2003380`, current course record `23835`, version `2024 - And Beyond (current)`.
-
-CPALMS-listed standards verified: 52. Science benchmarks verified: 37. Embedded/support standards verified: 15. MLA Physics standards verified: 27.
+Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.
