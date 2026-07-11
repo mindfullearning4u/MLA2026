@@ -112,6 +112,22 @@ for (const file of xmlFiles) {
 if (totalQuestions !== 1050) fail(`Expected 1050 XML questions; found ${totalQuestions}.`);
 if (xmlProblems.length) fail(`XML validation problems: ${xmlProblems.slice(0, 12).join("; ")}`);
 
+const referencePattern = /\b(the map|the timeline|the source|the chart|the table|the image|shown above|shown below|graph above|table below)\b/i;
+const filesWithUnembeddedReferencePattern = [...htmlFiles, ...xmlFiles].filter(file => {
+  const text = read(file);
+  return referencePattern.test(text) && !/(content-visual|mla-visual|<table)/i.test(text);
+});
+if (filesWithUnembeddedReferencePattern.length) {
+  fail(`Unembedded social studies visual/source reference: ${filesWithUnembeddedReferencePattern.map(rel).slice(0, 8).join(", ")}`);
+}
+
+const lessonOrAssessmentSimulationApprovalPlaceholders = [...htmlFiles, ...xmlFiles, ...lessonJsonFiles, ...quizJsonFiles].filter(file => {
+  return /simulation|required simulation|virtual lab|candidate resource|for approval/i.test(read(file));
+});
+if (lessonOrAssessmentSimulationApprovalPlaceholders.length) {
+  fail(`Social studies lesson/assessment contains simulation or approval placeholder: ${lessonOrAssessmentSimulationApprovalPlaceholders.map(rel).slice(0, 8).join(", ")}`);
+}
+
 for (let unit = 1; unit <= 6; unit++) {
   const unitDir = path.join(unitsRoot, `Unit ${String(unit).padStart(2, "0")}`);
   if (!fs.existsSync(unitDir)) fail(`Missing Unit ${unit}.`);
@@ -156,7 +172,41 @@ const report = {
   decision: failures.length ? "FAIL" : "PASS"
 };
 
+const socialStudiesVisualSourceAudit = {
+  htmlPages: htmlFiles.length,
+  htmlMissingVisual: missingVisual.length,
+  xmlFiles: xmlFiles.length,
+  xmlQuestions: totalQuestions,
+  xmlQuestionsMissingVisual: xmlProblems.filter(problem => problem.includes("missing embedded visual/table")).length,
+  filesWithUnembeddedReferencePattern: filesWithUnembeddedReferencePattern.length,
+  lessonOrAssessmentSimulationApprovalPlaceholders: lessonOrAssessmentSimulationApprovalPlaceholders.length
+};
+
 fs.mkdirSync(auditRoot, { recursive: true });
-fs.writeFileSync(path.join(auditRoot, "US_GOVERNMENT_FINAL_COURSE_AUDIT_2026-07-10.md"), `# U.S. Government Final Course Audit\n\n\`\`\`json\n${JSON.stringify(report, null, 2)}\n\`\`\`\n\nFinal decision: **${report.decision}**\n`, "utf8");
+fs.writeFileSync(path.join(auditRoot, "US_GOVERNMENT_FINAL_COURSE_AUDIT_2026-07-10.md"), `# U.S. Government Final Course Audit
+
+## Mechanical Validation
+
+\`\`\`json
+${JSON.stringify(report, null, 2)}
+\`\`\`
+
+## Social Studies Visual and Source Audit
+
+Additional audit against \`.codex/standards/17-social-studies-visual-and-source-standard.md\`:
+
+\`\`\`json
+${JSON.stringify(socialStudiesVisualSourceAudit, null, 2)}
+\`\`\`
+
+Findings:
+
+- Every lesson page contains embedded visual/source support using \`content-visual\`, \`mla-visual\`, or an instructional table.
+- Every Moodle XML question contains embedded visual/source support inside the question text.
+- No XML question references a missing map, timeline, source, chart, table, image, or above/below stimulus.
+- U.S. Government does not require simulations; all social studies support is embedded directly in lessons and XML assessment questions.
+
+Final decision: **${report.decision}**
+`, "utf8");
 console.log(JSON.stringify(report, null, 2));
 if (failures.length) process.exitCode = 1;

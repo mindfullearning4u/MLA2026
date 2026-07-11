@@ -1,34 +1,36 @@
 # Visual and Source Mapping
 
-| Unit | Lesson | Visual / Source Tool | Reason Required |
-|---|---|---|---|
-| Unit 01 | Lesson 01 | principle matrix | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 01 | Lesson 02 | influence chain | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 01 | Lesson 03 | comparison table | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 01 | Lesson 04 | constitutional systems diagram | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 01 | Lesson 05 | foundations decision chart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 02 | Lesson 01 | constitution map | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 02 | Lesson 02 | bill-to-law flowchart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 02 | Lesson 03 | executive power organizer | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 02 | Lesson 04 | court hierarchy diagram | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 02 | Lesson 05 | three-branch case pathway | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 03 | Lesson 01 | rights scenario table | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 03 | Lesson 02 | rights pathway diagram | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 03 | Lesson 03 | rights-response timeline | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 03 | Lesson 04 | responsibility evidence chart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 03 | Lesson 05 | rights balancing matrix | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 04 | Lesson 01 | suffrage timeline | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 04 | Lesson 02 | influence web | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 04 | Lesson 03 | election process map | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 04 | Lesson 04 | poll interpretation table | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 04 | Lesson 05 | participation impact chart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 05 | Lesson 01 | policy cycle | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 05 | Lesson 02 | authority Venn/table | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 05 | Lesson 03 | case reasoning chart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 05 | Lesson 04 | budget tradeoff table | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 05 | Lesson 05 | policy decision record | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 06 | Lesson 01 | systems comparison table | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 06 | Lesson 02 | Florida government chart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 06 | Lesson 03 | civic action planning flowchart | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 06 | Lesson 04 | issue analysis frame | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
-| Unit 06 | Lesson 05 | civic decision checklist | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
+Social studies simulation rule: U.S. Government does not require simulations. The required support is embedded civic/source visual evidence in lesson HTML and Moodle XML assessment questions.
+
+| Unit | Lesson | Required Source/Visual Support | Assessment Stimulus Requirement | External Simulation Required? | Reason Required |
+|---|---|---|---|---|---|
+| Unit 01 | Lesson 01 | principle matrix | Embed principle matrix in guided practice and quiz XML questions. | No simulation required | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
+| Unit 01 | Lesson 02 | influence chain | Embed influence chain in guided practice and quiz XML questions. | No simulation required | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
+| Unit 01 | Lesson 03 | comparison table | Embed comparison table in guided practice and quiz XML questions. | No simulation required | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
+| Unit 01 | Lesson 04 | constitutional systems diagram | Embed constitutional systems diagram in guided practice and quiz XML questions. | No simulation required | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
+| Unit 01 | Lesson 05 | foundations decision chart | Embed foundations decision chart in guided practice and unit assessment XML questions. | No simulation required | Helps students see the government process, comparison, case pathway, evidence relationship, or civic decision steps. |
+| Unit 02 | Lesson 01 | constitution map | Embed constitution map in guided practice and quiz XML questions. | No simulation required | Helps students locate constitutional structure, powers, rights, and amendment evidence. |
+| Unit 02 | Lesson 02 | bill-to-law flowchart | Embed bill-to-law flowchart in guided practice and quiz XML questions. | No simulation required | Helps students follow the sequence of congressional lawmaking without guessing. |
+| Unit 02 | Lesson 03 | executive power organizer | Embed executive power organizer in guided practice and quiz XML questions. | No simulation required | Helps students separate executive roles, powers, and limits. |
+| Unit 02 | Lesson 04 | court hierarchy diagram | Embed court hierarchy diagram in guided practice and quiz XML questions. | No simulation required | Helps students distinguish trial courts, appellate review, Supreme Court review, and judicial review. |
+| Unit 02 | Lesson 05 | three-branch case pathway | Embed three-branch case pathway in guided practice and unit assessment XML questions. | No simulation required | Helps students synthesize constitutional structure across mapped standards. |
+| Unit 03 | Lesson 01 | rights scenario table | Embed rights scenario table in guided practice and quiz XML questions. | No simulation required | Helps students match scenarios to specific civil liberties and lawful limits. |
+| Unit 03 | Lesson 02 | rights pathway diagram | Embed rights pathway diagram in guided practice and quiz XML questions. | No simulation required | Helps students trace due process, equal protection, and incorporation reasoning. |
+| Unit 03 | Lesson 03 | rights-response timeline | Embed rights-response timeline in guided practice and quiz XML questions. | No simulation required | Helps students connect civil rights barriers, civic action, laws, court decisions, and results. |
+| Unit 03 | Lesson 04 | responsibility evidence chart | Embed responsibility evidence chart in guided practice and quiz XML questions. | No simulation required | Helps students distinguish rights, responsibilities, civic virtue, and rule of law evidence. |
+| Unit 03 | Lesson 05 | rights balancing matrix | Embed rights balancing matrix in guided practice and unit assessment XML questions. | No simulation required | Helps students synthesize rights, responsibilities, and constitutional limits. |
+| Unit 04 | Lesson 01 | suffrage timeline | Embed suffrage timeline in guided practice and quiz XML questions. | No simulation required | Helps students analyze expansion of voting rights, barriers, eligibility, and turnout. |
+| Unit 04 | Lesson 02 | influence web | Embed influence web in guided practice and quiz XML questions. | No simulation required | Helps students separate parties, interest groups, media, and public opinion. |
+| Unit 04 | Lesson 03 | election process map | Embed election process map in guided practice and quiz XML questions. | No simulation required | Helps students trace campaigns, primaries, general elections, Electoral College, and finance issues. |
+| Unit 04 | Lesson 04 | poll interpretation table | Embed poll interpretation table in guided practice and quiz XML questions. | No simulation required | Helps students evaluate polling, sample, margin of error, claims, and evidence. |
+| Unit 04 | Lesson 05 | participation impact chart | Embed participation impact chart in guided practice and unit assessment XML questions. | No simulation required | Helps students synthesize participation and representation standards. |
+| Unit 05 | Lesson 01 | policy cycle | Embed policy cycle in guided practice and quiz XML questions. | No simulation required | Helps students trace problem identification, policy choice, implementation, and evaluation. |
+| Unit 05 | Lesson 02 | authority Venn/table | Embed authority Venn/table in guided practice and quiz XML questions. | No simulation required | Helps students compare federal, state, local, and shared authority. |
+| Unit 05 | Lesson 03 | case reasoning chart | Embed case reasoning chart in guided practice and quiz XML questions. | No simulation required | Helps students analyze landmark cases, constitutional questions, holdings, and impact. |
+| Unit 05 | Lesson 04 | budget tradeoff table | Embed budget tradeoff table in guided practice and quiz XML questions. | No simulation required | Helps students evaluate taxation, spending, opportunity cost, and policy tradeoffs. |
+| Unit 05 | Lesson 05 | policy decision record | Embed policy decision record in guided practice and unit assessment XML questions. | No simulation required | Helps students synthesize public policy, federalism, landmark cases, and budgets. |
+| Unit 06 | Lesson 01 | systems comparison table | Embed systems comparison table in guided practice and quiz XML questions. | No simulation required | Helps students compare democratic, authoritarian, federal, unitary, parliamentary, and presidential systems. |
+| Unit 06 | Lesson 02 | Florida government chart | Embed Florida government chart in guided practice and quiz XML questions. | No simulation required | Helps students distinguish Florida state and local government structures. |
+| Unit 06 | Lesson 03 | civic action planning flowchart | Embed civic action planning flowchart in guided practice and quiz XML questions. | No simulation required | Helps students plan evidence-based civic action and community problem solving. |
+| Unit 06 | Lesson 04 | issue analysis frame | Embed issue analysis frame in guided practice and quiz XML questions. | No simulation required | Helps students compare claims, evidence, constitutional principles, safeguards, and civic discourse. |
+| Unit 06 | Lesson 05 | civic decision checklist | Embed civic decision checklist in guided practice and unit assessment XML questions. | No simulation required | Helps students synthesize civic decision-making and democratic institutions. |
