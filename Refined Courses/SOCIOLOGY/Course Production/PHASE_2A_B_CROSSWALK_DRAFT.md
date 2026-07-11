@@ -1,5 +1,9 @@
 # Crosswalk
 
+## Source Provenance and Readiness Trace
+
+This crosswalk is maintained against Florida CPALMS course records, applicable Florida B.E.S.T. expectations, Common Core literacy or mathematical-practice support where applicable, and ACT/SAT college-readiness skills. Lesson developers, assessment developers, auditors, and Moodle transfer agents must preserve this source trace when validating standards coverage, lesson scope, assessment scope, visuals, source evidence, and student-readiness rigor.
+
 | Standard | Unit(s) | Instructional Role | Assessment Evidence |
 |---|---|---|---|
 | MLA.SOC.FND.1 | Unit 01 Lesson 01 | What Sociology Studies | Guided Practice, Lesson Quiz, and mapped notebook/checkpoint evidence |
