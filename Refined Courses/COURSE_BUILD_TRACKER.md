@@ -10,10 +10,10 @@ Official build target: **47 catalog courses**
 
 ```text
 47 total courses
-27 course-build complete / Moodle transfer ready
+28 course-build complete / Moodle transfer ready
 7 transferred to Moodle
 0 currently in Moodle transfer
-20 still need to be built
+19 still need to be built
 ```
 
 ## Status Key
@@ -50,7 +50,7 @@ Official build target: **47 catalog courses**
 | U.S. History | Social Studies and Financial Literacy | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | U.S. Government | Social Studies and Financial Literacy | 0.5 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Personal Financial Literacy and Economics | Social Studies and Financial Literacy | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Health & Physical Education | Physical Education & Health | 1.0 | Not started | Not started | Not started | Not started |
+| Health & Physical Education | Physical Education & Health | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Foundations of Art | Fine Arts / Practical Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Digital Media & Design | Fine Arts / Practical Arts | 1.0 | Not started | Not started | Not started | Not started |
 | Speech & Communication | Fine Arts / Practical Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -79,7 +79,7 @@ Official build target: **47 catalog courses**
 | Life Skills & Independent Living | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 | Nutrition & Wellness | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 
-Current repo-complete count: **27 courses**.
+Current repo-complete count: **28 courses**.
 
 Important count note: the active catalog lists **47 courses**, and all 47 are part of the required build target.
 
@@ -116,6 +116,7 @@ These courses have active course folders and have been treated as course-build c
 | Social Studies and Financial Literacy | Personal Financial Literacy and Economics | `PERSONAL FINANCIAL LITERACY AND ECONOMICS` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with embedded financial/economic charts, tables, decision matrices, and XML stimuli. |
 | Social Sciences & Humanities | Psychology | `PSYCHOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE, Florida support, Common Core, SAT, and ACT alignment; embedded psychology charts, diagrams, timelines, research-data displays, and Moodle XML stimuli. |
 | Social Sciences & Humanities | Sociology | `SOCIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE, Florida support, Common Core, SAT, and ACT alignment; embedded sociology charts, source excerpts, social-pattern diagrams, timelines, research-data displays, and Moodle XML stimuli. |
+| Physical Education & Health | Health & Physical Education | `HEALTH AND PHYSICAL EDUCATION` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE Health Education and Physical Education alignment, embedded FITT tables, heart-rate/intensity charts, nutrition-label models, safety pathways, wellness maps, portfolio organizers, and Moodle XML visual stimuli. |
 
 ## Remaining Catalog Courses
 
@@ -123,7 +124,6 @@ These courses are listed in the catalog but do not currently have completed acti
 
 | Department | Catalog Course | Credits | Course Production | Lessons Complete | Assessments Complete | Final Audit | Moodle Transfer Status | Build Target |
 |---|---|---:|---|---|---|---|---|---|
-| Physical Education & Health | Health & Physical Education | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Fine Arts / Practical Arts | Digital Media & Design | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Fine Arts / Practical Arts | Entrepreneurship Principles | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | World Language / College Readiness | Spanish I | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
