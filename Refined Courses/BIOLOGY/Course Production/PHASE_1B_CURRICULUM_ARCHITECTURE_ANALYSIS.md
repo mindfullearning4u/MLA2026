@@ -4,7 +4,7 @@
 
 This document establishes the Biology curriculum architecture for Mindful Learning Academy using the approved MLA mastery model, the certified English and Communication Department production framework, the certified Math Department audit discipline, and the approved six-unit, eight-lesson course structure.
 
-This is architecture only. It does not create lessons, assessments, HTML content, GIFT content, quiz JSON content, lesson JSON content, LMS pages, or student-facing instructional lesson content.
+This is architecture only. It does not create lessons, assessments, HTML content, legacy assessment-bank content, quiz JSON content, lesson JSON content, LMS pages, or student-facing instructional lesson content.
 
 ## Official Source Verification
 
@@ -94,7 +94,7 @@ Approved domains:
 - Use CPALMS Biology 1 standards as the official Florida source.
 - Cross-reference Common Core Literacy in Science and Technical Subjects, ACT Science, SAT science reading/data expectations, college readiness, workforce readiness, and scientific literacy.
 - Do not create student-facing instructional lesson content during architecture.
-- Do not create or populate HTML, JSON, GIFT, lesson, quiz, or LMS content during architecture.
+- Do not create or populate HTML, JSON, legacy assessment text format, lesson, quiz, or LMS content during architecture.
 
 ## Stop Point
 

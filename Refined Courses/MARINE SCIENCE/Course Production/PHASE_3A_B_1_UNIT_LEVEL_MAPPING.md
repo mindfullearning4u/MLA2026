@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This document maps MLA Marine Science standards to six units. It identifies primary standards, support/spiral standards, Florida benchmark alignment, evidence categories, and unit rationale. It does not create lessons, assessments, HTML, JSON, GIFT files, or LMS pages.
+This document maps MLA Marine Science standards to six units. It identifies primary standards, support/spiral standards, Florida benchmark alignment, evidence categories, and unit rationale. It does not create lessons, assessments, HTML, JSON, legacy assessment-bank files, or LMS pages.
 
 ## Required Companion Mapping
 

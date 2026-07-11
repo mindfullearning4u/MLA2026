@@ -4,7 +4,7 @@
 
 This document maps all 48 Environmental Science lessons across six units. It identifies unit number, lesson number, lesson title, primary standards, support standards, lesson purpose, assessment evidence, and rationale.
 
-This is architecture only. It does not create lessons, assessments, HTML content, JSON content, GIFT content, or LMS pages.
+This is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Required Companion Mapping
 

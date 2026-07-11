@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This matrix provides production guidance for future Marine Science lesson development. It identifies recommended text, model, map, image, and data source categories by unit. It does not create lesson content, assessment content, HTML content, JSON content, GIFT content, or LMS pages.
+This matrix provides production guidance for future Marine Science lesson development. It identifies recommended text, model, map, image, and data source categories by unit. It does not create lesson content, assessment content, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Source Category Matrix
 
@@ -25,7 +25,7 @@ This matrix provides production guidance for future Marine Science lesson develo
 | Marine identity | Sources must preserve Marine Science identity. Biology, Chemistry, Environmental Science, and Earth/Space Science sources may be used only when supporting ocean-focused standards. |
 | Reading level | Texts should support high-school science literacy and include opportunities for evidence citation, inference, technical vocabulary, and data interpretation. |
 | Embedded-source requirement | Any passage, data table, map, scenario, graph, or source set required for a lesson or assessment must be included directly where students need it. |
-| Lesson production boundary | This matrix is guidance only and does not create lesson text, assessments, HTML, JSON, GIFT, or LMS pages. |
+| Lesson production boundary | This matrix is guidance only and does not create lesson text, assessments, HTML, JSON, legacy assessment text format, or LMS pages. |
 
 ## Unit Source Validation
 

@@ -153,4 +153,4 @@ Verified support standard count: 18.
 | Duplicate MLA standard numbers | 0 |
 | Lesson content created | No |
 | Assessment content created | No |
-| HTML, JSON, or GIFT content created | No |
+| HTML, JSON, or legacy assessment-bank content created | No |

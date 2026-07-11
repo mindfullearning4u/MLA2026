@@ -4,7 +4,7 @@
 
 This matrix documents where lab-style investigation, virtual lab work, medical case analysis, physiological data interpretation, model use, graphing, and evidence-based scientific communication occur across all six Anatomy and Physiology units and 48 mapped lessons.
 
-This document is architecture only. It does not create lab instructions, lessons, assessments, HTML, JSON, GIFT, LMS pages, or student-facing instructional content.
+This document is architecture only. It does not create lab instructions, lessons, assessments, HTML, JSON, legacy assessment text format, LMS pages, or student-facing instructional content.
 
 | Unit | Lesson | Lab / Investigation Type | Virtual Lab / Simulation Type | Data Source or Model | Safety / Procedure Focus | Student Evidence / Deliverable |
 | ---- | -----: | ------------------------ | ----------------------------- | -------------------- | ------------------------ | ------------------------------ |
@@ -72,4 +72,4 @@ This document is architecture only. It does not create lab instructions, lessons
 | Every unit supports at least one lab or virtual lab experience | PASS |
 | No lesson instructions created | PASS |
 | No assessment items created | PASS |
-| No HTML, JSON, GIFT, or LMS pages created | PASS |
+| No HTML, JSON, legacy assessment text format, or LMS pages created | PASS |

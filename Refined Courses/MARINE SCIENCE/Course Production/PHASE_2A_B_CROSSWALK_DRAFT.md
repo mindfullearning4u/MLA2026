@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This crosswalk connects the official MLA Marine Science standards to Florida/CPALMS Marine Science benchmark expectations and readiness frameworks. It does not create lessons, assessments, HTML, JSON, GIFT files, or LMS pages.
+This crosswalk connects the official MLA Marine Science standards to Florida/CPALMS Marine Science benchmark expectations and readiness frameworks. It does not create lessons, assessments, HTML, JSON, legacy assessment-bank files, or LMS pages.
 
 ## Crosswalk Table
 

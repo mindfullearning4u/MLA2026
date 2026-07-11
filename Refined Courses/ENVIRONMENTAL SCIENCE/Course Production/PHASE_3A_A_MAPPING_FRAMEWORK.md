@@ -8,7 +8,7 @@
 4. Lesson 8 is always titled `Putting It All Together`.
 5. Lesson 8 synthesizes only standards already taught in Lessons 1-7.
 6. Lesson 8 includes Unit Assessment evidence.
-7. No lesson, assessment, HTML, JSON, GIFT, or LMS content is created by this architecture package.
+7. No lesson, assessment, HTML, JSON, legacy assessment text format, or LMS content is created by this architecture package.
 
 ## Required Lab, Visual, Simulation, and Resource Matrix
 

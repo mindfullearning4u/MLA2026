@@ -23,7 +23,7 @@ These support alignments do not replace the CPALMS Social Studies standards. The
 
 ## Required Standards Provenance
 
-The crosswalk, unit mapping, lesson mapping, lesson development, assessment development, and audit process must use this source hierarchy. An agent must not build World History from memory, a generic pacing guide, an old unit overview, or a third-party standards summary.
+The crosswalk, unit mapping, lesson mapping, lesson development, assessment development, and audit process must use this source hierarchy. An agent must not build World History from memory, a generic pacing guide, an old course overview, or a third-party standards summary.
 
 | Alignment Layer | Official / Primary Source | Source URL or File | Required Use in Crosswalk and Mapping | Boundary |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This matrix provides production guidance for future Earth/Space Science lesson development. It identifies recommended text, model, map, image, and data source categories by unit. It does not create lesson content, assessment content, HTML content, JSON content, GIFT content, or LMS pages.
+This matrix provides production guidance for future Earth/Space Science lesson development. It identifies recommended text, model, map, image, and data source categories by unit. It does not create lesson content, assessment content, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Source Category Matrix
 
@@ -24,7 +24,7 @@ This matrix provides production guidance for future Earth/Space Science lesson d
 | Visual integrity | Maps, diagrams, satellite images, model visuals, and graphs must be legible and aligned to the target standard. |
 | Reading level | Texts should support high-school science literacy and include opportunities for evidence citation, inference, and technical vocabulary development. |
 | Identity control | Sources must preserve Earth/Space Science identity. Biology, Chemistry, and Physics sources may be used only when supporting CPALMS Earth/Space Science benchmarks. |
-| Lesson production boundary | This matrix is guidance only and does not create lesson text, assessments, HTML, JSON, GIFT, or LMS pages. |
+| Lesson production boundary | This matrix is guidance only and does not create lesson text, assessments, HTML, JSON, legacy assessment text format, or LMS pages. |
 
 ## Unit Source Validation
 

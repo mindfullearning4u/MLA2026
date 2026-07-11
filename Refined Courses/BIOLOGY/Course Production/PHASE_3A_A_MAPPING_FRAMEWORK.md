@@ -4,7 +4,7 @@
 
 This framework governs how Biology standards are distributed across the approved MLA six-unit, eight-lesson structure. It establishes coursewide mapping rules before unit-level and lesson-level mapping are finalized.
 
-This is architecture only. It does not create lessons, assessments, HTML content, JSON content, GIFT content, or LMS pages.
+This is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Required Mapping Structure
 
@@ -90,7 +90,7 @@ The controlling Biology lab, visual, simulation, and resource matrix is:
 
 Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, graph, model, data table, lab, investigation, simulation review, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
 
-Candidate resources are suggestions for approval only. External resources must not be embedded into lessons until approved.
+Free, student-safe, directly aligned science resources from trusted sources may be inserted as exact direct links under the MLA direct-link standard. Resources requiring login, payment, unsafe activity, non-public access, questionable source quality, or uncertain alignment still require approval.
 
 ## Lesson 8 Control
 

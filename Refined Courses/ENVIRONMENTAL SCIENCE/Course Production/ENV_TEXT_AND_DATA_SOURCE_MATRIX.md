@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This matrix provides production guidance for future Environmental Science lesson development. It identifies recommended text, data, model, case study, and monitoring source categories by unit. It does not create lesson content, assessment content, HTML content, JSON content, GIFT content, or LMS pages.
+This matrix provides production guidance for future Environmental Science lesson development. It identifies recommended text, data, model, case study, and monitoring source categories by unit. It does not create lesson content, assessment content, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Source Category Matrix
 

@@ -4,13 +4,13 @@
 
 This document maps all 48 Biology lessons across six units. It identifies unit number, lesson number, lesson title, primary standards, support standards, lesson purpose, assessment evidence, and rationale.
 
-This is architecture only. It does not create lessons, assessments, HTML content, JSON content, GIFT content, or LMS pages.
+This is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Required Companion Mapping
 
 This lesson-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
 
-That companion file identifies, for every lesson, required lab/data/investigation planning, required visuals/models/data displays, candidate resource locations for approval, and required assessment stimuli. No Biology lesson, assessment, Moodle XML item, or Moodle transfer package is production-ready if it ignores that companion matrix.
+That companion file identifies, for every lesson, required lab/data/investigation planning, required visuals/models/data displays, required or recommended exact direct resource locations, and required assessment stimuli. No Biology lesson, assessment, Moodle XML item, or Moodle transfer package is production-ready if it ignores that companion matrix.
 
 ## Lesson-Level Mapping
 

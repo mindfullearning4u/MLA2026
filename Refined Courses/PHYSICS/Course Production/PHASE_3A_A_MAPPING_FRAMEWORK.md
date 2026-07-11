@@ -8,7 +8,7 @@
 4. Lesson 8 is always titled `Putting It All Together`.
 5. Lesson 8 synthesizes only standards already taught in Lessons 1-7.
 6. Lesson 8 includes Unit Assessment evidence.
-7. No lesson content, assessment content, HTML content, JSON content, or GIFT content is created by this architecture package.
+7. No lesson content, assessment content, HTML content, JSON content, or legacy assessment-bank content is created by this architecture package.
 
 ## Unit-Level Standards Map
 
@@ -52,4 +52,4 @@ The controlling Physics lab, visual, simulation, and resource matrix is:
 
 Lesson development, assessment development, Moodle XML production, and Moodle transfer must use that file before production begins. If the matrix identifies a required visual, graph, model, data table, equation, vector diagram, force diagram, ray diagram, circuit diagram, lab, investigation, simulation review, safety note, candidate resource location, or assessment stimulus, the responsible agent must include it or document a standards-based reason for not including it.
 
-Candidate resources are suggestions for approval only. External resources must not be embedded into lessons until approved.
+Free, student-safe, directly aligned science resources from trusted sources may be inserted as exact direct links under the MLA direct-link standard. Resources requiring login, payment, unsafe activity, non-public access, questionable source quality, or uncertain alignment still require approval.

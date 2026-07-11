@@ -44,7 +44,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 
 ## Lesson-Level Lab, Visual, Simulation, and Resource Matrix
 
-| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Candidate Resource Location for Approval | Assessment Stimulus Needed |
+| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Required or Recommended Exact Direct Resource Location | Assessment Stimulus Needed |
 |---|---:|---|---|---|---|---|
 | 1 | 01 | Physics as a Science | Physics inquiry and evidence investigation | CER organizer; evidence table | CPALMS resources; OpenStax College Physics; PhET introductory activities | Evidence/claim table |
 | 1 | 02 | Lab Safety, Tools, and Measurement | Safety, measurement, and tool-selection investigation | Apparatus/safety diagrams; measurement table | CPALMS resources; OpenStax College Physics; NSTA safety resources | Safety scenario and measurement/tool diagram |
@@ -53,7 +53,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 | 1 | 05 | Scalars, Vectors, and Units | Vector/scalar representation investigation | Vector arrows; unit table; quantity classification chart | CK-12; OpenStax College Physics | Vector/scalar diagram |
 | 1 | 06 | Position and Velocity | Position-time/velocity-time graph investigation | Position-time graph; velocity-time graph; reference-frame diagram | PhET Moving Man; video-analysis data; OpenStax | Motion graph stimulus |
 | 1 | 07 | Acceleration and Motion Models | Acceleration and motion model investigation | Motion graphs; acceleration model | PhET Moving Man; CK-12; OpenStax | Acceleration graph/model |
-| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, measurement, vectors, and kinematics | Mixed stimuli: measurement table, motion graph, vector diagram, reference frame | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, measurement, vectors, and kinematics | Mixed stimuli: measurement table, motion graph, vector diagram, reference frame | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 2 | 01 | Force Interactions | Force interaction model investigation | Interaction diagram; free-body diagram | PhET Forces and Motion; OpenStax College Physics | Force diagram |
 | 2 | 02 | Newton's First and Second Laws | Force-mass-acceleration data investigation | F = ma table/graph; free-body diagram | PhET Forces and Motion; OpenStax | Force/data graph |
 | 2 | 03 | Newton's Third Law and System Interactions | Paired-force interaction investigation | Action-reaction pair diagram; system diagram | PhET Forces and Motion; CK-12 | Interaction diagram |
@@ -61,7 +61,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 | 2 | 05 | Earth, Moon, and Sun Mechanics | Orbital motion model investigation | Orbital model; force/motion diagram | NASA; PhET Gravity and Orbits; OpenStax | Orbital model |
 | 2 | 06 | Momentum as a Force Interaction | Collision/momentum interaction investigation | Before/after collision table; momentum model | PhET Collision Lab; OpenStax | Collision data/model |
 | 2 | 07 | Fundamental Forces | Fundamental force comparison investigation | Range/magnitude comparison chart | OpenStax College Physics; CERN/NASA educational resources | Force comparison chart |
-| 2 | 08 | Putting It All Together | Unit synthesis across Newton's laws, gravity, momentum, and fundamental forces | Mixed stimuli: free-body diagram, gravity graph, orbital model, collision data | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 2 | 08 | Putting It All Together | Unit synthesis across Newton's laws, gravity, momentum, and fundamental forces | Mixed stimuli: free-body diagram, gravity graph, orbital model, collision data | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 3 | 01 | Forms of Energy | Energy classification/model investigation | Energy form chart; system diagram | PhET Energy Skate Park; OpenStax | Energy model/chart |
 | 3 | 02 | Energy Transformations | Energy transformation investigation | Energy flow diagram; transformation table | PhET Energy Skate Park; OpenStax | Energy transformation diagram |
 | 3 | 03 | Conservation of Energy | Conservation/system boundary investigation | Open/closed/isolated system models; energy bar chart | PhET Energy Skate Park; OpenStax | Conservation model/data |
@@ -69,7 +69,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 | 3 | 05 | Power | Power rate data investigation | Work-time-power table; comparison graph | OpenStax; CK-12 | Power data table |
 | 3 | 06 | Heat, Temperature, and Matter States | Thermal model and particle-motion investigation | Particle motion diagrams; temperature/kinetic energy model | PhET States of Matter; OpenStax | Thermal particle model |
 | 3 | 07 | Momentum Conservation in Energy Systems | Momentum conservation collision investigation | Before/after momentum table; system model | PhET Collision Lab; OpenStax | Momentum data table |
-| 3 | 08 | Putting It All Together | Unit synthesis across energy, work, power, thermal systems, and momentum | Mixed stimuli: energy diagram, work/power data, thermal model, collision table | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 3 | 08 | Putting It All Together | Unit synthesis across energy, work, power, thermal systems, and momentum | Mixed stimuli: energy diagram, work/power data, thermal model, collision table | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 4 | 01 | Wave Properties | Wave variable investigation | Wavelength/frequency/amplitude diagram; wave data table | PhET Wave on a String; OpenStax | Wave diagram/data |
 | 4 | 02 | Waves Across Media | Wave medium comparison investigation | Medium comparison model; wave speed data | PhET Wave Interference; OpenStax | Medium comparison model |
 | 4 | 03 | Sound and Frequency Shifts | Doppler/frequency shift investigation | Source-observer diagram; frequency data | PhET Sound; OpenStax | Doppler scenario/model |
@@ -77,7 +77,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 | 4 | 05 | Light Speed and Frames of Reference | Reference-frame model investigation | Frame-of-reference diagram; light-speed scenario | OpenStax; NASA/ESA educational resources | Reference-frame scenario |
 | 4 | 06 | Reflection, Refraction, and Ray Diagrams | Ray diagram investigation | Reflection/refraction ray diagrams | PhET Bending Light; OpenStax | Ray diagram |
 | 4 | 07 | Lenses, Mirrors, and Image Location | Lens/mirror image investigation | Lens/mirror ray diagrams; image-distance table | PhET Geometric Optics; OpenStax | Lens/mirror diagram |
-| 4 | 08 | Putting It All Together | Unit synthesis across waves, sound, EM waves, reference frames, and optics | Mixed stimuli: wave graph, EM chart, ray diagram, lens/mirror data | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 4 | 08 | Putting It All Together | Unit synthesis across waves, sound, EM waves, reference frames, and optics | Mixed stimuli: wave graph, EM chart, ray diagram, lens/mirror data | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 5 | 01 | Static Charge | Charge interaction investigation | Charge configuration diagram | PhET Balloons and Static Electricity; OpenStax | Charge interaction diagram |
 | 5 | 02 | Electric Fields and Potential | Electric field/potential model investigation | Field-line diagram; potential energy model | PhET Charges and Fields; OpenStax | Field model |
 | 5 | 03 | Conductors, Semiconductors, and Insulators | Material behavior classification investigation | Material classification table; electron model | OpenStax; CK-12 | Material classification table |
@@ -85,7 +85,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 | 5 | 05 | Power in Circuits | Circuit power data investigation | Power equation organizer; energy-use table | PhET Circuit Construction Kit; OpenStax | Circuit power table |
 | 5 | 06 | Electromagnetism in Devices | Electromagnetic device model investigation | Motor/generator/device system diagram; field model | PhET Faraday's Law; OpenStax | Device/field diagram |
 | 5 | 07 | Circuit and Technology Systems | Circuit/technology system analysis | Series/parallel circuit diagram; system data | PhET Circuit Construction Kit; OpenStax | Technology system/circuit stimulus |
-| 5 | 08 | Putting It All Together | Unit synthesis across charge, fields, materials, circuits, power, and devices | Mixed stimuli: charge model, field diagram, circuit data, device system | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 5 | 08 | Putting It All Together | Unit synthesis across charge, fields, materials, circuits, power, and devices | Mixed stimuli: charge model, field diagram, circuit data, device system | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
 | 6 | 01 | Matter in the Universe | Cosmic matter pattern investigation | Matter distribution model; scale diagram | NASA; OpenStax Astronomy/Physics; CPALMS resources | Cosmic scale/model stimulus |
 | 6 | 02 | Physical Forces at Cosmic Scale | Cosmic force/scale model investigation | Force-at-scale diagram; comparison table | NASA; OpenStax; PhET gravity resources | Scale/force model |
 | 6 | 03 | Atomic Models and Evidence | Atomic model evidence investigation | Atomic model timeline; evidence table | OpenStax; PhET Rutherford Scattering; CK-12 | Atomic model evidence table |
@@ -93,7 +93,7 @@ If a lesson below identifies a required visual, data display, equation model, ve
 | 6 | 05 | Models, Theories, and Laws | Nature-of-science comparison investigation | Model/theory/law comparison chart | CPALMS resources; OpenStax | Comparison table |
 | 6 | 06 | Science, Reliability, and Change | Reliability and source evidence investigation | Replication/reliability evidence table | CPALMS resources; NASA/NOAA/official science agencies | Claims/source table |
 | 6 | 07 | Physics-Informed Decisions | Applied physics decision investigation | Benefit/risk/evidence organizer; technology data | NASA; DOE; NIST; OpenStax | Decision/source/data stimulus |
-| 6 | 08 | Putting It All Together | Unit synthesis across cosmic systems, atomic models, modern physics, and applied decisions | Mixed stimuli: cosmic model, atomic evidence, reference-frame scenario, claims table | Use approved resources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 6 | 08 | Putting It All Together | Unit synthesis across cosmic systems, atomic models, modern physics, and applied decisions | Mixed stimuli: cosmic model, atomic evidence, reference-frame scenario, claims table | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
 
 ## Resource Approval Controls
 
@@ -124,7 +124,7 @@ Do not require students to use electricity, circuits, heat, moving projectiles, 
 | Unit-level visual/model/data-display requirements mapped | PASS |
 | Lesson-level lab/data/investigation requirements mapped | PASS |
 | Lesson-level simulation/virtual lab review needs mapped | PASS |
-| Candidate resource locations listed for approval | PASS |
+| Candidate resource locations documented for direct-link review | PASS |
 | Assessment stimulus needs identified | PASS |
 | Lesson production still blocked until this matrix is used by lesson developers | PASS |
 

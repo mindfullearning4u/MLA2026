@@ -8,7 +8,7 @@
 4. Lesson 8 is always titled `Putting It All Together`.
 5. Lesson 8 synthesizes only standards already taught in Lessons 1-7.
 6. Lesson 8 includes Unit Assessment evidence.
-7. No lesson content, assessment content, HTML content, JSON content, or GIFT content is created by this architecture package.
+7. No lesson content, assessment content, HTML content, JSON content, or legacy assessment-bank content is created by this architecture package.
 
 ## Unit-Level Standards Map
 

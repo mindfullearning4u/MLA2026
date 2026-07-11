@@ -4,7 +4,7 @@
 
 This document creates the official MLA Anatomy and Physiology standard inventory using the format `MLA.ANP.[DOMAIN].[NUMBER]`. It is based on the current CPALMS Anatomy and Physiology course record: course number `2000350`, record `23782`, version `2024 - And Beyond`.
 
-This inventory does not create lessons, assessments, HTML, JSON, GIFT, LMS pages, or student-facing content.
+This inventory does not create lessons, assessments, HTML, JSON, legacy assessment text format, LMS pages, or student-facing content.
 
 ## Domain Framework
 

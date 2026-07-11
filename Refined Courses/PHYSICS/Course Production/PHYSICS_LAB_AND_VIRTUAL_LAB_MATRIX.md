@@ -4,7 +4,7 @@
 
 This matrix strengthens reviewer-facing documentation for Physics as a high-school laboratory science course. It identifies where lab-style investigation, virtual lab activity, data analysis, graphing, modeling, or evidence-based scientific communication occurs across all six units and 48 lessons.
 
-This document is architecture only. It does not create lab instructions, lessons, assessments, HTML, JSON, GIFT, or LMS pages.
+This document is architecture only. It does not create lab instructions, lessons, assessments, HTML, JSON, legacy assessment text format, or LMS pages.
 
 | Unit | Lesson | Lab / Investigation Type | Virtual Lab / Simulation Type | Data Source or Model | Safety / Procedure Focus | Student Evidence / Deliverable |
 | ---- | -----: | ------------------------ | ----------------------------- | -------------------- | ------------------------ | ------------------------------ |
@@ -71,4 +71,4 @@ This document is architecture only. It does not create lab instructions, lessons
 | Student evidence or deliverable identified | PASS |
 | No lesson instructions created | PASS |
 | No assessment items created | PASS |
-| No HTML, JSON, GIFT, or LMS pages created | PASS |
+| No HTML, JSON, legacy assessment text format, or LMS pages created | PASS |

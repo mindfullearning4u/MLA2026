@@ -4,7 +4,7 @@
 
 This crosswalk connects every MLA Physics standard to Florida Physics 1 standards, Common Core Literacy in Science and Technical Subjects expectations, ACT Science readiness, SAT science reading/data expectations, college readiness, workforce readiness, and scientific literacy.
 
-This document is architecture only. It does not create lessons, assessments, HTML content, JSON content, GIFT content, or LMS pages.
+This document is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Common Cross-Framework Abbreviations
 

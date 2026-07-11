@@ -12,7 +12,7 @@ This document establishes the official mapping rules for Anatomy and Physiology.
 6. Lesson 8 introduces no new primary standard.
 7. Lab and virtual lab expectations must be visible across all six units.
 
-This is architecture only. No lessons, assessments, HTML, JSON, GIFT, or LMS pages are created.
+This is architecture only. No lessons, assessments, HTML, JSON, legacy assessment text format, or LMS pages are created.
 
 ## Required Lab, Visual, Simulation, and Resource Matrix
 

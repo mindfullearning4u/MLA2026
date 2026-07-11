@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This matrix documents recommended laboratory and virtual-laboratory experience types for future Earth/Space Science lesson development. It is architecture guidance only and does not create lab instructions, student-facing lesson content, assessment questions, HTML content, JSON content, GIFT content, or LMS pages.
+This matrix documents recommended laboratory and virtual-laboratory experience types for future Earth/Space Science lesson development. It is architecture guidance only and does not create lab instructions, student-facing lesson content, assessment questions, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Laboratory and Virtual Laboratory Matrix
 

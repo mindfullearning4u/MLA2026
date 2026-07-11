@@ -4,7 +4,7 @@
 
 This crosswalk aligns the official MLA Anatomy and Physiology standards to Florida/CPALMS standards, Common Core literacy in science, ACT Science readiness, SAT science reading/data expectations, college readiness, workforce readiness, and scientific literacy.
 
-This is architecture only. It does not create lessons, assessments, mappings beyond the crosswalk, HTML, JSON, GIFT, or LMS pages.
+This is architecture only. It does not create lessons, assessments, mappings beyond the crosswalk, HTML, JSON, legacy assessment text format, or LMS pages.
 
 ## Crosswalk Table
 

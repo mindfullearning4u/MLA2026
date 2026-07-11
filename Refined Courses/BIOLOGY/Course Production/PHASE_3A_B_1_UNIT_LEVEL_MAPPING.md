@@ -4,7 +4,7 @@
 
 This document maps the Biology course architecture across six units. It identifies unit purposes, primary MLA standards, Florida alignments, lab/data expectations, and assessment evidence at the unit level.
 
-This is architecture only. It does not create lesson content, assessment content, HTML content, JSON content, GIFT content, or LMS pages.
+This is architecture only. It does not create lesson content, assessment content, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Required Companion Mapping
 

@@ -4,7 +4,7 @@
 
 This framework governs how Chemistry standards are distributed across the approved MLA six-unit, eight-lesson structure. It establishes coursewide mapping rules before unit-level and lesson-level mapping are finalized.
 
-This is architecture only. It does not create lessons, assessments, HTML content, JSON content, GIFT content, or LMS pages.
+This is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 
 ## Required Mapping Structure
 
