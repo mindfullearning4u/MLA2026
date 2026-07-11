@@ -131,10 +131,8 @@ Completed source-code transfer progress:
 
 ## Pending Work
 
-- Lesson page transfer is complete for Units 01-06.
-- Assessment activity presence is verified in the Moodle shell: 102/102 expected quiz/assessment activities present, with no missing or extra activity names.
-- Assessment questions have been attached to all Moodle quiz/assessment activities and count-verified.
-- Complete final enrollment-readiness audit after assessment preview/visual checks pass.
+- No remaining Moodle transfer blockers for English I.
+- English I is ready for student enrollment in Moodle based on the final enrollment-readiness audit recorded below.
 
 ## Assessment Presence Check
 
@@ -169,8 +167,8 @@ Important audit boundary:
 
 Status: PASS - questions attached and count-verified
 
-Date checked: 2026-07-11  
-Moodle course: English 1  
+Date checked: 2026-07-11
+Moodle course: English 1
 Moodle course URL: https://mla.moodlecloud.com/course/view.php?id=43
 
 Attachment rules applied:
@@ -203,3 +201,59 @@ Moodle navigation notes:
 - Moodle's question-bank picker sometimes retains a stale filter from a previous activity. When this occurs, use `Switch bank`, select the correct course-level bank, and verify the selected category shows the expected question count before adding.
 - If the target bank is partially hidden near the bottom of the picker, scroll the picker until the link is fully visible before clicking.
 - For random-question activities, confirm the random-count selector is visible after selecting the bank before choosing `5` or `10` and clicking `Add random question`.
+
+## Final Enrollment Readiness Audit
+
+Status: PASS - ready for student enrollment
+
+Date checked: 2026-07-11
+Moodle course: English 1
+Moodle course URL: https://mla.moodlecloud.com/course/view.php?id=43
+
+Final audit scope:
+- This is the Moodle course-transfer enrollment-readiness certification for English I.
+- This audit confirms the transferred Moodle shell, lesson pages, assessment activities, assessment question attachments, naming, and visible rendering are ready for students.
+
+Live Moodle shell verification:
+- Moodle course shell loaded successfully at `https://mla.moodlecloud.com/course/view.php?id=43`.
+- Course title verified as `English 1`.
+- Course overview activity present.
+- Lesson activities visible in Moodle shell: 97 unique lesson activities, including course overview.
+- Assessment activities visible in Moodle shell: 102/102.
+- Assessment distribution verified in Moodle shell:
+  - `U# PRETEST`: 6/6.
+  - `U# L# Guided Practice`: 48/48.
+  - `U# L# Quiz`: 42/42.
+  - `U# Final Assessment`: 6/6.
+
+Repository and transfer-file verification:
+- Required lesson transfer files verified in repository: 288/288 required files.
+- Moodle XML assessment files verified in repository: 102.
+- Moodle XML assessment files staged in `D:\Assessment\ENG1`: 102.
+- HTML corruption scan passed for transferred lesson files: no `Ã`, `Â`, replacement-character mojibake, visible PowerShell newline artifacts, malformed Office markup, `undefined`, or `NaN` strings were found in `ENGLISH I\Units`.
+
+Lesson rendering verification:
+- Required lesson transfer method confirmed in the log: `Tools > Source code`.
+- Required lesson pages transferred: Units 01-06, Lessons 01-08, pages `P01`, `P02`, `P03`, `P04`, `P06`, and `P07`.
+- Moodle visual spot-checks passed across early, middle, and late course sections:
+  - Unit 01 Lesson 01 Overview: correct ENG1 Unit 01 Lesson 01 label, styled content, and no visible corrupted characters.
+  - Unit 03 Lesson 04 Overview: styled content rendered with no visible corrupted characters.
+  - Unit 06 Lesson 08 Independent Work: styled content rendered with no visible corrupted characters.
+- No blank lesson rendering, visible backtick-r/backtick-n artifacts, mojibake, or broken source-code output was found in the checked Moodle pages.
+
+Assessment attachment and rendering verification:
+- Assessment question attachment audit passed for all 102 activities.
+- Expected counts remain verified:
+  - Pretests: 6/6 have 10 questions and 10.00 total marks.
+  - Guided Practice: 48/48 have 5 questions and 5.00 total marks.
+  - Lesson Quiz: 42/42 have 5 random questions and 5.00 total marks.
+  - Unit Final Assessment: 6/6 have 10 random questions and 10.00 total marks.
+- Moodle assessment sample checks passed:
+  - `U1 PRETEST`: quiz question page shows 10 questions and 10.00 total marks.
+  - `U1 L1 Guided Practice`: quiz question page shows 5 questions and 5.00 total marks.
+  - `U3 L4 Quiz`: quiz question page shows 5 random questions and 5.00 total marks.
+  - `U6 Final Assessment`: quiz question page shows 10 random questions and 10.00 total marks.
+- Sample assessment activity pages displayed the correct activity name, mastery/TOR instructions where applicable, and no visible corrupted characters.
+
+Final enrollment-readiness decision:
+- PASS - English I is ready for student enrollment in Moodle.
