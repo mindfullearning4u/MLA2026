@@ -22,6 +22,12 @@ Would a veteran math teacher draw, display, or format a representation for this 
 
 If yes, the representation is mandatory or strongly recommended. Mandatory items must be fixed before certification. Strongly recommended items must be explicitly accepted by Dr. Annie before certification.
 
+For social studies/social science, also ask:
+
+Would a veteran social studies teacher provide a map, timeline, source excerpt, chart, table, data display, political/civic visual, or organizer so students can analyze the evidence accurately?
+
+If yes, the stimulus is mandatory when the question depends on it and must be embedded directly inside the Moodle XML question.
+
 ## Representations That May Be Required
 
 Use or recommend:
@@ -37,6 +43,13 @@ Use or recommend:
 - lab data table
 - passage
 - map
+- timeline
+- source excerpt
+- source organizer
+- civic process diagram
+- constitutional principle chart
+- court-case or policy decision chart
+- political cartoon, photograph, poster, or public-domain image when needed
 - image or model when approved and necessary
 
 ## Math Mandatory Visual Triggers
@@ -62,6 +75,29 @@ For math assessments, the following wording or content normally makes a visual/t
 
 The audit must inspect the actual current assessment files. Counting total visuals generated is not enough.
 
+## Social Studies Mandatory Stimulus Triggers
+
+For social studies and social science assessments, the following wording or content normally makes an embedded stimulus mandatory:
+
+- "use the map"
+- "based on the timeline"
+- "according to the source"
+- "according to the excerpt"
+- "use the chart"
+- "use the table"
+- "use the data"
+- "which source"
+- "which image"
+- "which political cartoon"
+- "which civic process"
+- geographic reasoning that depends on locations, borders, migration, trade, war, or settlement patterns
+- chronological reasoning that depends on event sequence
+- source-analysis reasoning that depends on author, purpose, context, evidence, or point of view
+- government/civics questions that depend on branches, checks and balances, constitutional principles, court decisions, election processes, or policy steps
+- economics or history questions that depend on demographic, economic, voting, trade, conflict, or migration data
+
+If the question can only be answered clearly by seeing the source or representation, the XML question must include it directly.
+
 ## Prohibited Reference Pattern
 
 Do not write:
@@ -70,6 +106,10 @@ Do not write:
 - "the table below"
 - "the passage"
 - "the diagram"
+- "the source"
+- "the timeline"
+- "the image"
+- "the political cartoon"
 
 unless that object is actually included in the question.
 

@@ -20,8 +20,8 @@ Before building or auditing, answer these questions in writing:
 10. Is this task read-only audit, structure-only correction, or authorized rebuild?
 11. Which official standards sources were checked?
 12. Are Florida B.E.S.T., CPALMS, Common Core, ACT, and SAT alignments required for this course?
-13. Which labs, simulations, data displays, diagrams, models, or visuals are required by the standards or mapping?
-14. Where can approved or candidate labs, simulations, data sets, or visuals be found for later approval, including exact direct URLs when available?
+13. Which labs, simulations, data displays, diagrams, models, sources, or visuals are required by the standards or mapping?
+14. Where can approved or candidate labs, simulations, data sets, source excerpts, or visuals be found for later approval, including exact direct URLs when available?
 15. Is this course 1.0 credit or 0.5 credit, and does it require 8 lessons per unit or 5 lessons per unit?
 
 ## Required Source Discovery
@@ -67,6 +67,13 @@ For science courses, and for any course with required visuals/resources, the map
 |---|---|---|---|---|---|---|---|
 
 These columns are not optional for science courses. If a lesson does not require a lab, simulation, or visual, write `None required by mapping` and cite the evidence.
+
+For social studies and social science courses, the mapping trace table must also include:
+
+| Unit | Lesson | Required Source/Visual Support | Required Map/Timeline/Chart/Table/Data Display | Required Civic/Political/Primary-Source Stimulus | Assessment Stimulus Requirement | External Simulation Required? |
+|---|---|---|---|---|---|---|
+
+External simulations are not required by default for social studies/social science courses. If no simulation is required by the user or mapping, write `No simulation required`. Do not leave source, visual, or assessment-stimulus needs implied.
 
 ## Official Standards Provenance Table
 
@@ -116,6 +123,8 @@ For each lesson, determine:
 - For science, what lab, investigation, data set, model, safety note, CER, simulation, or virtual lab evidence is required?
 - For science, what diagram, table, graph, map, model, lab setup, or data display must be included in lessons and assessments?
 - Where candidate labs, simulations, or visuals may be sourced for user approval, including exact direct URLs when available.
+- For social studies/social science, what map, timeline, source excerpt, chart, table, data display, civic process visual, political visual, or organizer must be embedded in the lesson and assessment?
+- For social studies/social science, whether an external simulation is explicitly required. If not, state `No simulation required`.
 
 ## Completion Criteria
 
@@ -127,6 +136,7 @@ Initial analysis is complete only when:
 - Full crosswalk stack is complete: primary standards plus required Florida B.E.S.T., Common Core, SAT, ACT, and ELD/accessibility support alignments.
 - Standards provenance table is complete when standards or crosswalk accuracy is being audited.
 - Science lab/data/visual/simulation mapping columns are complete for science courses.
+- Social studies/social science source, visual, and assessment-stimulus mapping columns are complete for social studies/social science courses.
 - Missing source files are listed.
 - Conflicts are listed.
 - Build/audit mode is stated.

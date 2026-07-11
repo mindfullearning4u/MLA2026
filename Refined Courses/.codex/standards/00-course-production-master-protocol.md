@@ -29,13 +29,14 @@ The expected quality bar is strict: every course must be built as if it will be 
 17. No mapped standard may be missing from instruction or assessment evidence.
 18. No assessment may ask questions outside the approved lesson or unit mapping.
 19. Math lessons and assessments must include veteran-teacher-style visuals, tables, graphs, number lines, diagrams, and data displays wherever they clarify the concept, remove ambiguity, or are warranted by the question.
-20. A course, unit, lesson, or assessment cannot be called clean, complete, student ready, production ready, certified, or PASS unless all blocking gates pass from direct current-file inspection.
-21. Moodle lesson transfer must follow `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`. Do not improvise Moodle transfer steps.
-22. Lesson content development and assessment development must use developer prompt files, not audit-only prompt files.
-23. Moodle transfer is a post-certification action only. Do not transfer lessons to Moodle until lesson development passes, assessment development passes, and the final course audit/certification gate passes with evidence.
-24. Lessons must not rely on teacher-led instruction, teacher checks, or teacher guidance. The lesson pages must teach the content. Teacher of Record language is allowed only for support, intervention, checkpoint, submission, clarification, retake, and workflow decisions.
-25. Lessons and assessments must stay within the approved course standards, unit mapping, and lesson mapping. No outside-standard content, future-unit content, future-lesson content, or unmapped content may be taught or assessed unless explicitly allowed by the approved mapping.
-26. Course credit value controls lesson count. A 1.0-credit course uses 6 units with 8 lessons per unit. A 0.5-credit course uses 6 units with 5 lessons per unit. For 0.5-credit courses, Lesson 5 is the synthesis/unit-assessment lesson, includes Guided Practice and Unit Assessment, and must not have a Lesson Quiz. Lessons 1-4 have lesson quizzes.
+20. Social studies and social science lessons and assessments must include embedded maps, timelines, charts, tables, source excerpts, source organizers, political/civic visuals, data displays, or other visual/source supports wherever they clarify the concept, remove ambiguity, or are required to answer the task or question. Social studies simulations are not required by default.
+21. A course, unit, lesson, or assessment cannot be called clean, complete, student ready, production ready, certified, or PASS unless all blocking gates pass from direct current-file inspection.
+22. Moodle lesson transfer must follow `.codex/workflows/moodle-lesson-transfer-workflow.md` and `Codex Moodle Transfer Instructions/TRANSFER_LESSONS_TO_MOODLE.md`. Do not improvise Moodle transfer steps.
+23. Lesson content development and assessment development must use developer prompt files, not audit-only prompt files.
+24. Moodle transfer is a post-certification action only. Do not transfer lessons to Moodle until lesson development passes, assessment development passes, and the final course audit/certification gate passes with evidence.
+25. Lessons must not rely on teacher-led instruction, teacher checks, or teacher guidance. The lesson pages must teach the content. Teacher of Record language is allowed only for support, intervention, checkpoint, submission, clarification, retake, and workflow decisions.
+26. Lessons and assessments must stay within the approved course standards, unit mapping, and lesson mapping. No outside-standard content, future-unit content, future-lesson content, or unmapped content may be taught or assessed unless explicitly allowed by the approved mapping.
+27. Course credit value controls lesson count. A 1.0-credit course uses 6 units with 8 lessons per unit. A 0.5-credit course uses 6 units with 5 lessons per unit. For 0.5-credit courses, Lesson 5 is the synthesis/unit-assessment lesson, includes Guided Practice and Unit Assessment, and must not have a Lesson Quiz. Lessons 1-4 have lesson quizzes.
 
 ## Main Agent Responsibility
 
@@ -194,6 +195,7 @@ A course cannot receive PASS unless:
 - P04, P06, and P07 meet page-specific requirements.
 - Assessments meet count, format, syntax, feedback, standards, mapping, visual, and answer-pattern requirements.
 - Mandatory visuals or representations are present directly in lessons and assessment questions where needed.
+- Social studies/social science courses have embedded source and visual supports where required by the standard, task, or question; external simulations are not required unless explicitly directed or mapped.
 - Science lab/simulation review is complete when applicable, and approved or required resources include exact direct clickable URLs.
 - Unit completion audits are complete.
 - Full course completion audit is complete.

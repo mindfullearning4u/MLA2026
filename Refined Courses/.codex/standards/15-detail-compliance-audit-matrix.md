@@ -40,16 +40,16 @@ Use this table in unit and course reports:
 | Pages | Are P01-P07 present and in order? | lesson folder | PASS/FAIL | |
 | Page roles | Does each page perform its required role? | P01-P07 review | PASS/FAIL | |
 | Rigor | Does instruction teach step by step? | page examples | PASS/FAIL/SUGGESTION | |
-| Visuals | Are needed visuals present and accurate? | page/question review | PASS/FAIL/SUGGESTION | |
+| Visuals | Are needed visuals present and accurate? For social studies/social science, are required maps, timelines, charts, tables, source excerpts, source organizers, civic/process visuals, political visuals, and data displays embedded where needed? | page/question review | PASS/FAIL/SUGGESTION | |
 | Moodle XML | Is every production assessment Moodle-ready XML? | XML validation | PASS/FAIL | |
 | Legacy GIFT | Are `.gift` files treated only as legacy source/conversion artifacts, not production assessments? | file inventory + export audit | PASS/FAIL | |
 | Assessment alignment | Do Guided Practice and Lesson Quiz questions assess only that lesson, and do Unit Pretest and Unit Assessment questions assess only material taught in that unit? | Moodle XML + course crosswalk + unit mapping + lesson mapping | PASS/FAIL | |
-| Assessment visuals | Does each question include needed representations? | question-by-question review | PASS/FAIL/SUGGESTION | |
+| Assessment visuals | Does each question include needed representations or source stimuli directly in Moodle XML? | question-by-question review | PASS/FAIL/SUGGESTION | |
 | Answer pattern | Is there no predictable answer pattern? | answer sequence audit | PASS/FAIL | |
 | Feedback | Is feedback teachable? | answer feedback audit | PASS/FAIL | |
 | JSON | Is metadata valid and non-empty? | JSON parse audit | PASS/FAIL | |
 | HTML | Is HTML Moodle-safe and consistent? | page review | PASS/FAIL | |
-| Resources | Were free resources/simulations reviewed? | resource audit table | PASS/FAIL/SUGGESTION | |
+| Resources | Were free resources/simulations reviewed where applicable, and for social studies/social science was `No simulation required` documented unless explicitly requested or mapped? | resource audit table | PASS/FAIL/SUGGESTION | |
 | Accreditation | Is evidence complete and defensible? | audit report | PASS/FAIL | |
 | Compliance | Are all requirements documented? | final report | PASS/FAIL | |
 

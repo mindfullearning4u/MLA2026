@@ -17,10 +17,13 @@ This standard applies to all departments:
 - math
 - science
 - English/language arts
+- social studies/social science
 - communication
 - electives
 
 For science courses with lab components, simulation review is mandatory.
+
+For social studies and social science courses, external simulations are not required by default. Agents should prioritize embedded maps, timelines, charts, tables, source excerpts, civic/process visuals, source organizers, and data displays inside lessons and Moodle XML assessments. External simulations or links may be suggested only when explicitly requested, clearly mapped, or unusually valuable enrichment.
 
 ## Resource Types
 
@@ -36,6 +39,7 @@ Suggest when aligned:
 - passage supports
 - public reference resources
 - official agency resources
+- embedded maps, timelines, source excerpts, charts, tables, and public-domain social studies visuals
 
 ## Priority Free Sources
 
@@ -65,6 +69,7 @@ For each unit or lesson, ask:
 - Is it accessible without payment?
 - Does it support mastery rather than distract from the lesson?
 - Would it be extra support, required lab support, or enrichment?
+- For social studies/social science, would an embedded map, timeline, chart, source excerpt, organizer, or data display be more appropriate than an external simulation?
 
 ## Science Lab Requirement
 
@@ -86,6 +91,17 @@ For science lab courses:
 - do not insert links that require approval until approval is received
 - missing exact direct links for required or approved labs/simulations are blockers for Moodle transfer readiness
 - missing step-by-step student-use directions for required or approved labs/simulations/resources are blockers for Moodle transfer readiness
+
+## Social Studies and Social Science Resource Rule
+
+For social studies and social science courses:
+
+- do not require simulations unless the user explicitly requests them or the approved mapping requires one
+- do not add external links when an embedded map, timeline, source excerpt, chart, table, organizer, or data display will better support mastery
+- embed the needed source or visual directly in the lesson page and assessment question when the task depends on it
+- use public-domain, official, or course-created visual/source supports whenever possible
+- any optional external resource must be clearly labeled as enrichment, aligned to the mapped lesson, and handled under the same direct-link and step-by-step direction rules as other approved resources
+- final certification must report `No simulation required` for social studies/social science units when no simulation is explicitly required
 
 ## Output Format
 

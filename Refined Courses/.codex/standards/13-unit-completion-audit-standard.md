@@ -120,6 +120,7 @@ For every page:
 - Visuals are mathematically or instructionally necessary.
 - Visuals are not decorative placeholders.
 - Required tables, graphs, number lines, diagrams, passages, or data displays are present.
+- For social studies/social science units, required maps, timelines, charts, tables, source excerpts, source organizers, civic/process visuals, political visuals, and data displays are present when needed for mastery.
 - Graphs have axes, labels, tick marks, plotted points, and mathematical accuracy when required.
 - Visual appears near the example/task it supports.
 - Missing useful visuals are listed for approval when content is locked.
@@ -155,6 +156,8 @@ For every unit:
 - Free external resources were reviewed.
 - Simulations were reviewed.
 - Science lab simulations were reviewed when applicable.
+- Social studies/social science units do not require simulations unless explicitly requested or mapped; audit reports must state `No simulation required` when applicable.
+- Social studies/social science embedded source/visual supports were reviewed in lesson pages and assessment XML.
 - Suggested resources that require approval are listed separately.
 - For science/lab courses, free, student-safe, directly aligned trusted resources are inserted as exact direct links under the standing science-course directive.
 - No external links were inserted without approval.

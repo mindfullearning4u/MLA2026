@@ -111,6 +111,7 @@ Verify:
 - P06/P07 are self-contained
 - passages are included wherever needed
 - visuals support mastery
+- for social studies/social science courses, maps, timelines, charts, tables, source excerpts, source organizers, civic/process visuals, political visuals, and data displays are embedded wherever needed for mastery
 - common misconceptions are addressed
 - locked-content suggestions are reported separately
 
@@ -154,6 +155,7 @@ Verify:
 - every course was reviewed for free external learning resources
 - math courses were reviewed for appropriate interactive tools or simulations
 - science courses with lab components completed mandatory simulation review
+- social studies/social science courses were reviewed for embedded source and visual supports; simulations are not required unless explicitly requested or mapped
 - suggestions are approval-only
 - no unapproved external resources were inserted
 - approved or required labs, simulations, data sets, and resources include exact direct clickable URLs

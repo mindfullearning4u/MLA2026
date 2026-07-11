@@ -20,6 +20,7 @@ The required first-stage outputs usually include:
 - production readiness plan
 - official standards provenance table
 - lab/data/visual/simulation mapping table when applicable
+- social studies/social science embedded source and visual mapping table when applicable
 
 ## Required Reading
 
@@ -39,6 +40,7 @@ Before course production work begins, read:
 .codex/standards/14-course-completion-audit-standard.md
 .codex/standards/15-detail-compliance-audit-matrix.md
 .codex/standards/16-science-lab-and-virtual-lab-standard.md
+.codex/standards/17-social-studies-visual-and-source-standard.md
 .codex/agent-prompts/course-builder-main-agent.md
 .codex/agent-prompts/mapping-and-source-analysis-agent.md
 .codex/agent-prompts/lesson-developer-agent.md
@@ -53,6 +55,8 @@ Before course production work begins, read:
 - Do not build lessons before course mapping is clear.
 - Do not build assessments before lesson and unit scope are clear.
 - Do not begin science lesson production until labs, simulations, visuals, safety, data, and CER expectations have been captured in the mapping package.
+- Do not require simulations for social studies/social science courses unless the user explicitly requests them or the approved mapping requires them.
+- Do not begin social studies/social science lesson production until required maps, timelines, charts, tables, source excerpts, source organizers, civic/process visuals, political visuals, data displays, and assessment stimuli have been captured in the mapping package.
 - Do not certify a course based only on file existence.
 - Do not transfer to Moodle before production and audit gates pass.
 - Do not call a course complete unless current files have been directly inspected and required audits have passed.
@@ -95,7 +99,8 @@ The analysis agent must identify:
 - existing audits
 - lab and virtual lab matrix, when present
 - required labs, simulations, data displays, diagrams, models, and visuals
-- candidate source locations for labs, simulations, data sets, or visuals
+- required social studies/social science maps, timelines, charts, tables, source excerpts, source organizers, civic/process visuals, political visuals, data displays, and assessment stimuli
+- candidate source locations for labs, simulations, data sets, sources, or visuals
 
 The analysis agent must report source conflicts instead of resolving them silently.
 
@@ -128,6 +133,8 @@ The unit mapping must define:
 - lab/data/investigation requirements for the unit
 - required visuals, diagrams, models, maps, tables, graphs, or data displays for the unit
 - required simulation or virtual lab review for the unit
+- for social studies/social science, required embedded maps, timelines, charts, tables, source excerpts, source organizers, civic/process visuals, political visuals, and data displays for the unit
+- for social studies/social science, `No simulation required` unless the user explicitly requested one or the approved mapping requires one
 - candidate resource locations for labs, simulations, data sets, or visuals
 - lesson sequence
 - credit-based lesson structure: 8 lessons per unit for 1.0-credit courses or 5 lessons per unit for 0.5-credit courses
@@ -153,7 +160,8 @@ The lesson mapping must define:
 - final synthesis lesson location: Lesson 8 for 1.0-credit courses or Lesson 5 for 0.5-credit courses
 - required visuals or representations when known
 - required lab, investigation, data, model, safety, CER, simulation, or virtual lab component when applicable
-- where the lesson developer can find candidate labs, simulations, visuals, diagrams, data sets, or models for approval
+- for social studies/social science, required embedded source or visual supports and whether the same stimulus must appear in Moodle XML assessment questions
+- where the lesson developer can find candidate labs, simulations, visuals, diagrams, source excerpts, data sets, or models for approval
 
 Every lesson page and lesson-level assessment must trace to this mapping.
 
