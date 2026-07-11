@@ -155,4 +155,6 @@ Mandatory transfer limits:
 - standard page scope is `P01.html`, `P02.html`, `P03.html`, `P04.html`, `P06.html`, and `P07.html`
 - `P05.html` is excluded unless explicitly requested
 - no Moodle page, activity, section, quiz, question bank, file, or repo file may be deleted
+- lesson pages must be transferred only through Moodle `Tools > Source code`; visible editor, content-box, hidden-textarea, or DOM-field paste methods are not acceptable because they can strip required visuals, boxes, colors, borders, spacing, and layout
+- the Moodle transfer/audit log must explicitly certify `Paste method: Tools > Source code` for each saved lesson page; any page without this evidence is not source-certified
 - every saved Moodle page must be verified and logged

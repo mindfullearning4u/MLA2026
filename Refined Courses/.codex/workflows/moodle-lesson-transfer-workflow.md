@@ -50,7 +50,13 @@ If this checkpoint finds a defect, stop transfer for the affected scope. Correct
 - Do not create new Moodle pages unless the user explicitly asks.
 - Do not use Moodle import, GIFT, or XML for lesson page transfers.
 - Do not paste into the normal rich text editor as the final method.
-- Transfer by replacing the Moodle source-code editor content with the exact current repository HTML.
+- Transfer by opening Moodle `Tools > Source code` and pasting the exact current repository HTML into that source-code dialog.
+- If the source-code dialog is blank, paste directly into the blank source-code content area; do not run select-all/delete on an empty page.
+- If the source-code dialog already contains content, or the page is being corrected/replaced, click inside the actual code content area, not the line-number gutter, then select all existing source, delete it, and paste the repository HTML.
+- After saving/updating the source-code dialog, immediately use the visible Moodle content box as the quick visual audit before clicking Moodle `Save page`. If the colored boxes, borders, spacing, headings, tables, visuals, and page layout visibly render correctly in the content box, click `Save page` without running a separate preview audit for that page.
+- If the content box is empty, stripped to plain layout, visually wrong, or shows wrong-page content or artifacts, do not click Moodle `Save page`. Reopen `Tools > Source code`, replace the source again, save/update the dialog again, and re-check the content box.
+- Do not paste lesson HTML into the visible TinyMCE editor, Moodle content box, hidden editor textarea, browser DOM field, or any surface other than `Tools > Source code`. Those methods can strip boxes, inline styles, colors, borders, spacing, layout, and embedded visuals.
+- A lesson page is not academy-compliant unless the transfer log explicitly certifies `Paste method: Tools > Source code` and the audit confirms the rendered page preserved the repository visual structure.
 - Do not transfer `P05.html` unless the user explicitly asks.
 - Save and verify each Moodle page before moving to the next page.
 - Log every confirmed saved page in the course Moodle upload log.
@@ -81,3 +87,16 @@ The main agent must:
 7. Report final pass/fail to the user.
 
 No agent may start Moodle transfer from a vague instruction. The assignment must include course, unit, scope, allowed actions, and expected output.
+
+## Required Audit Decision
+
+The Moodle render audit must verify both transfer method and visual result.
+
+PASS requires:
+
+- the transfer log explicitly states `Paste method: Tools > Source code` for each lesson page
+- existing Moodle source was replaced with the exact repository HTML source
+- the rendered Moodle page preserves styled boxes, colors, borders, spacing, layout, tables, visuals, and workflow sections from the repository file
+- no page was transferred through the visible/rich text editor as the final method
+
+If the only evidence says "pasted into the editor," "pasted as HTML," "content box," "TinyMCE editor," or similar wording without `Tools > Source code`, the audit decision must be FAIL or NOT SOURCE-CERTIFIED until the affected pages are verified through the source-code dialog or re-transferred through `Tools > Source code`.

@@ -256,6 +256,7 @@ The agent must obey these rules with no exceptions:
 - Do not use GIFT for lesson page transfers.
 - Do not use XML for lesson page transfers.
 - Do not paste into the normal rich text editor as the final transfer method.
+- Do not paste into the visible TinyMCE editor, the Moodle content box, hidden editor textareas, browser DOM fields, or any editor surface other than `Tools > Source code` for lesson pages. A lesson page transferred by any method other than `Tools > Source code` is not academy-compliant and must be re-transferred through source code before it can be logged as complete.
 - Exception: the course orientation overview page must be transferred into the Moodle content editor from the repository course overview markdown file, then cleaned and verified as described in this standard.
 - Do not save a Moodle page when the course, unit, lesson, page title, or repo file is uncertain.
 - Do not assume that a similarly named page is correct. Confirm the course, unit, lesson, activity, and page title.
@@ -1117,30 +1118,30 @@ Repeat this procedure for each required page in transfer order.
 2. Confirm the Moodle page title matches the required page map.
 3. Open the page editor.
 4. In the editor toolbar, open `Tools > Source code`.
-5. Click inside the source-code editor.
-6. Select all existing source code in the source-code editor.
-7. Delete the selected old source code.
+5. Click inside the actual source-code content area.
+6. If the source-code content area is blank, do not run select-all/delete. Paste the exact repository HTML directly into the blank source-code area.
+7. If the source-code content area already contains content, or if the page is being corrected/replaced, select all existing source inside the source-code content area and delete it before pasting.
 8. Read the exact full contents of the matching repository HTML file.
 9. Paste the exact full repository HTML source into the Moodle source-code editor.
 10. Confirm the pasted source is not empty.
 11. Confirm the pasted source belongs to the correct repo file.
 12. Save or update the source-code dialog.
-13. Confirm Moodle accepted the source-code dialog update before clicking Moodle `Save page`.
-14. Click Moodle `Save page`.
-15. Reopen or inspect the saved Moodle page.
-16. Verify that the saved page contains the expected content and formatting.
+13. Immediately inspect the visible Moodle content box in the same editor after the source-code dialog closes.
+14. Confirm the content box visibly renders the repository page structure before clicking Moodle `Save page`: colored/styled boxes, backgrounds, borders, border-left accents, spacing, headings, lists, tables, and visuals appear as expected; the Moodle page title and rendered content match the intended repository page; and no plain stripped layout, wrong-page content, empty content, mojibake, or visible source artifacts appear.
+15. If the content box renders correctly, treat this as the immediate page-level visual audit and click Moodle `Save page`.
+16. Reopen or inspect the saved Moodle page when the content-box audit was uncertain, Moodle lagged, the page is high-risk, or the user requested a separate preview audit.
 17. Add the completed transfer to the Moodle upload log.
 
 The Moodle `Save page` button is mandatory. Saving or updating only the source-code dialog is not enough.
 
-MoodleCloud editor warning: do not rely on hidden editor textareas or internal form fields as the only proof that a source paste worked. On some lesson pages, the hidden field can remain empty even after Moodle has accepted the source-code dialog update. The required pre-save evidence is:
+MoodleCloud editor warning: do not rely on hidden editor textareas or internal form fields as the only proof that a source paste worked. On some lesson pages, the hidden field can remain empty or can normalize markup even after Moodle has accepted the source-code dialog update. The visible content box after the source-code dialog closes is the required quick visual audit before Moodle `Save page`. The required pre-save evidence is:
 
 1. The source-code editor copyback contains the expected repository page title, unit/lesson marker, and content markers.
 2. The source-code editor copyback contains no visible transfer artifacts such as `` `n``, literal `\n`, `Â`, `Ã`, broken tags, or wrong-page content.
-3. After saving/updating the source-code dialog, the Moodle editor shows a nonzero word count or visible content in the editor area.
+3. After saving/updating the source-code dialog, the Moodle editor content box visibly renders the expected styled layout, including colored boxes, borders, spacing, headings, lists, tables, and visuals from the repository file.
 4. After clicking Moodle `Save page`, the rendered student-facing page passes the repository signal, styling, and artifact audit.
 
-If the rendered page is empty, incomplete, visually wrong, or does not match the repository signals, reopen `Tools > Source code`, select all source, delete it, paste the exact repository HTML again, save/update the source-code dialog again, click Moodle `Save page`, and re-audit the rendered page. Repeat until the rendered page passes or stop and report a Moodle/editor blocker.
+If the visible content box is empty, incomplete, visually wrong, stripped to plain layout, or does not match the repository signals, do not click Moodle `Save page`. Reopen `Tools > Source code`; if content is present, select all source inside the code content area, not the line-number gutter, delete it, paste the exact repository HTML again, save/update the source-code dialog again, and re-check the visible content box. If the source-code area is blank, paste the repository HTML directly into the blank area. Repeat until the content box passes or stop and report a Moodle/editor blocker.
 
 ## Efficient Moodle Lesson Navigation
 
@@ -1242,6 +1243,25 @@ Moodle editor toolbar -> Tools -> Source code -> replace all source -> save/upda
 The agent must paste HTML into Moodle source code. The normal visual/rich text editor is not acceptable as the final transfer method because it can strip boxes, inline styles, colors, layout, and formatting.
 
 If `Tools > Source code` cannot be opened, stop and report the issue. Do not use the normal editor as a workaround.
+
+### Source-Code Certification Requirement
+
+Every Moodle lesson-page transfer log must explicitly certify the paste method used for each saved page.
+
+Required certification language:
+
+```text
+Paste method: Tools > Source code
+Source replacement: Existing source selected/deleted; exact repository HTML pasted into Moodle source-code dialog
+Visual structure verification: Styled boxes, colors, borders, spacing, and page layout preserved after Moodle Save page
+```
+
+If a prior transfer log says only "pasted into the editor," "pasted as HTML," "content box," "rich text editor," "TinyMCE editor," "hidden textarea," or any similar language without explicitly stating `Tools > Source code`, that log does not prove academy-compliant lesson transfer. The affected course, unit, lesson, or page must be treated as not source-certified until one of the following is completed:
+
+1. The page is re-opened in Moodle and the source-code dialog is verified to contain the exact repository HTML with styling markers intact, then the rendered page is audited; or
+2. The page is re-transferred from the repository through `Tools > Source code`, saved, rendered, audited, and logged with the required certification language.
+
+Rendered visual correctness alone is not enough to prove transfer-method compliance. The academy standard requires source-code transfer and visual/render audit.
 
 ## Verification Requirements
 

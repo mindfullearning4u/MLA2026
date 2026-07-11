@@ -144,7 +144,7 @@ Moodle stall handling used:
 
 ### Lesson Page Transfer
 
-Status: PASS
+Status: PASS - SOURCE-CODE METHOD REPAIR COMPLETE
 
 Required Moodle lesson pages transferred:
 - P01 Lesson Overview
@@ -156,10 +156,36 @@ Required Moodle lesson pages transferred:
 
 Transfer rule used:
 - Repo HTML file was used as the source of truth.
-- Existing Moodle editor content was selected and replaced.
-- The exact repo HTML was pasted into the Moodle editor as HTML.
+- Academy transfer standard requires Moodle `Tools > Source code` for every lesson page.
+- Existing Moodle source code must be selected/deleted inside the source-code dialog.
+- The exact repo HTML must be pasted into the Moodle source-code dialog, not the visible TinyMCE editor, content box, hidden textarea, or browser DOM field.
+- The prior transfer note "pasted into the Moodle editor as HTML" does not explicitly prove `Tools > Source code` was used.
 - Each page was saved after the pre-save content check passed.
 - Each saved page was then previewed/render-audited in Moodle.
+
+Corrective source-certification note:
+- On 2026-07-10, the Moodle transfer standard was clarified: rendered visual correctness alone is not enough to certify lesson transfer.
+- A course lesson page is academy-compliant only when the log explicitly certifies `Paste method: Tools > Source code` and the rendered Moodle page preserves the repository visual structure.
+- Because this MCR log does not explicitly certify `Tools > Source code` for all 288 lesson pages, MCR lesson pages must be treated as not source-certified until a Moodle source-method audit verifies the source-code dialog content against the repository source or the affected pages are re-transferred through `Tools > Source code`.
+
+Corrected source-code repair workflow added on 2026-07-10:
+- Open Moodle page editor.
+- Open `Tools > Source code`.
+- Click inside the actual code text area, not the line-number gutter.
+- Select all existing source, delete it, and paste the exact current repository HTML.
+- Save/update the source-code dialog.
+- Use the visible Moodle content box as the immediate visual audit before clicking Moodle `Save page`.
+- If the content box visibly preserves the styled boxes, colors, borders, spacing, headings, tables, visuals, and page layout, click Moodle `Save page`.
+- If the content box is empty, stripped, visually wrong, or mismatched, do not click Moodle `Save page`; reopen `Tools > Source code` and repeat the replacement.
+
+Source-code repair progress:
+- Unit 01: 48/48 required pages re-transferred through `Tools > Source code`; content-box visual audit passed before each Moodle `Save page`.
+- Unit 02: 48/48 required pages re-transferred through `Tools > Source code`; content-box visual audit passed before each Moodle `Save page`.
+- Unit 03: 48/48 required pages re-transferred through `Tools > Source code`; content-box visual audit passed before each Moodle `Save page`.
+- Unit 04: 48/48 required pages re-transferred through `Tools > Source code`; content-box visual audit passed before each Moodle `Save page`.
+- Unit 05: 48/48 required pages re-transferred through `Tools > Source code`; content-box visual audit passed before each Moodle `Save page`.
+- Unit 06: 48/48 required pages re-transferred through `Tools > Source code`; content-box visual audit passed before each Moodle `Save page`.
+- Course total: 288/288 required lesson pages re-transferred through `Tools > Source code` using the corrected source-code selection method and content-box visual audit before Moodle `Save page`.
 
 Verified lesson transfer totals:
 - Unit 01: 48/48 required pages transferred and render-audited.
