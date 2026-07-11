@@ -1,0 +1,52 @@
+# Lesson Mapping
+
+| Unit | Lesson | Lesson Title | Standards | Lesson Role | Required Visual/Source Support | Assessment Scope | Simulation Required? |
+|---|---|---|---|---|---|---|---|
+| Unit 01 | Lesson 01 | What Sociology Studies | MLA.SOC.FND.1 | Instructional lesson | sociology scope and level-of-analysis chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 02 | Sociological Imagination and Social Patterns | MLA.SOC.FND.1; MLA.SOC.CAP.2 | Instructional lesson | personal trouble social issue organizer | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 03 | Major Sociological Perspectives | MLA.SOC.FND.1 | Instructional lesson | functionalism conflict symbolic interaction matrix | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 04 | Social Claims, Evidence, and Bias | MLA.SOC.FND.2 | Instructional lesson | claim evidence bias checklist | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 05 | Surveys, Interviews, Observations, and Data | MLA.SOC.FND.2 | Instructional lesson | research method comparison table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 06 | Variables, Sampling, Correlation, and Causation | MLA.SOC.FND.2 | Instructional lesson | social research design chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 07 | Research Ethics and Respectful Inquiry | MLA.SOC.FND.2 | Instructional lesson | ethics participant protection checklist | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 01 | Lesson 08 | Synthesis: Sociology as Evidence-Based Social Science | MLA.SOC.FND.1; MLA.SOC.FND.2; MLA.SOC.CAP.2 | Synthesis/unit assessment lesson | sociological evidence dashboard | Guided Practice and Unit Assessment only | No simulation required |
+| Unit 02 | Lesson 01 | Culture, Norms, Values, and Symbols | MLA.SOC.CUL.1 | Instructional lesson | culture elements table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 02 | Language, Meaning, and Social Interaction | MLA.SOC.CUL.1 | Instructional lesson | language and symbol interaction chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 03 | Ethnocentrism, Cultural Relativism, and Cultural Change | MLA.SOC.CUL.1 | Instructional lesson | culture interpretation comparison table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 04 | Socialization and Agents of Socialization | MLA.SOC.CUL.2 | Instructional lesson | agents of socialization map | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 05 | Roles, Status, Role Conflict, and Role Strain | MLA.SOC.CUL.2 | Instructional lesson | status role conflict organizer | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 06 | Identity Formation and the Life Course | MLA.SOC.CUL.2 | Instructional lesson | life course identity timeline | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 07 | Media, Peer Groups, and Digital Socialization | MLA.SOC.CUL.2 | Instructional lesson | digital socialization influence chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 02 | Lesson 08 | Synthesis: Culture and Socialization | MLA.SOC.CUL.1; MLA.SOC.CUL.2 | Synthesis/unit assessment lesson | culture socialization evidence matrix | Guided Practice and Unit Assessment only | No simulation required |
+| Unit 03 | Lesson 01 | Primary Groups, Secondary Groups, and Networks | MLA.SOC.GRP.1 | Instructional lesson | group and network comparison chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 02 | Leadership, Conformity, and Group Decision-Making | MLA.SOC.GRP.1 | Instructional lesson | group influence decision table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 03 | Organizations and Bureaucracy | MLA.SOC.GRP.1 | Instructional lesson | bureaucracy feature chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 04 | Deviance, Norms, and Social Control | MLA.SOC.GRP.1 | Instructional lesson | deviance social control organizer | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 05 | Labeling, Stigma, and Consequences | MLA.SOC.GRP.1; MLA.SOC.STR.2 | Instructional lesson | labeling consequence flowchart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 06 | Collective Behavior and Crowds | MLA.SOC.GRP.2 | Instructional lesson | collective behavior comparison table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 07 | Social Movements, Technology, and Social Change | MLA.SOC.GRP.2 | Instructional lesson | social movement change timeline | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 03 | Lesson 08 | Synthesis: Groups, Deviance, and Social Change | MLA.SOC.GRP.1; MLA.SOC.GRP.2 | Synthesis/unit assessment lesson | group change evidence dashboard | Guided Practice and Unit Assessment only | No simulation required |
+| Unit 04 | Lesson 01 | Social Stratification and Class | MLA.SOC.STR.1 | Instructional lesson | stratification class pyramid chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 02 | Poverty, Wealth, and Social Mobility | MLA.SOC.STR.1 | Instructional lesson | mobility and opportunity data table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 03 | Power, Privilege, and Institutional Opportunity | MLA.SOC.STR.1 | Instructional lesson | opportunity barrier organizer | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 04 | Race and Ethnicity as Social Categories | MLA.SOC.STR.2 | Instructional lesson | race ethnicity evidence table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 05 | Gender, Age, Ability, and Intersectionality | MLA.SOC.STR.2 | Instructional lesson | intersectionality social category matrix | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 06 | Stereotypes, Prejudice, Discrimination, and Bias | MLA.SOC.STR.2 | Instructional lesson | bias impact analysis chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 07 | Respectful Evidence-Based Inequality Analysis | MLA.SOC.STR.1; MLA.SOC.STR.2 | Instructional lesson | respectful analysis checklist | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 04 | Lesson 08 | Synthesis: Stratification and Opportunity | MLA.SOC.STR.1; MLA.SOC.STR.2 | Synthesis/unit assessment lesson | inequality evidence dashboard | Guided Practice and Unit Assessment only | No simulation required |
+| Unit 05 | Lesson 01 | Family as a Social Institution | MLA.SOC.INST.1 | Instructional lesson | family institution function chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 02 | Education and Social Opportunity | MLA.SOC.INST.1; MLA.SOC.INST.2 | Instructional lesson | education opportunity data table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 03 | Religion, Belief Systems, and Social Meaning | MLA.SOC.INST.1 | Instructional lesson | belief system social function organizer | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 04 | Economy, Work, and Social Life | MLA.SOC.INST.1; MLA.SOC.INST.2 | Instructional lesson | work institution comparison chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 05 | Government, Law, and Social Order | MLA.SOC.INST.1; MLA.SOC.INST.2 | Instructional lesson | government social order flowchart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 06 | Health, Healthcare, and Social Factors | MLA.SOC.INST.1; MLA.SOC.INST.2 | Instructional lesson | social determinants of health table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 07 | Institutional Stability, Conflict, and Change | MLA.SOC.INST.2 | Instructional lesson | institution change analysis matrix | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 05 | Lesson 08 | Synthesis: Institutions and Social Life | MLA.SOC.INST.1; MLA.SOC.INST.2 | Synthesis/unit assessment lesson | institutions evidence dashboard | Guided Practice and Unit Assessment only | No simulation required |
+| Unit 06 | Lesson 01 | Community, Belonging, and Social Capital | MLA.SOC.CIV.1 | Instructional lesson | community social capital map | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 02 | Urbanization, Rural Life, and Population Patterns | MLA.SOC.CIV.1; MLA.SOC.CAP.1 | Instructional lesson | population pattern data display | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 03 | Globalization, Migration, and Interdependence | MLA.SOC.CAP.1 | Instructional lesson | global interdependence flowchart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 04 | Media, Public Opinion, and Civic Participation | MLA.SOC.CIV.1 | Instructional lesson | civic media influence chart | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 05 | Policy Choices and Community Impact | MLA.SOC.CIV.1; MLA.SOC.CIV.2 | Instructional lesson | policy impact comparison table | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 06 | Conflict Resolution and Ethical Social Action | MLA.SOC.CIV.2 | Instructional lesson | ethical action decision pathway | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 07 | Sociology Capstone: Evidence-Based Social Analysis | MLA.SOC.CAP.1; MLA.SOC.CAP.2 | Instructional lesson | capstone social analysis organizer | Guided Practice and Lesson Quiz only | No simulation required |
+| Unit 06 | Lesson 08 | Synthesis: Sociological Imagination and Civic Application | MLA.SOC.CIV.1; MLA.SOC.CIV.2; MLA.SOC.CAP.1; MLA.SOC.CAP.2 | Synthesis/unit assessment lesson | sociology capstone checklist | Guided Practice and Unit Assessment only | No simulation required |

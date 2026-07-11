@@ -10,10 +10,10 @@ Official build target: **47 catalog courses**
 
 ```text
 47 total courses
-25 course-build complete / Moodle transfer ready
+26 course-build complete / Moodle transfer ready
 7 transferred to Moodle
 0 currently in Moodle transfer
-22 still need to be built
+21 still need to be built
 ```
 
 ## Status Key
@@ -66,7 +66,7 @@ Official build target: **47 catalog courses**
 | Coding with Python | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | Data Literacy for Teens | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | Psychology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Sociology | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
+| Sociology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Global Perspectives | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
 | Cultural Studies | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
 | Marine Science | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -79,7 +79,7 @@ Official build target: **47 catalog courses**
 | Life Skills & Independent Living | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 | Nutrition & Wellness | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 
-Current repo-complete count: **25 courses**.
+Current repo-complete count: **26 courses**.
 
 Important count note: the active catalog lists **47 courses**, and all 47 are part of the required build target.
 
@@ -114,6 +114,7 @@ These courses have active course folders and have been treated as course-build c
 | Social Studies and Financial Literacy | U.S. Government | `U.S. GOVERNMENT` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | 0.5-credit structure: 6 units, 5 lessons per unit; Lesson 05 synthesis/unit assessment only. |
 | Social Studies and Financial Literacy | Personal Financial Literacy and Economics | `PERSONAL FINANCIAL LITERACY AND ECONOMICS` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with embedded financial/economic charts, tables, decision matrices, and XML stimuli. |
 | Social Sciences & Humanities | Psychology | `PSYCHOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE, Florida support, Common Core, SAT, and ACT alignment; embedded psychology charts, diagrams, timelines, research-data displays, and Moodle XML stimuli. |
+| Social Sciences & Humanities | Sociology | `SOCIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE, Florida support, Common Core, SAT, and ACT alignment; embedded sociology charts, source excerpts, social-pattern diagrams, timelines, research-data displays, and Moodle XML stimuli. |
 
 ## Remaining Catalog Courses
 
@@ -135,7 +136,6 @@ These courses are listed in the catalog but do not currently have completed acti
 | Technology & AI Pathway | Digital Citizenship & Online Safety | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Coding with Python | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Data Literacy for Teens | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
-| Social Sciences & Humanities | Sociology | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Social Sciences & Humanities | Global Perspectives | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Social Sciences & Humanities | Cultural Studies | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Business & Entrepreneurship | Principles of Business | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
