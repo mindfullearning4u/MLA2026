@@ -28,21 +28,272 @@ Date: 2026-07-12
 
 | Course | Mapped Lessons | Lesson Folders | HTML Pages | XML Files | XML Questions | Failures | Warnings | Decision |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
-| ENVIRONMENTAL SCIENCE | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
+| ENVIRONMENTAL SCIENCE | 48 | 48 | 336 | 102 | 1590 | 438 | 0 | FAIL |
 | MARINE SCIENCE | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | U.S. GOVERNMENT | 30 | 30 | 210 | 66 | 1050 | 0 | 0 | PASS |
 | PERSONAL FINANCIAL LITERACY AND ECONOMICS | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
-| PSYCHOLOGY | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
+| PSYCHOLOGY | 48 | 48 | 336 | 102 | 1590 | 1 | 0 | FAIL |
 | SOCIOLOGY | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | GLOBAL PERSPECTIVES | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | CULTURAL STUDIES | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 
-Overall Decision: PASS
+Overall Decision: FAIL - repair required
 Total Warnings: 0
 
 ## ENVIRONMENTAL SCIENCE
 
-PASS: No blockers found against the updated crosswalk lesson and assessment rigor audit.
+FAILURES (438):
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P06.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P07.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P01.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P02.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P03.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P04.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P05.html contains forbidden placeholder/GIFT/teacher-dependent wording
+- Additional failures omitted from report: 188
 
 ## MARINE SCIENCE
 
@@ -58,7 +309,8 @@ PASS: No blockers found against the updated crosswalk lesson and assessment rigo
 
 ## PSYCHOLOGY
 
-PASS: No blockers found against the updated crosswalk lesson and assessment rigor audit.
+FAILURES (1):
+- PSYCHOLOGY/Units/Unit 06/PSY_U06_Pretest.xml question 7 uses standard outside mapped lesson/unit: MLA.PSY.CAP.2.PSY.CAP.2.PSY.CAP.2
 
 ## SOCIOLOGY
 

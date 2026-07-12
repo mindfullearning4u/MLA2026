@@ -25,27 +25,130 @@ Date: 2026-07-11
 
 | Course | Lessons | HTML Pages | XML Files | XML Questions | Lessons With URL | URL Count | Failures | Decision |
 |---|---:|---:|---:|---:|---:|---:|---:|---|
-| BIOLOGY | 48 | 336 | 102 | 1590 | 48 | 72 | 0 | PASS |
-| CHEMISTRY | 48 | 336 | 102 | 1590 | 48 | 144 | 0 | PASS |
-| PHYSICS | 48 | 336 | 102 | 1590 | 48 | 92 | 0 | PASS |
+| BIOLOGY | 48 | 336 | 102 | 1590 | 48 | 72 | 43 | FAIL |
+| CHEMISTRY | 48 | 336 | 102 | 1590 | 48 | 192 | 14 | FAIL |
+| PHYSICS | 48 | 336 | 102 | 1590 | 48 | 92 | 46 | FAIL |
 | EARTH SPACE SCIENCE | 48 | 336 | 102 | 1590 | 48 | 336 | 0 | PASS |
-| ANATOMY AND PHYSIOLOGY | 48 | 336 | 102 | 1590 | 48 | 672 | 0 | PASS |
-| ENVIRONMENTAL SCIENCE | 48 | 336 | 102 | 1590 | 48 | 720 | 0 | PASS |
+| ANATOMY AND PHYSIOLOGY | 48 | 336 | 102 | 1590 | 48 | 672 | 336 | FAIL |
+| ENVIRONMENTAL SCIENCE | 48 | 336 | 102 | 1590 | 48 | 720 | 336 | FAIL |
 | MARINE SCIENCE | 48 | 336 | 102 | 1590 | 48 | 720 | 0 | PASS |
 
-Overall Decision: PASS - science courses clear deeper audit gates
+Overall Decision: FAIL - repairs required
 
 ## BIOLOGY
 
-PASS: No deeper rigor blockers found.
+FAILURES (43):
+- BIOLOGY/Units/Unit 01/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 01/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 01/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 02/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 03/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 04/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 05/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- BIOLOGY/Units/Unit 06/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
 
 ## CHEMISTRY
 
-PASS: No deeper rigor blockers found.
+FAILURES (14):
+- CHEMISTRY/Units/Unit 05/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 05/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 05/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 05/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 05/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 05/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 05/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- CHEMISTRY/Units/Unit 06/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
 
 ## PHYSICS
 
-PASS: No deeper rigor blockers found.
+FAILURES (46):
+- PHYSICS/Units/Unit 01/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 01/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 01/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 01/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 01/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 01/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 02/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 03/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 04/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 05/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- PHYSICS/Units/Unit 06/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
 
 ## EARTH SPACE SCIENCE
 
@@ -53,11 +156,613 @@ PASS: No deeper rigor blockers found.
 
 ## ANATOMY AND PHYSIOLOGY
 
-PASS: No deeper rigor blockers found.
+FAILURES (336):
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 01/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 02/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 03/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 04/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 05/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ANATOMY AND PHYSIOLOGY/Units/Unit 06/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- Additional failures omitted from this report section: 36
 
 ## ENVIRONMENTAL SCIENCE
 
-PASS: No deeper rigor blockers found.
+FAILURES (336):
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 01/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 02/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 03/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 04/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 03/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 04/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 05/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 06/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 07/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 05/Lesson 08/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 01/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P06.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 02/P07.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 03/P01.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 03/P02.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 03/P03.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 03/P04.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 03/P05.html contains teacher-led or negative no-teacher wording
+- ENVIRONMENTAL SCIENCE/Units/Unit 06/Lesson 03/P06.html contains teacher-led or negative no-teacher wording
+- Additional failures omitted from this report section: 36
 
 ## MARINE SCIENCE
 

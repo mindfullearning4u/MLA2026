@@ -14,8 +14,8 @@ This audit checks course production files as the accreditation/compliance backbo
 | CHEMISTRY | 7/8 | 26 | 26 | 26 | 26 | 48 | 48 | 0 | PASS |
 | PHYSICS | 7/8 | 27 | 27 | 27 | 27 | 48 | 48 | 0 | PASS |
 | EARTH SPACE SCIENCE | 7/8 | 29 | 29 | 29 | 29 | 48 | 48 | 0 | PASS |
-| ANATOMY AND PHYSIOLOGY | 7/8 | 28 | 28 | 28 | 28 | 48 | 48 | 0 | PASS |
-| ENVIRONMENTAL SCIENCE | 7/8 | 28 | 28 | 28 | 28 | 48 | 48 | 0 | PASS |
+| ANATOMY AND PHYSIOLOGY | 7/8 | 28 | 28 | 28 | 28 | 48 | 96 | 1 | FAIL |
+| ENVIRONMENTAL SCIENCE | 7/8 | 28 | 28 | 28 | 28 | 48 | 96 | 1 | FAIL |
 | MARINE SCIENCE | 7/8 | 30 | 30 | 30 | 30 | 48 | 48 | 0 | PASS |
 | WORLD HISTORY | 8/8 | 118 | 118 | 118 | 118 | 48 |  | 0 | PASS |
 | U.S. HISTORY | 8/8 | 91 | 91 | 91 | 91 | 48 |  | 0 | PASS |
@@ -26,7 +26,7 @@ This audit checks course production files as the accreditation/compliance backbo
 | GLOBAL PERSPECTIVES | 8/8 | 13 | 13 | 13 | 13 | 48 |  | 0 | PASS |
 | CULTURAL STUDIES | 8/8 | 13 | 13 | 13 | 13 | 48 |  | 0 | PASS |
 
-Overall Decision: PASS - course production crosswalk packages are tight
+Overall Decision: FAIL - course production repairs required
 
 ## BIOLOGY
 
@@ -62,7 +62,8 @@ Warnings:
 
 ## ANATOMY AND PHYSIOLOGY
 
-PASS: Crosswalk, inventory, unit mapping, lesson mapping, and required production controls are traceable.
+Failures:
+- Expected 48 science lab/visual/simulation lesson rows, found 96.
 
 Warnings:
 - No separate alignment file; source framework alignment must be fully documented in crosswalk and production text.
@@ -70,7 +71,8 @@ Warnings:
 
 ## ENVIRONMENTAL SCIENCE
 
-PASS: Crosswalk, inventory, unit mapping, lesson mapping, and required production controls are traceable.
+Failures:
+- Expected 48 science lab/visual/simulation lesson rows, found 96.
 
 Warnings:
 - No separate alignment file; source framework alignment must be fully documented in crosswalk and production text.
