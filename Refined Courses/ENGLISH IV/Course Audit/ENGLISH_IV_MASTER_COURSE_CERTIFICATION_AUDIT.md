@@ -150,7 +150,7 @@ Assessment inventory:
 | Unit Pretest | 6 | 10 questions each | PASS |
 | Guided Practice | 48 | 5 questions each | PASS |
 | Lesson Quiz | 42 | 25 questions each | PASS |
-| Unit Assessment | 6 | 25 questions each | PASS |
+| Unit Assessment | 6 | 40 questions each | PASS |
 
 Verified:
 
@@ -185,12 +185,12 @@ Status: PASS
 
 | Unit | Unit Assessment File | Count | Status |
 |---|---|---:|---:|
-| Unit 01 | `ENG4_U01_L08_UnitAssessment.gift` | 25 | PASS |
-| Unit 02 | `ENG4_U02_L08_UnitAssessment.gift` | 25 | PASS |
-| Unit 03 | `ENG4_U03_L08_UnitAssessment.gift` | 25 | PASS |
-| Unit 04 | `ENG4_U04_L08_UnitAssessment.gift` | 25 | PASS |
-| Unit 05 | `ENG4_U05_L08_UnitAssessment.gift` | 25 | PASS |
-| Unit 06 | `ENG4_U06_L08_UnitAssessment.gift` | 25 | PASS |
+| Unit 01 | `ENG4_U01_L08_UnitAssessment.gift` | 40 | PASS |
+| Unit 02 | `ENG4_U02_L08_UnitAssessment.gift` | 40 | PASS |
+| Unit 03 | `ENG4_U03_L08_UnitAssessment.gift` | 40 | PASS |
+| Unit 04 | `ENG4_U04_L08_UnitAssessment.gift` | 40 | PASS |
+| Unit 05 | `ENG4_U05_L08_UnitAssessment.gift` | 40 | PASS |
+| Unit 06 | `ENG4_U06_L08_UnitAssessment.gift` | 40 | PASS |
 
 Unit Assessments verify unit-level mastery and are housed in Lesson 8 as required.
 
