@@ -48,20 +48,160 @@ function htmlTable(headers, rows) {
     .join("")}</tbody></table>`;
 }
 
+function courseOverviewText() {
+  return `# CULTURAL STUDIES - Cultural Studies
+**Credit:** 1.0 High School Social Sciences / Humanities Elective Credit
+**Course Type:** Mastery-Based High School Cultural Studies Course
+
+---
+
+## Course Description
+
+Cultural Studies is a mastery-based course that teaches students how to analyze culture carefully, respectfully, and with evidence. Students study culture as a system of learned meanings, practices, language, identity, representation, belief, art, media, history, globalization, ethics, and research.
+
+Students learn to interpret cultural sources, visuals, maps, charts, timelines, media examples, community scenarios, and research evidence without relying on stereotypes, assumptions, single-story narratives, or unsupported opinion. The course emphasizes source analysis, context, perspective, representation, ethical reasoning, research synthesis, and respectful communication.
+
+Instruction is designed for asynchronous online learning. The lesson pages teach directly and step by step. The Teacher of Record supports clarification, checkpoint review, intervention, remediation, retake workflow, and student progress, but the course lessons provide the instruction students need to learn independently.
+
+---
+
+## Standards Alignment
+
+The primary course standards are MLA Cultural Studies standards. Each MLA.CS standard is cross-referenced to appropriate support frameworks for evidence reading, source analysis, research, writing, communication, and college readiness.
+
+The course crosswalk includes:
+
+- MLA Cultural Studies Standards
+- Florida / CPALMS social studies support standards
+- Florida B.E.S.T. English Language Arts support standards
+- Common Core literacy in history/social studies and writing support
+- SAT Reading and Writing readiness domains
+- ACT College and Career Readiness support
+
+Support standards strengthen literacy, research, source evaluation, evidence use, and college-readiness skills. They do not replace the primary MLA.CS content standards and do not authorize content outside the approved unit and lesson mapping.
+
+---
+
+## Learning Objectives / Outcomes
+
+By the end of this course, students will be able to:
+
+- Define culture as a system of learned meanings, practices, values, artifacts, institutions, and communication
+- Evaluate cultural sources by origin, audience, purpose, context, bias, representation, corroboration, and missing voice
+- Analyze identity, belonging, language, symbols, and communication in context
+- Interpret belief systems, values, rituals, art, music, literature, performance, foodways, fashion, and material culture as cultural evidence
+- Explain how power, institutions, media, archives, and public narratives shape representation and historical memory
+- Analyze migration, diaspora, globalization, exchange, appropriation, appreciation, preservation, and ethical engagement
+- Develop a bounded cultural inquiry question, gather reliable sources, compare perspectives, synthesize evidence, and identify limitations
+- Complete a respectful cultural inquiry capstone with evidence, context, multiple perspectives, ethical boundaries, and reflection
+
+---
+
+## Prerequisite Knowledge / Skills
+
+Students should be able to read informational text, identify claims and evidence, compare perspectives, interpret basic visuals and tables, write short evidence-based explanations, and revise based on feedback. Required cultural-analysis skills are explicitly taught and reinforced throughout the course.
+
+Students do not need prior Cultural Studies coursework. The course begins with foundational inquiry skills before moving into identity, communication, belief systems, representation, globalization, ethics, and research.
+
+---
+
+## Course Structure
+
+This is a 1.0-credit course with six units and eight lessons per unit.
+
+Approved Cultural Studies unit sequence:
+
+- Unit 1: Foundations of Cultural Inquiry
+Students learn culture as a system, context, evidence, source reliability, bias, missing voices, comparison, and careful claims.
+
+- Unit 2: Identity, Belonging, Language, and Communication
+Students analyze layered identity, belonging, community roles, language, dialect, translation, symbols, nonverbal communication, generational change, and intercultural dialogue.
+
+- Unit 3: Belief Systems, Values, Art, and Cultural Expression
+Students study values, norms, worldviews, belief systems, rituals, art, music, storytelling, foodways, fashion, and material culture.
+
+- Unit 4: Power, Representation, Media, and Historical Memory
+Students evaluate voice, representation, archives, media framing, popular culture, digital culture, counter-narratives, and historical memory.
+
+- Unit 5: Globalization, Diaspora, Exchange, and Ethics
+Students analyze migration, diaspora, cultural continuity, exchange, diffusion, hybridity, globalization, appropriation, appreciation, heritage, preservation, and ethical engagement.
+
+- Unit 6: Cultural Research, Synthesis, and Capstone
+Students develop research questions, evaluate source sets, compare perspectives, synthesize evidence, write cultural analysis, design a respectful project, present, revise, and complete the capstone portfolio.
+
+Each unit includes:
+
+- Unit Pretest
+- Standards-aligned lessons
+- Embedded visual/source supports
+- Guided Practice
+- Lesson Quiz banks for Lessons 1-7
+- Notebook evidence and checkpoint submission
+- Lesson 8 synthesis
+- Unit Assessment
+
+---
+
+## Lesson Workflow
+
+Each lesson follows the approved MLA P01-P07 instructional model:
+
+1. P01 Lesson Overview
+2. P02 Notebook Task Part 1
+3. P03 Notebook Task Part 2
+4. P04 Worked Example
+5. P05 Guided Practice
+6. P06 Independent Work
+7. P07 Checkpoint
+
+Lessons are written as direct student instruction. They include standards, vocabulary, step-by-step explanations, embedded source or visual supports, common mistakes, three worked examples, guided practice preparation, independent work, checkpoint submission directions, and Teacher of Record support language.
+
+---
+
+## Assessment Structure
+
+Student learning is evaluated using Moodle XML assessments only.
+
+Required assessment structure:
+
+- Unit Pretest: 10 questions
+- Guided Practice: 5 questions per lesson
+- Lesson Quiz Bank: 25 questions for Lessons 1-7
+- Unit Assessment Bank: 40 questions in Lesson 8
+
+Lesson 8 is the synthesis and unit-assessment lesson. Lesson 8 does not have a lesson quiz unless the approved mapping specifically overrides the academy structure.
+
+Every assessment item must stay inside the approved course crosswalk, unit mapping, and lesson mapping. Questions include embedded source, visual, table, timeline, scenario, map, chart, or data stimulus whenever needed. Students should not have to search elsewhere to answer an assessment question.
+
+---
+
+## Mastery & Progression Criteria
+
+Mastery requires at least 80%. Students who do not meet mastery complete remediation and meet with the Teacher of Record before another attempt. The Teacher of Record may provide clarification, remediation direction, checkpoint feedback, and retake approval.
+
+Assessment feedback is written as a teachable moment. Feedback explains why the correct answer is correct, what misconception each incorrect answer reflects, and what the student should notice next time.
+
+---
+
+## College / Skill Readiness Integration
+
+The course builds evidence reading, source analysis, vocabulary in context, rhetorical awareness, visual and data interpretation, comparative reasoning, ethical argument, research synthesis, presentation, revision, and reflective learning. These skills support SAT Reading and Writing readiness, ACT College and Career Readiness, and postsecondary humanities and social science coursework.`;
+}
+
 const standards = [
-  ["MLA.CS.FND.1", "Culture as a System", "Define culture as learned patterns of meaning, behavior, values, institutions, artifacts, and communication; distinguish evidence-based cultural analysis from stereotype or opinion.", "SS.912.S.5.7; SS.912.S.5.5; SS.912.S.2.7", "ELA.K12.EE.1.1", "RH.11-12.1; RH.11-12.2", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
-  ["MLA.CS.FND.2", "Cultural Inquiry and Source Reliability", "Evaluate cultural sources by origin, audience, purpose, context, bias, representation, corroboration, and missing voice.", "SS.912.S.1.6; SS.912.S.5.7", "ELA.K12.EE.1.1; ELA.12.C.4.1", "RH.11-12.1; RH.11-12.6; RH.11-12.8", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
-  ["MLA.CS.ID.1", "Identity, Belonging, and Community", "Analyze how identity, belonging, community membership, language, place, and social roles shape cultural experience without reducing people to one label.", "SS.912.S.2.7; SS.912.S.4.10; SS.912.A.7.17", "ELA.12.R.1.3; ELA.K12.EE.1.1", "RH.11-12.6; RH.11-12.9", "SAT Craft and Structure; Information and Ideas", "ACT Reading standards support"],
-  ["MLA.CS.ID.2", "Power, Representation, and Voice", "Explain how power, institutions, media, archives, and public narratives influence whose voices are centered, minimized, represented, or misunderstood.", "SS.912.CG.2.8; SS.912.CG.2.12; SS.912.CG.2.13; SS.912.AA.3.10", "ELA.12.R.1.3; ELA.12.C.1.3", "RH.11-12.6; RH.11-12.8", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing standards support"],
-  ["MLA.CS.COM.1", "Language, Symbols, and Communication", "Analyze how language, symbols, translation, nonverbal communication, and context shape meaning across cultural settings.", "SS.912.S.2.7; SS.912.S.2.11", "ELA.K12.EE.1.1; ELA.12.C.2.1", "RH.11-12.4; RH.11-12.6", "SAT Craft and Structure; Information and Ideas", "ACT Reading/English standards support"],
-  ["MLA.CS.BEL.1", "Belief Systems, Values, and Worldviews", "Compare belief systems, values, ethical frameworks, rituals, and worldviews respectfully using evidence and context.", "SS.912.S.5.7; SS.912.S.5.5; SS.912.W.2.13", "ELA.K12.EE.1.1; ELA.12.C.1.3", "RH.11-12.1; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
-  ["MLA.CS.HIS.1", "Historical Memory and Cultural Change", "Analyze how migration, contact, colonization, resistance, adaptation, generational memory, and historical narratives shape cultural change.", "SS.912.A.7.17; SS.912.AA.3.10; SS.912.G.4.4", "ELA.K12.EE.1.1; ELA.12.C.4.1", "RH.11-12.2; RH.11-12.7; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
-  ["MLA.CS.ART.1", "Art, Music, Literature, and Cultural Expression", "Interpret cultural expression through art, music, literature, performance, foodways, fashion, and material culture as evidence of meaning and context.", "SS.912.AA.3.10; SS.912.S.5.7", "ELA.12.R.1.3; ELA.K12.EE.1.1", "RH.11-12.7; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
-  ["MLA.CS.MED.1", "Media, Popular Culture, and Digital Culture", "Evaluate how media, popular culture, algorithms, digital communities, and global platforms shape cultural identity, representation, and participation.", "SS.912.S.6.6; SS.912.CG.2.13; SS.912.CG.2.12", "ELA.9.C.5.1; ELA.10.C.5.1; ELA.12.C.1.3", "RH.11-12.6; RH.11-12.7; RH.11-12.8", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing standards support"],
-  ["MLA.CS.GLB.1", "Globalization, Diaspora, and Cultural Exchange", "Analyze cultural exchange, diaspora, hybridity, appropriation, diffusion, and global interdependence with attention to power and context.", "SS.912.G.4.4; SS.912.W.9.6; SS.912.S.6.5", "ELA.K12.EE.1.1; ELA.12.C.4.1", "RH.11-12.7; RH.11-12.9", "SAT Information and Ideas, including informational graphics", "ACT Reading/Science standards support"],
-  ["MLA.CS.ETH.1", "Ethical Cultural Engagement", "Apply ethical principles for respectful cultural engagement, avoiding stereotypes, appropriation, single-story narratives, and unsupported generalizations.", "SS.912.S.2.11; SS.912.S.5.5; SS.912.CG.2.12", "ELA.K12.EE.1.1; ELA.12.C.1.3; ELA.12.C.2.1", "WHST.11-12.1; SL.11-12.4", "SAT Expression of Ideas", "ACT Writing standards support"],
-  ["MLA.CS.RES.1", "Cultural Research Synthesis", "Develop a researchable cultural inquiry question, gather varied sources, synthesize evidence, compare perspectives, and identify limitations.", "SS.912.S.1.6; SS.912.S.5.7", "ELA.12.C.4.1; ELA.K12.EE.1.1", "WHST.11-12.7; WHST.11-12.8; WHST.11-12.9", "SAT Information and Ideas; Expression of Ideas", "ACT Reading/Writing standards support"],
-  ["MLA.CS.CAP.1", "Cultural Studies Capstone", "Create a respectful, evidence-based cultural analysis or project that explains context, sources, multiple perspectives, ethical boundaries, and reflection.", "SS.912.S.1.6; SS.912.S.2.11; SS.912.S.5.7", "ELA.12.C.2.1; ELA.12.C.4.1; ELA.12.C.1.3", "WHST.11-12.1; WHST.11-12.7; SL.11-12.4; SL.11-12.5", "SAT Expression of Ideas; Standard English Conventions", "ACT Writing standards support"],
+  ["MLA.CS.FND.1", "Culture as a System", "Define culture as learned patterns of meaning, behavior, values, institutions, artifacts, and communication; distinguish evidence-based cultural analysis from stereotype or opinion.", "SS.912.S.5.7; SS.912.S.5.5; SS.912.S.2.7", "ELA.K12.EE.1.1", "CCSS.ELA-LITERACY.RH.11-12.1; RH.11-12.2", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support: key ideas, details, relationships"],
+  ["MLA.CS.FND.2", "Cultural Inquiry and Source Reliability", "Evaluate cultural sources by origin, audience, purpose, context, bias, representation, corroboration, and missing voice.", "SS.912.S.1.6; SS.912.S.5.7", "ELA.K12.EE.1.1; ELA.12.C.4.1", "CCSS.ELA-LITERACY.RH.11-12.1; RH.11-12.6; RH.11-12.8", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support: author purpose and evidence"],
+  ["MLA.CS.ID.1", "Identity, Belonging, and Community", "Analyze how identity, belonging, community membership, language, place, and social roles shape cultural experience without reducing people to one label.", "SS.912.S.2.7; SS.912.S.4.10; SS.912.A.7.17", "ELA.12.R.1.3; ELA.K12.EE.1.1", "CCSS.ELA-LITERACY.RH.11-12.6; RH.11-12.9", "SAT Craft and Structure; Information and Ideas", "ACT Reading standards support: comparative relationships"],
+  ["MLA.CS.ID.2", "Power, Representation, and Voice", "Explain how power, institutions, media, archives, and public narratives influence whose voices are centered, minimized, represented, or misunderstood.", "SS.912.CG.2.8; SS.912.CG.2.12; SS.912.CG.2.13; SS.912.AA.3.10", "ELA.12.R.1.3; ELA.12.C.1.3", "CCSS.ELA-LITERACY.RH.11-12.6; RH.11-12.8", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing standards support: rhetorical skills"],
+  ["MLA.CS.COM.1", "Language, Symbols, and Communication", "Analyze how language, symbols, translation, nonverbal communication, and context shape meaning across cultural settings.", "SS.912.S.2.7; SS.912.S.2.11", "ELA.K12.EE.1.1; ELA.12.C.2.1", "CCSS.ELA-LITERACY.RH.11-12.4; RH.11-12.6", "SAT Craft and Structure; Information and Ideas", "ACT Reading/English standards support: word choice, context, communication"],
+  ["MLA.CS.BEL.1", "Belief Systems, Values, and Worldviews", "Compare belief systems, values, ethical frameworks, rituals, and worldviews respectfully using evidence and context.", "SS.912.S.5.7; SS.912.S.5.5; SS.912.W.2.13", "ELA.K12.EE.1.1; ELA.12.C.1.3", "CCSS.ELA-LITERACY.RH.11-12.1; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support: relationships and inference"],
+  ["MLA.CS.HIS.1", "Historical Memory and Cultural Change", "Analyze how migration, contact, colonization, resistance, adaptation, generational memory, and historical narratives shape cultural change.", "SS.912.A.7.17; SS.912.AA.3.10; SS.912.G.4.4", "ELA.K12.EE.1.1; ELA.12.C.4.1", "CCSS.ELA-LITERACY.RH.11-12.2; RH.11-12.7; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support: sequence, cause-effect, evidence"],
+  ["MLA.CS.ART.1", "Art, Music, Literature, and Cultural Expression", "Interpret cultural expression through art, music, literature, performance, foodways, fashion, and material culture as evidence of meaning and context.", "SS.912.AA.3.10; SS.912.S.5.7", "ELA.12.R.1.3; ELA.K12.EE.1.1", "CCSS.ELA-LITERACY.RH.11-12.7; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support: main idea, detail, interpretation"],
+  ["MLA.CS.MED.1", "Media, Popular Culture, and Digital Culture", "Evaluate how media, popular culture, algorithms, digital communities, and global platforms shape cultural identity, representation, and participation.", "SS.912.S.6.6; SS.912.CG.2.13; SS.912.CG.2.12", "ELA.9.C.5.1; ELA.10.C.5.1; ELA.12.C.1.3", "CCSS.ELA-LITERACY.RH.11-12.6; RH.11-12.7; RH.11-12.8", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing standards support: organization and rhetorical decisions"],
+  ["MLA.CS.GLB.1", "Globalization, Diaspora, and Cultural Exchange", "Analyze cultural exchange, diaspora, hybridity, appropriation, diffusion, and global interdependence with attention to power and context.", "SS.912.G.4.4; SS.912.W.9.6; SS.912.S.6.5", "ELA.K12.EE.1.1; ELA.12.C.4.1", "CCSS.ELA-LITERACY.RH.11-12.7; RH.11-12.9", "SAT Information and Ideas, including informational graphics", "ACT Reading/Science standards support: data interpretation"],
+  ["MLA.CS.ETH.1", "Ethical Cultural Engagement", "Apply ethical principles for respectful cultural engagement, avoiding stereotypes, appropriation, single-story narratives, and unsupported generalizations.", "SS.912.S.2.11; SS.912.S.5.5; SS.912.CG.2.12", "ELA.K12.EE.1.1; ELA.12.C.1.3; ELA.12.C.2.1", "CCSS.ELA-LITERACY.WHST.11-12.1; SL.11-12.4", "SAT Expression of Ideas", "ACT Writing standards support: ideas, development, organization"],
+  ["MLA.CS.RES.1", "Cultural Research Synthesis", "Develop a researchable cultural inquiry question, gather varied sources, synthesize evidence, compare perspectives, and identify limitations.", "SS.912.S.1.6; SS.912.S.5.7", "ELA.12.C.4.1; ELA.K12.EE.1.1", "CCSS.ELA-LITERACY.WHST.11-12.7; WHST.11-12.8; WHST.11-12.9", "SAT Information and Ideas; Expression of Ideas", "ACT Reading/Writing standards support: claim and evidence"],
+  ["MLA.CS.CAP.1", "Cultural Studies Capstone", "Create a respectful, evidence-based cultural analysis or project that explains context, sources, multiple perspectives, ethical boundaries, and reflection.", "SS.912.S.1.6; SS.912.S.2.11; SS.912.S.5.7", "ELA.12.C.2.1; ELA.12.C.4.1; ELA.12.C.1.3", "CCSS.ELA-LITERACY.WHST.11-12.1; WHST.11-12.7; SL.11-12.4; SL.11-12.5", "SAT Expression of Ideas; Standard English Conventions", "ACT Writing standards support: ideas, organization, language use"],
 ];
 
 const units = [
@@ -138,47 +278,8 @@ function buildProduction() {
   ensure(productionDir);
   ensure(auditDir);
 
-  write(path.join(productionDir, "Course-Overview.md"), `# Cultural Studies Course Overview
-
-## Course Description
-
-Cultural Studies is a 1.0-credit social sciences and humanities course that teaches students how to analyze culture carefully, respectfully, and with evidence. Students study culture as a system of learned meanings, practices, language, identity, representation, belief, art, media, history, globalization, ethics, and research.
-
-The course is designed for mastery-based online learning. Lessons must teach the content directly and step by step because no classroom teacher is presenting the lesson live. The Teacher of Record supports clarification, checkpoint review, intervention, remediation, retake workflow, and student progress.
-
-## Standards Alignment
-
-The primary course standards are MLA Cultural Studies standards. The crosswalk includes Florida social studies and humanities support through CPALMS social studies searches, Florida B.E.S.T. literacy support, Common Core literacy in history/social studies support, SAT Reading and Writing evidence skills, and ACT College and Career Readiness support.
-
-Support standards strengthen evidence, reading, writing, source evaluation, and college-readiness skills. They do not replace the primary MLA.CS content standards.
-
-## Learning Objectives / Outcomes
-
-By the end of the course, students will be able to analyze cultural evidence, evaluate sources, avoid stereotypes, explain identity and communication in context, interpret belief systems and cultural expression, evaluate representation and media framing, analyze globalization and diaspora, and complete a respectful cultural inquiry capstone.
-
-## Prerequisite Knowledge / Skills
-
-Students should be able to read informational text, identify claims and evidence, compare perspectives, interpret basic visuals and tables, write short evidence-based explanations, and revise based on feedback. Required cultural-analysis skills are explicitly taught in the course.
-
-## Course Structure
-
-This is a 1.0-credit course with six units and eight lessons per unit. Lessons 1-7 in each unit include instruction, guided practice, independent work, checkpoint workflow, and lesson quiz. Lesson 8 is the synthesis/unit-assessment lesson.
-
-## Lesson Workflow
-
-Each lesson follows P01-P07: Lesson Overview, Notebook Task Part 1, Notebook Task Part 2, Worked Example, Guided Practice, Independent Work, and Checkpoint. Lessons include mapped standards, step-by-step teaching, common mistakes, visual/source supports, and Teacher of Record support language.
-
-## Assessment Structure
-
-Assessments are Moodle XML only. Guided Practice has 5 questions. Lessons 1-7 have 25-question quiz banks. Unit Pretests have 10 questions. Unit Assessments have 40 questions. Assessment questions include embedded source, visual, table, scenario, or data stimulus when needed.
-
-## Mastery & Progression Criteria
-
-Mastery requires at least 80%. Students who do not meet mastery complete remediation and meet with the Teacher of Record before another attempt. Assessment feedback must teach the misconception and point students back to the evidence reasoning.
-
-## College / Skill Readiness Integration
-
-The course builds SAT/ACT-aligned evidence reading, source analysis, vocabulary in context, rhetorical awareness, data interpretation, comparative reasoning, ethical argument, research synthesis, presentation, and revision skills.`);
+  write(path.join(courseDir, "Course-Overview.md"), courseOverviewText());
+  write(path.join(productionDir, "Course-Overview.md"), courseOverviewText());
 
   write(path.join(productionDir, "PHASE_2A_A_2_MLA_STANDARD_INVENTORY.md"), `# Cultural Studies MLA Standard Inventory
 
@@ -239,6 +340,8 @@ These support references are the verified support pool for this crosswalk. Lesso
 ${table(["MLA Standard", "Primary Cultural Studies Skill", "Florida / CPALMS Support", "Florida B.E.S.T. Support", "Common Core Support", "SAT Support", "ACT Support", "Course Use"], standards.map(([code, title, desc, fl, best, cc, sat, act]) => [code, `${title}: ${desc}`, fl, best, cc, sat, act, "Primary course content standard with literacy/readiness support"]))}`);
 
   write(path.join(productionDir, "PHASE_3A_UNIT_MAPPING.md"), `# Cultural Studies Unit Mapping
+
+Standards Covered lists every MLA standard assessed or directly taught in the unit, including reinforcement standards that are intentionally revisited to support the unit's primary focus. No lesson may introduce or assess an MLA standard that is not listed in its unit row.
 
 ${table(["Unit", "Unit Title", "Unit Purpose", "Standards Covered", "Required Visual / Source Supports"], units.map(([unit, title, purpose, codes, visual]) => [unit, title, purpose, codes.join("; "), visual]))}`);
 
@@ -322,17 +425,29 @@ function standardText(l) {
   return l.codes.map((code) => `${code}: ${codeMap.get(code)?.[2] || "Mapped Cultural Studies standard"}`).join("<br>");
 }
 
+function sourceScenario(l) {
+  return `A student is studying ${esc(l.title)}. The evidence set includes the ${esc(l.visual)}, a short community scenario, and a source note about audience and purpose. The student's job is to explain what the evidence shows, what context changes the meaning, whose perspective is included, and what cannot be concluded from one source alone.`;
+}
+
+function visualOrganizer(l) {
+  return htmlTable(["Part of the Support", "What the Student Does", "Verification Check"], [
+    [esc(l.visual), `Identify the exact feature, row, label, sequence, comparison, or source detail connected to ${esc(l.title)}.`, "Can you point to the evidence instead of relying on memory or opinion?"],
+    ["Context frame", "Name the place, time, group, audience, purpose, or situation that shapes the evidence.", "Did you explain why the same evidence might mean something different in another context?"],
+    ["Perspective check", "Identify who is represented, who created the source, and whose voice may be missing.", "Did you avoid speaking for an entire group from one example?"],
+    ["Limitation statement", "Explain what this support cannot prove by itself.", "Did you state what additional source would make the conclusion stronger?"],
+  ]);
+}
+
+function teachingSequence(l) {
+  return `<ol class="steps"><li><strong>Step 1 - Read the standard before the source.</strong> The lesson is limited to ${esc(l.codes.join("; "))}. That means your answer must focus on ${esc(l.purpose.toLowerCase())}</li><li><strong>Step 2 - Identify the cultural evidence.</strong> Use the ${esc(l.visual)} as the required support. Name the exact detail before writing a conclusion.</li><li><strong>Step 3 - Add context.</strong> Ask where, when, who, for what purpose, and for which audience. Context prevents guessing and keeps the answer accurate.</li><li><strong>Step 4 - Explain perspective.</strong> Decide whose viewpoint is visible and whose viewpoint may be missing. This keeps the analysis from becoming a stereotype.</li><li><strong>Step 5 - Connect evidence to reasoning.</strong> Use a because statement: the evidence suggests ___ because ___.</li><li><strong>Step 6 - Add a limitation.</strong> State what the evidence cannot prove alone and what additional source would help.</li><li><strong>Step 7 - Check for mastery.</strong> A complete answer includes evidence, context, perspective, standard alignment, and limitation.</li></ol>`;
+}
+
 function torBox() {
   return `<section class="tor-support"><h2>Teacher of Record Support</h2><p>After you use the lesson steps, examples, visuals, and self-checks, contact your Teacher of Record if a source, visual, vocabulary term, feedback explanation, checkpoint requirement, or retake workflow is still unclear. Bring the exact step and evidence that caused confusion.</p></section>`;
 }
 
 function visualBlock(l) {
-  return `<section class="visual"><h2>Required Visual / Source Support</h2><p><strong>Use this support:</strong> ${esc(l.visual)}</p>${htmlTable(["Evidence Check", "What To Notice"], [
-    ["Cultural Evidence", `What does the ${esc(l.visual)} show about ${esc(l.title)}?`],
-    ["Context", "What place, time, group, purpose, audience, or situation affects the meaning?"],
-    ["Perspective", "Whose voice is centered, whose voice is missing, and who may interpret this differently?"],
-    ["Limit", "What can this evidence not prove by itself?"],
-  ])}<p class="check">Student check: Point to one source detail, visual feature, table row, context clue, or stakeholder perspective before writing the answer.</p></section>`;
+  return `<section class="visual"><h2>Required Visual / Source Support</h2><p><strong>Use this support:</strong> ${esc(l.visual)}</p><p><strong>Embedded source scenario:</strong> ${sourceScenario(l)}</p>${visualOrganizer(l)}<p class="check">Student check: Point to one source detail, visual feature, table row, context clue, or stakeholder perspective before writing the answer.</p></section>`;
 }
 
 function misconception(l) {
@@ -344,15 +459,15 @@ function p01(l) {
 }
 
 function p02(l) {
-  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P02`, `<h1>P02 Notebook Task Part 1</h1><section class="box"><h2>Notebook Title</h2><p>${esc(l.title)}: Evidence, Context, and Perspective</p></section><section class="box"><h2>Vocabulary</h2>${htmlTable(["Term", "Student-Friendly Meaning"], [["Culture", "Learned meanings, practices, values, communication, institutions, and artifacts shared and changed by people."], ["Context", "The place, time, audience, purpose, and situation that help explain meaning."], ["Perspective", "A viewpoint shaped by experience, role, identity, evidence, and position."], ["Representation", "How people, groups, events, or ideas are shown or described."], ["Limitation", "What evidence cannot prove by itself."]])}</section>${visualBlock(l)}<section class="box"><h2>Step-by-Step Teaching</h2><ol class="steps"><li><strong>Step 1 - Name the cultural evidence.</strong> Identify the source, visual, practice, phrase, object, image, or scenario you are studying.</li><li><strong>Step 2 - Add context.</strong> Ask where, when, who, for what purpose, and for which audience.</li><li><strong>Step 3 - Connect to the standard.</strong> Explain how the evidence fits ${esc(l.codes.join("; "))}.</li><li><strong>Step 4 - Avoid overclaiming.</strong> Do not say the evidence proves what every person in a culture thinks or does.</li><li><strong>Step 5 - Write a careful claim.</strong> Use a sentence that names evidence and keeps the claim limited to what the evidence supports.</li></ol></section><section class="task"><h2>Notebook Task</h2><p>Write a four-sentence analysis: evidence, context, perspective, and limitation for ${esc(l.title)}.</p></section>${torBox()}`);
+  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P02`, `<h1>P02 Notebook Task Part 1</h1><section class="box"><h2>Notebook Title</h2><p>${esc(l.title)}: Evidence, Context, and Perspective</p></section><section class="box"><h2>Vocabulary</h2>${htmlTable(["Term", "Student-Friendly Meaning"], [["Culture", "Learned meanings, practices, values, communication, institutions, and artifacts shared and changed by people."], ["Context", "The place, time, audience, purpose, and situation that help explain meaning."], ["Perspective", "A viewpoint shaped by experience, role, identity, evidence, and position."], ["Representation", "How people, groups, events, or ideas are shown or described."], ["Limitation", "What evidence cannot prove by itself."]])}</section>${visualBlock(l)}<section class="box"><h2>Step-by-Step Teaching</h2>${teachingSequence(l)}</section><section class="task"><h2>Notebook Task</h2><p>Write a five-sentence analysis for ${esc(l.title)}. Sentence 1 names the evidence. Sentence 2 gives context. Sentence 3 explains perspective. Sentence 4 connects to ${esc(l.codes.join("; "))}. Sentence 5 states a limitation or additional source needed.</p></section>${torBox()}`);
 }
 
 function p03(l) {
-  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P03`, `<h1>P03 Notebook Task Part 2</h1>${visualBlock(l)}<section class="box"><h2>Deeper Teaching</h2><ol class="steps"><li><strong>First, check the source.</strong> A cultural source has an origin, audience, purpose, and point of view.</li><li><strong>Next, check what is visible.</strong> Use labels, details, sequence, repeated patterns, or missing information.</li><li><strong>Then, check perspective.</strong> Ask who created the evidence, who is represented, and who might disagree.</li><li><strong>After that, connect meaning to context.</strong> Cultural meaning changes when place, time, role, audience, or purpose changes.</li><li><strong>Finally, state the careful conclusion.</strong> Use words such as <em>suggests</em>, <em>shows in this source</em>, or <em>may indicate</em> when the evidence is limited.</li></ol></section>${misconception(l)}<section class="task"><h2>Notebook Task Part 2</h2><p>Revise your Part 1 analysis by adding one missing perspective and one limitation. Explain why that addition makes the answer more accurate.</p></section>${torBox()}`);
+  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P03`, `<h1>P03 Notebook Task Part 2</h1>${visualBlock(l)}<section class="box"><h2>Deeper Teaching</h2><ol class="steps"><li><strong>First, check the source.</strong> A cultural source has an origin, audience, purpose, and point of view. If you cannot name those parts, your conclusion must stay narrow.</li><li><strong>Next, check what is visible.</strong> Use labels, details, sequence, repeated patterns, contrasts, categories, or missing information in the ${esc(l.visual)}.</li><li><strong>Then, check perspective.</strong> Ask who created the evidence, who is represented, who might disagree, and who may need a separate source to be represented accurately.</li><li><strong>After that, connect meaning to context.</strong> Cultural meaning changes when place, time, role, audience, language, or purpose changes.</li><li><strong>Finally, state the careful conclusion.</strong> Use words such as <em>suggests</em>, <em>shows in this source</em>, or <em>may indicate</em> when the evidence is limited.</li></ol></section>${misconception(l)}<section class="task"><h2>Notebook Task Part 2</h2><p>Revise your Part 1 analysis by adding one missing perspective, one context detail, and one limitation. Explain why each addition makes the answer more accurate and more respectful.</p></section>${torBox()}`);
 }
 
 function worked(l, n, focus) {
-  return `<section class="box"><h2>Worked Example ${n}</h2><p><strong>Prompt:</strong> Use the ${esc(l.visual)} to analyze ${esc(l.title)} with a focus on ${focus}.</p><ol class="steps"><li><strong>Step 1 - Identify the evidence.</strong> Point to one exact detail from the visual, source, table, scenario, or organizer.</li><li><strong>Step 2 - Explain context.</strong> Name the place, time, audience, purpose, role, or situation that changes meaning.</li><li><strong>Step 3 - Connect to the standard.</strong> Show how the evidence fits ${esc(l.codes.join("; "))}.</li><li><strong>Step 4 - Explain reasoning.</strong> Tell why the evidence supports the claim instead of only copying the detail.</li><li><strong>Step 5 - Name a limitation.</strong> State what else you would need before making a broader conclusion.</li></ol><p><strong>Model conclusion:</strong> The evidence supports a careful claim about ${esc(l.title)} because it connects source detail, context, and perspective without treating one example as proof for everyone.</p></section>`;
+  return `<section class="box"><h2>Worked Example ${n}</h2><p><strong>Prompt:</strong> Use the ${esc(l.visual)} to analyze ${esc(l.title)} with a focus on ${focus}.</p><p><strong>Source setup:</strong> ${sourceScenario(l)}</p><ol class="steps"><li><strong>Step 1 - Identify the evidence.</strong> Point to one exact detail from the visual, source, table, scenario, or organizer. Do not begin with a general opinion.</li><li><strong>Step 2 - Explain context.</strong> Name the place, time, audience, purpose, role, or situation that changes meaning.</li><li><strong>Step 3 - Connect to the standard.</strong> Show how the evidence fits ${esc(l.codes.join("; "))}. If the answer cannot connect to the mapped standard, it does not belong in this lesson.</li><li><strong>Step 4 - Explain reasoning.</strong> Tell why the evidence supports the claim instead of only copying the detail.</li><li><strong>Step 5 - Name a limitation.</strong> State what else you would need before making a broader conclusion.</li><li><strong>Step 6 - Verify the answer.</strong> Check that the response includes evidence, context, perspective, reasoning, and limitation.</li></ol><p><strong>Model conclusion:</strong> The evidence supports a careful claim about ${esc(l.title)} because it connects source detail, context, and perspective without treating one example as proof for everyone.</p></section>`;
 }
 
 function p04(l) {
@@ -360,7 +475,7 @@ function p04(l) {
 }
 
 function p05(l) {
-  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P05`, `<h1>P05 Guided Practice</h1><section class="box"><p><strong>Assessment file:</strong> CS_U${pad(l.unit)}_L${pad(l.lesson)}_GuidedPractice.xml</p><p><strong>Question count:</strong> 5 Moodle XML questions.</p><p><strong>Standard scope:</strong> ${esc(l.codes.join("; "))}</p></section>${visualBlock(l)}<section class="box"><h2>How To Answer</h2><ol><li>Read the question and the embedded stimulus.</li><li>Identify the exact evidence detail.</li><li>Eliminate choices that stereotype, overclaim, ignore context, or use outside content.</li><li>Choose the answer that explains evidence and limitation.</li><li>Read feedback as a teachable moment before continuing.</li></ol></section>${torBox()}`);
+  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P05`, `<h1>P05 Guided Practice</h1><section class="box"><p><strong>Guided Practice:</strong> Complete the Moodle Guided Practice for this lesson.</p><p><strong>Question count:</strong> 5 Moodle XML questions.</p><p><strong>Standard scope:</strong> ${esc(l.codes.join("; "))}</p></section>${visualBlock(l)}<section class="box"><h2>How To Answer</h2><ol><li>Read the question and the embedded stimulus.</li><li>Identify the exact evidence detail.</li><li>Eliminate choices that stereotype, overclaim, ignore context, skip the visual/source support, or use outside content.</li><li>Choose the answer that explains evidence and limitation.</li><li>Read feedback as a teachable moment before continuing.</li></ol></section>${torBox()}`);
 }
 
 function p06(l) {
@@ -368,7 +483,7 @@ function p06(l) {
 }
 
 function p07(l) {
-  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P07`, `<h1>P07 Checkpoint</h1><section class="box"><h2>Teacher of Record Graded</h2><p>This checkpoint is reviewed by the Teacher of Record for mastery evidence, remediation decisions, and progress monitoring.</p></section><section class="task"><h2>Checkpoint Task</h2><p>Create a Cultural Studies Evidence Response for <strong>${esc(l.title)}</strong>.</p><ol><li>State the cultural concept or question.</li><li>Use one specific detail from the ${esc(l.visual)}.</li><li>Explain context and one perspective.</li><li>Connect the explanation to ${esc(l.codes.join("; "))}.</li><li>State one limitation or additional source needed.</li></ol></section><section class="box"><h2>Notebook Evidence Submission</h2><p>Submit your P02, P03, and P06 notebook evidence with this checkpoint response.</p></section><section class="box"><h2>Submission Workflow</h2><ol><li>Review the lesson standard and visual/source support.</li><li>Check that all five checkpoint parts are present.</li><li>Submit the checkpoint.</li><li>If remediation is required, use the feedback and meet with the Teacher of Record before another assessment attempt.</li></ol></section><section class="box"><h2>Mastery Criteria</h2><p>Mastery requires at least 80% and must show accurate evidence, mapped-standard alignment, context, perspective, and a clear limitation. Work that relies on stereotypes, missing evidence, unsupported opinion, or outside-lesson content must be corrected and resubmitted.</p></section>${torBox()}`);
+  return page(`CS_U${pad(l.unit)}_L${pad(l.lesson)} P07`, `<h1>P07 Checkpoint</h1><section class="box"><h2>Teacher of Record Graded</h2><p>This checkpoint is reviewed by the Teacher of Record for mastery evidence, remediation decisions, and progress monitoring.</p></section>${visualBlock(l)}<section class="task"><h2>Checkpoint Task</h2><p>Create a Cultural Studies Evidence Response for <strong>${esc(l.title)}</strong>.</p><ol><li>State the cultural concept or question.</li><li>Use one specific detail from the ${esc(l.visual)}.</li><li>Explain context and one perspective.</li><li>Connect the explanation to ${esc(l.codes.join("; "))}.</li><li>State one limitation or additional source needed.</li></ol></section><section class="box"><h2>Notebook Evidence Submission</h2><p>Submit your P02, P03, and P06 notebook evidence with this checkpoint response.</p></section><section class="box"><h2>Submission Workflow</h2><ol><li>Review the lesson standard and visual/source support.</li><li>Check that all five checkpoint parts are present.</li><li>Submit the checkpoint.</li><li>If remediation is required, use the feedback and meet with the Teacher of Record before another assessment attempt.</li></ol></section><section class="box"><h2>Mastery Criteria</h2><p>Mastery requires at least 80% and must show accurate evidence, mapped-standard alignment, context, perspective, and a clear limitation. Work that relies on stereotypes, missing evidence, unsupported opinion, or outside-lesson content must be corrected and resubmitted.</p></section>${torBox()}`);
 }
 
 function lessonJson(l) {
@@ -412,16 +527,17 @@ const focuses = [
 ];
 
 function stimulus(l, q) {
-  return `<div class="mla-visual content-visual"><h3>${esc(l.visual)}</h3><table><thead><tr><th>Evidence Part</th><th>Student Look-For</th></tr></thead><tbody><tr><td>Source/Visual Detail</td><td>Identify the exact evidence related to ${esc(l.title)}.</td></tr><tr><td>Context</td><td>Use place, time, audience, purpose, or community setting.</td></tr><tr><td>Perspective</td><td>Ask whose voice is centered and whose voice may be missing.</td></tr><tr><td>Limit</td><td>Do not claim more than the stimulus can prove.</td></tr></tbody></table><p><strong>Item ${q} evidence rule:</strong> Select the answer that uses evidence, explains reasoning, and stays inside ${esc(l.codes.join("; "))}.</p></div>`;
+  return `<div class="mla-visual content-visual"><h3>${esc(l.visual)}</h3><p>${sourceScenario(l)}</p><table><thead><tr><th>Evidence Part</th><th>Student Look-For</th></tr></thead><tbody><tr><td>Source/Visual Detail</td><td>Identify the exact evidence related to ${esc(l.title)}.</td></tr><tr><td>Context</td><td>Use place, time, audience, purpose, or community setting.</td></tr><tr><td>Perspective</td><td>Ask whose voice is centered and whose voice may be missing.</td></tr><tr><td>Limit</td><td>Do not claim more than the stimulus can prove.</td></tr></tbody></table><p><strong>Item ${q} evidence rule:</strong> Select the answer that uses evidence, explains reasoning, and stays inside ${esc(l.codes.join("; "))}.</p></div>`;
 }
 
 function answersFor(l, q) {
   const [focus, , correct] = focuses[(q - 1) % focuses.length];
+  const promptTag = `${l.title} item ${q}`;
   return [
     { text: correct(l), feedback: `This is correct because it uses the embedded ${l.visual}, explains ${focus}, and stays within ${l.codes.join("; ")} instead of guessing beyond the evidence.` },
-    { text: "Make a broad statement about a whole culture from one example or image.", feedback: `This is not the best answer because it overclaims. A Cultural Studies answer must keep the claim inside the evidence and context.` },
-    { text: "Choose the answer that sounds familiar but does not use the provided stimulus.", feedback: `This is not the best answer because familiar ideas cannot replace source evidence. Use the embedded visual, source, table, or scenario first.` },
-    { text: "Use a future lesson topic or outside example instead of the mapped lesson evidence.", feedback: `This is not the best answer because the assessment must stay inside the assigned lesson or unit mapping.` },
+    { text: `For ${promptTag}, make a broad claim about an entire culture from one source detail.`, feedback: `This is not the best answer because it overclaims. A Cultural Studies answer must keep the claim inside the evidence and context for ${l.title}.` },
+    { text: `For ${promptTag}, choose the familiar-sounding idea without using the embedded ${l.visual}.`, feedback: `This is not the best answer because familiar ideas cannot replace source evidence. Use the embedded visual, source, table, or scenario first.` },
+    { text: `For ${promptTag}, use an outside topic instead of the mapped lesson evidence for ${l.codes.join("; ")}.`, feedback: `This is not the best answer because the assessment must stay inside the assigned lesson or unit mapping.` },
   ];
 }
 
