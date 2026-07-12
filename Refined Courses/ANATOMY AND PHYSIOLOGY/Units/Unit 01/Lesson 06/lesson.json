@@ -1,25 +1,43 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  1,
-    "lesson":  6,
-    "title":  "Enzymes and Physiological Conditions",
-    "standards":  "MLA.ANP.ORG.03",
-    "support_standards":  "MLA.ANP.LAB.02",
-    "purpose":  "Explain enzyme function and effects of pH and temperature.",
-    "required_visual_model_data":  "Enzyme activity graph; condition comparison table",
-    "direct_resource":  {
-                            "Title":  "OpenStax Biology 2e: Enzymes",
-                            "Url":  "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
-                            "Task":  "Click the link and use the enzyme section. Observe how enzymes change reaction rate and how conditions affect function. Record substrate, active site, enzyme activity, and one condition that can reduce activity."
-                        },
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "mastery_rule":  "Student can explain the lesson standard with structure-function reasoning and visual/data evidence."
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 01",
+  "lesson": "Lesson 06",
+  "title": "Enzymes and Physiological Conditions",
+  "standards": [
+    "MLA.ANP.ORG.03",
+    "MLA.ANP.LAB.02"
+  ],
+  "support_standards": "MLA.ANP.LAB.02",
+  "purpose": "Explain enzyme function and effects of pH and temperature.",
+  "required_visual_model_data": "Enzyme activity graph; condition comparison table",
+  "direct_resource": {
+    "Title": "OpenStax Biology 2e: Enzymes",
+    "Url": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+    "Task": "Click the link and use the enzyme section. Observe how enzymes change reaction rate and how conditions affect function. Record substrate, active site, enzyme activity, and one condition that can reduce activity."
+  },
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "mastery_rule": "Student can explain the lesson standard with structure-function reasoning and visual/data evidence.",
+  "lessonTitle": "Enzymes and Physiological Conditions",
+  "primaryStandards": [
+    "MLA.ANP.ORG.03",
+    "MLA.ANP.LAB.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "OpenStax Biology 2e: Enzymes",
+      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/6-5-enzymes",
+      "studentTask": "Click the link and use the enzyme section. Observe how enzymes change reaction rate and how conditions affect function. Record substrate, active site, enzyme activity, and one condition that can reduce activity."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ANP_U01_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ANP_U01_L06_Quiz_MoodleXML.xml"
 }

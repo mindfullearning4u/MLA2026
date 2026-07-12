@@ -1,12 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text><![CDATA[$course$/Chemistry/Unit 03/Lesson 08/Guided Practice]]></text></category>
+    <category>
+      <text>$course$/Chemistry/Unit 03/Lesson 08/Guided Practice</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L08_GP Q01 - Putting It All Together]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Model</th><th>Formula/composition clue</th><th>Property clue</th></tr><tr><td>NaCl</td><td>ionic lattice</td><td>1:1 ion ratio</td><td>high melting, brittle</td></tr><tr><td>H2O</td><td>covalent molecule with hydrogen bonding between molecules</td><td>2 H and 1 O</td><td>higher boiling point than expected</td></tr><tr><td>Cu</td><td>metallic lattice</td><td>metal atoms with mobile electrons</td><td>conductive, malleable</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L08_GP Q01 - Putting It All Together</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Formula/composition clue&lt;/th&gt;&lt;th&gt;Property clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic lattice&lt;/td&gt;&lt;td&gt;1:1 ion ratio&lt;/td&gt;&lt;td&gt;high melting, brittle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;covalent molecule with hydrogen bonding between molecules&lt;/td&gt;&lt;td&gt;2 H and 1 O&lt;/td&gt;&lt;td&gt;higher boiling point than expected&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cu&lt;/td&gt;&lt;td&gt;metallic lattice&lt;/td&gt;&lt;td&gt;metal atoms with mobile electrons&lt;/td&gt;&lt;td&gt;conductive, malleable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -14,23 +22,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Copper properties are supported by the metallic model with mobile electrons.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus requires combining structure, formula or composition, and property evidence for a complete Unit 3 explanation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl is best explained as separate covalent molecules with shared electron pairs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Copper is conductive because it has hydrogen bonding between molecules.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Formula evidence and property evidence should not be used together.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
+      <text>Copper properties are supported by the metallic model with mobile electrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03, 'Copper properties are supported by the metallic model with mobile electrons.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl is best explained as separate covalent molecules with shared electron pairs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'NaCl is best explained as separate covalent molecules with shared electron pairs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Copper properties are supported by the metallic model with mobile electrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Copper is conductive because it has hydrogen bonding between molecules.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Copper is conductive because it has hydrogen bonding between molecules.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Copper properties are supported by the metallic model with mobile electrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Formula evidence and property evidence should not be used together.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Formula evidence and property evidence should not be used together.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Copper properties are supported by the metallic model with mobile electrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L08_GP Q02 - Putting It All Together]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Model</th><th>Formula/composition clue</th><th>Property clue</th></tr><tr><td>NaCl</td><td>ionic lattice</td><td>1:1 ion ratio</td><td>high melting, brittle</td></tr><tr><td>H2O</td><td>covalent molecule with hydrogen bonding between molecules</td><td>2 H and 1 O</td><td>higher boiling point than expected</td></tr><tr><td>Cu</td><td>metallic lattice</td><td>metal atoms with mobile electrons</td><td>conductive, malleable</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L08_GP Q02 - Putting It All Together</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Formula/composition clue&lt;/th&gt;&lt;th&gt;Property clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic lattice&lt;/td&gt;&lt;td&gt;1:1 ion ratio&lt;/td&gt;&lt;td&gt;high melting, brittle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;covalent molecule with hydrogen bonding between molecules&lt;/td&gt;&lt;td&gt;2 H and 1 O&lt;/td&gt;&lt;td&gt;higher boiling point than expected&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cu&lt;/td&gt;&lt;td&gt;metallic lattice&lt;/td&gt;&lt;td&gt;metal atoms with mobile electrons&lt;/td&gt;&lt;td&gt;conductive, malleable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -38,23 +63,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Copper is conductive because it has hydrogen bonding between molecules.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Formula evidence and property evidence should not be used together.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A complete explanation only needs the name of the bond type.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A complete explanation connects model, formula or composition, and property evidence.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus requires combining structure, formula or composition, and property evidence for a complete Unit 3 explanation.]]></text></feedback>
+      <text>Formula evidence and property evidence should not be used together.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Formula evidence and property evidence should not be used together.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A complete explanation connects model, formula or composition, and property evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A complete explanation only needs the name of the bond type.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'A complete explanation only needs the name of the bond type.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A complete explanation connects model, formula or composition, and property evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A complete explanation connects model, formula or composition, and property evidence.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03, 'A complete explanation connects model, formula or composition, and property evidence.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Copper is conductive because it has hydrogen bonding between molecules.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Copper is conductive because it has hydrogen bonding between molecules.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A complete explanation connects model, formula or composition, and property evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L08_GP Q03 - Putting It All Together]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Model</th><th>Formula/composition clue</th><th>Property clue</th></tr><tr><td>NaCl</td><td>ionic lattice</td><td>1:1 ion ratio</td><td>high melting, brittle</td></tr><tr><td>H2O</td><td>covalent molecule with hydrogen bonding between molecules</td><td>2 H and 1 O</td><td>higher boiling point than expected</td></tr><tr><td>Cu</td><td>metallic lattice</td><td>metal atoms with mobile electrons</td><td>conductive, malleable</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L08_GP Q03 - Putting It All Together</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Formula/composition clue&lt;/th&gt;&lt;th&gt;Property clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic lattice&lt;/td&gt;&lt;td&gt;1:1 ion ratio&lt;/td&gt;&lt;td&gt;high melting, brittle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;covalent molecule with hydrogen bonding between molecules&lt;/td&gt;&lt;td&gt;2 H and 1 O&lt;/td&gt;&lt;td&gt;higher boiling point than expected&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cu&lt;/td&gt;&lt;td&gt;metallic lattice&lt;/td&gt;&lt;td&gt;metal atoms with mobile electrons&lt;/td&gt;&lt;td&gt;conductive, malleable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -62,23 +104,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Formula evidence and property evidence should not be used together.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[NaCl is best explained with an ionic lattice model and a 1:1 ion ratio.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus requires combining structure, formula or composition, and property evidence for a complete Unit 3 explanation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A complete explanation only needs the name of the bond type.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl is best explained as separate covalent molecules with shared electron pairs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
+      <text>Formula evidence and property evidence should not be used together.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Formula evidence and property evidence should not be used together.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'NaCl is best explained with an ionic lattice model and a 1:1 ion ratio.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>NaCl is best explained with an ionic lattice model and a 1:1 ion ratio.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03, 'NaCl is best explained with an ionic lattice model and a 1:1 ion ratio.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A complete explanation only needs the name of the bond type.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'A complete explanation only needs the name of the bond type.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'NaCl is best explained with an ionic lattice model and a 1:1 ion ratio.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl is best explained as separate covalent molecules with shared electron pairs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'NaCl is best explained as separate covalent molecules with shared electron pairs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'NaCl is best explained with an ionic lattice model and a 1:1 ion ratio.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L08_GP Q04 - Putting It All Together]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Model</th><th>Formula/composition clue</th><th>Property clue</th></tr><tr><td>NaCl</td><td>ionic lattice</td><td>1:1 ion ratio</td><td>high melting, brittle</td></tr><tr><td>H2O</td><td>covalent molecule with hydrogen bonding between molecules</td><td>2 H and 1 O</td><td>higher boiling point than expected</td></tr><tr><td>Cu</td><td>metallic lattice</td><td>metal atoms with mobile electrons</td><td>conductive, malleable</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Unit synthesis table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L08_GP Q04 - Putting It All Together</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Formula/composition clue&lt;/th&gt;&lt;th&gt;Property clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic lattice&lt;/td&gt;&lt;td&gt;1:1 ion ratio&lt;/td&gt;&lt;td&gt;high melting, brittle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;covalent molecule with hydrogen bonding between molecules&lt;/td&gt;&lt;td&gt;2 H and 1 O&lt;/td&gt;&lt;td&gt;higher boiling point than expected&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cu&lt;/td&gt;&lt;td&gt;metallic lattice&lt;/td&gt;&lt;td&gt;metal atoms with mobile electrons&lt;/td&gt;&lt;td&gt;conductive, malleable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Unit synthesis table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -86,44 +145,69 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A complete explanation only needs the name of the bond type.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl is best explained as separate covalent molecules with shared electron pairs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Copper properties are supported by the metallic model with mobile electrons.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus requires combining structure, formula or composition, and property evidence for a complete Unit 3 explanation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Copper is conductive because it has hydrogen bonding between molecules.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
+      <text>Copper is conductive because it has hydrogen bonding between molecules.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Copper is conductive because it has hydrogen bonding between molecules.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Copper properties are supported by the metallic model with mobile electrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A complete explanation only needs the name of the bond type.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'A complete explanation only needs the name of the bond type.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Copper properties are supported by the metallic model with mobile electrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl is best explained as separate covalent molecules with shared electron pairs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'NaCl is best explained as separate covalent molecules with shared electron pairs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Copper properties are supported by the metallic model with mobile electrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Copper properties are supported by the metallic model with mobile electrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03, 'Copper properties are supported by the metallic model with mobile electrons.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L08_GP Q05 - Putting It All Together]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Model</th><th>Formula/composition clue</th><th>Property clue</th></tr><tr><td>NaCl</td><td>ionic lattice</td><td>1:1 ion ratio</td><td>high melting, brittle</td></tr><tr><td>H2O</td><td>covalent molecule with hydrogen bonding between molecules</td><td>2 H and 1 O</td><td>higher boiling point than expected</td></tr><tr><td>Cu</td><td>metallic lattice</td><td>metal atoms with mobile electrons</td><td>conductive, malleable</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L08_GP Q05 - Putting It All Together</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Formula/composition clue&lt;/th&gt;&lt;th&gt;Property clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic lattice&lt;/td&gt;&lt;td&gt;1:1 ion ratio&lt;/td&gt;&lt;td&gt;high melting, brittle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;covalent molecule with hydrogen bonding between molecules&lt;/td&gt;&lt;td&gt;2 H and 1 O&lt;/td&gt;&lt;td&gt;higher boiling point than expected&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cu&lt;/td&gt;&lt;td&gt;metallic lattice&lt;/td&gt;&lt;td&gt;metal atoms with mobile electrons&lt;/td&gt;&lt;td&gt;conductive, malleable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
+    <answer fraction="100" format="html">
+      <text>A complete explanation connects model, formula or composition, and property evidence.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03, 'A complete explanation connects model, formula or composition, and property evidence.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl is best explained as separate covalent molecules with shared electron pairs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A complete explanation connects model, formula or composition, and property evidence.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus requires combining structure, formula or composition, and property evidence for a complete Unit 3 explanation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Copper is conductive because it has hydrogen bonding between molecules.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Formula evidence and property evidence should not be used together.]]></text>
-      <feedback format="html"><text><![CDATA[This choice leaves out evidence or applies the wrong bonding model to the substance.]]></text></feedback>
+      <text>Formula evidence and property evidence should not be used together.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Formula evidence and property evidence should not be used together.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A complete explanation connects model, formula or composition, and property evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl is best explained as separate covalent molecules with shared electron pairs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'NaCl is best explained as separate covalent molecules with shared electron pairs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A complete explanation connects model, formula or composition, and property evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Copper is conductive because it has hydrogen bonding between molecules.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02; MLA.CHEM.BON.03. 'Copper is conductive because it has hydrogen bonding between molecules.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A complete explanation connects model, formula or composition, and property evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
 </quiz>
-
-
-

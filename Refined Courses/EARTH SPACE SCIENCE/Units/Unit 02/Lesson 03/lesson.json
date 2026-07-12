@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  2,
-    "lesson":  3,
-    "title":  "Plate Tectonics Theory",
-    "standards":  "MLA.ESS.EAR.03",
-    "required_visual_model_data":  "plate map, boundary diagram, and evidence table",
-    "direct_resource":  {
-                            "url":  "https://www.usgs.gov/programs/VHP/plate-tectonics",
-                            "title":  "USGS Plate Tectonics"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 02",
+  "lesson": "Lesson 03",
+  "title": "Plate Tectonics Theory",
+  "standards": [
+    "MLA.ESS.EAR.03",
+    "MLA.ESS.SCI.03"
+  ],
+  "required_visual_model_data": "plate map, boundary diagram, and evidence table",
+  "direct_resource": {
+    "url": "https://www.usgs.gov/programs/VHP/plate-tectonics",
+    "title": "USGS Plate Tectonics"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Plate Tectonics Theory",
+  "primaryStandards": [
+    "MLA.ESS.EAR.03",
+    "MLA.ESS.SCI.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "USGS Plate Tectonics",
+      "exactDirectUrl": "https://www.usgs.gov/programs/VHP/plate-tectonics",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U02_L03_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U02_L03_Quiz_MoodleXML.xml"
 }

@@ -1,24 +1,43 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  1,
-    "lesson":  1,
-    "title":  "Earth/Space Science as Evidence",
-    "standards":  "MLA.ESS.SCI.01; MLA.ESS.SCI.02",
-    "required_visual_model_data":  "CER organizer, source reliability checklist, and Earth image evidence table",
-    "direct_resource":  {
-                            "record":  "one direct observation, one inference, one source detail, and one claim that the evidence can support",
-                            "title":  "NASA Earth Observatory: A Walk Through Time",
-                            "url":  "https://earthobservatory.nasa.gov/features/BlueMarble",
-                            "observe":  "the image caption, source organization, and what can be directly seen versus inferred"
-                        },
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "rigor_status":  "Unit 1 rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 01",
+  "lesson": "Lesson 01",
+  "title": "Earth/Space Science as Evidence",
+  "standards": [
+    "MLA.ESS.SCI.01",
+    "MLA.ESS.SCI.02"
+  ],
+  "required_visual_model_data": "CER organizer, source reliability checklist, and Earth image evidence table",
+  "direct_resource": {
+    "record": "one direct observation, one inference, one source detail, and one claim that the evidence can support",
+    "title": "NASA Earth Observatory: A Walk Through Time",
+    "url": "https://earthobservatory.nasa.gov/features/BlueMarble",
+    "observe": "the image caption, source organization, and what can be directly seen versus inferred"
+  },
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "rigor_status": "Unit 1 rigorous rebuild completed",
+  "lessonTitle": "Earth/Space Science as Evidence",
+  "primaryStandards": [
+    "MLA.ESS.SCI.01",
+    "MLA.ESS.SCI.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Earth Observatory: A Walk Through Time",
+      "exactDirectUrl": "https://earthobservatory.nasa.gov/features/BlueMarble",
+      "studentTask": "one direct observation, one inference, one source detail, and one claim that the evidence can support",
+      "observe": "the image caption, source organization, and what can be directly seen versus inferred"
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U01_L01_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U01_L01_Quiz_MoodleXML.xml"
 }

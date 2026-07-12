@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U02_L04_GP_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L04_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Element</th><th>Atomic number</th><th>Simple electron arrangement</th></tr><tr><td>Lithium</td><td>3</td><td>2, 1</td></tr><tr><td>Carbon</td><td>6</td><td>2, 4</td></tr><tr><td>Sodium</td><td>11</td><td>2, 8, 1</td></tr></table><p><strong>Question:</strong> How many valence electrons does sodium have in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L04_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Element&lt;/th&gt;&lt;th&gt;Atomic number&lt;/th&gt;&lt;th&gt;Simple electron arrangement&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lithium&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2, 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2, 4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sodium&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;2, 8, 1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How many valence electrons does sodium have in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -19,31 +19,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[11]]></text>
+      <text>2</text>
       <feedback format="html">
-        <text><![CDATA[11 is the total electron count for neutral sodium.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '2' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '1', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[8]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>11</text>
       <feedback format="html">
-        <text><![CDATA[8 is the second level, not the outer level.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '11' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '1', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[1]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>8</text>
       <feedback format="html">
-        <text><![CDATA[The outer level in 2, 8, 1 has 1 electron.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '8' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '1', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[2]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>1</text>
       <feedback format="html">
-        <text><![CDATA[2 is the first level.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, '1' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L04_GP_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L04_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Element</th><th>Atomic number</th><th>Simple electron arrangement</th></tr><tr><td>Lithium</td><td>3</td><td>2, 1</td></tr><tr><td>Carbon</td><td>6</td><td>2, 4</td></tr><tr><td>Sodium</td><td>11</td><td>2, 8, 1</td></tr></table><p><strong>Question:</strong> Which two elements in the table have similar valence patterns?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L04_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Element&lt;/th&gt;&lt;th&gt;Atomic number&lt;/th&gt;&lt;th&gt;Simple electron arrangement&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lithium&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2, 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2, 4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sodium&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;2, 8, 1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which two elements in the table have similar valence patterns?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Lithium and carbon]]></text>
+      <text>Lithium and carbon</text>
       <feedback format="html">
-        <text><![CDATA[Carbon has 4 outer electrons, not like lithium.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Lithium and carbon' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Lithium and sodium', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Lithium and sodium]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Lithium and sodium</text>
       <feedback format="html">
-        <text><![CDATA[Lithium and sodium each have 1 outer electron.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'Lithium and sodium' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Carbon and sodium]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Carbon and sodium</text>
       <feedback format="html">
-        <text><![CDATA[Sodium has 1 and carbon has 4 outer electrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Carbon and sodium' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Lithium and sodium', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All three have four valence electrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All three have four valence electrons</text>
       <feedback format="html">
-        <text><![CDATA[Only carbon has 4 in the table.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'All three have four valence electrons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Lithium and sodium', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L04_GP_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L04_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Element</th><th>Atomic number</th><th>Simple electron arrangement</th></tr><tr><td>Lithium</td><td>3</td><td>2, 1</td></tr><tr><td>Carbon</td><td>6</td><td>2, 4</td></tr><tr><td>Sodium</td><td>11</td><td>2, 8, 1</td></tr></table><p><strong>Question:</strong> What does the period relate to in the simple model?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L04_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Element&lt;/th&gt;&lt;th&gt;Atomic number&lt;/th&gt;&lt;th&gt;Simple electron arrangement&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lithium&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2, 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2, 4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sodium&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;2, 8, 1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What does the period relate to in the simple model?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -85,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Number of neutrons]]></text>
+      <text>Mass number only</text>
       <feedback format="html">
-        <text><![CDATA[Neutrons relate to isotopes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Mass number only' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Number of occupied energy levels', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass number only]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Number of photons emitted</text>
       <feedback format="html">
-        <text><![CDATA[Mass number is protons plus neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Number of photons emitted' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Number of occupied energy levels', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Number of photons emitted]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Number of occupied energy levels</text>
       <feedback format="html">
-        <text><![CDATA[Photons relate to energy transitions.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'Number of occupied energy levels' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Number of occupied energy levels]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Number of neutrons</text>
       <feedback format="html">
-        <text><![CDATA[Periods connect to occupied energy levels in this simplified model.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Number of neutrons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Number of occupied energy levels', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L04_GP_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L04_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Element</th><th>Atomic number</th><th>Simple electron arrangement</th></tr><tr><td>Lithium</td><td>3</td><td>2, 1</td></tr><tr><td>Carbon</td><td>6</td><td>2, 4</td></tr><tr><td>Sodium</td><td>11</td><td>2, 8, 1</td></tr></table><p><strong>Question:</strong> A neutral atom has atomic number 6. How many electrons does it have?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L04_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Element&lt;/th&gt;&lt;th&gt;Atomic number&lt;/th&gt;&lt;th&gt;Simple electron arrangement&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lithium&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2, 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2, 4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sodium&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;2, 8, 1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; A neutral atom has atomic number 6. How many electrons does it have?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -118,31 +133,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[6]]></text>
+      <text>6</text>
       <feedback format="html">
-        <text><![CDATA[Neutral atoms have electrons equal protons, and atomic number is protons.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, '6' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[12]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>12</text>
       <feedback format="html">
-        <text><![CDATA[12 may be a mass number, not electron count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '12' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '6', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[4]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4</text>
       <feedback format="html">
-        <text><![CDATA[4 is carbon's valence count, not total electrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '4' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '6', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[2]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2</text>
       <feedback format="html">
-        <text><![CDATA[2 is the first energy level count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '2' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '6', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L04_GP_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L04_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Element</th><th>Atomic number</th><th>Simple electron arrangement</th></tr><tr><td>Lithium</td><td>3</td><td>2, 1</td></tr><tr><td>Carbon</td><td>6</td><td>2, 4</td></tr><tr><td>Sodium</td><td>11</td><td>2, 8, 1</td></tr></table><p><strong>Question:</strong> Why do group patterns matter?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L04_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Element&lt;/th&gt;&lt;th&gt;Atomic number&lt;/th&gt;&lt;th&gt;Simple electron arrangement&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lithium&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2, 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2, 4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sodium&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;2, 8, 1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why do group patterns matter?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,26 +171,28 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Groups list isotopes only.]]></text>
+      <text>Groups are random columns.</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes are not the purpose of groups.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Groups are random columns.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Elements in a group often have similar valence electron patterns.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Elements in a group often have similar valence electron patterns.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Groups show only mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Valence electron patterns help explain similar behavior.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Groups show only mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Elements in a group often have similar valence electron patterns.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Groups are random columns.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Elements in a group often have similar valence electron patterns.</text>
       <feedback format="html">
-        <text><![CDATA[Periodic table columns are not random.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'Elements in a group often have similar valence electron patterns.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Groups show only mass number.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Groups list isotopes only.</text>
       <feedback format="html">
-        <text><![CDATA[Mass number is not what group position mainly shows.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Groups list isotopes only.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Elements in a group often have similar valence electron patterns.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
+    </answer>
+  </question>
+</quiz>

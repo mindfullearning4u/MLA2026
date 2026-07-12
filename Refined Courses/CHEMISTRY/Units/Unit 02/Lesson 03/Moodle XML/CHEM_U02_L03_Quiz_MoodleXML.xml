@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U02_L03_QZ_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Question:</strong> Why are chlorine-35 and chlorine-37 isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why are chlorine-35 and chlorine-37 isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -19,31 +19,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[They have different protons.]]></text>
+      <text>They have different protons.</text>
       <feedback format="html">
-        <text><![CDATA[Different protons would mean different elements.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have different protons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have the same mass number.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have the same mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Their mass numbers differ: 35 and 37.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have the same mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[They have the same number of protons but different neutrons.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>They have the same number of protons but different neutrons.</text>
       <feedback format="html">
-        <text><![CDATA[Same protons means same element; different neutrons make isotopes.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'They have the same number of protons but different neutrons.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have no electrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have no electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons are not absent in neutral chlorine atoms.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have no electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Question:</strong> How many neutrons are in chlorine-37?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How many neutrons are in chlorine-37?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -51,32 +56,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>17</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[20]]></text>
+      <text>20</text>
       <feedback format="html">
-        <text><![CDATA[Neutrons = mass number - protons = 37 - 17 = 20.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '20' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>37</text>
       <feedback format="html">
-        <text><![CDATA[17 is the proton number.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[37]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>54</text>
       <feedback format="html">
-        <text><![CDATA[37 is the mass number, not neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '54' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[54]]></text>
-      <feedback format="html">
-        <text><![CDATA[54 adds mass number and protons incorrectly.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Question:</strong> Why is chlorine's average atomic mass closer to 35 than 37 in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is chlorine's average atomic mass closer to 35 than 37 in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -85,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Chlorine-37 has more neutrons.]]></text>
+      <text>Chlorine-37 has more neutrons.</text>
       <feedback format="html">
-        <text><![CDATA[More neutrons does not control closeness by itself.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Chlorine-37 has more neutrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both isotopes have electrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Both isotopes have electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons do not explain weighted average mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Both isotopes have electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The average ignores abundance.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The average ignores abundance.</text>
       <feedback format="html">
-        <text><![CDATA[Average atomic mass uses abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'The average ignores abundance.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine-35 is more abundant.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Chlorine-35 is more abundant.</text>
       <feedback format="html">
-        <text><![CDATA[The more abundant isotope pulls the weighted average closer to its mass.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Chlorine-35 is more abundant.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Question:</strong> What is the weighted-average setup for the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the weighted-average setup for the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -117,32 +132,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>35(0.75) + 37(0.25)</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '35(0.75) + 37(0.25)' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[35 + 37]]></text>
+      <text>75 + 25</text>
       <feedback format="html">
-        <text><![CDATA[A simple average ignores abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '75 + 25' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17(35) + 17(37)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>35 + 37</text>
       <feedback format="html">
-        <text><![CDATA[Multiplying protons by masses is not the method.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '35 + 37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[35(0.75) + 37(0.25)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>17(35) + 17(37)</text>
       <feedback format="html">
-        <text><![CDATA[Convert percent abundance to decimals and multiply by isotope mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17(35) + 17(37)' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[75 + 25]]></text>
-      <feedback format="html">
-        <text><![CDATA[75 + 25 only checks percent total.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Question:</strong> What particle count changes between isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What particle count changes between isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,31 +171,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Protons]]></text>
+      <text>Element identity</text>
       <feedback format="html">
-        <text><![CDATA[Protons stay the same for the same element.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Element identity' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Neutrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Protons</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes differ by neutron count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atomic number]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atomic number</text>
       <feedback format="html">
-        <text><![CDATA[Atomic number equals protons and stays the same.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Element identity]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Neutrons</text>
       <feedback format="html">
-        <text><![CDATA[Element identity stays the same.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Neutrons' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q06</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q06</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why are chlorine-35 and chlorine-37 isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why are chlorine-35 and chlorine-37 isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -183,32 +208,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>They have the same number of protons but different neutrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'They have the same number of protons but different neutrons.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[They have different protons.]]></text>
+      <text>They have no electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Different protons would mean different elements.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have no electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have the same mass number.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have different protons.</text>
       <feedback format="html">
-        <text><![CDATA[Their mass numbers differ: 35 and 37.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have different protons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have no electrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have the same mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons are not absent in neutral chlorine atoms.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have the same mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[They have the same number of protons but different neutrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Same protons means same element; different neutrons make isotopes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q07</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q07</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> How many neutrons are in chlorine-37?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How many neutrons are in chlorine-37?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -216,32 +246,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>17</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[20]]></text>
+      <text>20</text>
       <feedback format="html">
-        <text><![CDATA[Neutrons = mass number - protons = 37 - 17 = 20.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '20' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>37</text>
       <feedback format="html">
-        <text><![CDATA[17 is the proton number.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[37]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>54</text>
       <feedback format="html">
-        <text><![CDATA[37 is the mass number, not neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '54' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[54]]></text>
-      <feedback format="html">
-        <text><![CDATA[54 adds mass number and protons incorrectly.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q08</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q08</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why is chlorine's average atomic mass closer to 35 than 37 in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is chlorine's average atomic mass closer to 35 than 37 in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -250,31 +285,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Chlorine-37 has more neutrons.]]></text>
+      <text>Both isotopes have electrons.</text>
       <feedback format="html">
-        <text><![CDATA[More neutrons does not control closeness by itself.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Both isotopes have electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine-35 is more abundant.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The average ignores abundance.</text>
       <feedback format="html">
-        <text><![CDATA[The more abundant isotope pulls the weighted average closer to its mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'The average ignores abundance.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both isotopes have electrons.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Chlorine-35 is more abundant.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons do not explain weighted average mass.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Chlorine-35 is more abundant.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The average ignores abundance.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Chlorine-37 has more neutrons.</text>
       <feedback format="html">
-        <text><![CDATA[Average atomic mass uses abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Chlorine-37 has more neutrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q09</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q09</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What is the weighted-average setup for the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the weighted-average setup for the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -283,31 +323,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[35 + 37]]></text>
+      <text>75 + 25</text>
       <feedback format="html">
-        <text><![CDATA[A simple average ignores abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '75 + 25' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17(35) + 17(37)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>35 + 37</text>
       <feedback format="html">
-        <text><![CDATA[Multiplying protons by masses is not the method.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '35 + 37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[35(0.75) + 37(0.25)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>17(35) + 17(37)</text>
       <feedback format="html">
-        <text><![CDATA[Convert percent abundance to decimals and multiply by isotope mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17(35) + 17(37)' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[75 + 25]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>35(0.75) + 37(0.25)</text>
       <feedback format="html">
-        <text><![CDATA[75 + 25 only checks percent total.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '35(0.75) + 37(0.25)' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q10</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q10</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What particle count changes between isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What particle count changes between isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -316,31 +361,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Neutrons]]></text>
+      <text>Neutrons</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes differ by neutron count.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Neutrons' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Protons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Protons</text>
       <feedback format="html">
-        <text><![CDATA[Protons stay the same for the same element.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atomic number]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atomic number</text>
       <feedback format="html">
-        <text><![CDATA[Atomic number equals protons and stays the same.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Element identity]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Element identity</text>
       <feedback format="html">
-        <text><![CDATA[Element identity stays the same.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Element identity' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q11</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q11</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why are chlorine-35 and chlorine-37 isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why are chlorine-35 and chlorine-37 isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -349,31 +399,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[They have different protons.]]></text>
+      <text>They have the same mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Different protons would mean different elements.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have the same mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have the same mass number.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have no electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Their mass numbers differ: 35 and 37.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have no electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have no electrons.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>They have the same number of protons but different neutrons.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons are not absent in neutral chlorine atoms.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'They have the same number of protons but different neutrons.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[They have the same number of protons but different neutrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have different protons.</text>
       <feedback format="html">
-        <text><![CDATA[Same protons means same element; different neutrons make isotopes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have different protons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q12</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q12</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> How many neutrons are in chlorine-37?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How many neutrons are in chlorine-37?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -382,31 +437,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[17]]></text>
+      <text>17</text>
       <feedback format="html">
-        <text><![CDATA[17 is the proton number.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[20]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>20</text>
       <feedback format="html">
-        <text><![CDATA[Neutrons = mass number - protons = 37 - 17 = 20.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '20' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[37]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>37</text>
       <feedback format="html">
-        <text><![CDATA[37 is the mass number, not neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[54]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>54</text>
       <feedback format="html">
-        <text><![CDATA[54 adds mass number and protons incorrectly.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '54' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q13</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q13</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why is chlorine's average atomic mass closer to 35 than 37 in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is chlorine's average atomic mass closer to 35 than 37 in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -414,32 +474,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The average ignores abundance.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'The average ignores abundance.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Chlorine-37 has more neutrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Chlorine-37 has more neutrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Both isotopes have electrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Both isotopes have electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine-35 is more abundant.]]></text>
+      <text>Chlorine-35 is more abundant.</text>
       <feedback format="html">
-        <text><![CDATA[The more abundant isotope pulls the weighted average closer to its mass.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Chlorine-35 is more abundant.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Chlorine-37 has more neutrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[More neutrons does not control closeness by itself.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both isotopes have electrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Electrons do not explain weighted average mass.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The average ignores abundance.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Average atomic mass uses abundance.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q14</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q14</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What is the weighted-average setup for the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the weighted-average setup for the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -448,31 +513,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[35 + 37]]></text>
+      <text>35 + 37</text>
       <feedback format="html">
-        <text><![CDATA[A simple average ignores abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '35 + 37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17(35) + 17(37)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>17(35) + 17(37)</text>
       <feedback format="html">
-        <text><![CDATA[Multiplying protons by masses is not the method.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17(35) + 17(37)' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[35(0.75) + 37(0.25)]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>35(0.75) + 37(0.25)</text>
       <feedback format="html">
-        <text><![CDATA[Convert percent abundance to decimals and multiply by isotope mass.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '35(0.75) + 37(0.25)' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[75 + 25]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>75 + 25</text>
       <feedback format="html">
-        <text><![CDATA[75 + 25 only checks percent total.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '75 + 25' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q15</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q15</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What particle count changes between isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What particle count changes between isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -481,31 +551,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Protons]]></text>
+      <text>Protons</text>
       <feedback format="html">
-        <text><![CDATA[Protons stay the same for the same element.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atomic number]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Neutrons</text>
       <feedback format="html">
-        <text><![CDATA[Atomic number equals protons and stays the same.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Neutrons' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Element identity]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atomic number</text>
       <feedback format="html">
-        <text><![CDATA[Element identity stays the same.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Neutrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Element identity</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes differ by neutron count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Element identity' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q16</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q16</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why are chlorine-35 and chlorine-37 isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why are chlorine-35 and chlorine-37 isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -513,32 +588,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>They have the same number of protons but different neutrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'They have the same number of protons but different neutrons.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[They have different protons.]]></text>
+      <text>They have no electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Different protons would mean different elements.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have no electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[They have the same number of protons but different neutrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have different protons.</text>
       <feedback format="html">
-        <text><![CDATA[Same protons means same element; different neutrons make isotopes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have different protons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have the same mass number.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have the same mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Their mass numbers differ: 35 and 37.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have the same mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have no electrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Electrons are not absent in neutral chlorine atoms.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q17</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q17</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> How many neutrons are in chlorine-37?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How many neutrons are in chlorine-37?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -547,31 +627,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[17]]></text>
+      <text>54</text>
       <feedback format="html">
-        <text><![CDATA[17 is the proton number.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '54' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[37]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>17</text>
       <feedback format="html">
-        <text><![CDATA[37 is the mass number, not neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[20]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>37</text>
       <feedback format="html">
-        <text><![CDATA[Neutrons = mass number - protons = 37 - 17 = 20.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[54]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>20</text>
       <feedback format="html">
-        <text><![CDATA[54 adds mass number and protons incorrectly.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '20' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q18</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q18</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why is chlorine's average atomic mass closer to 35 than 37 in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is chlorine's average atomic mass closer to 35 than 37 in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -579,32 +664,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Chlorine-37 has more neutrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Chlorine-37 has more neutrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine-35 is more abundant.]]></text>
+      <text>Chlorine-35 is more abundant.</text>
       <feedback format="html">
-        <text><![CDATA[The more abundant isotope pulls the weighted average closer to its mass.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Chlorine-35 is more abundant.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Chlorine-37 has more neutrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Both isotopes have electrons.</text>
       <feedback format="html">
-        <text><![CDATA[More neutrons does not control closeness by itself.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Both isotopes have electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both isotopes have electrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The average ignores abundance.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons do not explain weighted average mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'The average ignores abundance.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The average ignores abundance.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Average atomic mass uses abundance.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q19</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q19</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What is the weighted-average setup for the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the weighted-average setup for the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -613,97 +703,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[35 + 37]]></text>
+      <text>17(35) + 17(37)</text>
       <feedback format="html">
-        <text><![CDATA[A simple average ignores abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17(35) + 17(37)' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[35(0.75) + 37(0.25)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>75 + 25</text>
       <feedback format="html">
-        <text><![CDATA[Convert percent abundance to decimals and multiply by isotope mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '75 + 25' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17(35) + 17(37)]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>35(0.75) + 37(0.25)</text>
       <feedback format="html">
-        <text><![CDATA[Multiplying protons by masses is not the method.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '35(0.75) + 37(0.25)' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[75 + 25]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>35 + 37</text>
       <feedback format="html">
-        <text><![CDATA[75 + 25 only checks percent total.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '35 + 37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q20</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q20</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What particle count changes between isotopes of the same element?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Protons]]></text>
-      <feedback format="html">
-        <text><![CDATA[Protons stay the same for the same element.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atomic number]]></text>
-      <feedback format="html">
-        <text><![CDATA[Atomic number equals protons and stays the same.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Element identity]]></text>
-      <feedback format="html">
-        <text><![CDATA[Element identity stays the same.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Neutrons]]></text>
-      <feedback format="html">
-        <text><![CDATA[Isotopes differ by neutron count.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U02_L03_QZ_Q21</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q21</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why are chlorine-35 and chlorine-37 isotopes of the same element?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They have different protons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Different protons would mean different elements.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have the same mass number.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Their mass numbers differ: 35 and 37.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[They have the same number of protons but different neutrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Same protons means same element; different neutrons make isotopes.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They have no electrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Electrons are not absent in neutral chlorine atoms.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U02_L03_QZ_Q22</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q22</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> How many neutrons are in chlorine-37?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What particle count changes between isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -712,31 +741,112 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[20]]></text>
+      <text>Neutrons</text>
       <feedback format="html">
-        <text><![CDATA[Neutrons = mass number - protons = 37 - 17 = 20.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Neutrons' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Element identity</text>
       <feedback format="html">
-        <text><![CDATA[17 is the proton number.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Element identity' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[37]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Protons</text>
       <feedback format="html">
-        <text><![CDATA[37 is the mass number, not neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[54]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atomic number</text>
       <feedback format="html">
-        <text><![CDATA[54 adds mass number and protons incorrectly.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U02_L03_QZ_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why are chlorine-35 and chlorine-37 isotopes of the same element?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>They have different protons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have different protons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>They have the same number of protons but different neutrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'They have the same number of protons but different neutrons.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have the same mass number.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have the same mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They have no electrons.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'They have no electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'They have the same number of protons but different neutrons.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U02_L03_QZ_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How many neutrons are in chlorine-37?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>20</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '20' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>17</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>37</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>54</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '54' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '20', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q23</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q23</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> Why is chlorine's average atomic mass closer to 35 than 37 in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is chlorine's average atomic mass closer to 35 than 37 in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -745,31 +855,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Chlorine-37 has more neutrons.]]></text>
+      <text>Chlorine-37 has more neutrons.</text>
       <feedback format="html">
-        <text><![CDATA[More neutrons does not control closeness by itself.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Chlorine-37 has more neutrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both isotopes have electrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Both isotopes have electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons do not explain weighted average mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Both isotopes have electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The average ignores abundance.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The average ignores abundance.</text>
       <feedback format="html">
-        <text><![CDATA[Average atomic mass uses abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'The average ignores abundance.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine-35 is more abundant.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Chlorine-35 is more abundant.</text>
       <feedback format="html">
-        <text><![CDATA[The more abundant isotope pulls the weighted average closer to its mass.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Chlorine-35 is more abundant.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q24</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q24</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What is the weighted-average setup for the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the weighted-average setup for the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -778,31 +893,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[35 + 37]]></text>
+      <text>17(35) + 17(37)</text>
       <feedback format="html">
-        <text><![CDATA[A simple average ignores abundance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '17(35) + 17(37)' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[35(0.75) + 37(0.25)]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>75 + 25</text>
       <feedback format="html">
-        <text><![CDATA[Convert percent abundance to decimals and multiply by isotope mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '75 + 25' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[17(35) + 17(37)]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>35(0.75) + 37(0.25)</text>
       <feedback format="html">
-        <text><![CDATA[Multiplying protons by masses is not the method.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '35(0.75) + 37(0.25)' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[75 + 25]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>35 + 37</text>
       <feedback format="html">
-        <text><![CDATA[75 + 25 only checks percent total.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '35 + 37' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '35(0.75) + 37(0.25)', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L03_QZ_Q25</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L03_QZ_Q25</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What particle count changes between isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L03_QZ_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What particle count changes between isotopes of the same element?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -810,27 +930,29 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Neutrons</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Neutrons' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Protons]]></text>
+      <text>Element identity</text>
       <feedback format="html">
-        <text><![CDATA[Protons stay the same for the same element.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Element identity' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atomic number]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Protons</text>
       <feedback format="html">
-        <text><![CDATA[Atomic number equals protons and stays the same.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Neutrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atomic number</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes differ by neutron count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Element identity]]></text>
-      <feedback format="html">
-        <text><![CDATA[Element identity stays the same.]]></text>
-      </feedback>
-    </answer>  </question></quiz>
-
-
-
+    </answer>
+  </question>
+</quiz>

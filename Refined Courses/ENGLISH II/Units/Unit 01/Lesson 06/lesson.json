@@ -1,32 +1,34 @@
-﻿{
-    "course":  "ENG2",
-    "unit":  "Unit 01",
-    "lesson":  "Lesson 06",
-    "title":  "Academic Vocabulary in Speaking and Writing",
-    "primaryStandard":  {
-                            "code":  "MLA.ENG2.V.01",
-                            "description":  "Integrate Academic Vocabulary"
-                        },
-    "supportStandards":  [
-                             {
-                                 "code":  "MLA.ENG2.C.01",
-                                 "description":  "Present Ideas Orally"
-                             },
-                             {
-                                 "code":  "MLA.ENG2.R.10",
-                                 "description":  "Paraphrase Grade-Level Texts"
-                             }
-                         ],
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "guidedPractice":  "ENG2_U01_L06_GuidedPractice.gift",
-    "lessonQuiz":  "ENG2_U01_L06_Quiz.gift",
-    "quizJson":  "quiz.json"
+{
+  "course": "ENG2",
+  "unit": "Unit 01",
+  "lesson": "Lesson 06",
+  "title": "Academic Vocabulary in Speaking and Writing",
+  "primaryStandard": {
+    "code": "MLA.ENG2.V.01",
+    "description": "Integrate Academic Vocabulary"
+  },
+  "supportStandards": [
+    {
+      "code": "MLA.ENG2.C.01",
+      "description": "Present Ideas Orally"
+    },
+    {
+      "code": "MLA.ENG2.R.10",
+      "description": "Paraphrase Grade-Level Texts"
+    }
+  ],
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "guidedPractice": "Moodle XML/ENG2_U01_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ENG2_U01_L06_Quiz_MoodleXML.xml",
+  "quizJson": "quiz.json",
+  "assessmentFormat": "Moodle XML",
+  "legacyGiftFiles": "Legacy/source only; production assessments use Moodle XML."
 }

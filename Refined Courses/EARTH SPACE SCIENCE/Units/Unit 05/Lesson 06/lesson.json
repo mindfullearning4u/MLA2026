@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  5,
-    "lesson":  6,
-    "title":  "Planetary System Formation",
-    "standards":  "MLA.ESS.AST.06",
-    "required_visual_model_data":  "nebular model and planet comparison table",
-    "direct_resource":  {
-                            "url":  "https://science.nasa.gov/solar-system/formation-of-our-solar-system/",
-                            "title":  "NASA Solar System Formation"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 05",
+  "lesson": "Lesson 06",
+  "title": "Planetary System Formation",
+  "standards": [
+    "MLA.ESS.AST.06",
+    "MLA.ESS.AST.02"
+  ],
+  "required_visual_model_data": "nebular model and planet comparison table",
+  "direct_resource": {
+    "url": "https://science.nasa.gov/solar-system/formation-of-our-solar-system/",
+    "title": "NASA Solar System Formation"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Planetary System Formation",
+  "primaryStandards": [
+    "MLA.ESS.AST.06",
+    "MLA.ESS.AST.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Solar System Formation",
+      "exactDirectUrl": "https://science.nasa.gov/solar-system/formation-of-our-solar-system/",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U05_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U05_L06_Quiz_MoodleXML.xml"
 }

@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  3,
-    "lesson":  2,
-    "title":  "Ocean Motion and Energy Transfer",
-    "standards":  "MLA.ESS.ATM.02",
-    "required_visual_model_data":  "surface-current map, deep-current model, and temperature-salinity table",
-    "direct_resource":  {
-                            "url":  "https://oceanservice.noaa.gov/facts/current.html",
-                            "title":  "NOAA Ocean Currents"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 03",
+  "lesson": "Lesson 02",
+  "title": "Ocean Motion and Energy Transfer",
+  "standards": [
+    "MLA.ESS.ATM.02",
+    "MLA.ESS.LAB.03"
+  ],
+  "required_visual_model_data": "surface-current map, deep-current model, and temperature-salinity table",
+  "direct_resource": {
+    "url": "https://oceanservice.noaa.gov/facts/current.html",
+    "title": "NOAA Ocean Currents"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Ocean Motion and Energy Transfer",
+  "primaryStandards": [
+    "MLA.ESS.ATM.02",
+    "MLA.ESS.LAB.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NOAA Ocean Currents",
+      "exactDirectUrl": "https://oceanservice.noaa.gov/facts/current.html",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U03_L02_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U03_L02_Quiz_MoodleXML.xml"
 }

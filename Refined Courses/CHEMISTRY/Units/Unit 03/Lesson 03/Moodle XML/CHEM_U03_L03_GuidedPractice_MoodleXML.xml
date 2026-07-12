@@ -1,12 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text><![CDATA[$course$/Chemistry/Unit 03/Lesson 03/Guided Practice]]></text></category>
+    <category>
+      <text>$course$/Chemistry/Unit 03/Lesson 03/Guided Practice</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L03_GP Q01 - Covalent Bonding and Molecular Compounds]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Molecule</th><th>Structure clue</th><th>Formula meaning</th></tr><tr><td>H2O</td><td>H-O-H with shared electron pairs</td><td>2 H atoms and 1 O atom per molecule</td></tr><tr><td>CO2</td><td>O=C=O</td><td>1 C atom and 2 O atoms per molecule</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Covalent model?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L03_GP Q01 - Covalent Bonding and Molecular Compounds</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Molecule&lt;/th&gt;&lt;th&gt;Structure clue&lt;/th&gt;&lt;th&gt;Formula meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;H-O-H with shared electron pairs&lt;/td&gt;&lt;td&gt;2 H atoms and 1 O atom per molecule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;O=C=O&lt;/td&gt;&lt;td&gt;1 C atom and 2 O atoms per molecule&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Covalent model?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -14,47 +22,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A molecular formula must always be reduced to the smallest ratio.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Covalent bonds form when atoms share electron pairs.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus supports covalent sharing and shows how molecular formulas communicate actual atom counts.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Shared electron pairs mean the atoms have become metal cations.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 contains two carbon atoms because the 2 applies to the whole formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
+      <text>CO2 contains two carbon atoms because the 2 applies to the whole formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'CO2 contains two carbon atoms because the 2 applies to the whole formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Covalent bonds form when atoms share electron pairs.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L03_GP Q02 - Covalent Bonding and Molecular Compounds]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Molecule</th><th>Structure clue</th><th>Formula meaning</th></tr><tr><td>H2O</td><td>H-O-H with shared electron pairs</td><td>2 H atoms and 1 O atom per molecule</td></tr><tr><td>CO2</td><td>O=C=O</td><td>1 C atom and 2 O atoms per molecule</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Shared electron pairs mean the atoms have become metal cations.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 contains two carbon atoms because the 2 applies to the whole formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A molecular formula gives the actual atom count in one molecule.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus supports covalent sharing and shows how molecular formulas communicate actual atom counts.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Covalent compounds form because ions arrange in a repeating lattice.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
+      <text>A molecular formula must always be reduced to the smallest ratio.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'A molecular formula must always be reduced to the smallest ratio.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Covalent bonds form when atoms share electron pairs.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Covalent bonds form when atoms share electron pairs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02, 'Covalent bonds form when atoms share electron pairs.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Shared electron pairs mean the atoms have become metal cations.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Shared electron pairs mean the atoms have become metal cations.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Covalent bonds form when atoms share electron pairs.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L03_GP Q03 - Covalent Bonding and Molecular Compounds]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Molecule</th><th>Structure clue</th><th>Formula meaning</th></tr><tr><td>H2O</td><td>H-O-H with shared electron pairs</td><td>2 H atoms and 1 O atom per molecule</td></tr><tr><td>CO2</td><td>O=C=O</td><td>1 C atom and 2 O atoms per molecule</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L03_GP Q02 - Covalent Bonding and Molecular Compounds</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Molecule&lt;/th&gt;&lt;th&gt;Structure clue&lt;/th&gt;&lt;th&gt;Formula meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;H-O-H with shared electron pairs&lt;/td&gt;&lt;td&gt;2 H atoms and 1 O atom per molecule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;O=C=O&lt;/td&gt;&lt;td&gt;1 C atom and 2 O atoms per molecule&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -62,23 +63,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The structure clue shows shared pairs connecting nonmetal atoms.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus supports covalent sharing and shows how molecular formulas communicate actual atom counts.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 contains two carbon atoms because the 2 applies to the whole formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Covalent compounds form because ions arrange in a repeating lattice.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A molecular formula must always be reduced to the smallest ratio.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
+      <text>A molecular formula gives the actual atom count in one molecule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02, 'A molecular formula gives the actual atom count in one molecule.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Shared electron pairs mean the atoms have become metal cations.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Shared electron pairs mean the atoms have become metal cations.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A molecular formula gives the actual atom count in one molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 contains two carbon atoms because the 2 applies to the whole formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'CO2 contains two carbon atoms because the 2 applies to the whole formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A molecular formula gives the actual atom count in one molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Covalent compounds form because ions arrange in a repeating lattice.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Covalent compounds form because ions arrange in a repeating lattice.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A molecular formula gives the actual atom count in one molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L03_GP Q04 - Covalent Bonding and Molecular Compounds]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Molecule</th><th>Structure clue</th><th>Formula meaning</th></tr><tr><td>H2O</td><td>H-O-H with shared electron pairs</td><td>2 H atoms and 1 O atom per molecule</td></tr><tr><td>CO2</td><td>O=C=O</td><td>1 C atom and 2 O atoms per molecule</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L03_GP Q03 - Covalent Bonding and Molecular Compounds</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Molecule&lt;/th&gt;&lt;th&gt;Structure clue&lt;/th&gt;&lt;th&gt;Formula meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;H-O-H with shared electron pairs&lt;/td&gt;&lt;td&gt;2 H atoms and 1 O atom per molecule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;O=C=O&lt;/td&gt;&lt;td&gt;1 C atom and 2 O atoms per molecule&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -86,23 +104,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Covalent compounds form because ions arrange in a repeating lattice.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Covalent bonds form when atoms share electron pairs.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus supports covalent sharing and shows how molecular formulas communicate actual atom counts.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A molecular formula must always be reduced to the smallest ratio.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Shared electron pairs mean the atoms have become metal cations.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
+      <text>CO2 contains two carbon atoms because the 2 applies to the whole formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'CO2 contains two carbon atoms because the 2 applies to the whole formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The structure clue shows shared pairs connecting nonmetal atoms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Covalent compounds form because ions arrange in a repeating lattice.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Covalent compounds form because ions arrange in a repeating lattice.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The structure clue shows shared pairs connecting nonmetal atoms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A molecular formula must always be reduced to the smallest ratio.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'A molecular formula must always be reduced to the smallest ratio.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The structure clue shows shared pairs connecting nonmetal atoms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The structure clue shows shared pairs connecting nonmetal atoms.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02, 'The structure clue shows shared pairs connecting nonmetal atoms.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L03_GP Q05 - Covalent Bonding and Molecular Compounds]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01; MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Molecule</th><th>Structure clue</th><th>Formula meaning</th></tr><tr><td>H2O</td><td>H-O-H with shared electron pairs</td><td>2 H atoms and 1 O atom per molecule</td></tr><tr><td>CO2</td><td>O=C=O</td><td>1 C atom and 2 O atoms per molecule</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Covalent model?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L03_GP Q04 - Covalent Bonding and Molecular Compounds</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Molecule&lt;/th&gt;&lt;th&gt;Structure clue&lt;/th&gt;&lt;th&gt;Formula meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;H-O-H with shared electron pairs&lt;/td&gt;&lt;td&gt;2 H atoms and 1 O atom per molecule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;O=C=O&lt;/td&gt;&lt;td&gt;1 C atom and 2 O atoms per molecule&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -110,20 +145,69 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A molecular formula must always be reduced to the smallest ratio.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Shared electron pairs mean the atoms have become metal cations.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 contains two carbon atoms because the 2 applies to the whole formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses covalent molecules with ionic lattices or misreads the formula notation.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A molecular formula gives the actual atom count in one molecule.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus supports covalent sharing and shows how molecular formulas communicate actual atom counts.]]></text></feedback>
+      <text>Covalent compounds form because ions arrange in a repeating lattice.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Covalent compounds form because ions arrange in a repeating lattice.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Covalent bonds form when atoms share electron pairs.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Covalent bonds form when atoms share electron pairs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02, 'Covalent bonds form when atoms share electron pairs.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A molecular formula must always be reduced to the smallest ratio.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'A molecular formula must always be reduced to the smallest ratio.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Covalent bonds form when atoms share electron pairs.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Shared electron pairs mean the atoms have become metal cations.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Shared electron pairs mean the atoms have become metal cations.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Covalent bonds form when atoms share electron pairs.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L03_GP Q05 - Covalent Bonding and Molecular Compounds</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Molecule&lt;/th&gt;&lt;th&gt;Structure clue&lt;/th&gt;&lt;th&gt;Formula meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;H-O-H with shared electron pairs&lt;/td&gt;&lt;td&gt;2 H atoms and 1 O atom per molecule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;O=C=O&lt;/td&gt;&lt;td&gt;1 C atom and 2 O atoms per molecule&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Covalent model?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>A molecular formula must always be reduced to the smallest ratio.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'A molecular formula must always be reduced to the smallest ratio.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A molecular formula gives the actual atom count in one molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Shared electron pairs mean the atoms have become metal cations.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'Shared electron pairs mean the atoms have become metal cations.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A molecular formula gives the actual atom count in one molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 contains two carbon atoms because the 2 applies to the whole formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01; MLA.CHEM.BON.02. 'CO2 contains two carbon atoms because the 2 applies to the whole formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A molecular formula gives the actual atom count in one molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A molecular formula gives the actual atom count in one molecule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01; MLA.CHEM.BON.02, 'A molecular formula gives the actual atom count in one molecule.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
 </quiz>
-
-
-

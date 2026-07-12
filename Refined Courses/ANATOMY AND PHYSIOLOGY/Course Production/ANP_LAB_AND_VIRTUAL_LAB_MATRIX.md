@@ -73,3 +73,57 @@ This document is architecture only. It does not create lab instructions, lessons
 | No lesson instructions created | PASS |
 | No assessment items created | PASS |
 | No HTML, JSON, legacy assessment text format, or LMS pages created | PASS |
+## MLA Standard Traceability Companion
+
+This lab, visual, simulation, and resource matrix is used with the certified lesson-level mapping. The MLA standard numbers below preserve direct traceability from each lab/data/resource requirement to the approved lesson mapping.
+
+| Unit | Lesson | Lesson Title | Primary MLA Standards | Support MLA Standards |
+|---:|---:|---|---|---|
+| 1 | 01 | Anatomy and Physiology as a Science | MLA.ANP.SCI.01 | MLA.ANP.HLR.02 |
+| 1 | 02 | Lab Safety, Measurement, Variables, and Controls | MLA.ANP.LAB.01 | MLA.ANP.SCI.01 |
+| 1 | 03 | Data, Models, Graphs, and Medical Evidence | MLA.ANP.LAB.02 | MLA.ANP.HLR.03 |
+| 1 | 04 | Body Organization and Homeostasis | MLA.ANP.ORG.01 | MLA.ANP.LAB.02 |
+| 1 | 05 | Macromolecules in Human Physiology | MLA.ANP.ORG.02 | MLA.ANP.HLR.03 |
+| 1 | 06 | Enzymes and Physiological Conditions | MLA.ANP.ORG.03 | MLA.ANP.LAB.02 |
+| 1 | 07 | Health, Environment, Heredity, and Disease Contexts | MLA.ANP.HLR.01 | MLA.ANP.SCI.02 |
+| 1 | 08 | Putting It All Together | MLA.ANP.SCI.01; MLA.ANP.SCI.02; MLA.ANP.LAB.01; MLA.ANP.LAB.02; MLA.ANP.ORG.01; MLA.ANP.ORG.02; MLA.ANP.ORG.03; MLA.ANP.HLR.01 | MLA.ANP.HLR.02; MLA.ANP.HLR.03 |
+| 2 | 01 | Human Cells and Cell Regulation | MLA.ANP.TIS.02 | MLA.ANP.ORG.01 |
+| 2 | 02 | Epithelial Tissue | MLA.ANP.TIS.01 | MLA.ANP.LAB.02 |
+| 2 | 03 | Connective Tissue | MLA.ANP.TIS.01 | MLA.ANP.LAB.02 |
+| 2 | 04 | Muscle and Nervous Tissue Foundations | MLA.ANP.TIS.01 | MLA.ANP.SKM.02; MLA.ANP.NEN.01 |
+| 2 | 05 | Integumentary System Structure and Function | MLA.ANP.TIS.03 | MLA.ANP.ORG.01 |
+| 2 | 06 | Skin, Homeostasis, and Medical Case Evidence | MLA.ANP.TIS.03 | MLA.ANP.HLR.01 |
+| 2 | 07 | Tissue and Integumentary System Integration | MLA.ANP.TIS.01; MLA.ANP.TIS.03 | MLA.ANP.LAB.02 |
+| 2 | 08 | Putting It All Together | MLA.ANP.TIS.01; MLA.ANP.TIS.02; MLA.ANP.TIS.03 | MLA.ANP.LAB.02; MLA.ANP.ORG.01; MLA.ANP.HLR.02 |
+| 3 | 01 | Bone Tissue Anatomy and Histology | MLA.ANP.SKM.01 | MLA.ANP.LAB.02 |
+| 3 | 02 | Axial and Appendicular Skeleton | MLA.ANP.SKM.01 | MLA.ANP.HLR.02 |
+| 3 | 03 | Major Bones of the Human Skeleton | MLA.ANP.SKM.01 | MLA.ANP.LAB.02 |
+| 3 | 04 | Muscle Tissue Anatomy and Histology | MLA.ANP.SKM.02 | MLA.ANP.LAB.02 |
+| 3 | 05 | Major Muscles and Movement | MLA.ANP.SKM.02 | MLA.ANP.ORG.01 |
+| 3 | 06 | Sliding Filament Muscle Contraction | MLA.ANP.SKM.03 | MLA.ANP.LAB.02 |
+| 3 | 07 | Myoneural Junctions and Movement Control | MLA.ANP.SKM.03 | MLA.ANP.NEN.03 |
+| 3 | 08 | Putting It All Together | MLA.ANP.SKM.01; MLA.ANP.SKM.02; MLA.ANP.SKM.03 | MLA.ANP.LAB.02; MLA.ANP.ORG.01; MLA.ANP.NEN.03 |
+| 4 | 01 | Nervous System Organization | MLA.ANP.NEN.01 | MLA.ANP.HLR.02 |
+| 4 | 02 | Reflex Arc and Spinal Cord | MLA.ANP.NEN.02 | MLA.ANP.LAB.02 |
+| 4 | 03 | Brain Structures and Function | MLA.ANP.NEN.02 | MLA.ANP.LAB.02 |
+| 4 | 04 | Synapses and Signal Transmission | MLA.ANP.NEN.03 | MLA.ANP.SKM.03 |
+| 4 | 05 | Autonomic and Sensory Systems | MLA.ANP.NEN.03 | MLA.ANP.ORG.01 |
+| 4 | 06 | Endocrine System Anatomy and Physiology | MLA.ANP.NEN.04 | MLA.ANP.HLR.02 |
+| 4 | 07 | Neural and Endocrine Control of Physiology | MLA.ANP.NEN.05 | MLA.ANP.ORG.01; MLA.ANP.HLR.03 |
+| 4 | 08 | Putting It All Together | MLA.ANP.NEN.01; MLA.ANP.NEN.02; MLA.ANP.NEN.03; MLA.ANP.NEN.04; MLA.ANP.NEN.05 | MLA.ANP.LAB.02; MLA.ANP.ORG.01; MLA.ANP.HLR.03 |
+| 5 | 01 | Blood Composition and Formed Elements | MLA.ANP.CRI.01 | MLA.ANP.LAB.02 |
+| 5 | 02 | Hemostasis, Blood Typing, and Transfusion Reactions | MLA.ANP.CRI.01 | MLA.ANP.HLR.01 |
+| 5 | 03 | Blood Flow and Cardiovascular Factors | MLA.ANP.CRI.02 | MLA.ANP.LAB.02 |
+| 5 | 04 | Heart Sounds, Hypertension, and Circulatory Evidence | MLA.ANP.CRI.02 | MLA.ANP.HLR.01 |
+| 5 | 05 | Fetal Circulation and Birth Changes | MLA.ANP.CRI.02 | MLA.ANP.LAB.02 |
+| 5 | 06 | Lymphatic System and Immunity | MLA.ANP.CRI.03 | MLA.ANP.HLR.01 |
+| 5 | 07 | Respiratory Physiology and Gas Exchange | MLA.ANP.CRI.04 | MLA.ANP.LAB.02 |
+| 5 | 08 | Putting It All Together | MLA.ANP.CRI.01; MLA.ANP.CRI.02; MLA.ANP.CRI.03; MLA.ANP.CRI.04 | MLA.ANP.LAB.02; MLA.ANP.ORG.01; MLA.ANP.HLR.01 |
+| 6 | 01 | Digestive System Physiology | MLA.ANP.DUR.01 | MLA.ANP.ORG.03 |
+| 6 | 02 | Urine Formation and Kidney Function | MLA.ANP.DUR.02 | MLA.ANP.LAB.02 |
+| 6 | 03 | Reproductive System Anatomy and Physiology | MLA.ANP.DUR.03 | MLA.ANP.HLR.02 |
+| 6 | 04 | Disease Prevention, Detection, and Treatment | MLA.ANP.HLR.01 | MLA.ANP.SCI.02 |
+| 6 | 05 | Heredity, Family History, Environment, and Health | MLA.ANP.HLR.01 | MLA.ANP.TIS.02 |
+| 6 | 06 | Whole-Body Homeostasis and System Interaction | MLA.ANP.DUR.03; MLA.ANP.ORG.01 | MLA.ANP.CRI.02; MLA.ANP.NEN.05 |
+| 6 | 07 | Scientific Communication and Quantitative Medical Evidence | MLA.ANP.HLR.02; MLA.ANP.HLR.03 | MLA.ANP.LAB.02 |
+| 6 | 08 | Putting It All Together | MLA.ANP.DUR.01; MLA.ANP.DUR.02; MLA.ANP.DUR.03; MLA.ANP.HLR.01; MLA.ANP.HLR.02; MLA.ANP.HLR.03 | All previously taught standards as synthesis support |

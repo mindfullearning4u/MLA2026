@@ -46,12 +46,12 @@
     "approvedDirectResources": [
       {
         "name": "PhET: The Moving Man",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/moving-man",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/moving-man/latest/moving-man_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
         "name": "PhET: Vector Addition",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/vector-addition",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -61,5 +61,46 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Putting It All Together",
+  "standards": [
+    "MLA.PHYS.SCI.01",
+    "MLA.PHYS.LAB.01",
+    "MLA.PHYS.LAB.02",
+    "MLA.PHYS.LAB.03",
+    "MLA.PHYS.MOT.01",
+    "MLA.PHYS.MOT.02",
+    "MLA.PHYS.SCI.02",
+    "MLA.PHYS.SCI.03"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.SCI.01",
+    "MLA.PHYS.LAB.01",
+    "MLA.PHYS.LAB.02",
+    "MLA.PHYS.LAB.03",
+    "MLA.PHYS.MOT.01",
+    "MLA.PHYS.MOT.02",
+    "MLA.PHYS.SCI.02",
+    "MLA.PHYS.SCI.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: The Moving Man",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/moving-man/latest/moving-man_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "PhET: Vector Addition",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "OpenStax: Physical Quantities and Units",
+      "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/1-2-physical-quantities-and-units",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U01_L08_GuidedPractice_MoodleXML.xml",
+  "unitAssessment": "Moodle XML/PHYS_U01_UnitAssessment_MoodleXML.xml"
 }

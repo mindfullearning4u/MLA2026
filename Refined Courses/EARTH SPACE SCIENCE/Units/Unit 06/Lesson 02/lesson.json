@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  6,
-    "lesson":  2,
-    "title":  "Electromagnetic Evidence in Space Science",
-    "standards":  "MLA.ESS.COS.02",
-    "required_visual_model_data":  "EM spectrum chart and remote evidence table",
-    "direct_resource":  {
-                            "url":  "https://science.nasa.gov/ems/",
-                            "title":  "NASA Electromagnetic Spectrum"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 06",
+  "lesson": "Lesson 02",
+  "title": "Electromagnetic Evidence in Space Science",
+  "standards": [
+    "MLA.ESS.COS.02",
+    "MLA.ESS.AST.05"
+  ],
+  "required_visual_model_data": "EM spectrum chart and remote evidence table",
+  "direct_resource": {
+    "url": "https://science.nasa.gov/ems/",
+    "title": "NASA Electromagnetic Spectrum"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Electromagnetic Evidence in Space Science",
+  "primaryStandards": [
+    "MLA.ESS.COS.02",
+    "MLA.ESS.AST.05"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Electromagnetic Spectrum",
+      "exactDirectUrl": "https://science.nasa.gov/ems/",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U06_L02_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U06_L02_Quiz_MoodleXML.xml"
 }

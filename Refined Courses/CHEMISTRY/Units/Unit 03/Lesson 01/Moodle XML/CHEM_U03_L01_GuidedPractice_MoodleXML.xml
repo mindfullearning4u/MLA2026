@@ -1,12 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text><![CDATA[$course$/Chemistry/Unit 03/Lesson 01/Guided Practice]]></text></category>
+    <category>
+      <text>$course$/Chemistry/Unit 03/Lesson 01/Guided Practice</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L01_GP Q01 - Why Atoms Bond]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Atom pair</th><th>Valence evidence</th><th>Attraction evidence</th></tr><tr><td>Na and Cl</td><td>Na has 1 valence electron; Cl has 7</td><td>Na+ and Cl- attract after electron transfer</td></tr><tr><td>H and H</td><td>Each H has 1 valence electron</td><td>Both nuclei attract a shared electron pair</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L01_GP Q01 - Why Atoms Bond</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Atom pair&lt;/th&gt;&lt;th&gt;Valence evidence&lt;/th&gt;&lt;th&gt;Attraction evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Na and Cl&lt;/td&gt;&lt;td&gt;Na has 1 valence electron; Cl has 7&lt;/td&gt;&lt;td&gt;Na+ and Cl- attract after electron transfer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H and H&lt;/td&gt;&lt;td&gt;Each H has 1 valence electron&lt;/td&gt;&lt;td&gt;Both nuclei attract a shared electron pair&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -14,23 +22,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Inner core electrons are the main electrons transferred or shared in bonding.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Bonding occurs only when atoms become electrically neutral before any attraction occurs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Valence electrons are central because they are the outer electrons involved in bonding.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus connects valence electrons to either ion attraction or shared-pair attraction, which supports the bonding claim.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A bond is just a label for two atoms written beside each other.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
+      <text>Bonding occurs only when atoms become electrically neutral before any attraction occurs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Bonding occurs only when atoms become electrically neutral before any attraction occurs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Valence electrons are central because they are the outer electrons involved in bonding.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Valence electrons are central because they are the outer electrons involved in bonding.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Valence electrons are central because they are the outer electrons involved in bonding.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A bond is just a label for two atoms written beside each other.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'A bond is just a label for two atoms written beside each other.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Valence electrons are central because they are the outer electrons involved in bonding.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Inner core electrons are the main electrons transferred or shared in bonding.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Inner core electrons are the main electrons transferred or shared in bonding.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Valence electrons are central because they are the outer electrons involved in bonding.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L01_GP Q02 - Why Atoms Bond]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Atom pair</th><th>Valence evidence</th><th>Attraction evidence</th></tr><tr><td>Na and Cl</td><td>Na has 1 valence electron; Cl has 7</td><td>Na+ and Cl- attract after electron transfer</td></tr><tr><td>H and H</td><td>Each H has 1 valence electron</td><td>Both nuclei attract a shared electron pair</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L01_GP Q02 - Why Atoms Bond</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Atom pair&lt;/th&gt;&lt;th&gt;Valence evidence&lt;/th&gt;&lt;th&gt;Attraction evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Na and Cl&lt;/td&gt;&lt;td&gt;Na has 1 valence electron; Cl has 7&lt;/td&gt;&lt;td&gt;Na+ and Cl- attract after electron transfer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H and H&lt;/td&gt;&lt;td&gt;Each H has 1 valence electron&lt;/td&gt;&lt;td&gt;Both nuclei attract a shared electron pair&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -38,23 +63,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Bonding occurs only when atoms become electrically neutral before any attraction occurs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A bond is just a label for two atoms written beside each other.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atoms bond because all atoms are trying to become the same size.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A bond explanation should identify the particles and the attraction holding them together.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus connects valence electrons to either ion attraction or shared-pair attraction, which supports the bonding claim.]]></text></feedback>
+      <text>Bonding occurs only when atoms become electrically neutral before any attraction occurs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Bonding occurs only when atoms become electrically neutral before any attraction occurs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A bond explanation should identify the particles and the attraction holding them together.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A bond is just a label for two atoms written beside each other.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'A bond is just a label for two atoms written beside each other.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A bond explanation should identify the particles and the attraction holding them together.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atoms bond because all atoms are trying to become the same size.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Atoms bond because all atoms are trying to become the same size.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A bond explanation should identify the particles and the attraction holding them together.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A bond explanation should identify the particles and the attraction holding them together.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'A bond explanation should identify the particles and the attraction holding them together.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L01_GP Q03 - Why Atoms Bond]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Atom pair</th><th>Valence evidence</th><th>Attraction evidence</th></tr><tr><td>Na and Cl</td><td>Na has 1 valence electron; Cl has 7</td><td>Na+ and Cl- attract after electron transfer</td></tr><tr><td>H and H</td><td>Each H has 1 valence electron</td><td>Both nuclei attract a shared electron pair</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Bonding model?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L01_GP Q03 - Why Atoms Bond</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Atom pair&lt;/th&gt;&lt;th&gt;Valence evidence&lt;/th&gt;&lt;th&gt;Attraction evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Na and Cl&lt;/td&gt;&lt;td&gt;Na has 1 valence electron; Cl has 7&lt;/td&gt;&lt;td&gt;Na+ and Cl- attract after electron transfer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H and H&lt;/td&gt;&lt;td&gt;Each H has 1 valence electron&lt;/td&gt;&lt;td&gt;Both nuclei attract a shared electron pair&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Bonding model?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -62,47 +104,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A bond is just a label for two atoms written beside each other.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Atoms bond when charged particles reach a lower-energy arrangement through attraction.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus connects valence electrons to either ion attraction or shared-pair attraction, which supports the bonding claim.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atoms bond because all atoms are trying to become the same size.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Inner core electrons are the main electrons transferred or shared in bonding.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
+      <text>Inner core electrons are the main electrons transferred or shared in bonding.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Inner core electrons are the main electrons transferred or shared in bonding.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Atoms bond when charged particles reach a lower-energy arrangement through attraction.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L01_GP Q04 - Why Atoms Bond]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Atom pair</th><th>Valence evidence</th><th>Attraction evidence</th></tr><tr><td>Na and Cl</td><td>Na has 1 valence electron; Cl has 7</td><td>Na+ and Cl- attract after electron transfer</td></tr><tr><td>H and H</td><td>Each H has 1 valence electron</td><td>Both nuclei attract a shared electron pair</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Atoms bond because all atoms are trying to become the same size.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Inner core electrons are the main electrons transferred or shared in bonding.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Valence electrons are central because they are the outer electrons involved in bonding.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus connects valence electrons to either ion attraction or shared-pair attraction, which supports the bonding claim.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Bonding occurs only when atoms become electrically neutral before any attraction occurs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
+      <text>A bond is just a label for two atoms written beside each other.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'A bond is just a label for two atoms written beside each other.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Atoms bond when charged particles reach a lower-energy arrangement through attraction.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Atoms bond when charged particles reach a lower-energy arrangement through attraction.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Atoms bond when charged particles reach a lower-energy arrangement through attraction.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atoms bond because all atoms are trying to become the same size.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Atoms bond because all atoms are trying to become the same size.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Atoms bond when charged particles reach a lower-energy arrangement through attraction.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L01_GP Q05 - Why Atoms Bond]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Atom pair</th><th>Valence evidence</th><th>Attraction evidence</th></tr><tr><td>Na and Cl</td><td>Na has 1 valence electron; Cl has 7</td><td>Na+ and Cl- attract after electron transfer</td></tr><tr><td>H and H</td><td>Each H has 1 valence electron</td><td>Both nuclei attract a shared electron pair</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L01_GP Q04 - Why Atoms Bond</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Atom pair&lt;/th&gt;&lt;th&gt;Valence evidence&lt;/th&gt;&lt;th&gt;Attraction evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Na and Cl&lt;/td&gt;&lt;td&gt;Na has 1 valence electron; Cl has 7&lt;/td&gt;&lt;td&gt;Na+ and Cl- attract after electron transfer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H and H&lt;/td&gt;&lt;td&gt;Each H has 1 valence electron&lt;/td&gt;&lt;td&gt;Both nuclei attract a shared electron pair&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -110,20 +145,69 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[A bond explanation should identify the particles and the attraction holding them together.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus connects valence electrons to either ion attraction or shared-pair attraction, which supports the bonding claim.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Inner core electrons are the main electrons transferred or shared in bonding.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Bonding occurs only when atoms become electrically neutral before any attraction occurs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A bond is just a label for two atoms written beside each other.]]></text>
-      <feedback format="html"><text><![CDATA[This choice ignores the particle-level attraction shown in the stimulus or replaces evidence with a memorized phrase.]]></text></feedback>
+      <text>Valence electrons are central because they are the outer electrons involved in bonding.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Valence electrons are central because they are the outer electrons involved in bonding.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atoms bond because all atoms are trying to become the same size.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Atoms bond because all atoms are trying to become the same size.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Valence electrons are central because they are the outer electrons involved in bonding.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Inner core electrons are the main electrons transferred or shared in bonding.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Inner core electrons are the main electrons transferred or shared in bonding.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Valence electrons are central because they are the outer electrons involved in bonding.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Bonding occurs only when atoms become electrically neutral before any attraction occurs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Bonding occurs only when atoms become electrically neutral before any attraction occurs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Valence electrons are central because they are the outer electrons involved in bonding.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L01_GP Q05 - Why Atoms Bond</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Atom pair&lt;/th&gt;&lt;th&gt;Valence evidence&lt;/th&gt;&lt;th&gt;Attraction evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Na and Cl&lt;/td&gt;&lt;td&gt;Na has 1 valence electron; Cl has 7&lt;/td&gt;&lt;td&gt;Na+ and Cl- attract after electron transfer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H and H&lt;/td&gt;&lt;td&gt;Each H has 1 valence electron&lt;/td&gt;&lt;td&gt;Both nuclei attract a shared electron pair&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>A bond is just a label for two atoms written beside each other.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'A bond is just a label for two atoms written beside each other.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A bond explanation should identify the particles and the attraction holding them together.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Inner core electrons are the main electrons transferred or shared in bonding.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Inner core electrons are the main electrons transferred or shared in bonding.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A bond explanation should identify the particles and the attraction holding them together.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A bond explanation should identify the particles and the attraction holding them together.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'A bond explanation should identify the particles and the attraction holding them together.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Bonding occurs only when atoms become electrically neutral before any attraction occurs.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Bonding occurs only when atoms become electrically neutral before any attraction occurs.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A bond explanation should identify the particles and the attraction holding them together.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
 </quiz>
-
-
-

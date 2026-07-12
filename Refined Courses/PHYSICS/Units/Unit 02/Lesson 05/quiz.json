@@ -3,15 +3,17 @@
   "unit": "Unit 02",
   "lesson": "Lesson 05",
   "lessonTitle": "Earth, Moon, and Sun Mechanics",
-  "guidedPracticeQuestionCount": 5,
-  "lessonQuizQuestionCount": 25,
-  "format": "Moodle XML",
-  "visualStimulusRequired": true,
+  "title": "Earth, Moon, and Sun Mechanics Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/PHYS_U02_L05_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
   "standards": [
-    "MLA.PHYS.FOR.02"
+    "MLA.PHYS.FOR.02",
+    "MLA.PHYS.MOT.02"
   ],
-  "xmlFiles": [
-    "Moodle XML/PHYS_U02_L05_GuidedPractice_MoodleXML.xml",
-    "Moodle XML/PHYS_U02_L05_Quiz_MoodleXML.xml"
-  ]
+  "guidedPracticeMoodleXmlFile": "Moodle XML/PHYS_U02_L05_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

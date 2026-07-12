@@ -2,7 +2,7 @@
 
 ## Source Control
 
-Official source verified: CPALMS Earth/Space Science, course number `2001310`, current course record `23797`, version `2024 - And Beyond (current)`.
+Official source verified with embedded Florida B.E.S.T. literacy/readiness support: CPALMS Earth/Space Science, course number `2001310`, current course record `23797`, version `2024 - And Beyond (current)`.
 
 CPALMS-listed standards verified: 56.
 

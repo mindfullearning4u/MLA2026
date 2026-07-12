@@ -40,7 +40,7 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Gravity Force Lab Basics",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/gravity-force-lab-basics",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -50,5 +50,29 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Gravity and Mass-Distance Relationships",
+  "standards": [
+    "MLA.PHYS.FOR.02",
+    "MLA.PHYS.LAB.02"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.FOR.02",
+    "MLA.PHYS.LAB.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Gravity Force Lab Basics",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "OpenStax: Newton's Law of Universal Gravitation",
+      "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/6-5-newtons-universal-law-of-gravitation",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U02_L04_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/PHYS_U02_L04_Quiz_MoodleXML.xml"
 }

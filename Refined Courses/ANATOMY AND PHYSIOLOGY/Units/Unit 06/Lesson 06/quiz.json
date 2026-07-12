@@ -1,12 +1,21 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  6,
-    "lesson":  6,
-    "title":  "Whole-Body Homeostasis and System Interaction",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Whole-body integration model",
-    "standards":  "MLA.ANP.DUR.03; MLA.ANP.ORG.01"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 06",
+  "lesson": "Lesson 06",
+  "lessonTitle": "Whole-Body Homeostasis and System Interaction",
+  "title": "Whole-Body Homeostasis and System Interaction Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U06_L06_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.DUR.03",
+    "MLA.ANP.ORG.01",
+    "MLA.ANP.CRI.02",
+    "MLA.ANP.NEN.05"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U06_L06_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

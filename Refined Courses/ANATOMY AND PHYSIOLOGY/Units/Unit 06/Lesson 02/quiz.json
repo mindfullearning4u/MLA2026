@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  6,
-    "lesson":  2,
-    "title":  "Urine Formation and Kidney Function",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Nephron/urine model",
-    "standards":  "MLA.ANP.DUR.02"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 06",
+  "lesson": "Lesson 02",
+  "lessonTitle": "Urine Formation and Kidney Function",
+  "title": "Urine Formation and Kidney Function Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U06_L02_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.DUR.02",
+    "MLA.ANP.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U06_L02_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

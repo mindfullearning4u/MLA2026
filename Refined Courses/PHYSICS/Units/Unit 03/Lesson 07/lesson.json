@@ -40,7 +40,7 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Collision Lab",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/collision-lab",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -50,5 +50,29 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Momentum Conservation in Energy Systems",
+  "standards": [
+    "MLA.PHYS.ENE.05",
+    "MLA.PHYS.ENE.02"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.ENE.05",
+    "MLA.PHYS.ENE.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Collision Lab",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "OpenStax: Conservation of Momentum",
+      "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/8-3-conservation-of-momentum",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U03_L07_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/PHYS_U03_L07_Quiz_MoodleXML.xml"
 }

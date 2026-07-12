@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  3,
-    "lesson":  1,
-    "title":  "Bone Tissue Anatomy and Histology",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Bone histology/model",
-    "standards":  "MLA.ANP.SKM.01"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 03",
+  "lesson": "Lesson 01",
+  "lessonTitle": "Bone Tissue Anatomy and Histology",
+  "title": "Bone Tissue Anatomy and Histology Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U03_L01_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.SKM.01",
+    "MLA.ANP.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U03_L01_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U01_PT_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> Which statement is measurement evidence?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement is measurement evidence?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -18,32 +18,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The bottle seems interesting.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The bottle seems interesting.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The sample mass was 18.4 g.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The sample mass was 18.4 g.]]></text>
+      <text>The sample mass was 18.4 g.</text>
       <feedback format="html">
-        <text><![CDATA[Measurement evidence includes a number from a tool and a unit.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'The sample mass was 18.4 g.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The cleaner is chemical free.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The cleaner is chemical free.</text>
       <feedback format="html">
-        <text><![CDATA[The choice does not give measured data from a tool.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The cleaner is chemical free.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The sample mass was 18.4 g.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The liquid looks useful.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The liquid looks useful.</text>
       <feedback format="html">
-        <text><![CDATA[Opinion or vague usefulness is not chemistry evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The liquid looks useful.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The sample mass was 18.4 g.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The bottle seems interesting.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Interest is not evidence because it cannot support a scientific claim.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_PT_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.LAB.01; MLA.CHEM.SCI.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Tool or Step</th><th>Purpose or Issue</th><th>Safe/Precise Action</th></tr><tr><td>Graduated cylinder</td><td>Measures liquid volume</td><td>Read the meniscus at eye level.</td></tr><tr><td>Balance</td><td>Measures mass</td><td>Record the value with grams.</td></tr><tr><td>'Add some liquid'</td><td>Unclear procedure</td><td>State exact volume, tool, and order.</td></tr><tr><td>Broken glass</td><td>Hazard</td><td>Stop and follow assigned cleanup procedure.</td></tr></table><p><strong>Question:</strong> What makes the step 'add some liquid' weak?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.LAB.01; MLA.CHEM.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Tool or Step&lt;/th&gt;&lt;th&gt;Purpose or Issue&lt;/th&gt;&lt;th&gt;Safe/Precise Action&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Graduated cylinder&lt;/td&gt;&lt;td&gt;Measures liquid volume&lt;/td&gt;&lt;td&gt;Read the meniscus at eye level.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Balance&lt;/td&gt;&lt;td&gt;Measures mass&lt;/td&gt;&lt;td&gt;Record the value with grams.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;'Add some liquid'&lt;/td&gt;&lt;td&gt;Unclear procedure&lt;/td&gt;&lt;td&gt;State exact volume, tool, and order.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Broken glass&lt;/td&gt;&lt;td&gt;Hazard&lt;/td&gt;&lt;td&gt;Stop and follow assigned cleanup procedure.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What makes the step 'add some liquid' weak?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[It includes too many units.]]></text>
+      <text>It includes too many units.</text>
       <feedback format="html">
-        <text><![CDATA[The problem is missing units, not too many units.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.01; MLA.CHEM.SCI.01. 'It includes too many units.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'It does not give an exact amount, tool, or order.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[It uses a graduated cylinder.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It uses a graduated cylinder.</text>
       <feedback format="html">
-        <text><![CDATA[Using the right tool would strengthen the step.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.01; MLA.CHEM.SCI.01. 'It uses a graduated cylinder.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'It does not give an exact amount, tool, or order.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[It does not give an exact amount, tool, or order.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>It does not give an exact amount, tool, or order.</text>
       <feedback format="html">
-        <text><![CDATA[A replicable procedure needs exact quantities, tools, and sequence.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.LAB.01; MLA.CHEM.SCI.01, 'It does not give an exact amount, tool, or order.' is the strongest answer because it uses safe lab procedure, measurement, data quality, or evidence handling from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[It avoids unsafe chemicals.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It avoids unsafe chemicals.</text>
       <feedback format="html">
-        <text><![CDATA[Avoiding unsafe chemicals is good, but the wording is still vague.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.01; MLA.CHEM.SCI.01. 'It avoids unsafe chemicals.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'It does not give an exact amount, tool, or order.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_PT_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.LAB.02; MLA.CHEM.MAT.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Quantity</th><th>Tool Reading</th><th>Meaning</th></tr><tr><td>Mass</td><td>12.36 g</td><td>Balance reading with two decimal places.</td></tr><tr><td>Volume</td><td>25.0 mL</td><td>Liquid volume with unit.</td></tr><tr><td>Small mass</td><td>0.00045 g</td><td>Can be written as 4.5 x 10^-4 g.</td></tr></table><p><strong>Question:</strong> Which is 0.00045 g in scientific notation?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.LAB.02; MLA.CHEM.MAT.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Quantity&lt;/th&gt;&lt;th&gt;Tool Reading&lt;/th&gt;&lt;th&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mass&lt;/td&gt;&lt;td&gt;12.36 g&lt;/td&gt;&lt;td&gt;Balance reading with two decimal places.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Volume&lt;/td&gt;&lt;td&gt;25.0 mL&lt;/td&gt;&lt;td&gt;Liquid volume with unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Small mass&lt;/td&gt;&lt;td&gt;0.00045 g&lt;/td&gt;&lt;td&gt;Can be written as 4.5 x 10^-4 g.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which is 0.00045 g in scientific notation?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -84,32 +94,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>4.5 x 10^-4 g</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.LAB.02; MLA.CHEM.MAT.03, '4.5 x 10^-4 g' is the strongest answer because it uses safe lab procedure, measurement, data quality, or evidence handling from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[4.5 x 10^4 g]]></text>
+      <text>45 x 10^-4 g</text>
       <feedback format="html">
-        <text><![CDATA[A positive exponent would make the number large.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.02; MLA.CHEM.MAT.03. '45 x 10^-4 g' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with '4.5 x 10^-4 g', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[45 x 10^-4 g]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0.45 x 10^-3 g</text>
       <feedback format="html">
-        <text><![CDATA[Scientific notation uses a number from 1 up to 10.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.02; MLA.CHEM.MAT.03. '0.45 x 10^-3 g' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with '4.5 x 10^-4 g', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[4.5 x 10^-4 g]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4.5 x 10^4 g</text>
       <feedback format="html">
-        <text><![CDATA[Moving the decimal four places right gives 4.5, so the exponent is -4.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.02; MLA.CHEM.MAT.03. '4.5 x 10^4 g' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with '4.5 x 10^-4 g', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[0.45 x 10^-3 g]]></text>
-      <feedback format="html">
-        <text><![CDATA[0.45 is not in proper scientific notation form.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_PT_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.LAB.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trial</th><th>Time (min)</th><th>Temperature (deg C)</th></tr><tr><td>1</td><td>0</td><td>22.0</td></tr><tr><td>2</td><td>2</td><td>26.5</td></tr><tr><td>3</td><td>4</td><td>31.0</td></tr><tr><td>4</td><td>6</td><td>35.5</td></tr></table><p><strong>Question:</strong> Which value would be suspicious if repeated density trials were 1.02, 1.03, and 1.95 g/mL?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trial&lt;/th&gt;&lt;th&gt;Time (min)&lt;/th&gt;&lt;th&gt;Temperature (deg C)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;22.0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;26.5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;31.0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;35.5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which value would be suspicious if repeated density trials were 1.02, 1.03, and 1.95 g/mL?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -117,164 +132,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>1.03 g/mL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.03. '1.03 g/mL' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with '1.95 g/mL', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Both 1.02 and 1.03 g/mL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.03. 'Both 1.02 and 1.03 g/mL' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with '1.95 g/mL', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1.02 g/mL</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.03. '1.02 g/mL' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with '1.95 g/mL', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[1.95 g/mL]]></text>
+      <text>1.95 g/mL</text>
       <feedback format="html">
-        <text><![CDATA[1.95 is far from the other two values and should be investigated as a possible outlier.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.LAB.03, '1.95 g/mL' is the strongest answer because it uses safe lab procedure, measurement, data quality, or evidence handling from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[1.02 g/mL]]></text>
-      <feedback format="html">
-        <text><![CDATA[1.02 is close to 1.03.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[1.03 g/mL]]></text>
-      <feedback format="html">
-        <text><![CDATA[1.03 is close to 1.02.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both 1.02 and 1.03 g/mL]]></text>
-      <feedback format="html">
-        <text><![CDATA[The close pair is not suspicious compared with 1.95.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_PT_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Why does a liquid take the shape of its container?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are locked in fixed positions.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Fixed positions describe solids.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are farther apart than gas particles.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Gas particles are usually farther apart than liquid particles.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles stop moving at room temperature.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Liquid particles still move.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Its particles can slide past one another.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Liquid particles remain close but can move around each other.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_PT_Q06</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q06</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which scenario is a physical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusts.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Rusting forms iron oxide.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Ice melts into liquid water.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Melting changes state but water remains water.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burns.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Burning forms new substances.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk sours.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_PT_Q07</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q07</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Scientific idea</th><th>Role</th><th>Chemistry example</th></tr><tr><td>Model</td><td>Represents a system</td><td>Particle diagram of a gas</td></tr><tr><td>Law</td><td>Describes a consistent pattern</td><td>Mass is conserved in a closed system</td></tr><tr><td>Theory</td><td>Explains broad evidence</td><td>Atomic theory explains matter as atoms</td></tr></table><p><strong>Question:</strong> Which statement best describes a scientific theory?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A random guess.]]></text>
-      <feedback format="html">
-        <text><![CDATA[In science, theory does not mean random guess.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A well-supported explanation for a broad set of evidence.]]></text>
-      <feedback format="html">
-        <text><![CDATA[A scientific theory explains many observations using evidence.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A single measurement.]]></text>
-      <feedback format="html">
-        <text><![CDATA[A single measurement is data, not a theory.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A safety symbol.]]></text>
-      <feedback format="html">
-        <text><![CDATA[A safety symbol communicates a hazard, not a theory.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_PT_Q08</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q08</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> What is the best reasoning for the claim that repeated temperature readings are precise?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The readings use large numbers.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Large numbers do not prove precision.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The readings came from an advertisement.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Advertisements are not automatically measurement evidence.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The readings are close to each other across trials.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Precision is about repeated measurements agreeing with each other.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The readings are all opinions.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Opinions are not repeated measurements.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_PT_Q09</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q09</p><p><strong>MLA Standard:</strong> MLA.CHEM.LAB.01; MLA.CHEM.SCI.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Tool or Step</th><th>Purpose or Issue</th><th>Safe/Precise Action</th></tr><tr><td>Graduated cylinder</td><td>Measures liquid volume</td><td>Read the meniscus at eye level.</td></tr><tr><td>Balance</td><td>Measures mass</td><td>Record the value with grams.</td></tr><tr><td>'Add some liquid'</td><td>Unclear procedure</td><td>State exact volume, tool, and order.</td></tr><tr><td>Broken glass</td><td>Hazard</td><td>Stop and follow assigned cleanup procedure.</td></tr></table><p><strong>Question:</strong> Which procedure detail improves replication?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does a liquid take the shape of its container?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -283,31 +171,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Measure 20.0 mL of water with a graduated cylinder.]]></text>
+      <text>Its particles can slide past one another.</text>
       <feedback format="html">
-        <text><![CDATA[Exact volume, tool, and unit make the step repeatable.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Its particles can slide past one another.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Use a little water.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are farther apart than gas particles.</text>
       <feedback format="html">
-        <text><![CDATA['A little' is not a measurable amount.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are farther apart than gas particles.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Heat until it looks done.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles stop moving at room temperature.</text>
       <feedback format="html">
-        <text><![CDATA['Looks done' is subjective and not replicable.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles stop moving at room temperature.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mix the sample somehow.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are locked in fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA['Somehow' does not describe a procedure.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are locked in fixed positions.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
-      <text>CHEM_U01_PT_Q10</text>
+      <text>CHEM_U01_PT_Q06</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_PT_Q10</p><p><strong>MLA Standard:</strong> MLA.CHEM.LAB.02; MLA.CHEM.MAT.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Quantity</th><th>Tool Reading</th><th>Meaning</th></tr><tr><td>Mass</td><td>12.36 g</td><td>Balance reading with two decimal places.</td></tr><tr><td>Volume</td><td>25.0 mL</td><td>Liquid volume with unit.</td></tr><tr><td>Small mass</td><td>0.00045 g</td><td>Can be written as 4.5 x 10^-4 g.</td></tr></table><p><strong>Question:</strong> For addition, what controls the reported decimal place?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which scenario is a physical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -316,28 +209,180 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The largest number of digits anywhere.]]></text>
+      <text>Iron rusts.</text>
       <feedback format="html">
-        <text><![CDATA[Total digit count is not the addition rule.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Iron rusts.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The first value only.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Ice melts into liquid water.</text>
       <feedback format="html">
-        <text><![CDATA[All measured values must be considered.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Ice melts into liquid water.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The unit abbreviation length.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burns.</text>
       <feedback format="html">
-        <text><![CDATA[Unit label length has no role in significant figures.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Paper burns.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The least precise decimal place in the measured values.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk sours.</text>
       <feedback format="html">
-        <text><![CDATA[Addition and subtraction are reported to the least precise decimal place.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Milk sours.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
-
-
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_PT_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scientific idea&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Chemistry example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Represents a system&lt;/td&gt;&lt;td&gt;Particle diagram of a gas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Law&lt;/td&gt;&lt;td&gt;Describes a consistent pattern&lt;/td&gt;&lt;td&gt;Mass is conserved in a closed system&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Theory&lt;/td&gt;&lt;td&gt;Explains broad evidence&lt;/td&gt;&lt;td&gt;Atomic theory explains matter as atoms&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement best describes a scientific theory?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>A single measurement.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A single measurement.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'A well-supported explanation for a broad set of evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A safety symbol.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A safety symbol.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'A well-supported explanation for a broad set of evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A random guess.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A random guess.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'A well-supported explanation for a broad set of evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A well-supported explanation for a broad set of evidence.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.03, 'A well-supported explanation for a broad set of evidence.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_PT_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the best reasoning for the claim that repeated temperature readings are precise?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The readings use large numbers.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The readings use large numbers.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The readings are close to each other across trials.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The readings came from an advertisement.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The readings came from an advertisement.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The readings are close to each other across trials.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The readings are close to each other across trials.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'The readings are close to each other across trials.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The readings are all opinions.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The readings are all opinions.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The readings are close to each other across trials.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_PT_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.LAB.01; MLA.CHEM.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Tool or Step&lt;/th&gt;&lt;th&gt;Purpose or Issue&lt;/th&gt;&lt;th&gt;Safe/Precise Action&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Graduated cylinder&lt;/td&gt;&lt;td&gt;Measures liquid volume&lt;/td&gt;&lt;td&gt;Read the meniscus at eye level.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Balance&lt;/td&gt;&lt;td&gt;Measures mass&lt;/td&gt;&lt;td&gt;Record the value with grams.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;'Add some liquid'&lt;/td&gt;&lt;td&gt;Unclear procedure&lt;/td&gt;&lt;td&gt;State exact volume, tool, and order.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Broken glass&lt;/td&gt;&lt;td&gt;Hazard&lt;/td&gt;&lt;td&gt;Stop and follow assigned cleanup procedure.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which procedure detail improves replication?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Measure 20.0 mL of water with a graduated cylinder.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.LAB.01; MLA.CHEM.SCI.01, 'Measure 20.0 mL of water with a graduated cylinder.' is the strongest answer because it uses safe lab procedure, measurement, data quality, or evidence handling from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Use a little water.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.01; MLA.CHEM.SCI.01. 'Use a little water.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'Measure 20.0 mL of water with a graduated cylinder.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Heat until it looks done.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.01; MLA.CHEM.SCI.01. 'Heat until it looks done.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'Measure 20.0 mL of water with a graduated cylinder.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mix the sample somehow.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.01; MLA.CHEM.SCI.01. 'Mix the sample somehow.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'Measure 20.0 mL of water with a graduated cylinder.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_PT_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_PT_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.LAB.02; MLA.CHEM.MAT.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Quantity&lt;/th&gt;&lt;th&gt;Tool Reading&lt;/th&gt;&lt;th&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mass&lt;/td&gt;&lt;td&gt;12.36 g&lt;/td&gt;&lt;td&gt;Balance reading with two decimal places.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Volume&lt;/td&gt;&lt;td&gt;25.0 mL&lt;/td&gt;&lt;td&gt;Liquid volume with unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Small mass&lt;/td&gt;&lt;td&gt;0.00045 g&lt;/td&gt;&lt;td&gt;Can be written as 4.5 x 10^-4 g.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; For addition, what controls the reported decimal place?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The largest number of digits anywhere.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.02; MLA.CHEM.MAT.03. 'The largest number of digits anywhere.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'The least precise decimal place in the measured values.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The first value only.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.02; MLA.CHEM.MAT.03. 'The first value only.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'The least precise decimal place in the measured values.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The unit abbreviation length.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.LAB.02; MLA.CHEM.MAT.03. 'The unit abbreviation length.' may sound related, but it misses the key safe lab procedure, measurement, data quality, or evidence handling required by the question. Compare it with 'The least precise decimal place in the measured values.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The least precise decimal place in the measured values.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.LAB.02; MLA.CHEM.MAT.03, 'The least precise decimal place in the measured values.' is the strongest answer because it uses safe lab procedure, measurement, data quality, or evidence handling from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

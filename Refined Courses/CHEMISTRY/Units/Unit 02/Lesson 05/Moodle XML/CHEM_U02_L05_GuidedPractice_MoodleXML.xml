@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U02_L05_GP_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L05_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trend</th><th>Across a period left to right</th><th>Down a group</th></tr><tr><td>Atomic radius</td><td>usually decreases</td><td>usually increases</td></tr><tr><td>Ionization energy</td><td>usually increases</td><td>usually decreases</td></tr><tr><td>Electronegativity</td><td>usually increases</td><td>usually decreases</td></tr></table><p><strong>Question:</strong> What usually happens to atomic radius across a period from left to right?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L05_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trend&lt;/th&gt;&lt;th&gt;Across a period left to right&lt;/th&gt;&lt;th&gt;Down a group&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atomic radius&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ionization energy&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electronegativity&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What usually happens to atomic radius across a period from left to right?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -18,32 +18,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>It becomes zero.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'It becomes zero.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'It decreases.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[It decreases.]]></text>
+      <text>It decreases.</text>
       <feedback format="html">
-        <text><![CDATA[Atomic radius generally decreases across a period.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'It decreases.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[It increases.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It changes into mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Increasing is the down-group radius pattern.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'It changes into mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'It decreases.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[It becomes zero.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It increases.</text>
       <feedback format="html">
-        <text><![CDATA[Atoms do not become zero size.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'It increases.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'It decreases.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[It changes into mass number.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Mass number is a different quantity.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L05_GP_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L05_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trend</th><th>Across a period left to right</th><th>Down a group</th></tr><tr><td>Atomic radius</td><td>usually decreases</td><td>usually increases</td></tr><tr><td>Ionization energy</td><td>usually increases</td><td>usually decreases</td></tr><tr><td>Electronegativity</td><td>usually increases</td><td>usually decreases</td></tr></table><p><strong>Question:</strong> Why does atomic radius usually increase down a group?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L05_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trend&lt;/th&gt;&lt;th&gt;Across a period left to right&lt;/th&gt;&lt;th&gt;Down a group&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atomic radius&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ionization energy&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electronegativity&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does atomic radius usually increase down a group?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Protons disappear.]]></text>
+      <text>Protons disappear.</text>
       <feedback format="html">
-        <text><![CDATA[Protons do not disappear down a group.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Protons disappear.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'More occupied energy levels are added.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[More occupied energy levels are added.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Electrons become photons.</text>
       <feedback format="html">
-        <text><![CDATA[Added energy levels place outer electrons farther out.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Electrons become photons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'More occupied energy levels are added.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Electrons become photons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass number becomes zero.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons do not become photons in this trend.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Mass number becomes zero.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'More occupied energy levels are added.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass number becomes zero.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>More occupied energy levels are added.</text>
       <feedback format="html">
-        <text><![CDATA[Mass number does not become zero.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'More occupied energy levels are added.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L05_GP_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L05_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trend</th><th>Across a period left to right</th><th>Down a group</th></tr><tr><td>Atomic radius</td><td>usually decreases</td><td>usually increases</td></tr><tr><td>Ionization energy</td><td>usually increases</td><td>usually decreases</td></tr><tr><td>Electronegativity</td><td>usually increases</td><td>usually decreases</td></tr></table><p><strong>Question:</strong> Which usually has higher ionization energy, sodium or chlorine in Period 3?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L05_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trend&lt;/th&gt;&lt;th&gt;Across a period left to right&lt;/th&gt;&lt;th&gt;Down a group&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atomic radius&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ionization energy&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electronegativity&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which usually has higher ionization energy, sodium or chlorine in Period 3?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -85,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Sodium]]></text>
+      <text>Sodium</text>
       <feedback format="html">
-        <text><![CDATA[Sodium is farther left.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Sodium' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[They must be equal]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They must be equal</text>
       <feedback format="html">
-        <text><![CDATA[They are not generally equal by trend.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'They must be equal' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Chlorine</text>
       <feedback format="html">
-        <text><![CDATA[Ionization energy generally increases left to right, so chlorine is higher.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'Chlorine' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Neither has electrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Neither has electrons</text>
       <feedback format="html">
-        <text><![CDATA[Both neutral atoms have electrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Neither has electrons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L05_GP_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L05_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trend</th><th>Across a period left to right</th><th>Down a group</th></tr><tr><td>Atomic radius</td><td>usually decreases</td><td>usually increases</td></tr><tr><td>Ionization energy</td><td>usually increases</td><td>usually decreases</td></tr><tr><td>Electronegativity</td><td>usually increases</td><td>usually decreases</td></tr></table><p><strong>Question:</strong> What is a periodic trend?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L05_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trend&lt;/th&gt;&lt;th&gt;Across a period left to right&lt;/th&gt;&lt;th&gt;Down a group&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atomic radius&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ionization energy&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electronegativity&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a periodic trend?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -118,31 +133,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[A repeating pattern in element properties.]]></text>
+      <text>A repeating pattern in element properties.</text>
       <feedback format="html">
-        <text><![CDATA[Periodic trends are repeating property patterns.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'A repeating pattern in element properties.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A random list of element names.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A random list of element names.</text>
       <feedback format="html">
-        <text><![CDATA[Element names alone do not describe trends.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A random list of element names.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'A repeating pattern in element properties.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A type of isotope.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A type of isotope.</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes are atoms with different neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A type of isotope.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'A repeating pattern in element properties.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A safety symbol.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A safety symbol.</text>
       <feedback format="html">
-        <text><![CDATA[Safety symbols are not trends.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A safety symbol.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'A repeating pattern in element properties.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L05_GP_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L05_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trend</th><th>Across a period left to right</th><th>Down a group</th></tr><tr><td>Atomic radius</td><td>usually decreases</td><td>usually increases</td></tr><tr><td>Ionization energy</td><td>usually increases</td><td>usually decreases</td></tr><tr><td>Electronegativity</td><td>usually increases</td><td>usually decreases</td></tr></table><p><strong>Question:</strong> Why should students explain trends instead of memorizing arrows only?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L05_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trend&lt;/th&gt;&lt;th&gt;Across a period left to right&lt;/th&gt;&lt;th&gt;Down a group&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atomic radius&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ionization energy&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electronegativity&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why should students explain trends instead of memorizing arrows only?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,26 +171,28 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Arrows are always enough.]]></text>
+      <text>Arrows are always enough.</text>
       <feedback format="html">
-        <text><![CDATA[Arrows without reasoning can be misapplied.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Arrows are always enough.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'The structure reason supports correct application.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Trends never have exceptions.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Trends never have exceptions.</text>
       <feedback format="html">
-        <text><![CDATA[Trends can have exceptions at advanced levels.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Trends never have exceptions.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'The structure reason supports correct application.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The periodic table has no structure.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The periodic table has no structure.</text>
       <feedback format="html">
-        <text><![CDATA[The periodic table is organized by structure and properties.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'The periodic table has no structure.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'The structure reason supports correct application.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The structure reason supports correct application.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The structure reason supports correct application.</text>
       <feedback format="html">
-        <text><![CDATA[Understanding structure prevents blind memorization.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'The structure reason supports correct application.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
+    </answer>
+  </question>
+</quiz>

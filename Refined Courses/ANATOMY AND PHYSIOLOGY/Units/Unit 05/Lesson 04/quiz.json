@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  5,
-    "lesson":  4,
-    "title":  "Heart Sounds, Hypertension, and Circulatory Evidence",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "BP/heart case stimulus",
-    "standards":  "MLA.ANP.CRI.02"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 05",
+  "lesson": "Lesson 04",
+  "lessonTitle": "Heart Sounds, Hypertension, and Circulatory Evidence",
+  "title": "Heart Sounds, Hypertension, and Circulatory Evidence Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U05_L04_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.CRI.02",
+    "MLA.ANP.HLR.01"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U05_L04_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

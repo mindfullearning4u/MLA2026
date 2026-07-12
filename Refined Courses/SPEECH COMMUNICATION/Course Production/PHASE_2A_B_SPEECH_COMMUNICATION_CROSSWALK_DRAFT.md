@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This crosswalk aligns the verified Speech Communication MLA standards to the official CPALMS `Speech 1 (#1007300)` benchmark set and to broad college, workforce, SAT, ACT, and Common Core readiness categories. The alignments are planning-level architecture alignments, not assessment items or lesson content.
+This crosswalk aligns the verified Speech Communication MLA standards to the official Florida B.E.S.T./CPALMS `Speech 1 (#1007300)` benchmark set and to broad college, workforce, SAT, ACT, and Common Core readiness categories. The alignments are planning-level architecture alignments, not assessment items or lesson content.
 
 All 25 official CPALMS-listed standards appear exactly once.
 

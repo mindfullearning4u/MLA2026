@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  6,
-    "lesson":  3,
-    "title":  "Radiation, Waves, and Remote Observation",
-    "standards":  "MLA.ESS.COS.02",
-    "required_visual_model_data":  "remote sensing diagram, wavelength table, and satellite image prompt",
-    "direct_resource":  {
-                            "url":  "https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used",
-                            "title":  "USGS Remote Sensing"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 06",
+  "lesson": "Lesson 03",
+  "title": "Radiation, Waves, and Remote Observation",
+  "standards": [
+    "MLA.ESS.COS.02",
+    "MLA.ESS.LAB.03"
+  ],
+  "required_visual_model_data": "remote sensing diagram, wavelength table, and satellite image prompt",
+  "direct_resource": {
+    "url": "https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used",
+    "title": "USGS Remote Sensing"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Radiation, Waves, and Remote Observation",
+  "primaryStandards": [
+    "MLA.ESS.COS.02",
+    "MLA.ESS.LAB.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "USGS Remote Sensing",
+      "exactDirectUrl": "https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U06_L03_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U06_L03_Quiz_MoodleXML.xml"
 }

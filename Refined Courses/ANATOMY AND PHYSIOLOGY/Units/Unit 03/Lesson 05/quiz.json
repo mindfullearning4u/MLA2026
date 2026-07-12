@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  3,
-    "lesson":  5,
-    "title":  "Major Muscles and Movement",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Muscle diagram/movement stimulus",
-    "standards":  "MLA.ANP.SKM.02"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 03",
+  "lesson": "Lesson 05",
+  "lessonTitle": "Major Muscles and Movement",
+  "title": "Major Muscles and Movement Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U03_L05_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.SKM.02",
+    "MLA.ANP.ORG.01"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U03_L05_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

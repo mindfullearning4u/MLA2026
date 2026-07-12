@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  1,
-    "lesson":  4,
-    "title":  "Body Organization and Homeostasis",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Homeostasis feedback model",
-    "standards":  "MLA.ANP.ORG.01"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 01",
+  "lesson": "Lesson 04",
+  "lessonTitle": "Body Organization and Homeostasis",
+  "title": "Body Organization and Homeostasis Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U01_L04_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.ORG.01",
+    "MLA.ANP.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U01_L04_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

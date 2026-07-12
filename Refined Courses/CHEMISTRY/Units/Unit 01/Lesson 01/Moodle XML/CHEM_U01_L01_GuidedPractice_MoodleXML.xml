@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U01_L01_GP_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L01_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> Which statement is measurement evidence?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L01_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement is measurement evidence?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -19,31 +19,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The cleaner is chemical free.]]></text>
+      <text>The cleaner is chemical free.</text>
       <feedback format="html">
-        <text><![CDATA[The choice does not give measured data from a tool.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The cleaner is chemical free.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The sample mass was 18.4 g.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The liquid looks useful.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The liquid looks useful.</text>
       <feedback format="html">
-        <text><![CDATA[Opinion or vague usefulness is not chemistry evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The liquid looks useful.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The sample mass was 18.4 g.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The sample mass was 18.4 g.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The sample mass was 18.4 g.</text>
       <feedback format="html">
-        <text><![CDATA[Measurement evidence includes a number from a tool and a unit.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'The sample mass was 18.4 g.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The bottle seems interesting.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The bottle seems interesting.</text>
       <feedback format="html">
-        <text><![CDATA[Interest is not evidence because it cannot support a scientific claim.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The bottle seems interesting.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The sample mass was 18.4 g.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L01_GP_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L01_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> Which source should be treated as least reliable for a chemistry claim?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L01_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which source should be treated as least reliable for a chemistry claim?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A lab note with a tool and unit.]]></text>
+      <text>A repeated data table.</text>
       <feedback format="html">
-        <text><![CDATA[A lab note with tool and unit provides checkable evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'A repeated data table.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'An advertisement with no ingredient or test data.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A repeated data table.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>An advertisement with no ingredient or test data.</text>
       <feedback format="html">
-        <text><![CDATA[Repeated data support reliability when collected correctly.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'An advertisement with no ingredient or test data.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[An advertisement with no ingredient or test data.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A published safety label.</text>
       <feedback format="html">
-        <text><![CDATA[A claim without data or source details is weakest.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'A published safety label.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'An advertisement with no ingredient or test data.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A published safety label.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A lab note with a tool and unit.</text>
       <feedback format="html">
-        <text><![CDATA[A safety label is a source that can guide safety decisions.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'A lab note with a tool and unit.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'An advertisement with no ingredient or test data.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L01_GP_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L01_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> What is the best reasoning for the claim that repeated temperature readings are precise?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L01_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the best reasoning for the claim that repeated temperature readings are precise?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -85,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The readings are close to each other across trials.]]></text>
+      <text>The readings are close to each other across trials.</text>
       <feedback format="html">
-        <text><![CDATA[Precision is about repeated measurements agreeing with each other.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'The readings are close to each other across trials.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The readings use large numbers.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The readings use large numbers.</text>
       <feedback format="html">
-        <text><![CDATA[Large numbers do not prove precision.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The readings use large numbers.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The readings are close to each other across trials.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The readings came from an advertisement.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The readings came from an advertisement.</text>
       <feedback format="html">
-        <text><![CDATA[Advertisements are not automatically measurement evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The readings came from an advertisement.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The readings are close to each other across trials.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The readings are all opinions.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The readings are all opinions.</text>
       <feedback format="html">
-        <text><![CDATA[Opinions are not repeated measurements.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The readings are all opinions.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The readings are close to each other across trials.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L01_GP_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L01_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> In CER, what part explains why evidence supports the claim?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L01_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; In CER, what part explains why evidence supports the claim?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -118,31 +133,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Claim]]></text>
+      <text>Claim</text>
       <feedback format="html">
-        <text><![CDATA[A claim is the answer being supported, not the explanation.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'Claim' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Reasoning', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Unit label]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Unit label</text>
       <feedback format="html">
-        <text><![CDATA[A unit label helps describe data but does not explain the science link.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'Unit label' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Reasoning', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Source title]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Source title</text>
       <feedback format="html">
-        <text><![CDATA[A source title identifies origin but does not connect evidence to claim.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'Source title' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Reasoning', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Reasoning]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Reasoning</text>
       <feedback format="html">
-        <text><![CDATA[Reasoning connects evidence to the science concept.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'Reasoning' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L01_GP_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L01_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.01; MLA.CHEM.SCI.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Source</th><th>Statement</th><th>Evidence Detail</th></tr><tr><td>Lab note</td><td>The sample mass was 18.4 g.</td><td>Measured with a balance and recorded with a unit.</td></tr><tr><td>Advertisement</td><td>The cleaner is chemical free.</td><td>No ingredient or test data given.</td></tr><tr><td>Data table</td><td>Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.</td><td>Repeated measurements are close.</td></tr></table><p><strong>Question:</strong> Which response best improves the claim 'the liquid is safe'?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L01_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.01; MLA.CHEM.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Evidence Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lab note&lt;/td&gt;&lt;td&gt;The sample mass was 18.4 g.&lt;/td&gt;&lt;td&gt;Measured with a balance and recorded with a unit.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Advertisement&lt;/td&gt;&lt;td&gt;The cleaner is chemical free.&lt;/td&gt;&lt;td&gt;No ingredient or test data given.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Trial 1: 22.0 deg C; Trial 2: 22.1 deg C.&lt;/td&gt;&lt;td&gt;Repeated measurements are close.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which response best improves the claim 'the liquid is safe'?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -150,29 +170,29 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>The liquid has a labeled concentration, safety data, and no hazard warning for the intended use.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.01; MLA.CHEM.SCI.02, 'The liquid has a labeled concentration, safety data, and no hazard warning for the intended use.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The liquid is blue.]]></text>
+      <text>The liquid is blue.</text>
       <feedback format="html">
-        <text><![CDATA[Color alone does not establish safety.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The liquid is blue.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The liquid has a labeled concentration, safety data, and no hazard warning for the intended use.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The liquid has a labeled concentration, safety data, and no hazard warning for the intended use.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The liquid is in a clean bottle.</text>
       <feedback format="html">
-        <text><![CDATA[Safety claims need identity, concentration, exposure, and source evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The liquid is in a clean bottle.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The liquid has a labeled concentration, safety data, and no hazard warning for the intended use.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The liquid is in a clean bottle.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The liquid is popular online.</text>
       <feedback format="html">
-        <text><![CDATA[A clean bottle does not prove chemical safety.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.01; MLA.CHEM.SCI.02. 'The liquid is popular online.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'The liquid has a labeled concentration, safety data, and no hazard warning for the intended use.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The liquid is popular online.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Popularity is not scientific evidence.]]></text>
-      </feedback>
-    </answer>  </question></quiz>
-
-
-
-
-
+    </answer>
+  </question>
+</quiz>

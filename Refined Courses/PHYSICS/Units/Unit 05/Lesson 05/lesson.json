@@ -40,7 +40,7 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Circuit Construction Kit DC",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -50,5 +50,29 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Power in Circuits",
+  "standards": [
+    "MLA.PHYS.ELE.03",
+    "MLA.PHYS.ENE.01"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.ELE.03",
+    "MLA.PHYS.ENE.01"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Circuit Construction Kit DC",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "OpenStax: Electric Power and Energy",
+      "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/20-4-electric-power-and-energy",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U05_L05_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/PHYS_U05_L05_Quiz_MoodleXML.xml"
 }

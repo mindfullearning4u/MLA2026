@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  5,
-    "lesson":  4,
-    "title":  "Stars and Stellar Evolution",
-    "standards":  "MLA.ESS.AST.04",
-    "required_visual_model_data":  "star life-cycle diagram and initial-mass pathway table",
-    "direct_resource":  {
-                            "url":  "https://science.nasa.gov/universe/stars/",
-                            "title":  "NASA Star Life Cycle"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 05",
+  "lesson": "Lesson 04",
+  "title": "Stars and Stellar Evolution",
+  "standards": [
+    "MLA.ESS.AST.04",
+    "MLA.ESS.COS.02"
+  ],
+  "required_visual_model_data": "star life-cycle diagram and initial-mass pathway table",
+  "direct_resource": {
+    "url": "https://science.nasa.gov/universe/stars/",
+    "title": "NASA Star Life Cycle"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Stars and Stellar Evolution",
+  "primaryStandards": [
+    "MLA.ESS.AST.04",
+    "MLA.ESS.COS.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Star Life Cycle",
+      "exactDirectUrl": "https://science.nasa.gov/universe/stars/",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U05_L04_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U05_L04_Quiz_MoodleXML.xml"
 }

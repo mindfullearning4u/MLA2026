@@ -59,12 +59,12 @@ The course is organized into six units, each designed to build progressively tow
 
 Approved unit sequence:
 
-- Unit 1: Foundations of Creative Expression
-- Unit 2: Narrative Writing
-- Unit 3: Poetry and Language
-- Unit 4: Creative Nonfiction
-- Unit 5: Style and Revision
-- Unit 6: Portfolio and Publication
+- Unit 1: Foundations of Creative Writing, Voice, and Craft
+- Unit 2: Narrative Craft, Point of View, Character, and Setting
+- Unit 3: Fiction, Theme, Adaptation, and World Building
+- Unit 4: Poetry, Figurative Language, Mood, and Style
+- Unit 5: Revision, Workshop, Portfolio, and Publication
+- Unit 6: Author Portfolio, Presentation, and Publication Synthesis
 
 Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
 

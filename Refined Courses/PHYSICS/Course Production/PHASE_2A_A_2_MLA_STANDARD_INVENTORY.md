@@ -2,7 +2,7 @@
 
 ## Source Control
 
-Official source verified: CPALMS Physics 1, course number `2003380`, current course record `23835`, version `2024 - And Beyond (current)`.
+Official source verified with embedded Florida B.E.S.T. literacy/readiness support: CPALMS Physics 1, course number `2003380`, current course record `23835`, version `2024 - And Beyond (current)`.
 
 CPALMS-listed standards verified: 52.
 

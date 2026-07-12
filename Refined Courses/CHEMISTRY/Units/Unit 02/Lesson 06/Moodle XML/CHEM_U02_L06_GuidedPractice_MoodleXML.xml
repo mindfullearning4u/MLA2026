@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U02_L06_GP_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L06_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Event</th><th>Electron movement</th><th>Energy result</th></tr><tr><td>Absorption</td><td>lower level to higher level</td><td>electron gains energy</td></tr><tr><td>Emission</td><td>higher level to lower level</td><td>photon released</td></tr><tr><td>No match</td><td>energy does not fit levels</td><td>transition does not occur</td></tr></table><p><strong>Question:</strong> What happens during absorption?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L06_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Electron movement&lt;/th&gt;&lt;th&gt;Energy result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Absorption&lt;/td&gt;&lt;td&gt;lower level to higher level&lt;/td&gt;&lt;td&gt;electron gains energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Emission&lt;/td&gt;&lt;td&gt;higher level to lower level&lt;/td&gt;&lt;td&gt;photon released&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No match&lt;/td&gt;&lt;td&gt;energy does not fit levels&lt;/td&gt;&lt;td&gt;transition does not occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens during absorption?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -18,32 +18,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The nucleus disappears.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'The nucleus disappears.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron gains energy and moves to a higher level.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All levels become continuous.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'All levels become continuous.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron gains energy and moves to a higher level.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>An electron drops and emits a photon.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'An electron drops and emits a photon.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron gains energy and moves to a higher level.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[An electron gains energy and moves to a higher level.]]></text>
+      <text>An electron gains energy and moves to a higher level.</text>
       <feedback format="html">
-        <text><![CDATA[Absorption means gaining energy and moving upward.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'An electron gains energy and moves to a higher level.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[An electron drops and emits a photon.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Dropping and emitting describes emission.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The nucleus disappears.]]></text>
-      <feedback format="html">
-        <text><![CDATA[The nucleus does not disappear.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All levels become continuous.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Quantized levels are not continuous.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L06_GP_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L06_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Event</th><th>Electron movement</th><th>Energy result</th></tr><tr><td>Absorption</td><td>lower level to higher level</td><td>electron gains energy</td></tr><tr><td>Emission</td><td>higher level to lower level</td><td>photon released</td></tr><tr><td>No match</td><td>energy does not fit levels</td><td>transition does not occur</td></tr></table><p><strong>Question:</strong> What happens during emission?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L06_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Electron movement&lt;/th&gt;&lt;th&gt;Energy result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Absorption&lt;/td&gt;&lt;td&gt;lower level to higher level&lt;/td&gt;&lt;td&gt;electron gains energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Emission&lt;/td&gt;&lt;td&gt;higher level to lower level&lt;/td&gt;&lt;td&gt;photon released&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No match&lt;/td&gt;&lt;td&gt;energy does not fit levels&lt;/td&gt;&lt;td&gt;transition does not occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens during emission?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,64 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[An electron gains energy.]]></text>
+      <text>An electron gains energy.</text>
       <feedback format="html">
-        <text><![CDATA[Gaining energy describes absorption.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'An electron gains energy.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron drops to a lower level and releases a photon.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A proton leaves the atom.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A proton leaves the atom.</text>
       <feedback format="html">
-        <text><![CDATA[Protons do not leave in this model.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A proton leaves the atom.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron drops to a lower level and releases a photon.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The atom loses all electrons.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>An electron drops to a lower level and releases a photon.</text>
       <feedback format="html">
-        <text><![CDATA[Emission does not mean losing all electrons.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'An electron drops to a lower level and releases a photon.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[An electron drops to a lower level and releases a photon.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The atom loses all electrons.</text>
       <feedback format="html">
-        <text><![CDATA[Emission occurs when an electron drops and releases light energy.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'The atom loses all electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron drops to a lower level and releases a photon.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_L06_GP_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L06_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Event</th><th>Electron movement</th><th>Energy result</th></tr><tr><td>Absorption</td><td>lower level to higher level</td><td>electron gains energy</td></tr><tr><td>Emission</td><td>higher level to lower level</td><td>photon released</td></tr><tr><td>No match</td><td>energy does not fit levels</td><td>transition does not occur</td></tr></table><p><strong>Question:</strong> Why do line spectra support quantized energy?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Every possible color appears equally.]]></text>
-      <feedback format="html">
-        <text><![CDATA[A continuous spread would not show quantized transitions the same way.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Only specific lines appear, showing specific energy changes.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Specific spectral lines indicate specific transitions.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atoms have no electrons.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Electrons are central to spectra.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass number changes every second.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Mass number is unrelated to spectral lines here.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U02_L06_GP_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L06_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Event</th><th>Electron movement</th><th>Energy result</th></tr><tr><td>Absorption</td><td>lower level to higher level</td><td>electron gains energy</td></tr><tr><td>Emission</td><td>higher level to lower level</td><td>photon released</td></tr><tr><td>No match</td><td>energy does not fit levels</td><td>transition does not occur</td></tr></table><p><strong>Question:</strong> Which analogy fits quantized energy best?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L06_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Electron movement&lt;/th&gt;&lt;th&gt;Energy result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Absorption&lt;/td&gt;&lt;td&gt;lower level to higher level&lt;/td&gt;&lt;td&gt;electron gains energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Emission&lt;/td&gt;&lt;td&gt;higher level to lower level&lt;/td&gt;&lt;td&gt;photon released&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No match&lt;/td&gt;&lt;td&gt;energy does not fit levels&lt;/td&gt;&lt;td&gt;transition does not occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why do line spectra support quantized energy?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -118,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[A staircase with specific steps]]></text>
+      <text>Only specific lines appear, showing specific energy changes.</text>
       <feedback format="html">
-        <text><![CDATA[Specific steps match allowed energy levels.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'Only specific lines appear, showing specific energy changes.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A smooth ramp with every height allowed]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atoms have no electrons.</text>
       <feedback format="html">
-        <text><![CDATA[A smooth ramp suggests any energy is allowed.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Atoms have no electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Only specific lines appear, showing specific energy changes.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A spilled liquid]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass number changes every second.</text>
       <feedback format="html">
-        <text><![CDATA[Spilled liquid is not a good energy-level model.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Mass number changes every second.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Only specific lines appear, showing specific energy changes.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A random cloud with no rules]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Every possible color appears equally.</text>
       <feedback format="html">
-        <text><![CDATA[Quantized systems have rules.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Every possible color appears equally.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Only specific lines appear, showing specific energy changes.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
-      <text>CHEM_U02_L06_GP_Q05</text>
+      <text>CHEM_U02_L06_GP_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_L06_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Event</th><th>Electron movement</th><th>Energy result</th></tr><tr><td>Absorption</td><td>lower level to higher level</td><td>electron gains energy</td></tr><tr><td>Emission</td><td>higher level to lower level</td><td>photon released</td></tr><tr><td>No match</td><td>energy does not fit levels</td><td>transition does not occur</td></tr></table><p><strong>Question:</strong> If an electron moves from level 4 to level 2, what type of event is it?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L06_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Electron movement&lt;/th&gt;&lt;th&gt;Energy result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Absorption&lt;/td&gt;&lt;td&gt;lower level to higher level&lt;/td&gt;&lt;td&gt;electron gains energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Emission&lt;/td&gt;&lt;td&gt;higher level to lower level&lt;/td&gt;&lt;td&gt;photon released&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No match&lt;/td&gt;&lt;td&gt;energy does not fit levels&lt;/td&gt;&lt;td&gt;transition does not occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which analogy fits quantized energy best?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,26 +133,66 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Absorption]]></text>
+      <text>A random cloud with no rules</text>
       <feedback format="html">
-        <text><![CDATA[Absorption moves upward.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A random cloud with no rules' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'A staircase with specific steps', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[No atomic event]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A staircase with specific steps</text>
       <feedback format="html">
-        <text><![CDATA[It is an atomic electron transition.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'A staircase with specific steps' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Emission]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A smooth ramp with every height allowed</text>
       <feedback format="html">
-        <text><![CDATA[Moving downward releases energy, so it is emission.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A smooth ramp with every height allowed' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'A staircase with specific steps', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Isotope formation]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A spilled liquid</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes involve neutrons, not electron transitions.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'A spilled liquid' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'A staircase with specific steps', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U02_L06_GP_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_L06_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Electron movement&lt;/th&gt;&lt;th&gt;Energy result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Absorption&lt;/td&gt;&lt;td&gt;lower level to higher level&lt;/td&gt;&lt;td&gt;electron gains energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Emission&lt;/td&gt;&lt;td&gt;higher level to lower level&lt;/td&gt;&lt;td&gt;photon released&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No match&lt;/td&gt;&lt;td&gt;energy does not fit levels&lt;/td&gt;&lt;td&gt;transition does not occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; If an electron moves from level 4 to level 2, what type of event is it?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Absorption</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Absorption' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Emission', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No atomic event</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'No atomic event' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Emission', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Emission</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'Emission' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Isotope formation</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Isotope formation' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Emission', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

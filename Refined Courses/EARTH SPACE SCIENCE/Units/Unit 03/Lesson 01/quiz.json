@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  3,
-    "lesson":  1,
-    "title":  "Water and Carbon Cycles",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "standards":  "MLA.ESS.ATM.01",
-    "required_stimulus":  "water cycle diagram, carbon cycle diagram, and reservoir-flow table",
-    "rigor_status":  "content-specific XML"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 03",
+  "lesson": "Lesson 01",
+  "lessonTitle": "Water and Carbon Cycles",
+  "title": "Water and Carbon Cycles Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ESS_U03_L01_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ESS.ATM.01",
+    "MLA.ESS.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ESS_U03_L01_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  2,
-    "lesson":  2,
-    "title":  "Surface Features and Surface Processes",
-    "standards":  "MLA.ESS.EAR.02",
-    "required_visual_model_data":  "landform image, process diagram, and feature-process table",
-    "direct_resource":  {
-                            "url":  "https://earthobservatory.nasa.gov/features/Weathering",
-                            "title":  "NASA Earth Observatory: Weathering and Erosion"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 02",
+  "lesson": "Lesson 02",
+  "title": "Surface Features and Surface Processes",
+  "standards": [
+    "MLA.ESS.EAR.02",
+    "MLA.ESS.LAB.02"
+  ],
+  "required_visual_model_data": "landform image, process diagram, and feature-process table",
+  "direct_resource": {
+    "url": "https://earthobservatory.nasa.gov/features/Weathering",
+    "title": "NASA Earth Observatory: Weathering and Erosion"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Surface Features and Surface Processes",
+  "primaryStandards": [
+    "MLA.ESS.EAR.02",
+    "MLA.ESS.LAB.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Earth Observatory: Weathering and Erosion",
+      "exactDirectUrl": "https://earthobservatory.nasa.gov/features/Weathering",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U02_L02_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U02_L02_Quiz_MoodleXML.xml"
 }

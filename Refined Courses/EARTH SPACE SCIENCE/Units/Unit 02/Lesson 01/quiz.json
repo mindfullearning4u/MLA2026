@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  2,
-    "lesson":  1,
-    "title":  "Earth\u0027s Layers and Interior",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "standards":  "MLA.ESS.EAR.01",
-    "required_stimulus":  "Earth layer cross-section and layer-property table",
-    "rigor_status":  "content-specific XML"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 02",
+  "lesson": "Lesson 01",
+  "lessonTitle": "Earth's Layers and Interior",
+  "title": "Earth's Layers and Interior Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ESS_U02_L01_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ESS.EAR.01",
+    "MLA.ESS.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ESS_U02_L01_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

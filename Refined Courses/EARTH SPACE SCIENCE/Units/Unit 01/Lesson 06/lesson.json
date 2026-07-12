@@ -1,24 +1,43 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  1,
-    "lesson":  6,
-    "title":  "Observations, Inferences, and Models",
-    "standards":  "MLA.ESS.SCI.03",
-    "required_visual_model_data":  "satellite image prompt, observation/inference table, and model limitation chart",
-    "direct_resource":  {
-                            "record":  "two observations, one inference, and one limitation of using a single image as a model",
-                            "title":  "NASA Visible Earth Image Resource",
-                            "url":  "https://visibleearth.nasa.gov/images/57752/blue-marble-land-surface-shallow-water-and-shaded-topography",
-                            "observe":  "what is visible in the Earth image before making any explanatory inference"
-                        },
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "rigor_status":  "Unit 1 rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 01",
+  "lesson": "Lesson 06",
+  "title": "Observations, Inferences, and Models",
+  "standards": [
+    "MLA.ESS.SCI.03",
+    "MLA.ESS.LAB.02"
+  ],
+  "required_visual_model_data": "satellite image prompt, observation/inference table, and model limitation chart",
+  "direct_resource": {
+    "record": "two observations, one inference, and one limitation of using a single image as a model",
+    "title": "NASA Visible Earth Image Resource",
+    "url": "https://visibleearth.nasa.gov/images/57752/blue-marble-land-surface-shallow-water-and-shaded-topography",
+    "observe": "what is visible in the Earth image before making any explanatory inference"
+  },
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "rigor_status": "Unit 1 rigorous rebuild completed",
+  "lessonTitle": "Observations, Inferences, and Models",
+  "primaryStandards": [
+    "MLA.ESS.SCI.03",
+    "MLA.ESS.LAB.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Visible Earth Image Resource",
+      "exactDirectUrl": "https://visibleearth.nasa.gov/images/57752/blue-marble-land-surface-shallow-water-and-shaded-topography",
+      "studentTask": "two observations, one inference, and one limitation of using a single image as a model",
+      "observe": "what is visible in the Earth image before making any explanatory inference"
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U01_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U01_L06_Quiz_MoodleXML.xml"
 }

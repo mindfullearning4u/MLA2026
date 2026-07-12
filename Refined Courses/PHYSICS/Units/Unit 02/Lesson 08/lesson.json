@@ -46,20 +46,61 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Forces and Motion Basics",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
         "name": "PhET: Gravity and Orbits",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/gravity-and-orbits",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
         "name": "PhET: Collision Lab",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/collision-lab",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Putting It All Together",
+  "standards": [
+    "MLA.PHYS.FOR.01",
+    "MLA.PHYS.FOR.02",
+    "MLA.PHYS.FOR.03",
+    "MLA.PHYS.ENE.05",
+    "MLA.PHYS.SCI.01",
+    "MLA.PHYS.LAB.02",
+    "MLA.PHYS.MOT.01",
+    "MLA.PHYS.MOT.02"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.FOR.01",
+    "MLA.PHYS.FOR.02",
+    "MLA.PHYS.FOR.03",
+    "MLA.PHYS.ENE.05",
+    "MLA.PHYS.SCI.01",
+    "MLA.PHYS.LAB.02",
+    "MLA.PHYS.MOT.01",
+    "MLA.PHYS.MOT.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Forces and Motion Basics",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "PhET: Gravity and Orbits",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "PhET: Collision Lab",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U02_L08_GuidedPractice_MoodleXML.xml",
+  "unitAssessment": "Moodle XML/PHYS_U02_UnitAssessment_MoodleXML.xml"
 }

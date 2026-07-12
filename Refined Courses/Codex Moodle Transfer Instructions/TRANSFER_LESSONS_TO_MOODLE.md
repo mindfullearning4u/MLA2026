@@ -142,7 +142,7 @@ The agent must:
 9. Verify each saved page.
 10. Record each transfer in a Moodle upload log.
 
-The course orientation overview is a required first phase for full-course transfer. It uses the repository course overview markdown file and the Moodle content editor, not the lesson-page `Tools > Source code` HTML replacement method. This is the only approved exception in this standard.
+The course orientation overview is a required first phase for full-course transfer. It must also be transferred through Moodle `Tools > Source code` when the normal Moodle content editor does not render the repository overview correctly. The academy-preferred method is to convert or use the repository course overview content as clean HTML, open `Tools > Source code`, clear the existing source, paste the clean overview source, save/update the source dialog, verify the visible editor renders headings and structure correctly, then click Moodle `Save page`.
 
 ## Mandatory Pre-Transfer Mastery Certification Gate
 
@@ -259,7 +259,7 @@ The agent must obey these rules with no exceptions:
 - Do not use XML for lesson page transfers.
 - Do not paste into the normal rich text editor as the final transfer method.
 - Do not paste into the visible TinyMCE editor, the Moodle content box, hidden editor textareas, browser DOM fields, or any editor surface other than `Tools > Source code` for lesson pages. A lesson page transferred by any method other than `Tools > Source code` is not academy-compliant and must be re-transferred through source code before it can be logged as complete.
-- Exception: the course orientation overview page must be transferred into the Moodle content editor from the repository course overview markdown file, then cleaned and verified as described in this standard.
+- Course orientation overview is not a blanket exception to source-code transfer. If direct content-box paste produces visible markdown markers, raw HTML, stripped headings, missing structure, or otherwise incorrect rendering, reopen `Tools > Source code`, clear the existing source, paste clean repository-derived overview HTML, verify the rendered editor view, then save the Moodle page.
 - Do not save a Moodle page when the course, unit, lesson, page title, or repo file is uncertain.
 - Do not assume that a similarly named page is correct. Confirm the course, unit, lesson, activity, and page title.
 - Do not transfer `P05.html` unless the user explicitly asks for page 5.

@@ -1,25 +1,43 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  6,
-    "lesson":  1,
-    "title":  "Digestive System Physiology",
-    "standards":  "MLA.ANP.DUR.01",
-    "support_standards":  "MLA.ANP.ORG.03",
-    "purpose":  "Describe mechanical digestion, chemical digestion, absorption, and controls.",
-    "required_visual_model_data":  "Digestive system diagram; mechanical/chemical digestion table; control pathway",
-    "direct_resource":  {
-                            "Title":  "OpenStax: Digestive System",
-                            "Url":  "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-introduction",
-                            "Task":  "Click the link and use the digestive chapter introduction. Observe mechanical digestion, chemical digestion, absorption, and control. Record each process and one organ where it occurs."
-                        },
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "mastery_rule":  "Student can explain the lesson standard with structure-function reasoning and visual/data evidence."
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 06",
+  "lesson": "Lesson 01",
+  "title": "Digestive System Physiology",
+  "standards": [
+    "MLA.ANP.DUR.01",
+    "MLA.ANP.ORG.03"
+  ],
+  "support_standards": "MLA.ANP.ORG.03",
+  "purpose": "Describe mechanical digestion, chemical digestion, absorption, and controls.",
+  "required_visual_model_data": "Digestive system diagram; mechanical/chemical digestion table; control pathway",
+  "direct_resource": {
+    "Title": "OpenStax: Digestive System",
+    "Url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-introduction",
+    "Task": "Click the link and use the digestive chapter introduction. Observe mechanical digestion, chemical digestion, absorption, and control. Record each process and one organ where it occurs."
+  },
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "mastery_rule": "Student can explain the lesson standard with structure-function reasoning and visual/data evidence.",
+  "lessonTitle": "Digestive System Physiology",
+  "primaryStandards": [
+    "MLA.ANP.DUR.01",
+    "MLA.ANP.ORG.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "OpenStax: Digestive System",
+      "exactDirectUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-introduction",
+      "studentTask": "Click the link and use the digestive chapter introduction. Observe mechanical digestion, chemical digestion, absorption, and control. Record each process and one organ where it occurs."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ANP_U06_L01_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ANP_U06_L01_Quiz_MoodleXML.xml"
 }

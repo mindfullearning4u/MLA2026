@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U02_PT_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Model</th><th>Main idea</th><th>Evidence</th></tr><tr><td>Thomson</td><td>electrons in positive matter</td><td>cathode rays showed negative particles</td></tr><tr><td>Rutherford</td><td>tiny dense positive nucleus</td><td>gold foil alpha particles sometimes deflected sharply</td></tr><tr><td>Bohr</td><td>specific electron energy levels</td><td>line spectra showed specific emitted energies</td></tr></table><p><strong>Question:</strong> Which evidence best supports the idea that atoms contain electrons?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Main idea&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Thomson&lt;/td&gt;&lt;td&gt;electrons in positive matter&lt;/td&gt;&lt;td&gt;cathode rays showed negative particles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rutherford&lt;/td&gt;&lt;td&gt;tiny dense positive nucleus&lt;/td&gt;&lt;td&gt;gold foil alpha particles sometimes deflected sharply&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bohr&lt;/td&gt;&lt;td&gt;specific electron energy levels&lt;/td&gt;&lt;td&gt;line spectra showed specific emitted energies&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which evidence best supports the idea that atoms contain electrons?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -18,32 +18,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Atoms always have the same mass.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.01. 'Atoms always have the same mass.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Cathode rays behaved as negatively charged particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Radio waves have long wavelength.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.01. 'Radio waves have long wavelength.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Cathode rays behaved as negatively charged particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Gold foil changed color.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.01. 'Gold foil changed color.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Cathode rays behaved as negatively charged particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Cathode rays behaved as negatively charged particles.]]></text>
+      <text>Cathode rays behaved as negatively charged particles.</text>
       <feedback format="html">
-        <text><![CDATA[Cathode ray deflection supported negatively charged electrons.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.01, 'Cathode rays behaved as negatively charged particles.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Gold foil changed color.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Color change is not the evidence for electrons.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atoms always have the same mass.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Same mass is not true for all atoms or isotopes.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Radio waves have long wavelength.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Radio waves are electromagnetic radiation, not direct electron evidence.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_PT_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Particle</th><th>Charge</th><th>Relative mass</th><th>Location</th></tr><tr><td>proton</td><td>+1</td><td>about 1 amu</td><td>nucleus</td></tr><tr><td>neutron</td><td>0</td><td>about 1 amu</td><td>nucleus</td></tr><tr><td>electron</td><td>-1</td><td>very small</td><td>outside nucleus</td></tr></table><p><strong>Question:</strong> A neutral atom has 8 protons. How many electrons does it have?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Particle&lt;/th&gt;&lt;th&gt;Charge&lt;/th&gt;&lt;th&gt;Relative mass&lt;/th&gt;&lt;th&gt;Location&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;proton&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;about 1 amu&lt;/td&gt;&lt;td&gt;nucleus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;neutron&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;about 1 amu&lt;/td&gt;&lt;td&gt;nucleus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;electron&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;very small&lt;/td&gt;&lt;td&gt;outside nucleus&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; A neutral atom has 8 protons. How many electrons does it have?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[0]]></text>
+      <text>0</text>
       <feedback format="html">
-        <text><![CDATA[Zero electrons would make the atom highly charged.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '0' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '8', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[16]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>16</text>
       <feedback format="html">
-        <text><![CDATA[16 doubles the proton count incorrectly.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '16' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '8', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[8]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>8</text>
       <feedback format="html">
-        <text><![CDATA[Neutral atoms have equal protons and electrons.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, '8' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[4]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4</text>
       <feedback format="html">
-        <text><![CDATA[4 does not balance the 8 protons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. '4' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '8', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_PT_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Question:</strong> Why is chlorine's average atomic mass closer to 35 than 37 in the table?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is chlorine's average atomic mass closer to 35 than 37 in the table?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -84,32 +94,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Chlorine-35 is more abundant.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Chlorine-35 is more abundant.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Chlorine-37 has more neutrons.]]></text>
+      <text>Both isotopes have electrons.</text>
       <feedback format="html">
-        <text><![CDATA[More neutrons does not control closeness by itself.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Both isotopes have electrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Both isotopes have electrons.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The average ignores abundance.</text>
       <feedback format="html">
-        <text><![CDATA[Electrons do not explain weighted average mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'The average ignores abundance.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Chlorine-35 is more abundant.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Chlorine-37 has more neutrons.</text>
       <feedback format="html">
-        <text><![CDATA[The more abundant isotope pulls the weighted average closer to its mass.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Chlorine-37 has more neutrons.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Chlorine-35 is more abundant.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The average ignores abundance.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Average atomic mass uses abundance.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_PT_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Element</th><th>Atomic number</th><th>Simple electron arrangement</th></tr><tr><td>Lithium</td><td>3</td><td>2, 1</td></tr><tr><td>Carbon</td><td>6</td><td>2, 4</td></tr><tr><td>Sodium</td><td>11</td><td>2, 8, 1</td></tr></table><p><strong>Question:</strong> A neutral atom has atomic number 6. How many electrons does it have?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Element&lt;/th&gt;&lt;th&gt;Atomic number&lt;/th&gt;&lt;th&gt;Simple electron arrangement&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lithium&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2, 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2, 4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sodium&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;2, 8, 1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; A neutral atom has atomic number 6. How many electrons does it have?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -117,32 +132,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>2</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '2' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '6', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[6]]></text>
+      <text>6</text>
       <feedback format="html">
-        <text><![CDATA[Neutral atoms have electrons equal protons, and atomic number is protons.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, '6' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[12]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>12</text>
       <feedback format="html">
-        <text><![CDATA[12 may be a mass number, not electron count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '12' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '6', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[4]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4</text>
       <feedback format="html">
-        <text><![CDATA[4 is carbon's valence count, not total electrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. '4' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with '6', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[2]]></text>
-      <feedback format="html">
-        <text><![CDATA[2 is the first energy level count.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_PT_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Trend</th><th>Across a period left to right</th><th>Down a group</th></tr><tr><td>Atomic radius</td><td>usually decreases</td><td>usually increases</td></tr><tr><td>Ionization energy</td><td>usually increases</td><td>usually decreases</td></tr><tr><td>Electronegativity</td><td>usually increases</td><td>usually decreases</td></tr></table><p><strong>Question:</strong> Why should students explain trends instead of memorizing arrows only?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Trend&lt;/th&gt;&lt;th&gt;Across a period left to right&lt;/th&gt;&lt;th&gt;Down a group&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atomic radius&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ionization energy&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electronegativity&lt;/td&gt;&lt;td&gt;usually increases&lt;/td&gt;&lt;td&gt;usually decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why should students explain trends instead of memorizing arrows only?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,130 +171,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Arrows are always enough.]]></text>
+      <text>Arrows are always enough.</text>
       <feedback format="html">
-        <text><![CDATA[Arrows without reasoning can be misapplied.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Arrows are always enough.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'The structure reason supports correct application.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Trends never have exceptions.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Trends never have exceptions.</text>
       <feedback format="html">
-        <text><![CDATA[Trends can have exceptions at advanced levels.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'Trends never have exceptions.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'The structure reason supports correct application.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The periodic table has no structure.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The periodic table has no structure.</text>
       <feedback format="html">
-        <text><![CDATA[The periodic table is organized by structure and properties.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'The periodic table has no structure.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'The structure reason supports correct application.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The structure reason supports correct application.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The structure reason supports correct application.</text>
       <feedback format="html">
-        <text><![CDATA[Understanding structure prevents blind memorization.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'The structure reason supports correct application.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U02_PT_Q06</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q06</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Event</th><th>Electron movement</th><th>Energy result</th></tr><tr><td>Absorption</td><td>lower level to higher level</td><td>electron gains energy</td></tr><tr><td>Emission</td><td>higher level to lower level</td><td>photon released</td></tr><tr><td>No match</td><td>energy does not fit levels</td><td>transition does not occur</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on quantized energy, absorption, emission, and energy-level models.</p><p><strong>Question:</strong> What happens during absorption?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[An electron drops and emits a photon.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Dropping and emitting describes emission.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[An electron gains energy and moves to a higher level.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Absorption means gaining energy and moving upward.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The nucleus disappears.]]></text>
-      <feedback format="html">
-        <text><![CDATA[The nucleus does not disappear.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All levels become continuous.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Quantized levels are not continuous.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U02_PT_Q07</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q07</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.04</p><p><strong>Stimulus:</strong></p><table><tr><th>Region</th><th>Relative wavelength</th><th>Relative frequency</th><th>Relative energy</th></tr><tr><td>Radio</td><td>long</td><td>low</td><td>low</td></tr><tr><td>Visible red</td><td>longer visible</td><td>lower visible</td><td>lower visible</td></tr><tr><td>Visible violet</td><td>shorter visible</td><td>higher visible</td><td>higher visible</td></tr><tr><td>X-ray</td><td>short</td><td>high</td><td>high</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on wavelength, frequency, energy, spectra, and applications.</p><p><strong>Question:</strong> What happens to frequency when wavelength decreases?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Frequency decreases.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Decreasing frequency pairs with increasing wavelength.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Frequency increases.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Wavelength and frequency are inversely related.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Frequency becomes zero.]]></text>
-      <feedback format="html">
-        <text><![CDATA[It does not become zero from this comparison.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Frequency becomes mass number.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Mass number is unrelated.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U02_PT_Q08</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q08</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Model</th><th>Main idea</th><th>Evidence</th></tr><tr><td>Thomson</td><td>electrons in positive matter</td><td>cathode rays showed negative particles</td></tr><tr><td>Rutherford</td><td>tiny dense positive nucleus</td><td>gold foil alpha particles sometimes deflected sharply</td></tr><tr><td>Bohr</td><td>specific electron energy levels</td><td>line spectra showed specific emitted energies</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on atomic model evidence and model revision.</p><p><strong>Question:</strong> What does line spectrum evidence support?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Atoms have no internal structure.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Internal structure is supported by multiple experiments.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Neutrons determine element identity.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Protons determine element identity.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Electrons have specific allowed energy changes.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Line spectra show specific energies, supporting quantized levels.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All light has the same energy.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Light energy varies with frequency.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U02_PT_Q09</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q09</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Particle</th><th>Charge</th><th>Relative mass</th><th>Location</th></tr><tr><td>proton</td><td>+1</td><td>about 1 amu</td><td>nucleus</td></tr><tr><td>neutron</td><td>0</td><td>about 1 amu</td><td>nucleus</td></tr><tr><td>electron</td><td>-1</td><td>very small</td><td>outside nucleus</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on particle charge, mass, location, and atomic identity.</p><p><strong>Question:</strong> How do you find neutrons from mass number and atomic number?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Electron movement&lt;/th&gt;&lt;th&gt;Energy result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Absorption&lt;/td&gt;&lt;td&gt;lower level to higher level&lt;/td&gt;&lt;td&gt;electron gains energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Emission&lt;/td&gt;&lt;td&gt;higher level to lower level&lt;/td&gt;&lt;td&gt;photon released&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No match&lt;/td&gt;&lt;td&gt;energy does not fit levels&lt;/td&gt;&lt;td&gt;transition does not occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on quantized energy, absorption, emission, and energy-level models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens during absorption?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -283,31 +209,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[mass number minus atomic number]]></text>
+      <text>An electron gains energy and moves to a higher level.</text>
       <feedback format="html">
-        <text><![CDATA[Mass number is protons plus neutrons; atomic number is protons.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.03, 'An electron gains energy and moves to a higher level.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[atomic number plus electrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The nucleus disappears.</text>
       <feedback format="html">
-        <text><![CDATA[Adding electrons does not find neutrons.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'The nucleus disappears.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron gains energy and moves to a higher level.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[electrons minus protons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All levels become continuous.</text>
       <feedback format="html">
-        <text><![CDATA[Neutral atoms have electrons equal protons, giving zero.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'All levels become continuous.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron gains energy and moves to a higher level.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[mass number times atomic number]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>An electron drops and emits a photon.</text>
       <feedback format="html">
-        <text><![CDATA[Multiplication is not the particle-count relationship.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.03. 'An electron drops and emits a photon.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'An electron gains energy and moves to a higher level.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
-      <text>CHEM_U02_PT_Q10</text>
+      <text>CHEM_U02_PT_Q07</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U02_PT_Q10</p><p><strong>MLA Standard:</strong> MLA.CHEM.ATO.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Isotope</th><th>Protons</th><th>Mass number</th><th>Abundance</th></tr><tr><td>Chlorine-35</td><td>17</td><td>35</td><td>75%</td></tr><tr><td>Chlorine-37</td><td>17</td><td>37</td><td>25%</td></tr></table><p><strong>Scenario note:</strong> Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.</p><p><strong>Question:</strong> What particle count changes between isotopes of the same element?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Region&lt;/th&gt;&lt;th&gt;Relative wavelength&lt;/th&gt;&lt;th&gt;Relative frequency&lt;/th&gt;&lt;th&gt;Relative energy&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Radio&lt;/td&gt;&lt;td&gt;long&lt;/td&gt;&lt;td&gt;low&lt;/td&gt;&lt;td&gt;low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Visible red&lt;/td&gt;&lt;td&gt;longer visible&lt;/td&gt;&lt;td&gt;lower visible&lt;/td&gt;&lt;td&gt;lower visible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Visible violet&lt;/td&gt;&lt;td&gt;shorter visible&lt;/td&gt;&lt;td&gt;higher visible&lt;/td&gt;&lt;td&gt;higher visible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;X-ray&lt;/td&gt;&lt;td&gt;short&lt;/td&gt;&lt;td&gt;high&lt;/td&gt;&lt;td&gt;high&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on wavelength, frequency, energy, spectra, and applications.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens to frequency when wavelength decreases?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -316,26 +247,142 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Protons]]></text>
+      <text>Frequency decreases.</text>
       <feedback format="html">
-        <text><![CDATA[Protons stay the same for the same element.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.04. 'Frequency decreases.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Frequency increases.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Atomic number]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Frequency becomes zero.</text>
       <feedback format="html">
-        <text><![CDATA[Atomic number equals protons and stays the same.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.04. 'Frequency becomes zero.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Frequency increases.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Element identity]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Frequency increases.</text>
       <feedback format="html">
-        <text><![CDATA[Element identity stays the same.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.04, 'Frequency increases.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Neutrons]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Frequency becomes mass number.</text>
       <feedback format="html">
-        <text><![CDATA[Isotopes differ by neutron count.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.04. 'Frequency becomes mass number.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Frequency increases.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U02_PT_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;Main idea&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Thomson&lt;/td&gt;&lt;td&gt;electrons in positive matter&lt;/td&gt;&lt;td&gt;cathode rays showed negative particles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rutherford&lt;/td&gt;&lt;td&gt;tiny dense positive nucleus&lt;/td&gt;&lt;td&gt;gold foil alpha particles sometimes deflected sharply&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bohr&lt;/td&gt;&lt;td&gt;specific electron energy levels&lt;/td&gt;&lt;td&gt;line spectra showed specific emitted energies&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on atomic model evidence and model revision.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What does line spectrum evidence support?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>All light has the same energy.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.01. 'All light has the same energy.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Electrons have specific allowed energy changes.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Electrons have specific allowed energy changes.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.01, 'Electrons have specific allowed energy changes.' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atoms have no internal structure.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.01. 'Atoms have no internal structure.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Electrons have specific allowed energy changes.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Neutrons determine element identity.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.01. 'Neutrons determine element identity.' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Electrons have specific allowed energy changes.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U02_PT_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Particle&lt;/th&gt;&lt;th&gt;Charge&lt;/th&gt;&lt;th&gt;Relative mass&lt;/th&gt;&lt;th&gt;Location&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;proton&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;about 1 amu&lt;/td&gt;&lt;td&gt;nucleus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;neutron&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;about 1 amu&lt;/td&gt;&lt;td&gt;nucleus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;electron&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;td&gt;very small&lt;/td&gt;&lt;td&gt;outside nucleus&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on particle charge, mass, location, and atomic identity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; How do you find neutrons from mass number and atomic number?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>atomic number plus electrons</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'atomic number plus electrons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'mass number minus atomic number', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>electrons minus protons</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'electrons minus protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'mass number minus atomic number', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>mass number minus atomic number</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'mass number minus atomic number' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mass number times atomic number</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'mass number times atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'mass number minus atomic number', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U02_PT_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U02_PT_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.ATO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Isotope&lt;/th&gt;&lt;th&gt;Protons&lt;/th&gt;&lt;th&gt;Mass number&lt;/th&gt;&lt;th&gt;Abundance&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-35&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chlorine-37&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Apply the same Unit 2 reasoning to this new version of the stimulus. Focus on isotopes, neutron counts, and weighted average atomic mass.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What particle count changes between isotopes of the same element?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Element identity</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Element identity' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Neutrons</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.ATO.02, 'Neutrons' is the strongest answer because it uses atomic structure, periodic trends, or electron evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Protons</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Protons' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Atomic number</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.ATO.02. 'Atomic number' may sound related, but it misses the key atomic structure, periodic trends, or electron evidence required by the question. Compare it with 'Neutrons', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

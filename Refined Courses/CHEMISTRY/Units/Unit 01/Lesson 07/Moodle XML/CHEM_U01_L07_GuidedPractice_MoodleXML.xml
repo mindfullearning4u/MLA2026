@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,45 @@
       <text>CHEM_U01_L07_GP_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L07_GP_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Scientific idea</th><th>Role</th><th>Chemistry example</th></tr><tr><td>Model</td><td>Represents a system</td><td>Particle diagram of a gas</td></tr><tr><td>Law</td><td>Describes a consistent pattern</td><td>Mass is conserved in a closed system</td></tr><tr><td>Theory</td><td>Explains broad evidence</td><td>Atomic theory explains matter as atoms</td></tr></table><p><strong>Question:</strong> What is the main role of a scientific model?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L07_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scientific idea&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Chemistry example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Represents a system&lt;/td&gt;&lt;td&gt;Particle diagram of a gas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Law&lt;/td&gt;&lt;td&gt;Describes a consistent pattern&lt;/td&gt;&lt;td&gt;Mass is conserved in a closed system&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Theory&lt;/td&gt;&lt;td&gt;Explains broad evidence&lt;/td&gt;&lt;td&gt;Atomic theory explains matter as atoms&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is the main role of a scientific model?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>To be a perfect copy of reality.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'To be a perfect copy of reality.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'To represent and help explain a system.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>To replace all data.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'To replace all data.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'To represent and help explain a system.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>To represent and help explain a system.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.03, 'To represent and help explain a system.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>To prove an advertisement true.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'To prove an advertisement true.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'To represent and help explain a system.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_L07_GP_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L07_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scientific idea&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Chemistry example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Represents a system&lt;/td&gt;&lt;td&gt;Particle diagram of a gas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Law&lt;/td&gt;&lt;td&gt;Describes a consistent pattern&lt;/td&gt;&lt;td&gt;Mass is conserved in a closed system&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Theory&lt;/td&gt;&lt;td&gt;Explains broad evidence&lt;/td&gt;&lt;td&gt;Atomic theory explains matter as atoms&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement best describes a scientific theory?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -19,64 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[To represent and help explain a system.]]></text>
+      <text>A well-supported explanation for a broad set of evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Models represent systems and support explanation or prediction.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.03, 'A well-supported explanation for a broad set of evidence.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[To be a perfect copy of reality.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Models are simplified and have limits.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[To replace all data.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Models must be checked against data.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[To prove an advertisement true.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Models do not prove marketing claims.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_L07_GP_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L07_GP_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Scientific idea</th><th>Role</th><th>Chemistry example</th></tr><tr><td>Model</td><td>Represents a system</td><td>Particle diagram of a gas</td></tr><tr><td>Law</td><td>Describes a consistent pattern</td><td>Mass is conserved in a closed system</td></tr><tr><td>Theory</td><td>Explains broad evidence</td><td>Atomic theory explains matter as atoms</td></tr></table><p><strong>Question:</strong> Which statement best describes a scientific theory?</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[A random guess.]]></text>
+      <text>A single measurement.</text>
       <feedback format="html">
-        <text><![CDATA[In science, theory does not mean random guess.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A single measurement.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'A well-supported explanation for a broad set of evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A single measurement.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A safety symbol.</text>
       <feedback format="html">
-        <text><![CDATA[A single measurement is data, not a theory.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A safety symbol.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'A well-supported explanation for a broad set of evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A well-supported explanation for a broad set of evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A random guess.</text>
       <feedback format="html">
-        <text><![CDATA[A scientific theory explains many observations using evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A random guess.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'A well-supported explanation for a broad set of evidence.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A safety symbol.]]></text>
-      <feedback format="html">
-        <text><![CDATA[A safety symbol communicates a hazard, not a theory.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L07_GP_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L07_GP_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Scientific idea</th><th>Role</th><th>Chemistry example</th></tr><tr><td>Model</td><td>Represents a system</td><td>Particle diagram of a gas</td></tr><tr><td>Law</td><td>Describes a consistent pattern</td><td>Mass is conserved in a closed system</td></tr><tr><td>Theory</td><td>Explains broad evidence</td><td>Atomic theory explains matter as atoms</td></tr></table><p><strong>Question:</strong> What does a scientific law usually do?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L07_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scientific idea&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Chemistry example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Represents a system&lt;/td&gt;&lt;td&gt;Particle diagram of a gas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Law&lt;/td&gt;&lt;td&gt;Describes a consistent pattern&lt;/td&gt;&lt;td&gt;Mass is conserved in a closed system&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Theory&lt;/td&gt;&lt;td&gt;Explains broad evidence&lt;/td&gt;&lt;td&gt;Atomic theory explains matter as atoms&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What does a scientific law usually do?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -85,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Explain every cause in detail.]]></text>
+      <text>Replace safety rules.</text>
       <feedback format="html">
-        <text><![CDATA[Theories and models help explain why.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'Replace safety rules.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Describe a consistent natural pattern.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[List lab tools.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Describe a consistent natural pattern.</text>
       <feedback format="html">
-        <text><![CDATA[Tool lists are procedures or apparatus notes.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.03, 'Describe a consistent natural pattern.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Replace safety rules.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Explain every cause in detail.</text>
       <feedback format="html">
-        <text><![CDATA[Safety rules still apply.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'Explain every cause in detail.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Describe a consistent natural pattern.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Describe a consistent natural pattern.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>List lab tools.</text>
       <feedback format="html">
-        <text><![CDATA[A law describes what pattern occurs.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'List lab tools.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Describe a consistent natural pattern.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L07_GP_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L07_GP_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Scientific idea</th><th>Role</th><th>Chemistry example</th></tr><tr><td>Model</td><td>Represents a system</td><td>Particle diagram of a gas</td></tr><tr><td>Law</td><td>Describes a consistent pattern</td><td>Mass is conserved in a closed system</td></tr><tr><td>Theory</td><td>Explains broad evidence</td><td>Atomic theory explains matter as atoms</td></tr></table><p><strong>Question:</strong> Which evidence best supports a chemistry decision about a cleaner?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L07_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scientific idea&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Chemistry example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Represents a system&lt;/td&gt;&lt;td&gt;Particle diagram of a gas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Law&lt;/td&gt;&lt;td&gt;Describes a consistent pattern&lt;/td&gt;&lt;td&gt;Mass is conserved in a closed system&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Theory&lt;/td&gt;&lt;td&gt;Explains broad evidence&lt;/td&gt;&lt;td&gt;Atomic theory explains matter as atoms&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which evidence best supports a chemistry decision about a cleaner?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -118,31 +133,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The word natural on the label.]]></text>
+      <text>The color of the bottle.</text>
       <feedback format="html">
-        <text><![CDATA[Natural does not automatically mean safe.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'The color of the bottle.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Ingredient identity, concentration, exposure, and reliable safety data.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Ingredient identity, concentration, exposure, and reliable safety data.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The number of online likes.</text>
       <feedback format="html">
-        <text><![CDATA[A decision needs chemical identity, amount, exposure, and reliable evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'The number of online likes.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Ingredient identity, concentration, exposure, and reliable safety data.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The color of the bottle.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The word natural on the label.</text>
       <feedback format="html">
-        <text><![CDATA[Bottle color is not chemical evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'The word natural on the label.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Ingredient identity, concentration, exposure, and reliable safety data.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The number of online likes.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Ingredient identity, concentration, exposure, and reliable safety data.</text>
       <feedback format="html">
-        <text><![CDATA[Popularity is not safety evidence.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.03, 'Ingredient identity, concentration, exposure, and reliable safety data.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L07_GP_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L07_GP_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.SCI.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Scientific idea</th><th>Role</th><th>Chemistry example</th></tr><tr><td>Model</td><td>Represents a system</td><td>Particle diagram of a gas</td></tr><tr><td>Law</td><td>Describes a consistent pattern</td><td>Mass is conserved in a closed system</td></tr><tr><td>Theory</td><td>Explains broad evidence</td><td>Atomic theory explains matter as atoms</td></tr></table><p><strong>Question:</strong> What is a model limitation?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L07_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scientific idea&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Chemistry example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Represents a system&lt;/td&gt;&lt;td&gt;Particle diagram of a gas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Law&lt;/td&gt;&lt;td&gt;Describes a consistent pattern&lt;/td&gt;&lt;td&gt;Mass is conserved in a closed system&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Theory&lt;/td&gt;&lt;td&gt;Explains broad evidence&lt;/td&gt;&lt;td&gt;Atomic theory explains matter as atoms&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a model limitation?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,28 +171,28 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A sign that all models are useless.]]></text>
+      <text>A unit label.</text>
       <feedback format="html">
-        <text><![CDATA[A limited model can still be useful.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A unit label.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Something the model does not show or cannot explain.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A correct answer choice.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Something the model does not show or cannot explain.</text>
       <feedback format="html">
-        <text><![CDATA[An answer choice is not a model limit.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.SCI.03, 'Something the model does not show or cannot explain.' is the strongest answer because it uses scientific evidence and chemistry reasoning from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Something the model does not show or cannot explain.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A sign that all models are useless.</text>
       <feedback format="html">
-        <text><![CDATA[Limitations identify what a model leaves out or simplifies.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A sign that all models are useless.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Something the model does not show or cannot explain.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A unit label.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A correct answer choice.</text>
       <feedback format="html">
-        <text><![CDATA[A unit label gives measurement meaning.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.SCI.03. 'A correct answer choice.' may sound related, but it misses the key scientific evidence and chemistry reasoning required by the question. Compare it with 'Something the model does not show or cannot explain.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
-
-
+    </answer>
+  </question>
+</quiz>

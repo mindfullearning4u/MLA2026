@@ -1,25 +1,43 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  1,
-    "lesson":  3,
-    "title":  "Data, Models, Graphs, and Medical Evidence",
-    "standards":  "MLA.ANP.LAB.02",
-    "support_standards":  "MLA.ANP.HLR.03",
-    "purpose":  "Interpret data tables, graphs, anatomical models, and medical evidence.",
-    "required_visual_model_data":  "Data table; graph; anatomical model; medical evidence table",
-    "direct_resource":  {
-                            "Title":  "OpenStax: Medical Imaging",
-                            "Url":  "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-7-medical-imaging",
-                            "Task":  "Click the link and use the medical imaging section. Observe how images, models, and evidence help scientists study the body without guessing. Record one imaging tool, what evidence it provides, and one limitation."
-                        },
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "mastery_rule":  "Student can explain the lesson standard with structure-function reasoning and visual/data evidence."
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 01",
+  "lesson": "Lesson 03",
+  "title": "Data, Models, Graphs, and Medical Evidence",
+  "standards": [
+    "MLA.ANP.LAB.02",
+    "MLA.ANP.HLR.03"
+  ],
+  "support_standards": "MLA.ANP.HLR.03",
+  "purpose": "Interpret data tables, graphs, anatomical models, and medical evidence.",
+  "required_visual_model_data": "Data table; graph; anatomical model; medical evidence table",
+  "direct_resource": {
+    "Title": "OpenStax: Medical Imaging",
+    "Url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-7-medical-imaging",
+    "Task": "Click the link and use the medical imaging section. Observe how images, models, and evidence help scientists study the body without guessing. Record one imaging tool, what evidence it provides, and one limitation."
+  },
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "mastery_rule": "Student can explain the lesson standard with structure-function reasoning and visual/data evidence.",
+  "lessonTitle": "Data, Models, Graphs, and Medical Evidence",
+  "primaryStandards": [
+    "MLA.ANP.LAB.02",
+    "MLA.ANP.HLR.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "OpenStax: Medical Imaging",
+      "exactDirectUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-7-medical-imaging",
+      "studentTask": "Click the link and use the medical imaging section. Observe how images, models, and evidence help scientists study the body without guessing. Record one imaging tool, what evidence it provides, and one limitation."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ANP_U01_L03_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ANP_U01_L03_Quiz_MoodleXML.xml"
 }

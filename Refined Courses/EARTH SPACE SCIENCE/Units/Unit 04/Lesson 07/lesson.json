@@ -1,13 +1,34 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  4,
-    "lesson":  7,
-    "title":  "Evidence, Models, and Earth History Synthesis",
-    "standards":  "MLA.ESS.HIS.01; MLA.ESS.HIS.03",
-    "required_visual_model_data":  "fossil clue, timeline clue, model clue, and synthesis table",
-    "direct_resource":  {
-                            "url":  "https://www.usgs.gov/programs/national-geologic-map-database/geologic-time",
-                            "title":  "USGS Fossils and Geologic Time"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 04",
+  "lesson": "Lesson 07",
+  "title": "Evidence, Models, and Earth History Synthesis",
+  "standards": [
+    "MLA.ESS.HIS.01",
+    "MLA.ESS.HIS.03",
+    "MLA.ESS.SCI.03"
+  ],
+  "required_visual_model_data": "fossil clue, timeline clue, model clue, and synthesis table",
+  "direct_resource": {
+    "url": "https://www.usgs.gov/programs/national-geologic-map-database/geologic-time",
+    "title": "USGS Fossils and Geologic Time"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Evidence, Models, and Earth History Synthesis",
+  "primaryStandards": [
+    "MLA.ESS.HIS.01",
+    "MLA.ESS.HIS.03",
+    "MLA.ESS.SCI.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "USGS Fossils and Geologic Time",
+      "exactDirectUrl": "https://www.usgs.gov/programs/national-geologic-map-database/geologic-time",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U04_L07_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U04_L07_Quiz_MoodleXML.xml"
 }

@@ -1,10 +1,25 @@
-﻿{
-    "id":  "ENV_U01_L03",
-    "course":  "Environmental Science",
-    "unit":  1,
-    "lesson":  3,
-    "title":  "Environmental Data, Maps, and Models",
-    "standards":  "MLA.ENV.LAB.02",
-    "resource":  "https://waterdata.usgs.gov/nwis",
-    "requiredEvidence":  "Data table; graph; map; model/legend/key examples"
+{
+  "id": "ENV_U01_L03",
+  "course": "Environmental Science",
+  "unit": 1,
+  "lesson": 3,
+  "title": "Environmental Data, Maps, and Models",
+  "standards": [
+    "MLA.ENV.LAB.02"
+  ],
+  "resource": "https://waterdata.usgs.gov/monitoring-location/01646500/#parameterCode=00060&period=P7D&showMedian=false",
+  "requiredEvidence": "Data display and model interpretation investigation",
+  "lessonTitle": "Environmental Data, Maps, and Models",
+  "primaryStandards": [
+    "MLA.ENV.LAB.02"
+  ],
+  "supportStandards": [],
+  "approvedDirectResources": [
+    "https://waterdata.usgs.gov/monitoring-location/01646500/#parameterCode=00060&period=P7D&showMedian=false"
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "ENV_U01_L03_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "ENV_U01_L03_Quiz_MoodleXML.xml",
+  "unitAssessment": null,
+  "studentAction": "Use the USGS monitoring-location graph for Potomac River discharge as the assigned data display. Record the variable, units, time window, and one trend or change visible in the graph."
 }

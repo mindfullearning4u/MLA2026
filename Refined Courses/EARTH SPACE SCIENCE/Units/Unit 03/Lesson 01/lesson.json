@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  3,
-    "lesson":  1,
-    "title":  "Water and Carbon Cycles",
-    "standards":  "MLA.ESS.ATM.01",
-    "required_visual_model_data":  "water cycle diagram, carbon cycle diagram, and reservoir-flow table",
-    "direct_resource":  {
-                            "url":  "https://earthobservatory.nasa.gov/features/Water",
-                            "title":  "NASA Earth Observatory: The Water Cycle"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 03",
+  "lesson": "Lesson 01",
+  "title": "Water and Carbon Cycles",
+  "standards": [
+    "MLA.ESS.ATM.01",
+    "MLA.ESS.LAB.02"
+  ],
+  "required_visual_model_data": "water cycle diagram, carbon cycle diagram, and reservoir-flow table",
+  "direct_resource": {
+    "url": "https://earthobservatory.nasa.gov/features/Water",
+    "title": "NASA Earth Observatory: The Water Cycle"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Water and Carbon Cycles",
+  "primaryStandards": [
+    "MLA.ESS.ATM.01",
+    "MLA.ESS.LAB.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NASA Earth Observatory: The Water Cycle",
+      "exactDirectUrl": "https://earthobservatory.nasa.gov/features/Water",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U03_L01_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U03_L01_Quiz_MoodleXML.xml"
 }

@@ -1,12 +1,23 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  3,
-    "lesson":  8,
-    "title":  "Putting It All Together",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  0,
-    "unit_assessment_only_for_lesson_8":  true,
-    "required_stimulus":  "Unit-level mixed stimuli",
-    "standards":  "MLA.ANP.SKM.01; MLA.ANP.SKM.02; MLA.ANP.SKM.03"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 03",
+  "lesson": "Lesson 08",
+  "lessonTitle": "Putting It All Together",
+  "title": "Putting It All Together Unit Assessment",
+  "assessmentType": "Unit Assessment",
+  "moodleXmlFile": "Moodle XML/ANP_U03_UnitAssessment_MoodleXML.xml",
+  "questionCount": 40,
+  "questionBankSize": 40,
+  "questionsPerAttempt": 40,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.SKM.01",
+    "MLA.ANP.SKM.02",
+    "MLA.ANP.SKM.03",
+    "MLA.ANP.LAB.02",
+    "MLA.ANP.ORG.01",
+    "MLA.ANP.NEN.03"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U03_L08_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

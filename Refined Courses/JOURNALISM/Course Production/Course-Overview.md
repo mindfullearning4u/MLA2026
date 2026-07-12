@@ -59,12 +59,12 @@ The course is organized into six units, each designed to build progressively tow
 
 Approved unit sequence:
 
-- Unit 1: Foundations of Journalism and News Writing
-- Unit 2: News Structure and Informational Writing
-- Unit 3: Source Evaluation, Bias, and Credibility
-- Unit 4: Reporting, Interviews, and Information Gathering
-- Unit 5: Editing, Ethics, and Media Responsibility
-- Unit 6: Publication, Presentation, and Media Production
+- Unit 1: Foundations of Journalism, News Judgment, and Ethics
+- Unit 2: Reporting, Source Verification, and Interviewing
+- Unit 3: News, Feature, and Editorial Writing
+- Unit 4: Media Literacy, Rhetoric, and Audience
+- Unit 5: Digital Journalism, Multimedia, and Publication
+- Unit 6: Newsroom Portfolio, Publication, and Multimedia Synthesis
 
 Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
 

@@ -1,12 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text><![CDATA[$course$/Chemistry/Unit 03/Lesson 05/Guided Practice]]></text></category>
+    <category>
+      <text>$course$/Chemistry/Unit 03/Lesson 05/Guided Practice</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L05_GP Q01 - Intermolecular Forces]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Particle attraction</th><th>Boiling point pattern</th></tr><tr><td>CH4</td><td>weak dispersion forces</td><td>very low</td></tr><tr><td>HCl</td><td>dipole-dipole plus dispersion</td><td>higher than CH4</td></tr><tr><td>H2O</td><td>hydrogen bonding</td><td>much higher than similar-size molecules</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L05_GP Q01 - Intermolecular Forces</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Particle attraction&lt;/th&gt;&lt;th&gt;Boiling point pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CH4&lt;/td&gt;&lt;td&gt;weak dispersion forces&lt;/td&gt;&lt;td&gt;very low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HCl&lt;/td&gt;&lt;td&gt;dipole-dipole plus dispersion&lt;/td&gt;&lt;td&gt;higher than CH4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;hydrogen bonding&lt;/td&gt;&lt;td&gt;much higher than similar-size molecules&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -14,23 +22,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Hydrogen bonding helps explain why water has a higher boiling point than methane.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus links attraction strength to boiling point evidence and distinguishes between molecules and bonds inside molecules.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Weaker intermolecular forces require more energy to overcome.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Intermolecular forces are the same as formula subscripts.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Methane has the strongest attractions because it has the lowest boiling point.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
+      <text>Hydrogen bonding helps explain why water has a higher boiling point than methane.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Hydrogen bonding helps explain why water has a higher boiling point than methane.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Weaker intermolecular forces require more energy to overcome.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Weaker intermolecular forces require more energy to overcome.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Hydrogen bonding helps explain why water has a higher boiling point than methane.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Intermolecular forces are the same as formula subscripts.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Intermolecular forces are the same as formula subscripts.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Hydrogen bonding helps explain why water has a higher boiling point than methane.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Methane has the strongest attractions because it has the lowest boiling point.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Methane has the strongest attractions because it has the lowest boiling point.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Hydrogen bonding helps explain why water has a higher boiling point than methane.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L05_GP Q02 - Intermolecular Forces]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Particle attraction</th><th>Boiling point pattern</th></tr><tr><td>CH4</td><td>weak dispersion forces</td><td>very low</td></tr><tr><td>HCl</td><td>dipole-dipole plus dispersion</td><td>higher than CH4</td></tr><tr><td>H2O</td><td>hydrogen bonding</td><td>much higher than similar-size molecules</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L05_GP Q02 - Intermolecular Forces</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Particle attraction&lt;/th&gt;&lt;th&gt;Boiling point pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CH4&lt;/td&gt;&lt;td&gt;weak dispersion forces&lt;/td&gt;&lt;td&gt;very low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HCl&lt;/td&gt;&lt;td&gt;dipole-dipole plus dispersion&lt;/td&gt;&lt;td&gt;higher than CH4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;hydrogen bonding&lt;/td&gt;&lt;td&gt;much higher than similar-size molecules&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -38,23 +63,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Intermolecular forces are the same as formula subscripts.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Stronger intermolecular forces require more energy to separate particles.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus links attraction strength to boiling point evidence and distinguishes between molecules and bonds inside molecules.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Methane has the strongest attractions because it has the lowest boiling point.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Boiling water breaks the O-H covalent bonds inside every water molecule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
+      <text>Methane has the strongest attractions because it has the lowest boiling point.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Methane has the strongest attractions because it has the lowest boiling point.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Stronger intermolecular forces require more energy to separate particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Boiling water breaks the O-H covalent bonds inside every water molecule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Boiling water breaks the O-H covalent bonds inside every water molecule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Stronger intermolecular forces require more energy to separate particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Stronger intermolecular forces require more energy to separate particles.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Stronger intermolecular forces require more energy to separate particles.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Intermolecular forces are the same as formula subscripts.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Intermolecular forces are the same as formula subscripts.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Stronger intermolecular forces require more energy to separate particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L05_GP Q03 - Intermolecular Forces]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Particle attraction</th><th>Boiling point pattern</th></tr><tr><td>CH4</td><td>weak dispersion forces</td><td>very low</td></tr><tr><td>HCl</td><td>dipole-dipole plus dispersion</td><td>higher than CH4</td></tr><tr><td>H2O</td><td>hydrogen bonding</td><td>much higher than similar-size molecules</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the IMF data table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L05_GP Q03 - Intermolecular Forces</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Particle attraction&lt;/th&gt;&lt;th&gt;Boiling point pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CH4&lt;/td&gt;&lt;td&gt;weak dispersion forces&lt;/td&gt;&lt;td&gt;very low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HCl&lt;/td&gt;&lt;td&gt;dipole-dipole plus dispersion&lt;/td&gt;&lt;td&gt;higher than CH4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;hydrogen bonding&lt;/td&gt;&lt;td&gt;much higher than similar-size molecules&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the IMF data table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -62,23 +104,81 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Methane has the strongest attractions because it has the lowest boiling point.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Boiling water breaks the O-H covalent bonds inside every water molecule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Weaker intermolecular forces require more energy to overcome.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Boiling separates molecules from each other without breaking the covalent bonds inside each molecule.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus links attraction strength to boiling point evidence and distinguishes between molecules and bonds inside molecules.]]></text></feedback>
+      <text>Methane has the strongest attractions because it has the lowest boiling point.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Methane has the strongest attractions because it has the lowest boiling point.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Boiling separates molecules from each other without breaking the covalent bonds inside each molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Boiling separates molecules from each other without breaking the covalent bonds inside each molecule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Boiling separates molecules from each other without breaking the covalent bonds inside each molecule.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Boiling water breaks the O-H covalent bonds inside every water molecule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Boiling water breaks the O-H covalent bonds inside every water molecule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Boiling separates molecules from each other without breaking the covalent bonds inside each molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Weaker intermolecular forces require more energy to overcome.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Weaker intermolecular forces require more energy to overcome.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Boiling separates molecules from each other without breaking the covalent bonds inside each molecule.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L05_GP Q04 - Intermolecular Forces]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Particle attraction</th><th>Boiling point pattern</th></tr><tr><td>CH4</td><td>weak dispersion forces</td><td>very low</td></tr><tr><td>HCl</td><td>dipole-dipole plus dispersion</td><td>higher than CH4</td></tr><tr><td>H2O</td><td>hydrogen bonding</td><td>much higher than similar-size molecules</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L05_GP Q04 - Intermolecular Forces</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Particle attraction&lt;/th&gt;&lt;th&gt;Boiling point pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CH4&lt;/td&gt;&lt;td&gt;weak dispersion forces&lt;/td&gt;&lt;td&gt;very low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HCl&lt;/td&gt;&lt;td&gt;dipole-dipole plus dispersion&lt;/td&gt;&lt;td&gt;higher than CH4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;hydrogen bonding&lt;/td&gt;&lt;td&gt;much higher than similar-size molecules&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Intermolecular forces are the same as formula subscripts.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Intermolecular forces are the same as formula subscripts.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Hydrogen bonding helps explain why water has a higher boiling point than methane.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Boiling water breaks the O-H covalent bonds inside every water molecule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Boiling water breaks the O-H covalent bonds inside every water molecule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Hydrogen bonding helps explain why water has a higher boiling point than methane.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Weaker intermolecular forces require more energy to overcome.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Weaker intermolecular forces require more energy to overcome.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Hydrogen bonding helps explain why water has a higher boiling point than methane.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Hydrogen bonding helps explain why water has a higher boiling point than methane.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Hydrogen bonding helps explain why water has a higher boiling point than methane.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L05_GP Q05 - Intermolecular Forces</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Substance&lt;/th&gt;&lt;th&gt;Particle attraction&lt;/th&gt;&lt;th&gt;Boiling point pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CH4&lt;/td&gt;&lt;td&gt;weak dispersion forces&lt;/td&gt;&lt;td&gt;very low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HCl&lt;/td&gt;&lt;td&gt;dipole-dipole plus dispersion&lt;/td&gt;&lt;td&gt;higher than CH4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H2O&lt;/td&gt;&lt;td&gt;hydrogen bonding&lt;/td&gt;&lt;td&gt;much higher than similar-size molecules&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -86,44 +186,28 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Hydrogen bonding helps explain why water has a higher boiling point than methane.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus links attraction strength to boiling point evidence and distinguishes between molecules and bonds inside molecules.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Boiling water breaks the O-H covalent bonds inside every water molecule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Weaker intermolecular forces require more energy to overcome.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Intermolecular forces are the same as formula subscripts.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
+      <text>Stronger intermolecular forces require more energy to separate particles.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.01, 'Stronger intermolecular forces require more energy to separate particles.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L05_GP Q05 - Intermolecular Forces]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.01</p><p><strong>Stimulus:</strong></p><table><tr><th>Substance</th><th>Particle attraction</th><th>Boiling point pattern</th></tr><tr><td>CH4</td><td>weak dispersion forces</td><td>very low</td></tr><tr><td>HCl</td><td>dipole-dipole plus dispersion</td><td>higher than CH4</td></tr><tr><td>H2O</td><td>hydrogen bonding</td><td>much higher than similar-size molecules</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Weaker intermolecular forces require more energy to overcome.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Intermolecular forces are the same as formula subscripts.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Methane has the strongest attractions because it has the lowest boiling point.]]></text>
-      <feedback format="html"><text><![CDATA[This choice reverses the attraction-energy relationship or confuses intermolecular forces with intramolecular bonds.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Stronger intermolecular forces require more energy to separate particles.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus links attraction strength to boiling point evidence and distinguishes between molecules and bonds inside molecules.]]></text></feedback>
+      <text>Methane has the strongest attractions because it has the lowest boiling point.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Methane has the strongest attractions because it has the lowest boiling point.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Stronger intermolecular forces require more energy to separate particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Weaker intermolecular forces require more energy to overcome.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Weaker intermolecular forces require more energy to overcome.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Stronger intermolecular forces require more energy to separate particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Intermolecular forces are the same as formula subscripts.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.01. 'Intermolecular forces are the same as formula subscripts.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Stronger intermolecular forces require more energy to separate particles.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
 </quiz>
-
-
-

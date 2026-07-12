@@ -2,7 +2,7 @@
 
 ## Source Control
 
-Official source verified: CPALMS Environmental Science, course number `2001340`, current course record `23803`, version `2024 - And Beyond (current)`.
+Official source verified: CPALMS Environmental Science, course number `2001340`, current course record `23803`, version `2024 - And Beyond (current)`, with Florida B.E.S.T. literacy/readiness support handled through the course crosswalk.
 
 CPALMS-listed standards verified: 56.
 

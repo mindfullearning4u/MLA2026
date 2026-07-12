@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text>$course$/BIOLOGY/Units/Unit 03/Pretest</text></category>
+    <category>
+      <text>$course$/BIOLOGY/Units/Unit 03/Pretest</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q01</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q01</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Molecule</th><th>Main Function</th><th>Example</th></tr><tr><td>Carbohydrate</td><td>Short-term energy</td><td>Glucose</td></tr><tr><td>Lipid</td><td>Long-term energy and membranes</td><td>Phospholipid</td></tr><tr><td>Protein</td><td>Structure and enzymes</td><td>Amylase</td></tr></table><p>Which molecule-function match is best supported by the table?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Molecule&lt;/th&gt;&lt;th&gt;Main Function&lt;/th&gt;&lt;th&gt;Example&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbohydrate&lt;/td&gt;&lt;td&gt;Short-term energy&lt;/td&gt;&lt;td&gt;Glucose&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lipid&lt;/td&gt;&lt;td&gt;Long-term energy and membranes&lt;/td&gt;&lt;td&gt;Phospholipid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protein&lt;/td&gt;&lt;td&gt;Structure and enzymes&lt;/td&gt;&lt;td&gt;Amylase&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which molecule-function match is best supported by the table?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -13,25 +19,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Lipid is the main short-term glucose source.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Lipid is the main short-term glucose source.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Carbohydrate forms every cell membrane by itself.</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Water is listed as the enzyme in the table.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Protein can function as an enzyme.]]></text>
-      <feedback format="html"><text><![CDATA[The table connects proteins to enzymes, so the answer must use that evidence. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Carbohydrate forms every cell membrane by itself.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Water is listed as the enzyme in the table.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Protein can function as an enzyme.</text>
+      <feedback format="html">
+        <text>The table connects proteins to enzymes, so the answer must use that evidence. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q02</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q02</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.02</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>pH</th><th>Relative Enzyme Activity</th></tr><tr><td>3</td><td>10%</td></tr><tr><td>5</td><td>55%</td></tr><tr><td>7</td><td>100%</td></tr><tr><td>9</td><td>40%</td></tr><tr><td>11</td><td>5%</td></tr></table><p>At which pH does the enzyme work best?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;pH&lt;/th&gt;&lt;th&gt;Relative Enzyme Activity&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;55%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;At which pH does the enzyme work best?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -39,51 +57,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[pH 3 because it is first in the table]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>pH 11 because it is the largest pH value</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[pH 11 because it is the largest pH value]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[pH 5 because activity is below 100%]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>pH 5 because activity is below 100%</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[pH 7]]></text>
-      <feedback format="html"><text><![CDATA[The highest relative activity is 100%, which occurs at pH 7. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>pH 7</text>
+      <feedback format="html">
+        <text>The highest relative activity is 100%, which occurs at pH 7. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>pH 3 because it is first in the table</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q03</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q03</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.03</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Model Step</th><th>Change</th><th>Energy Meaning</th></tr><tr><td>ATP -> ADP + phosphate</td><td>Phosphate removed</td><td>Energy released for cell work</td></tr><tr><td>ADP + phosphate -> ATP</td><td>Phosphate added</td><td>Energy stored</td></tr></table><p>What happens when ATP becomes ADP and a phosphate?</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Usable energy is released for cell work.]]></text>
-      <feedback format="html"><text><![CDATA[The table states that removing phosphate releases energy for cell work. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Energy is destroyed and cannot be transferred.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[ADP becomes glucose immediately.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The cell stops all reactions permanently.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U03_PT_Q04</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q04</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.04</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Photosynthesis Model</th><th>Role</th></tr><tr><td>Carbon dioxide</td><td>Reactant</td></tr><tr><td>Water</td><td>Reactant</td></tr><tr><td>Light</td><td>Energy input</td></tr><tr><td>Glucose</td><td>Product</td></tr><tr><td>Oxygen</td><td>Product</td></tr></table><p>Which pair lists products of photosynthesis?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Model Step&lt;/th&gt;&lt;th&gt;Change&lt;/th&gt;&lt;th&gt;Energy Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ATP -&gt; ADP + phosphate&lt;/td&gt;&lt;td&gt;Phosphate removed&lt;/td&gt;&lt;td&gt;Energy released for cell work&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ADP + phosphate -&gt; ATP&lt;/td&gt;&lt;td&gt;Phosphate added&lt;/td&gt;&lt;td&gt;Energy stored&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What happens when ATP becomes ADP and a phosphate?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -91,51 +95,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Carbon dioxide and water]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Light and carbon dioxide]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Energy is destroyed and cannot be transferred.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Glucose and oxygen]]></text>
-      <feedback format="html"><text><![CDATA[The model labels glucose and oxygen as products. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Usable energy is released for cell work.</text>
+      <feedback format="html">
+        <text>The table states that removing phosphate releases energy for cell work. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[ATP and ADP only]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>ADP becomes glucose immediately.</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The cell stops all reactions permanently.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q05</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q05</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.04</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Cellular Respiration Model</th><th>Role</th></tr><tr><td>Glucose</td><td>Reactant</td></tr><tr><td>Oxygen</td><td>Reactant</td></tr><tr><td>Carbon dioxide</td><td>Product</td></tr><tr><td>Water</td><td>Product</td></tr><tr><td>ATP</td><td>Usable energy output</td></tr></table><p>Which pair lists reactants of cellular respiration?</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Carbon dioxide and water]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Glucose and oxygen]]></text>
-      <feedback format="html"><text><![CDATA[The model labels glucose and oxygen as reactants. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[ATP and carbon dioxide]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Light and oxygen]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U03_PT_Q06</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q06</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.04</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Process</th><th>Reactants</th><th>Products</th></tr><tr><td>Photosynthesis</td><td>CO2 and water</td><td>Glucose and O2</td></tr><tr><td>Respiration</td><td>Glucose and O2</td><td>CO2, water, and ATP</td></tr></table><p>How are glucose and O2 connected in the two processes?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Photosynthesis Model&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon dioxide&lt;/td&gt;&lt;td&gt;Reactant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water&lt;/td&gt;&lt;td&gt;Reactant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Light&lt;/td&gt;&lt;td&gt;Energy input&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Glucose&lt;/td&gt;&lt;td&gt;Product&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oxygen&lt;/td&gt;&lt;td&gt;Product&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which pair lists products of photosynthesis?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -143,25 +133,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[They are products of photosynthesis and reactants of respiration.]]></text>
-      <feedback format="html"><text><![CDATA[The table shows glucose and O2 made by photosynthesis and used by respiration. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Glucose and oxygen</text>
+      <feedback format="html">
+        <text>The model labels glucose and oxygen as products. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[They are reactants of photosynthesis and products of respiration.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>ATP and ADP only</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[They are not involved in either process.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Carbon dioxide and water</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[They are only waste products of both processes.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Light and carbon dioxide</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q07</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q07</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.05</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Carbon Cycle Arrow</th><th>Process</th></tr><tr><td>Atmospheric CO2 -> plant glucose</td><td>Photosynthesis</td></tr><tr><td>Glucose in organisms -> atmospheric CO2</td><td>Respiration</td></tr></table><p>Which process moves atmospheric CO2 into plant sugars?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Cellular Respiration Model&lt;/th&gt;&lt;th&gt;Role&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Glucose&lt;/td&gt;&lt;td&gt;Reactant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oxygen&lt;/td&gt;&lt;td&gt;Reactant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbon dioxide&lt;/td&gt;&lt;td&gt;Product&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water&lt;/td&gt;&lt;td&gt;Product&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ATP&lt;/td&gt;&lt;td&gt;Usable energy output&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which pair lists reactants of cellular respiration?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -169,25 +171,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Respiration]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Carbon dioxide and water</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Evaporation]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>ATP and carbon dioxide</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Condensation]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Light and oxygen</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Photosynthesis]]></text>
-      <feedback format="html"><text><![CDATA[The table labels atmospheric CO2 to plant glucose as photosynthesis. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Glucose and oxygen</text>
+      <feedback format="html">
+        <text>The model labels glucose and oxygen as reactants. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q08</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q08</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 3 stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Unit 3 Concept</th><th>Evidence</th><th>Meaning</th></tr><tr><td>Enzymes</td><td>Activity peaks at pH 7</td><td>Conditions affect reaction rate</td></tr><tr><td>ATP</td><td>ATP -> ADP + phosphate</td><td>Energy transfer</td></tr></table><p>Which synthesis statement uses both rows correctly?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Process&lt;/th&gt;&lt;th&gt;Reactants&lt;/th&gt;&lt;th&gt;Products&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Photosynthesis&lt;/td&gt;&lt;td&gt;CO2 and water&lt;/td&gt;&lt;td&gt;Glucose and O2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Respiration&lt;/td&gt;&lt;td&gt;Glucose and O2&lt;/td&gt;&lt;td&gt;CO2, water, and ATP&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;How are glucose and O2 connected in the two processes?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -195,51 +209,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Enzymes are ATP molecules and always work at pH 11.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>They are reactants of photosynthesis and products of respiration.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[ATP controls pH directly in every reaction.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>They are not involved in either process.</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Enzyme activity depends on conditions, and ATP transfers usable energy for cell work.]]></text>
-      <feedback format="html"><text><![CDATA[The correct synthesis keeps each concept accurate and connects both to cell processes. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>They are products of photosynthesis and reactants of respiration.</text>
+      <feedback format="html">
+        <text>The table shows glucose and O2 made by photosynthesis and used by respiration. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The table shows no relationship to cell processes.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>They are only waste products of both processes.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U03_PT_Q09</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q09</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Focus on evidence from the table, model, or data.</p><table border="1" cellpadding="6"><tr><th>Water Property</th><th>Evidence</th><th>Life Process Supported</th></tr><tr><td>Polarity</td><td>Dissolves many charged substances</td><td>Transport in cells and blood</td></tr><tr><td>Cohesion</td><td>Water molecules stick together</td><td>Water movement in plants</td></tr></table><p>Why does water's polarity support transport in living things? Focus on evidence from the table, model, or data.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Polarity helps water dissolve and carry many substances.]]></text>
-      <feedback format="html"><text><![CDATA[Polarity explains why water can dissolve many materials needed for biological transport. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Polarity prevents all substances from dissolving. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Cohesion means water cannot move in plants. (This confuses a Unit 3 process.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Water properties are unrelated to cell transport. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U03_PT_Q10</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U03_PT_Q10</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.03</p><p><strong>Assessment focus:</strong> Focus on evidence from the table, model, or data.</p><table border="1" cellpadding="6"><tr><th>Temperature</th><th>Relative Activity</th></tr><tr><td>10 C</td><td>20%</td></tr><tr><td>25 C</td><td>70%</td></tr><tr><td>37 C</td><td>100%</td></tr><tr><td>60 C</td><td>15%</td></tr></table><p>What does the data suggest about temperature and this enzyme? Focus on evidence from the table, model, or data.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U03_PT_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Carbon Cycle Arrow&lt;/th&gt;&lt;th&gt;Process&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Atmospheric CO2 -&gt; plant glucose&lt;/td&gt;&lt;td&gt;Photosynthesis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Glucose in organisms -&gt; atmospheric CO2&lt;/td&gt;&lt;td&gt;Respiration&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which process moves atmospheric CO2 into plant sugars?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -247,20 +247,142 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Activity always increases as temperature increases. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Respiration</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The enzyme has an optimum near 37 C and loses activity at 60 C.]]></text>
-      <feedback format="html"><text><![CDATA[The data peak at 37 C and then drop sharply at 60 C. This matches the mapped Unit 3 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Photosynthesis</text>
+      <feedback format="html">
+        <text>The table labels atmospheric CO2 to plant glucose as photosynthesis. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The enzyme is inactive at every temperature. (This confuses a Unit 3 process.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Evaporation</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Temperature has no effect because every row is different. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Condensation</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U03_PT_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 3 stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Unit 3 Concept&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Enzymes&lt;/td&gt;&lt;td&gt;Activity peaks at pH 7&lt;/td&gt;&lt;td&gt;Conditions affect reaction rate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ATP&lt;/td&gt;&lt;td&gt;ATP -&gt; ADP + phosphate&lt;/td&gt;&lt;td&gt;Energy transfer&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which synthesis statement uses both rows correctly?&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Enzyme activity depends on conditions, and ATP transfers usable energy for cell work.</text>
+      <feedback format="html">
+        <text>The correct synthesis keeps each concept accurate and connects both to cell processes. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The table shows no relationship to cell processes.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Enzymes are ATP molecules and always work at pH 11.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ATP controls pH directly in every reaction.</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U03_PT_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the table, model, or data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Water Property&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Life Process Supported&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Polarity&lt;/td&gt;&lt;td&gt;Dissolves many charged substances&lt;/td&gt;&lt;td&gt;Transport in cells and blood&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cohesion&lt;/td&gt;&lt;td&gt;Water molecules stick together&lt;/td&gt;&lt;td&gt;Water movement in plants&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why does water's polarity support transport in living things? Focus on evidence from the table, model, or data.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Cohesion means water cannot move in plants. (This confuses a Unit 3 process.)</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Water properties are unrelated to cell transport. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Polarity helps water dissolve and carry many substances.</text>
+      <feedback format="html">
+        <text>Polarity explains why water can dissolve many materials needed for biological transport. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Polarity prevents all substances from dissolving. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U03_PT_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U03_PT_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the table, model, or data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Temperature&lt;/th&gt;&lt;th&gt;Relative Activity&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10 C&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25 C&lt;/td&gt;&lt;td&gt;70%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37 C&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;60 C&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the data suggest about temperature and this enzyme? Focus on evidence from the table, model, or data.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>The enzyme has an optimum near 37 C and loses activity at 60 C.</text>
+      <feedback format="html">
+        <text>The data peak at 37 C and then drop sharply at 60 C. This matches the mapped Unit 3 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Temperature has no effect because every row is different. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Activity always increases as temperature increases. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The enzyme is inactive at every temperature. (This confuses a Unit 3 process.)</text>
+      <feedback format="html">
+        <text>This choice confuses the mapped Unit 3 vocabulary or process. Recheck the table, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
 </quiz>

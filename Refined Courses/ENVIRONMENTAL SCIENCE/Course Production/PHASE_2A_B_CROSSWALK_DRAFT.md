@@ -2,7 +2,7 @@
 
 ## Crosswalk Purpose
 
-This crosswalk connects every MLA Environmental Science standard to Florida Environmental Science standards, Common Core literacy, ACT Science readiness, SAT science reading/data expectations, college readiness, workforce readiness, scientific literacy, and sustainability literacy.
+This crosswalk connects every MLA Environmental Science standard to Florida Environmental Science standards, embedded Florida B.E.S.T. literacy/readiness expectations, Common Core literacy, ACT Science readiness, SAT science reading/data expectations, college readiness, workforce readiness, scientific literacy, and sustainability literacy.
 
 This document is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
 

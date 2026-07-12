@@ -1,13 +1,34 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  2,
-    "lesson":  7,
-    "title":  "Geologic Evidence and Earth-System Models",
-    "standards":  "MLA.ESS.EAR.02; MLA.ESS.EAR.04",
-    "required_visual_model_data":  "geologic map, cross section, and process-feature model",
-    "direct_resource":  {
-                            "url":  "https://ngmdb.usgs.gov/mapview/?center=-97,39.6\u0026zoom=4",
-                            "title":  "USGS National Geologic Map Database"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 02",
+  "lesson": "Lesson 07",
+  "title": "Geologic Evidence and Earth-System Models",
+  "standards": [
+    "MLA.ESS.EAR.02",
+    "MLA.ESS.EAR.04",
+    "MLA.ESS.LAB.03"
+  ],
+  "required_visual_model_data": "geologic map, cross section, and process-feature model",
+  "direct_resource": {
+    "url": "https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4",
+    "title": "USGS National Geologic Map Database"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Geologic Evidence and Earth-System Models",
+  "primaryStandards": [
+    "MLA.ESS.EAR.02",
+    "MLA.ESS.EAR.04",
+    "MLA.ESS.LAB.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "USGS National Geologic Map Database",
+      "exactDirectUrl": "https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U02_L07_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U02_L07_Quiz_MoodleXML.xml"
 }

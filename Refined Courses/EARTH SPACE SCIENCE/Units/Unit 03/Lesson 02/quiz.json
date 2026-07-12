@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  3,
-    "lesson":  2,
-    "title":  "Ocean Motion and Energy Transfer",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "standards":  "MLA.ESS.ATM.02",
-    "required_stimulus":  "surface-current map, deep-current model, and temperature-salinity table",
-    "rigor_status":  "content-specific XML"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 03",
+  "lesson": "Lesson 02",
+  "lessonTitle": "Ocean Motion and Energy Transfer",
+  "title": "Ocean Motion and Energy Transfer Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ESS_U03_L02_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ESS.ATM.02",
+    "MLA.ESS.LAB.03"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ESS_U03_L02_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

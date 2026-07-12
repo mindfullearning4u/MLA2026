@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  1,
-    "lesson":  5,
-    "title":  "Macromolecules in Human Physiology",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Biomolecule model/table",
-    "standards":  "MLA.ANP.ORG.02"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 01",
+  "lesson": "Lesson 05",
+  "lessonTitle": "Macromolecules in Human Physiology",
+  "title": "Macromolecules in Human Physiology Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U01_L05_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.ORG.02",
+    "MLA.ANP.HLR.03"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U01_L05_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

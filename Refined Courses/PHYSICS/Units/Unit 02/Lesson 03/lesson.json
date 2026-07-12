@@ -40,7 +40,7 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Forces and Motion Basics",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -50,5 +50,29 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Newton's Third Law and System Interactions",
+  "standards": [
+    "MLA.PHYS.FOR.01",
+    "MLA.PHYS.SCI.01"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.FOR.01",
+    "MLA.PHYS.SCI.01"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Forces and Motion Basics",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "OpenStax: Newton's Third Law of Motion",
+      "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/4-4-newtons-third-law-of-motion-symmetry-in-forces",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U02_L03_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/PHYS_U02_L03_Quiz_MoodleXML.xml"
 }

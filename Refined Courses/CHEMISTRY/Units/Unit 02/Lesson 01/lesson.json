@@ -1,50 +1,69 @@
-﻿{
-    "course":  "CHEMISTRY",
-    "unit":  2,
-    "lesson":  1,
-    "title":  "Atomic Theory and Experimental Evidence",
-    "primaryStandards":  [
-                             "MLA.CHEM.ATO.01"
-                         ],
-    "supportStandards":  [
-                             "MLA.CHEM.SCI.03",
-                             "ELA.K12.EE.1.1"
-                         ],
-    "purpose":  "Explain how evidence changed atomic models over time.",
-    "order":  1,
-    "pages":  [
-                  "P01.html",
-                  "P02.html",
-                  "P03.html",
-                  "P04.html",
-                  "P05.html",
-                  "P06.html",
-                  "P07.html"
-              ],
-    "labDataRequirement":  "Atomic model evidence timeline investigation",
-    "safetyNotes":  "Use diagrams, historical data, and simulations only. No radiation or particle experiments are performed.",
-    "simulationReview":  "Direct simulation/resource link is provided in P01.html and in directSimulationUrl.",
-    "assessmentStimulusNeeded":  "Atomic model timeline and model/evidence table",
-    "simulationVirtualLabReviewRequired":  true,
-    "simulationVirtualLabReviewRequirement":  "Required for atomic models, periodic trends, energy levels, and spectra",
-    "simulationVirtualLabReviewFocus":  "Atomic model evidence timeline investigation",
-    "directSimulationRequired":  true,
-    "directSimulationTitle":  "PhET Rutherford Scattering",
-    "directSimulationUrl":  "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_all.html",
-    "directSimulationStudentTask":  "After the simulation opens, start with the atom model shown on the screen and turn on alpha-particle firing if it is not already moving. Observe several alpha particles and separate their paths into mostly straight, slightly deflected, or strongly deflected. Switch or compare available atom-model views if the simulation provides more than one model. Record which observation supports a small dense nucleus and one limitation of the model for the lesson focus: Atomic Theory and Experimental Evidence.",
-    "simulationReviewImplementation":  "Student-facing lesson includes one exact direct simulation/resource link plus adjacent step-by-step directions for what to open, click/use, observe, record, and connect to the lesson standard.",
-    "standards":  [
-                      "MLA.CHEM.ATO.01"
-                  ],
-    "floridaAlignment":  [
-                             "MLA.CHEM.SCI.03",
-                             "ELA.K12.EE.1.1"
-                         ],
-    "simulationSourceReference":  "OpenStax Chemistry 2e; PhET Rutherford Scattering; CK-12",
-    "directSimulationStudentUseDirections":  [
-                                                 "After the simulation opens, start with the atom model shown on the screen and turn on alpha-particle firing if it is not already moving.",
-                                                 "Observe several alpha particles and separate their paths into mostly straight, slightly deflected, or strongly deflected.",
-                                                 "Switch or compare available atom-model views if the simulation provides more than one model.",
-                                                 "Record which observation supports a small dense nucleus and one limitation of the model for the lesson focus: Atomic Theory and Experimental Evidence."
-                                             ]
+{
+  "course": "CHEMISTRY",
+  "unit": "Unit 02",
+  "lesson": "Lesson 01",
+  "title": "Atomic Theory and Experimental Evidence",
+  "primaryStandards": [
+    "MLA.CHEM.ATO.01",
+    "MLA.CHEM.SCI.03"
+  ],
+  "supportStandards": [
+    "MLA.CHEM.SCI.03",
+    "ELA.K12.EE.1.1"
+  ],
+  "purpose": "Explain how evidence changed atomic models over time.",
+  "order": 1,
+  "pages": [
+    "P01.html",
+    "P02.html",
+    "P03.html",
+    "P04.html",
+    "P05.html",
+    "P06.html",
+    "P07.html"
+  ],
+  "labDataRequirement": "Atomic model evidence timeline investigation",
+  "safetyNotes": "Use diagrams, historical data, and simulations only. No radiation or particle experiments are performed.",
+  "simulationReview": "Direct simulation/resource link is provided in P01.html and in directSimulationUrl.",
+  "assessmentStimulusNeeded": "Atomic model timeline and model/evidence table",
+  "simulationVirtualLabReviewRequired": true,
+  "simulationVirtualLabReviewRequirement": "Required for atomic models, periodic trends, energy levels, and spectra",
+  "simulationVirtualLabReviewFocus": "Atomic model evidence timeline investigation",
+  "directSimulationRequired": true,
+  "directSimulationTitle": "PhET Rutherford Scattering",
+  "directSimulationUrl": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_all.html",
+  "directSimulationStudentTask": "After the simulation opens, start with the atom model shown on the screen and turn on alpha-particle firing if it is not already moving. Observe several alpha particles and separate their paths into mostly straight, slightly deflected, or strongly deflected. Switch or compare available atom-model views if the simulation provides more than one model. Record which observation supports a small dense nucleus and one limitation of the model for the lesson focus: Atomic Theory and Experimental Evidence.",
+  "simulationReviewImplementation": "Student-facing lesson includes one exact direct simulation/resource link plus adjacent step-by-step directions for what to open, click/use, observe, record, and connect to the lesson standard.",
+  "standards": [
+    "MLA.CHEM.ATO.01",
+    "MLA.CHEM.SCI.03"
+  ],
+  "floridaAlignment": [
+    "MLA.CHEM.SCI.03",
+    "ELA.K12.EE.1.1"
+  ],
+  "simulationSourceReference": "OpenStax Chemistry 2e; PhET Rutherford Scattering; CK-12",
+  "directSimulationStudentUseDirections": [
+    "After the simulation opens, start with the atom model shown on the screen and turn on alpha-particle firing if it is not already moving.",
+    "Observe several alpha particles and separate their paths into mostly straight, slightly deflected, or strongly deflected.",
+    "Switch or compare available atom-model views if the simulation provides more than one model.",
+    "Record which observation supports a small dense nucleus and one limitation of the model for the lesson focus: Atomic Theory and Experimental Evidence."
+  ],
+  "lessonTitle": "Atomic Theory and Experimental Evidence",
+  "approvedDirectResources": [
+    {
+      "name": "PhET Rutherford Scattering",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_all.html",
+      "studentTask": "After the simulation opens, start with the atom model shown on the screen and turn on alpha-particle firing if it is not already moving. Observe several alpha particles and separate their paths into mostly straight, slightly deflected, or strongly deflected. Switch or compare available atom-model views if the simulation provides more than one model. Record which observation supports a small dense nucleus and one limitation of the model for the lesson focus: Atomic Theory and Experimental Evidence.",
+      "directions": [
+        "After the simulation opens, start with the atom model shown on the screen and turn on alpha-particle firing if it is not already moving.",
+        "Observe several alpha particles and separate their paths into mostly straight, slightly deflected, or strongly deflected.",
+        "Switch or compare available atom-model views if the simulation provides more than one model.",
+        "Record which observation supports a small dense nucleus and one limitation of the model for the lesson focus: Atomic Theory and Experimental Evidence."
+      ]
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/CHEM_U02_L01_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/CHEM_U02_L01_Quiz_MoodleXML.xml"
 }

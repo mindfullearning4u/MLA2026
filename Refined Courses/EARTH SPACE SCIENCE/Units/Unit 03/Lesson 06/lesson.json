@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  3,
-    "lesson":  6,
-    "title":  "Severe Weather Formation",
-    "standards":  "MLA.ESS.ATM.05",
-    "required_visual_model_data":  "storm formation diagram, satellite/radar prompt, and factor table",
-    "direct_resource":  {
-                            "url":  "https://www.nhc.noaa.gov/climo/",
-                            "title":  "National Hurricane Center: Tropical Cyclone Climatology"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 03",
+  "lesson": "Lesson 06",
+  "title": "Severe Weather Formation",
+  "standards": [
+    "MLA.ESS.ATM.05",
+    "MLA.ESS.ATM.03"
+  ],
+  "required_visual_model_data": "storm formation diagram, satellite/radar prompt, and factor table",
+  "direct_resource": {
+    "url": "https://www.nhc.noaa.gov/climo/",
+    "title": "National Hurricane Center: Tropical Cyclone Climatology"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Severe Weather Formation",
+  "primaryStandards": [
+    "MLA.ESS.ATM.05",
+    "MLA.ESS.ATM.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "National Hurricane Center: Tropical Cyclone Climatology",
+      "exactDirectUrl": "https://www.nhc.noaa.gov/climo/",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U03_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U03_L06_Quiz_MoodleXML.xml"
 }

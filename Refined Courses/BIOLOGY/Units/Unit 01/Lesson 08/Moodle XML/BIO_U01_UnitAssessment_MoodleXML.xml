@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text>$course$/BIOLOGY/Units/Unit 01/UnitAssessment</text></category>
+    <category>
+      <text>$course$/BIOLOGY/Units/Unit 01/UnitAssessment</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q01</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q01</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Plant Group</th><th>Daily Light</th><th>Average Height After 10 Days</th></tr><tr><td>A</td><td>8 hours</td><td>14 cm</td></tr><tr><td>B</td><td>2 hours</td><td>6 cm</td></tr></table><p>Which statement is the strongest evidence that light amount is related to plant growth in this data set?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Plant Group&lt;/th&gt;&lt;th&gt;Daily Light&lt;/th&gt;&lt;th&gt;Average Height After 10 Days&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;8 hours&lt;/td&gt;&lt;td&gt;14 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;2 hours&lt;/td&gt;&lt;td&gt;6 cm&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement is the strongest evidence that light amount is related to plant growth in this data set?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -13,51 +19,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Plants are alive, so light must always make them grow.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Plants are alive, so light must always make them grow.</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Group B had a smaller letter name than Group A.</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Group A received more light and had a greater average height than Group B.]]></text>
-      <feedback format="html"><text><![CDATA[The correct answer uses measured evidence from both groups and connects it directly to the claim about light and growth. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Group A received more light and had a greater average height than Group B.</text>
+      <feedback format="html">
+        <text>The correct answer uses measured evidence from both groups and connects it directly to the claim about light and growth. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Group B had a smaller letter name than Group A.]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table proves that light is the only factor that can ever affect plants.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The table proves that light is the only factor that can ever affect plants.</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q02</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q02</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Plan Part</th><th>Investigation Detail</th></tr><tr><td>Question</td><td>How does light color affect algae cell density?</td></tr><tr><td>Measured outcome</td><td>Algae cell density after 5 days</td></tr></table><p>What is the dependent variable in this investigation plan?</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Light color]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The name algae]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The number of days written in the title only]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Algae cell density after 5 days]]></text>
-      <feedback format="html"><text><![CDATA[The dependent variable is the outcome that is measured. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q03</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q03</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.01</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Safety Situation</th><th>Correct Response</th></tr><tr><td>Unknown liquid in an unlabeled container</td><td>Do not use it; report it through the approved workflow</td></tr></table><p>Why is the correct response to avoid using the unlabeled liquid?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Plan Part&lt;/th&gt;&lt;th&gt;Investigation Detail&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Question&lt;/td&gt;&lt;td&gt;How does light color affect algae cell density?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Measured outcome&lt;/td&gt;&lt;td&gt;Algae cell density after 5 days&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the dependent variable in this investigation plan?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -65,25 +57,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The contents and risks are unknown, so using it would be unsafe.]]></text>
-      <feedback format="html"><text><![CDATA[Safety comes before data collection. Unknown materials cannot be treated as safe. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Algae cell density after 5 days</text>
+      <feedback format="html">
+        <text>The dependent variable is the outcome that is measured. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Unlabeled liquids are always pure water.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The name algae</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Safety rules apply only after data are collected.]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The number of days written in the title only</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Using unknown materials improves accuracy.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Light color</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q04</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q04</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.02</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Microscope Part</th><th>Function</th></tr><tr><td>Objective lens</td><td>Magnifies the specimen</td></tr><tr><td>Stage</td><td>Supports the slide</td></tr><tr><td>Coarse focus</td><td>Moves the stage quickly for rough focus</td></tr></table><p>Which part directly magnifies the specimen?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Safety Situation&lt;/th&gt;&lt;th&gt;Correct Response&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Unknown liquid in an unlabeled container&lt;/td&gt;&lt;td&gt;Do not use it; report it through the approved workflow&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is the correct response to avoid using the unlabeled liquid?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -91,25 +95,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Stage]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Safety rules apply only after data are collected.</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Coarse focus]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Using unknown materials improves accuracy.</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Unlabeled liquids are always pure water.</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Objective lens]]></text>
-      <feedback format="html"><text><![CDATA[The objective lens is one of the lenses that magnifies the specimen. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Base]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The contents and risks are unknown, so using it would be unsafe.</text>
+      <feedback format="html">
+        <text>Safety comes before data collection. Unknown materials cannot be treated as safe. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q05</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q05</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Source</th><th>Evidence Provided</th><th>Possible Concern</th></tr><tr><td>Company blog</td><td>No data</td><td>Sells the product</td></tr><tr><td>Public data report</td><td>Measured growth table</td><td>Method should be reviewed</td></tr></table><p>Which source is stronger for evaluating a plant-growth claim?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Microscope Part&lt;/th&gt;&lt;th&gt;Function&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Objective lens&lt;/td&gt;&lt;td&gt;Magnifies the specimen&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stage&lt;/td&gt;&lt;td&gt;Supports the slide&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coarse focus&lt;/td&gt;&lt;td&gt;Moves the stage quickly for rough focus&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which part directly magnifies the specimen?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -117,51 +133,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The company blog, because it sounds confident.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Base</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The public data report, because it includes measured evidence.]]></text>
-      <feedback format="html"><text><![CDATA[A stronger science source provides relevant evidence that can be checked. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Objective lens</text>
+      <feedback format="html">
+        <text>The objective lens is one of the lenses that magnifies the specimen. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The company blog, because no data means no errors.]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Stage</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Both sources are equally strong even though only one has data.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Coarse focus</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q06</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q06</p><p><strong>MLA Standard:</strong> MLA.BIO.CEL.01</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Evidence</th><th>Observation</th></tr><tr><td>Microscope image of leaf</td><td>Many small compartments are visible</td></tr></table><p>Which part of cell theory does this evidence support?</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Living things are made of cells.]]></text>
-      <feedback format="html"><text><![CDATA[A leaf is part of a living thing, and the microscope evidence shows cell-like structures. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All cells are larger than leaves.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Cells never come from other cells.]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Microscopes create cells.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q07</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q07</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Macromolecule</th><th>Common Function</th></tr><tr><td>Carbohydrates</td><td>Quick energy</td></tr><tr><td>Lipids</td><td>Long-term energy and membranes</td></tr><tr><td>Proteins</td><td>Cell work and enzymes</td></tr><tr><td>Nucleic acids</td><td>Genetic information</td></tr></table><p>A molecule acts as an enzyme. Which macromolecule group does it most likely belong to?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Evidence Provided&lt;/th&gt;&lt;th&gt;Possible Concern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Company blog&lt;/td&gt;&lt;td&gt;No data&lt;/td&gt;&lt;td&gt;Sells the product&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Public data report&lt;/td&gt;&lt;td&gt;Measured growth table&lt;/td&gt;&lt;td&gt;Method should be reviewed&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which source is stronger for evaluating a plant-growth claim?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -169,25 +171,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Carbohydrates]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The company blog, because it sounds confident.</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Lipids]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Nucleic acids]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The company blog, because no data means no errors.</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Proteins]]></text>
-      <feedback format="html"><text><![CDATA[Many enzymes are proteins that do chemical work in cells. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>The public data report, because it includes measured evidence.</text>
+      <feedback format="html">
+        <text>A stronger science source provides relevant evidence that can be checked. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Both sources are equally strong even though only one has data.</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q08</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q08</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Use the stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Data Point</th><th>Before Rain</th><th>After Rain</th></tr><tr><td>Nitrate</td><td>2 mg/L</td><td>12 mg/L</td></tr><tr><td>Algae coverage</td><td>10%</td><td>45%</td></tr></table><p>Which claim is best supported by the data?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope image of leaf&lt;/td&gt;&lt;td&gt;Many small compartments are visible&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which part of cell theory does this evidence support?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -195,51 +209,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Temperature caused all changes even though no temperature data are shown.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The pond did not change at all.]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Microscopes create cells.</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Nutrient runoff may have affected the pond sample because nitrate and algae coverage both increased after rain.]]></text>
-      <feedback format="html"><text><![CDATA[The correct claim uses the measured nitrate and algae pattern without overstating the evidence. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Living things are made of cells.</text>
+      <feedback format="html">
+        <text>A leaf is part of a living thing, and the microscope evidence shows cell-like structures. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The table proves every possible pond cause.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>All cells are larger than leaves.</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cells never come from other cells.</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q09</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q09</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><table border="1" cellpadding="6"><tr><th>Statement</th><th>Source</th></tr><tr><td>The sample contained tiny green cells.</td><td>Microscope observation</td></tr><tr><td>The cells are probably algae.</td><td>Student explanation</td></tr></table><p>Which statement is an observation rather than an inference? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[The sample contained tiny green cells.]]></text>
-      <feedback format="html"><text><![CDATA[An observation is what is directly noticed or measured. Calling the cells algae is an interpretation based on the observation. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The cells are probably algae. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The pond must be unhealthy. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The student should already know the answer. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q10</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q10</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.01</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><table border="1" cellpadding="6"><tr><th>Condition</th><th>Changed on Purpose?</th></tr><tr><td>Light color</td><td>Yes</td></tr><tr><td>Container size</td><td>No, kept the same</td></tr><tr><td>Temperature</td><td>No, kept the same</td></tr></table><p>What is the independent variable? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Macromolecule&lt;/th&gt;&lt;th&gt;Common Function&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Carbohydrates&lt;/td&gt;&lt;td&gt;Quick energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lipids&lt;/td&gt;&lt;td&gt;Long-term energy and membranes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Proteins&lt;/td&gt;&lt;td&gt;Cell work and enzymes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nucleic acids&lt;/td&gt;&lt;td&gt;Genetic information&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;A molecule acts as an enzyme. Which macromolecule group does it most likely belong to?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -247,103 +247,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Container size (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Lipids</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nucleic acids</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Carbohydrates</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Light color]]></text>
-      <feedback format="html"><text><![CDATA[The independent variable is changed on purpose so its effect can be tested. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Temperature (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Algae cell density (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Proteins</text>
+      <feedback format="html">
+        <text>Many enzymes are proteins that do chemical work in cells. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q11</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q11</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.03</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><table border="1" cellpadding="6"><tr><th>Trial</th><th>Leaf Length</th></tr><tr><td>1</td><td>4.8 cm</td></tr><tr><td>2</td><td>4.9 cm</td></tr><tr><td>3</td><td>12.0 cm</td></tr><tr><td>4</td><td>5.0 cm</td></tr></table><p>Which value should be checked as a possible outlier or measurement error? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[4.8 cm (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[4.9 cm (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[5.0 cm (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[12.0 cm]]></text>
-      <feedback format="html"><text><![CDATA[The 12.0 cm value is far from the other measurements and should be investigated before drawing a conclusion. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q12</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q12</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.02</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><table border="1" cellpadding="6"><tr><th>Eyepiece</th><th>Objective</th><th>Total Magnification</th></tr><tr><td>10x</td><td>40x</td><td>?</td></tr></table><p>What is the total magnification? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[50x (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[40x (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[400x]]></text>
-      <feedback format="html"><text><![CDATA[Total magnification equals eyepiece magnification times objective magnification: 10x times 40x = 400x. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[10x (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q13</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q13</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Claim stimulus:</strong> Extra nitrate caused algae coverage to increase.</div><table border="1" cellpadding="6"><tr><th>Week</th><th>Nitrate</th><th>Algae Coverage</th></tr><tr><td>1</td><td>2 mg/L</td><td>10%</td></tr><tr><td>2</td><td>12 mg/L</td><td>45%</td></tr></table><p>Which evidence best supports the claim? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table has two rows. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Nitrate increased from 2 mg/L to 12 mg/L while algae coverage increased from 10% to 45%.]]></text>
-      <feedback format="html"><text><![CDATA[The correct evidence uses the measured pattern in both nitrate and algae coverage. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Algae are green. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The claim uses the word nitrate. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q14</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q14</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><table border="1" cellpadding="6"><tr><th>Evidence</th><th>Observation</th></tr><tr><td>Cell division observed</td><td>One cell split into two cells</td></tr></table><p>Which cell theory statement is best supported? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Data Point&lt;/th&gt;&lt;th&gt;Before Rain&lt;/th&gt;&lt;th&gt;After Rain&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nitrate&lt;/td&gt;&lt;td&gt;2 mg/L&lt;/td&gt;&lt;td&gt;12 mg/L&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Algae coverage&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;45%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which claim is best supported by the data?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -351,25 +285,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Cells come from existing cells.]]></text>
-      <feedback format="html"><text><![CDATA[Observing one cell divide into two cells supports the idea that cells come from existing cells. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Nutrient runoff may have affected the pond sample because nitrate and algae coverage both increased after rain.</text>
+      <feedback format="html">
+        <text>The correct claim uses the measured nitrate and algae pattern without overstating the evidence. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cells come from nonliving dust. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The pond did not change at all.</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cells do not reproduce. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The table proves every possible pond cause.</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Only plants have cells. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Temperature caused all changes even though no temperature data are shown.</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q15</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q15</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Water Model:</strong> oxygen side slightly negative; hydrogen sides slightly positive.</div><p>What property is shown by the uneven charge distribution in water? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Source&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;The sample contained tiny green cells.&lt;/td&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;The cells are probably algae.&lt;/td&gt;&lt;td&gt;Student explanation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement is an observation rather than an inference? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -377,25 +323,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Genetic coding (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Cell division (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The cells are probably algae. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Polarity]]></text>
-      <feedback format="html"><text><![CDATA[Water is polar because its charges are unevenly distributed. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>The sample contained tiny green cells.</text>
+      <feedback format="html">
+        <text>An observation is what is directly noticed or measured. Calling the cells algae is an interpretation based on the observation. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Protein folding only (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The pond must be unhealthy. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The student should already know the answer. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q16</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q16</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on the evidence that is measured or directly observed.</p><table border="1" cellpadding="6"><tr><th>Unit 1 Skill</th><th>Evidence</th></tr><tr><td>Tools</td><td>Microscope image shows many small cells</td></tr><tr><td>Molecules/water</td><td>Dissolved nitrate is present in water</td></tr></table><p>Which synthesis explanation best connects the two evidence pieces? Focus on the evidence that is measured or directly observed.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Changed on Purpose?&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Light color&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Container size&lt;/td&gt;&lt;td&gt;No, kept the same&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Temperature&lt;/td&gt;&lt;td&gt;No, kept the same&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the independent variable? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -403,51 +361,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The microscope evidence means nitrate cannot matter. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Temperature (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Water has no role in living systems. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Algae cell density (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cells are not part of biology evidence. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Container size (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The microscope evidence supports that algae are cellular, and dissolved materials in water can affect living cells.]]></text>
-      <feedback format="html"><text><![CDATA[Synthesis connects tool evidence, cell theory, and molecule/water concepts. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Light color</text>
+      <feedback format="html">
+        <text>The independent variable is changed on purpose so its effect can be tested. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q17</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q17</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>CER Organizer</strong><br>Claim: answer to the question<br>Evidence: data or observation<br>Reasoning: science idea that connects the evidence to the claim</div><p>In a CER response, which part should include the measured data or direct observation? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Evidence]]></text>
-      <feedback format="html"><text><![CDATA[Evidence is the data, observation, source detail, or model feature that supports the claim. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Claim (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Reasoning (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Question ID (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q18</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q18</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Flowchart:</strong> Testable question -> Variables -> Controls -> Data table -> CER conclusion</div><p>Which step should come immediately after identifying a testable question? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Trial&lt;/th&gt;&lt;th&gt;Leaf Length&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4.8 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;4.9 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;12.0 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;5.0 cm&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which value should be checked as a possible outlier or measurement error? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -455,51 +399,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Write the conclusion before collecting evidence. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>4.8 cm (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4.9 cm (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Identify the variables and controls.]]></text>
-      <feedback format="html"><text><![CDATA[Variables and controls make the investigation fair and measurable. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>12.0 cm</text>
+      <feedback format="html">
+        <text>The 12.0 cm value is far from the other measurements and should be investigated before drawing a conclusion. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Change several conditions at the same time. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Ignore the measured outcome. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>5.0 cm (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q19</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q19</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.01</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><table border="1" cellpadding="6"><tr><th>Tool</th><th>Best Use</th></tr><tr><td>Graduated cylinder</td><td>Volume</td></tr><tr><td>Metric ruler</td><td>Length</td></tr></table><p>Which tool is best for measuring the length of a seedling? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Graduated cylinder (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Stopwatch (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Metric ruler]]></text>
-      <feedback format="html"><text><![CDATA[A metric ruler measures length in units such as centimeters or millimeters. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Safety goggles (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q20</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q20</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.02</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Sample micrograph description:</strong> The image shows repeated box-like structures with clear boundaries.</div><p>Which observation is best supported by the micrograph description? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Eyepiece&lt;/th&gt;&lt;th&gt;Objective&lt;/th&gt;&lt;th&gt;Total Magnification&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10x&lt;/td&gt;&lt;td&gt;40x&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the total magnification? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -507,25 +437,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The sample contains many cell-like structures.]]></text>
-      <feedback format="html"><text><![CDATA[The description supports the presence of cell-like structures, but it does not prove details that are not visible. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>400x</text>
+      <feedback format="html">
+        <text>Total magnification equals eyepiece magnification times objective magnification: 10x times 40x = 400x. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The sample definitely contains every organelle. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>40x (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The organism's full life cycle is shown. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>10x (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The sample is not biological. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>50x (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q21</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q21</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Reliability Checklist:</strong> author/source, purpose, evidence, method, agreement with other evidence.</div><p>Which checklist item asks whether the source is trying to sell, persuade, inform, or report evidence? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Claim stimulus:&lt;/strong&gt; Extra nitrate caused algae coverage to increase.&lt;/div&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Week&lt;/th&gt;&lt;th&gt;Nitrate&lt;/th&gt;&lt;th&gt;Algae Coverage&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2 mg/L&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;12 mg/L&lt;/td&gt;&lt;td&gt;45%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence best supports the claim? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -533,77 +475,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Font size (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The table has two rows. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Answer order (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Question number (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Algae are green. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Purpose]]></text>
-      <feedback format="html"><text><![CDATA[Purpose helps identify possible bias or limits in how a source presents claims. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Nitrate increased from 2 mg/L to 12 mg/L while algae coverage increased from 10% to 45%.</text>
+      <feedback format="html">
+        <text>The correct evidence uses the measured pattern in both nitrate and algae coverage. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The claim uses the word nitrate. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q22</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q22</p><p><strong>MLA Standard:</strong> MLA.BIO.CEL.01</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><div style="border:1px solid #94a3b8;padding:8px;">A labeled drawing of a plant cell shows a cell wall, nucleus, and chloroplasts.</div><p>Why is this drawing a model? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It is a broad scientific theory by itself. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[It represents cell structures so they can be studied.]]></text>
-      <feedback format="html"><text><![CDATA[A model represents important features of a system; a theory explains a broad pattern supported by evidence. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It proves every detail of all cells. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It cannot be used in biology. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q23</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q23</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><table border="1" cellpadding="6"><tr><th>Building Block</th><th>Macromolecule</th></tr><tr><td>Nucleotide</td><td>Nucleic acid</td></tr><tr><td>Amino acid</td><td>Protein</td></tr></table><p>A molecule stores genetic instructions using nucleotide building blocks. What is it? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A lipid (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A carbohydrate (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[A nucleic acid]]></text>
-      <feedback format="html"><text><![CDATA[Nucleic acids are built from nucleotides and store genetic information. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A water molecule (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q24</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q24</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Focus on the lesson vocabulary before selecting an answer.</p><div style="border:1px solid #94a3b8;padding:8px;">Checkpoint requirement: question, variables, control, two data points, tool/cell connection, molecule/water connection, CER conclusion.</div><p>Which response element is missing if a student gives only a claim and no data? Focus on the lesson vocabulary before selecting an answer.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell division observed&lt;/td&gt;&lt;td&gt;One cell split into two cells&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which cell theory statement is best supported? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -611,25 +513,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Evidence]]></text>
-      <feedback format="html"><text><![CDATA[A CER response needs evidence, not just a claim. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Cells come from existing cells.</text>
+      <feedback format="html">
+        <text>Observing one cell divide into two cells supports the idea that cells come from existing cells. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The title only (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Cells do not reproduce. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[A decorative image (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Only plants have cells. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Answer numbering (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Cells come from nonliving dust. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q25</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q25</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Testable question stimulus:</strong> Do mealworms move faster at room temperature or in a cooler environment?</div><p>Why is this a scientific question? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Water Model:&lt;/strong&gt; oxygen side slightly negative; hydrogen sides slightly positive.&lt;/div&gt;&lt;p&gt;What property is shown by the uneven charge distribution in water? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -637,25 +551,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[It asks what mealworms prefer emotionally. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It cannot use evidence. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It already tells the correct answer. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Protein folding only (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[It can be answered by measuring movement speed under two temperature conditions.]]></text>
-      <feedback format="html"><text><![CDATA[A scientific question is testable when variables can be compared and evidence can be collected. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Polarity</text>
+      <feedback format="html">
+        <text>Water is polar because its charges are unevenly distributed. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Genetic coding (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cell division (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q26</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q26</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.01</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Original question stimulus:</strong> Do seeds like water?</div><p>Which revision makes the question testable? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the evidence that is measured or directly observed.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Unit 1 Skill&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tools&lt;/td&gt;&lt;td&gt;Microscope image shows many small cells&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecules/water&lt;/td&gt;&lt;td&gt;Dissolved nitrate is present in water&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which synthesis explanation best connects the two evidence pieces? Focus on the evidence that is measured or directly observed.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -663,51 +589,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Why is water the best thing? (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Water has no role in living systems. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cells are not part of biology evidence. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The microscope evidence means nitrate cannot matter. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[How does the amount of water affect the percent of bean seeds that germinate after 7 days?]]></text>
-      <feedback format="html"><text><![CDATA[The revised question names a changed factor, a measured outcome, and a time frame. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Are seeds happy with water? (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Do students like watering seeds? (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The microscope evidence supports that algae are cellular, and dissolved materials in water can affect living cells.</text>
+      <feedback format="html">
+        <text>Synthesis connects tool evidence, cell theory, and molecule/water concepts. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q27</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q27</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.03</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><div style="border:1px solid #94a3b8;padding:8px;">Data quality check: same tool, same unit, repeated trials, clear labels.</div><p>Which action best improves data quality? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Use the same measurement method for every trial.]]></text>
-      <feedback format="html"><text><![CDATA[Consistent methods make data easier to compare and reduce avoidable error. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Change tools randomly between trials. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Record numbers without units. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Remove data that disagree without checking why. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q28</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q28</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.02</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><table border="1" cellpadding="6"><tr><th>Representation</th><th>Purpose</th></tr><tr><td>Cell diagram</td><td>Shows important structures clearly</td></tr><tr><td>Actual microscope image</td><td>Shows observed evidence</td></tr></table><p>Why is a diagram considered a model? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;CER Organizer&lt;/strong&gt;&lt;br&gt;Claim: answer to the question&lt;br&gt;Evidence: data or observation&lt;br&gt;Reasoning: science idea that connects the evidence to the claim&lt;/div&gt;&lt;p&gt;In a CER response, which part should include the measured data or direct observation? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -715,25 +627,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[It is always more accurate than real evidence. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Claim (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It replaces the need for observations. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Reasoning (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[It represents important features so they can be studied more clearly.]]></text>
-      <feedback format="html"><text><![CDATA[Models simplify or represent real systems to support understanding. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Evidence</text>
+      <feedback format="html">
+        <text>Evidence is the data, observation, source detail, or model feature that supports the claim. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It contains no scientific information. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Question ID (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q29</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q29</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Two explanations stimulus:</strong><br>A. Nutrient runoff increased algae.<br>B. The pond changed because someone said it looked different.</div><p>Which explanation is better supported if measured nitrate and algae data increased after rain? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Flowchart:&lt;/strong&gt; Testable question -&gt; Variables -&gt; Controls -&gt; Data table -&gt; CER conclusion&lt;/div&gt;&lt;p&gt;Which step should come immediately after identifying a testable question? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -741,25 +665,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Explanation B, because opinions are always stronger. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Explanation B, because it avoids numbers. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Neither explanation can ever use data. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Write the conclusion before collecting evidence. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Explanation A, because it connects to measured nutrient and algae data.]]></text>
-      <feedback format="html"><text><![CDATA[Scientific explanations should match the evidence available. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Identify the variables and controls.</text>
+      <feedback format="html">
+        <text>Variables and controls make the investigation fair and measurable. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Change several conditions at the same time. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ignore the measured outcome. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q30</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q30</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><table border="1" cellpadding="6"><tr><th>Term</th><th>Meaning</th></tr><tr><td>Scientific theory</td><td>Broad explanation supported by many lines of evidence</td></tr></table><p>Which statement best describes a scientific theory? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Tool&lt;/th&gt;&lt;th&gt;Best Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Graduated cylinder&lt;/td&gt;&lt;td&gt;Volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Metric ruler&lt;/td&gt;&lt;td&gt;Length&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which tool is best for measuring the length of a seedling? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -767,51 +703,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[It is always unsupported. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Stopwatch (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Safety goggles (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Graduated cylinder (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[It is a well-supported explanation, not a random guess.]]></text>
-      <feedback format="html"><text><![CDATA[Scientific theories are supported by repeated evidence and explain broad patterns. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It is a personal preference. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It is a single measurement with no explanation. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Metric ruler</text>
+      <feedback format="html">
+        <text>A metric ruler measures length in units such as centimeters or millimeters. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q31</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q31</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><div style="border:1px solid #94a3b8;padding:8px;">Hydrogen bonding helps water molecules attract each other.</div><p>Why is hydrogen bonding important for water in living systems? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It means water stores genetic information. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It makes water a protein. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[It helps explain water properties that support life processes.]]></text>
-      <feedback format="html"><text><![CDATA[Hydrogen bonding contributes to water's special properties, including cohesion and interactions with other polar substances. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It prevents water from dissolving materials. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U01_UA_Q32</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q32</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.01</p><p><strong>Assessment focus:</strong> Focus on the claim and do not overstate what the evidence proves.</p><table border="1" cellpadding="6"><tr><th>Condition</th><th>Purpose</th></tr><tr><td>Same pond location</td><td>Control</td></tr><tr><td>Before vs. after rain</td><td>Compared condition</td></tr></table><p>Why is using the same pond location important? Focus on the claim and do not overstate what the evidence proves.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Text stimulus from an observation record:&lt;/strong&gt; The described sample contains repeated box-like structures with clear boundaries.&lt;/div&gt;&lt;p&gt;Which observation is best supported by the text stimulus? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -819,25 +741,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[It makes the comparison fairer by controlling location.]]></text>
-      <feedback format="html"><text><![CDATA[Controls help isolate the condition being compared. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>The sample contains many cell-like structures.</text>
+      <feedback format="html">
+        <text>The description supports the presence of cell-like structures, but it does not prove details that are not visible. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It removes the need to record data. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The organism's full life cycle is shown. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It changes every variable at once. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The sample is not biological. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It proves the conclusion before testing. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The sample definitely contains every organelle. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q33</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q33</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><table border="1" cellpadding="6"><tr><th>Cup</th><th>Daily Light</th><th>Average Height</th></tr><tr><td>A</td><td>8 hours</td><td>14 cm</td></tr><tr><td>B</td><td>2 hours</td><td>6 cm</td></tr></table><p>Which reasoning best connects the evidence to the claim that more light increased growth? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Reliability Checklist:&lt;/strong&gt; author/source, purpose, evidence, method, agreement with other evidence.&lt;/div&gt;&lt;p&gt;Which checklist item asks whether the source is trying to sell, persuade, inform, or report evidence? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -845,25 +779,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The taller plant is better because taller things are always healthier. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Answer order (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Question number (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Font size (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Plants use light during photosynthesis, so different light exposure can affect growth when other conditions are controlled.]]></text>
-      <feedback format="html"><text><![CDATA[Reasoning explains the biology idea that makes the evidence support the claim. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The data do not matter because all plants need the same amount of light. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The claim is true because it sounds scientific. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Purpose</text>
+      <feedback format="html">
+        <text>Purpose helps identify possible bias or limits in how a source presents claims. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q34</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q34</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.01</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><table border="1" cellpadding="6"><tr><th>Control</th><th>Reason</th></tr><tr><td>Same starting algae amount</td><td>?</td></tr></table><p>Why should the starting algae amount be kept the same? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;A labeled drawing of a plant cell shows a cell wall, nucleus, and chloroplasts.&lt;/div&gt;&lt;p&gt;Why is this drawing a model? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -871,25 +817,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[So the investigation has no dependent variable. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[So the data table is not needed. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[So the answer is known before the investigation. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>It cannot be used in biology. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[So differences in final cell density are more likely related to the tested condition.]]></text>
-      <feedback format="html"><text><![CDATA[Controls reduce unfair differences between groups. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>It represents cell structures so they can be studied.</text>
+      <feedback format="html">
+        <text>A model represents important features of a system; a theory explains a broad pattern supported by evidence. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It is a broad scientific theory by itself. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It proves every detail of all cells. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q35</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q35</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.01</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><table border="1" cellpadding="6"><tr><th>Day</th><th>Plant Height</th></tr><tr><td>1</td><td>3 cm</td></tr><tr><td>2</td><td>4 cm</td></tr><tr><td>3</td><td>5 cm</td></tr></table><p>What makes this table usable for scientific analysis? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Building Block&lt;/th&gt;&lt;th&gt;Macromolecule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nucleotide&lt;/td&gt;&lt;td&gt;Nucleic acid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Amino acid&lt;/td&gt;&lt;td&gt;Protein&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;A molecule stores genetic instructions using nucleotide building blocks. What is it? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -897,25 +855,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[It hides the units. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>A lipid (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It uses only opinions. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>A carbohydrate (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[It includes labeled variables and units.]]></text>
-      <feedback format="html"><text><![CDATA[Clear labels and units help a student interpret what was measured. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>A nucleic acid</text>
+      <feedback format="html">
+        <text>Nucleic acids are built from nucleotides and store genetic information. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It changes the measured variable each row. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>A water molecule (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q36</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q36</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.02</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Microscope observation stimulus:</strong> A slide is blurry at high power.</div><p>What is the safest first step for improving focus? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;Checkpoint requirement: question, variables, control, two data points, tool/cell connection, molecule/water connection, CER conclusion.&lt;/div&gt;&lt;p&gt;Which response element is missing if a student gives only a claim and no data? Focus on the lesson vocabulary before selecting an answer.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -923,25 +893,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Use careful fine focus while viewing the slide.]]></text>
-      <feedback format="html"><text><![CDATA[Fine focus is used for small adjustments, especially at higher magnification. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Evidence</text>
+      <feedback format="html">
+        <text>A CER response needs evidence, not just a claim. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Force the objective lens into the slide. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>The title only (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Remove the slide and guess what it shows. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>A decorative image (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Use unapproved liquid on the lens. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Answer numbering (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q37</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q37</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><div style="border:1px solid #94a3b8;padding:8px;">Claim -> Evidence -> Reasoning</div><p>What should reasoning do in a scientific argument? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Testable question stimulus:&lt;/strong&gt; Do mealworms move faster at room temperature or in a cooler environment?&lt;/div&gt;&lt;p&gt;Why is this a scientific question? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -949,25 +931,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Repeat the claim with no evidence. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>It cannot use evidence. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[List random facts from another unit. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>It already tells the correct answer. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Choose the source that agrees with a first opinion. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>It asks what mealworms prefer emotionally. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Explain the science idea that connects the evidence to the claim.]]></text>
-      <feedback format="html"><text><![CDATA[Reasoning is the scientific explanation that makes the evidence meaningful. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>It can be answered by measuring movement speed under two temperature conditions.</text>
+      <feedback format="html">
+        <text>A scientific question is testable when variables can be compared and evidence can be collected. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q38</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q38</p><p><strong>MLA Standard:</strong> MLA.BIO.CEL.01</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><table border="1" cellpadding="6"><tr><th>Timeline Evidence</th><th>Contribution</th></tr><tr><td>Improved microscopes</td><td>Cells became visible</td></tr><tr><td>Repeated observations</td><td>Cell patterns were confirmed</td></tr></table><p>Why did improved tools matter for cell theory? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q26</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Original question stimulus:&lt;/strong&gt; Do seeds like water?&lt;/div&gt;&lt;p&gt;Which revision makes the question testable? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -975,25 +969,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[They removed the need for evidence. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Why is water the best thing? (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Are seeds happy with water? (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[They allowed scientists to gather better evidence about cells.]]></text>
-      <feedback format="html"><text><![CDATA[Better tools can make evidence visible and improve scientific explanations. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>How does the amount of water affect the percent of bean seeds that germinate after 7 days?</text>
+      <feedback format="html">
+        <text>The revised question names a changed factor, a measured outcome, and a time frame. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[They made cells appear for the first time. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They proved biology without observations. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Do students like watering seeds? (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q39</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q39</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.01</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><table border="1" cellpadding="6"><tr><th>Observation</th><th>Biology Connection</th></tr><tr><td>Charged substance dissolves in water</td><td>Water can transport dissolved materials</td></tr></table><p>Which water property best explains the observation? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q27</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;Data quality check: same tool, same unit, repeated trials, clear labels.&lt;/div&gt;&lt;p&gt;Which action best improves data quality? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1001,25 +1007,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Water's polarity]]></text>
-      <feedback format="html"><text><![CDATA[Polarity helps water interact with many charged or polar substances. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>Use the same measurement method for every trial.</text>
+      <feedback format="html">
+        <text>Consistent methods make data easier to compare and reduce avoidable error. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The presence of DNA in all water (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Record numbers without units. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Water being a lipid (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Remove data that disagree without checking why. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Water having no charge differences (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>Change tools randomly between trials. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U01_UA_Q40</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U01_UA_Q40</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.02</p><p><strong>Assessment focus:</strong> Focus on how the data, model, or source supports the reasoning.</p><table border="1" cellpadding="6"><tr><th>Source</th><th>Evidence</th></tr><tr><td>Opinion post</td><td>The pond looks bad</td></tr><tr><td>Measured report</td><td>Nitrate and algae coverage values</td></tr></table><p>Which source is more useful for the Unit 1 synthesis claim? Focus on how the data, model, or source supports the reasoning.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U01_UA_Q28</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Representation&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell diagram&lt;/td&gt;&lt;td&gt;Shows important structures clearly&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Actual microscope image&lt;/td&gt;&lt;td&gt;Shows observed evidence&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is a diagram considered a model? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1027,20 +1045,484 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The opinion post because it is shorter. (This ignores the mapped evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The opinion post because it has no numbers to check. (This overstates the claim.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>It contains no scientific information. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The measured report because it provides data that can support or challenge the claim.]]></text>
-      <feedback format="html"><text><![CDATA[Source reliability depends on relevant evidence and how well it supports the claim. This matches the mapped lesson content and uses the stimulus provided in the question.]]></text></feedback>
+      <text>It represents important features so they can be studied more clearly.</text>
+      <feedback format="html">
+        <text>Models simplify or represent real systems to support understanding. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Neither source can ever be evaluated. (This confuses the lesson vocabulary.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.]]></text></feedback>
+      <text>It is always more accurate than real evidence. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It replaces the need for observations. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q29</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Two explanations stimulus:&lt;/strong&gt;&lt;br&gt;A. Nutrient runoff increased algae.&lt;br&gt;B. The pond changed because someone said it looked different.&lt;/div&gt;&lt;p&gt;Which explanation is better supported if measured nitrate and algae data increased after rain? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Explanation B, because opinions are always stronger. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Explanation B, because it avoids numbers. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Explanation A, because it connects to measured nutrient and algae data.</text>
+      <feedback format="html">
+        <text>Scientific explanations should match the evidence available. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Neither explanation can ever use data. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q30</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Term&lt;/th&gt;&lt;th&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Scientific theory&lt;/td&gt;&lt;td&gt;Broad explanation supported by many lines of evidence&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best describes a scientific theory? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>It is a well-supported explanation, not a random guess.</text>
+      <feedback format="html">
+        <text>Scientific theories are supported by repeated evidence and explain broad patterns. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It is a personal preference. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It is a single measurement with no explanation. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It is always unsupported. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q31</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;Hydrogen bonding helps water molecules attract each other.&lt;/div&gt;&lt;p&gt;Why is hydrogen bonding important for water in living systems? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>It makes water a protein. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It prevents water from dissolving materials. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It means water stores genetic information. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>It helps explain water properties that support life processes.</text>
+      <feedback format="html">
+        <text>Hydrogen bonding contributes to water's special properties, including cohesion and interactions with other polar substances. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q32</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q32&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Same pond location&lt;/td&gt;&lt;td&gt;Control&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Before vs. after rain&lt;/td&gt;&lt;td&gt;Compared condition&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is using the same pond location important? Focus on the claim and do not overstate what the evidence proves.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>It proves the conclusion before testing. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>It makes the comparison fairer by controlling location.</text>
+      <feedback format="html">
+        <text>Controls help isolate the condition being compared. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It removes the need to record data. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It changes every variable at once. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q33</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Cup&lt;/th&gt;&lt;th&gt;Daily Light&lt;/th&gt;&lt;th&gt;Average Height&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;8 hours&lt;/td&gt;&lt;td&gt;14 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;2 hours&lt;/td&gt;&lt;td&gt;6 cm&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which reasoning best connects the evidence to the claim that more light increased growth? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The taller plant is better because taller things are always healthier. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The data do not matter because all plants need the same amount of light. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The claim is true because it sounds scientific. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Plants use light during photosynthesis, so different light exposure can affect growth when other conditions are controlled.</text>
+      <feedback format="html">
+        <text>Reasoning explains the biology idea that makes the evidence support the claim. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q34</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q34&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Control&lt;/th&gt;&lt;th&gt;Reason&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Same starting algae amount&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why should the starting algae amount be kept the same? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>So the investigation has no dependent variable. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>So differences in final cell density are more likely related to the tested condition.</text>
+      <feedback format="html">
+        <text>Controls reduce unfair differences between groups. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>So the data table is not needed. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>So the answer is known before the investigation. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q35</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q35&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Day&lt;/th&gt;&lt;th&gt;Plant Height&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;3 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;4 cm&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5 cm&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What makes this table usable for scientific analysis? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>It hides the units. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It uses only opinions. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>It includes labeled variables and units.</text>
+      <feedback format="html">
+        <text>Clear labels and units help a student interpret what was measured. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It changes the measured variable each row. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q36</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q36&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Microscope observation stimulus:&lt;/strong&gt; A slide is blurry at high power.&lt;/div&gt;&lt;p&gt;What is the safest first step for improving focus? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Use careful fine focus while viewing the slide.</text>
+      <feedback format="html">
+        <text>Fine focus is used for small adjustments, especially at higher magnification. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Remove the slide and guess what it shows. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Use unapproved liquid on the lens. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Force the objective lens into the slide. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q37</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q37&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;Claim -&gt; Evidence -&gt; Reasoning&lt;/div&gt;&lt;p&gt;What should reasoning do in a scientific argument? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Repeat the claim with no evidence. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>List random facts from another unit. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Explain the science idea that connects the evidence to the claim.</text>
+      <feedback format="html">
+        <text>Reasoning is the scientific explanation that makes the evidence meaningful. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Choose the source that agrees with a first opinion. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q38</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q38&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Timeline Evidence&lt;/th&gt;&lt;th&gt;Contribution&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Improved microscopes&lt;/td&gt;&lt;td&gt;Cells became visible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Repeated observations&lt;/td&gt;&lt;td&gt;Cell patterns were confirmed&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why did improved tools matter for cell theory? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>They allowed scientists to gather better evidence about cells.</text>
+      <feedback format="html">
+        <text>Better tools can make evidence visible and improve scientific explanations. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They made cells appear for the first time. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They proved biology without observations. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They removed the need for evidence. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q39</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q39&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;th&gt;Biology Connection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Charged substance dissolves in water&lt;/td&gt;&lt;td&gt;Water can transport dissolved materials&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which water property best explains the observation? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Water being a lipid (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Water having no charge differences (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The presence of DNA in all water (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Water's polarity</text>
+      <feedback format="html">
+        <text>Polarity helps water interact with many charged or polar substances. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U01_UA_Q40</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_UA_Q40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Source&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Opinion post&lt;/td&gt;&lt;td&gt;The pond looks bad&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Measured report&lt;/td&gt;&lt;td&gt;Nitrate and algae coverage values&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which source is more useful for the Unit 1 synthesis claim? Focus on how the data, model, or source supports the reasoning.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Neither source can ever be evaluated. (This confuses the lesson vocabulary.)</text>
+      <feedback format="html">
+        <text>This choice confuses a key Unit 1 term. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The measured report because it provides data that can support or challenge the claim.</text>
+      <feedback format="html">
+        <text>Source reliability depends on relevant evidence and how well it supports the claim. This matches the mapped lesson content and uses the stimulus provided in the question.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The opinion post because it is shorter. (This ignores the mapped evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the stimulus evidence. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The opinion post because it has no numbers to check. (This overstates the claim.)</text>
+      <feedback format="html">
+        <text>This choice goes beyond what the data or model can support. Recheck the question, identify the mapped lesson skill, and connect the answer to the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
 </quiz>

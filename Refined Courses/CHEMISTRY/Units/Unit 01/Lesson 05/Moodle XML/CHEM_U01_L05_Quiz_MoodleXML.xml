@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U01_L05_QZ_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which particle description best matches a gas?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which particle description best matches a gas?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -18,32 +18,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Particles disappear.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles disappear.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are fixed in place.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are fixed in place.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are close and only slide slightly.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are close and only slide slightly.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Particles are far apart and move freely.]]></text>
+      <text>Particles are far apart and move freely.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are widely spaced and move freely.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles are far apart and move freely.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are fixed in place.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Fixed positions describe a solid.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are close and only slide slightly.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Close sliding particles describe a liquid.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles disappear.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Particles do not disappear during ordinary state changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What happens to particle motion when energy is added during melting?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens to particle motion when energy is added during melting?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Particles become a new substance.]]></text>
+      <text>Particles become a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Melting is a physical change, not a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles become a new substance.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Particles gain enough motion to leave fixed positions.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Particles gain enough motion to leave fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Melting adds energy so solid particles can move more like a liquid.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles gain enough motion to leave fixed positions.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles stop moving.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles stop moving.</text>
       <feedback format="html">
-        <text><![CDATA[Particles do not stop when energy is added.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles stop moving.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles lose all spacing.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles lose all spacing.</text>
       <feedback format="html">
-        <text><![CDATA[Spacing changes, but particles do not lose spacing completely.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles lose all spacing.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which change is a phase change?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which change is a phase change?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -85,31 +95,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusting.]]></text>
+      <text>Iron rusting.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Iron rusting.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burning.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burning.</text>
       <feedback format="html">
-        <text><![CDATA[Burning is a chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Paper burning.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Liquid water freezing into ice.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Liquid water freezing into ice.</text>
       <feedback format="html">
-        <text><![CDATA[Freezing changes state from liquid to solid without changing identity.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Liquid water freezing into ice.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk souring.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk souring.</text>
       <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Milk souring.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What is a particle model used for?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a particle model used for?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -118,31 +133,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Representing particles and motion that cannot be seen directly.]]></text>
+      <text>Representing particles and motion that cannot be seen directly.</text>
       <feedback format="html">
-        <text><![CDATA[A particle model helps explain unseen particle behavior.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Representing particles and motion that cannot be seen directly.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Photographing actual atoms at full size.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Photographing actual atoms at full size.</text>
       <feedback format="html">
-        <text><![CDATA[Classroom particle diagrams are not full-size photographs.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Photographing actual atoms at full size.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Replacing all evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Replacing all evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Models support evidence but do not replace all evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Replacing all evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Proving every substance is a gas.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Proving every substance is a gas.</text>
       <feedback format="html">
-        <text><![CDATA[Models can represent solids, liquids, and gases.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Proving every substance is a gas.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Why does a liquid take the shape of its container?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does a liquid take the shape of its container?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,31 +171,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are locked in fixed positions.]]></text>
+      <text>Its particles are locked in fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe solids.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are locked in fixed positions.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are farther apart than gas particles.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are farther apart than gas particles.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are usually farther apart than liquid particles.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are farther apart than gas particles.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles stop moving at room temperature.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles stop moving at room temperature.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles still move.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles stop moving at room temperature.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Its particles can slide past one another.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Its particles can slide past one another.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles remain close but can move around each other.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Its particles can slide past one another.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q06</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q06</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which particle description best matches a gas?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which particle description best matches a gas?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -183,32 +208,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Particles are far apart and move freely.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles are far apart and move freely.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Particles are fixed in place.]]></text>
+      <text>Particles disappear.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe a solid.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles disappear.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Particles are far apart and move freely.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are fixed in place.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are widely spaced and move freely.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are fixed in place.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are close and only slide slightly.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are close and only slide slightly.</text>
       <feedback format="html">
-        <text><![CDATA[Close sliding particles describe a liquid.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are close and only slide slightly.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles disappear.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Particles do not disappear during ordinary state changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q07</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q07</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What happens to particle motion when energy is added during melting?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens to particle motion when energy is added during melting?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -216,32 +246,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Particles stop moving.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles stop moving.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles lose all spacing.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles lose all spacing.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Particles gain enough motion to leave fixed positions.]]></text>
+      <text>Particles gain enough motion to leave fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Melting adds energy so solid particles can move more like a liquid.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles gain enough motion to leave fixed positions.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles become a new substance.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles become a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Melting is a physical change, not a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles become a new substance.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles stop moving.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Particles do not stop when energy is added.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles lose all spacing.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Spacing changes, but particles do not lose spacing completely.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q08</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q08</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which change is a phase change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which change is a phase change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -250,31 +285,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusting.]]></text>
+      <text>Iron rusting.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Iron rusting.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burning.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Liquid water freezing into ice.</text>
       <feedback format="html">
-        <text><![CDATA[Burning is a chemical change.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Liquid water freezing into ice.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Liquid water freezing into ice.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burning.</text>
       <feedback format="html">
-        <text><![CDATA[Freezing changes state from liquid to solid without changing identity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Paper burning.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk souring.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk souring.</text>
       <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Milk souring.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q09</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q09</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What is a particle model used for?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a particle model used for?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -283,31 +323,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Photographing actual atoms at full size.]]></text>
+      <text>Replacing all evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Classroom particle diagrams are not full-size photographs.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Replacing all evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Replacing all evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Proving every substance is a gas.</text>
       <feedback format="html">
-        <text><![CDATA[Models support evidence but do not replace all evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Proving every substance is a gas.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Proving every substance is a gas.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Representing particles and motion that cannot be seen directly.</text>
       <feedback format="html">
-        <text><![CDATA[Models can represent solids, liquids, and gases.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Representing particles and motion that cannot be seen directly.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Representing particles and motion that cannot be seen directly.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Photographing actual atoms at full size.</text>
       <feedback format="html">
-        <text><![CDATA[A particle model helps explain unseen particle behavior.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Photographing actual atoms at full size.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q10</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q10</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Why does a liquid take the shape of its container?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does a liquid take the shape of its container?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -315,32 +360,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Its particles can slide past one another.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Its particles can slide past one another.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are locked in fixed positions.]]></text>
+      <text>Its particles stop moving at room temperature.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe solids.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles stop moving at room temperature.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Its particles can slide past one another.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are locked in fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles remain close but can move around each other.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are locked in fixed positions.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are farther apart than gas particles.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are farther apart than gas particles.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are usually farther apart than liquid particles.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are farther apart than gas particles.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles stop moving at room temperature.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Liquid particles still move.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q11</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q11</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which particle description best matches a gas?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which particle description best matches a gas?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -349,31 +399,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Particles are fixed in place.]]></text>
+      <text>Particles are fixed in place.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe a solid.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are fixed in place.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are close and only slide slightly.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Particles are far apart and move freely.</text>
       <feedback format="html">
-        <text><![CDATA[Close sliding particles describe a liquid.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles are far apart and move freely.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Particles are far apart and move freely.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are close and only slide slightly.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are widely spaced and move freely.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are close and only slide slightly.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles disappear.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles disappear.</text>
       <feedback format="html">
-        <text><![CDATA[Particles do not disappear during ordinary state changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles disappear.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q12</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q12</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What happens to particle motion when energy is added during melting?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens to particle motion when energy is added during melting?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -381,32 +436,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Particles lose all spacing.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles lose all spacing.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles become a new substance.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles become a new substance.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles stop moving.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles stop moving.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Particles gain enough motion to leave fixed positions.]]></text>
+      <text>Particles gain enough motion to leave fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Melting adds energy so solid particles can move more like a liquid.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles gain enough motion to leave fixed positions.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles become a new substance.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Melting is a physical change, not a new substance.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles stop moving.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Particles do not stop when energy is added.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles lose all spacing.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Spacing changes, but particles do not lose spacing completely.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q13</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q13</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which change is a phase change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which change is a phase change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -414,32 +474,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Liquid water freezing into ice.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Liquid water freezing into ice.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusting.]]></text>
+      <text>Milk souring.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Milk souring.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Liquid water freezing into ice.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Iron rusting.</text>
       <feedback format="html">
-        <text><![CDATA[Freezing changes state from liquid to solid without changing identity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Iron rusting.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burning.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burning.</text>
       <feedback format="html">
-        <text><![CDATA[Burning is a chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Paper burning.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk souring.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q14</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q14</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What is a particle model used for?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a particle model used for?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -448,31 +513,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Photographing actual atoms at full size.]]></text>
+      <text>Replacing all evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Classroom particle diagrams are not full-size photographs.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Replacing all evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Replacing all evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Proving every substance is a gas.</text>
       <feedback format="html">
-        <text><![CDATA[Models support evidence but do not replace all evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Proving every substance is a gas.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Proving every substance is a gas.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Representing particles and motion that cannot be seen directly.</text>
       <feedback format="html">
-        <text><![CDATA[Models can represent solids, liquids, and gases.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Representing particles and motion that cannot be seen directly.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Representing particles and motion that cannot be seen directly.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Photographing actual atoms at full size.</text>
       <feedback format="html">
-        <text><![CDATA[A particle model helps explain unseen particle behavior.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Photographing actual atoms at full size.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q15</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q15</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Why does a liquid take the shape of its container?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does a liquid take the shape of its container?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -481,31 +551,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are locked in fixed positions.]]></text>
+      <text>Its particles are locked in fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe solids.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are locked in fixed positions.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are farther apart than gas particles.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Its particles can slide past one another.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are usually farther apart than liquid particles.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Its particles can slide past one another.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Its particles can slide past one another.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are farther apart than gas particles.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles remain close but can move around each other.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are farther apart than gas particles.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles stop moving at room temperature.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles stop moving at room temperature.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles still move.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles stop moving at room temperature.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q16</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q16</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which particle description best matches a gas?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which particle description best matches a gas?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -513,32 +588,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Particles disappear.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles disappear.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are fixed in place.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are fixed in place.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are close and only slide slightly.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are close and only slide slightly.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Particles are far apart and move freely.]]></text>
+      <text>Particles are far apart and move freely.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are widely spaced and move freely.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles are far apart and move freely.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are fixed in place.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Fixed positions describe a solid.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are close and only slide slightly.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Close sliding particles describe a liquid.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles disappear.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Particles do not disappear during ordinary state changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q17</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q17</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What happens to particle motion when energy is added during melting?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens to particle motion when energy is added during melting?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -546,32 +626,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Particles gain enough motion to leave fixed positions.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles gain enough motion to leave fixed positions.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Particles become a new substance.]]></text>
+      <text>Particles lose all spacing.</text>
       <feedback format="html">
-        <text><![CDATA[Melting is a physical change, not a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles lose all spacing.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles stop moving.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles become a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Particles do not stop when energy is added.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles become a new substance.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles lose all spacing.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles stop moving.</text>
       <feedback format="html">
-        <text><![CDATA[Spacing changes, but particles do not lose spacing completely.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles stop moving.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Particles gain enough motion to leave fixed positions.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Melting adds energy so solid particles can move more like a liquid.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q18</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q18</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which change is a phase change?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which change is a phase change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -580,31 +665,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusting.]]></text>
+      <text>Iron rusting.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Iron rusting.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Liquid water freezing into ice.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Liquid water freezing into ice.</text>
       <feedback format="html">
-        <text><![CDATA[Freezing changes state from liquid to solid without changing identity.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Liquid water freezing into ice.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burning.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burning.</text>
       <feedback format="html">
-        <text><![CDATA[Burning is a chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Paper burning.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk souring.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk souring.</text>
       <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Milk souring.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q19</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q19</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What is a particle model used for?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a particle model used for?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -613,31 +703,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Photographing actual atoms at full size.]]></text>
+      <text>Proving every substance is a gas.</text>
       <feedback format="html">
-        <text><![CDATA[Classroom particle diagrams are not full-size photographs.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Proving every substance is a gas.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Replacing all evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Photographing actual atoms at full size.</text>
       <feedback format="html">
-        <text><![CDATA[Models support evidence but do not replace all evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Photographing actual atoms at full size.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Representing particles and motion that cannot be seen directly.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Replacing all evidence.</text>
       <feedback format="html">
-        <text><![CDATA[A particle model helps explain unseen particle behavior.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Replacing all evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Proving every substance is a gas.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Representing particles and motion that cannot be seen directly.</text>
       <feedback format="html">
-        <text><![CDATA[Models can represent solids, liquids, and gases.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Representing particles and motion that cannot be seen directly.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q20</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q20</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Why does a liquid take the shape of its container?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does a liquid take the shape of its container?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -645,32 +740,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Its particles are farther apart than gas particles.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are farther apart than gas particles.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles stop moving at room temperature.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles stop moving at room temperature.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Its particles can slide past one another.]]></text>
+      <text>Its particles can slide past one another.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles remain close but can move around each other.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Its particles can slide past one another.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are locked in fixed positions.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are locked in fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe solids.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are locked in fixed positions.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are farther apart than gas particles.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Gas particles are usually farther apart than liquid particles.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles stop moving at room temperature.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Liquid particles still move.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q21</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q21</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which particle description best matches a gas?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which particle description best matches a gas?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -679,31 +779,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Particles are fixed in place.]]></text>
+      <text>Particles are fixed in place.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe a solid.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are fixed in place.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles are close and only slide slightly.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Particles are far apart and move freely.</text>
       <feedback format="html">
-        <text><![CDATA[Close sliding particles describe a liquid.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles are far apart and move freely.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles disappear.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles are close and only slide slightly.</text>
       <feedback format="html">
-        <text><![CDATA[Particles do not disappear during ordinary state changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles are close and only slide slightly.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Particles are far apart and move freely.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles disappear.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are widely spaced and move freely.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles disappear.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles are far apart and move freely.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q22</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q22</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What happens to particle motion when energy is added during melting?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What happens to particle motion when energy is added during melting?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -712,64 +817,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Particles become a new substance.]]></text>
+      <text>Particles lose all spacing.</text>
       <feedback format="html">
-        <text><![CDATA[Melting is a physical change, not a new substance.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles lose all spacing.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles stop moving.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles become a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Particles do not stop when energy is added.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles become a new substance.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Particles gain enough motion to leave fixed positions.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Particles stop moving.</text>
       <feedback format="html">
-        <text><![CDATA[Melting adds energy so solid particles can move more like a liquid.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Particles stop moving.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Particles gain enough motion to leave fixed positions.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Particles lose all spacing.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Particles gain enough motion to leave fixed positions.</text>
       <feedback format="html">
-        <text><![CDATA[Spacing changes, but particles do not lose spacing completely.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Particles gain enough motion to leave fixed positions.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L05_QZ_Q23</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q23</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Which change is a phase change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusting.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Rusting forms a new substance.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Liquid water freezing into ice.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Freezing changes state from liquid to solid without changing identity.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burning.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Burning is a chemical change.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk souring.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_L05_QZ_Q24</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q24</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> What is a particle model used for?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which change is a phase change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -778,31 +855,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Representing particles and motion that cannot be seen directly.]]></text>
+      <text>Liquid water freezing into ice.</text>
       <feedback format="html">
-        <text><![CDATA[A particle model helps explain unseen particle behavior.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Liquid water freezing into ice.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Photographing actual atoms at full size.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk souring.</text>
       <feedback format="html">
-        <text><![CDATA[Classroom particle diagrams are not full-size photographs.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Milk souring.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Replacing all evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Iron rusting.</text>
       <feedback format="html">
-        <text><![CDATA[Models support evidence but do not replace all evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Iron rusting.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Proving every substance is a gas.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burning.</text>
       <feedback format="html">
-        <text><![CDATA[Models can represent solids, liquids, and gases.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Paper burning.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Liquid water freezing into ice.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
-      <text>CHEM_U01_L05_QZ_Q25</text>
+      <text>CHEM_U01_L05_QZ_Q24</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L05_QZ_Q25</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.01</p><p><strong>Stimulus:</strong></p><table><tr><th>State</th><th>Particle spacing</th><th>Particle motion</th><th>Shape/Volume</th></tr><tr><td>Solid</td><td>Very close</td><td>Vibrate in place</td><td>Fixed shape and fixed volume</td></tr><tr><td>Liquid</td><td>Close</td><td>Slide past each other</td><td>Container shape and fixed volume</td></tr><tr><td>Gas</td><td>Far apart</td><td>Move freely</td><td>Fills container</td></tr></table><p><strong>Question:</strong> Why does a liquid take the shape of its container?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is a particle model used for?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -811,28 +893,66 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are locked in fixed positions.]]></text>
+      <text>Replacing all evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Fixed positions describe solids.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Replacing all evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles are farther apart than gas particles.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Proving every substance is a gas.</text>
       <feedback format="html">
-        <text><![CDATA[Gas particles are usually farther apart than liquid particles.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Proving every substance is a gas.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Its particles stop moving at room temperature.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Representing particles and motion that cannot be seen directly.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles still move.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Representing particles and motion that cannot be seen directly.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Its particles can slide past one another.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Photographing actual atoms at full size.</text>
       <feedback format="html">
-        <text><![CDATA[Liquid particles remain close but can move around each other.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Photographing actual atoms at full size.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Representing particles and motion that cannot be seen directly.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
-
-
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_L05_QZ_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L05_QZ_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;State&lt;/th&gt;&lt;th&gt;Particle spacing&lt;/th&gt;&lt;th&gt;Particle motion&lt;/th&gt;&lt;th&gt;Shape/Volume&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;Very close&lt;/td&gt;&lt;td&gt;Vibrate in place&lt;/td&gt;&lt;td&gt;Fixed shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Liquid&lt;/td&gt;&lt;td&gt;Close&lt;/td&gt;&lt;td&gt;Slide past each other&lt;/td&gt;&lt;td&gt;Container shape and fixed volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas&lt;/td&gt;&lt;td&gt;Far apart&lt;/td&gt;&lt;td&gt;Move freely&lt;/td&gt;&lt;td&gt;Fills container&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why does a liquid take the shape of its container?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Its particles are locked in fixed positions.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are locked in fixed positions.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Its particles can slide past one another.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.01, 'Its particles can slide past one another.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles are farther apart than gas particles.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles are farther apart than gas particles.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Its particles stop moving at room temperature.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.01. 'Its particles stop moving at room temperature.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Its particles can slide past one another.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

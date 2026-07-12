@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  1,
-    "lesson":  5,
-    "title":  "Earth as an Interacting System",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "required_stimulus":  "Earth-spheres interaction diagram and cause-effect systems table",
-    "standards":  "MLA.ESS.ATM.03",
-    "rigor_status":  "content-specific Unit 1 XML required"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 01",
+  "lesson": "Lesson 05",
+  "lessonTitle": "Earth as an Interacting System",
+  "title": "Earth as an Interacting System Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ESS_U01_L05_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ESS.ATM.03",
+    "MLA.ESS.EAR.01"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ESS_U01_L05_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

@@ -1,10 +1,30 @@
-﻿{
-    "id":  "ENV_U01_L07",
-    "course":  "Environmental Science",
-    "unit":  1,
-    "lesson":  7,
-    "title":  "Environmental Investigation Design",
-    "standards":  "MLA.ENV.SCI.01; MLA.ENV.LAB.03",
-    "resource":  "https://data.usgs.gov/datacatalog/",
-    "requiredEvidence":  "Variables/control table; method/evidence organizer"
+{
+  "id": "ENV_U01_L07",
+  "course": "Environmental Science",
+  "unit": 1,
+  "lesson": 7,
+  "title": "Environmental Investigation Design",
+  "standards": [
+    "MLA.ENV.SCI.01",
+    "MLA.ENV.LAB.03",
+    "MLA.ENV.SCI.02"
+  ],
+  "resource": "https://waterdata.usgs.gov/monitoring-location/01646500/#parameterCode=00060&period=P7D&showMedian=false",
+  "requiredEvidence": "Investigation design using environmental data",
+  "lessonTitle": "Environmental Investigation Design",
+  "primaryStandards": [
+    "MLA.ENV.SCI.01",
+    "MLA.ENV.LAB.03"
+  ],
+  "supportStandards": [
+    "MLA.ENV.SCI.02"
+  ],
+  "approvedDirectResources": [
+    "https://waterdata.usgs.gov/monitoring-location/01646500/#parameterCode=00060&period=P7D&showMedian=false"
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "ENV_U01_L07_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "ENV_U01_L07_Quiz_MoodleXML.xml",
+  "unitAssessment": null,
+  "studentAction": "Use the USGS monitoring-location graph as the assigned investigation data set. Record the testable question, independent variable or condition, dependent variable, control/comparison idea, and evidence that would support a claim."
 }

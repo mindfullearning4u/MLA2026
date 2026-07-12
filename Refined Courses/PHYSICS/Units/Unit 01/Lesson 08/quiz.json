@@ -3,19 +3,23 @@
   "unit": "Unit 01",
   "lesson": "Lesson 08",
   "lessonTitle": "Putting It All Together",
-  "guidedPracticeQuestionCount": 5,
-  "lessonQuizQuestionCount": 0,
-  "format": "Moodle XML",
-  "visualStimulusRequired": true,
+  "title": "Putting It All Together Unit Assessment",
+  "assessmentType": "Unit Assessment",
+  "moodleXmlFile": "Moodle XML/PHYS_U01_UnitAssessment_MoodleXML.xml",
+  "questionCount": 40,
+  "questionBankSize": 40,
+  "questionsPerAttempt": 40,
+  "masteryThreshold": 80,
   "standards": [
     "MLA.PHYS.SCI.01",
     "MLA.PHYS.LAB.01",
     "MLA.PHYS.LAB.02",
     "MLA.PHYS.LAB.03",
     "MLA.PHYS.MOT.01",
-    "MLA.PHYS.MOT.02"
+    "MLA.PHYS.MOT.02",
+    "MLA.PHYS.SCI.02",
+    "MLA.PHYS.SCI.03"
   ],
-  "xmlFiles": [
-    "Moodle XML/PHYS_U01_L08_GuidedPractice_MoodleXML.xml"
-  ]
+  "guidedPracticeMoodleXmlFile": "Moodle XML/PHYS_U01_L08_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

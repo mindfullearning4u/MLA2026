@@ -1,12 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text><![CDATA[$course$/Chemistry/Unit 03/Lesson 06/Guided Practice]]></text></category>
+    <category>
+      <text>$course$/Chemistry/Unit 03/Lesson 06/Guided Practice</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L06_GP Q01 - Chemical Formulas and Compound Composition]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>How to read it</th><th>Element count</th></tr><tr><td>Ca(OH)2</td><td>parentheses multiply O and H</td><td>Ca:1, O:2, H:2</td></tr><tr><td>3CO2</td><td>coefficient multiplies the whole formula</td><td>C:3, O:6</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L06_GP Q01 - Chemical Formulas and Compound Composition</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;How to read it&lt;/th&gt;&lt;th&gt;Element count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ca(OH)2&lt;/td&gt;&lt;td&gt;parentheses multiply O and H&lt;/td&gt;&lt;td&gt;Ca:1, O:2, H:2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3CO2&lt;/td&gt;&lt;td&gt;coefficient multiplies the whole formula&lt;/td&gt;&lt;td&gt;C:3, O:6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -14,23 +22,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A coefficient changes only the first element in a formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A subscript applies to the symbol or parenthesis group immediately before it.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows how subscripts, parentheses, and coefficients control formula composition.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[3CO2 contains one carbon atom and two oxygen atoms total.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
+      <text>A coefficient changes only the first element in a formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A coefficient changes only the first element in a formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A subscript applies to the symbol or parenthesis group immediately before it.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A subscript applies to the symbol or parenthesis group immediately before it.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3CO2 contains one carbon atom and two oxygen atoms total.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. '3CO2 contains one carbon atom and two oxygen atoms total.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A subscript applies to the symbol or parenthesis group immediately before it.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A subscript applies to the symbol or parenthesis group immediately before it.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.02, 'A subscript applies to the symbol or parenthesis group immediately before it.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L06_GP Q02 - Chemical Formulas and Compound Composition]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>How to read it</th><th>Element count</th></tr><tr><td>Ca(OH)2</td><td>parentheses multiply O and H</td><td>Ca:1, O:2, H:2</td></tr><tr><td>3CO2</td><td>coefficient multiplies the whole formula</td><td>C:3, O:6</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Formula composition table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L06_GP Q02 - Chemical Formulas and Compound Composition</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;How to read it&lt;/th&gt;&lt;th&gt;Element count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ca(OH)2&lt;/td&gt;&lt;td&gt;parentheses multiply O and H&lt;/td&gt;&lt;td&gt;Ca:1, O:2, H:2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3CO2&lt;/td&gt;&lt;td&gt;coefficient multiplies the whole formula&lt;/td&gt;&lt;td&gt;C:3, O:6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Formula composition table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -38,23 +63,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[3CO2 contains one carbon atom and two oxygen atoms total.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A subscript always multiplies every element in the formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A coefficient multiplies every atom in the formula that follows.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows how subscripts, parentheses, and coefficients control formula composition.]]></text></feedback>
+      <text>A subscript always multiplies every element in the formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A subscript always multiplies every element in the formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A coefficient multiplies every atom in the formula that follows.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A coefficient multiplies every atom in the formula that follows.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A coefficient multiplies every atom in the formula that follows.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.02, 'A coefficient multiplies every atom in the formula that follows.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3CO2 contains one carbon atom and two oxygen atoms total.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. '3CO2 contains one carbon atom and two oxygen atoms total.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A coefficient multiplies every atom in the formula that follows.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L06_GP Q03 - Chemical Formulas and Compound Composition]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>How to read it</th><th>Element count</th></tr><tr><td>Ca(OH)2</td><td>parentheses multiply O and H</td><td>Ca:1, O:2, H:2</td></tr><tr><td>3CO2</td><td>coefficient multiplies the whole formula</td><td>C:3, O:6</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L06_GP Q03 - Chemical Formulas and Compound Composition</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;How to read it&lt;/th&gt;&lt;th&gt;Element count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ca(OH)2&lt;/td&gt;&lt;td&gt;parentheses multiply O and H&lt;/td&gt;&lt;td&gt;Ca:1, O:2, H:2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3CO2&lt;/td&gt;&lt;td&gt;coefficient multiplies the whole formula&lt;/td&gt;&lt;td&gt;C:3, O:6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -62,23 +104,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Ca(OH)2 contains two oxygen atoms and two hydrogen atoms because the 2 multiplies the hydroxide group.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows how subscripts, parentheses, and coefficients control formula composition.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[3CO2 contains one carbon atom and two oxygen atoms total.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A subscript always multiplies every element in the formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A coefficient changes only the first element in a formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
+      <text>Ca(OH)2 contains two oxygen atoms and two hydrogen atoms because the 2 multiplies the hydroxide group.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.02, 'Ca(OH)2 contains two oxygen atoms and two hydrogen atoms because the 2 multiplies the hydroxide group.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3CO2 contains one carbon atom and two oxygen atoms total.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. '3CO2 contains one carbon atom and two oxygen atoms total.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Ca(OH)2 contains two oxygen atoms and two hydrogen atoms because the 2 multiplies the hydroxide group.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A subscript always multiplies every element in the formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A subscript always multiplies every element in the formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Ca(OH)2 contains two oxygen atoms and two hydrogen atoms because the 2 multiplies the hydroxide group.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A coefficient changes only the first element in a formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A coefficient changes only the first element in a formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Ca(OH)2 contains two oxygen atoms and two hydrogen atoms because the 2 multiplies the hydroxide group.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L06_GP Q04 - Chemical Formulas and Compound Composition]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>How to read it</th><th>Element count</th></tr><tr><td>Ca(OH)2</td><td>parentheses multiply O and H</td><td>Ca:1, O:2, H:2</td></tr><tr><td>3CO2</td><td>coefficient multiplies the whole formula</td><td>C:3, O:6</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L06_GP Q04 - Chemical Formulas and Compound Composition</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;How to read it&lt;/th&gt;&lt;th&gt;Element count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ca(OH)2&lt;/td&gt;&lt;td&gt;parentheses multiply O and H&lt;/td&gt;&lt;td&gt;Ca:1, O:2, H:2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3CO2&lt;/td&gt;&lt;td&gt;coefficient multiplies the whole formula&lt;/td&gt;&lt;td&gt;C:3, O:6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -86,23 +145,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A subscript always multiplies every element in the formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[A coefficient changes only the first element in a formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A subscript applies to the symbol or parenthesis group immediately before it.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows how subscripts, parentheses, and coefficients control formula composition.]]></text></feedback>
+      <text>A coefficient changes only the first element in a formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A coefficient changes only the first element in a formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A subscript applies to the symbol or parenthesis group immediately before it.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A subscript applies to the symbol or parenthesis group immediately before it.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.02, 'A subscript applies to the symbol or parenthesis group immediately before it.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A subscript applies to the symbol or parenthesis group immediately before it.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A subscript always multiplies every element in the formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A subscript always multiplies every element in the formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A subscript applies to the symbol or parenthesis group immediately before it.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L06_GP Q05 - Chemical Formulas and Compound Composition]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>How to read it</th><th>Element count</th></tr><tr><td>Ca(OH)2</td><td>parentheses multiply O and H</td><td>Ca:1, O:2, H:2</td></tr><tr><td>3CO2</td><td>coefficient multiplies the whole formula</td><td>C:3, O:6</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L06_GP Q05 - Chemical Formulas and Compound Composition</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;How to read it&lt;/th&gt;&lt;th&gt;Element count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ca(OH)2&lt;/td&gt;&lt;td&gt;parentheses multiply O and H&lt;/td&gt;&lt;td&gt;Ca:1, O:2, H:2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3CO2&lt;/td&gt;&lt;td&gt;coefficient multiplies the whole formula&lt;/td&gt;&lt;td&gt;C:3, O:6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -110,20 +186,28 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A coefficient changes only the first element in a formula.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A coefficient multiplies every atom in the formula that follows.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows how subscripts, parentheses, and coefficients control formula composition.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[3CO2 contains one carbon atom and two oxygen atoms total.]]></text>
-      <feedback format="html"><text><![CDATA[This choice misapplies a subscript, parenthesis, or coefficient rule shown in the stimulus.]]></text></feedback>
+      <text>3CO2 contains one carbon atom and two oxygen atoms total.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. '3CO2 contains one carbon atom and two oxygen atoms total.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A coefficient multiplies every atom in the formula that follows.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A coefficient changes only the first element in a formula.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'A coefficient changes only the first element in a formula.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A coefficient multiplies every atom in the formula that follows.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A coefficient multiplies every atom in the formula that follows.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.02, 'A coefficient multiplies every atom in the formula that follows.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.02. 'Ca(OH)2 contains one oxygen atom because oxygen has no written subscript inside the parentheses.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'A coefficient multiplies every atom in the formula that follows.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
 </quiz>
-
-
-

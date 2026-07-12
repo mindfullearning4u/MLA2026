@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  4,
-    "lesson":  4,
-    "title":  "Scientific Theories in Earth History",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "standards":  "MLA.ESS.HIS.03",
-    "required_stimulus":  "theory-model-evidence chart",
-    "rigor_status":  "content-specific XML"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 04",
+  "lesson": "Lesson 04",
+  "lessonTitle": "Scientific Theories in Earth History",
+  "title": "Scientific Theories in Earth History Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ESS_U04_L04_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ESS.HIS.03",
+    "MLA.ESS.SCI.03"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ESS_U04_L04_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

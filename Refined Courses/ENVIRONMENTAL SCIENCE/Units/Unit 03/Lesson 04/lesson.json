@@ -1,10 +1,28 @@
-﻿{
-    "id":  "ENV_U03_L04",
-    "course":  "Environmental Science",
-    "unit":  3,
-    "lesson":  4,
-    "title":  "Human Population and Resource Use",
-    "standards":  "MLA.ENV.POP.03",
-    "resource":  "https://www.epa.gov/report-environment",
-    "requiredEvidence":  "Resource-use chart; human impact map; trend graph"
+{
+  "id": "ENV_U03_L04",
+  "course": "Environmental Science",
+  "unit": 3,
+  "lesson": 4,
+  "title": "Human Population and Resource Use",
+  "standards": [
+    "MLA.ENV.POP.03",
+    "MLA.ENV.PCH.03"
+  ],
+  "resource": "https://ourworldindata.org/grapher/per-capita-energy-use",
+  "requiredEvidence": "Human impact and resource-use case analysis",
+  "lessonTitle": "Human Population and Resource Use",
+  "primaryStandards": [
+    "MLA.ENV.POP.03"
+  ],
+  "supportStandards": [
+    "MLA.ENV.PCH.03"
+  ],
+  "approvedDirectResources": [
+    "https://ourworldindata.org/grapher/per-capita-energy-use"
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "ENV_U03_L04_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "ENV_U03_L04_Quiz_MoodleXML.xml",
+  "unitAssessment": null,
+  "studentAction": "Use the per-capita energy-use graph as the assigned human population and resource-use data display. Record the variable, units, comparison location or time point, and one claim about resource use supported by the graph."
 }

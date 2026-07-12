@@ -335,6 +335,8 @@ Important MoodleCloud behavior:
 - If Moodle proceeds to `Parsing questions from import file`, an import-result page, or a `Continue` page, the file attached successfully even if Moodle never visibly displayed the filename first.
 - If Moodle returns to the import form with a required-file validation message, then the file did not attach. Only then reopen `Choose a file...` and repeat the file selection.
 - After any stalled-picker recovery, verify the question bank itself before retrying the upload. Open the bank and confirm whether the expected questions loaded; do not create duplicate imports because the file box looked empty.
+- After any long batch, tool reset, Chrome reconnect, Moodle freeze, browser refresh, URL-bar reload, or user-assisted reload, return to the Moodle question-bank list and verify actual bank counts before importing the next file. Resume only banks still showing `Questions: 0` or the expected empty state. Never resume from memory, never assume the last attempted file failed, and never re-import a bank that already shows the expected question count.
+- If the browser-control session cannot even list or claim Chrome tabs, treat Chrome/Moodle as still busy. Wait, then use the URL-bar or browser refresh recovery process. Do not continue imports or ask Moodle to upload again until the tab is controllable and the current question-bank counts are visible.
 
 ### 5. Final Pre-Import Match Check
 

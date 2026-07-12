@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  6,
-    "lesson":  4,
-    "title":  "Magnetic Fields and Space Technologies",
-    "standards":  "MLA.ESS.COS.02",
-    "required_visual_model_data":  "magnetic field diagram and technology-impact table",
-    "direct_resource":  {
-                            "url":  "https://www.swpc.noaa.gov/phenomena/geomagnetic-storms",
-                            "title":  "NOAA Space Weather: Geomagnetic Storms"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 06",
+  "lesson": "Lesson 04",
+  "title": "Magnetic Fields and Space Technologies",
+  "standards": [
+    "MLA.ESS.COS.02",
+    "MLA.ESS.AST.02"
+  ],
+  "required_visual_model_data": "magnetic field diagram and technology-impact table",
+  "direct_resource": {
+    "url": "https://www.swpc.noaa.gov/phenomena/geomagnetic-storms",
+    "title": "NOAA Space Weather: Geomagnetic Storms"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Magnetic Fields and Space Technologies",
+  "primaryStandards": [
+    "MLA.ESS.COS.02",
+    "MLA.ESS.AST.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NOAA Space Weather: Geomagnetic Storms",
+      "exactDirectUrl": "https://www.swpc.noaa.gov/phenomena/geomagnetic-storms",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U06_L04_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U06_L04_Quiz_MoodleXML.xml"
 }

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
     <category>
@@ -10,7 +10,7 @@
       <text>CHEM_U01_L06_QZ_Q01</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q01</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which scenario is a physical change?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which scenario is a physical change?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -18,32 +18,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Iron rusts.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Iron rusts.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burns.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Paper burns.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Ice melts into liquid water.]]></text>
+      <text>Ice melts into liquid water.</text>
       <feedback format="html">
-        <text><![CDATA[Melting changes state but water remains water.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Ice melts into liquid water.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusts.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk sours.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms iron oxide.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Milk sours.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burns.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Burning forms new substances.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk sours.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q02</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q02</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which is a chemical property?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which is a chemical property?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -52,31 +57,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Density]]></text>
+      <text>Density</text>
       <feedback format="html">
-        <text><![CDATA[Density can be observed without changing identity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Density' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color</text>
       <feedback format="html">
-        <text><![CDATA[Color is a physical property.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass</text>
       <feedback format="html">
-        <text><![CDATA[Mass is a measured physical quantity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Mass' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Flammability]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Flammability</text>
       <feedback format="html">
-        <text><![CDATA[Flammability describes the ability to react by burning.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Flammability' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q03</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q03</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is iron rusting a chemical change?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is iron rusting a chemical change?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -84,32 +94,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>A new substance, iron oxide, forms.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'A new substance, iron oxide, forms.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The iron changes shape only.]]></text>
+      <text>The iron is still pure iron.</text>
       <feedback format="html">
-        <text><![CDATA[Shape change alone would be physical.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron is still pure iron.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A new substance, iron oxide, forms.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron only changes state.</text>
       <feedback format="html">
-        <text><![CDATA[Formation of iron oxide means identity changed.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron only changes state.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron is still pure iron.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron changes shape only.</text>
       <feedback format="html">
-        <text><![CDATA[Rust is not pure iron.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron changes shape only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron only changes state.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Rusting is not a simple state change.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q04</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q04</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is color change alone not always proof of chemical change?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is color change alone not always proof of chemical change?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -117,32 +132,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Color replaces the need for context.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color replaces the need for context.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Color can change from mixing or spreading without a new substance.]]></text>
+      <text>Color can change from mixing or spreading without a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be evidence, but context determines whether a new substance formed.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Color can change from mixing or spreading without a new substance.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color is never useful evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color is never useful evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be useful when combined with other evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color is never useful evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All color changes are physical only.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All color changes are physical only.</text>
       <feedback format="html">
-        <text><![CDATA[Some color changes are chemical, but not all.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'All color changes are physical only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color replaces the need for context.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Context is still required.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q05</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q05</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which question best checks whether a change is chemical?</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which question best checks whether a change is chemical?&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -151,31 +171,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Did the object become smaller?]]></text>
+      <text>Did the object become smaller?</text>
       <feedback format="html">
-        <text><![CDATA[Size can change physically.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object become smaller?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Did the object move?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Did the object move?</text>
       <feedback format="html">
-        <text><![CDATA[Motion does not prove chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object move?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Did a new substance form?]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Did a new substance form?</text>
       <feedback format="html">
-        <text><![CDATA[Chemical change depends on new substance formation.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Did a new substance form?' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Was the object visible?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Was the object visible?</text>
       <feedback format="html">
-        <text><![CDATA[Visibility does not classify the change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Was the object visible?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q06</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q06</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which scenario is a physical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which scenario is a physical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -183,32 +208,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Ice melts into liquid water.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Ice melts into liquid water.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusts.]]></text>
+      <text>Paper burns.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms iron oxide.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Paper burns.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burns.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk sours.</text>
       <feedback format="html">
-        <text><![CDATA[Burning forms new substances.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Milk sours.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk sours.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Iron rusts.</text>
       <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Iron rusts.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Ice melts into liquid water.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Melting changes state but water remains water.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q07</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q07</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which is a chemical property?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which is a chemical property?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -217,31 +247,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Density]]></text>
+      <text>Density</text>
       <feedback format="html">
-        <text><![CDATA[Density can be observed without changing identity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Density' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Flammability]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Flammability</text>
       <feedback format="html">
-        <text><![CDATA[Flammability describes the ability to react by burning.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Flammability' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color</text>
       <feedback format="html">
-        <text><![CDATA[Color is a physical property.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass</text>
       <feedback format="html">
-        <text><![CDATA[Mass is a measured physical quantity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Mass' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q08</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q08</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is iron rusting a chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is iron rusting a chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -250,31 +285,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The iron changes shape only.]]></text>
+      <text>The iron is still pure iron.</text>
       <feedback format="html">
-        <text><![CDATA[Shape change alone would be physical.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron is still pure iron.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron is still pure iron.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron only changes state.</text>
       <feedback format="html">
-        <text><![CDATA[Rust is not pure iron.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron only changes state.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A new substance, iron oxide, forms.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron changes shape only.</text>
       <feedback format="html">
-        <text><![CDATA[Formation of iron oxide means identity changed.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron changes shape only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron only changes state.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A new substance, iron oxide, forms.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting is not a simple state change.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'A new substance, iron oxide, forms.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q09</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q09</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is color change alone not always proof of chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is color change alone not always proof of chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -282,32 +322,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Color replaces the need for context.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color replaces the need for context.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Color can change from mixing or spreading without a new substance.]]></text>
+      <text>Color can change from mixing or spreading without a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be evidence, but context determines whether a new substance formed.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Color can change from mixing or spreading without a new substance.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color is never useful evidence.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color is never useful evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be useful when combined with other evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color is never useful evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All color changes are physical only.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All color changes are physical only.</text>
       <feedback format="html">
-        <text><![CDATA[Some color changes are chemical, but not all.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'All color changes are physical only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color replaces the need for context.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Context is still required.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q10</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q10</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which question best checks whether a change is chemical?</p><p><strong>Scenario note:</strong> Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which question best checks whether a change is chemical?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a new student work sample and focus on the evidence that directly answers the question.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -316,31 +361,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Did the object become smaller?]]></text>
+      <text>Did the object move?</text>
       <feedback format="html">
-        <text><![CDATA[Size can change physically.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object move?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Did a new substance form?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Was the object visible?</text>
       <feedback format="html">
-        <text><![CDATA[Chemical change depends on new substance formation.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Was the object visible?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Did the object move?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Did the object become smaller?</text>
       <feedback format="html">
-        <text><![CDATA[Motion does not prove chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object become smaller?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Was the object visible?]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Did a new substance form?</text>
       <feedback format="html">
-        <text><![CDATA[Visibility does not classify the change.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Did a new substance form?' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q11</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q11</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which scenario is a physical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which scenario is a physical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -348,32 +398,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Ice melts into liquid water.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Ice melts into liquid water.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusts.]]></text>
+      <text>Paper burns.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms iron oxide.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Paper burns.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burns.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk sours.</text>
       <feedback format="html">
-        <text><![CDATA[Burning forms new substances.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Milk sours.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk sours.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Iron rusts.</text>
       <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Iron rusts.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Ice melts into liquid water.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Melting changes state but water remains water.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q12</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q12</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which is a chemical property?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which is a chemical property?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -382,31 +437,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Density]]></text>
+      <text>Density</text>
       <feedback format="html">
-        <text><![CDATA[Density can be observed without changing identity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Density' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color</text>
       <feedback format="html">
-        <text><![CDATA[Color is a physical property.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Flammability]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Flammability</text>
       <feedback format="html">
-        <text><![CDATA[Flammability describes the ability to react by burning.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Flammability' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass</text>
       <feedback format="html">
-        <text><![CDATA[Mass is a measured physical quantity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Mass' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q13</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q13</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is iron rusting a chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is iron rusting a chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -414,32 +474,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The iron is still pure iron.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron is still pure iron.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron only changes state.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron only changes state.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron changes shape only.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron changes shape only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[A new substance, iron oxide, forms.]]></text>
+      <text>A new substance, iron oxide, forms.</text>
       <feedback format="html">
-        <text><![CDATA[Formation of iron oxide means identity changed.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'A new substance, iron oxide, forms.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron changes shape only.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Shape change alone would be physical.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron is still pure iron.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Rust is not pure iron.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron only changes state.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Rusting is not a simple state change.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q14</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q14</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is color change alone not always proof of chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is color change alone not always proof of chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -447,32 +512,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Color can change from mixing or spreading without a new substance.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Color can change from mixing or spreading without a new substance.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Color is never useful evidence.]]></text>
+      <text>All color changes are physical only.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be useful when combined with other evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'All color changes are physical only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All color changes are physical only.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color replaces the need for context.</text>
       <feedback format="html">
-        <text><![CDATA[Some color changes are chemical, but not all.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color replaces the need for context.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color replaces the need for context.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color is never useful evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Context is still required.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color is never useful evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Color can change from mixing or spreading without a new substance.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Color can be evidence, but context determines whether a new substance formed.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q15</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q15</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which question best checks whether a change is chemical?</p><p><strong>Scenario note:</strong> Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which question best checks whether a change is chemical?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a lab-review scenario and focus on the safest or most evidence-based choice.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -481,31 +551,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Did the object become smaller?]]></text>
+      <text>Did the object become smaller?</text>
       <feedback format="html">
-        <text><![CDATA[Size can change physically.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object become smaller?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Did a new substance form?]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Did a new substance form?</text>
       <feedback format="html">
-        <text><![CDATA[Chemical change depends on new substance formation.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Did a new substance form?' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Did the object move?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Did the object move?</text>
       <feedback format="html">
-        <text><![CDATA[Motion does not prove chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object move?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Was the object visible?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Was the object visible?</text>
       <feedback format="html">
-        <text><![CDATA[Visibility does not classify the change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Was the object visible?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q16</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q16</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which scenario is a physical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which scenario is a physical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -514,31 +589,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusts.]]></text>
+      <text>Iron rusts.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms iron oxide.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Iron rusts.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burns.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burns.</text>
       <feedback format="html">
-        <text><![CDATA[Burning forms new substances.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Paper burns.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Ice melts into liquid water.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Ice melts into liquid water.</text>
       <feedback format="html">
-        <text><![CDATA[Melting changes state but water remains water.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Ice melts into liquid water.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk sours.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Milk sours.</text>
       <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Milk sours.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q17</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q17</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which is a chemical property?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which is a chemical property?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -546,32 +626,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Color</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Mass' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Density</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Density' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Flammability]]></text>
+      <text>Flammability</text>
       <feedback format="html">
-        <text><![CDATA[Flammability describes the ability to react by burning.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Flammability' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Density]]></text>
-      <feedback format="html">
-        <text><![CDATA[Density can be observed without changing identity.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color]]></text>
-      <feedback format="html">
-        <text><![CDATA[Color is a physical property.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass]]></text>
-      <feedback format="html">
-        <text><![CDATA[Mass is a measured physical quantity.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q18</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q18</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is iron rusting a chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is iron rusting a chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -580,31 +665,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The iron changes shape only.]]></text>
+      <text>The iron changes shape only.</text>
       <feedback format="html">
-        <text><![CDATA[Shape change alone would be physical.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron changes shape only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron is still pure iron.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron is still pure iron.</text>
       <feedback format="html">
-        <text><![CDATA[Rust is not pure iron.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron is still pure iron.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron only changes state.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A new substance, iron oxide, forms.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting is not a simple state change.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'A new substance, iron oxide, forms.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A new substance, iron oxide, forms.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron only changes state.</text>
       <feedback format="html">
-        <text><![CDATA[Formation of iron oxide means identity changed.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron only changes state.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q19</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q19</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is color change alone not always proof of chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is color change alone not always proof of chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -613,31 +703,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Color is never useful evidence.]]></text>
+      <text>Color replaces the need for context.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be useful when combined with other evidence.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color replaces the need for context.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All color changes are physical only.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Color can change from mixing or spreading without a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Some color changes are chemical, but not all.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Color can change from mixing or spreading without a new substance.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Color can change from mixing or spreading without a new substance.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color is never useful evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Color can be evidence, but context determines whether a new substance formed.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color is never useful evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color replaces the need for context.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All color changes are physical only.</text>
       <feedback format="html">
-        <text><![CDATA[Context is still required.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'All color changes are physical only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q20</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q20</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which question best checks whether a change is chemical?</p><p><strong>Scenario note:</strong> Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which question best checks whether a change is chemical?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as an assessment scenario and choose the response that best matches the Unit 1 standard.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -645,32 +740,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Did a new substance form?</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Did a new substance form?' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Did the object become smaller?]]></text>
+      <text>Did the object move?</text>
       <feedback format="html">
-        <text><![CDATA[Size can change physically.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object move?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Did a new substance form?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Was the object visible?</text>
       <feedback format="html">
-        <text><![CDATA[Chemical change depends on new substance formation.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Was the object visible?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Did the object move?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Did the object become smaller?</text>
       <feedback format="html">
-        <text><![CDATA[Motion does not prove chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object become smaller?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Was the object visible?]]></text>
-      <feedback format="html">
-        <text><![CDATA[Visibility does not classify the change.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q21</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q21</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which scenario is a physical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which scenario is a physical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -678,32 +778,37 @@
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Milk sours.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Milk sours.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Ice melts into liquid water.]]></text>
+      <text>Ice melts into liquid water.</text>
       <feedback format="html">
-        <text><![CDATA[Melting changes state but water remains water.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Ice melts into liquid water.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Iron rusts.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Iron rusts.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting forms iron oxide.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Iron rusts.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Paper burns.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Paper burns.</text>
       <feedback format="html">
-        <text><![CDATA[Burning forms new substances.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Paper burns.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Ice melts into liquid water.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Milk sours.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Souring involves chemical changes.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q22</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q22</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which is a chemical property?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which is a chemical property?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -712,31 +817,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Density]]></text>
+      <text>Density</text>
       <feedback format="html">
-        <text><![CDATA[Density can be observed without changing identity.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Density' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color</text>
       <feedback format="html">
-        <text><![CDATA[Color is a physical property.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Mass]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Flammability</text>
       <feedback format="html">
-        <text><![CDATA[Mass is a measured physical quantity.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Flammability' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Flammability]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mass</text>
       <feedback format="html">
-        <text><![CDATA[Flammability describes the ability to react by burning.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Mass' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Flammability', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q23</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q23</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is iron rusting a chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is iron rusting a chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -745,64 +855,36 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The iron changes shape only.]]></text>
+      <text>The iron is still pure iron.</text>
       <feedback format="html">
-        <text><![CDATA[Shape change alone would be physical.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron is still pure iron.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[A new substance, iron oxide, forms.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron only changes state.</text>
       <feedback format="html">
-        <text><![CDATA[Formation of iron oxide means identity changed.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron only changes state.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron is still pure iron.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The iron changes shape only.</text>
       <feedback format="html">
-        <text><![CDATA[Rust is not pure iron.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'The iron changes shape only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'A new substance, iron oxide, forms.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The iron only changes state.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A new substance, iron oxide, forms.</text>
       <feedback format="html">
-        <text><![CDATA[Rusting is not a simple state change.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'A new substance, iron oxide, forms.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question>  <question type="multichoice">
+    </answer>
+  </question>
+  <question type="multichoice">
     <name>
       <text>CHEM_U01_L06_QZ_Q24</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q24</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Why is color change alone not always proof of chemical change?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
-    </questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Color is never useful evidence.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Color can be useful when combined with other evidence.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[All color changes are physical only.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Some color changes are chemical, but not all.]]></text>
-      </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Color replaces the need for context.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Context is still required.]]></text>
-      </feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Color can change from mixing or spreading without a new substance.]]></text>
-      <feedback format="html">
-        <text><![CDATA[Color can be evidence, but context determines whether a new substance formed.]]></text>
-      </feedback>
-    </answer>  </question>  <question type="multichoice">
-    <name>
-      <text>CHEM_U01_L06_QZ_Q25</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p><strong>Question ID:</strong> CHEM_U01_L06_QZ_Q25</p><p><strong>MLA Standard:</strong> MLA.CHEM.MAT.02</p><p><strong>Stimulus:</strong></p><table><tr><th>Scenario</th><th>Evidence</th><th>Classification clue</th></tr><tr><td>Ice melts</td><td>Solid water becomes liquid water</td><td>No new substance</td></tr><tr><td>Iron rusts</td><td>Iron oxide forms</td><td>New substance</td></tr><tr><td>Copper conducts electricity</td><td>Current passes through copper</td><td>Property observed without changing identity</td></tr></table><p><strong>Question:</strong> Which question best checks whether a change is chemical?</p><p><strong>Scenario note:</strong> Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.</p>]]></text>
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Why is color change alone not always proof of chemical change?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
     </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -811,28 +893,66 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Did a new substance form?]]></text>
+      <text>Color can change from mixing or spreading without a new substance.</text>
       <feedback format="html">
-        <text><![CDATA[Chemical change depends on new substance formation.]]></text>
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Color can change from mixing or spreading without a new substance.' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Did the object become smaller?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All color changes are physical only.</text>
       <feedback format="html">
-        <text><![CDATA[Size can change physically.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'All color changes are physical only.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Did the object move?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color replaces the need for context.</text>
       <feedback format="html">
-        <text><![CDATA[Motion does not prove chemical change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color replaces the need for context.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Was the object visible?]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Color is never useful evidence.</text>
       <feedback format="html">
-        <text><![CDATA[Visibility does not classify the change.]]></text>
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Color is never useful evidence.' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Color can change from mixing or spreading without a new substance.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
       </feedback>
-    </answer>  </question></quiz>
-
-
-
-
-
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U01_L06_QZ_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; CHEM_U01_L06_QZ_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.MAT.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Classification clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ice melts&lt;/td&gt;&lt;td&gt;Solid water becomes liquid water&lt;/td&gt;&lt;td&gt;No new substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron rusts&lt;/td&gt;&lt;td&gt;Iron oxide forms&lt;/td&gt;&lt;td&gt;New substance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper conducts electricity&lt;/td&gt;&lt;td&gt;Current passes through copper&lt;/td&gt;&lt;td&gt;Property observed without changing identity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which question best checks whether a change is chemical?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scenario note:&lt;/strong&gt; Read the same stimulus as a checkpoint scenario and select the answer supported by the data, model, or procedure.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Did the object move?</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object move?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Was the object visible?</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Was the object visible?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Did the object become smaller?</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.MAT.02. 'Did the object become smaller?' may sound related, but it misses the key matter classification, units, precision, or quantitative evidence required by the question. Compare it with 'Did a new substance form?', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Did a new substance form?</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.MAT.02, 'Did a new substance form?' is the strongest answer because it uses matter classification, units, precision, or quantitative evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

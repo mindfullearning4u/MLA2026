@@ -1,10 +1,28 @@
-﻿{
-    "id":  "ENV_U01_L02",
-    "course":  "Environmental Science",
-    "unit":  1,
-    "lesson":  2,
-    "title":  "Lab Safety and Environmental Monitoring",
-    "standards":  "MLA.ENV.LAB.01",
-    "resource":  "https://www.epa.gov/quality",
-    "requiredEvidence":  "Safety scenario; monitoring procedure diagram; field-data table"
+{
+  "id": "ENV_U01_L02",
+  "course": "Environmental Science",
+  "unit": 1,
+  "lesson": 2,
+  "title": "Lab Safety and Environmental Monitoring",
+  "standards": [
+    "MLA.ENV.LAB.01",
+    "MLA.ENV.SCI.01"
+  ],
+  "resource": "https://www.epa.gov/outdoor-air-quality-data/air-data-basic-information",
+  "requiredEvidence": "Monitoring safety and procedure scenario analysis",
+  "lessonTitle": "Lab Safety and Environmental Monitoring",
+  "primaryStandards": [
+    "MLA.ENV.LAB.01"
+  ],
+  "supportStandards": [
+    "MLA.ENV.SCI.01"
+  ],
+  "approvedDirectResources": [
+    "https://www.epa.gov/outdoor-air-quality-data/air-data-basic-information"
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "ENV_U01_L02_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "ENV_U01_L02_Quiz_MoodleXML.xml",
+  "unitAssessment": null,
+  "studentAction": "Use the EPA AirData basic information page as the assigned monitoring-resource page. Record the monitoring purpose, one air-quality parameter, and one reason consistent procedures matter."
 }

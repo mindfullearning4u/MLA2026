@@ -41,7 +41,7 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Gravity Force Lab Basics",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/gravity-force-lab-basics",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -51,5 +51,29 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Physical Forces at Cosmic Scale",
+  "standards": [
+    "MLA.PHYS.APP.01",
+    "MLA.PHYS.FOR.03"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.APP.01",
+    "MLA.PHYS.FOR.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Gravity Force Lab Basics",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "NASA/JPL Eyes: Solar System Interactive",
+      "exactDirectUrl": "https://eyes.nasa.gov/apps/solar-system/",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U06_L02_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/PHYS_U06_L02_Quiz_MoodleXML.xml"
 }

@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  5,
-    "lesson":  7,
-    "title":  "Respiratory Physiology and Gas Exchange",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Respiratory graph/model",
-    "standards":  "MLA.ANP.CRI.04"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 05",
+  "lesson": "Lesson 07",
+  "lessonTitle": "Respiratory Physiology and Gas Exchange",
+  "title": "Respiratory Physiology and Gas Exchange Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U05_L07_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.CRI.04",
+    "MLA.ANP.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U05_L07_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

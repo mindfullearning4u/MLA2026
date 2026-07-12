@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text>$course$/BIOLOGY/Units/Unit 05/UnitAssessment</text></category>
+    <category>
+      <text>$course$/BIOLOGY/Units/Unit 05/UnitAssessment</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q01</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q01</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Rock Layer</th><th>Relative Age</th><th>Fossil Trait</th></tr><tr><td>Lower layer</td><td>Older</td><td>Small jaw; simple limb bones</td></tr><tr><td>Middle layer</td><td>Intermediate</td><td>Larger jaw; more developed limb bones</td></tr><tr><td>Upper layer</td><td>Newer</td><td>Larger jaw; stronger limb bones</td></tr></table><p>Which claim is best supported by the fossil sequence?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Rock Layer&lt;/th&gt;&lt;th&gt;Relative Age&lt;/th&gt;&lt;th&gt;Fossil Trait&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lower layer&lt;/td&gt;&lt;td&gt;Older&lt;/td&gt;&lt;td&gt;Small jaw; simple limb bones&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Middle layer&lt;/td&gt;&lt;td&gt;Intermediate&lt;/td&gt;&lt;td&gt;Larger jaw; more developed limb bones&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Upper layer&lt;/td&gt;&lt;td&gt;Newer&lt;/td&gt;&lt;td&gt;Larger jaw; stronger limb bones&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which claim is best supported by the fossil sequence?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -13,25 +19,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[All organisms in the layers are identical.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The newest fossils caused the older fossils to change.</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The table proves every species evolved from the same individual.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All organisms in the layers are identical.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The fossil record shows change in traits over time.]]></text>
-      <feedback format="html"><text><![CDATA[Older-to-newer fossil layers can show patterns of trait change over time. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The newest fossils caused the older fossils to change.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table proves every species evolved from the same individual.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The fossil record shows change in traits over time.</text>
+      <feedback format="html">
+        <text>Older-to-newer fossil layers can show patterns of trait change over time. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q02</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q02</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Generation</th><th>Dark Moths</th><th>Light Moths</th><th>Tree Bark</th></tr><tr><td>1</td><td>20%</td><td>80%</td><td>Light</td></tr><tr><td>5</td><td>75%</td><td>25%</td><td>Darkened</td></tr></table><p>Which explanation best fits the data?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Generation&lt;/th&gt;&lt;th&gt;Dark Moths&lt;/th&gt;&lt;th&gt;Light Moths&lt;/th&gt;&lt;th&gt;Tree Bark&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;td&gt;80%&lt;/td&gt;&lt;td&gt;Light&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;Darkened&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which explanation best fits the data?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -39,25 +57,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Light moths changed color because they needed to.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The dark moth percentage decreased over time.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The environment did not create any selection pressure.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The environment did not create any selection pressure.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Dark coloration likely became more common because it improved camouflage on darkened bark.]]></text>
-      <feedback format="html"><text><![CDATA[The table shows dark moths increased when dark bark likely made them harder to see. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Dark coloration likely became more common because it improved camouflage on darkened bark.</text>
+      <feedback format="html">
+        <text>The table shows dark moths increased when dark bark likely made them harder to see. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Light moths changed color because they needed to.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The dark moth percentage decreased over time.</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q03</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q03</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Event</th><th>Population Effect</th></tr><tr><td>Several individuals move from Population A to Population B and reproduce</td><td>New alleles enter Population B</td></tr></table><p>Which mechanism is shown?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Population Effect&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Several individuals move from Population A to Population B and reproduce&lt;/td&gt;&lt;td&gt;New alleles enter Population B&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which mechanism is shown?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -65,25 +95,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Gene flow]]></text>
-      <feedback format="html"><text><![CDATA[Movement and reproduction between populations can transfer alleles, which is gene flow. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Gene flow</text>
+      <feedback format="html">
+        <text>Movement and reproduction between populations can transfer alleles, which is gene flow. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Genetic drift only]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>No change in allele frequencies</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[No change in allele frequencies]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Fossil dating</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Fossil dating]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Genetic drift only</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q04</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q04</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Cladogram Branch</th><th>Description</th></tr><tr><td>A and B</td><td>Share the most recent branch point</td></tr><tr><td>C</td><td>Branches earlier</td></tr><tr><td>D</td><td>Branches earliest</td></tr></table><p>Which pair is most closely related in this cladogram description?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Cladogram Branch&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A and B&lt;/td&gt;&lt;td&gt;Share the most recent branch point&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;Branches earlier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;Branches earliest&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which pair is most closely related in this cladogram description?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -91,25 +133,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A and D]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A and D</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[C and D]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>C and D</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[A and B]]></text>
-      <feedback format="html"><text><![CDATA[The pair sharing the most recent branch point is the closest relationship shown. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>A and B</text>
+      <feedback format="html">
+        <text>The pair sharing the most recent branch point is the closest relationship shown. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[B and D]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>B and D</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q05</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q05</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Cell Evidence</th><th>Observation</th></tr><tr><td>Nucleus</td><td>Present</td></tr><tr><td>Membrane-bound organelles</td><td>Present</td></tr></table><p>Which domain is best supported?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Cell Evidence&lt;/th&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nucleus&lt;/td&gt;&lt;td&gt;Present&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Membrane-bound organelles&lt;/td&gt;&lt;td&gt;Present&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which domain is best supported?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -117,51 +171,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Bacteria]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Bacteria</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Eukarya]]></text>
-      <feedback format="html"><text><![CDATA[Cells with a nucleus and membrane-bound organelles belong to Eukarya. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Eukarya</text>
+      <feedback format="html">
+        <text>Cells with a nucleus and membrane-bound organelles belong to Eukarya. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Archaea only]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Archaea only</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[No domain can include cells with a nucleus]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>No domain can include cells with a nucleus</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q06</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q06</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Simulation Input</th><th>Result</th></tr><tr><td>Early Earth gases + energy source</td><td>Amino acids detected</td></tr></table><p>What does this simulation evidence support?</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Organic molecules could form under some modeled early Earth conditions.]]></text>
-      <feedback format="html"><text><![CDATA[The simulation supports possible organic molecule formation, not the complete origin of life. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A complete living cell was produced.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All origin-of-life questions are fully answered.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Scientific models do not need evidence.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q07</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q07</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Fossil Trait</th><th>Observation</th></tr><tr><td>Pelvis shape</td><td>Supports upright posture</td></tr><tr><td>Foot structure</td><td>Supports walking on two legs</td></tr></table><p>Which trend is best supported?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Simulation Input&lt;/th&gt;&lt;th&gt;Result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Early Earth gases + energy source&lt;/td&gt;&lt;td&gt;Amino acids detected&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does this simulation evidence support?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -169,51 +209,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Photosynthesis]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>All origin-of-life questions are fully answered.</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Aquatic breathing]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Scientific models do not need evidence.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Loss of all skeletal evidence]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A complete living cell was produced.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Bipedalism]]></text>
-      <feedback format="html"><text><![CDATA[Pelvis and foot evidence can support upright walking, or bipedalism. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Organic molecules could form under some modeled early Earth conditions.</text>
+      <feedback format="html">
+        <text>The simulation supports possible organic molecule formation, not the complete origin of life. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q08</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q08</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 5 evolution stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Evidence Tool</th><th>Best Use</th></tr><tr><td>Fossil evidence table</td><td>Shows patterns of change over time</td></tr><tr><td>Selection frequency graph</td><td>Shows mechanism changing trait frequency</td></tr></table><p>Which synthesis statement is correct?</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Fossils and natural selection are the same kind of evidence.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Trait frequencies cannot change in populations.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Evidence for evolution and mechanisms of evolution answer related but different questions.]]></text>
-      <feedback format="html"><text><![CDATA[Evidence can show patterns, while mechanisms help explain how populations change. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Mechanisms are unnecessary when evidence is provided.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q09</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q09</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Organism</th><th>Forelimb Bone Pattern</th><th>Main Function</th></tr><tr><td>Human</td><td>Same basic bone order</td><td>Grasping</td></tr><tr><td>Cat</td><td>Same basic bone order</td><td>Walking</td></tr><tr><td>Whale</td><td>Same basic bone order</td><td>Swimming</td></tr></table><p>What does the homologous limb evidence suggest? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Fossil Trait&lt;/th&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pelvis shape&lt;/td&gt;&lt;td&gt;Supports upright posture&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Foot structure&lt;/td&gt;&lt;td&gt;Supports walking on two legs&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which trend is best supported?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -221,25 +247,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Similar structures with different functions can support common ancestry.]]></text>
-      <feedback format="html"><text><![CDATA[Homologous structures can have different functions while still supporting common ancestry. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Bipedalism</text>
+      <feedback format="html">
+        <text>Pelvis and foot evidence can support upright walking, or bipedalism. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Similar bone patterns prove the organisms have the same exact lifestyle. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Aquatic breathing</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Different functions mean the structures cannot be compared. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Loss of all skeletal evidence</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The organisms developed limbs only because they wanted new functions. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Photosynthesis</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q10</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q10</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.03</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Condition</th><th>Present?</th></tr><tr><td>Variation in beak size</td><td>Yes</td></tr><tr><td>Beak size is inherited</td><td>Yes</td></tr><tr><td>Food type changes</td><td>Yes</td></tr><tr><td>Some birds reproduce more</td><td>Yes</td></tr></table><p>Why can natural selection occur in this population? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 5 evolution stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence Tool&lt;/th&gt;&lt;th&gt;Best Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence table&lt;/td&gt;&lt;td&gt;Shows patterns of change over time&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Selection frequency graph&lt;/td&gt;&lt;td&gt;Shows mechanism changing trait frequency&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which synthesis statement is correct?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -247,103 +285,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[All individuals are genetically identical. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Fossils and natural selection are the same kind of evidence.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Trait frequencies cannot change in populations.</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The population has inherited variation and differential reproduction under a selection pressure.]]></text>
-      <feedback format="html"><text><![CDATA[Natural selection requires inherited variation, a selection pressure, and differential survival or reproduction. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Evidence for evolution and mechanisms of evolution answer related but different questions.</text>
+      <feedback format="html">
+        <text>Evidence can show patterns, while mechanisms help explain how populations change. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The trait is not inherited by offspring. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Every bird reproduces at the exact same rate regardless of food. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Mechanisms are unnecessary when evidence is provided.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q11</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q11</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Bottleneck case:</strong> A random storm kills most members of a small population. The few survivors happen to carry allele r more often than allele R.</div><p>Which mechanism best explains the allele-frequency shift? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Directional selection for the strongest allele only (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Gene expression (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Classification by kingdom (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Genetic drift]]></text>
-      <feedback format="html"><text><![CDATA[Random events can shift allele frequencies in small populations; that is genetic drift. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q12</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q12</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Derived Trait</th><th>Lineages With Trait</th></tr><tr><td>Backbone</td><td>A, B, C, D</td></tr><tr><td>Amniotic egg</td><td>C, D</td></tr><tr><td>Hair</td><td>D only</td></tr></table><p>Which lineages share the derived trait amniotic egg? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A and B only (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[D only (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[C and D]]></text>
-      <feedback format="html"><text><![CDATA[The table lists C and D as the lineages with the amniotic egg trait. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A, B, C, and D all equally (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q13</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q13</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Organism Evidence</th><th>Observation</th></tr><tr><td>Nucleus</td><td>Absent</td></tr><tr><td>Cell wall</td><td>Peptidoglycan present</td></tr></table><p>Which domain is best supported? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Eukarya (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Bacteria]]></text>
-      <feedback format="html"><text><![CDATA[A prokaryote with peptidoglycan in the cell wall supports the domain Bacteria. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Animalia (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Plantae (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q14</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q14</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Model Observation</th><th>Limit</th></tr><tr><td>Vesicle-like structures form</td><td>They are not complete living cells</td></tr></table><p>What is the most accurate interpretation? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Organism&lt;/th&gt;&lt;th&gt;Forelimb Bone Pattern&lt;/th&gt;&lt;th&gt;Main Function&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Human&lt;/td&gt;&lt;td&gt;Same basic bone order&lt;/td&gt;&lt;td&gt;Grasping&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cat&lt;/td&gt;&lt;td&gt;Same basic bone order&lt;/td&gt;&lt;td&gt;Walking&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Whale&lt;/td&gt;&lt;td&gt;Same basic bone order&lt;/td&gt;&lt;td&gt;Swimming&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the homologous limb evidence suggest? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -351,25 +323,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The model supports one possible step and has limits.]]></text>
-      <feedback format="html"><text><![CDATA[Scientific models can support part of an explanation while still having limitations. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Similar structures with different functions can support common ancestry.</text>
+      <feedback format="html">
+        <text>Homologous structures can have different functions while still supporting common ancestry. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The model proves a complete cell formed. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Different functions mean the structures cannot be compared. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The model is useless because it has any limit. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The organisms developed limbs only because they wanted new functions. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Limits should be removed from scientific explanations. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Similar bone patterns prove the organisms have the same exact lifestyle. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q15</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q15</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Fossil Group</th><th>Average Cranial Capacity</th></tr><tr><td>Older group</td><td>Lower</td></tr><tr><td>Middle group</td><td>Intermediate</td></tr><tr><td>Later group</td><td>Higher</td></tr></table><p>What is the most careful conclusion? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Present?&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Variation in beak size&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Beak size is inherited&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food type changes&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Some birds reproduce more&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why can natural selection occur in this population? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -377,25 +361,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Higher cranial capacity proves moral superiority. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table proves every later fossil is a direct ancestor of every modern human. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Every bird reproduces at the exact same rate regardless of food. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The data show a broad cranial capacity trend across the fossil groups.]]></text>
-      <feedback format="html"><text><![CDATA[The table supports a trend, but it should not be turned into a value judgment or direct-ancestor claim. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The population has inherited variation and differential reproduction under a selection pressure.</text>
+      <feedback format="html">
+        <text>Natural selection requires inherited variation, a selection pressure, and differential survival or reproduction. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cranial capacity data cannot show any trend. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>All individuals are genetically identical. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The trait is not inherited by offspring. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q16</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q16</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p><table border="1" cellpadding="6"><tr><th>Species Pair</th><th>DNA Similarity</th><th>Cladogram Relationship</th></tr><tr><td>A and B</td><td>96%</td><td>Share recent branch</td></tr><tr><td>A and C</td><td>68%</td><td>Branch earlier</td></tr></table><p>Which claim is best supported? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Bottleneck case:&lt;/strong&gt; A random storm kills most members of a small population. The few survivors happen to carry allele r more often than allele R.&lt;/div&gt;&lt;p&gt;Which mechanism best explains the allele-frequency shift? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -403,51 +399,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A and C are closest because they branch earlier. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Directional selection for the strongest allele only (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[DNA evidence and cladograms can never be compared. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A must be the ancestor of B. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Gene expression (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[DNA and cladogram evidence both support A and B as more closely related.]]></text>
-      <feedback format="html"><text><![CDATA[Both data sources point to a closer relationship between A and B. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Genetic drift</text>
+      <feedback format="html">
+        <text>Random events can shift allele frequencies in small populations; that is genetic drift. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Classification by kingdom (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q17</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q17</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.01</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Comparison</th><th>DNA Similarity</th></tr><tr><td>Species A and B</td><td>98%</td></tr><tr><td>Species A and C</td><td>72%</td></tr><tr><td>Species B and C</td><td>70%</td></tr></table><p>Which evolutionary relationship is best supported by the molecular data? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Species A and B are more closely related than either is to Species C.]]></text>
-      <feedback format="html"><text><![CDATA[The highest DNA similarity supports the closest relationship in this data set. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Species A and C are most closely related. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[DNA evidence cannot be used to compare relationships. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Species C must be the ancestor of both A and B. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q18</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q18</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Drought scenario:</strong> A drought leaves mostly large hard seeds. Birds with larger stronger beaks crack more seeds and raise more offspring.</div><p>What is the selection pressure in this scenario? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Derived Trait&lt;/th&gt;&lt;th&gt;Lineages With Trait&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Backbone&lt;/td&gt;&lt;td&gt;A, B, C, D&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Amniotic egg&lt;/td&gt;&lt;td&gt;C, D&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hair&lt;/td&gt;&lt;td&gt;D only&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which lineages share the derived trait amniotic egg? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -455,25 +437,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The birds deciding to grow stronger beaks (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>D only (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A, B, C, and D all equally (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A and B only (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The change to mostly large hard seeds]]></text>
-      <feedback format="html"><text><![CDATA[The environmental food change is the pressure that affects which inherited traits are favored. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The offspring teaching parents how to feed (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The complete absence of variation (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>C and D</text>
+      <feedback format="html">
+        <text>The table lists C and D as the lineages with the amniotic egg trait. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q19</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q19</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Original DNA Segment</th><td>A T G C</td></tr><tr><th>Changed DNA Segment</th><td>A T A C</td></tr><tr><th>Result</th><td>New allele appears</td></tr></table><p>What created the new allele? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Organism Evidence&lt;/th&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nucleus&lt;/td&gt;&lt;td&gt;Absent&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell wall&lt;/td&gt;&lt;td&gt;Peptidoglycan present&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which domain is best supported? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -481,51 +475,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A cladogram branch point (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A fossil layer (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Eukarya (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Mutation]]></text>
-      <feedback format="html"><text><![CDATA[A change in DNA sequence can create a new allele. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Bacteria</text>
+      <feedback format="html">
+        <text>A prokaryote with peptidoglycan in the cell wall supports the domain Bacteria. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[A learned behavior only (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Animalia (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Plantae (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q20</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q20</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Old Grouping</th><td>Species X grouped with Species Y by appearance</td></tr><tr><th>New DNA Evidence</th><td>Species X shares more DNA with Species Z</td></tr></table><p>What should scientists do with the classification? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Revise the classification if the DNA evidence better supports the relationship.]]></text>
-      <feedback format="html"><text><![CDATA[Classification can be revised when stronger evidence supports a different relationship. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Ignore DNA evidence because old classifications never change. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Classify X with both groups without evidence. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Use only color and never compare molecules. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q21</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q21</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Organism Evidence</th><th>Observation</th></tr><tr><td>Nucleus</td><td>Absent</td></tr><tr><td>Cell membrane chemistry</td><td>Distinct from bacteria</td></tr><tr><td>Genetic evidence</td><td>Distinct from bacteria</td></tr></table><p>Which domain is most likely? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Model Observation&lt;/th&gt;&lt;th&gt;Limit&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Vesicle-like structures form&lt;/td&gt;&lt;td&gt;They are not complete living cells&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the most accurate interpretation? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -533,77 +513,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Fungi (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The model proves a complete cell formed. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Plants (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The model is useless because it has any limit. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Animals (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Limits should be removed from scientific explanations. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Archaea]]></text>
-      <feedback format="html"><text><![CDATA[Archaea are prokaryotic but differ from bacteria in molecular and membrane evidence. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The model supports one possible step and has limits.</text>
+      <feedback format="html">
+        <text>Scientific models can support part of an explanation while still having limitations. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q22</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q22</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Statement</th><th>Can Evidence Test It?</th></tr><tr><td>Early Earth conditions may have allowed organic molecules to form</td><td>Yes, with models and chemical tests</td></tr><tr><td>Life appeared by an untestable claim with no evidence</td><td>No</td></tr></table><p>Which statement describes a scientific explanation? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It never changes when new evidence appears. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[It is testable and supported by evidence.]]></text>
-      <feedback format="html"><text><![CDATA[Scientific explanations are based on evidence, testable models, and careful limits. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It avoids all models and data. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It must answer every question before any part is useful. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q23</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q23</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Evidence</th><th>Possible Inference</th></tr><tr><td>Stone tools near fossils</td><td>Tool use may have occurred</td></tr><tr><td>Cut marks on bones</td><td>Food processing behavior may have occurred</td></tr></table><p>What is the best use of this evidence? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It proves every behavior of the organism. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It replaces all skeletal fossil evidence. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[It supports a behavioral inference with limits.]]></text>
-      <feedback format="html"><text><![CDATA[Artifacts can support behavioral interpretations, but careful limits are needed. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[It shows the fossils are not biological evidence. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q24</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q24</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology evolution standard.</p><table border="1" cellpadding="6"><tr><th>Origin Model Evidence</th><th>Limit</th></tr><tr><td>Organic molecules form in a simulation</td><td>Complete cells are not produced</td></tr></table><p>What is the strongest scientific conclusion? Connect the evidence to the mapped Biology evolution standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Fossil Group&lt;/th&gt;&lt;th&gt;Average Cranial Capacity&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Older group&lt;/td&gt;&lt;td&gt;Lower&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Middle group&lt;/td&gt;&lt;td&gt;Intermediate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Later group&lt;/td&gt;&lt;td&gt;Higher&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the most careful conclusion? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -611,25 +551,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The evidence supports one possible step and should be stated with limits.]]></text>
-      <feedback format="html"><text><![CDATA[A strong conclusion uses the evidence while naming what the model does not prove. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The data show a broad cranial capacity trend across the fossil groups.</text>
+      <feedback format="html">
+        <text>The table supports a trend, but it should not be turned into a value judgment or direct-ancestor claim. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The model proves the complete origin of life. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Higher cranial capacity proves moral superiority. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The evidence should be ignored because it has limits. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The table proves every later fossil is a direct ancestor of every modern human. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Limits make the model non-scientific. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Cranial capacity data cannot show any trend. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q25</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q25</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Location</th><th>Observed Trait Pattern</th></tr><tr><td>Mainland</td><td>Seed-cracking beaks common</td></tr><tr><td>Island 1</td><td>Seed-cracking beaks with smaller body size</td></tr><tr><td>Island 2</td><td>Nectar-feeding beaks with similar body shape</td></tr></table><p>How can this biogeography evidence support evolution? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Species Pair&lt;/th&gt;&lt;th&gt;DNA Similarity&lt;/th&gt;&lt;th&gt;Cladogram Relationship&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A and B&lt;/td&gt;&lt;td&gt;96%&lt;/td&gt;&lt;td&gt;Share recent branch&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A and C&lt;/td&gt;&lt;td&gt;68%&lt;/td&gt;&lt;td&gt;Branch earlier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which claim is best supported? Focus on evidence from the graph, evidence chart, cladogram, classification table, timeline, or trend data.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -637,25 +589,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Location never affects the evidence scientists examine. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A and C are closest because they branch earlier. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[All island populations must stay identical to mainland populations. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table proves the organisms are unrelated because one trait differs. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>DNA evidence and cladograms can never be compared. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Related populations can become different after isolation in different environments.]]></text>
-      <feedback format="html"><text><![CDATA[Geographic distribution can support relatedness and diversification after isolation. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>DNA and cladogram evidence both support A and B as more closely related.</text>
+      <feedback format="html">
+        <text>Both data sources point to a closer relationship between A and B. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A must be the ancestor of B. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q26</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q26</p><p><strong>MLA Standard:</strong> MLA.BIO.LAB.03</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Trait</th><th>Average Offspring Surviving</th></tr><tr><td>Trait A</td><td>2</td></tr><tr><td>Trait B</td><td>7</td></tr><tr><td>Trait C</td><td>3</td></tr></table><p>If the traits are inherited, what should happen over generations? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Comparison&lt;/th&gt;&lt;th&gt;DNA Similarity&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Species A and B&lt;/td&gt;&lt;td&gt;98%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Species A and C&lt;/td&gt;&lt;td&gt;72%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Species B and C&lt;/td&gt;&lt;td&gt;70%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evolutionary relationship is best supported by the molecular data? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -663,51 +627,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Trait A must become the only trait immediately. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Species C must be the ancestor of both A and B. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Trait B should become more common.]]></text>
-      <feedback format="html"><text><![CDATA[Higher reproductive success can increase the frequency of an inherited trait. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Species A and B are more closely related than either is to Species C.</text>
+      <feedback format="html">
+        <text>The highest DNA similarity supports the closest relationship in this data set. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Trait C must disappear before any reproduction occurs. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Species A and C are most closely related. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Trait frequency cannot change when reproduction differs. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>DNA evidence cannot be used to compare relationships. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q27</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q27</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Meiosis Event</th><th>Effect</th></tr><tr><td>Chromosomes exchange segments</td><td>New allele combinations form</td></tr><tr><td>Gametes receive different chromosome combinations</td><td>Variation increases</td></tr></table><p>Which source of variation is described? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Recombination and independent assortment during meiosis]]></text>
-      <feedback format="html"><text><![CDATA[Meiosis can reshuffle alleles into new combinations. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only fossil preservation (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All organisms becoming identical (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A population losing all inherited variation (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q28</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q28</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Cladogram term:</strong> A branch point shows where lineages split from an ancestral lineage.</div><p>What does a branch point represent? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Drought scenario:&lt;/strong&gt; A drought leaves mostly large hard seeds. Birds with larger stronger beaks crack more seeds and raise more offspring.&lt;/div&gt;&lt;p&gt;What is the selection pressure in this scenario? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -715,25 +665,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A ranking from worst to best organism (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The offspring teaching parents how to feed (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[A guarantee that the rightmost organism is oldest (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The complete absence of variation (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The birds deciding to grow stronger beaks (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[A common ancestor or divergence point]]></text>
-      <feedback format="html"><text><![CDATA[A branch point represents a common ancestor or lineage split in the model. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A food chain step (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The change to mostly large hard seeds</text>
+      <feedback format="html">
+        <text>The environmental food change is the pressure that affects which inherited traits are favored. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q29</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q29</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Traits</th><th>Evidence</th></tr><tr><td>Cell type</td><td>Eukaryotic</td></tr><tr><td>Body form</td><td>Multicellular</td></tr><tr><td>Nutrition</td><td>Absorbs nutrients</td></tr><tr><td>Cell wall</td><td>Present</td></tr></table><p>Which kingdom is best supported? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Original DNA Segment&lt;/th&gt;&lt;td&gt;A T G C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Changed DNA Segment&lt;/th&gt;&lt;td&gt;A T A C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Result&lt;/th&gt;&lt;td&gt;New allele appears&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What created the new allele? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -741,77 +703,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Animalia (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A cladogram branch point (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Bacteria (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Archaea (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A fossil layer (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Fungi]]></text>
-      <feedback format="html"><text><![CDATA[Multicellular eukaryotes that absorb nutrients and have cell walls are consistent with fungi. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Mutation</text>
+      <feedback format="html">
+        <text>A change in DNA sequence can create a new allele. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A learned behavior only (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q30</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q30</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.03</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Proposed Sequence</th><th>Evidence Focus</th></tr><tr><td>Early Earth conditions</td><td>Chemical environment</td></tr><tr><td>Organic molecules</td><td>Model and lab evidence</td></tr><tr><td>Protocell-like structures</td><td>Membrane-like models</td></tr></table><p>What does this timeline model represent? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A final proof of every detail of life's origin (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[A proposed sequence scientists can evaluate with evidence and limits.]]></text>
-      <feedback format="html"><text><![CDATA[The model organizes a proposed sequence but still requires evidence and limits. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A food web of modern organisms (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A classification key for kingdoms only (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q31</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q31</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Fossil</th><th>Relative Age</th><th>Trait</th></tr><tr><td>Fossil A</td><td>Older</td><td>Trait 1</td></tr><tr><td>Fossil B</td><td>Newer</td><td>Trait 1 plus Trait 2</td></tr></table><p>What should scientists avoid claiming from this evidence alone? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[That the fossils can provide evidence about traits. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[That relative age can be part of an interpretation. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[That Fossil A is definitely the direct ancestor of Fossil B.]]></text>
-      <feedback format="html"><text><![CDATA[Age and trait similarity can support relationships, but direct ancestry needs stronger evidence. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[That traits can be compared across fossils. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q32</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q32</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Do not confuse evidence, mechanism, classification, and trend claims.</p><table border="1" cellpadding="6"><tr><th>Hominid Evidence</th><th>Careful Interpretation</th></tr><tr><td>Pelvis and foot traits</td><td>Possible bipedalism</td></tr><tr><td>Cranial capacity pattern</td><td>Broad trend, not value ranking</td></tr></table><p>Which response avoids overclaiming? Do not confuse evidence, mechanism, classification, and trend claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Old Grouping&lt;/th&gt;&lt;td&gt;Species X grouped with Species Y by appearance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;New DNA Evidence&lt;/th&gt;&lt;td&gt;Species X shares more DNA with Species Z&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What should scientists do with the classification? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -819,25 +741,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The evidence supports trends, but it does not rank organisms by value or prove a simple ladder.]]></text>
-      <feedback format="html"><text><![CDATA[Careful evolutionary reasoning uses trends without turning them into rankings or unsupported direct ancestry. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Revise the classification if the DNA evidence better supports the relationship.</text>
+      <feedback format="html">
+        <text>Classification can be revised when stronger evidence supports a different relationship. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Later fossils are automatically superior. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Classify X with both groups without evidence. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[All fossils in a sequence are direct ancestors. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Use only color and never compare molecules. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Trends cannot be studied from fossil traits. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Ignore DNA evidence because old classifications never change. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q33</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q33</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.01</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Evidence Type</th><th>Pattern</th></tr><tr><td>Fossils</td><td>Older-to-newer trait change</td></tr><tr><td>Anatomy</td><td>Similar limb bone patterns</td></tr><tr><td>DNA</td><td>High sequence similarity</td></tr></table><p>Why is the combined evidence stronger than one piece alone? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Organism Evidence&lt;/th&gt;&lt;th&gt;Observation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nucleus&lt;/td&gt;&lt;td&gt;Absent&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell membrane chemistry&lt;/td&gt;&lt;td&gt;Distinct from bacteria&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genetic evidence&lt;/td&gt;&lt;td&gt;Distinct from bacteria&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which domain is most likely? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -845,25 +779,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Only fossil evidence is allowed in biology. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Fungi (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Different lines of evidence support the same evolutionary relationship.]]></text>
-      <feedback format="html"><text><![CDATA[Converging evidence from several sources strengthens an evolutionary explanation. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Archaea</text>
+      <feedback format="html">
+        <text>Archaea are prokaryotic but differ from bacteria in molecular and membrane evidence. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Using more evidence always removes the need for reasoning. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Plants (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[DNA evidence cancels anatomical evidence automatically. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Animals (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q34</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q34</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Student claim:</strong> Rabbits grew thicker fur because they needed it during a cold winter.</div><p>What is the best correction to the claim? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Statement&lt;/th&gt;&lt;th&gt;Can Evidence Test It?&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Early Earth conditions may have allowed organic molecules to form&lt;/td&gt;&lt;td&gt;Yes, with models and chemical tests&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Life appeared by an untestable claim with no evidence&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement describes a scientific explanation? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -871,51 +817,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Needs directly rewrite every rabbit's DNA in the same way. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It never changes when new evidence appears. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Natural selection never involves inherited traits. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It avoids all models and data. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cold environments cannot affect survival or reproduction. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It must answer every question before any part is useful. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Natural selection acts on existing inherited variation; individuals do not grow inherited traits simply because they need them.]]></text>
-      <feedback format="html"><text><![CDATA[Selection favors existing inherited traits that improve survival or reproduction in a specific environment. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>It is testable and supported by evidence.</text>
+      <feedback format="html">
+        <text>Scientific explanations are based on evidence, testable models, and careful limits. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q35</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q35</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.02</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Generation</th><th>Allele A</th><th>Allele a</th><th>Population Size</th></tr><tr><td>1</td><td>50%</td><td>50%</td><td>12</td></tr><tr><td>2</td><td>25%</td><td>75%</td><td>12</td></tr></table><p>What is the most careful interpretation? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Allele frequencies stayed the same. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table proves the a allele is always better in every environment. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Allele frequencies changed; in a small population, chance could be a major factor.]]></text>
-      <feedback format="html"><text><![CDATA[The data show an allele-frequency change, and small populations are strongly affected by chance. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table describes translation of mRNA. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q36</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q36</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Student claim:</strong> The species on the far right of a cladogram is the most evolved species.</div><p>What is the best correction? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Possible Inference&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stone tools near fossils&lt;/td&gt;&lt;td&gt;Tool use may have occurred&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cut marks on bones&lt;/td&gt;&lt;td&gt;Food processing behavior may have occurred&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the best use of this evidence? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -923,25 +855,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[A cladogram shows relationships, not a ladder ranking organisms from less evolved to more evolved.]]></text>
-      <feedback format="html"><text><![CDATA[Cladograms represent relatedness and branching, not value rankings or progress ladders. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>It supports a behavioral inference with limits.</text>
+      <feedback format="html">
+        <text>Artifacts can support behavioral interpretations, but careful limits are needed. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The far-right species is always the direct ancestor of all others. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It replaces all skeletal fossil evidence. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The far-left species is always extinct. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It shows the fossils are not biological evidence. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cladograms cannot show common ancestry. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It proves every behavior of the organism. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q37</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q37</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.03</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Domain</th><th>Key Classification Evidence</th></tr><tr><td>Bacteria</td><td>Prokaryotic; bacterial molecular traits</td></tr><tr><td>Archaea</td><td>Prokaryotic; archaeal molecular traits</td></tr><tr><td>Eukarya</td><td>Nucleus; eukaryotic molecular traits</td></tr></table><p>What is the main purpose of the three-domain system? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Origin Model Evidence&lt;/th&gt;&lt;th&gt;Limit&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Organic molecules form in a simulation&lt;/td&gt;&lt;td&gt;Complete cells are not produced&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the strongest scientific conclusion? Connect the evidence to the mapped Biology evolution standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -949,25 +893,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[To rank organisms from simple to valuable (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The model proves the complete origin of life. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[To group every organism by size only (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[To ignore evolutionary relationships (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The evidence should be ignored because it has limits. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[To classify broad diversity using cellular and molecular evidence]]></text>
-      <feedback format="html"><text><![CDATA[The three-domain system organizes life using cellular and molecular evidence. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The evidence supports one possible step and should be stated with limits.</text>
+      <feedback format="html">
+        <text>A strong conclusion uses the evidence while naming what the model does not prove. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Limits make the model non-scientific. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q38</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q38</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Student claim:</strong> If an origin-of-life model does not answer every question, it provides no scientific value.</div><p>What is the best correction? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Location&lt;/th&gt;&lt;th&gt;Observed Trait Pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mainland&lt;/td&gt;&lt;td&gt;Seed-cracking beaks common&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Island 1&lt;/td&gt;&lt;td&gt;Seed-cracking beaks with smaller body size&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Island 2&lt;/td&gt;&lt;td&gt;Nectar-feeding beaks with similar body shape&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;How can this biogeography evidence support evolution? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -975,51 +931,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A model is only scientific if it has no limits. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>All island populations must stay identical to mainland populations. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The table proves the organisms are unrelated because one trait differs. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Location never affects the evidence scientists examine. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[A model can be valuable when it explains part of a process and clearly states its limits.]]></text>
-      <feedback format="html"><text><![CDATA[Scientific models often explain part of a complex process and are evaluated by evidence and limitations. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Evidence is unnecessary if the model is interesting. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All incomplete models should be accepted as final proof. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Related populations can become different after isolation in different environments.</text>
+      <feedback format="html">
+        <text>Geographic distribution can support relatedness and diversification after isolation. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U05_UA_Q39</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q39</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.04</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Trait</th><th>Older Fossil Pattern</th><th>Later Fossil Pattern</th></tr><tr><td>Jaw size</td><td>Larger</td><td>Smaller</td></tr><tr><td>Teeth</td><td>Larger</td><td>Smaller</td></tr><tr><td>Skull shape</td><td>Less rounded</td><td>More rounded</td></tr></table><p>Which conclusion is best supported? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[The fossils show trait trends that can be used as evidence for evolutionary relationships.]]></text>
-      <feedback format="html"><text><![CDATA[Trait comparisons across fossils can support evolutionary trend claims when interpreted carefully. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The later fossil is automatically better in every way. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Jaw and tooth traits cannot be evidence. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table proves there was no change over time. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U05_UA_Q40</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U05_UA_Q40</p><p><strong>MLA Standard:</strong> MLA.BIO.EVO.01</p><p><strong>Assessment focus:</strong> Explain the evolution concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Question Type</th><th>Best Evidence Tool</th></tr><tr><td>Closest relationship</td><td>DNA table or cladogram</td></tr><tr><td>Trait frequency change</td><td>Selection graph or allele table</td></tr><tr><td>Broad diversity</td><td>Domain/kingdom chart</td></tr><tr><td>Hominid trend</td><td>Fossil trait table</td></tr></table><p>What is the best strategy for a mixed Unit 5 question? Explain the evolution concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U05_UA_Q26</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Trait&lt;/th&gt;&lt;th&gt;Average Offspring Surviving&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trait A&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trait B&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trait C&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;If the traits are inherited, what should happen over generations? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1027,20 +969,560 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Use the same evidence tool for every evolution question. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Trait A must become the only trait immediately. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Ignore the embedded stimulus and guess from familiar words. (This confuses a Unit 5 evolution concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Trait C must disappear before any reproduction occurs. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Match the claim to the evidence tool that directly supports it.]]></text>
-      <feedback format="html"><text><![CDATA[The correct evidence tool depends on the exact claim being assessed. This matches the mapped Unit 5 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Trait B should become more common.</text>
+      <feedback format="html">
+        <text>Higher reproductive success can increase the frequency of an inherited trait. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Choose the most extreme claim whenever fossils are mentioned. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Trait frequency cannot change when reproduction differs. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q27</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Meiosis Event&lt;/th&gt;&lt;th&gt;Effect&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chromosomes exchange segments&lt;/td&gt;&lt;td&gt;New allele combinations form&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gametes receive different chromosome combinations&lt;/td&gt;&lt;td&gt;Variation increases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which source of variation is described? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Recombination and independent assortment during meiosis</text>
+      <feedback format="html">
+        <text>Meiosis can reshuffle alleles into new combinations. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All organisms becoming identical (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A population losing all inherited variation (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only fossil preservation (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q28</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Cladogram term:&lt;/strong&gt; A branch point shows where lineages split from an ancestral lineage.&lt;/div&gt;&lt;p&gt;What does a branch point represent? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>A food chain step (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A common ancestor or divergence point</text>
+      <feedback format="html">
+        <text>A branch point represents a common ancestor or lineage split in the model. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A ranking from worst to best organism (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A guarantee that the rightmost organism is oldest (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q29</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Traits&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell type&lt;/td&gt;&lt;td&gt;Eukaryotic&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Body form&lt;/td&gt;&lt;td&gt;Multicellular&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nutrition&lt;/td&gt;&lt;td&gt;Absorbs nutrients&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell wall&lt;/td&gt;&lt;td&gt;Present&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which kingdom is best supported? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Bacteria (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Archaea (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Animalia (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Fungi</text>
+      <feedback format="html">
+        <text>Multicellular eukaryotes that absorb nutrients and have cell walls are consistent with fungi. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q30</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Proposed Sequence&lt;/th&gt;&lt;th&gt;Evidence Focus&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Early Earth conditions&lt;/td&gt;&lt;td&gt;Chemical environment&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Organic molecules&lt;/td&gt;&lt;td&gt;Model and lab evidence&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protocell-like structures&lt;/td&gt;&lt;td&gt;Membrane-like models&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does this timeline model represent? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>A classification key for kingdoms only (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A proposed sequence scientists can evaluate with evidence and limits.</text>
+      <feedback format="html">
+        <text>The model organizes a proposed sequence but still requires evidence and limits. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A final proof of every detail of life's origin (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A food web of modern organisms (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q31</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Fossil&lt;/th&gt;&lt;th&gt;Relative Age&lt;/th&gt;&lt;th&gt;Trait&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil A&lt;/td&gt;&lt;td&gt;Older&lt;/td&gt;&lt;td&gt;Trait 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil B&lt;/td&gt;&lt;td&gt;Newer&lt;/td&gt;&lt;td&gt;Trait 1 plus Trait 2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What should scientists avoid claiming from this evidence alone? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>That the fossils can provide evidence about traits. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>That relative age can be part of an interpretation. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>That Fossil A is definitely the direct ancestor of Fossil B.</text>
+      <feedback format="html">
+        <text>Age and trait similarity can support relationships, but direct ancestry needs stronger evidence. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>That traits can be compared across fossils. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q32</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q32&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Hominid Evidence&lt;/th&gt;&lt;th&gt;Careful Interpretation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pelvis and foot traits&lt;/td&gt;&lt;td&gt;Possible bipedalism&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cranial capacity pattern&lt;/td&gt;&lt;td&gt;Broad trend, not value ranking&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which response avoids overclaiming? Do not confuse evidence, mechanism, classification, and trend claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>The evidence supports trends, but it does not rank organisms by value or prove a simple ladder.</text>
+      <feedback format="html">
+        <text>Careful evolutionary reasoning uses trends without turning them into rankings or unsupported direct ancestry. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All fossils in a sequence are direct ancestors. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Trends cannot be studied from fossil traits. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Later fossils are automatically superior. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q33</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence Type&lt;/th&gt;&lt;th&gt;Pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossils&lt;/td&gt;&lt;td&gt;Older-to-newer trait change&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Anatomy&lt;/td&gt;&lt;td&gt;Similar limb bone patterns&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA&lt;/td&gt;&lt;td&gt;High sequence similarity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is the combined evidence stronger than one piece alone? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Only fossil evidence is allowed in biology. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Using more evidence always removes the need for reasoning. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Different lines of evidence support the same evolutionary relationship.</text>
+      <feedback format="html">
+        <text>Converging evidence from several sources strengthens an evolutionary explanation. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>DNA evidence cancels anatomical evidence automatically. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q34</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q34&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Student claim:&lt;/strong&gt; Rabbits grew thicker fur because they needed it during a cold winter.&lt;/div&gt;&lt;p&gt;What is the best correction to the claim? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Natural selection acts on existing inherited variation; individuals do not grow inherited traits simply because they need them.</text>
+      <feedback format="html">
+        <text>Selection favors existing inherited traits that improve survival or reproduction in a specific environment. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Natural selection never involves inherited traits. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cold environments cannot affect survival or reproduction. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Needs directly rewrite every rabbit's DNA in the same way. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q35</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q35&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Generation&lt;/th&gt;&lt;th&gt;Allele A&lt;/th&gt;&lt;th&gt;Allele a&lt;/th&gt;&lt;th&gt;Population Size&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the most careful interpretation? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The table proves the a allele is always better in every environment. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The table describes translation of mRNA. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Allele frequencies stayed the same. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Allele frequencies changed; in a small population, chance could be a major factor.</text>
+      <feedback format="html">
+        <text>The data show an allele-frequency change, and small populations are strongly affected by chance. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q36</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q36&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Student claim:&lt;/strong&gt; The species on the far right of a cladogram is the most evolved species.&lt;/div&gt;&lt;p&gt;What is the best correction? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Cladograms cannot show common ancestry. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>A cladogram shows relationships, not a ladder ranking organisms from less evolved to more evolved.</text>
+      <feedback format="html">
+        <text>Cladograms represent relatedness and branching, not value rankings or progress ladders. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The far-right species is always the direct ancestor of all others. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The far-left species is always extinct. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q37</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q37&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Domain&lt;/th&gt;&lt;th&gt;Key Classification Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bacteria&lt;/td&gt;&lt;td&gt;Prokaryotic; bacterial molecular traits&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Archaea&lt;/td&gt;&lt;td&gt;Prokaryotic; archaeal molecular traits&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Eukarya&lt;/td&gt;&lt;td&gt;Nucleus; eukaryotic molecular traits&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the main purpose of the three-domain system? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>To rank organisms from simple to valuable (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>To group every organism by size only (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>To classify broad diversity using cellular and molecular evidence</text>
+      <feedback format="html">
+        <text>The three-domain system organizes life using cellular and molecular evidence. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>To ignore evolutionary relationships (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q38</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q38&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Student claim:&lt;/strong&gt; If an origin-of-life model does not answer every question, it provides no scientific value.&lt;/div&gt;&lt;p&gt;What is the best correction? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>A model can be valuable when it explains part of a process and clearly states its limits.</text>
+      <feedback format="html">
+        <text>Scientific models often explain part of a complex process and are evaluated by evidence and limitations. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Evidence is unnecessary if the model is interesting. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>All incomplete models should be accepted as final proof. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A model is only scientific if it has no limits. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q39</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q39&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Trait&lt;/th&gt;&lt;th&gt;Older Fossil Pattern&lt;/th&gt;&lt;th&gt;Later Fossil Pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jaw size&lt;/td&gt;&lt;td&gt;Larger&lt;/td&gt;&lt;td&gt;Smaller&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Teeth&lt;/td&gt;&lt;td&gt;Larger&lt;/td&gt;&lt;td&gt;Smaller&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Skull shape&lt;/td&gt;&lt;td&gt;Less rounded&lt;/td&gt;&lt;td&gt;More rounded&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which conclusion is best supported? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>The table proves there was no change over time. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The fossils show trait trends that can be used as evidence for evolutionary relationships.</text>
+      <feedback format="html">
+        <text>Trait comparisons across fossils can support evolutionary trend claims when interpreted carefully. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The later fossil is automatically better in every way. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Jaw and tooth traits cannot be evidence. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U05_UA_Q40</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_UA_Q40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Question Type&lt;/th&gt;&lt;th&gt;Best Evidence Tool&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Closest relationship&lt;/td&gt;&lt;td&gt;DNA table or cladogram&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trait frequency change&lt;/td&gt;&lt;td&gt;Selection graph or allele table&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Broad diversity&lt;/td&gt;&lt;td&gt;Domain/kingdom chart&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hominid trend&lt;/td&gt;&lt;td&gt;Fossil trait table&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the best strategy for a mixed Unit 5 question? Explain the evolution concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Ignore the embedded stimulus and guess from familiar words. (This confuses a Unit 5 evolution concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses evidence, mechanism, classification, or trend reasoning. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Choose the most extreme claim whenever fossils are mentioned. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Use the same evidence tool for every evolution question. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded table, graph, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Match the claim to the evidence tool that directly supports it.</text>
+      <feedback format="html">
+        <text>The correct evidence tool depends on the exact claim being assessed. This matches the mapped Unit 5 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
 </quiz>

@@ -1,12 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text><![CDATA[$course$/Chemistry/Unit 03/Lesson 07/Quiz]]></text></category>
+    <category>
+      <text>$course$/Chemistry/Unit 03/Lesson 07/Quiz</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q01 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q01 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -14,47 +22,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q02 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q03 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q02 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -62,23 +63,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q04 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q03 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -86,23 +104,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q05 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q04 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -110,23 +145,163 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q06 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q05 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L07_QZ Q06 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L07_QZ Q07 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L07_QZ Q08 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -134,23 +309,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q07 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q09 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -158,95 +350,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q08 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q09 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q10 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q11 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q10 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -254,23 +391,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q12 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q11 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -278,23 +432,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q13 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q12 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -302,23 +473,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q14 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q13 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -326,23 +514,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q15 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q14 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -350,23 +555,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q16 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q15 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -374,23 +596,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q17 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q16 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -398,23 +637,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q18 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q17 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -422,23 +678,122 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q19 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q18 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L07_QZ Q19 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>CHEM_U03_L07_QZ Q20 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -446,23 +801,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q20 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q21 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -470,23 +842,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q21 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q22 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which explanation correctly uses the evidence in the stimulus?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -494,23 +883,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q22 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which explanation correctly uses the evidence in the stimulus?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q23 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which answer avoids the common misconception for this topic?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -518,23 +924,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>The compound type determines whether ionic naming rules or molecular prefixes are used.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'The compound type determines whether ionic naming rules or molecular prefixes are used.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'The compound type determines whether ionic naming rules or molecular prefixes are used.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q23 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which answer avoids the common misconception for this topic?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q24 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which statement connects the model to the chemistry standard?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -542,23 +965,40 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[The compound type determines whether ionic naming rules or molecular prefixes are used.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>NaCl should be named monosodium monochloride because it has one of each ion.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'NaCl should be named monosodium monochloride because it has one of each ion.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Iron(III) chloride uses a Roman numeral because iron can form more than one charge.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'Iron(III) chloride uses a Roman numeral because iron can form more than one charge.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q24 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which statement connects the model to the chemistry standard?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
+    <name>
+      <text>CHEM_U03_L07_QZ Q25 - Nomenclature and Chemical Communication</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.CHEM.BON.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stimulus:&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Formula&lt;/th&gt;&lt;th&gt;Compound type&lt;/th&gt;&lt;th&gt;Name rule&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NaCl&lt;/td&gt;&lt;td&gt;ionic, fixed-charge metal&lt;/td&gt;&lt;td&gt;sodium chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FeCl3&lt;/td&gt;&lt;td&gt;ionic, variable-charge metal&lt;/td&gt;&lt;td&gt;iron(III) chloride&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CO2&lt;/td&gt;&lt;td&gt;molecular&lt;/td&gt;&lt;td&gt;carbon dioxide&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Which conclusion is best supported by the Naming decision table?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.</text>
+    </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -566,44 +1006,28 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>ABCD</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[NaCl should be named monosodium monochloride because it has one of each ion.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[Iron(III) chloride uses a Roman numeral because iron can form more than one charge.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
+      <text>Roman numerals show how many atoms are in every molecular compound.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'Roman numerals show how many atoms are in every molecular compound.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
-  </question>
-  <question type="multichoice">
-    <name><text><![CDATA[CHEM_U03_L07_QZ Q25 - Nomenclature and Chemical Communication]]></text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>MLA Standard:</strong> MLA.CHEM.BON.03</p><p><strong>Stimulus:</strong></p><table><tr><th>Formula</th><th>Compound type</th><th>Name rule</th></tr><tr><td>NaCl</td><td>ionic, fixed-charge metal</td><td>sodium chloride</td></tr><tr><td>FeCl3</td><td>ionic, variable-charge metal</td><td>iron(III) chloride</td></tr><tr><td>CO2</td><td>molecular</td><td>carbon dioxide</td></tr></table><p><strong>Question:</strong> Which conclusion is best supported by the Naming decision table?</p>]]></text></questiontext>
-    <generalfeedback format="html"><text><![CDATA[Use the embedded stimulus first, then connect the evidence to the bonding, formula, property, or nomenclature rule.]]></text></generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>ABCD</answernumbering>
+    <answer fraction="100" format="html">
+      <text>CO2 uses a prefix because it is a molecular compound made from nonmetals.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correct. For MLA.CHEM.BON.03, 'CO2 uses a prefix because it is a molecular compound made from nonmetals.' is the strongest answer because it uses bonding, structure, polarity, or intermolecular-force evidence from the stimulus or question. It matches the evidence in this item instead of relying on a vague claim.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Roman numerals show how many atoms are in every molecular compound.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="100" format="html">
-      <text><![CDATA[CO2 uses a prefix because it is a molecular compound made from nonmetals.]]></text>
-      <feedback format="html"><text><![CDATA[The stimulus shows that accurate naming begins by classifying the compound type and then applying the matching rule.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[CO2 is named carbon oxide because prefixes are never used in chemistry names.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
-    </answer>    <answer fraction="0" format="html">
-      <text><![CDATA[The formula type does not matter when choosing a naming rule.]]></text>
-      <feedback format="html"><text><![CDATA[This choice applies the wrong naming system or misuses Roman numerals and prefixes.]]></text></feedback>
+      <text>CO2 is named carbon oxide because prefixes are never used in chemistry names.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'CO2 is named carbon oxide because prefixes are never used in chemistry names.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The formula type does not matter when choosing a naming rule.</text>
+      <feedback format="html">
+        <text>&lt;p&gt;This does not fully meet MLA.CHEM.BON.03. 'The formula type does not matter when choosing a naming rule.' may sound related, but it misses the key bonding, structure, polarity, or intermolecular-force evidence required by the question. Compare it with 'CO2 uses a prefix because it is a molecular compound made from nonmetals.', which better fits the evidence and wording of the prompt.&lt;/p&gt;</text>
+      </feedback>
     </answer>
   </question>
 </quiz>
-
-
-

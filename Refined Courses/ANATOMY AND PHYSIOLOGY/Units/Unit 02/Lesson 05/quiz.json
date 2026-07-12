@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  2,
-    "lesson":  5,
-    "title":  "Integumentary System Structure and Function",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Skin diagram/model",
-    "standards":  "MLA.ANP.TIS.03"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 02",
+  "lesson": "Lesson 05",
+  "lessonTitle": "Integumentary System Structure and Function",
+  "title": "Integumentary System Structure and Function Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U02_L05_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.TIS.03",
+    "MLA.ANP.ORG.01"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U02_L05_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

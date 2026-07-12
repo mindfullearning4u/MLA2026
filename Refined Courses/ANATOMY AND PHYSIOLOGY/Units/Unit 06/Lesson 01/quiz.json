@@ -1,12 +1,19 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  6,
-    "lesson":  1,
-    "title":  "Digestive System Physiology",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Digestive process model",
-    "standards":  "MLA.ANP.DUR.01"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 06",
+  "lesson": "Lesson 01",
+  "lessonTitle": "Digestive System Physiology",
+  "title": "Digestive System Physiology Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U06_L01_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.DUR.01",
+    "MLA.ANP.ORG.03"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U06_L01_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

@@ -1,12 +1,27 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  1,
-    "lesson":  8,
-    "title":  "Putting It All Together",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  0,
-    "unit_assessment_only_for_lesson_8":  true,
-    "required_stimulus":  "Unit-level mixed stimuli",
-    "standards":  "MLA.ANP.SCI.01; MLA.ANP.SCI.02; MLA.ANP.LAB.01; MLA.ANP.LAB.02; MLA.ANP.ORG.01; MLA.ANP.ORG.02; MLA.ANP.ORG.03; MLA.ANP.HLR.01"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 01",
+  "lesson": "Lesson 08",
+  "lessonTitle": "Putting It All Together",
+  "title": "Putting It All Together Unit Assessment",
+  "assessmentType": "Unit Assessment",
+  "moodleXmlFile": "Moodle XML/ANP_U01_UnitAssessment_MoodleXML.xml",
+  "questionCount": 40,
+  "questionBankSize": 40,
+  "questionsPerAttempt": 40,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.SCI.01",
+    "MLA.ANP.SCI.02",
+    "MLA.ANP.LAB.01",
+    "MLA.ANP.LAB.02",
+    "MLA.ANP.ORG.01",
+    "MLA.ANP.ORG.02",
+    "MLA.ANP.ORG.03",
+    "MLA.ANP.HLR.01",
+    "MLA.ANP.HLR.02",
+    "MLA.ANP.HLR.03"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U01_L08_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  2,
-    "lesson":  6,
-    "title":  "Ocean Basin Development",
-    "standards":  "MLA.ESS.EAR.05",
-    "required_visual_model_data":  "bathymetry map and ocean-floor feature diagram",
-    "direct_resource":  {
-                            "url":  "https://oceanexplorer.noaa.gov/facts/seafloor-features.html",
-                            "title":  "NOAA Ocean Exploration: Seafloor Features"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 02",
+  "lesson": "Lesson 06",
+  "title": "Ocean Basin Development",
+  "standards": [
+    "MLA.ESS.EAR.05",
+    "MLA.ESS.EAR.03"
+  ],
+  "required_visual_model_data": "bathymetry map and ocean-floor feature diagram",
+  "direct_resource": {
+    "url": "https://oceanexplorer.noaa.gov/facts/seafloor-features.html",
+    "title": "NOAA Ocean Exploration: Seafloor Features"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Ocean Basin Development",
+  "primaryStandards": [
+    "MLA.ESS.EAR.05",
+    "MLA.ESS.EAR.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "NOAA Ocean Exploration: Seafloor Features",
+      "exactDirectUrl": "https://oceanexplorer.noaa.gov/facts/seafloor-features.html",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U02_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U02_L06_Quiz_MoodleXML.xml"
 }

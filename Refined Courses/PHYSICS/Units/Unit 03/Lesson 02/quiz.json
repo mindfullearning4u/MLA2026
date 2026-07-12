@@ -3,15 +3,17 @@
   "unit": "Unit 03",
   "lesson": "Lesson 02",
   "lessonTitle": "Energy Transformations",
-  "guidedPracticeQuestionCount": 5,
-  "lessonQuizQuestionCount": 25,
-  "format": "Moodle XML",
-  "visualStimulusRequired": true,
+  "title": "Energy Transformations Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/PHYS_U03_L02_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
   "standards": [
-    "MLA.PHYS.ENE.01"
+    "MLA.PHYS.ENE.01",
+    "MLA.PHYS.LAB.03"
   ],
-  "xmlFiles": [
-    "Moodle XML/PHYS_U03_L02_GuidedPractice_MoodleXML.xml",
-    "Moodle XML/PHYS_U03_L02_Quiz_MoodleXML.xml"
-  ]
+  "guidedPracticeMoodleXmlFile": "Moodle XML/PHYS_U03_L02_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

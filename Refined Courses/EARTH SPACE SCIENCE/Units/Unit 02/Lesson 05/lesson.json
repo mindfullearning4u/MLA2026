@@ -1,13 +1,32 @@
-﻿{
-    "course":  "Earth Space Science",
-    "unit":  2,
-    "lesson":  5,
-    "title":  "Geologic Processes in Florida and Beyond",
-    "standards":  "MLA.ESS.EAR.04",
-    "required_visual_model_data":  "Florida geology map, karst/process diagram, and comparison table",
-    "direct_resource":  {
-                            "url":  "https://floridadep.gov/fgs/geologic-topics",
-                            "title":  "Florida Geological Survey: Geologic Topics"
-                        },
-    "rigor_status":  "layered rigorous rebuild completed"
+{
+  "course": "Earth Space Science",
+  "unit": "Unit 02",
+  "lesson": "Lesson 05",
+  "title": "Geologic Processes in Florida and Beyond",
+  "standards": [
+    "MLA.ESS.EAR.04",
+    "MLA.ESS.LAB.02"
+  ],
+  "required_visual_model_data": "Florida geology map, karst/process diagram, and comparison table",
+  "direct_resource": {
+    "url": "https://floridadep.gov/fgs/geologic-topics",
+    "title": "Florida Geological Survey: Geologic Topics"
+  },
+  "rigor_status": "layered rigorous rebuild completed",
+  "lessonTitle": "Geologic Processes in Florida and Beyond",
+  "primaryStandards": [
+    "MLA.ESS.EAR.04",
+    "MLA.ESS.LAB.02"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "Florida Geological Survey: Geologic Topics",
+      "exactDirectUrl": "https://floridadep.gov/fgs/geologic-topics",
+      "studentTask": "Record evidence from the linked resource.",
+      "observe": "Use the specified section, image, table, map, or data display."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/ESS_U02_L05_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/ESS_U02_L05_Quiz_MoodleXML.xml"
 }

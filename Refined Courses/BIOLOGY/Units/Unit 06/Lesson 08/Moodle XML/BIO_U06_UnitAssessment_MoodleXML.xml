@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category">
-    <category><text>$course$/BIOLOGY/Units/Unit 06/UnitAssessment</text></category>
+    <category>
+      <text>$course$/BIOLOGY/Units/Unit 06/UnitAssessment</text>
+    </category>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q01</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q01</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Zone</th><th>Depth</th><th>Light</th><th>Common Producers</th></tr><tr><td>Shallow shelf</td><td>0-20 m</td><td>High</td><td>Many algae</td></tr><tr><td>Deep basin</td><td>200+ m</td><td>Very low</td><td>Few photosynthetic producers</td></tr></table><p>Which factor best explains the producer distribution?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Zone&lt;/th&gt;&lt;th&gt;Depth&lt;/th&gt;&lt;th&gt;Light&lt;/th&gt;&lt;th&gt;Common Producers&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Shallow shelf&lt;/td&gt;&lt;td&gt;0-20 m&lt;/td&gt;&lt;td&gt;High&lt;/td&gt;&lt;td&gt;Many algae&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Deep basin&lt;/td&gt;&lt;td&gt;200+ m&lt;/td&gt;&lt;td&gt;Very low&lt;/td&gt;&lt;td&gt;Few photosynthetic producers&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which factor best explains the producer distribution?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -13,25 +19,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Producers are always evenly distributed in all water depths.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Depth affects only land organisms.</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Photosynthesis does not depend on light.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Producers are always evenly distributed in all water depths.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Light decreases with depth, limiting photosynthesis in the deep basin.]]></text>
-      <feedback format="html"><text><![CDATA[Photosynthetic producers need light, so depth and light help explain distribution. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Depth affects only land organisms.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Photosynthesis does not depend on light.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Light decreases with depth, limiting photosynthesis in the deep basin.</text>
+      <feedback format="html">
+        <text>Photosynthetic producers need light, so depth and light help explain distribution. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q02</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q02</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Year After Fire</th><th>Dominant Community</th><th>Soil Present?</th></tr><tr><td>1</td><td>Grasses</td><td>Yes</td></tr><tr><td>10</td><td>Shrubs</td><td>Yes</td></tr><tr><td>60</td><td>Young forest</td><td>Yes</td></tr></table><p>Which process is shown?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Year After Fire&lt;/th&gt;&lt;th&gt;Dominant Community&lt;/th&gt;&lt;th&gt;Soil Present?&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;Grasses&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Shrubs&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;Young forest&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which process is shown?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -39,25 +57,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Primary succession]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[No ecosystem change]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only seasonal migration]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Only seasonal migration</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Secondary succession]]></text>
-      <feedback format="html"><text><![CDATA[Soil remained after the fire, so the recovery sequence is secondary succession. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Secondary succession</text>
+      <feedback format="html">
+        <text>Soil remained after the fire, so the recovery sequence is secondary succession. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Primary succession</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No ecosystem change</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q03</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q03</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Births</th><th>Deaths</th><th>Immigration</th><th>Emigration</th></tr><tr><td>30</td><td>12</td><td>8</td><td>6</td></tr></table><p>What is the net population change?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Births&lt;/th&gt;&lt;th&gt;Deaths&lt;/th&gt;&lt;th&gt;Immigration&lt;/th&gt;&lt;th&gt;Emigration&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the net population change?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -65,25 +95,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[20 individuals added]]></text>
-      <feedback format="html"><text><![CDATA[Births plus immigration are 38; deaths plus emigration are 18; net change is +20. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>20 individuals added</text>
+      <feedback format="html">
+        <text>Births plus immigration are 38; deaths plus emigration are 18; net change is +20. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[20 individuals removed]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>56 individuals added</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[56 individuals added]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>No change</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[No change]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>20 individuals removed</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q04</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q04</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Food web arrows:</strong> grass -> grasshopper -> frog -> snake</div><p>Which organism receives energy directly from the grasshopper?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Food web arrows:&lt;/strong&gt; grass -&gt; grasshopper -&gt; frog -&gt; snake&lt;/div&gt;&lt;p&gt;Which organism receives energy directly from the grasshopper?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -91,25 +133,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Grass]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Grass</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Snake]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Snake</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Frog]]></text>
-      <feedback format="html"><text><![CDATA[The arrow from grasshopper to frog means energy moves from grasshopper to frog. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Frog</text>
+      <feedback format="html">
+        <text>The arrow from grasshopper to frog means energy moves from grasshopper to frog. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Sunlight]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Sunlight</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q05</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q05</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Year</th><th>Invasive Plant Cover</th><th>Native Plant Species</th></tr><tr><td>1</td><td>10%</td><td>18</td></tr><tr><td>5</td><td>70%</td><td>7</td></tr></table><p>Which claim is best supported?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Year&lt;/th&gt;&lt;th&gt;Invasive Plant Cover&lt;/th&gt;&lt;th&gt;Native Plant Species&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;70%&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which claim is best supported?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -117,25 +171,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Native plant diversity increased.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Invasive species had no possible relationship to biodiversity.</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The table shows only animal migration.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Native plant diversity increased.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[As invasive plant cover increased, native plant diversity decreased.]]></text>
-      <feedback format="html"><text><![CDATA[The data show invasive cover rising while native species count falls. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Invasive species had no possible relationship to biodiversity.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The table shows only animal migration.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>As invasive plant cover increased, native plant diversity decreased.</text>
+      <feedback format="html">
+        <text>The data show invasive cover rising while native species count falls. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q06</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q06</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Resource</th><th>Renewable?</th><th>Benefit</th><th>Cost</th></tr><tr><td>Solar</td><td>Yes</td><td>Low emissions during use</td><td>Land/material needs</td></tr><tr><td>Coal</td><td>No</td><td>Reliable energy output</td><td>High emissions</td></tr></table><p>What is the best cost-benefit conclusion?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Resource&lt;/th&gt;&lt;th&gt;Renewable?&lt;/th&gt;&lt;th&gt;Benefit&lt;/th&gt;&lt;th&gt;Cost&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solar&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;td&gt;Low emissions during use&lt;/td&gt;&lt;td&gt;Land/material needs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coal&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;td&gt;Reliable energy output&lt;/td&gt;&lt;td&gt;High emissions&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the best cost-benefit conclusion?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -143,25 +209,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Both resources have benefits and costs that must be compared with evidence.]]></text>
-      <feedback format="html"><text><![CDATA[Sustainability decisions require balanced evidence about benefits and costs. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Both resources have benefits and costs that must be compared with evidence.</text>
+      <feedback format="html">
+        <text>Sustainability decisions require balanced evidence about benefits and costs. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Renewable resources never have costs.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Coal has no environmental impact.</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Coal has no environmental impact.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Cost-benefit analysis ignores data.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Cost-benefit analysis ignores data.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Renewable resources never have costs.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q07</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q07</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Month</th><th>Dissolved Oxygen</th><th>Fish Stress Reports</th></tr><tr><td>May</td><td>7 mg/L</td><td>Low</td></tr><tr><td>August</td><td>3 mg/L</td><td>High</td></tr></table><p>What policy goal is best supported?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Month&lt;/th&gt;&lt;th&gt;Dissolved Oxygen&lt;/th&gt;&lt;th&gt;Fish Stress Reports&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;May&lt;/td&gt;&lt;td&gt;7 mg/L&lt;/td&gt;&lt;td&gt;Low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;August&lt;/td&gt;&lt;td&gt;3 mg/L&lt;/td&gt;&lt;td&gt;High&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What policy goal is best supported?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -169,25 +247,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Stop collecting water data.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Stop collecting water data.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Assume oxygen has no effect on fish.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Make policy without identifying the problem.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Assume oxygen has no effect on fish.</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Investigate and reduce causes of low dissolved oxygen in late summer.]]></text>
-      <feedback format="html"><text><![CDATA[Monitoring data show low oxygen associated with fish stress, supporting further investigation and action. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Investigate and reduce causes of low dissolved oxygen in late summer.</text>
+      <feedback format="html">
+        <text>Monitoring data show low oxygen associated with fish stress, supporting further investigation and action. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Make policy without identifying the problem.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q08</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q08</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Use the embedded Unit 6 ecology stimulus exactly as written.</p><table border="1" cellpadding="6"><tr><th>Evidence</th><th>Ecology Connection</th></tr><tr><td>Low oxygen aquatic data</td><td>Distribution of fish</td></tr><tr><td>Population graph levels off</td><td>Carrying capacity</td></tr></table><p>Which synthesis statement is best?</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 6 ecology stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Ecology Connection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Low oxygen aquatic data&lt;/td&gt;&lt;td&gt;Distribution of fish&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph levels off&lt;/td&gt;&lt;td&gt;Carrying capacity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which synthesis statement is best?&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -195,51 +285,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Aquatic data and population graphs are unrelated to ecology.]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Carrying capacity means unlimited growth.]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Fish distribution cannot be affected by oxygen.</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Abiotic conditions and population limits both help explain ecosystem patterns.]]></text>
-      <feedback format="html"><text><![CDATA[Unit 6 synthesis connects abiotic conditions and population patterns. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Abiotic conditions and population limits both help explain ecosystem patterns.</text>
+      <feedback format="html">
+        <text>Unit 6 synthesis connects abiotic conditions and population patterns. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Fish distribution cannot be affected by oxygen.]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Aquatic data and population graphs are unrelated to ecology.</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Carrying capacity means unlimited growth.</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q09</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q09</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><table border="1" cellpadding="6"><tr><th>Site</th><th>Salinity</th><th>Organism Count</th></tr><tr><td>River mouth</td><td>Low</td><td>High freshwater insect larvae</td></tr><tr><td>Estuary middle</td><td>Variable</td><td>High tolerant fish</td></tr><tr><td>Open ocean</td><td>High</td><td>High marine plankton</td></tr></table><p>What conclusion is best supported by the data? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Different organisms are distributed according to salinity tolerance.]]></text>
-      <feedback format="html"><text><![CDATA[The organism counts change across salinity conditions, supporting salinity tolerance as a factor. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Salinity has no relationship to aquatic distribution. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All organisms in the table prefer the same salinity. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only temperature can affect aquatic life. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q10</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q10</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><table border="1" cellpadding="6"><tr><th>Surface</th><th>First Colonizers</th><th>Soil at Start</th></tr><tr><td>New lava rock</td><td>Lichens and mosses</td><td>No</td></tr></table><p>Why is this primary succession? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;Salinity&lt;/th&gt;&lt;th&gt;Organism Count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;River mouth&lt;/td&gt;&lt;td&gt;Low&lt;/td&gt;&lt;td&gt;High freshwater insect larvae&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estuary middle&lt;/td&gt;&lt;td&gt;Variable&lt;/td&gt;&lt;td&gt;High tolerant fish&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Open ocean&lt;/td&gt;&lt;td&gt;High&lt;/td&gt;&lt;td&gt;High marine plankton&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What conclusion is best supported by the data? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -247,25 +323,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The sequence begins after a farm field is abandoned. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>All organisms in the table prefer the same salinity. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only temperature can affect aquatic life. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Salinity has no relationship to aquatic distribution. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The sequence begins on a surface without soil.]]></text>
-      <feedback format="html"><text><![CDATA[Primary succession begins where soil is absent, such as new rock. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Soil remains from the previous forest. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Primary succession requires a mature forest at the start. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Different organisms are distributed according to salinity tolerance.</text>
+      <feedback format="html">
+        <text>The organism counts change across salinity conditions, supporting salinity tolerance as a factor. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q11</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q11</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><table border="1" cellpadding="6"><tr><th>Year</th><th>Population Size</th></tr><tr><td>1</td><td>100</td></tr><tr><td>2</td><td>260</td></tr><tr><td>3</td><td>420</td></tr><tr><td>4</td><td>495</td></tr><tr><td>5</td><td>505</td></tr></table><p>What does the leveling near 500 most likely represent? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Surface&lt;/th&gt;&lt;th&gt;First Colonizers&lt;/th&gt;&lt;th&gt;Soil at Start&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;New lava rock&lt;/td&gt;&lt;td&gt;Lichens and mosses&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is this primary succession? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -273,25 +361,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Emigration only (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A food web (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Primary succession (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The sequence begins after a farm field is abandoned. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Carrying capacity]]></text>
-      <feedback format="html"><text><![CDATA[A population leveling around a stable value often indicates carrying capacity. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The sequence begins on a surface without soil.</text>
+      <feedback format="html">
+        <text>Primary succession begins where soil is absent, such as new rock. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Soil remains from the previous forest. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Primary succession requires a mature forest at the start. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q12</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q12</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.05</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><table border="1" cellpadding="6"><tr><th>Trophic Level</th><th>Energy Available</th></tr><tr><td>Producers</td><td>10,000 units</td></tr><tr><td>Primary consumers</td><td>1,000 units</td></tr><tr><td>Secondary consumers</td><td>100 units</td></tr></table><p>What pattern is shown? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Year&lt;/th&gt;&lt;th&gt;Population Size&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;260&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;420&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;495&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;505&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the leveling near 500 most likely represent? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -299,51 +399,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Energy increases at every transfer. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Emigration only (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Secondary consumers have the most energy. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A food web (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Available energy decreases at higher trophic levels.]]></text>
-      <feedback format="html"><text><![CDATA[Energy is reduced at each trophic transfer, so higher levels have less available energy. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Carrying capacity</text>
+      <feedback format="html">
+        <text>A population leveling around a stable value often indicates carrying capacity. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Energy pyramids do not use trophic levels. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Primary succession (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q13</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q13</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Event:</strong> A hurricane destroys nesting trees on an island. Bird nesting success drops the following season.</div><p>Which cause of biodiversity loss is shown? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Increased habitat availability (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Catastrophic event causing habitat loss]]></text>
-      <feedback format="html"><text><![CDATA[A hurricane is a catastrophic event, and nesting habitat loss can reduce reproduction. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[No ecosystem disturbance (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Food web energy gain (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q14</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q14</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><table border="1" cellpadding="6"><tr><th>Action</th><th>Electricity Use Before</th><th>Electricity Use After</th></tr><tr><td>Efficiency upgrade</td><td>500 kWh/month</td><td>400 kWh/month</td></tr></table><p>What sustainability impact is supported? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Trophic Level&lt;/th&gt;&lt;th&gt;Energy Available&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Producers&lt;/td&gt;&lt;td&gt;10,000 units&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Primary consumers&lt;/td&gt;&lt;td&gt;1,000 units&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Secondary consumers&lt;/td&gt;&lt;td&gt;100 units&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What pattern is shown? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -351,25 +437,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[The action reduced electricity use by 100 kWh/month.]]></text>
-      <feedback format="html"><text><![CDATA[The data show a 100 kWh/month reduction, which can reduce resource demand. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Available energy decreases at higher trophic levels.</text>
+      <feedback format="html">
+        <text>Energy is reduced at each trophic transfer, so higher levels have less available energy. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The action increased electricity use. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Secondary consumers have the most energy. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The action proves all environmental impacts are gone. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Energy pyramids do not use trophic levels. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[No resource use changed. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Energy increases at every transfer. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q15</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q15</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><table border="1" cellpadding="6"><tr><th>Year</th><th>Wetland Cover</th></tr><tr><td>2000</td><td>80%</td></tr><tr><td>2026</td><td>45%</td></tr></table><p>Why is the 2000 value useful? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Event:&lt;/strong&gt; A hurricane destroys nesting trees on an island. Bird nesting success drops the following season.&lt;/div&gt;&lt;p&gt;Which cause of biodiversity loss is shown? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -377,51 +475,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[It proves no change occurred. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Increased habitat availability (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It replaces all future monitoring. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>No ecosystem disturbance (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[It provides a baseline for measuring change.]]></text>
-      <feedback format="html"><text><![CDATA[A baseline allows comparison with later data to measure change. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Catastrophic event causing habitat loss</text>
+      <feedback format="html">
+        <text>A hurricane is a catastrophic event, and nesting habitat loss can reduce reproduction. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[It is unrelated to policy decisions. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Food web energy gain (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q16</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q16</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Mixed stimulus:</strong> grass -> rabbit -> hawk. Drought reduces grass growth. Rabbit population falls.</div><p>Which connection is best supported? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Drought increases grass and rabbits in the stimulus. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Food webs do not include populations. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Hawks are producers. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[A limiting factor can affect a population and then change a food web.]]></text>
-      <feedback format="html"><text><![CDATA[The drought limits grass, rabbit numbers fall, and food-web relationships can be affected. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q17</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q17</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Location</th><th>Water Temperature</th><th>Dissolved Oxygen</th><th>Fish Count</th></tr><tr><td>A</td><td>18 C</td><td>8 mg/L</td><td>42</td></tr><tr><td>B</td><td>31 C</td><td>3 mg/L</td><td>8</td></tr></table><p>Which evidence best explains the lower fish count at Location B? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Action&lt;/th&gt;&lt;th&gt;Electricity Use Before&lt;/th&gt;&lt;th&gt;Electricity Use After&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Efficiency upgrade&lt;/td&gt;&lt;td&gt;500 kWh/month&lt;/td&gt;&lt;td&gt;400 kWh/month&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What sustainability impact is supported? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -429,25 +513,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Low dissolved oxygen may limit fish survival.]]></text>
-      <feedback format="html"><text><![CDATA[Many fish need adequate dissolved oxygen; low oxygen can restrict distribution. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The action reduced electricity use by 100 kWh/month.</text>
+      <feedback format="html">
+        <text>The data show a 100 kWh/month reduction, which can reduce resource demand. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Higher temperature always increases dissolved oxygen. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The action increased electricity use. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Fish counts are unrelated to water chemistry. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The action proves all environmental impacts are gone. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Location A has fewer fish than Location B. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>No resource use changed. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q18</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q18</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Month</th><th>Pond Algae Level</th></tr><tr><td>January</td><td>Low</td></tr><tr><td>July</td><td>High</td></tr><tr><td>Next January</td><td>Low</td></tr></table><p>Which explanation best fits this repeating pattern? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Year&lt;/th&gt;&lt;th&gt;Wetland Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2000&lt;/td&gt;&lt;td&gt;80%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2026&lt;/td&gt;&lt;td&gt;45%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is the 2000 value useful? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -455,25 +551,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A permanent climate trend is proven by one year. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It replaces all future monitoring. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It is unrelated to policy decisions. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It proves no change occurred. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Seasonal variation]]></text>
-      <feedback format="html"><text><![CDATA[A repeating annual pattern is evidence for seasonal variation. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Primary succession on bare rock (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[No environmental condition changed. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>It provides a baseline for measuring change.</text>
+      <feedback format="html">
+        <text>A baseline allows comparison with later data to measure change. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q19</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q19</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Scenario:</strong> A drought reduces plant growth. The rabbit population decreases during the same period.</div><p>Which limiting factor is most directly shown? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Mixed stimulus:&lt;/strong&gt; grass -&gt; rabbit -&gt; hawk. Drought reduces grass growth. Rabbit population falls.&lt;/div&gt;&lt;p&gt;Which connection is best supported? Focus on evidence from the map, graph, data table, food web, energy pyramid, resource table, or monitoring display.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -481,25 +589,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Unlimited space (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Increased producer biomass (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Hawks are producers. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Food availability]]></text>
-      <feedback format="html"><text><![CDATA[Reduced plant growth can reduce food for rabbits, limiting population size. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>A limiting factor can affect a population and then change a food web.</text>
+      <feedback format="html">
+        <text>The drought limits grass, rabbit numbers fall, and food-web relationships can be affected. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[No abiotic effect (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Drought increases grass and rabbits in the stimulus. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Food webs do not include populations. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q20</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q20</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Organism</th><th>Food Source</th></tr><tr><td>Algae</td><td>Makes food using light</td></tr><tr><td>Snail</td><td>Eats algae</td></tr><tr><td>Fish</td><td>Eats snails</td></tr></table><p>Which organism is the producer? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Location&lt;/th&gt;&lt;th&gt;Water Temperature&lt;/th&gt;&lt;th&gt;Dissolved Oxygen&lt;/th&gt;&lt;th&gt;Fish Count&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;18 C&lt;/td&gt;&lt;td&gt;8 mg/L&lt;/td&gt;&lt;td&gt;42&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;31 C&lt;/td&gt;&lt;td&gt;3 mg/L&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence best explains the lower fish count at Location B? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -507,25 +627,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Algae]]></text>
-      <feedback format="html"><text><![CDATA[A producer makes food, usually by photosynthesis; the algae fits that role. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Low dissolved oxygen may limit fish survival.</text>
+      <feedback format="html">
+        <text>Many fish need adequate dissolved oxygen; low oxygen can restrict distribution. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Snail (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Higher temperature always increases dissolved oxygen. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Fish (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Fish counts are unrelated to water chemistry. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[All three are decomposers (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Location A has fewer fish than Location B. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q21</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q21</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Habitat Condition</th><th>Species Richness</th></tr><tr><td>Connected forest</td><td>42 species</td></tr><tr><td>Fragmented forest</td><td>19 species</td></tr></table><p>What effect is best supported? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Month&lt;/th&gt;&lt;th&gt;Pond Algae Level&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;January&lt;/td&gt;&lt;td&gt;Low&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;July&lt;/td&gt;&lt;td&gt;High&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Next January&lt;/td&gt;&lt;td&gt;Low&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which explanation best fits this repeating pattern? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -533,25 +665,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Fragmentation increased species richness. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A permanent climate trend is proven by one year. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Species richness stayed the same. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Habitat condition cannot be measured. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Primary succession on bare rock (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Habitat fragmentation is associated with lower species richness.]]></text>
-      <feedback format="html"><text><![CDATA[The fragmented forest has fewer species in the data table. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Seasonal variation</text>
+      <feedback format="html">
+        <text>A repeating annual pattern is evidence for seasonal variation. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No environmental condition changed. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q22</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q22</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Choice</th><th>Short-Term Benefit</th><th>Long-Term Concern</th></tr><tr><td>Convert wetland to development</td><td>More housing</td><td>Reduced habitat and flood buffering</td></tr></table><p>Which issue must be included in a sustainability analysis? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Scenario:&lt;/strong&gt; A drought reduces plant growth. The rabbit population decreases during the same period.&lt;/div&gt;&lt;p&gt;Which limiting factor is most directly shown? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -559,25 +703,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Only the short-term benefit (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Increased producer biomass (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No abiotic effect (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Unlimited space (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The tradeoff between human benefit and ecosystem cost]]></text>
-      <feedback format="html"><text><![CDATA[Sustainability weighs benefits, costs, and long-term ecosystem effects. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only personal preference (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[No environmental evidence (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Food availability</text>
+      <feedback format="html">
+        <text>Reduced plant growth can reduce food for rabbits, limiting population size. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q23</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q23</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Claim</th><th>Data Available</th></tr><tr><td>Pollution is increasing</td><td>One water sample from one day</td></tr></table><p>What additional evidence is most needed? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Organism&lt;/th&gt;&lt;th&gt;Food Source&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Algae&lt;/td&gt;&lt;td&gt;Makes food using light&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Snail&lt;/td&gt;&lt;td&gt;Eats algae&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fish&lt;/td&gt;&lt;td&gt;Eats snails&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which organism is the producer? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -585,25 +741,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[A single opinion survey only (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[No additional data (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>All three are decomposers (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Repeated measurements over time]]></text>
-      <feedback format="html"><text><![CDATA[An increasing trend requires repeated measurements across time. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Algae</text>
+      <feedback format="html">
+        <text>A producer makes food, usually by photosynthesis; the algae fits that role. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[A food web with no pollution data (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Snail (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Fish (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q24</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q24</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Connect the evidence to the mapped Biology ecology standard.</p><table border="1" cellpadding="6"><tr><th>Data Pattern</th><th>Decision Need</th></tr><tr><td>Invasive species increases while native richness decreases</td><td>Management plan</td></tr><tr><td>Wetland cover decreases</td><td>Land-use review</td></tr></table><p>What do both rows show? Connect the evidence to the mapped Biology ecology standard.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Habitat Condition&lt;/th&gt;&lt;th&gt;Species Richness&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Connected forest&lt;/td&gt;&lt;td&gt;42 species&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fragmented forest&lt;/td&gt;&lt;td&gt;19 species&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What effect is best supported? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -611,25 +779,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Environmental decisions should be based on monitoring and biodiversity evidence.]]></text>
-      <feedback format="html"><text><![CDATA[Monitoring and biodiversity data can support environmental management decisions. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Habitat fragmentation is associated with lower species richness.</text>
+      <feedback format="html">
+        <text>The fragmented forest has fewer species in the data table. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Policy should ignore ecosystem data. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Species richness stayed the same. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Only food-web arrows can support decisions. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Habitat condition cannot be measured. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Biodiversity data cannot guide management. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Fragmentation increased species richness. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q25</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q25</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Aquatic map description:</strong> Site 1 is a sunny shallow wetland. Site 2 is a shaded deep channel. Site 3 is a brackish estuary.</div><p>Where would photosynthetic aquatic plants most likely be most abundant? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Choice&lt;/th&gt;&lt;th&gt;Short-Term Benefit&lt;/th&gt;&lt;th&gt;Long-Term Concern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Convert wetland to development&lt;/td&gt;&lt;td&gt;More housing&lt;/td&gt;&lt;td&gt;Reduced habitat and flood buffering&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which issue must be included in a sustainability analysis? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -637,25 +817,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Site 2, because deep shaded water has the most light. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Site 3, because brackish water always has the most plants. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All three sites must have identical plant abundance. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>No environmental evidence (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Site 1, because it is shallow and sunny.]]></text>
-      <feedback format="html"><text><![CDATA[Shallow sunny water provides stronger light availability for photosynthesis. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>The tradeoff between human benefit and ecosystem cost</text>
+      <feedback format="html">
+        <text>Sustainability weighs benefits, costs, and long-term ecosystem effects. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only the short-term benefit (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only personal preference (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q26</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q26</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><table border="1" cellpadding="6"><tr><th>Decade</th><th>Average Temperature</th><th>Species Range</th></tr><tr><td>1980s</td><td>22 C</td><td>Southern area</td></tr><tr><td>2020s</td><td>25 C</td><td>Southern and central areas</td></tr></table><p>What type of evidence is shown? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;/th&gt;&lt;th&gt;Data Available&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pollution is increasing&lt;/td&gt;&lt;td&gt;One water sample from one day&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What additional evidence is most needed? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -663,51 +855,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[One-day weather only (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A single opinion survey only (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No additional data (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Long-term climate-related ecosystem change]]></text>
-      <feedback format="html"><text><![CDATA[Multi-decade temperature and range data can support climate-related ecosystem change. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Repeated measurements over time</text>
+      <feedback format="html">
+        <text>An increasing trend requires repeated measurements across time. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[A food web arrow direction (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[No change in species distribution (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A food web with no pollution data (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q27</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q27</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><table border="1" cellpadding="6"><tr><th>Condition</th><th>Population Effect</th></tr><tr><td>Predator population increases</td><td>Prey deaths increase</td></tr><tr><td>Disease spreads</td><td>Survival decreases</td></tr></table><p>What do these conditions have in common? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[They can act as limiting factors.]]></text>
-      <feedback format="html"><text><![CDATA[Predation and disease can restrict population growth. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They always increase prey population size. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They are producers. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They remove carrying capacity from ecosystems. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q28</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q28</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.05</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Food web change:</strong> A disease reduces rabbit populations. Coyotes eat rabbits as a major food source. Grasses are eaten by rabbits.</div><p>Which prediction is most reasonable? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Data Pattern&lt;/th&gt;&lt;th&gt;Decision Need&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Invasive species increases while native richness decreases&lt;/td&gt;&lt;td&gt;Management plan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wetland cover decreases&lt;/td&gt;&lt;td&gt;Land-use review&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What do both rows show? Connect the evidence to the mapped Biology ecology standard.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -715,103 +893,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Coyotes must increase because rabbits decrease. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Only food-web arrows can support decisions. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Grasses must decrease because fewer rabbits eat them. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Biodiversity data cannot guide management. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Policy should ignore ecosystem data. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Coyotes may decrease and grasses may increase.]]></text>
-      <feedback format="html"><text><![CDATA[Fewer rabbits can reduce food for coyotes and reduce grazing pressure on grasses. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The food web cannot change. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Environmental decisions should be based on monitoring and biodiversity evidence.</text>
+      <feedback format="html">
+        <text>Monitoring and biodiversity data can support environmental management decisions. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q29</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q29</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><table border="1" cellpadding="6"><tr><th>Climate Trend</th><th>Species Response</th></tr><tr><td>Warmer average temperatures</td><td>Cold-water species decline</td></tr><tr><td>Longer warm season</td><td>Warm-tolerant species expand</td></tr></table><p>Which conclusion is most careful? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Climate never affects species distribution. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Every species responds in the same way. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The data prove no biodiversity change. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Long-term climate shifts can change biodiversity patterns.]]></text>
-      <feedback format="html"><text><![CDATA[The table connects long-term temperature patterns to species responses. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q30</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q30</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><table border="1" cellpadding="6"><tr><th>Resource</th><th>Formation Time</th><th>Use Rate</th></tr><tr><td>Fossil fuel</td><td>Millions of years</td><td>Used rapidly</td></tr><tr><td>Wind</td><td>Continuously available</td><td>Used without consuming wind</td></tr></table><p>Which resource is nonrenewable on a human time scale? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Wind (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Fossil fuel]]></text>
-      <feedback format="html"><text><![CDATA[Fossil fuels form over millions of years and are used faster than they are replaced. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Sunlight (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Both are equally renewable (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q31</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q31</p><p><strong>MLA Standard:</strong> MLA.BIO.SCI.02</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><table border="1" cellpadding="6"><tr><th>Monitoring Indicator</th><th>Policy Use</th></tr><tr><td>Nitrate level</td><td>Manage runoff</td></tr><tr><td>Turbidity</td><td>Track sediment</td></tr><tr><td>Species count</td><td>Track biodiversity</td></tr></table><p>What does the table show? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text><![CDATA[One indicator answers every environmental question. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Monitoring data cannot support policy. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[Different indicators answer different policy questions.]]></text>
-      <feedback format="html"><text><![CDATA[Policy decisions need indicators matched to the environmental problem. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only species counts matter. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q32</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q32</p><p><strong>MLA Standard:</strong> MLA.BIO.ENE.05</p><p><strong>Assessment focus:</strong> Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p><table border="1" cellpadding="6"><tr><th>Resource Choice</th><th>Benefit</th><th>Cost</th></tr><tr><td>Solar field</td><td>Lower emissions</td><td>Habitat conversion</td></tr><tr><td>Fossil fuel plant</td><td>Reliable output</td><td>Higher emissions</td></tr></table><p>Which response shows sustainability reasoning? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Aquatic map description:&lt;/strong&gt; Site 1 is a sunny shallow wetland. Site 2 is a shaded deep channel. Site 3 is a brackish estuary.&lt;/div&gt;&lt;p&gt;Where would photosynthetic aquatic plants most likely be most abundant? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -819,25 +931,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="100" format="html">
-      <text><![CDATA[Compare benefits and costs, then recommend a choice with mitigation for impacts.]]></text>
-      <feedback format="html"><text><![CDATA[Sustainability reasoning requires evidence-based cost-benefit comparison and mitigation. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Site 1, because it is shallow and sunny.</text>
+      <feedback format="html">
+        <text>Shallow sunny water provides stronger light availability for photosynthesis. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Choose without evidence. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Site 3, because brackish water always has the most plants. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Ignore all costs if one benefit exists. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>All three sites must have identical plant abundance. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Assume every resource is impact-free. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Site 2, because deep shaded water has the most light. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q33</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q33</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Abiotic Factor</th><th>Possible Distribution Effect</th></tr><tr><td>Light</td><td>Producer location</td></tr><tr><td>Salinity</td><td>Freshwater/marine tolerance</td></tr><tr><td>Dissolved oxygen</td><td>Animal survival</td></tr><tr><td>Temperature</td><td>Metabolism and oxygen availability</td></tr></table><p>What is the best general rule for aquatic distribution? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q26</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Decade&lt;/th&gt;&lt;th&gt;Average Temperature&lt;/th&gt;&lt;th&gt;Species Range&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1980s&lt;/td&gt;&lt;td&gt;22 C&lt;/td&gt;&lt;td&gt;Southern area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2020s&lt;/td&gt;&lt;td&gt;25 C&lt;/td&gt;&lt;td&gt;Southern and central areas&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What type of evidence is shown? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -845,25 +969,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Only biotic factors ever affect aquatic distribution. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>A food web arrow direction (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No change in species distribution (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>One-day weather only (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Organism distribution depends on specific abiotic conditions in the water.]]></text>
-      <feedback format="html"><text><![CDATA[Aquatic distribution is tied to abiotic data such as light, salinity, oxygen, and temperature. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[All aquatic organisms need identical abiotic conditions. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Aquatic distribution can be explained without data. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Long-term climate-related ecosystem change</text>
+      <feedback format="html">
+        <text>Multi-decade temperature and range data can support climate-related ecosystem change. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q34</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q34</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Evidence</th><th>Best Classification</th></tr><tr><td>Soil remains after disturbance</td><td>Secondary succession</td></tr><tr><td>No soil at start</td><td>Primary succession</td></tr><tr><td>Repeats each year</td><td>Seasonal variation</td></tr></table><p>What should students use to identify the type of ecosystem change? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q27</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Population Effect&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Predator population increases&lt;/td&gt;&lt;td&gt;Prey deaths increase&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Disease spreads&lt;/td&gt;&lt;td&gt;Survival decreases&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What do these conditions have in common? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -871,25 +1007,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[The longest answer choice (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only the name of one organism (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A personal opinion about the ecosystem (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>They remove carrying capacity from ecosystems. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Starting conditions, time scale, and evidence pattern]]></text>
-      <feedback format="html"><text><![CDATA[Ecosystem change classification depends on starting conditions, time scale, and evidence. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>They can act as limiting factors.</text>
+      <feedback format="html">
+        <text>Predation and disease can restrict population growth. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They always increase prey population size. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They are producers. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q35</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q35</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Graph Pattern</th><th>Best Interpretation</th></tr><tr><td>Population rises rapidly, overshoots, then falls and stabilizes</td><td>?</td></tr></table><p>Which interpretation best completes the table? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q28</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Food web change:&lt;/strong&gt; A disease reduces rabbit populations. Coyotes eat rabbits as a major food source. Grasses are eaten by rabbits.&lt;/div&gt;&lt;p&gt;Which prediction is most reasonable? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -897,51 +1045,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Resources were unlimited forever. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Coyotes must increase because rabbits decrease. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[No limiting factors were present. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Grasses must decrease because fewer rabbits eat them. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[The population exceeded resources and then moved back near carrying capacity.]]></text>
-      <feedback format="html"><text><![CDATA[Overshoot and decline can happen when a population exceeds available resources. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Coyotes may decrease and grasses may increase.</text>
+      <feedback format="html">
+        <text>Fewer rabbits can reduce food for coyotes and reduce grazing pressure on grasses. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[The population could not change. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The food web cannot change. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q36</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q36</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.02</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Role</th><th>Function</th></tr><tr><td>Producer</td><td>Captures energy</td></tr><tr><td>Consumer</td><td>Eats other organisms</td></tr><tr><td>Decomposer</td><td>Breaks down dead matter</td></tr></table><p>Why are decomposers important? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[They recycle matter from dead organisms.]]></text>
-      <feedback format="html"><text><![CDATA[Decomposers break down dead material and return matter to ecosystems. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They create all sunlight. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They stop energy from decreasing. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[They are always top predators. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q37</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q37</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Evidence Needed</th><th>Reason</th></tr><tr><td>Before-and-after species counts</td><td>Shows biodiversity change</td></tr><tr><td>Invasive abundance</td><td>Shows possible pressure</td></tr><tr><td>Habitat condition</td><td>Shows ecosystem context</td></tr></table><p>Why should claims about biodiversity loss use multiple data types? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q29</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Climate Trend&lt;/th&gt;&lt;th&gt;Species Response&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Warmer average temperatures&lt;/td&gt;&lt;td&gt;Cold-water species decline&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Longer warm season&lt;/td&gt;&lt;td&gt;Warm-tolerant species expand&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which conclusion is most careful? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -949,25 +1083,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Extra data always makes reasoning unnecessary. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Biodiversity claims should rely only on opinion. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[One organism name proves every ecosystem effect. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>The data prove no biodiversity change. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Multiple data types help support the cause, effect, and limits of the claim.]]></text>
-      <feedback format="html"><text><![CDATA[Biodiversity claims are stronger when cause, effect, and context are supported by evidence. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Long-term climate shifts can change biodiversity patterns.</text>
+      <feedback format="html">
+        <text>The table connects long-term temperature patterns to species responses. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Climate never affects species distribution. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Every species responds in the same way. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q38</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q38</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Recommendation</th><th>Evidence Required</th></tr><tr><td>Reduce single-use plastic</td><td>Waste data, wildlife impact, cost, alternatives</td></tr></table><p>Why is evidence required before making the recommendation? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q30</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Resource&lt;/th&gt;&lt;th&gt;Formation Time&lt;/th&gt;&lt;th&gt;Use Rate&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil fuel&lt;/td&gt;&lt;td&gt;Millions of years&lt;/td&gt;&lt;td&gt;Used rapidly&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wind&lt;/td&gt;&lt;td&gt;Continuously available&lt;/td&gt;&lt;td&gt;Used without consuming wind&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which resource is nonrenewable on a human time scale? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -975,51 +1121,37 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Evidence makes environmental decisions less accurate. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Wind (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Sunlight (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Evidence supports the claim and helps compare costs, benefits, and limits.]]></text>
-      <feedback format="html"><text><![CDATA[Evidence-based recommendations are stronger because they compare impacts and tradeoffs. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Fossil fuel</text>
+      <feedback format="html">
+        <text>Fossil fuels form over millions of years and are used faster than they are replaced. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Recommendations should be made before data are reviewed. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[Only one opinion is needed for sustainability decisions. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Both are equally renewable (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
   <question type="multichoice">
-    <name><text>BIO_U06_UA_Q39</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q39</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.03</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><div style="border:1px solid #94a3b8;padding:8px;"><strong>Policy case:</strong> A city wants to restrict fertilizer use near a river. Available data show high nitrate levels after rain and algae blooms downstream.</div><p>Which evidence best supports the restriction? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>true</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text><![CDATA[High nitrate after rain and downstream algae blooms]]></text>
-      <feedback format="html"><text><![CDATA[The nitrate and algae data connect fertilizer runoff to a water-quality problem. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[The name of the river only (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A claim with no monitoring data (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text><![CDATA[A temperature reading from a different ecosystem (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name><text>BIO_U06_UA_Q40</text></name>
-    <questiontext format="html"><text><![CDATA[<p><strong>Question ID:</strong> BIO_U06_UA_Q40</p><p><strong>MLA Standard:</strong> MLA.BIO.ECO.01</p><p><strong>Assessment focus:</strong> Explain the ecology concept without overclaiming beyond the stimulus.</p><table border="1" cellpadding="6"><tr><th>Evidence Tool</th><th>Best Use</th></tr><tr><td>Aquatic map</td><td>Organism distribution</td></tr><tr><td>Population graph</td><td>Carrying capacity</td></tr><tr><td>Food web</td><td>Energy transfer</td></tr><tr><td>Monitoring table</td><td>Policy decision</td></tr></table><p>What is the best strategy for a mixed Unit 6 question? Explain the ecology concept without overclaiming beyond the stimulus.</p>]]></text></questiontext>
+    <name>
+      <text>BIO_U06_UA_Q31</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Monitoring Indicator&lt;/th&gt;&lt;th&gt;Policy Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nitrate level&lt;/td&gt;&lt;td&gt;Manage runoff&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Turbidity&lt;/td&gt;&lt;td&gt;Track sediment&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Species count&lt;/td&gt;&lt;td&gt;Track biodiversity&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the table show? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1027,20 +1159,370 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
     <answer fraction="0" format="html">
-      <text><![CDATA[Use the same evidence tool for every ecology question. (This ignores the embedded evidence.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Monitoring data cannot support policy. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Ignore the embedded data and guess. (This confuses a Unit 6 ecology concept.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Only species counts matter. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>One indicator answers every environmental question. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
     <answer fraction="100" format="html">
-      <text><![CDATA[Match the claim to the evidence tool that directly supports it.]]></text>
-      <feedback format="html"><text><![CDATA[The correct evidence tool depends on the ecological claim being assessed. This matches the mapped Unit 6 lesson content and uses the included stimulus.]]></text></feedback>
+      <text>Different indicators answer different policy questions.</text>
+      <feedback format="html">
+        <text>Policy decisions need indicators matched to the environmental problem. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q32</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q32&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Resource Choice&lt;/th&gt;&lt;th&gt;Benefit&lt;/th&gt;&lt;th&gt;Cost&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solar field&lt;/td&gt;&lt;td&gt;Lower emissions&lt;/td&gt;&lt;td&gt;Habitat conversion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil fuel plant&lt;/td&gt;&lt;td&gt;Reliable output&lt;/td&gt;&lt;td&gt;Higher emissions&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which response shows sustainability reasoning? Do not confuse aquatic conditions, succession, population limits, food-web energy, biodiversity, sustainability, and policy claims.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Compare benefits and costs, then recommend a choice with mitigation for impacts.</text>
+      <feedback format="html">
+        <text>Sustainability reasoning requires evidence-based cost-benefit comparison and mitigation. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
     </answer>
     <answer fraction="0" format="html">
-      <text><![CDATA[Choose the answer with the broadest unsupported claim. (This goes beyond the provided stimulus.)]]></text>
-      <feedback format="html"><text><![CDATA[This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.]]></text></feedback>
+      <text>Ignore all costs if one benefit exists. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Assume every resource is impact-free. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Choose without evidence. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q33</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Abiotic Factor&lt;/th&gt;&lt;th&gt;Possible Distribution Effect&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Light&lt;/td&gt;&lt;td&gt;Producer location&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Salinity&lt;/td&gt;&lt;td&gt;Freshwater/marine tolerance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dissolved oxygen&lt;/td&gt;&lt;td&gt;Animal survival&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Temperature&lt;/td&gt;&lt;td&gt;Metabolism and oxygen availability&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the best general rule for aquatic distribution? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>All aquatic organisms need identical abiotic conditions. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Aquatic distribution can be explained without data. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only biotic factors ever affect aquatic distribution. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Organism distribution depends on specific abiotic conditions in the water.</text>
+      <feedback format="html">
+        <text>Aquatic distribution is tied to abiotic data such as light, salinity, oxygen, and temperature. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q34</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q34&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Best Classification&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Soil remains after disturbance&lt;/td&gt;&lt;td&gt;Secondary succession&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;No soil at start&lt;/td&gt;&lt;td&gt;Primary succession&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Repeats each year&lt;/td&gt;&lt;td&gt;Seasonal variation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What should students use to identify the type of ecosystem change? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Starting conditions, time scale, and evidence pattern</text>
+      <feedback format="html">
+        <text>Ecosystem change classification depends on starting conditions, time scale, and evidence. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only the name of one organism (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A personal opinion about the ecosystem (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The longest answer choice (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q35</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q35&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Graph Pattern&lt;/th&gt;&lt;th&gt;Best Interpretation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population rises rapidly, overshoots, then falls and stabilizes&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which interpretation best completes the table? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Resources were unlimited forever. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The population exceeded resources and then moved back near carrying capacity.</text>
+      <feedback format="html">
+        <text>Overshoot and decline can happen when a population exceeds available resources. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>No limiting factors were present. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The population could not change. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q36</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q36&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Role&lt;/th&gt;&lt;th&gt;Function&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Producer&lt;/td&gt;&lt;td&gt;Captures energy&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Consumer&lt;/td&gt;&lt;td&gt;Eats other organisms&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Decomposer&lt;/td&gt;&lt;td&gt;Breaks down dead matter&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why are decomposers important? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>They create all sunlight. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They stop energy from decreasing. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>They recycle matter from dead organisms.</text>
+      <feedback format="html">
+        <text>Decomposers break down dead material and return matter to ecosystems. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>They are always top predators. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q37</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q37&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence Needed&lt;/th&gt;&lt;th&gt;Reason&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Before-and-after species counts&lt;/td&gt;&lt;td&gt;Shows biodiversity change&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Invasive abundance&lt;/td&gt;&lt;td&gt;Shows possible pressure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Habitat condition&lt;/td&gt;&lt;td&gt;Shows ecosystem context&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why should claims about biodiversity loss use multiple data types? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Biodiversity claims should rely only on opinion. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>One organism name proves every ecosystem effect. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Extra data always makes reasoning unnecessary. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Multiple data types help support the cause, effect, and limits of the claim.</text>
+      <feedback format="html">
+        <text>Biodiversity claims are stronger when cause, effect, and context are supported by evidence. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q38</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q38&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Recommendation&lt;/th&gt;&lt;th&gt;Evidence Required&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reduce single-use plastic&lt;/td&gt;&lt;td&gt;Waste data, wildlife impact, cost, alternatives&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is evidence required before making the recommendation? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Only one opinion is needed for sustainability decisions. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Evidence supports the claim and helps compare costs, benefits, and limits.</text>
+      <feedback format="html">
+        <text>Evidence-based recommendations are stronger because they compare impacts and tradeoffs. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Evidence makes environmental decisions less accurate. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Recommendations should be made before data are reviewed. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q39</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q39&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Policy case:&lt;/strong&gt; A city wants to restrict fertilizer use near a river. Available data show high nitrate levels after rain and algae blooms downstream.&lt;/div&gt;&lt;p&gt;Which evidence best supports the restriction? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>High nitrate after rain and downstream algae blooms</text>
+      <feedback format="html">
+        <text>The nitrate and algae data connect fertilizer runoff to a water-quality problem. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A claim with no monitoring data (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A temperature reading from a different ecosystem (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The name of the river only (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>BIO_U06_UA_Q40</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_UA_Q40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence Tool&lt;/th&gt;&lt;th&gt;Best Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aquatic map&lt;/td&gt;&lt;td&gt;Organism distribution&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Carrying capacity&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web&lt;/td&gt;&lt;td&gt;Energy transfer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring table&lt;/td&gt;&lt;td&gt;Policy decision&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the best strategy for a mixed Unit 6 question? Explain the ecology concept without overclaiming beyond the stimulus.&lt;/p&gt;</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Use the same evidence tool for every ecology question. (This ignores the embedded evidence.)</text>
+      <feedback format="html">
+        <text>This choice does not use the included stimulus. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ignore the embedded data and guess. (This confuses a Unit 6 ecology concept.)</text>
+      <feedback format="html">
+        <text>This choice confuses ecological evidence, mechanism, relationship, or decision reasoning. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Match the claim to the evidence tool that directly supports it.</text>
+      <feedback format="html">
+        <text>The correct evidence tool depends on the ecological claim being assessed. This matches the mapped Unit 6 lesson content and uses the included stimulus.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Choose the answer with the broadest unsupported claim. (This goes beyond the provided stimulus.)</text>
+      <feedback format="html">
+        <text>This choice overstates or misreads the evidence. Recheck the embedded map, graph, table, food web, model, or scenario and connect the answer to the lesson standard.</text>
+      </feedback>
     </answer>
   </question>
 </quiz>

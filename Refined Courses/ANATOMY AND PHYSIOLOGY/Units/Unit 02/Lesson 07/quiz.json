@@ -1,12 +1,20 @@
-﻿{
-    "course":  "Anatomy and Physiology",
-    "unit":  2,
-    "lesson":  7,
-    "title":  "Tissue and Integumentary System Integration",
-    "format":  "Moodle XML",
-    "guided_practice_questions":  5,
-    "lesson_quiz_bank_questions":  25,
-    "unit_assessment_only_for_lesson_8":  false,
-    "required_stimulus":  "Multi-tissue model set",
-    "standards":  "MLA.ANP.TIS.01; MLA.ANP.TIS.03"
+{
+  "course": "Anatomy and Physiology",
+  "unit": "Unit 02",
+  "lesson": "Lesson 07",
+  "lessonTitle": "Tissue and Integumentary System Integration",
+  "title": "Tissue and Integumentary System Integration Lesson Quiz",
+  "assessmentType": "Lesson Quiz",
+  "moodleXmlFile": "Moodle XML/ANP_U02_L07_Quiz_MoodleXML.xml",
+  "questionCount": 25,
+  "questionBankSize": 25,
+  "questionsPerAttempt": 25,
+  "masteryThreshold": 80,
+  "standards": [
+    "MLA.ANP.TIS.01",
+    "MLA.ANP.TIS.03",
+    "MLA.ANP.LAB.02"
+  ],
+  "guidedPracticeMoodleXmlFile": "Moodle XML/ANP_U02_L07_GuidedPractice_MoodleXML.xml",
+  "certificationBoundary": "Questions must remain aligned only to this lesson or unit mapped standards and embedded stimuli."
 }

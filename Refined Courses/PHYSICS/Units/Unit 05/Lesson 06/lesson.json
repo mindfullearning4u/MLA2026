@@ -40,7 +40,7 @@
     "approvedDirectResources": [
       {
         "name": "PhET: Faraday's Law",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/faradays-law",
+        "exactDirectUrl": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_all.html",
         "access": "Free public resource; verify availability before Moodle transfer."
       },
       {
@@ -50,5 +50,29 @@
       }
     ]
   },
-  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only."
+  "asynchronousBoundary": "Lesson pages provide instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
+  "title": "Electromagnetism in Devices",
+  "standards": [
+    "MLA.PHYS.ELE.04",
+    "MLA.PHYS.WAV.03"
+  ],
+  "primaryStandards": [
+    "MLA.PHYS.ELE.04",
+    "MLA.PHYS.WAV.03"
+  ],
+  "approvedDirectResources": [
+    {
+      "name": "PhET: Faraday's Law",
+      "exactDirectUrl": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_all.html",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    },
+    {
+      "name": "OpenStax: Electromagnetic Induction",
+      "exactDirectUrl": "https://openstax.org/books/college-physics-2e/pages/23-introduction-to-electromagnetic-induction-ac-circuits-and-electrical-technologies",
+      "access": "Free public resource; verify availability before Moodle transfer."
+    }
+  ],
+  "assessmentFormat": "Moodle XML",
+  "guidedPractice": "Moodle XML/PHYS_U05_L06_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": "Moodle XML/PHYS_U05_L06_Quiz_MoodleXML.xml"
 }
