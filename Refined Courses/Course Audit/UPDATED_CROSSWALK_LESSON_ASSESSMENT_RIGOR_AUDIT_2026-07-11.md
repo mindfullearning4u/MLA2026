@@ -10,10 +10,12 @@ Date: 2026-07-11
 - PERSONAL FINANCIAL LITERACY AND ECONOMICS
 - PSYCHOLOGY
 - SOCIOLOGY
+- GLOBAL PERSPECTIVES
 
 ## Audit Standard
 
 - Crosswalk must retain Florida, CPALMS, Common Core, ACT, and SAT provenance plus official CPALMS verification addendum.
+- MLA-created electives without a single official CPALMS course record must retain a documented source limitation note and must still preserve Florida/CPALMS/Common Core/ACT/SAT source provenance.
 - Every lesson page must trace to the current lesson mapping and use step-by-step independent-student instructional rigor.
 - Lessons must include Teacher of Record support language without implying a live teacher is teaching the course.
 - Science lessons must include exact direct lab/simulation/resource links and step-by-step student directions.
@@ -31,6 +33,7 @@ Date: 2026-07-11
 | PERSONAL FINANCIAL LITERACY AND ECONOMICS | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | PSYCHOLOGY | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | SOCIOLOGY | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
+| GLOBAL PERSPECTIVES | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 
 Overall Decision: PASS
 Total Warnings: 0
@@ -56,5 +59,9 @@ PASS: No blockers found against the updated crosswalk lesson and assessment rigo
 PASS: No blockers found against the updated crosswalk lesson and assessment rigor audit.
 
 ## SOCIOLOGY
+
+PASS: No blockers found against the updated crosswalk lesson and assessment rigor audit.
+
+## GLOBAL PERSPECTIVES
 
 PASS: No blockers found against the updated crosswalk lesson and assessment rigor audit.

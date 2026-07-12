@@ -47,6 +47,14 @@ const courses = [
     mappingFiles: ["PHASE_3B_LESSON_MAPPING.md", "PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md", "PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md"],
     supportFiles: ["PHASE_3A_B_VISUAL_SOURCE_MAPPING.md"],
   },
+  {
+    folder: "GLOBAL PERSPECTIVES",
+    type: "social",
+    fullCredit: true,
+    allowMlaElectiveSourceLimitation: true,
+    mappingFiles: ["PHASE_3B_LESSON_MAPPING.md", "PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md"],
+    supportFiles: ["PHASE_3A_B_VISUAL_SOURCE_MAPPING.md"],
+  },
 ];
 
 const pageNames = ["P01.html", "P02.html", "P03.html", "P04.html", "P05.html", "P06.html", "P07.html"];
@@ -59,6 +67,7 @@ const directUrlRe = /https?:\/\/[^"' <>)]+/gi;
 const resourceDirectionsRe = /\b(open|click|select|observe|record|return|submit|use the visible|write down|compare|run|play|start|change|measure)\b/i;
 const sourceProvenanceTerms = ["Florida", "CPALMS", "Common Core", "ACT", "SAT"];
 const externalVerificationRe = /External CPALMS Verification Addendum|Official CPALMS Verification Addendum|EXTERNAL-CPALMS-VERIFICATION-START/i;
+const mlaElectiveSourceLimitationRe = /Source Limitation Note|no single.*CPALMS.*Global Perspectives|MLA catalog elective/i;
 
 function read(file) {
   return fs.readFileSync(file, "utf8");
@@ -270,7 +279,9 @@ function auditCourse(config) {
     for (const term of sourceProvenanceTerms) {
       if (!new RegExp(term, "i").test(crosswalkText)) failures.push(`${rel(crosswalk)} missing source provenance term: ${term}`);
     }
-    if (!externalVerificationRe.test(crosswalkText)) failures.push(`${rel(crosswalk)} missing official CPALMS verification addendum`);
+    if (!externalVerificationRe.test(crosswalkText) && !(config.allowMlaElectiveSourceLimitation && mlaElectiveSourceLimitationRe.test(crosswalkText))) {
+      failures.push(`${rel(crosswalk)} missing official CPALMS verification addendum`);
+    }
   }
 
   const mapping = parseLessonMapping(courseDir, config);
@@ -365,6 +376,7 @@ report.push("");
 report.push("## Audit Standard");
 report.push("");
 report.push("- Crosswalk must retain Florida, CPALMS, Common Core, ACT, and SAT provenance plus official CPALMS verification addendum.");
+report.push("- MLA-created electives without a single official CPALMS course record must retain a documented source limitation note and must still preserve Florida/CPALMS/Common Core/ACT/SAT source provenance.");
 report.push("- Every lesson page must trace to the current lesson mapping and use step-by-step independent-student instructional rigor.");
 report.push("- Lessons must include Teacher of Record support language without implying a live teacher is teaching the course.");
 report.push("- Science lessons must include exact direct lab/simulation/resource links and step-by-step student directions.");

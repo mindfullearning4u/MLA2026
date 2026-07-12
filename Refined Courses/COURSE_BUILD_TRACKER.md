@@ -10,12 +10,12 @@ Official build target: **47 catalog courses**
 
 ```text
 47 total courses
-28 course-build complete / Moodle transfer ready
-1 course-production complete / lessons and assessments pending
+29 course-build complete / Moodle transfer ready
+0 course-production complete / lessons and assessments pending
 8 transferred to Moodle
 0 currently in Moodle transfer
 18 not started
-19 still need lessons, assessments, final audit, or full build completion
+18 still need lessons, assessments, final audit, or full build completion
 ```
 
 ## Status Key
@@ -69,7 +69,7 @@ Official build target: **47 catalog courses**
 | Data Literacy for Teens | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | Psychology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Sociology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Global Perspectives | Social Sciences & Humanities | 1.0 | Complete | Not started | Not started | Not started |
+| Global Perspectives | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Cultural Studies | Social Sciences & Humanities | 1.0 | Not started | Not started | Not started | Not started |
 | Marine Science | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Anatomy & Physiology | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -81,7 +81,7 @@ Official build target: **47 catalog courses**
 | Life Skills & Independent Living | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 | Nutrition & Wellness | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 
-Current repo-complete count: **28 courses**.
+Current repo-complete count: **29 courses**.
 
 Important count note: the active catalog lists **47 courses**, and all 47 are part of the required build target.
 
@@ -118,6 +118,7 @@ These courses have active course folders and have been treated as course-build c
 | Social Studies and Financial Literacy | Personal Financial Literacy and Economics | `PERSONAL FINANCIAL LITERACY AND ECONOMICS` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with embedded financial/economic charts, tables, decision matrices, and XML stimuli. |
 | Social Sciences & Humanities | Psychology | `PSYCHOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE, Florida support, Common Core, SAT, and ACT alignment; embedded psychology charts, diagrams, timelines, research-data displays, and Moodle XML stimuli. |
 | Social Sciences & Humanities | Sociology | `SOCIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE, Florida support, Common Core, SAT, and ACT alignment; embedded sociology charts, source excerpts, social-pattern diagrams, timelines, research-data displays, and Moodle XML stimuli. |
+| Social Sciences & Humanities | Global Perspectives | `GLOBAL PERSPECTIVES` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with MLA elective source limitation documentation, Florida/CPALMS/Common Core/SAT/ACT provenance, embedded maps/charts/tables/source organizers, step-by-step student-centered lessons, and Moodle XML stimuli. |
 | Physical Education & Health | Health & Physical Education | `HEALTH AND PHYSICAL EDUCATION` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE Health Education and Physical Education alignment, embedded FITT tables, heart-rate/intensity charts, nutrition-label models, safety pathways, wellness maps, portfolio organizers, and Moodle XML visual stimuli. |
 
 ## Remaining Catalog Courses
@@ -138,7 +139,6 @@ These courses are listed in the catalog but do not currently have completed acti
 | Technology & AI Pathway | Digital Citizenship & Online Safety | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Coding with Python | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Data Literacy for Teens | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
-| Social Sciences & Humanities | Global Perspectives | 1.0 | Complete | Not started | Not started | Not started | Not started | Required |
 | Social Sciences & Humanities | Cultural Studies | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Business & Entrepreneurship | Principles of Business | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Business & Entrepreneurship | Entrepreneurship Lab | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
