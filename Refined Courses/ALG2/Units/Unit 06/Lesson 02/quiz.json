@@ -1,26 +1,33 @@
-﻿{
-    "course":  "ALG2",
-    "unit":  "Unit 06",
-    "lesson":  "Lesson 02",
-    "title":  "Quiz: Sequences and Series",
-    "guidedPractice":  "ALG2_U06_L02_GuidedPractice.gift",
-    "quiz":  "ALG2_U06_L02_Quiz.gift",
-    "standards":  [
-                      {
-                          "code":  "Support-only readiness; no new primary MLA standard",
-                          "description":  "Arithmetic and geometric patterns for modeling readiness.",
-                          "floridaBenchmark":  "Support-only readiness; no new primary benchmark"
-                      }
-                  ],
-    "questionBankSize":  20,
-    "questionsPerAttempt":  5,
-    "format":  "Moodle XML",
-    "masteryThreshold":  80,
-    "attemptPolicy":  {
-                          "studentAttemptsBeforeIntervention":  1,
-                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
-                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      },
-    "moodleXmlFile":  "ALG2\\Units\\Unit 06\\Lesson 02\\Moodle XML\\ALG2_U06_L02_Quiz_MoodleXML.xml",
-    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 06\\Lesson 02\\Moodle XML\\ALG2_U06_L02_GuidedPractice_MoodleXML.xml"
+{
+  "course": "ALG2",
+  "unit": "Unit 06",
+  "lesson": "Lesson 02",
+  "title": "Quiz: Sequences and Series",
+  "guidedPractice": "ALG2_U06_L02_GuidedPractice.gift",
+  "quiz": "ALG2_U06_L02_Quiz.gift",
+  "standards": [
+    {
+      "code": "MLA.A2.EX.1",
+      "description": "Sequence readiness support using function notation and linear/exponential pattern standards."
+    },
+    {
+      "code": "MLA.A2.EX.2",
+      "description": "Sequence readiness support using function notation and linear/exponential pattern standards."
+    },
+    {
+      "code": "MLA.A2.FN.1",
+      "description": "Sequence readiness support using function notation and linear/exponential pattern standards."
+    }
+  ],
+  "questionBankSize": 20,
+  "questionsPerAttempt": 5,
+  "format": "Moodle XML",
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  },
+  "moodleXmlFile": "ALG2\\Units\\Unit 06\\Lesson 02\\Moodle XML\\ALG2_U06_L02_Quiz_MoodleXML.xml",
+  "moodleXmlGuidedPracticeFile": "ALG2\\Units\\Unit 06\\Lesson 02\\Moodle XML\\ALG2_U06_L02_GuidedPractice_MoodleXML.xml"
 }

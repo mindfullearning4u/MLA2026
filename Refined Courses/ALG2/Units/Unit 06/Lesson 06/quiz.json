@@ -1,26 +1,33 @@
-﻿{
-    "course":  "ALG2",
-    "unit":  "Unit 06",
-    "lesson":  "Lesson 06",
-    "title":  "Quiz: Multi-Step Modeling",
-    "guidedPractice":  "ALG2_U06_L06_GuidedPractice.gift",
-    "quiz":  "ALG2_U06_L06_Quiz.gift",
-    "standards":  [
-                      {
-                          "code":  "Support-only synthesis; no new primary MLA standard",
-                          "description":  "Build, solve, interpret, and revise multi-step mathematical models.",
-                          "floridaBenchmark":  "Support-only synthesis; no new primary benchmark"
-                      }
-                  ],
-    "questionBankSize":  20,
-    "questionsPerAttempt":  5,
-    "format":  "Moodle XML",
-    "masteryThreshold":  80,
-    "attemptPolicy":  {
-                          "studentAttemptsBeforeIntervention":  1,
-                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
-                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      },
-    "moodleXmlFile":  "ALG2\\Units\\Unit 06\\Lesson 06\\Moodle XML\\ALG2_U06_L06_Quiz_MoodleXML.xml",
-    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 06\\Lesson 06\\Moodle XML\\ALG2_U06_L06_GuidedPractice_MoodleXML.xml"
+{
+  "course": "ALG2",
+  "unit": "Unit 06",
+  "lesson": "Lesson 06",
+  "title": "Quiz: Multi-Step Modeling",
+  "guidedPractice": "ALG2_U06_L06_GuidedPractice.gift",
+  "quiz": "ALG2_U06_L06_Quiz.gift",
+  "standards": [
+    {
+      "code": "MLA.A2.FM.1",
+      "description": "Modeling synthesis using data modeling, regression, and model comparison standards."
+    },
+    {
+      "code": "MLA.A2.EX.4",
+      "description": "Modeling synthesis using data modeling, regression, and model comparison standards."
+    },
+    {
+      "code": "MLA.A2.FN.2",
+      "description": "Modeling synthesis using data modeling, regression, and model comparison standards."
+    }
+  ],
+  "questionBankSize": 20,
+  "questionsPerAttempt": 5,
+  "format": "Moodle XML",
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  },
+  "moodleXmlFile": "ALG2\\Units\\Unit 06\\Lesson 06\\Moodle XML\\ALG2_U06_L06_Quiz_MoodleXML.xml",
+  "moodleXmlGuidedPracticeFile": "ALG2\\Units\\Unit 06\\Lesson 06\\Moodle XML\\ALG2_U06_L06_GuidedPractice_MoodleXML.xml"
 }

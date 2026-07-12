@@ -35,17 +35,17 @@ Students are responsible for completing all required lesson activities.
 
 Notebook Evidence Submission includes:
 
-âœ“ Notebook Task - Part 1
+[x] Notebook Task - Part 1
 
-âœ“ Notebook Task - Part 2
+[x] Notebook Task - Part 2
 
-âœ“ Independent Work
+[x] Independent Work
 
 Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
 
 Checkpoint Submission includes:
 
-âœ“ Responses to checkpoint tasks
+[x] Responses to checkpoint tasks
 
 Notebook Evidence and Checkpoint Submission are separate activities and both must be completed.
 
@@ -55,19 +55,19 @@ Notebook Evidence and Checkpoint Submission are separate activities and both mus
 
 Student learning is evaluated through multiple forms of mastery evidence:
 
-â€¢ Unit Pretests  
+- Unit Pretests  
 Used to identify readiness, learning gaps, and eligibility for acceleration.
 
-â€¢ Notebook Evidence Submissions  
+- Notebook Evidence Submissions  
 Teacher-reviewed evidence of engagement, organization, note-taking, and completion of required lesson work.
 
-â€¢ Checkpoint Submissions  
+- Checkpoint Submissions  
 Teacher-reviewed evidence of application, reasoning, communication, and problem-solving.
 
-â€¢ Lesson Quizzes  
+- Lesson Quizzes  
 Standards-aligned assessments measuring lesson-level mastery.
 
-â€¢ Unit Assessments  
+- Unit Assessments  
 Comprehensive evaluations measuring mastery across all standards taught within a unit.
 
 ---
@@ -89,16 +89,16 @@ Unit Assessments = 40%
 Each assessment component serves a specific role in the mastery-learning process.
 
 Notebook Evidence  
-â†’ Demonstrates engagement, organization, note-taking, and the learning process.
+-> Demonstrates engagement, organization, note-taking, and the learning process.
 
 Checkpoint Submission  
-â†’ Demonstrates application of concepts, reasoning, communication, and problem-solving.
+-> Demonstrates application of concepts, reasoning, communication, and problem-solving.
 
 Lesson Quiz  
-â†’ Demonstrates lesson-level mastery and understanding of key concepts and skills.
+-> Demonstrates lesson-level mastery and understanding of key concepts and skills.
 
 Unit Assessment  
-â†’ Demonstrates unit-level mastery and the ability to integrate and apply learning across multiple standards.
+-> Demonstrates unit-level mastery and the ability to integrate and apply learning across multiple standards.
 
 Together, these components provide multiple forms of evidence to support mastery-based progression.
 
@@ -114,15 +114,15 @@ Students who do not initially demonstrate mastery will receive opportunities for
 
 To progress successfully through the course, students must:
 
-âœ“ Complete all required lesson activities
+[x] Complete all required lesson activities
 
-âœ“ Submit Notebook Evidence
+[x] Submit Notebook Evidence
 
-âœ“ Submit Checkpoint Responses
+[x] Submit Checkpoint Responses
 
-âœ“ Demonstrate mastery on Lesson Quizzes
+[x] Demonstrate mastery on Lesson Quizzes
 
-âœ“ Complete all Unit Assessments
+[x] Complete all Unit Assessments
 
 A minimum mastery level of 80% is required before advancement.
 
@@ -136,14 +136,14 @@ Progression is based on demonstrated understanding, not simply course completion
 
 Notebook Evidence Submission
 
-â†’ Notebook Task Part 1
+-> Notebook Task Part 1
 
-â†’ Notebook Task Part 2
+-> Notebook Task Part 2
 
-â†’ Independent Work
+-> Independent Work
 
 Checkpoint Submission
 
-â†’ Checkpoint Responses
+-> Checkpoint Responses
 
 These are separate submissions and both must be completed before moving forward.

@@ -1,26 +1,33 @@
-﻿{
-    "course":  "ALG2",
-    "unit":  "Unit 06",
-    "lesson":  "Lesson 07",
-    "title":  "Quiz: Real-World Applications",
-    "guidedPractice":  "ALG2_U06_L07_GuidedPractice.gift",
-    "quiz":  "ALG2_U06_L07_Quiz.gift",
-    "standards":  [
-                      {
-                          "code":  "Support-only synthesis; no new primary MLA standard",
-                          "description":  "Apply Algebra II concepts to authentic financial, scientific, and data-rich situations.",
-                          "floridaBenchmark":  "Support-only synthesis; no new primary benchmark"
-                      }
-                  ],
-    "questionBankSize":  20,
-    "questionsPerAttempt":  5,
-    "format":  "Moodle XML",
-    "masteryThreshold":  80,
-    "attemptPolicy":  {
-                          "studentAttemptsBeforeIntervention":  1,
-                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
-                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      },
-    "moodleXmlFile":  "ALG2\\Units\\Unit 06\\Lesson 07\\Moodle XML\\ALG2_U06_L07_Quiz_MoodleXML.xml",
-    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 06\\Lesson 07\\Moodle XML\\ALG2_U06_L07_GuidedPractice_MoodleXML.xml"
+{
+  "course": "ALG2",
+  "unit": "Unit 06",
+  "lesson": "Lesson 07",
+  "title": "Quiz: Real-World Applications",
+  "guidedPractice": "ALG2_U06_L07_GuidedPractice.gift",
+  "quiz": "ALG2_U06_L07_Quiz.gift",
+  "standards": [
+    {
+      "code": "MLA.A2.FM.1",
+      "description": "Real-world application synthesis using data modeling, regression, and model comparison standards."
+    },
+    {
+      "code": "MLA.A2.EX.4",
+      "description": "Real-world application synthesis using data modeling, regression, and model comparison standards."
+    },
+    {
+      "code": "MLA.A2.FN.2",
+      "description": "Real-world application synthesis using data modeling, regression, and model comparison standards."
+    }
+  ],
+  "questionBankSize": 20,
+  "questionsPerAttempt": 5,
+  "format": "Moodle XML",
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  },
+  "moodleXmlFile": "ALG2\\Units\\Unit 06\\Lesson 07\\Moodle XML\\ALG2_U06_L07_Quiz_MoodleXML.xml",
+  "moodleXmlGuidedPracticeFile": "ALG2\\Units\\Unit 06\\Lesson 07\\Moodle XML\\ALG2_U06_L07_GuidedPractice_MoodleXML.xml"
 }

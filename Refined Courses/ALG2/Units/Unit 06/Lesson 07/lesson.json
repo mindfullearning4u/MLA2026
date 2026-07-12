@@ -1,59 +1,66 @@
 {
-    "course":  "ALG2",
-    "unit":  "Unit 06",
-    "lesson":  "Lesson 07",
-    "title":  "Real-World Applications",
-    "standards":  [
-                      {
-                          "code":  "Support-only synthesis; no new primary MLA standard",
-                          "description":  "Apply Algebra II concepts to authentic financial, scientific, and data-rich situations.",
-                          "floridaBenchmark":  "Support-only synthesis; no new primary benchmark"
-                      }
-                  ],
-    "pages":  [
-                  {
-                      "file":  "P01.html",
-                      "title":  "Lesson Overview"
-                  },
-                  {
-                      "file":  "P02.html",
-                      "title":  "Notebook Task Part 1"
-                  },
-                  {
-                      "file":  "P03.html",
-                      "title":  "Notebook Task Part 2"
-                  },
-                  {
-                      "file":  "P04.html",
-                      "title":  "Concept Development / Worked Examples"
-                  },
-                  {
-                      "file":  "P05.html",
-                      "title":  "Guided Practice"
-                  },
-                  {
-                      "file":  "P06.html",
-                      "title":  "Independent Work + Checkpoint + Notebook Evidence"
-                  },
-                  {
-                      "file":  "P07.html",
-                      "title":  "Lesson Quiz"
-                  }
-              ],
-    "assessment":  "Quiz",
-    "masteryThreshold":  80,
-    "guidedPractice":  {
-                           "file":  "ALG2_U06_L07_GuidedPractice.gift",
-                           "questionCount":  5,
-                           "graded":  false,
-                           "feedback":  "immediate"
-                       },
-    "quiz":  {
-                 "file":  "ALG2_U06_L07_Quiz.gift",
-                 "questionsPerAttempt":  5,
-                 "bankSize":  20,
-                 "questionBank":  true,
-                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
-                 "randomizedRetakeRequired":  true
-             }
+  "course": "ALG2",
+  "unit": "Unit 06",
+  "lesson": "Lesson 07",
+  "title": "Real-World Applications",
+  "standards": [
+    {
+      "code": "MLA.A2.FM.1",
+      "description": "Real-world application synthesis using data modeling, regression, and model comparison standards."
+    },
+    {
+      "code": "MLA.A2.EX.4",
+      "description": "Real-world application synthesis using data modeling, regression, and model comparison standards."
+    },
+    {
+      "code": "MLA.A2.FN.2",
+      "description": "Real-world application synthesis using data modeling, regression, and model comparison standards."
+    }
+  ],
+  "pages": [
+    {
+      "file": "P01.html",
+      "title": "Lesson Overview"
+    },
+    {
+      "file": "P02.html",
+      "title": "Notebook Task Part 1"
+    },
+    {
+      "file": "P03.html",
+      "title": "Notebook Task Part 2"
+    },
+    {
+      "file": "P04.html",
+      "title": "Concept Development / Worked Examples"
+    },
+    {
+      "file": "P05.html",
+      "title": "Guided Practice"
+    },
+    {
+      "file": "P06.html",
+      "title": "Independent Work + Checkpoint + Notebook Evidence"
+    },
+    {
+      "file": "P07.html",
+      "title": "Lesson Quiz"
+    }
+  ],
+  "assessment": "Quiz",
+  "masteryThreshold": 80,
+  "guidedPractice": {
+    "file": "ALG2_U06_L07_GuidedPractice.gift",
+    "questionCount": 5,
+    "graded": false,
+    "feedback": "immediate"
+  },
+  "quiz": {
+    "file": "ALG2_U06_L07_Quiz.gift",
+    "questionsPerAttempt": 5,
+    "bankSize": 20,
+    "questionBank": true,
+    "attemptPolicy": "one_attempt_then_TOR_intervention_if_below_80",
+    "randomizedRetakeRequired": true
+  }
 }

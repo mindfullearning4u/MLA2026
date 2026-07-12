@@ -1,59 +1,66 @@
 {
-    "course":  "ALG2",
-    "unit":  "Unit 06",
-    "lesson":  "Lesson 01",
-    "title":  "Financial Mathematics",
-    "standards":  [
-                      {
-                          "code":  "Support-only review; no new primary MLA standard",
-                          "description":  "Revisit and extend financial applications using prior exponential and modeling tools.",
-                          "floridaBenchmark":  "Support-only review of MA.912.FL.3.1; MA.912.FL.3.2; MA.912.FL.3.4"
-                      }
-                  ],
-    "pages":  [
-                  {
-                      "file":  "P01.html",
-                      "title":  "Lesson Overview"
-                  },
-                  {
-                      "file":  "P02.html",
-                      "title":  "Notebook Task Part 1"
-                  },
-                  {
-                      "file":  "P03.html",
-                      "title":  "Notebook Task Part 2"
-                  },
-                  {
-                      "file":  "P04.html",
-                      "title":  "Concept Development / Worked Examples"
-                  },
-                  {
-                      "file":  "P05.html",
-                      "title":  "Guided Practice"
-                  },
-                  {
-                      "file":  "P06.html",
-                      "title":  "Independent Work + Checkpoint + Notebook Evidence"
-                  },
-                  {
-                      "file":  "P07.html",
-                      "title":  "Lesson Quiz"
-                  }
-              ],
-    "assessment":  "Quiz",
-    "masteryThreshold":  80,
-    "guidedPractice":  {
-                           "file":  "ALG2_U06_L01_GuidedPractice.gift",
-                           "questionCount":  5,
-                           "graded":  false,
-                           "feedback":  "immediate"
-                       },
-    "quiz":  {
-                 "file":  "ALG2_U06_L01_Quiz.gift",
-                 "questionsPerAttempt":  5,
-                 "bankSize":  20,
-                 "questionBank":  true,
-                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
-                 "randomizedRetakeRequired":  true
-             }
+  "course": "ALG2",
+  "unit": "Unit 06",
+  "lesson": "Lesson 01",
+  "title": "Financial Mathematics",
+  "standards": [
+    {
+      "code": "MLA.A2.FM.2",
+      "description": "Financial review using prior exponential and modeling standards."
+    },
+    {
+      "code": "MLA.A2.FM.3",
+      "description": "Financial review using prior exponential and modeling standards."
+    },
+    {
+      "code": "MLA.A2.FM.4",
+      "description": "Financial review using prior exponential and modeling standards."
+    }
+  ],
+  "pages": [
+    {
+      "file": "P01.html",
+      "title": "Lesson Overview"
+    },
+    {
+      "file": "P02.html",
+      "title": "Notebook Task Part 1"
+    },
+    {
+      "file": "P03.html",
+      "title": "Notebook Task Part 2"
+    },
+    {
+      "file": "P04.html",
+      "title": "Concept Development / Worked Examples"
+    },
+    {
+      "file": "P05.html",
+      "title": "Guided Practice"
+    },
+    {
+      "file": "P06.html",
+      "title": "Independent Work + Checkpoint + Notebook Evidence"
+    },
+    {
+      "file": "P07.html",
+      "title": "Lesson Quiz"
+    }
+  ],
+  "assessment": "Quiz",
+  "masteryThreshold": 80,
+  "guidedPractice": {
+    "file": "ALG2_U06_L01_GuidedPractice.gift",
+    "questionCount": 5,
+    "graded": false,
+    "feedback": "immediate"
+  },
+  "quiz": {
+    "file": "ALG2_U06_L01_Quiz.gift",
+    "questionsPerAttempt": 5,
+    "bankSize": 20,
+    "questionBank": true,
+    "attemptPolicy": "one_attempt_then_TOR_intervention_if_below_80",
+    "randomizedRetakeRequired": true
+  }
 }

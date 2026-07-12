@@ -1,67 +1,94 @@
 {
-    "course":  "ALG2",
-    "unit":  "Unit 01",
-    "lesson":  "Lesson 08",
-    "title":  "Putting It All Together",
-    "primaryStandards":  [
-                             {
-                                 "code":  "Unit 1 standards synthesis",
-                                 "description":  "No new primary MLA standard. Synthesize Unit 1 expression, equation, complex number, polynomial division, higher-degree equation, and modeling skills.",
-                                 "floridaBenchmark":  "Unit 1 benchmarks synthesis; no new primary benchmark"
-                             }
-                         ],
-    "assessment":  "Unit Assessment",
-    "masteryThreshold":  80,
-    "pages":  [
-                  {
-                      "id":  "P01",
-                      "title":  "Putting It All Together Overview",
-                      "file":  "P01.html"
-                  },
-                  {
-                      "id":  "P02",
-                      "title":  "Notebook Task - Part 1",
-                      "file":  "P02.html"
-                  },
-                  {
-                      "id":  "P03",
-                      "title":  "Notebook Task - Part 2",
-                      "file":  "P03.html"
-                  },
-                  {
-                      "id":  "P04",
-                      "title":  "Concept Review and Worked Examples",
-                      "file":  "P04.html"
-                  },
-                  {
-                      "id":  "P05",
-                      "title":  "Guided Practice",
-                      "file":  "P05.html"
-                  },
-                  {
-                      "id":  "P06",
-                      "title":  "Independent Work and Submissions",
-                      "file":  "P06.html"
-                  },
-                  {
-                      "id":  "P07",
-                      "title":  "Checkpoint and Unit Assessment Readiness",
-                      "file":  "P07.html"
-                  }
-              ],
-    "quiz":  {
-                 "file":  "ALG2_U01_UnitAssessment.gift",
-                 "questionsPerAttempt":  40,
-                 "bankSize":  40,
-                 "attemptPolicy":  "one_attempt_then_TOR_intervention_if_below_80",
-                 "questionBank":  true,
-                 "randomizedRetakeRequired":  true,
-                 "assessmentType":  "Unit Assessment"
-             },
-    "guidedPractice":  {
-                           "file":  "ALG2_U01_L08_GuidedPractice.gift",
-                           "questionCount":  5,
-                           "graded":  false,
-                           "feedback":  "immediate"
-                       }
+  "course": "ALG2",
+  "unit": "Unit 01",
+  "lesson": "Lesson 08",
+  "title": "Putting It All Together",
+  "primaryStandards": [
+    {
+      "code": "MLA.A2.FN.1",
+      "description": "I can use function notation and interpret functions."
+    },
+    {
+      "code": "MLA.A2.AE.1",
+      "description": "I can use structure to rewrite expressions."
+    },
+    {
+      "code": "MLA.A2.AE.2",
+      "description": "I can add, subtract, and multiply polynomials."
+    },
+    {
+      "code": "MLA.A2.AE.3",
+      "description": "I can divide polynomials and interpret remainders."
+    },
+    {
+      "code": "MLA.A2.AE.4",
+      "description": "I can apply polynomial identities and operations."
+    },
+    {
+      "code": "MLA.A2.AE.5",
+      "description": "I can factor and rewrite expressions to reveal structure."
+    },
+    {
+      "code": "MLA.A2.PF.1",
+      "description": "I can identify complex solutions of quadratic equations."
+    },
+    {
+      "code": "MLA.A2.PF.7",
+      "description": "I can solve higher-degree polynomial equations."
+    }
+  ],
+  "assessment": "Unit Assessment",
+  "masteryThreshold": 80,
+  "pages": [
+    {
+      "id": "P01",
+      "title": "Putting It All Together Overview",
+      "file": "P01.html"
+    },
+    {
+      "id": "P02",
+      "title": "Notebook Task - Part 1",
+      "file": "P02.html"
+    },
+    {
+      "id": "P03",
+      "title": "Notebook Task - Part 2",
+      "file": "P03.html"
+    },
+    {
+      "id": "P04",
+      "title": "Concept Review and Worked Examples",
+      "file": "P04.html"
+    },
+    {
+      "id": "P05",
+      "title": "Guided Practice",
+      "file": "P05.html"
+    },
+    {
+      "id": "P06",
+      "title": "Independent Work and Submissions",
+      "file": "P06.html"
+    },
+    {
+      "id": "P07",
+      "title": "Checkpoint and Unit Assessment Readiness",
+      "file": "P07.html"
+    }
+  ],
+  "quiz": {
+    "file": "ALG2_U01_UnitAssessment.gift",
+    "questionsPerAttempt": 40,
+    "bankSize": 40,
+    "attemptPolicy": "one_attempt_then_TOR_intervention_if_below_80",
+    "questionBank": true,
+    "randomizedRetakeRequired": true,
+    "assessmentType": "Unit Assessment"
+  },
+  "guidedPractice": {
+    "file": "ALG2_U01_L08_GuidedPractice.gift",
+    "questionCount": 5,
+    "graded": false,
+    "feedback": "immediate"
+  }
 }

@@ -87,9 +87,9 @@ The following official B.E.S.T. conic-section benchmarks are excluded from the M
 
 Geometry appropriately includes:
 
-• `MA.912.GR.7.1` for conic sections as cross-sections of cones  
-• `MA.912.GR.7.2` for equations of circles  
-• `MA.912.GR.7.3` for graphing and solving circle-equation problems
+- `MA.912.GR.7.1` for conic sections as cross-sections of cones  
+- `MA.912.GR.7.2` for equations of circles  
+- `MA.912.GR.7.3` for graphing and solving circle-equation problems
 
 This keeps Geometry focused on spatial reasoning, circles, coordinate geometry, proof, transformations, measurement, and right-triangle reasoning while placing advanced conic equation families in Precalculus.
 

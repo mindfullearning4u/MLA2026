@@ -159,6 +159,7 @@ The following should be updated only after a transfer agent or Moodle verificati
 | Statistics | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle transfer certification passed; see `STATISTICS\Course Audit\STATISTICS_MOODLE_TRANSFER_SESSION_LOG_2026-07-09.md`. |
 | Math for College Readiness | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `Math for College Readiness\Course Audit\MCR_MOODLE_TRANSFER_LOG_2026-07-10.md`. |
 | English I | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH I\Course Audit\ENGLISH_I_MOODLE_TRANSFER_LOG_2026-07-10.md`. |
+| English II | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH II\Course Audit\ENGLISH_II_MOODLE_TRANSFER_LOG_2026-07-11.md`. |
 | English III | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH III\Course Audit\ENGLISH_III_MOODLE_ENROLLMENT_READINESS_AUDIT_2026-07-12.md`. |
 | All other completed courses | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Confirm after Moodle transfer agent completes. |
 

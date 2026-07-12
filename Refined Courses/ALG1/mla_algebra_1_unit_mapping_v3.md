@@ -14,7 +14,7 @@ This sequence is organized by prerequisite skill progression, conceptual develop
 
 The instructional progression is:
 
-Foundations → Expressions → Equations → Linear Relationships → Graphing → Slope → Inequalities → Functions → Quadratic Models → Exponential Models → Systems → Data Analysis → Financial Literacy → Algebraic Modeling
+Foundations -> Expressions -> Equations -> Linear Relationships -> Graphing -> Slope -> Inequalities -> Functions -> Quadratic Models -> Exponential Models -> Systems -> Data Analysis -> Financial Literacy -> Algebraic Modeling
 
 ---
 
@@ -296,14 +296,14 @@ Do not move systems in v3 without approval because the requested revision specif
 
 **Changes Made**
 
-• Created `mla_algebra_1_unit_mapping_v3.md` from v2 and the sequencing audit findings.  
-• Reduced Unit 1 Lesson 7 cognitive load by limiting it to equivalent expressions, simplifying expressions, combining like terms, distributive property, and expression structure.  
-• Moved radical operations and polynomial operations to Unit 5 Lesson 1, directly before factoring and quadratics.  
-• Created Unit 5 Lesson 7: Comparing Linear, Quadratic, and Exponential Models.  
-• Revised Unit 5 Lesson 8 so it is synthesis only and does not introduce major new standards.  
-• Strengthened prerequisite skills across all units, including distributive property, combining like terms, coordinate plane vocabulary, ordered pairs, axes interpretation, unit rate, proportional reasoning, square roots, perfect squares, zero-product reasoning, percent increase/decrease, growth patterns, reading tables, graph interpretation, and technology tools.  
-• Added optional Extension Challenge Ideas for every unit.  
-• Added Systems Placement Review with Option A and Option B analysis.
+- Created `mla_algebra_1_unit_mapping_v3.md` from v2 and the sequencing audit findings.  
+- Reduced Unit 1 Lesson 7 cognitive load by limiting it to equivalent expressions, simplifying expressions, combining like terms, distributive property, and expression structure.  
+- Moved radical operations and polynomial operations to Unit 5 Lesson 1, directly before factoring and quadratics.  
+- Created Unit 5 Lesson 7: Comparing Linear, Quadratic, and Exponential Models.  
+- Revised Unit 5 Lesson 8 so it is synthesis only and does not introduce major new standards.  
+- Strengthened prerequisite skills across all units, including distributive property, combining like terms, coordinate plane vocabulary, ordered pairs, axes interpretation, unit rate, proportional reasoning, square roots, perfect squares, zero-product reasoning, percent increase/decrease, growth patterns, reading tables, graph interpretation, and technology tools.  
+- Added optional Extension Challenge Ideas for every unit.  
+- Added Systems Placement Review with Option A and Option B analysis.
 
 **Rationale**
 
@@ -327,13 +327,13 @@ The sequence supports mastery by keeping new learning focused, reserving Lesson 
 
 ### Final Validation
 
-• Every MLA standard remains mapped: Verified  
-• Every Florida benchmark remains mapped: Verified  
-• No benchmark becomes orphaned: Verified  
-• No standards are lost: Verified  
-• Unit 5 Lesson 8 becomes synthesis only: Verified  
-• Unit 1 cognitive load is reduced: Verified  
-• Prerequisite skills are strengthened: Verified  
-• Advanced learner extensions are included: Verified  
-• SAT readiness remains intact: Verified  
-• ACT readiness remains intact: Verified
+- Every MLA standard remains mapped: Verified  
+- Every Florida benchmark remains mapped: Verified  
+- No benchmark becomes orphaned: Verified  
+- No standards are lost: Verified  
+- Unit 5 Lesson 8 becomes synthesis only: Verified  
+- Unit 1 cognitive load is reduced: Verified  
+- Prerequisite skills are strengthened: Verified  
+- Advanced learner extensions are included: Verified  
+- SAT readiness remains intact: Verified  
+- ACT readiness remains intact: Verified

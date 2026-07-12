@@ -8,15 +8,15 @@
 
 ## Executive Summary
 
-The overall course arc is instructionally reasonable: foundations → proof → triangles → similarity/right triangles → transformations/circles → coordinate geometry/measurement/modeling.
+The overall course arc is instructionally reasonable: foundations -> proof -> triangles -> similarity/right triangles -> transformations/circles -> coordinate geometry/measurement/modeling.
 
 The main concerns are not the six-unit structure itself. The concerns are:
 
-• Proof may become too abstract too early unless proof is scaffolded heavily.  
-• Transformations are placed later than ideal for a transformation-based Geometry course.  
-• Unit 5 combines too much: transformations, circle similarity, circle equations, arcs/chords, tangents/secants, constructions, sectors, and circle applications.  
-• Unit 6 Lesson 3 and Unit 6 Lesson 5 are overloaded.  
-• Some prerequisite skills should be made more explicit before proof, transformations, circles, surface area/volume, and trigonometry.
+- Proof may become too abstract too early unless proof is scaffolded heavily.  
+- Transformations are placed later than ideal for a transformation-based Geometry course.  
+- Unit 5 combines too much: transformations, circle similarity, circle equations, arcs/chords, tangents/secants, constructions, sectors, and circle applications.  
+- Unit 6 Lesson 3 and Unit 6 Lesson 5 are overloaded.  
+- Some prerequisite skills should be made more explicit before proof, transformations, circles, surface area/volume, and trigonometry.
 
 **Instructional determination:** Pass with Revisions
 
@@ -30,7 +30,7 @@ Reasoning and proof belong early in Geometry, but Unit 2 may be too proof-heavy 
 
 Specific concern:
 
-• Unit 2 Lesson 4, `Introduction to Geometric Proofs`, appears before students have much theorem-rich geometric content beyond segments and angles.
+- Unit 2 Lesson 4, `Introduction to Geometric Proofs`, appears before students have much theorem-rich geometric content beyond segments and angles.
 
 This can work if the proof expectations are introductory and highly scaffolded. If students are expected to write full formal proofs too quickly, cognitive load will be high.
 
@@ -54,12 +54,12 @@ Transformations are placed in Unit 5, after proof, triangles, congruence, simila
 
 Students would benefit from earlier exposure to:
 
-• Translations  
-• Reflections  
-• Rotations  
-• Dilations  
-• Rigid vs. non-rigid transformations  
-• Mapping figures on the coordinate plane
+- Translations  
+- Reflections  
+- Rotations  
+- Dilations  
+- Rigid vs. non-rigid transformations  
+- Mapping figures on the coordinate plane
 
 **Recommendation:** Consider moving a basic transformations mini-sequence earlier, ideally after Unit 1 or before triangle congruence. If the six-unit structure must remain unchanged, add transformation readiness notes and informal transformation examples in Units 1 and 3.
 
@@ -79,20 +79,20 @@ Instructionally, quadrilaterals often fit after triangles and before circles/mea
 
 This lesson includes:
 
-• Inscribed/circumscribed circle constructions  
-• Regular polygons inscribed in circles  
-• Arc length  
-• Sector area  
-• Graphing circle equations  
-• Real-world circle applications
+- Inscribed/circumscribed circle constructions  
+- Regular polygons inscribed in circles  
+- Arc length  
+- Sector area  
+- Graphing circle equations  
+- Real-world circle applications
 
 That is too much for one lesson. These topics require different skill sets: construction, proportional arc/sector measurement, and coordinate equation graphing.
 
 **Recommendation:** Split conceptually if possible:
 
-• Circle constructions  
-• Arc length and sector area  
-• Circle equations and graphing  
+- Circle constructions  
+- Arc length and sector area  
+- Circle equations and graphing  
 
 If only one lesson slot is available, make Lesson 7 an application/review lesson and move circle equations to Unit 6.
 
@@ -102,23 +102,23 @@ This lesson combines coordinate area, 2D area, and 3D surface area. For struggli
 
 Area and surface area look similar but require different reasoning:
 
-• 2D area: polygons and composite figures  
-• Coordinate area/perimeter: distance, coordinates, formulas  
-• Surface area: nets, visible faces, 3D structure
+- 2D area: polygons and composite figures  
+- Coordinate area/perimeter: distance, coordinates, formulas  
+- Surface area: nets, visible faces, 3D structure
 
 **Recommendation:** Separate area/perimeter from surface area if possible. A cleaner sequence would be:
 
-• Area and perimeter of 2D figures  
-• Surface area of 3D figures  
-• Volume of 3D figures
+- Area and perimeter of 2D figures  
+- Surface area of 3D figures  
+- Volume of 3D figures
 
 ### Unit 6 Lesson 5: Geometric Modeling
 
 This lesson combines:
 
-• Cross-sections  
-• Solids of rotation  
-• Conic cross-sections
+- Cross-sections  
+- Solids of rotation  
+- Conic cross-sections
 
 These are all spatial visualization tasks, but together they can become visually and cognitively demanding.
 
@@ -136,17 +136,17 @@ This lesson owns both trigonometric ratios and right-triangle applications with 
 
 The map should explicitly call out these prerequisite skills before they are needed:
 
-• Algebraic equation solving before distance, midpoint, circle equations, and right-triangle applications  
-• Square roots and simplifying radicals before distance, Pythagorean Theorem, and special right triangles  
-• Slope review before coordinate proof and parallel/perpendicular line reasoning  
-• Parallel line angle relationships before triangle angle theorems and angle proofs  
-• Ratio/proportion fluency before similarity, dilations, trig ratios, scale factors, arc length, and sector area  
-• Compass/straightedge tool routines before construction-based lessons  
-• Diagram marking conventions before proof and congruent triangle lessons  
-• Formula substitution and units before area, surface area, volume, and modeling  
-• Calculator use for trig ratios before real-world right-triangle applications  
-• Net interpretation before surface area  
-• 3D vocabulary before volume, cross-sections, and solids of rotation
+- Algebraic equation solving before distance, midpoint, circle equations, and right-triangle applications  
+- Square roots and simplifying radicals before distance, Pythagorean Theorem, and special right triangles  
+- Slope review before coordinate proof and parallel/perpendicular line reasoning  
+- Parallel line angle relationships before triangle angle theorems and angle proofs  
+- Ratio/proportion fluency before similarity, dilations, trig ratios, scale factors, arc length, and sector area  
+- Compass/straightedge tool routines before construction-based lessons  
+- Diagram marking conventions before proof and congruent triangle lessons  
+- Formula substitution and units before area, surface area, volume, and modeling  
+- Calculator use for trig ratios before real-world right-triangle applications  
+- Net interpretation before surface area  
+- 3D vocabulary before volume, cross-sections, and solids of rotation
 
 ---
 
@@ -169,14 +169,14 @@ Advanced students are not necessarily under-challenged because each unit include
 
 Recommended optional extensions:
 
-• Proof alternatives: paragraph proof, flow proof, two-column proof, and coordinate proof  
-• Construction challenges with constraints  
-• Dynamic geometry investigations using transformations and loci  
-• SAT/ACT mixed geometry problem sets  
-• Real-world design tasks involving area, volume, scale, and constraints  
-• Error analysis of invalid proofs or incorrect diagrams  
-• Coordinate proof challenges involving multiple methods  
-• Optimization-style measurement tasks for surface area and volume
+- Proof alternatives: paragraph proof, flow proof, two-column proof, and coordinate proof  
+- Construction challenges with constraints  
+- Dynamic geometry investigations using transformations and loci  
+- SAT/ACT mixed geometry problem sets  
+- Real-world design tasks involving area, volume, scale, and constraints  
+- Error analysis of invalid proofs or incorrect diagrams  
+- Coordinate proof challenges involving multiple methods  
+- Optimization-style measurement tasks for surface area and volume
 
 These should remain optional and should not change mastery expectations.
 
@@ -254,8 +254,8 @@ The current mapping is instructionally usable, but revisions are recommended bef
 
 The most important fixes are:
 
-• Move or preview transformations earlier.  
-• Reduce Unit 5 circle overload.  
-• Move quadrilateral proof/property development earlier than Unit 6.  
-• Separate area/surface area/volume more cleanly.  
-• Strengthen prerequisite callouts before proof, similarity, trigonometry, circles, and 3D measurement.
+- Move or preview transformations earlier.  
+- Reduce Unit 5 circle overload.  
+- Move quadrilateral proof/property development earlier than Unit 6.  
+- Separate area/surface area/volume more cleanly.  
+- Strengthen prerequisite callouts before proof, similarity, trigonometry, circles, and 3D measurement.

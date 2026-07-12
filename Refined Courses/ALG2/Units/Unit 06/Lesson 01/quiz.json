@@ -1,26 +1,33 @@
-﻿{
-    "course":  "ALG2",
-    "unit":  "Unit 06",
-    "lesson":  "Lesson 01",
-    "title":  "Quiz: Financial Mathematics",
-    "guidedPractice":  "ALG2_U06_L01_GuidedPractice.gift",
-    "quiz":  "ALG2_U06_L01_Quiz.gift",
-    "standards":  [
-                      {
-                          "code":  "Support-only review; no new primary MLA standard",
-                          "description":  "Financial reasoning with prior exponential and modeling tools.",
-                          "floridaBenchmark":  "Support-only review of MA.912.FL.3.1; MA.912.FL.3.2; MA.912.FL.3.4"
-                      }
-                  ],
-    "questionBankSize":  20,
-    "questionsPerAttempt":  5,
-    "format":  "Moodle XML",
-    "masteryThreshold":  80,
-    "attemptPolicy":  {
-                          "studentAttemptsBeforeIntervention":  1,
-                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
-                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      },
-    "moodleXmlFile":  "ALG2\\Units\\Unit 06\\Lesson 01\\Moodle XML\\ALG2_U06_L01_Quiz_MoodleXML.xml",
-    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 06\\Lesson 01\\Moodle XML\\ALG2_U06_L01_GuidedPractice_MoodleXML.xml"
+{
+  "course": "ALG2",
+  "unit": "Unit 06",
+  "lesson": "Lesson 01",
+  "title": "Quiz: Financial Mathematics",
+  "guidedPractice": "ALG2_U06_L01_GuidedPractice.gift",
+  "quiz": "ALG2_U06_L01_Quiz.gift",
+  "standards": [
+    {
+      "code": "MLA.A2.FM.2",
+      "description": "Financial review using prior exponential and modeling standards."
+    },
+    {
+      "code": "MLA.A2.FM.3",
+      "description": "Financial review using prior exponential and modeling standards."
+    },
+    {
+      "code": "MLA.A2.FM.4",
+      "description": "Financial review using prior exponential and modeling standards."
+    }
+  ],
+  "questionBankSize": 20,
+  "questionsPerAttempt": 5,
+  "format": "Moodle XML",
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  },
+  "moodleXmlFile": "ALG2\\Units\\Unit 06\\Lesson 01\\Moodle XML\\ALG2_U06_L01_Quiz_MoodleXML.xml",
+  "moodleXmlGuidedPracticeFile": "ALG2\\Units\\Unit 06\\Lesson 01\\Moodle XML\\ALG2_U06_L01_GuidedPractice_MoodleXML.xml"
 }

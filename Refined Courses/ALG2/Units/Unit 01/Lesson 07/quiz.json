@@ -1,24 +1,51 @@
-﻿{
-    "course":  "ALG2",
-    "unit":  "Unit 01",
-    "lesson":  "Lesson 07",
-    "title":  "Quiz: Algebraic Modeling",
-    "primaryStandards":  [
-                             {
-                                 "code":  "Support-only review",
-                                 "description":  "No new primary MLA standard. Apply Unit 1 expression and equation tools to multi-step Algebra II modeling contexts.",
-                                 "floridaBenchmark":  "Support-only review; no new primary benchmark"
-                             }
-                         ],
-    "format":  "Moodle XML",
-    "questionBankSize":  20,
-    "questionsPerAttempt":  5,
-    "masteryThreshold":  80,
-    "attemptPolicy":  {
-                          "studentAttemptsBeforeIntervention":  1,
-                          "belowMasteryAction":  "Teacher of Record intervention and release of another randomized attempt.",
-                          "questionReuseRule":  "Questions must not repeat exactly across attempts."
-                      },
-    "moodleXmlFile":  "ALG2\\Units\\Unit 01\\Lesson 07\\Moodle XML\\ALG2_U01_L07_Quiz_MoodleXML.xml",
-    "moodleXmlGuidedPracticeFile":  "ALG2\\Units\\Unit 01\\Lesson 07\\Moodle XML\\ALG2_U01_L07_GuidedPractice_MoodleXML.xml"
+{
+  "course": "ALG2",
+  "unit": "Unit 01",
+  "lesson": "Lesson 07",
+  "title": "Quiz: Algebraic Modeling",
+  "primaryStandards": [
+    {
+      "code": "MLA.A2.FN.1",
+      "description": "I can use function notation and interpret functions."
+    },
+    {
+      "code": "MLA.A2.AE.1",
+      "description": "I can use structure to rewrite expressions."
+    },
+    {
+      "code": "MLA.A2.AE.2",
+      "description": "I can add, subtract, and multiply polynomials."
+    },
+    {
+      "code": "MLA.A2.AE.3",
+      "description": "I can divide polynomials and interpret remainders."
+    },
+    {
+      "code": "MLA.A2.AE.4",
+      "description": "I can apply polynomial identities and operations."
+    },
+    {
+      "code": "MLA.A2.AE.5",
+      "description": "I can factor and rewrite expressions to reveal structure."
+    },
+    {
+      "code": "MLA.A2.PF.1",
+      "description": "I can identify complex solutions of quadratic equations."
+    },
+    {
+      "code": "MLA.A2.PF.7",
+      "description": "I can solve higher-degree polynomial equations."
+    }
+  ],
+  "format": "Moodle XML",
+  "questionBankSize": 20,
+  "questionsPerAttempt": 5,
+  "masteryThreshold": 80,
+  "attemptPolicy": {
+    "studentAttemptsBeforeIntervention": 1,
+    "belowMasteryAction": "Teacher of Record intervention and release of another randomized attempt.",
+    "questionReuseRule": "Questions must not repeat exactly across attempts."
+  },
+  "moodleXmlFile": "ALG2\\Units\\Unit 01\\Lesson 07\\Moodle XML\\ALG2_U01_L07_Quiz_MoodleXML.xml",
+  "moodleXmlGuidedPracticeFile": "ALG2\\Units\\Unit 01\\Lesson 07\\Moodle XML\\ALG2_U01_L07_GuidedPractice_MoodleXML.xml"
 }
