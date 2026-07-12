@@ -49,19 +49,19 @@ function htmlTable(headers, rows) {
 }
 
 const standards = [
-  ["MLA.CS.FND.1", "Culture as a System", "Define culture as learned patterns of meaning, behavior, values, institutions, artifacts, and communication; distinguish evidence-based cultural analysis from stereotype or opinion.", "Florida social studies/humanities inquiry support; CPALMS social studies search checked", "B.E.S.T. informational text, evidence, and vocabulary support", "CCSS literacy in history/social studies evidence support", "SAT Information and Ideas; Craft and Structure", "ACT Reading: key ideas, details, relationships"],
-  ["MLA.CS.FND.2", "Cultural Inquiry and Source Reliability", "Evaluate cultural sources by origin, audience, purpose, context, bias, representation, corroboration, and missing voice.", "Florida social studies inquiry and source-analysis support; CPALMS search checked", "B.E.S.T. evaluating arguments and evidence support", "CCSS sourcing, corroboration, and evidence support", "SAT Command of Evidence; Craft and Structure", "ACT Reading: author purpose and evidence"],
-  ["MLA.CS.ID.1", "Identity, Belonging, and Community", "Analyze how identity, belonging, community membership, language, place, and social roles shape cultural experience without reducing people to one label.", "Florida social science and humanities support", "B.E.S.T. perspective and theme support", "CCSS compare perspectives support", "SAT paired perspectives", "ACT Reading: comparative relationships"],
-  ["MLA.CS.ID.2", "Power, Representation, and Voice", "Explain how power, institutions, media, archives, and public narratives influence whose voices are centered, minimized, represented, or misunderstood.", "Florida civics/history/media literacy support", "B.E.S.T. rhetoric, point of view, and media literacy support", "CCSS rhetoric and source analysis support", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing: rhetorical skills"],
-  ["MLA.CS.COM.1", "Language, Symbols, and Communication", "Analyze how language, symbols, translation, nonverbal communication, and context shape meaning across cultural settings.", "Florida humanities/world language/social science support", "B.E.S.T. vocabulary and context support", "CCSS language and meaning support", "SAT Words in Context; Information and Ideas", "ACT Reading/English: word choice and context"],
-  ["MLA.CS.BEL.1", "Belief Systems, Values, and Worldviews", "Compare belief systems, values, ethical frameworks, rituals, and worldviews respectfully using evidence and context.", "Florida world history/humanities support", "B.E.S.T. comparative text and evidence support", "CCSS compare/contrast sources support", "SAT paired passages and evidence", "ACT Reading: relationships and inference"],
-  ["MLA.CS.HIS.1", "Historical Memory and Cultural Change", "Analyze how migration, contact, colonization, resistance, adaptation, generational memory, and historical narratives shape cultural change.", "Florida history/geography support", "B.E.S.T. chronology, cause/effect, and evidence support", "CCSS chronology and source synthesis support", "SAT historical/social studies passages", "ACT Reading: sequence and cause-effect"],
-  ["MLA.CS.ART.1", "Art, Music, Literature, and Cultural Expression", "Interpret cultural expression through art, music, literature, performance, foodways, fashion, and material culture as evidence of meaning and context.", "Florida humanities/fine arts/social studies support", "B.E.S.T. theme, structure, and interpretation support", "CCSS visual/textual evidence support", "SAT Information and Ideas; Craft and Structure", "ACT Reading: main idea and detail"],
-  ["MLA.CS.MED.1", "Media, Popular Culture, and Digital Culture", "Evaluate how media, popular culture, algorithms, digital communities, and global platforms shape cultural identity, representation, and participation.", "Florida media literacy/civics support", "B.E.S.T. media literacy and argument support", "CCSS media/source evaluation support", "SAT rhetorical synthesis", "ACT English/Writing: organization and development"],
-  ["MLA.CS.GLB.1", "Globalization, Diaspora, and Cultural Exchange", "Analyze cultural exchange, diaspora, hybridity, appropriation, diffusion, and global interdependence with attention to power and context.", "Florida geography/world history/economics support", "B.E.S.T. evidence and comparative reasoning support", "CCSS quantitative/source synthesis support", "SAT informational graphics and evidence", "ACT Reading/Science: data interpretation"],
-  ["MLA.CS.ETH.1", "Ethical Cultural Engagement", "Apply ethical principles for respectful cultural engagement, avoiding stereotypes, appropriation, single-story narratives, and unsupported generalizations.", "Florida civics/humanities support", "B.E.S.T. argument and civic communication support", "CCSS argument and speaking/listening support", "SAT Expression of Ideas", "ACT Writing: ideas and development"],
-  ["MLA.CS.RES.1", "Cultural Research Synthesis", "Develop a researchable cultural inquiry question, gather varied sources, synthesize evidence, compare perspectives, and identify limitations.", "Florida inquiry and literacy support", "B.E.S.T. research/writing evidence support", "CCSS research and synthesis support", "SAT Information and Ideas; Expression of Ideas", "ACT Reading/Writing: claim and evidence"],
-  ["MLA.CS.CAP.1", "Cultural Studies Capstone", "Create a respectful, evidence-based cultural analysis or project that explains context, sources, multiple perspectives, ethical boundaries, and reflection.", "Florida humanities/social studies presentation support", "B.E.S.T. presentation and writing support", "CCSS presentation and argument support", "SAT Expression of Ideas; conventions", "ACT Writing: organization and language"],
+  ["MLA.CS.FND.1", "Culture as a System", "Define culture as learned patterns of meaning, behavior, values, institutions, artifacts, and communication; distinguish evidence-based cultural analysis from stereotype or opinion.", "SS.912.S.5.7; SS.912.S.5.5; SS.912.S.2.7", "ELA.K12.EE.1.1", "RH.11-12.1; RH.11-12.2", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
+  ["MLA.CS.FND.2", "Cultural Inquiry and Source Reliability", "Evaluate cultural sources by origin, audience, purpose, context, bias, representation, corroboration, and missing voice.", "SS.912.S.1.6; SS.912.S.5.7", "ELA.K12.EE.1.1; ELA.12.C.4.1", "RH.11-12.1; RH.11-12.6; RH.11-12.8", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
+  ["MLA.CS.ID.1", "Identity, Belonging, and Community", "Analyze how identity, belonging, community membership, language, place, and social roles shape cultural experience without reducing people to one label.", "SS.912.S.2.7; SS.912.S.4.10; SS.912.A.7.17", "ELA.12.R.1.3; ELA.K12.EE.1.1", "RH.11-12.6; RH.11-12.9", "SAT Craft and Structure; Information and Ideas", "ACT Reading standards support"],
+  ["MLA.CS.ID.2", "Power, Representation, and Voice", "Explain how power, institutions, media, archives, and public narratives influence whose voices are centered, minimized, represented, or misunderstood.", "SS.912.CG.2.8; SS.912.CG.2.12; SS.912.CG.2.13; SS.912.AA.3.10", "ELA.12.R.1.3; ELA.12.C.1.3", "RH.11-12.6; RH.11-12.8", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing standards support"],
+  ["MLA.CS.COM.1", "Language, Symbols, and Communication", "Analyze how language, symbols, translation, nonverbal communication, and context shape meaning across cultural settings.", "SS.912.S.2.7; SS.912.S.2.11", "ELA.K12.EE.1.1; ELA.12.C.2.1", "RH.11-12.4; RH.11-12.6", "SAT Craft and Structure; Information and Ideas", "ACT Reading/English standards support"],
+  ["MLA.CS.BEL.1", "Belief Systems, Values, and Worldviews", "Compare belief systems, values, ethical frameworks, rituals, and worldviews respectfully using evidence and context.", "SS.912.S.5.7; SS.912.S.5.5; SS.912.W.2.13", "ELA.K12.EE.1.1; ELA.12.C.1.3", "RH.11-12.1; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
+  ["MLA.CS.HIS.1", "Historical Memory and Cultural Change", "Analyze how migration, contact, colonization, resistance, adaptation, generational memory, and historical narratives shape cultural change.", "SS.912.A.7.17; SS.912.AA.3.10; SS.912.G.4.4", "ELA.K12.EE.1.1; ELA.12.C.4.1", "RH.11-12.2; RH.11-12.7; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
+  ["MLA.CS.ART.1", "Art, Music, Literature, and Cultural Expression", "Interpret cultural expression through art, music, literature, performance, foodways, fashion, and material culture as evidence of meaning and context.", "SS.912.AA.3.10; SS.912.S.5.7", "ELA.12.R.1.3; ELA.K12.EE.1.1", "RH.11-12.7; RH.11-12.9", "SAT Information and Ideas; Craft and Structure", "ACT Reading standards support"],
+  ["MLA.CS.MED.1", "Media, Popular Culture, and Digital Culture", "Evaluate how media, popular culture, algorithms, digital communities, and global platforms shape cultural identity, representation, and participation.", "SS.912.S.6.6; SS.912.CG.2.13; SS.912.CG.2.12", "ELA.9.C.5.1; ELA.10.C.5.1; ELA.12.C.1.3", "RH.11-12.6; RH.11-12.7; RH.11-12.8", "SAT Craft and Structure; Expression of Ideas", "ACT English/Writing standards support"],
+  ["MLA.CS.GLB.1", "Globalization, Diaspora, and Cultural Exchange", "Analyze cultural exchange, diaspora, hybridity, appropriation, diffusion, and global interdependence with attention to power and context.", "SS.912.G.4.4; SS.912.W.9.6; SS.912.S.6.5", "ELA.K12.EE.1.1; ELA.12.C.4.1", "RH.11-12.7; RH.11-12.9", "SAT Information and Ideas, including informational graphics", "ACT Reading/Science standards support"],
+  ["MLA.CS.ETH.1", "Ethical Cultural Engagement", "Apply ethical principles for respectful cultural engagement, avoiding stereotypes, appropriation, single-story narratives, and unsupported generalizations.", "SS.912.S.2.11; SS.912.S.5.5; SS.912.CG.2.12", "ELA.K12.EE.1.1; ELA.12.C.1.3; ELA.12.C.2.1", "WHST.11-12.1; SL.11-12.4", "SAT Expression of Ideas", "ACT Writing standards support"],
+  ["MLA.CS.RES.1", "Cultural Research Synthesis", "Develop a researchable cultural inquiry question, gather varied sources, synthesize evidence, compare perspectives, and identify limitations.", "SS.912.S.1.6; SS.912.S.5.7", "ELA.12.C.4.1; ELA.K12.EE.1.1", "WHST.11-12.7; WHST.11-12.8; WHST.11-12.9", "SAT Information and Ideas; Expression of Ideas", "ACT Reading/Writing standards support"],
+  ["MLA.CS.CAP.1", "Cultural Studies Capstone", "Create a respectful, evidence-based cultural analysis or project that explains context, sources, multiple perspectives, ethical boundaries, and reflection.", "SS.912.S.1.6; SS.912.S.2.11; SS.912.S.5.7", "ELA.12.C.2.1; ELA.12.C.4.1; ELA.12.C.1.3", "WHST.11-12.1; WHST.11-12.7; SL.11-12.4; SL.11-12.5", "SAT Expression of Ideas; Standard English Conventions", "ACT Writing standards support"],
 ];
 
 const units = [
@@ -182,13 +182,59 @@ The course builds SAT/ACT-aligned evidence reading, source analysis, vocabulary 
 
   write(path.join(productionDir, "PHASE_2A_A_2_MLA_STANDARD_INVENTORY.md"), `# Cultural Studies MLA Standard Inventory
 
+## Source-Control Note
+
+MLA.CS standards are the primary Cultural Studies content standards. CPALMS/FDOE, Florida B.E.S.T., Common Core, SAT, and ACT references are support and readiness alignments only. They do not authorize teaching or assessing content outside the approved unit mapping and lesson mapping.
+
+The detailed source-verification and exact CPALMS/FDOE support pool are documented in \`PHASE_2A_B_CROSSWALK_DRAFT.md\` and \`CULTURAL_STUDIES_COURSE_PRODUCTION_SOURCE_VALIDATION_2026-07-12.md\`.
+
 ${table(["Standard Code", "Title", "Mastery Description", "Florida / CPALMS Support", "Florida B.E.S.T. Support", "Common Core Support", "SAT Support", "ACT Support"], standards)}`);
 
   write(path.join(productionDir, "PHASE_2A_B_CROSSWALK_DRAFT.md"), `# Cultural Studies Crosswalk Draft
 
 ## Source Limitation Note
 
-Cultural Studies is an MLA catalog elective. Active CPALMS course and standard search pathways were checked for social studies, humanities, media literacy, history, geography, civics, and literacy support. No single official CPALMS Cultural Studies high school course record was used as a one-to-one governing source. The course therefore uses MLA.CS primary content standards with Florida/CPALMS, Florida B.E.S.T., Common Core, SAT, and ACT support layers documented below.
+Cultural Studies is an MLA catalog elective. Active CPALMS course and standard search pathways were checked for social studies, humanities, media literacy, history, geography, civics, and literacy support. No single official CPALMS Cultural Studies high school course record was located or used as a one-to-one governing source. The course therefore uses MLA.CS primary content standards with Florida/CPALMS, Florida B.E.S.T., Common Core, SAT, and ACT support layers documented below.
+
+The MLA.CS standards are the primary content standards. CPALMS/FDOE, Florida B.E.S.T., Common Core, SAT, and ACT entries are support and readiness alignments only. They must not be used to add unmapped content outside the Cultural Studies standard, unit mapping, or lesson mapping.
+
+## Official Source Verification Snapshot
+
+| Source Layer | Source Checked | Verification Result | Course Use |
+| --- | --- | --- | --- |
+| CPALMS Standards Search | https://www.cpalms.org/Public/search/Standard and live CPALMS search endpoints | CPALMS lists official Social Studies and English Language Arts (B.E.S.T.) standards. CPALMS search results returned related Social Studies standards for culture, source analysis, media, globalization, civics, and sociology. No single official high-school Cultural Studies course record was located. | Florida/CPALMS support only; not the primary course standard. |
+| Florida B.E.S.T. ELA | CPALMS English Language Arts (B.E.S.T.) standards search | Relevant support standards were located for evidence, argument, research, presentation, perspective, and digital media. | Literacy, research, evidence, presentation, and media support. |
+| Common Core | Official Common Core site attempted; site returned verification challenge during current audit | Use only established CCSS literacy support code families for history/social studies and writing when documenting readiness support. | Secondary comparison layer only. |
+| SAT | College Board SAT Reading and Writing section | Official SAT domains are Information and Ideas, Craft and Structure, Expression of Ideas, and Standard English Conventions. | College-readiness support for reading, evidence, rhetoric, graphics, and writing. |
+| ACT | ACT College and Career Readiness Standards page | ACT identifies English, Reading, Science, and Writing standards as college/career readiness support. | College-readiness support for reading, English, writing, evidence, organization, and data interpretation. |
+
+## CPALMS / Florida B.E.S.T. Support Set Used
+
+These support references are the verified support pool for this crosswalk. Lesson and assessment agents must use them as support only and must stay inside the assigned MLA.CS lesson standard.
+
+| Support Code | Source Layer | Verified Support Use |
+| --- | --- | --- |
+| SS.912.S.5.7 | CPALMS Social Studies | Interpret information about cultural life in the United States and other world cultures. |
+| SS.912.S.5.5 | CPALMS Social Studies | Ethnocentrism and its effects on culture. |
+| SS.912.S.2.7 | CPALMS Social Studies | Culture and group behavior. |
+| SS.912.S.4.10 | CPALMS Social Studies | Assimilation of ethnic, cultural, and social groups. |
+| SS.912.S.1.6 | CPALMS Social Studies | Distinguish fact from opinion in data sources and analyze points of view. |
+| SS.912.S.2.11 | CPALMS Social Studies | Democratic approaches to managing disagreements and resolving conflicts within a culture. |
+| SS.912.S.6.5 | CPALMS Social Studies | Social interactions, culture, science, and technological change. |
+| SS.912.S.6.6 | CPALMS Social Studies | Mass media change over time. |
+| SS.912.CG.2.8 | CPALMS Social Studies | Political parties, interest groups, media, individuals, and public policy. |
+| SS.912.CG.2.12 | CPALMS Social Studies | Interest groups, media, public opinion, and public issues. |
+| SS.912.CG.2.13 | CPALMS Social Studies | Media and internet influence in political communication. |
+| SS.912.G.4.4 | CPALMS Social Studies | Geographic tools and globalization issues. |
+| SS.912.W.9.6 | CPALMS Social Studies | Globalization and regional trade blocs. |
+| SS.912.A.7.17 | CPALMS Social Studies | Contributions of African Americans, Native Americans, and other minority groups to U.S. politics, economy, culture, and society. |
+| SS.912.AA.3.10 | CPALMS Social Studies | Harlem Renaissance artists, musicians, writers, and cultural influence. |
+| ELA.K12.EE.1.1 | Florida B.E.S.T. ELA | Cite evidence to explain and justify reasoning. |
+| ELA.12.C.1.3 | Florida B.E.S.T. ELA | Write arguments using valid reasoning and credible evidence. |
+| ELA.12.C.2.1 | Florida B.E.S.T. ELA | Present information with logical organization, coherent focus, and credible evidence. |
+| ELA.12.C.4.1 | Florida B.E.S.T. ELA | Conduct research and synthesize information from varied sources. |
+| ELA.12.R.1.3 | Florida B.E.S.T. ELA | Evaluate development of character perspective, including conflicting perspectives. |
+| ELA.9.C.5.1 / ELA.10.C.5.1 | Florida B.E.S.T. ELA | Create digital presentations with coherent ideas and evidence support. |
 
 ${table(["MLA Standard", "Primary Cultural Studies Skill", "Florida / CPALMS Support", "Florida B.E.S.T. Support", "Common Core Support", "SAT Support", "ACT Support", "Course Use"], standards.map(([code, title, desc, fl, best, cc, sat, act]) => [code, `${title}: ${desc}`, fl, best, cc, sat, act, "Primary course content standard with literacy/readiness support"]))}`);
 
@@ -210,6 +256,8 @@ ${table(["Unit", "Unit Title", "Unit Purpose", "Standards Covered", "Required Vi
 ${table(["Unit", "Lesson", "Role", "Lesson Title", "Standards", "Lesson Purpose", "Visual / Source Support"], lessonRows)}`);
 
   write(path.join(productionDir, "PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md"), `# Cultural Studies Full Crosswalk Lesson Trace
+
+Support-alignment control: exact CPALMS/FDOE and Florida B.E.S.T. support codes are controlled by \`PHASE_2A_B_CROSSWALK_DRAFT.md\`. The lesson trace below carries the support purpose by lesson; agents must refer back to the repaired crosswalk for exact code-level provenance before developing, auditing, or transferring any lesson or assessment.
 
 ${table(["Unit", "Lesson", "Lesson Title", "MLA Standard(s)", "Florida B.E.S.T. Support", "Common Core Support", "SAT Support", "ACT Support", "Assessment Scope"], lessons.map((l) => {
     const supports = l.codes.map((code) => codeMap.get(code));

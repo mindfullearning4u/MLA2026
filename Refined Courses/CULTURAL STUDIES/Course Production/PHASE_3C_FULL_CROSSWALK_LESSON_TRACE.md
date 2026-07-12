@@ -1,5 +1,7 @@
 # Cultural Studies Full Crosswalk Lesson Trace
 
+Support-alignment control: exact CPALMS/FDOE and Florida B.E.S.T. support codes are controlled by `PHASE_2A_B_CROSSWALK_DRAFT.md`. The lesson trace below carries the support purpose by lesson; agents must refer back to the repaired crosswalk for exact code-level provenance before developing, auditing, or transferring any lesson or assessment.
+
 | Unit | Lesson | Lesson Title | MLA Standard(s) | Florida B.E.S.T. Support | Common Core Support | SAT Support | ACT Support | Assessment Scope |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Unit 01 | Lesson 01 | What Culture Is and Is Not | MLA.CS.FND.1 | B.E.S.T. informational text, evidence, and vocabulary support | CCSS literacy in history/social studies evidence support | SAT Information and Ideas; Craft and Structure | ACT Reading: key ideas, details, relationships | Guided practice and lesson quiz only for this lesson |
