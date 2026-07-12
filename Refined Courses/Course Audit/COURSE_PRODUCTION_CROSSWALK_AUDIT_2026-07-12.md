@@ -24,7 +24,7 @@ This audit checks course production files as the accreditation/compliance backbo
 | PSYCHOLOGY | 8/8 | 14 | 14 | 14 | 14 | 48 |  | 0 | PASS |
 | SOCIOLOGY | 8/8 | 14 | 14 | 14 | 14 | 48 |  | 0 | PASS |
 | GLOBAL PERSPECTIVES | 8/8 | 13 | 13 | 13 | 13 | 48 |  | 0 | PASS |
-| CULTURAL STUDIES | 7/8 | 13 | 13 | 13 | 13 | 48 |  | 0 | PASS |
+| CULTURAL STUDIES | 8/8 | 13 | 13 | 13 | 13 | 48 |  | 0 | PASS |
 
 Overall Decision: PASS - course production crosswalk packages are tight
 
@@ -135,4 +135,4 @@ PASS: Crosswalk, inventory, unit mapping, lesson mapping, and required productio
 PASS: Crosswalk, inventory, unit mapping, lesson mapping, and required production controls are traceable.
 
 Warnings:
-- No separate alignment file; source framework alignment must be fully documented in crosswalk and production text.
+- Course overview does not use explicit Course Overview heading.
