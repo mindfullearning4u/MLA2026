@@ -35,7 +35,7 @@ Official build target: **47 catalog courses**
 |---|---|---:|---|---|---|---|
 | English I | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | English II | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
-| English III | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer - blocked |
+| English III | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | In Moodle transfer - final audit pending |
 | English IV | English / Language Arts | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Algebra 1 | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Geometry | Mathematics | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
@@ -93,7 +93,7 @@ These courses have active course folders and have been treated as course-build c
 |---|---|---|---|---|---|---|---|---|
 | English / Language Arts | English I | `ENGLISH I` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH I\Course Audit\ENGLISH_I_MOODLE_TRANSFER_LOG_2026-07-10.md`. |
 | English / Language Arts | English II | `ENGLISH II` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH II\Course Audit\ENGLISH_II_MOODLE_TRANSFER_LOG_2026-07-11.md`. |
-| English / Language Arts | English III | `ENGLISH III` | Complete | Complete | Complete | Moodle transfer ready | In Moodle transfer - blocked | Assessment question banks and visible activities transferred; Moodle shell is missing `U4 L3 Guided Practice` and `U6 Final Assessment`. See `ENGLISH III\Course Audit\ENGLISH_III_MOODLE_ASSESSMENT_ACTIVITY_PLACEMENT_LOG_2026-07-11.md`. |
+| English / Language Arts | English III | `ENGLISH III` | Complete | Complete | Complete | Moodle transfer ready | In Moodle transfer - final audit pending | Assessment question banks and activities transferred; previous block corrected for `U4 L3 Guided Practice` and `U6 Final Assessment`. Final enrollment-readiness audit still required. See `ENGLISH III\Course Audit\ENGLISH_III_MOODLE_ASSESSMENT_ACTIVITY_PLACEMENT_LOG_2026-07-11.md`. |
 | English / Language Arts | English IV | `ENGLISH IV` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English lessons require embedded passages where needed. |
 | Mathematics | Algebra 1 | `ALG1` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
 | Mathematics | Geometry | `GEOMETRY` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | User confirmed Moodle transfer is complete. |
