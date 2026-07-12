@@ -17,6 +17,7 @@ const courses = [
   "PSYCHOLOGY",
   "SOCIOLOGY",
   "GLOBAL PERSPECTIVES",
+  "CULTURAL STUDIES",
 ];
 
 const requiredCategories = {
@@ -48,6 +49,7 @@ const socialCourses = new Set([
   "PSYCHOLOGY",
   "SOCIOLOGY",
   "GLOBAL PERSPECTIVES",
+  "CULTURAL STUDIES",
 ]);
 
 function read(file) {
@@ -255,7 +257,7 @@ const totalFailures = results.reduce((sum, r) => sum + r.failures.length, 0);
 const lines = [];
 lines.push("# Course Production Crosswalk Audit");
 lines.push("");
-lines.push("Date: 2026-07-11");
+lines.push("Date: 2026-07-12");
 lines.push("");
 lines.push("## Purpose");
 lines.push("");
@@ -288,7 +290,7 @@ for (const r of results) {
   lines.push("");
 }
 
-const out = path.join(root, "Course Audit", "COURSE_PRODUCTION_CROSSWALK_AUDIT_2026-07-11.md");
+const out = path.join(root, "Course Audit", "COURSE_PRODUCTION_CROSSWALK_AUDIT_2026-07-12.md");
 fs.mkdirSync(path.dirname(out), { recursive: true });
 fs.writeFileSync(out, lines.join("\n"), "utf8");
 console.log(JSON.stringify({ report: rel(out), totalFailures, courses: results.map((r) => ({ course: r.course, failures: r.failures.length, lessonRows: r.lessonRows, crosswalkStandards: r.crosswalkStandards })) }, null, 2));

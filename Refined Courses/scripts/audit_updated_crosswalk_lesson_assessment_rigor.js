@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const root = process.cwd();
-const today = "2026-07-11";
+const today = "2026-07-12";
 
 const courses = [
   {
@@ -55,6 +55,14 @@ const courses = [
     mappingFiles: ["PHASE_3B_LESSON_MAPPING.md", "PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md"],
     supportFiles: ["PHASE_3A_B_VISUAL_SOURCE_MAPPING.md"],
   },
+  {
+    folder: "CULTURAL STUDIES",
+    type: "social",
+    fullCredit: true,
+    allowMlaElectiveSourceLimitation: true,
+    mappingFiles: ["PHASE_3B_LESSON_MAPPING.md", "PHASE_3C_FULL_CROSSWALK_LESSON_TRACE.md"],
+    supportFiles: ["PHASE_3A_B_VISUAL_SOURCE_MAPPING.md"],
+  },
 ];
 
 const pageNames = ["P01.html", "P02.html", "P03.html", "P04.html", "P05.html", "P06.html", "P07.html"];
@@ -67,7 +75,7 @@ const directUrlRe = /https?:\/\/[^"' <>)]+/gi;
 const resourceDirectionsRe = /\b(open|click|select|observe|record|return|submit|use the visible|write down|compare|run|play|start|change|measure)\b/i;
 const sourceProvenanceTerms = ["Florida", "CPALMS", "Common Core", "ACT", "SAT"];
 const externalVerificationRe = /External CPALMS Verification Addendum|Official CPALMS Verification Addendum|EXTERNAL-CPALMS-VERIFICATION-START/i;
-const mlaElectiveSourceLimitationRe = /Source Limitation Note|no single.*CPALMS.*Global Perspectives|MLA catalog elective/i;
+const mlaElectiveSourceLimitationRe = /Source Limitation Note|no single.*CPALMS.*(?:Global Perspectives|Cultural Studies)|MLA catalog elective/i;
 
 function read(file) {
   return fs.readFileSync(file, "utf8");
