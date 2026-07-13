@@ -2,7 +2,7 @@
 
 Course: United States History
 Course number: 2100310
-Source: CPALMS United States History (#2100310), Florida B.E.S.T. ELA Expectations, Common Core literacy support, SAT readiness support, ACT readiness support, ELD/accessibility support
+Source: CPALMS United States History (#2100310), Florida B.E.S.T. ELA Expectations, Common Core literacy support, SAT readiness support, ACT readiness support, ELD/accessibility support, and MTR data-reasoning support
 Created: 2026-07-10
 
 ## Purpose
@@ -18,7 +18,7 @@ This file makes the full crosswalk stack explicit for every U.S. History lesson.
 | SAT Readiness | Information and Ideas, Craft and Structure, Expression of Ideas, Standard English Conventions, command of evidence, words in context, informational graphics |
 | ACT Readiness | Main idea/details, inference, social science passage interpretation, data representation, evidence evaluation, writing organization |
 | ELD / Accessibility | `ELD.K12.ELL.SI.1`, `ELD.K12.ELL.SS.1`, academic vocabulary, clear sequence, visual support, sentence frames where needed |
-| MTR / Data Reasoning | `MA.K12.MTR.1.1`-`MA.K12.MTR.7.1` when interpreting maps, timelines, charts, graphs, economic data, demographic data, public policy data, or tables |
+| MTR / Data Reasoning | `MA.K12.MTR.1.1`, `MA.K12.MTR.2.1`, `MA.K12.MTR.3.1`, `MA.K12.MTR.4.1`, `MA.K12.MTR.5.1`, `MA.K12.MTR.6.1`, `MA.K12.MTR.7.1` when interpreting maps, timelines, charts, graphs, economic data, demographic data, public policy data, or tables |
 
 ## Lesson-by-Lesson Trace
 

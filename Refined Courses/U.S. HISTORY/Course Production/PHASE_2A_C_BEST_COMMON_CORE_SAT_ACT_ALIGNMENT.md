@@ -28,6 +28,7 @@ These support alignments do not replace the CPALMS Social Studies standards. The
 | Florida Social Studies / CPALMS | CPALMS United States History course #2100310, course page record 22636 | https://www.cpalms.org/PreviewCourse/Preview/22636 | Primary course content standards. Every listed `SS.912` standard in the U.S. History course listing must be inventoried, crosswalked, assigned to a unit, assigned to a lesson, taught, practiced, and assessed. | Controlling content source. |
 | Florida B.E.S.T. / ELA Expectations | ELA expectations embedded in the CPALMS U.S. History course listing | https://www.cpalms.org/PreviewCourse/Preview/22636 | Required literacy support for evidence citation, complex text, inference, academic format, and voice/tone. | Supports Social Studies mastery; does not add separate ELA lessons. |
 | ELD Support | ELD support standards embedded in the CPALMS U.S. History course listing | https://www.cpalms.org/PreviewCourse/Preview/22636 | Required student-access support for academic Social Studies communication. | Supports access and clarity; does not replace content standards. |
+| Mathematical Thinking and Reasoning Support | MTR support expectations embedded in the CPALMS U.S. History course listing | https://www.cpalms.org/PreviewCourse/Preview/22636 | Required support for maps, timelines, charts, graphs, tables, demographic data, economic data, public policy data, and reasonableness checks. | Supports historical data interpretation; does not create separate math lessons. |
 | Common Core Literacy in History/Social Studies | Common Core State Standards for Literacy in History/Social Studies, grades 11-12 | https://www.thecorestandards.org/ELA-Literacy/RH/11-12/ | Support alignment for textual evidence, central idea, source analysis, vocabulary in context, visual information, and evidence-based writing. | Support alignment only. Florida/CPALMS remains primary. |
 | SAT Readiness | College Board SAT Reading and Writing content domains | https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing | Support alignment for Information and Ideas, Craft and Structure, Expression of Ideas, informational graphics, history/social studies passages, and evidence-based reasoning. | Embedded readiness practice only. |
 | ACT Readiness | ACT College and Career Readiness Standards | https://www.act.org/content/act/en/college-and-career-readiness/standards.html | Support alignment for reading, social science passage comprehension, inference, data interpretation, evaluation of evidence, and writing readiness. | Embedded readiness practice only. |
@@ -42,6 +43,25 @@ These support alignments do not replace the CPALMS Social Studies standards. The
 | ELA.K12.EE.4.1 | Students use appropriate collaborative and listening skills when discussion or reflection tasks are included. In asynchronous lessons this becomes structured reflection and respectful response language. |
 | ELA.K12.EE.5.1 | Students use accepted formats for checkpoints, source analysis, claims, and evidence-based responses. |
 | ELA.K12.EE.6.1 | Students use appropriate academic voice and tone in historical explanations. |
+
+## ELD Support Alignment
+
+| Support Standard | Course Use |
+|---|---|
+| ELD.K12.ELL.SI.1 | Students receive academic-language support, visual scaffolds, vocabulary support, and clear response structures for Social Studies communication. |
+| ELD.K12.ELL.SS.1 | Students use Social Studies language to interpret sources, explain evidence, and communicate historical reasoning. |
+
+## Mathematical Thinking and Reasoning Support Alignment
+
+| Support Standard | Course Use |
+|---|---|
+| MA.K12.MTR.1.1 | Students engage in effortful learning when interpreting historical evidence, maps, timelines, graphs, and tables. |
+| MA.K12.MTR.2.1 | Students represent historical information through timelines, charts, maps, comparison tables, and evidence organizers. |
+| MA.K12.MTR.3.1 | Students use accurate reading of scales, dates, quantities, and displayed data when historical visuals require it. |
+| MA.K12.MTR.4.1 | Students explain reasoning from maps, tables, graphs, and timelines using evidence-based historical language. |
+| MA.K12.MTR.5.1 | Students identify patterns and structures in migration, economic, demographic, policy, and chronology data. |
+| MA.K12.MTR.6.1 | Students assess whether conclusions are reasonable based on the source, scale, pattern, and historical context. |
+| MA.K12.MTR.7.1 | Students apply data reasoning to real historical contexts without turning the lesson into a separate math lesson. |
 
 ## Common Core Literacy Support Alignment
 
