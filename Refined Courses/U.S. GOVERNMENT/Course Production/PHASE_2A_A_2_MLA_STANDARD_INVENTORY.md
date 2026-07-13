@@ -26,3 +26,17 @@
 | MLA.USG.CMP.2 | Analyze the Florida Constitution, Florida state government, county and municipal government, and the relationship between state and local authority. | Florida civics/government benchmark family; CPALMS course-aligned civic knowledge and evidence skills | B.E.S.T. literacy: read source text, compare evidence, write civic explanation | SAT/ACT: command of evidence, data/table interpretation, conventions of standard English |
 | MLA.USG.CMP.3 | Create evidence-based civic action plans using constitutional principles, stakeholder analysis, lawful advocacy, and practical implementation steps. | Florida civics/government benchmark family; CPALMS course-aligned civic knowledge and evidence skills | B.E.S.T. literacy: read source text, compare evidence, write civic explanation | SAT/ACT: command of evidence, data/table interpretation, conventions of standard English |
 | MLA.USG.CMP.4 | Evaluate contemporary constitutional issues using evidence, competing viewpoints, democratic safeguards, and civil civic discourse. | Florida civics/government benchmark family; CPALMS course-aligned civic knowledge and evidence skills | B.E.S.T. literacy: read source text, compare evidence, write civic explanation | SAT/ACT: command of evidence, data/table interpretation, conventions of standard English |
+
+## Official CPALMS-to-MLA Inventory Trace
+
+The external CPALMS addendum in `PHASE_2A_B_CROSSWALK_DRAFT.md` lists 52 official U.S. Government source codes from CPALMS United States Government #2106310. This table shows how those official codes are represented through local `MLA.USG.*` production standards.
+
+| Official CPALMS Code Bundle | Local MLA Standard(s) | Inventory Status |
+|---|---|---|
+| SS.912.CG.1.1, SS.912.CG.1.2, SS.912.CG.1.3, SS.912.CG.1.4, SS.912.CG.1.5 | MLA.USG.FND.1; MLA.USG.FND.2; MLA.USG.FND.3; MLA.USG.FND.4 | Represented |
+| SS.912.CG.2.1, SS.912.CG.2.2, SS.912.CG.2.3, SS.912.CG.2.4, SS.912.CG.2.5, SS.912.CG.2.6, SS.912.CG.2.7, SS.912.CG.2.8, SS.912.CG.2.9, SS.912.CG.2.10, SS.912.CG.2.11, SS.912.CG.2.12, SS.912.CG.2.13 | MLA.USG.RGT.1; MLA.USG.RGT.2; MLA.USG.RGT.3; MLA.USG.RGT.4; MLA.USG.POL.1; MLA.USG.POL.4 | Represented |
+| SS.912.CG.3.1, SS.912.CG.3.2, SS.912.CG.3.3, SS.912.CG.3.4, SS.912.CG.3.5, SS.912.CG.3.6, SS.912.CG.3.7, SS.912.CG.3.8, SS.912.CG.3.9, SS.912.CG.3.10, SS.912.CG.3.11, SS.912.CG.3.12, SS.912.CG.3.13, SS.912.CG.3.14, SS.912.CG.3.15 | MLA.USG.CON.1; MLA.USG.CON.2; MLA.USG.CON.3; MLA.USG.CON.4; MLA.USG.PCY.1; MLA.USG.PCY.2; MLA.USG.PCY.3; MLA.USG.PCY.4 | Represented |
+| SS.912.CG.4.1, SS.912.CG.4.2, SS.912.CG.4.3, SS.912.CG.4.4, SS.912.CG.4.5 | MLA.USG.POL.1; MLA.USG.POL.2; MLA.USG.POL.3; MLA.USG.POL.4; MLA.USG.CMP.3; MLA.USG.CMP.4 | Represented |
+| SS.912.AA.1.4, SS.912.AA.2.1, SS.912.AA.2.4, SS.912.AA.2.5, SS.912.AA.2.6, SS.912.AA.2.8 | MLA.USG.RGT.3; MLA.USG.RGT.4; MLA.USG.CMP.4 | Represented |
+| SS.912.HC.7.2, SS.912.HC.7.3, SS.912.HC.7.4, SS.912.HC.7.7 | MLA.USG.RGT.1; MLA.USG.RGT.2; MLA.USG.RGT.3; MLA.USG.CMP.4 | Represented |
+| SS.912.HE.1.4, SS.912.HE.1.5, SS.912.HE.2.2, SS.912.HE.3.4 | MLA.USG.RGT.3; MLA.USG.CMP.1; MLA.USG.CMP.4 | Represented |
