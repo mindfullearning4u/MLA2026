@@ -10,12 +10,12 @@ Official build target: **47 catalog courses**
 
 ```text
 47 total courses
-31 course-build complete / Moodle transfer ready
+32 course-build complete / Moodle transfer ready
 0 course-production complete / lessons and assessments pending
 10 transferred to Moodle
 0 currently in Moodle transfer
-16 not started
-16 still need lessons, assessments, final audit, or full build completion
+15 not started
+15 still need lessons, assessments, final audit, or full build completion
 ```
 
 ## Status Key
@@ -64,7 +64,7 @@ Official build target: **47 catalog courses**
 | Career Planning & Portfolio | College & Career Readiness | 0.5 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Introduction to Computer Science | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | AI Foundations | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
-| Digital Citizenship & Online Safety | Technology & AI Pathway | 0.5 | Not started | Not started | Not started | Not started |
+| Digital Citizenship & Online Safety | Technology & AI Pathway | 0.5 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Coding with Python | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | Data Literacy for Teens | Technology & AI Pathway | 1.0 | Not started | Not started | Not started | Not started |
 | Psychology | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
@@ -81,7 +81,7 @@ Official build target: **47 catalog courses**
 | Life Skills & Independent Living | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 | Nutrition & Wellness | Life Skills & Wellness | 1.0 | Not started | Not started | Not started | Not started |
 
-Current repo-complete count: **31 courses**.
+Current repo-complete count: **32 courses**.
 
 Important count note: the active catalog lists **47 courses**, and all 47 are part of the required build target.
 
@@ -122,6 +122,7 @@ These courses have active course folders and have been treated as course-build c
 | Social Sciences & Humanities | Cultural Studies | `CULTURAL STUDIES` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with MLA elective source limitation documentation, Florida/CPALMS/Common Core/SAT/ACT provenance, embedded cultural source organizers, context maps, representation/media charts, timelines, ethical decision tools, and Moodle XML stimuli. |
 | Physical Education & Health | Health & Physical Education | `HEALTH AND PHYSICAL EDUCATION` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with CPALMS/FDOE Health Education and Physical Education alignment, embedded FITT tables, heart-rate/intensity charts, nutrition-label models, safety pathways, wellness maps, portfolio organizers, and Moodle XML visual stimuli. |
 | College & Career Readiness | Career Planning & Portfolio | `CAREER PLANNING AND PORTFOLIO` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | 0.5-credit structure: 6 units, 5 lessons per unit; Lesson 05 synthesis/unit assessment only. Course completion and pre-Moodle repository readiness audits passed on 2026-07-13. |
+| Technology & AI Pathway | Digital Citizenship & Online Safety | `DIGITAL CITIZENSHIP AND ONLINE SAFETY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | 0.5-credit structure: 6 units, 5 lessons per unit; Lesson 05 synthesis/unit assessment only. Built with CPALMS/FDOE Computer Science support, CSTA/ISTE digital citizenship support, Florida B.E.S.T., Common Core, SAT, ACT, and ELD/accessibility alignment. |
 
 ## Remaining Catalog Courses
 
@@ -137,7 +138,6 @@ These courses are listed in the catalog but do not currently have completed acti
 | College & Career Readiness | Leadership Development | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Introduction to Computer Science | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | AI Foundations | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
-| Technology & AI Pathway | Digital Citizenship & Online Safety | 0.5 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Coding with Python | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Technology & AI Pathway | Data Literacy for Teens | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
 | Business & Entrepreneurship | Principles of Business | 1.0 | Not started | Not started | Not started | Not started | Not started | Required |
