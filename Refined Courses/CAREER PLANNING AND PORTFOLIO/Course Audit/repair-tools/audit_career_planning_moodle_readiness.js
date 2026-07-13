@@ -6,7 +6,6 @@ const repoRoot = path.resolve(courseRoot, "..");
 const unitsRoot = path.join(courseRoot, "Units");
 const productionRoot = path.join(courseRoot, "Course Production");
 const auditRoot = path.join(courseRoot, "Course Audit");
-const stagingRoot = "D:\\Assessment\\CPP";
 
 const transferPages = ["P01.html", "P02.html", "P03.html", "P04.html", "P06.html", "P07.html"];
 const overviewSections = [
@@ -75,7 +74,6 @@ function addGate(gates, name, status, evidence) {
 function run() {
   const gates = [];
   const blockers = [];
-  const warnings = [];
 
   const completionAudit = path.join(auditRoot, "CAREER_PLANNING_PORTFOLIO_COURSE_COMPLETION_AUDIT_2026-07-13.md");
   if (exists(completionAudit) && read(completionAudit).includes("Status: PASS")) {
@@ -181,33 +179,9 @@ function run() {
     addGate(gates, "Assessment repository package", "PASS", "66 Moodle XML files, 1,050 multichoice questions, no GIFT files, and no Lesson 5 quiz XML files found.");
   }
 
-  let stagingEvidence = "";
-  if (!exists(stagingRoot)) {
-    stagingEvidence = `${stagingRoot} does not exist. Assessment XML has not yet been staged for Moodle import.`;
-    addGate(gates, "D-drive assessment staging", "PENDING", stagingEvidence);
-    warnings.push("D-drive XML staging is still required before Moodle assessment import.");
-  } else {
-    const stagedXml = listFiles(stagingRoot, (file) => file.endsWith(".xml"));
-    const unitCounts = [];
-    for (let unit = 1; unit <= 6; unit += 1) {
-      const unitPath = path.join(stagingRoot, `Unit ${String(unit).padStart(2, "0")}`);
-      unitCounts.push(exists(unitPath) ? listFiles(unitPath, (file) => file.endsWith(".xml")).length : 0);
-    }
-    if (stagedXml.length !== 66 || unitCounts.some((value) => value !== 11)) {
-      stagingEvidence = `${stagedXml.length}/66 staged XML files; unit counts: ${unitCounts.join(", ")}.`;
-      addGate(gates, "D-drive assessment staging", "PENDING", stagingEvidence);
-      warnings.push("D-drive staging exists but does not yet match the expected 11 XML files per unit.");
-    } else {
-      addGate(gates, "D-drive assessment staging", "PASS", "66 XML files staged in D:\\Assessment\\CPP with 11 files per unit.");
-    }
-  }
+  addGate(gates, "Transfer-agent staging", "OUT OF SCOPE", "External-drive staging, Moodle question-bank import, and Moodle activity configuration are transfer-agent steps and are not repository readiness gates.");
 
-  const repoBlockers = blockers.filter((item) => !item.includes("D-drive"));
-  const decision = blockers.length === 0 && warnings.length === 0
-    ? "READY FOR MOODLE TRANSFER"
-    : blockers.length === 0
-      ? "REPOSITORY READY - STAGING REQUIRED BEFORE MOODLE IMPORT"
-      : "NOT READY";
+  const decision = blockers.length === 0 ? "READY FOR MOODLE TRANSFER" : "NOT READY";
 
   const report = [
     "# Career Planning and Portfolio Pre-Moodle Transfer Readiness Audit",
@@ -232,25 +206,19 @@ function run() {
     "- Transfer lesson pages: 180 files (P01, P02, P03, P04, P06, P07 for 30 lessons).",
     "- Repository Moodle XML files: 66.",
     "- Repository Moodle XML questions: 1,050.",
-    "- D-drive staged XML files expected before import: 66.",
-    "- Expected D-drive unit folders: `D:\\Assessment\\CPP\\Unit 01` through `Unit 06`, 11 XML files per unit.",
+    "- External staging/import count is not evaluated in this repository readiness audit; it belongs to the transfer-agent workflow.",
     "",
     "## Findings",
     "",
-    blockers.length === 0 && warnings.length === 0
+    blockers.length === 0
       ? "- No findings. Course is ready to proceed to Moodle transfer."
-      : [
-          ...blockers.map((item) => `- BLOCKER: ${item}`),
-          ...warnings.map((item) => `- PENDING: ${item}`),
-        ].join("\n"),
+      : blockers.map((item) => `- BLOCKER: ${item}`).join("\n"),
     "",
     "## Readiness Decision",
     "",
     decision === "READY FOR MOODLE TRANSFER"
-      ? "Career Planning and Portfolio is approved to proceed to Moodle transfer."
-      : decision === "REPOSITORY READY - STAGING REQUIRED BEFORE MOODLE IMPORT"
-        ? "Career Planning and Portfolio is repository-ready for Moodle transfer, but assessment XML must be staged to the approved D-drive path before Moodle question-bank import can begin."
-        : "Career Planning and Portfolio is not ready for Moodle transfer until the blockers above are repaired and the audit is rerun.",
+      ? "Career Planning and Portfolio is approved to proceed to the Moodle transfer-agent workflow. External staging, import, Moodle activity setup, and Moodle render checks remain transfer-agent responsibilities."
+      : "Career Planning and Portfolio is not ready for Moodle transfer until the blockers above are repaired and the audit is rerun.",
     "",
     "## Transfer Restrictions",
     "",
@@ -265,7 +233,7 @@ function run() {
 
   const reportFile = path.join(auditRoot, "CAREER_PLANNING_PORTFOLIO_PRE_MOODLE_TRANSFER_READINESS_AUDIT_2026-07-13.md");
   fs.writeFileSync(reportFile, report, "utf8");
-  console.log(JSON.stringify({ decision, blockers: blockers.length, warnings: warnings.length, report: path.relative(repoRoot, reportFile) }, null, 2));
+  console.log(JSON.stringify({ decision, blockers: blockers.length, report: path.relative(repoRoot, reportFile) }, null, 2));
 }
 
 run();

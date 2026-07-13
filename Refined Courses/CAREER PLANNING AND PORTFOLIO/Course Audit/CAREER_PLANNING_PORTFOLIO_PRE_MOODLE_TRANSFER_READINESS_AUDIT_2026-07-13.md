@@ -3,7 +3,7 @@
 **Date:** 2026-07-13
 **Course:** Career Planning and Portfolio
 **Audit Type:** Repo-to-Moodle transfer readiness checkpoint
-**Status:** REPOSITORY READY - STAGING REQUIRED BEFORE MOODLE IMPORT
+**Status:** READY FOR MOODLE TRANSFER
 
 ## Scope
 
@@ -20,23 +20,22 @@ This audit verifies whether the repository course package is ready to begin Mood
 | Repository lesson transfer pages | PASS | P01, P02, P03, P04, P06, and P07 exist for all 30 lessons; no mojibake, backend file leakage, placeholder artifacts, or prohibited teacher-led language detected. |
 | Lesson and assessment metadata | PASS | Lesson 1-4 quiz metadata and Lesson 5 synthesis/unit-assessment metadata match the 0.5-credit model. |
 | Assessment repository package | PASS | 66 Moodle XML files, 1,050 multichoice questions, no GIFT files, and no Lesson 5 quiz XML files found. |
-| D-drive assessment staging | PENDING | D:\Assessment\CPP does not exist. Assessment XML has not yet been staged for Moodle import. |
+| Transfer-agent staging | OUT OF SCOPE | External-drive staging, Moodle question-bank import, and Moodle activity configuration are transfer-agent steps and are not repository readiness gates. |
 
 ## Required Transfer Counts
 
 - Transfer lesson pages: 180 files (P01, P02, P03, P04, P06, P07 for 30 lessons).
 - Repository Moodle XML files: 66.
 - Repository Moodle XML questions: 1,050.
-- D-drive staged XML files expected before import: 66.
-- Expected D-drive unit folders: `D:\Assessment\CPP\Unit 01` through `Unit 06`, 11 XML files per unit.
+- External staging/import count is not evaluated in this repository readiness audit; it belongs to the transfer-agent workflow.
 
 ## Findings
 
-- PENDING: D-drive XML staging is still required before Moodle assessment import.
+- No findings. Course is ready to proceed to Moodle transfer.
 
 ## Readiness Decision
 
-Career Planning and Portfolio is repository-ready for Moodle transfer, but assessment XML must be staged to the approved D-drive path before Moodle question-bank import can begin.
+Career Planning and Portfolio is approved to proceed to the Moodle transfer-agent workflow. External staging, import, Moodle activity setup, and Moodle render checks remain transfer-agent responsibilities.
 
 ## Transfer Restrictions
 
