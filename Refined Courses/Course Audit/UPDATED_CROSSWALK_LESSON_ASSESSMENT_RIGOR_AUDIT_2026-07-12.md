@@ -32,7 +32,7 @@ Date: 2026-07-12
 | MARINE SCIENCE | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | U.S. GOVERNMENT | 30 | 30 | 210 | 66 | 1050 | 0 | 0 | PASS |
 | PERSONAL FINANCIAL LITERACY AND ECONOMICS | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
-| PSYCHOLOGY | 48 | 48 | 336 | 102 | 1590 | 1 | 0 | FAIL |
+| PSYCHOLOGY | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | SOCIOLOGY | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | GLOBAL PERSPECTIVES | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
 | CULTURAL STUDIES | 48 | 48 | 336 | 102 | 1590 | 0 | 0 | PASS |
@@ -309,8 +309,7 @@ PASS: No blockers found against the updated crosswalk lesson and assessment rigo
 
 ## PSYCHOLOGY
 
-FAILURES (1):
-- PSYCHOLOGY/Units/Unit 06/PSY_U06_Pretest.xml question 7 uses standard outside mapped lesson/unit: MLA.PSY.CAP.2.PSY.CAP.2.PSY.CAP.2
+PASS: No blockers found against the updated crosswalk lesson and assessment rigor audit.
 
 ## SOCIOLOGY
 
