@@ -4,7 +4,7 @@ Date: 2026-07-12
 
 Course: Journalism
 Moodle course URL: https://mla.moodlecloud.com/course/view.php?id=47
-Status: In progress - lessons first; assessment transfer deferred until D:\Assessment files are available.
+Status: Complete - final student readiness audit passed on 2026-07-14.
 
 ## Pre-Transfer Readiness Check
 
@@ -279,7 +279,9 @@ All lesson pages below were transferred through Moodle `Tools > Source code`, th
 | U6 L2 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12305#lesson-10764 | `JOURNALISM/Units/Unit 06/Lesson 02/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
 | U6 L2 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12305#lesson-10765 | `JOURNALISM/Units/Unit 06/Lesson 02/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
 
-## Deferred Assessment Phase
+## Historical Deferred Assessment Phase
+
+This section records the earlier deferred state before the 2026-07-14 assessment/activity completion check below.
 
 Assessment transfer to D:\Assessment, Moodle question-bank import, and Moodle quiz activity population are pending. Do not certify Journalism enrollment readiness until:
 
@@ -288,3 +290,41 @@ Assessment transfer to D:\Assessment, Moodle question-bank import, and Moodle qu
 - all assessment activities have the correct questions or random-question rules attached,
 - all assessments are previewed/audited,
 - the final enrollment readiness audit is completed.
+
+## Assessment Activity Placement Check - 2026-07-14
+
+All Journalism assessment activities were checked in Moodle quiz edit pages after question-bank transfer.
+
+- Unit 1: complete. Pretest has 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessment has 10 random questions.
+- Unit 2: complete. Pretest has 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessment has 10 random questions.
+- Unit 3: complete. Pretest has 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessment has 10 random questions.
+- Unit 4: complete. Pretest has 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessment has 10 random questions.
+- Unit 5: complete. Pretest has 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessment has 10 random questions.
+- Unit 6: complete. Pretest has 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessment has 10 random questions.
+
+Result: 102 / 102 Journalism assessment activities are populated in Moodle.
+
+## Final Student Readiness Audit - 2026-07-14
+
+Moodle direct checks completed for Journalism course `https://mla.moodlecloud.com/course/view.php?id=47`.
+
+- Course structure: verified all 6 units are present.
+- Lesson activities: verified all 96 lesson activities are present on the Moodle course page.
+- Final lesson gap check: because the lesson transfer table above stops at Unit 6 Lesson 2, Unit 6 Lessons 3-8 were opened directly in Moodle. All 12 final Unit 6 lesson activities loaded student-facing Journalism content with no empty-lesson warning.
+- Required P01 overview updates: Moodle view checks confirmed Unit 6 Lesson 3-8 overview pages load corrected Journalism overview content; earlier transfer rows document P01 updates through Unit 6 Lesson 2.
+- Assessments: verified 102 / 102 assessment activities are populated in Moodle. Pretests have 10 questions; guided practices have 5 questions; lesson quizzes have 5 random questions; final assessments have 10 random questions.
+
+Result: Journalism is student-ready in Moodle.
+
+## Final Student Readiness Audit Confirmation - 2026-07-14
+
+Live Moodle course-page audit was repeated after the final readiness note.
+
+- Course page title verified: `Course: Journalism | MLA`.
+- Unit visibility: Units 01-06 are visible.
+- Lesson activity check: 96 / 96 expected lesson activities are visible on the Moodle course page.
+- Assessment activity check: 102 / 102 expected assessment activities are visible as unique Moodle quiz activities.
+- Page warning check: no empty-lesson or no-question warning was found during the course-page audit.
+- Tracker update: root `COURSE_BUILD_TRACKER.md` updated to mark Journalism as transferred to Moodle and student enrollment ready.
+
+Final status: PASS - Ready for student enrollment.
