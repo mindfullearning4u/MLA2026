@@ -2,7 +2,7 @@
 
 Source: `C:\Users\acrue\MLA2026-1\catalogs\HS Catalog`
 
-Last updated: 2026-07-13
+Last updated: 2026-07-14
 
 ## Quick View
 
@@ -12,7 +12,7 @@ Official build target: **47 catalog courses**
 47 total courses
 32 course-build complete / Moodle transfer ready
 0 course-production complete / lessons and assessments pending
-10 transferred to Moodle
+11 transferred to Moodle
 0 currently in Moodle transfer
 15 not started
 15 still need lessons, assessments, final audit, or full build completion
@@ -73,7 +73,7 @@ Official build target: **47 catalog courses**
 | Cultural Studies | Social Sciences & Humanities | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Marine Science | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Anatomy & Physiology | Science Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
-| Creative Writing | English Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
+| Creative Writing | English Electives | 1.0 | Complete | Complete | Moodle transfer ready | Transferred to Moodle |
 | Journalism | English Electives | 1.0 | Complete | Complete | Moodle transfer ready | Needs confirmation |
 | Principles of Business | Business & Entrepreneurship | 1.0 | Not started | Not started | Not started | Not started |
 | Entrepreneurship Lab | Business & Entrepreneurship | 1.0 | Not started | Not started | Not started | Not started |
@@ -110,7 +110,7 @@ These courses have active course folders and have been treated as course-build c
 | Fine Arts / Practical Arts | Speech & Communication | `SPEECH COMMUNICATION` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Also listed in active repo as completed English/communication course. |
 | Science Electives | Marine Science | `MARINE SCIENCE` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with 48 lessons and 102 Moodle XML files. |
 | Science Electives | Anatomy & Physiology | `ANATOMY AND PHYSIOLOGY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Science layered audit requirements apply. |
-| English Electives | Creative Writing | `CREATIVE WRITING` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English elective completed. |
+| English Electives | Creative Writing | `CREATIVE WRITING` | Complete | Complete | Complete | Moodle transfer ready | Transferred to Moodle | Final Moodle student-readiness audit passed; see `CREATIVE WRITING\Course Audit\CREATIVE_WRITING_MOODLE_STUDENT_READINESS_AUDIT_2026-07-14.md`. |
 | English Electives | Journalism | `JOURNALISM` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | English elective completed. |
 | Social Studies and Financial Literacy | World History | `WORLD HISTORY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with social studies layered audit requirements. |
 | Social Studies and Financial Literacy | U.S. History | `U.S. HISTORY` | Complete | Complete | Complete | Moodle transfer ready | Needs confirmation | Built and certified with social studies layered audit requirements. |
@@ -162,6 +162,7 @@ The following should be updated only after a transfer agent or Moodle verificati
 | English II | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH II\Course Audit\ENGLISH_II_MOODLE_TRANSFER_LOG_2026-07-11.md`. |
 | English III | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle enrollment-readiness audit passed; see `ENGLISH III\Course Audit\ENGLISH_III_MOODLE_ENROLLMENT_READINESS_AUDIT_2026-07-12.md`. |
 | English IV | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | User confirmed Moodle transfer is complete. |
+| Creative Writing | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Transferred to Moodle | Final Moodle student-readiness audit passed; see `CREATIVE WRITING\Course Audit\CREATIVE_WRITING_MOODLE_STUDENT_READINESS_AUDIT_2026-07-14.md`. |
 | All other completed courses | Needs confirmation | Needs confirmation | Needs confirmation | Needs confirmation | Confirm after Moodle transfer agent completes. |
 
 ## Next Tracker Decisions Needed
