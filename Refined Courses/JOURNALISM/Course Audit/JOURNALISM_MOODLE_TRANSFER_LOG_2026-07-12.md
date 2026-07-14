@@ -278,17 +278,102 @@ All lesson pages below were transferred through Moodle `Tools > Source code`, th
 | U6 L2 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12303#lesson-10763 | `JOURNALISM/Units/Unit 06/Lesson 02/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
 | U6 L2 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12305#lesson-10764 | `JOURNALISM/Units/Unit 06/Lesson 02/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
 | U6 L2 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12305#lesson-10765 | `JOURNALISM/Units/Unit 06/Lesson 02/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L3 Overview, Notebook Tasks, & Worked Example | Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12309#lesson-10766 | `JOURNALISM/Units/Unit 06/Lesson 03/P01.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L3 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 1 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12309#lesson-10767 | `JOURNALISM/Units/Unit 06/Lesson 03/P02.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L3 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 2 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12309#lesson-10768 | `JOURNALISM/Units/Unit 06/Lesson 03/P03.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L3 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12309#lesson-10769 | `JOURNALISM/Units/Unit 06/Lesson 03/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L3 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12311#lesson-10770 | `JOURNALISM/Units/Unit 06/Lesson 03/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L3 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12311#lesson-10771 | `JOURNALISM/Units/Unit 06/Lesson 03/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L4 Overview, Notebook Tasks, & Worked Example | Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12315#lesson-10772 | `JOURNALISM/Units/Unit 06/Lesson 04/P01.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L4 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 1 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12315#lesson-10773 | `JOURNALISM/Units/Unit 06/Lesson 04/P02.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L4 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 2 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12315#lesson-10774 | `JOURNALISM/Units/Unit 06/Lesson 04/P03.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L4 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12315#lesson-10775 | `JOURNALISM/Units/Unit 06/Lesson 04/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L4 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12317#lesson-10776 | `JOURNALISM/Units/Unit 06/Lesson 04/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L4 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12317#lesson-10777 | `JOURNALISM/Units/Unit 06/Lesson 04/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L5 Overview, Notebook Tasks, & Worked Example | Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12321#lesson-10778 | `JOURNALISM/Units/Unit 06/Lesson 05/P01.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L5 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 1 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12321#lesson-10779 | `JOURNALISM/Units/Unit 06/Lesson 05/P02.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L5 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 2 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12321#lesson-10780 | `JOURNALISM/Units/Unit 06/Lesson 05/P03.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L5 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12321#lesson-10781 | `JOURNALISM/Units/Unit 06/Lesson 05/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L5 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12323#lesson-10782 | `JOURNALISM/Units/Unit 06/Lesson 05/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L5 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12323#lesson-10783 | `JOURNALISM/Units/Unit 06/Lesson 05/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L6 Overview, Notebook Tasks, & Worked Example | Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12327#lesson-10784 | `JOURNALISM/Units/Unit 06/Lesson 06/P01.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L6 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 1 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12327#lesson-10785 | `JOURNALISM/Units/Unit 06/Lesson 06/P02.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L6 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 2 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12327#lesson-10786 | `JOURNALISM/Units/Unit 06/Lesson 06/P03.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L6 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12327#lesson-10787 | `JOURNALISM/Units/Unit 06/Lesson 06/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L6 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12329#lesson-10788 | `JOURNALISM/Units/Unit 06/Lesson 06/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L6 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12329#lesson-10789 | `JOURNALISM/Units/Unit 06/Lesson 06/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L7 Overview, Notebook Tasks, & Worked Example | Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12333#lesson-10790 | `JOURNALISM/Units/Unit 06/Lesson 07/P01.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L7 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 1 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12333#lesson-10791 | `JOURNALISM/Units/Unit 06/Lesson 07/P02.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L7 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 2 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12333#lesson-10792 | `JOURNALISM/Units/Unit 06/Lesson 07/P03.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L7 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12333#lesson-10793 | `JOURNALISM/Units/Unit 06/Lesson 07/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L7 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12335#lesson-10794 | `JOURNALISM/Units/Unit 06/Lesson 07/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L7 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12335#lesson-10795 | `JOURNALISM/Units/Unit 06/Lesson 07/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L8 Overview, Notebook Tasks, & Worked Example | Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12339#lesson-10796 | `JOURNALISM/Units/Unit 06/Lesson 08/P01.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L8 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 1 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12339#lesson-10797 | `JOURNALISM/Units/Unit 06/Lesson 08/P02.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L8 Overview, Notebook Tasks, & Worked Example | Notebook Task - Part 2 | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12339#lesson-10798 | `JOURNALISM/Units/Unit 06/Lesson 08/P03.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L8 Overview, Notebook Tasks, & Worked Example | Worked Example | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12339#lesson-10799 | `JOURNALISM/Units/Unit 06/Lesson 08/P04.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L8 Independent Work & Checkpoint | Independent Work | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12341#lesson-10800 | `JOURNALISM/Units/Unit 06/Lesson 08/P06.html` | Source dialog accepted HTML; editor render check passed; saved. |
+| U6 L8 Independent Work & Checkpoint | Checkpoint | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12341#lesson-10801 | `JOURNALISM/Units/Unit 06/Lesson 08/P07.html` | Source dialog accepted HTML; editor render check passed; saved. |
 
 ## Historical Deferred Assessment Phase
 
 This section records the earlier deferred state before the 2026-07-14 assessment/activity completion check below.
 
-Assessment transfer to D:\Assessment, Moodle question-bank import, and Moodle quiz activity population are pending. Do not certify Journalism enrollment readiness until:
+## Repo Update Refresh - 2026-07-12
 
-- all Moodle XML files are copied to D:\Assessment using the academy naming/folder standard,
-- all question banks are imported and checked,
-- all assessment activities have the correct questions or random-question rules attached,
-- all assessments are previewed/audited,
+`git pull origin main` was already up to date at commit `17e8bc83c`. The latest Journalism repo changes affected `Course-Overview.md` and multiple lesson overview pages (`P01.html`). Moodle pages that had already been transferred were refreshed from the current repo source. Assessment XML changes from the same commit were not transferred because the Journalism assessment phase is deferred.
+
+| Moodle page updated | Moodle URL | Repo source file | Verification result |
+| --- | --- | --- | --- |
+| Course Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=11946#lesson-10510 | `JOURNALISM/Course Production/Course-Overview.md` | Converted Markdown to clean HTML; removed hidden BOM issue; editor render check passed; saved. |
+| U1 L1 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12052#lesson-10514 | `JOURNALISM/Units/Unit 01/Lesson 01/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U1 L2 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12058#lesson-10520 | `JOURNALISM/Units/Unit 01/Lesson 02/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U1 L3 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12064#lesson-10526 | `JOURNALISM/Units/Unit 01/Lesson 03/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U1 L4 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12070#lesson-10532 | `JOURNALISM/Units/Unit 01/Lesson 04/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U1 L5 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12076#lesson-10538 | `JOURNALISM/Units/Unit 01/Lesson 05/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U1 L6 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12082#lesson-10544 | `JOURNALISM/Units/Unit 01/Lesson 06/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U1 L7 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12088#lesson-10550 | `JOURNALISM/Units/Unit 01/Lesson 07/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L1 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12101#lesson-10562 | `JOURNALISM/Units/Unit 02/Lesson 01/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L2 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12107#lesson-10568 | `JOURNALISM/Units/Unit 02/Lesson 02/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L3 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12113#lesson-10574 | `JOURNALISM/Units/Unit 02/Lesson 03/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L4 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12119#lesson-10580 | `JOURNALISM/Units/Unit 02/Lesson 04/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L5 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12125#lesson-10586 | `JOURNALISM/Units/Unit 02/Lesson 05/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L6 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12131#lesson-10592 | `JOURNALISM/Units/Unit 02/Lesson 06/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U2 L7 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12137#lesson-10598 | `JOURNALISM/Units/Unit 02/Lesson 07/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L1 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12150#lesson-10610 | `JOURNALISM/Units/Unit 03/Lesson 01/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L2 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12156#lesson-10616 | `JOURNALISM/Units/Unit 03/Lesson 02/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L3 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12162#lesson-10622 | `JOURNALISM/Units/Unit 03/Lesson 03/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L4 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12168#lesson-10628 | `JOURNALISM/Units/Unit 03/Lesson 04/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L5 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12174#lesson-10634 | `JOURNALISM/Units/Unit 03/Lesson 05/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L6 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12180#lesson-10640 | `JOURNALISM/Units/Unit 03/Lesson 06/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U3 L7 Overview | https://mla.moodlecloud.com/mod/lesson/edit.php?id=12186#lesson-10646 | `JOURNALISM/Units/Unit 03/Lesson 07/P01.html` | Source dialog refresh from current repo; editor render check passed; saved. |
+| U4 L1-L8 Overview pages | https://mla.moodlecloud.com/course/view.php?id=47#section-341 | `JOURNALISM/Units/Unit 04/Lesson 01/P01.html` through `Lesson 08/P01.html` | All eight changed Unit 4 overview pages refreshed through source dialog; editor render checks passed; saved. |
+| U5 L1-L8 Overview pages | https://mla.moodlecloud.com/course/view.php?id=47#section-342 | `JOURNALISM/Units/Unit 05/Lesson 01/P01.html` through `Lesson 08/P01.html` | All eight changed Unit 5 overview pages refreshed through source dialog; editor render checks passed; saved. |
+| U6 L1-L2 Overview pages | https://mla.moodlecloud.com/course/view.php?id=47#section-343 | `JOURNALISM/Units/Unit 06/Lesson 01/P01.html` and `Lesson 02/P01.html` | Both completed Unit 6 overview pages refreshed through source dialog; editor render checks passed; saved. |
+
+## Assessment Question-Bank Import - 2026-07-13
+
+Assessment XML files were staged in `D:\Assessment\JOUR\Unit 01` through `D:\Assessment\JOUR\Unit 06` using the academy D-drive assessment folder standard. Moodle question banks were imported from the staged Moodle XML files only.
+
+Moodle import handling note: when the Moodle file picker appeared to stall after `Upload this file`, the correct recovery process was to close the file-picker dialog, click `Import` once, confirm the Moodle page displayed `Importing [expected count] questions from file`, click `Continue`, and verify the selected question-bank category count. This process was required repeatedly and was confirmed as the reliable MoodleCloud workflow.
+
+| Scope | Moodle course | Moodle question-bank URL | Staged XML source | Verification result |
+| --- | --- | --- | --- | --- |
+| Unit 1 question banks | JRN / course id 47 | https://mla.moodlecloud.com/question/banks.php?courseid=47 | `D:\Assessment\JOUR\Unit 01\*.xml` | Verified: U1 Pretest (10), U1L1-L7 GP (5 each), U1L1-L7 Q (25 each), U1L8 GP (5), U1L8 UA (40). |
+| Unit 2 question banks | JRN / course id 47 | https://mla.moodlecloud.com/question/banks.php?courseid=47 | `D:\Assessment\JOUR\Unit 02\*.xml` | Verified: U2 Pretest (10), U2L1-L7 GP (5 each), U2L1-L7 Q (25 each), U2L8 GP (5), U2L8 UA (40). |
+| Unit 3 question banks | JRN / course id 47 | https://mla.moodlecloud.com/question/banks.php?courseid=47 | `D:\Assessment\JOUR\Unit 03\*.xml` | Verified: U3 Pretest (10), U3L1-L7 GP (5 each), U3L1-L7 Q (25 each), U3L8 GP (5), U3L8 UA (40). |
+| Unit 4 question banks | JRN / course id 47 | https://mla.moodlecloud.com/question/banks.php?courseid=47 | `D:\Assessment\JOUR\Unit 04\*.xml` | Verified: U4 Pretest (10), U4L1-L7 GP (5 each), U4L1-L7 Q (25 each), U4L8 GP (5), U4L8 UA (40). |
+| Unit 5 question banks | JRN / course id 47 | https://mla.moodlecloud.com/question/banks.php?courseid=47 | `D:\Assessment\JOUR\Unit 05\*.xml` | Verified: U5 Pretest (10), U5L1-L7 GP (5 each), U5L1-L7 Q (25 each), U5L8 GP (5), U5L8 UA (40). |
+| Unit 6 question banks | JRN / course id 47 | https://mla.moodlecloud.com/question/banks.php?courseid=47 | `D:\Assessment\JOUR\Unit 06\*.xml` | Verified: U6 Pretest (10), U6L1-L7 GP (5 each), U6L1-L7 Q (25 each), U6L8 GP (5), U6L8 UA (40). |
+
+Question-bank import status: PASS for all 102 Journalism assessment banks.
+
+## Remaining Assessment Activity Phase
+
+Do not certify Journalism enrollment readiness until:
+
+- all assessment activities have the correct questions or random-question rules attached from the verified question banks,
+- all assessments are previewed/audited in Moodle,
 - the final enrollment readiness audit is completed.
 
 ## Assessment Activity Placement Check - 2026-07-14
