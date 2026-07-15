@@ -11,7 +11,7 @@
     "SC.912.N.1.4",
     "ELA.K12.EE.1.1"
   ],
-  "lessonPurpose": "Evaluate claims, sources, evidence, and alternative explanations in biology contexts.",
+  "lessonPurpose": "Evaluate claims, sources, and alternative explanations.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -27,42 +27,26 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": "Does not apply",
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Source reliability and competing explanations analysis.",
+    "labDataInvestigation": "Embedded data/model reasoning aligned to Claims, Sources, and Scientific Argument.",
     "requiredVisuals": [
-      "Source reliability checklist",
-      "Claim-evidence-reasoning organizer"
+      "Evidence table",
+      "Model or data display",
+      "CER organizer"
     ],
-    "candidateResourcesForApproval": [
-      "CPALMS Biology resources",
-      "HHMI BioInteractive science literacy resources",
-      "NIH or CDC source examples"
-    ],
-    "assessmentStimulus": "Short source excerpt and evidence table",
     "approvedDirectResources": [
       {
-        "name": "OpenStax Biology 2e: The Process of Science",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/1-2-the-process-of-science",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Lesson-specific model, table, scenario, or data display for Claims, Sources, and Scientific Argument."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Claims, Sources, and Scientific Argument",
-  "standards": [
-    "MLA.BIO.SCI.02"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.SCI.02"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "OpenStax Biology 2e: The Process of Science",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/1-2-the-process-of-science",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U01_L05_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U01_L05_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U01_L05_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

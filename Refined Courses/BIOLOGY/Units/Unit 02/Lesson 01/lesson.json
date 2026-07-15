@@ -10,7 +10,7 @@
     "ELA.K12.EE.2.1",
     "MA.K12.MTR.2.1"
   ],
-  "lessonPurpose": "Compare prokaryotic, eukaryotic, plant, and animal cells using diagrams and structure-function reasoning.",
+  "lessonPurpose": "Compare prokaryotic, eukaryotic, plant, and animal cells.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -26,42 +26,26 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": "Does not apply",
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Model-based comparison of prokaryotic/eukaryotic and plant/animal cells.",
+    "labDataInvestigation": "Embedded data/model reasoning aligned to Comparing Cell Types.",
     "requiredVisuals": [
-      "Cell comparison chart",
-      "Labeled cell diagrams"
+      "Evidence table",
+      "Model or data display",
+      "CER organizer"
     ],
-    "candidateResourcesForApproval": [
-      "OpenStax Biology 2e",
-      "CK-12",
-      "CPALMS resources"
-    ],
-    "assessmentStimulus": "Cell diagrams and comparison table",
     "approvedDirectResources": [
       {
-        "name": "OpenStax Biology 2e: Prokaryotic Cells",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Lesson-specific model, table, scenario, or data display for Comparing Cell Types."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Comparing Cell Types",
-  "standards": [
-    "MLA.BIO.CEL.02"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.CEL.02"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "OpenStax Biology 2e: Prokaryotic Cells",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U02_L01_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U02_L01_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U02_L01_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

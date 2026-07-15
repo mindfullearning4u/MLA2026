@@ -27,44 +27,26 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": "Does not apply",
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Mutation scenario/data analysis.",
+    "labDataInvestigation": "Embedded data/model reasoning aligned to Mutation, Phenotype, and Genetic Change.",
     "requiredVisuals": [
-      "Mutation comparison table",
-      "Phenotype impact chart"
+      "Evidence table",
+      "Model or data display",
+      "CER organizer"
     ],
-    "candidateResourcesForApproval": [
-      "HHMI BioInteractive",
-      "NIH genetics resources",
-      "CK-12"
-    ],
-    "assessmentStimulus": "Mutation sequence/table",
     "approvedDirectResources": [
       {
-        "name": "OpenStax Biology 2e: DNA Mutation and Repair",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Lesson-specific model, table, scenario, or data display for Mutation, Phenotype, and Genetic Change."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Mutation, Phenotype, and Genetic Change",
-  "standards": [
-    "MLA.BIO.GEN.02",
-    "MLA.BIO.CEL.05"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.GEN.02",
-    "MLA.BIO.CEL.05"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "OpenStax Biology 2e: DNA Mutation and Repair",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U04_L03_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U04_L03_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U04_L03_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

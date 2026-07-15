@@ -1,198 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
 <quiz>
-  <question type="category">
-    <category>
-      <text>$course$/BIOLOGY/Units/Unit 04/Lesson 02/GuidedPractice</text>
-    </category>
-  </question>
+  <question type="category"><category><text>$course$/BIOLOGY/Units/Unit 04/Lesson 02/GuidedPractice</text></category></question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L02_GP_Q01</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;DNA Template&lt;/th&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;T&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;mRNA&lt;/th&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What mRNA codon is transcribed from the DNA template?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L02_GP_Q01</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Type&lt;/th&gt;&lt;th&gt;Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Shows structure, process, or relationship&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Supports or challenges a claim&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reasoning&lt;/td&gt;&lt;td&gt;Connects evidence to the Biology standard&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which answer best uses evidence from the model or table?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>A C T</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>C A U</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>T G A</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>U G A</text>
-      <feedback format="html">
-        <text>In transcription, DNA A pairs with RNA U, C pairs with G, and T pairs with A. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>The answer that cites the specific evidence and explains the biology connection</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L02_GP_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;mRNA Codon&lt;/th&gt;&lt;th&gt;Amino Acid/Signal&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AUG&lt;/td&gt;&lt;td&gt;Methionine/start&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;UUU&lt;/td&gt;&lt;td&gt;Phenylalanine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;UGA&lt;/td&gt;&lt;td&gt;Stop&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the codon AUG signal in this table?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L02_GP_Q02</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Type&lt;/th&gt;&lt;th&gt;Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Shows structure, process, or relationship&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Supports or challenges a claim&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reasoning&lt;/td&gt;&lt;td&gt;Connects evidence to the Biology standard&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement is a valid scientific explanation?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>DNA replication</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Methionine/start</text>
-      <feedback format="html">
-        <text>The codon table directly matches AUG to methionine/start. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Stop</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Phenylalanine</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>A claim supported by evidence and reasoning from the assigned lesson</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L02_GP_Q03</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Process&lt;/th&gt;&lt;th&gt;Input&lt;/th&gt;&lt;th&gt;Output&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transcription&lt;/td&gt;&lt;td&gt;DNA template&lt;/td&gt;&lt;td&gt;mRNA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Translation&lt;/td&gt;&lt;td&gt;mRNA codons&lt;/td&gt;&lt;td&gt;Amino acid chain&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement correctly follows the process table?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L02_GP_Q03</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Type&lt;/th&gt;&lt;th&gt;Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Shows structure, process, or relationship&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Supports or challenges a claim&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reasoning&lt;/td&gt;&lt;td&gt;Connects evidence to the Biology standard&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice avoids the common misconception?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Transcription makes mRNA, and translation uses mRNA to build an amino acid chain.</text>
-      <feedback format="html">
-        <text>The table separates transcription and translation by input and output. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Transcription occurs after the protein is complete.</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>mRNA is not involved in gene expression.</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Translation makes DNA directly from amino acids.</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>The choice that uses the correct Biology relationship instead of a vague generalization</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L02_GP_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Gene expression model:&lt;/strong&gt; DNA sequence -&gt; mRNA codons -&gt; amino acid chain -&gt; protein function.&lt;/div&gt;&lt;p&gt;Why can gene expression affect phenotype?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L02_GP_Q04</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Type&lt;/th&gt;&lt;th&gt;Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Shows structure, process, or relationship&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Supports or challenges a claim&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reasoning&lt;/td&gt;&lt;td&gt;Connects evidence to the Biology standard&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence best supports the lesson standard?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Phenotype is never connected to proteins.</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Codons are random and do not affect proteins.</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Proteins made from genetic information can affect cell function and traits.</text>
-      <feedback format="html">
-        <text>Protein function often influences phenotype, so expression can affect traits. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA is copied but never expressed.</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>The stimulus detail that directly matches the mapped standard</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L02_GP_Q05</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Sequence&lt;/th&gt;&lt;th&gt;Correct Reading&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AUGUUUUGA&lt;/td&gt;&lt;td&gt;AUG | UUU | UGA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is the sequence divided into groups of three?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L02_GP_Q05</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L02_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Type&lt;/th&gt;&lt;th&gt;Use&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Model&lt;/td&gt;&lt;td&gt;Shows structure, process, or relationship&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data table&lt;/td&gt;&lt;td&gt;Supports or challenges a claim&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reasoning&lt;/td&gt;&lt;td&gt;Connects evidence to the Biology standard&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which reasoning step is needed to complete the explanation?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>DNA bases must always be read backward.</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Punnett squares require three alleles in every box.</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every amino acid has three proteins.</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Each codon is a three-base mRNA sequence.</text>
-      <feedback format="html">
-        <text>Translation reads mRNA in three-base codons. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>The step that connects evidence to the biological process or function</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
 </quiz>

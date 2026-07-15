@@ -2,17 +2,22 @@
   "course": "Biology",
   "unit": "Unit 04",
   "lesson": "Lesson 07",
-  "lessonTitle": "Biotechnology, Reproduction, Cell Cycle, and Health",
+  "lessonTitle": "Genetics, Cell Division, and Biotechnology Investigation",
   "mappedStandards": [
+    "MLA.BIO.GEN.01",
+    "MLA.BIO.GEN.02",
     "MLA.BIO.GEN.03",
-    "MLA.BIO.GEN.04"
+    "MLA.BIO.GEN.04",
+    "MLA.BIO.CEL.05",
+    "MLA.BIO.LAB.03"
   ],
   "supportStandards": [
     "SC.912.L.16.8",
     "SC.912.L.16.10",
-    "SC.912.L.16.13"
+    "SC.912.L.16.13",
+    "ACT Science"
   ],
-  "lessonPurpose": "Evaluate biotechnology and connect reproduction/cell-cycle concepts to health.",
+  "lessonPurpose": "Conduct a self-contained case investigation using DNA, mutation, inheritance, cell division, biotechnology, and health evidence.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -28,19 +33,22 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": {
+    "status": "Applies",
+    "p04Role": "Data Collection and Analysis instead of standard three worked examples",
+    "guidedPracticeScope": "Investigation question, variables/procedure, data/model evidence, limitation/error, and CER preparation",
+    "quizScope": "Procedure, safety, variables, investigation design, data/model/graph interpretation, evidence selection, limitations, and application"
+  },
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Biotechnology or cell-cycle case evidence analysis.",
+    "labDataInvestigation": "Students analyze a fictional genetics case using a DNA/codon model, mutation table, Punnett square, meiosis comparison, and biotechnology evidence.",
     "requiredVisuals": [
-      "Biotechnology process diagram",
-      "Cell-cycle model",
-      "Case data table"
+      "DNA model",
+      "codon table",
+      "mutation data table",
+      "Punnett square",
+      "cell division comparison",
+      "biotechnology case evidence table."
     ],
-    "candidateResourcesForApproval": [
-      "HHMI BioInteractive",
-      "NIH/NHGRI",
-      "CDC/NIH health data"
-    ],
-    "assessmentStimulus": "Case evidence table or process diagram",
     "approvedDirectResources": [
       {
         "name": "OpenStax Biology 2e: Biotechnology and Genomics",
@@ -52,7 +60,8 @@
         "exactDirectUrl": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
         "access": "Free public resource; verify availability before Moodle transfer."
       }
-    ]
+    ],
+    "assessmentStimulus": "Genetics investigation packet with sequence data, inheritance table, cell division diagram, and case evidence."
   },
   "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
   "title": "Biotechnology, Reproduction, Cell Cycle, and Health",
@@ -78,5 +87,6 @@
   ],
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U04_L07_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U04_L07_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U04_L07_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

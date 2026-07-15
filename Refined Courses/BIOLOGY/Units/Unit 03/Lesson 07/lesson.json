@@ -2,15 +2,21 @@
   "course": "Biology",
   "unit": "Unit 03",
   "lesson": "Lesson 07",
-  "lessonTitle": "Matter and Energy in Biogeochemical Cycles",
+  "lessonTitle": "Energy, Enzymes, and Cycling Matter Investigation",
   "mappedStandards": [
-    "MLA.BIO.ENE.05"
+    "MLA.BIO.ENE.01",
+    "MLA.BIO.ENE.02",
+    "MLA.BIO.ENE.03",
+    "MLA.BIO.ENE.04",
+    "MLA.BIO.ENE.05",
+    "MLA.BIO.LAB.03"
   ],
   "supportStandards": [
     "SC.912.E.7.1",
-    "MLA.BIO.LAB.03"
+    "ACT Science",
+    "SAT data and evidence"
   ],
-  "lessonPurpose": "Analyze water and carbon cycling through biological systems.",
+  "lessonPurpose": "Conduct a self-contained investigation using enzyme data, photosynthesis and respiration models, ATP evidence, and carbon/water cycle data.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -26,56 +32,34 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": {
+    "status": "Applies",
+    "p04Role": "Data Collection and Analysis instead of standard three worked examples",
+    "guidedPracticeScope": "Investigation question, variables/procedure, data/model evidence, limitation/error, and CER preparation",
+    "quizScope": "Procedure, safety, variables, investigation design, data/model/graph interpretation, evidence selection, limitations, and application"
+  },
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Carbon/water cycle model and data analysis.",
+    "labDataInvestigation": "Students analyze enzyme-rate data, photosynthesis/respiration inputs and outputs, ATP model evidence, and carbon/water cycle evidence to explain movement of matter and energy.",
     "requiredVisuals": [
-      "Carbon cycle diagram",
-      "Water cycle diagram",
-      "Data graph"
+      "Enzyme graph",
+      "ATP/ADP cycle model",
+      "photosynthesis-respiration comparison table",
+      "carbon cycle model",
+      "water cycle model",
+      "CER organizer."
     ],
-    "candidateResourcesForApproval": [
-      "NASA Earth Observatory",
-      "NOAA",
-      "USGS Water Science School",
-      "CK-12"
-    ],
-    "assessmentStimulus": "Cycle diagram, map, or data graph",
     "approvedDirectResources": [
       {
-        "name": "NASA Earth Observatory: The Carbon Cycle",
-        "exactDirectUrl": "https://earthobservatory.nasa.gov/features/CarbonCycle",
-        "access": "Free public resource; verify availability before Moodle transfer."
-      },
-      {
-        "name": "USGS Water Science School: The Water Cycle",
-        "exactDirectUrl": "https://www.usgs.gov/special-topics/water-science-school/science/water-cycle",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Energy investigation packet with enzyme data, process models, and cycle diagrams."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Matter and Energy in Biogeochemical Cycles",
-  "standards": [
-    "MLA.BIO.ENE.05",
-    "MLA.BIO.LAB.03"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.ENE.05",
-    "MLA.BIO.LAB.03"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "NASA Earth Observatory: The Carbon Cycle",
-      "exactDirectUrl": "https://earthobservatory.nasa.gov/features/CarbonCycle",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    },
-    {
-      "name": "USGS Water Science School: The Water Cycle",
-      "exactDirectUrl": "https://www.usgs.gov/special-topics/water-science-school/science/water-cycle",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U03_L07_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U03_L07_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U03_L07_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

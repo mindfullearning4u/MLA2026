@@ -1,1528 +1,564 @@
 <?xml version='1.0' encoding='utf-8'?>
 <quiz>
-  <question type="category">
-    <category>
-      <text>$course$/BIOLOGY/Units/Unit 04/UnitAssessment</text>
-    </category>
-  </question>
+  <question type="category"><category><text>$course$/BIOLOGY/Units/Unit 04/UnitAssessment</text></category></question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q01</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Template DNA&lt;/th&gt;&lt;th&gt;A&lt;/th&gt;&lt;th&gt;T&lt;/th&gt;&lt;th&gt;C&lt;/th&gt;&lt;th&gt;G&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Complement&lt;/th&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which complementary DNA strand should be built from the template?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q01</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA Replication and Genetic Information&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>U A G C</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>T A G C</text>
-      <feedback format="html">
-        <text>DNA replication uses complementary pairing: A-T and C-G. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>C G A T</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A T C G</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;DNA Template&lt;/th&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;T&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;mRNA&lt;/th&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What mRNA codon is transcribed from the DNA template?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q02</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gene Expression: Transcription and Translation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>T G A</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A C T</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>C A U</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>U G A</text>
-      <feedback format="html">
-        <text>In transcription, DNA A pairs with RNA U, C pairs with G, and T pairs with A. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q03</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Original DNA&lt;/th&gt;&lt;td&gt;A T G&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Mutated DNA&lt;/th&gt;&lt;td&gt;A C G&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What mutation type is shown?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q03</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mutation, Phenotype, and Genetic Change&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Crossing over</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Insertion</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Substitution</text>
-      <feedback format="html">
-        <text>One base changed from T to C, so the mutation is a substitution. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Deletion</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;A&lt;/th&gt;&lt;th&gt;a&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;A&lt;/th&gt;&lt;td&gt;AA&lt;/td&gt;&lt;td&gt;Aa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;a&lt;/th&gt;&lt;td&gt;Aa&lt;/td&gt;&lt;td&gt;aa&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What genotype ratio is shown?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q04</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mendelian Patterns of Inheritance&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>1 AA : 2 Aa : 1 aa</text>
-      <feedback format="html">
-        <text>The four boxes are AA, Aa, Aa, and aa. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>4 AA : 0 Aa : 0 aa</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>1 Aa : 3 aa</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>2 AA : 2 aa only</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q05</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Pattern&lt;/th&gt;&lt;th&gt;Evidence Clue&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Incomplete dominance&lt;/td&gt;&lt;td&gt;Heterozygote is intermediate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Codominance&lt;/td&gt;&lt;td&gt;Both traits appear together&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;A red flower crossed with a white flower produces pink heterozygotes. Which pattern is suggested?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q05</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-Mendelian Inheritance Patterns&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Sex-linked inheritance</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Incomplete dominance</text>
-      <feedback format="html">
-        <text>An intermediate heterozygote supports incomplete dominance. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Simple recessive only</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Codominance</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q06</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Process&lt;/th&gt;&lt;th&gt;Product&lt;/th&gt;&lt;th&gt;Genetic Similarity&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis&lt;/td&gt;&lt;td&gt;Body cells&lt;/td&gt;&lt;td&gt;Identical or nearly identical&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Meiosis&lt;/td&gt;&lt;td&gt;Gametes&lt;/td&gt;&lt;td&gt;Varied&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which process produces gametes?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q06</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis, Meiosis, and Genetic Variation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Meiosis</text>
-      <feedback format="html">
-        <text>The table shows meiosis produces gametes. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Mitosis</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA replication only</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Transcription</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q07</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Biotechnology Case&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bacteria engineered to make insulin&lt;/td&gt;&lt;td&gt;Insulin product detected after gene insertion&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What benefit is best supported by this case?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q07</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genetics, Cell Division, and Biotechnology Investigation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Proving all biotechnology is risk-free</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Stopping all mutations in every organism</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Producing a useful medicine with genetic engineering</text>
-      <feedback format="html">
-        <text>The case evidence supports medicine production, not unlimited claims. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Making mitosis unnecessary</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q08</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Use the embedded Unit 4 genetics stimulus exactly as written.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Unit 4 Connection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA template A C T makes mRNA U G A&lt;/td&gt;&lt;td&gt;Gene expression&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aa x Aa gives AA, Aa, Aa, aa&lt;/td&gt;&lt;td&gt;Inheritance probability&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which synthesis statement uses both rows correctly?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q08</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Putting It All Together&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.04&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>mRNA codons are Punnett square boxes.</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Inheritance probability replaces gene expression.</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA templates are unrelated to traits.</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>DNA information can be expressed, and allele combinations can be predicted with inheritance models.</text>
-      <feedback format="html">
-        <text>The synthesis correctly connects gene expression and inheritance models. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q09</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Original Base&lt;/th&gt;&lt;th&gt;New Matching Base&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;T&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;T&lt;/td&gt;&lt;td&gt;A&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;G&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;G&lt;/td&gt;&lt;td&gt;C&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does this table model? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q09</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA Replication and Genetic Information&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Protein folding only (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>mRNA codon translation (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>DNA base-pairing rules used during replication</text>
-      <feedback format="html">
-        <text>The table lists DNA base-pairing rules used to copy DNA. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Punnett square probability (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q10</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;mRNA Codon&lt;/th&gt;&lt;th&gt;Amino Acid/Signal&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AUG&lt;/td&gt;&lt;td&gt;Methionine/start&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;UUU&lt;/td&gt;&lt;td&gt;Phenylalanine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;UGA&lt;/td&gt;&lt;td&gt;Stop&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the codon AUG signal in this table? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q10</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gene Expression: Transcription and Translation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Stop (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Phenylalanine (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA replication (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Methionine/start</text>
-      <feedback format="html">
-        <text>The codon table directly matches AUG to methionine/start. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q11</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Original mRNA&lt;/th&gt;&lt;td&gt;AUG UUU GGA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Mutated mRNA&lt;/th&gt;&lt;td&gt;AUG UUC GGA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Amino Acid Result&lt;/th&gt;&lt;td&gt;Same amino acid for UUU and UUC&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the likely effect of this mutation? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q11</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mutation, Phenotype, and Genetic Change&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>It may be silent because the amino acid does not change.</text>
-      <feedback format="html">
-        <text>If the amino acid is unchanged, the mutation may be silent. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It must always be harmful. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It deletes the entire chromosome. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It creates a Punnett square. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q12</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Genotype&lt;/th&gt;&lt;th&gt;Phenotype&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AA&lt;/td&gt;&lt;td&gt;Dominant trait&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aa&lt;/td&gt;&lt;td&gt;Dominant trait&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;aa&lt;/td&gt;&lt;td&gt;Recessive trait&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Using this model, what percent of Aa x Aa offspring show the dominant phenotype? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q12</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mendelian Patterns of Inheritance&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>25% (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>75%</text>
-      <feedback format="html">
-        <text>AA, Aa, and Aa show the dominant phenotype: 3 out of 4, or 75%. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>50% (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>100% recessive (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q13</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Fictional Genotype&lt;/th&gt;&lt;th&gt;Phenotype&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;RR&lt;/td&gt;&lt;td&gt;Red&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WW&lt;/td&gt;&lt;td&gt;White&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;RW&lt;/td&gt;&lt;td&gt;Red and white spots&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which inheritance pattern is shown by RW? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q13</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-Mendelian Inheritance Patterns&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Incomplete dominance (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Polygenic inheritance (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Deletion mutation (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Codominance</text>
-      <feedback format="html">
-        <text>Both red and white appear together in the heterozygote, which supports codominance. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q14</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Process&lt;/th&gt;&lt;th&gt;Chromosome Number in Products&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis&lt;/td&gt;&lt;td&gt;Same as parent cell&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Meiosis&lt;/td&gt;&lt;td&gt;Half of parent cell&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is meiosis important for sexual reproduction? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q14</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis, Meiosis, and Genetic Variation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>It makes only identical body cells. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>It produces gametes with half the chromosome number.</text>
-      <feedback format="html">
-        <text>Gametes need half the chromosome number so fertilization can restore the full number. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It prevents fertilization from restoring chromosome number. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It doubles the chromosome number in gametes. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q15</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Cell-Cycle Control&lt;/th&gt;&lt;th&gt;Health Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Checkpoints regulate division&lt;/td&gt;&lt;td&gt;Cells divide only when conditions are appropriate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Checkpoint failure&lt;/td&gt;&lt;td&gt;Uncontrolled division can occur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;How can failed cell-cycle control relate to cancer? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q15</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genetics, Cell Division, and Biotechnology Investigation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>It can allow uncontrolled cell division.</text>
-      <feedback format="html">
-        <text>Cancer involves uncontrolled cell division, which can result from failed regulation. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It always improves tissue repair. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It prevents all cells from dividing forever. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It changes codons into Punnett squares. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q16</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Model&lt;/th&gt;&lt;th&gt;What It Explains&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Replication base-pairing&lt;/td&gt;&lt;td&gt;Copying information&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mutation sequence comparison&lt;/td&gt;&lt;td&gt;Possible DNA change&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Meiosis diagram&lt;/td&gt;&lt;td&gt;Variation in gametes&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What theme connects all three models? Focus on evidence from the sequence, model, Punnett square, or case table.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q16</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Putting It All Together&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.04&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>None of the models involve DNA or inheritance. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>All three models explain photosynthesis. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Genetic information can be copied, changed, and passed on with variation.</text>
-      <feedback format="html">
-        <text>The models all deal with genetic information across copying, change, and inheritance. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>All three show only cell-cycle cancer data. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q17</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Replication model:&lt;/strong&gt; Each new DNA molecule contains one original strand and one newly built strand.&lt;/div&gt;&lt;p&gt;How does this model help conserve genetic information? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q17</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA Replication and Genetic Information&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>New DNA is built without base-pairing rules. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Each original strand serves as a template for an accurate complementary strand.</text>
-      <feedback format="html">
-        <text>Template-based complementary copying preserves the sequence information. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The new strand is random and unrelated to the template. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Both original strands are destroyed before copying. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q18</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Process&lt;/th&gt;&lt;th&gt;Input&lt;/th&gt;&lt;th&gt;Output&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transcription&lt;/td&gt;&lt;td&gt;DNA template&lt;/td&gt;&lt;td&gt;mRNA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Translation&lt;/td&gt;&lt;td&gt;mRNA codons&lt;/td&gt;&lt;td&gt;Amino acid chain&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement correctly follows the process table? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q18</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gene Expression: Transcription and Translation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Transcription makes mRNA, and translation uses mRNA to build an amino acid chain.</text>
-      <feedback format="html">
-        <text>The table separates transcription and translation by input and output. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Translation makes DNA directly from amino acids. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Transcription occurs after the protein is complete. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>mRNA is not involved in gene expression. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q19</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Mutation Location&lt;/th&gt;&lt;th&gt;Can Be Passed to Offspring?&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Body cell&lt;/td&gt;&lt;td&gt;Usually no&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gamete-producing cell lineage&lt;/td&gt;&lt;td&gt;Possible&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which conclusion is supported? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q19</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mutation, Phenotype, and Genetic Change&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Inheritance does not depend on cell type. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every body-cell mutation is inherited. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Only mutations in cells involved in reproduction can be inherited.</text>
-      <feedback format="html">
-        <text>Inherited mutations must be in cells that contribute genetic information to offspring. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>No mutation can ever be inherited. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q20</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;Cross: aa x Aa. One parent can give only a. The other parent can give A or a.&lt;/div&gt;&lt;p&gt;Which offspring genotypes are possible? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q20</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mendelian Patterns of Inheritance&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>AA only (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>AA and Aa only (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A and a are phenotypes (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Aa and aa</text>
-      <feedback format="html">
-        <text>The aa parent contributes a; the Aa parent contributes A or a. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q21</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Trait Evidence&lt;/th&gt;&lt;th&gt;Likely Pattern&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Many small phenotype differences across a population&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which pattern best completes the table? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q21</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-Mendelian Inheritance Patterns&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Polygenic inheritance</text>
-      <feedback format="html">
-        <text>A continuous range of phenotypes often indicates multiple genes are involved. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Codominance only (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA replication (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Mitosis (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q22</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Crossing-over model:&lt;/strong&gt; Homologous chromosomes exchange DNA segments during meiosis.&lt;/div&gt;&lt;p&gt;How does crossing over affect offspring? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q22</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis, Meiosis, and Genetic Variation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>It makes all gametes identical. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It stops chromosomes from separating. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It changes RNA into protein. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>It creates new allele combinations that increase genetic variation.</text>
-      <feedback format="html">
-        <text>Exchanging DNA segments creates new combinations of alleles. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q23</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Evidence limit:&lt;/strong&gt; A study reports short-term benefit of a biotechnology product but gives no long-term safety data.&lt;/div&gt;&lt;p&gt;What is the most careful conclusion? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q23</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.05&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genetics, Cell Division, and Biotechnology Investigation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.CEL.05&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Evidence limits should be ignored. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The product is proven completely safe forever. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>The short-term benefit is supported, but long-term risk needs more evidence.</text>
-      <feedback format="html">
-        <text>Scientific evaluation includes both supported conclusions and limitations. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The benefit must be false because risk data are missing. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q24</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;CER prompt: Explain how a mutation in DNA could affect a trait and then be inherited.&lt;/div&gt;&lt;p&gt;Which explanation best answers the prompt? Connect the evidence to the mapped Biology genetics standard.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q24</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Putting It All Together&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.04&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Mutations never affect protein structure. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>A DNA mutation may alter a protein and phenotype, and it can be inherited if present in reproductive cells.</text>
-      <feedback format="html">
-        <text>The answer connects DNA mutation, protein/phenotype effect, and reproductive-cell inheritance. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Punnett squares change DNA sequences directly. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every body-cell mutation is inherited automatically. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q25</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;/th&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Replication is accurate&lt;/td&gt;&lt;td&gt;A pairs only with T; C pairs only with G&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which reasoning best supports the claim? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q25</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA Replication and Genetic Information&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Replication accuracy depends on phenotype only. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Any base can pair with any other base. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Specific base-pairing rules reduce random copying errors.</text>
-      <feedback format="html">
-        <text>Specific base-pairing rules make replication more accurate than random copying. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Accuracy comes from ignoring the template. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q26</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Gene expression model:&lt;/strong&gt; DNA sequence -&gt; mRNA codons -&gt; amino acid chain -&gt; protein function.&lt;/div&gt;&lt;p&gt;Why can gene expression affect phenotype? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q26</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gene Expression: Transcription and Translation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Proteins made from genetic information can affect cell function and traits.</text>
-      <feedback format="html">
-        <text>Protein function often influences phenotype, so expression can affect traits. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Phenotype is never connected to proteins. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Codons are random and do not affect proteins. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA is copied but never expressed. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q27</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Scenario:&lt;/strong&gt; A mutation changes the shape of an enzyme active site, reducing enzyme activity.&lt;/div&gt;&lt;p&gt;How could this mutation affect phenotype? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q27</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mutation, Phenotype, and Genetic Change&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>It cannot affect phenotype because proteins do not matter. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It automatically improves every trait. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>It only changes a Punnett square label. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>It could change a cell process enough to affect an observable trait.</text>
-      <feedback format="html">
-        <text>Changing protein function can alter cell processes and may affect phenotype. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q28</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Term&lt;/th&gt;&lt;th&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genotype&lt;/td&gt;&lt;td&gt;Allele combination&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Phenotype&lt;/td&gt;&lt;td&gt;Observable trait&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which answer is a genotype? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q28</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mendelian Patterns of Inheritance&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Tall plant (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Aa</text>
-      <feedback format="html">
-        <text>Aa is an allele combination, so it is a genotype. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Purple flower (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Wrinkled seed (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q29</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;div style="border:1px solid #94a3b8;padding:8px;"&gt;&lt;strong&gt;Pedigree-style clue:&lt;/strong&gt; A trait appears much more often in males and is linked to an allele on the X chromosome.&lt;/div&gt;&lt;p&gt;Which pattern is most likely? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q29</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-Mendelian Inheritance Patterns&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Photosynthesis (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Incomplete dominance (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Sex-linked inheritance</text>
-      <feedback format="html">
-        <text>A trait linked to a sex chromosome is sex-linked. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Multiple alleles only (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q30</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Scenario&lt;/th&gt;&lt;th&gt;Best Process&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Repairing skin after a scrape&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which process best completes the table? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q30</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis, Meiosis, and Genetic Variation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Meiosis (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Codominance (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Translation (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Mitosis</text>
-      <feedback format="html">
-        <text>Growth and repair of body cells use mitosis. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q31</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Claim&lt;/th&gt;&lt;th&gt;Needed Evidence&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A biotechnology process solves a health problem&lt;/td&gt;&lt;td&gt;Mechanism, benefit data, risk data, limits&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why are risk data and limits needed? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q31</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genetics, Cell Division, and Biotechnology Investigation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>They help evaluate the claim responsibly instead of overclaiming.</text>
-      <feedback format="html">
-        <text>Responsible evaluation weighs benefits, risks, mechanisms, and limits. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>They make evidence unnecessary. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>They prove every biotechnology process is harmful. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>They replace the biological mechanism. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q32</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q32&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Case Evidence&lt;/th&gt;&lt;th&gt;Careful Evaluation&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biotechnology product has benefit data but limited risk data&lt;/td&gt;&lt;td&gt;Benefit supported; more risk evidence needed&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which Unit 4 skill is being used? Do not confuse DNA copying, expression, inheritance, and cell division.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q32</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q32&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Putting It All Together&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.04&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Ignoring all case limits (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Evidence-based biotechnology evaluation</text>
-      <feedback format="html">
-        <text>The table evaluates a biotechnology case using benefit, risk, and limitation evidence. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Simple dominant/recessive prediction only (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>DNA base pairing only (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q33</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Step&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;DNA strands separate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;New nucleotides pair with templates&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Two DNA molecules form&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which event happens during Step 2? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q33</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA Replication and Genetic Information&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>A protein is translated at a ribosome. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Gametes combine in fertilization. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Complementary nucleotides are added to each template strand.</text>
-      <feedback format="html">
-        <text>Step 2 describes complementary nucleotide pairing during replication. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A Punnett square is filled in. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q34</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q34&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Sequence&lt;/th&gt;&lt;th&gt;Correct Reading&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AUGUUUUGA&lt;/td&gt;&lt;td&gt;AUG | UUU | UGA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is the sequence divided into groups of three? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q34</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q34&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gene Expression: Transcription and Translation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>DNA bases must always be read backward. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Each codon is a three-base mRNA sequence.</text>
-      <feedback format="html">
-        <text>Translation reads mRNA in three-base codons. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Punnett squares require three alleles in every box. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every amino acid has three proteins. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q35</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q35&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Original DNA&lt;/th&gt;&lt;td&gt;A T G C C A&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Mutated DNA&lt;/th&gt;&lt;td&gt;A T G T C C A&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What mutation type is shown? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q35</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q35&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mutation, Phenotype, and Genetic Change&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Insertion</text>
-      <feedback format="html">
-        <text>The mutated sequence has an extra T added, so it is an insertion. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Deletion (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Substitution only (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Codominance (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q36</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q36&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Parent 1 Gametes&lt;/th&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Parent 2 Gametes&lt;/th&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;a&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does a Punnett square predict from these gametes? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q36</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q36&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mendelian Patterns of Inheritance&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>The exact traits of one required child (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The DNA sequence of every chromosome (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The order of mitosis stages (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Probabilities of possible offspring genotypes and phenotypes</text>
-      <feedback format="html">
-        <text>A Punnett square is a probability model for possible offspring outcomes. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q37</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q37&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Population Alleles for One Gene&lt;/th&gt;&lt;td&gt;IA&lt;/td&gt;&lt;td&gt;IB&lt;/td&gt;&lt;td&gt;i&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What pattern is supported by more than two allele versions in a population? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q37</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q37&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-Mendelian Inheritance Patterns&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Translation (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Only simple two-allele inheritance (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Multiple alleles</text>
-      <feedback format="html">
-        <text>More than two allele versions in the population supports a multiple-allele pattern. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Crossing over (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q38</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q38&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Evidence&lt;/th&gt;&lt;th&gt;Conclusion&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Four varied cells form from one starting cell&lt;/td&gt;&lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which conclusion is best supported? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q38</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q38&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitosis, Meiosis, and Genetic Variation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>The process is DNA transcription. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>The process is meiosis.</text>
-      <feedback format="html">
-        <text>Meiosis produces varied gametes, commonly represented as four products. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The process is a Punnett square. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The process is mitosis only. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q39</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q39&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Reproduction Connection&lt;/th&gt;&lt;th&gt;Biology Link&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gametes carry alleles&lt;/td&gt;&lt;td&gt;Meiosis and inheritance&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Embryo cells divide&lt;/td&gt;&lt;td&gt;Cell cycle and mitosis&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best connects reproduction and cell division? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q39</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q39&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Genetics, Cell Division, and Biotechnology Investigation&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Mitosis forms all gametes. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Meiosis repairs body tissue after every injury. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Cell division is unrelated to reproduction. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Meiosis forms gametes, and mitosis supports growth after fertilization.</text>
-      <feedback format="html">
-        <text>Both meiosis and mitosis have distinct roles in reproduction and growth. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_UA_Q40</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UA_Q40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assessment focus:&lt;/strong&gt; Explain the genetics concept without adding outside content.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Concept&lt;/th&gt;&lt;th&gt;Evidence Tool&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gene expression&lt;/td&gt;&lt;td&gt;Codon table&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mendelian inheritance&lt;/td&gt;&lt;td&gt;Punnett square&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell division variation&lt;/td&gt;&lt;td&gt;Meiosis diagram&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the best way to answer a mixed Unit 4 question? Explain the genetics concept without adding outside content.&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_UNIT_Q40</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_UNIT_Q40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Unit 4 Evidence&lt;/th&gt;&lt;th&gt;Purpose&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Putting It All Together&lt;/td&gt;&lt;td&gt;Connects to MLA.BIO.GEN.04&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Data/model/scenario&lt;/td&gt;&lt;td&gt;Supports Biology reasoning within this unit&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice best supports a Unit 4 Biology explanation using the included data, model, or scenario?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Choose the evidence tool that matches the genetics concept being assessed.</text>
-      <feedback format="html">
-        <text>Mixed Unit 4 questions require matching the concept to the correct embedded evidence tool. This matches the mapped Unit 4 lesson content and uses the included stimulus.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Use the same tool for every genetics question. (This ignores the embedded evidence.)</text>
-      <feedback format="html">
-        <text>This choice does not use the included stimulus. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Ignore the embedded model and guess from vocabulary. (This confuses a Unit 4 genetics process.)</text>
-      <feedback format="html">
-        <text>This choice confuses the mapped Unit 4 vocabulary or process. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Use outside health history instead of the given evidence. (This goes beyond the provided stimulus.)</text>
-      <feedback format="html">
-        <text>This choice overstates or misreads the evidence. Recheck the sequence, table, model, or scenario and connect the answer to the lesson standard.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use data, model evidence, and reasoning from the taught unit standards</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
 </quiz>
