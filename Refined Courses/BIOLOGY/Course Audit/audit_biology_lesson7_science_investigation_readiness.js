@@ -75,6 +75,26 @@ for (let u = 1; u <= 6; u += 1) {
       if (!html.includes(expectedRole)) fail(file, `Missing page role text: ${expectedRole}`);
       if (!html.includes('Mapped Standards') && p !== 1) fail(file, 'Missing mapped standards trace on instructional page.');
       if (l === 7 && !/investigation|data|procedure|CER|variable/i.test(html)) fail(file, 'Lesson 7 page lacks investigation/data/procedure/CER language.');
+      if (l === 7 && p === 2) {
+        for (const required of ['Investigation Notebook Setup', 'Investigation Question', 'Claim Being Tested', 'Controlled Conditions', 'Evidence Source or Condition', 'How the Student Should Use It']) {
+          if (!html.includes(required)) fail(file, `Lesson 7 P02 lacks concrete student setup item: ${required}`);
+        }
+      }
+      if (l === 7 && p === 4) {
+        for (const required of ['Question:', 'Claim being tested', 'Data or Observation', 'How the Student Should Use It', 'limitation', 'CER']) {
+          if (!html.includes(required)) fail(file, `Lesson 7 P04 lacks concrete data-analysis direction: ${required}`);
+        }
+      }
+      if (l === 7 && p === 6) {
+        for (const required of ['Part A:', 'Part B:', 'Part C:', 'two evidence rows', 'complete CER']) {
+          if (!html.includes(required)) fail(file, `Lesson 7 P06 lacks independent investigation deliverable: ${required}`);
+        }
+      }
+      if (l === 7 && p === 7) {
+        for (const required of ['Checkpoint Task', 'two exact evidence statements', 'complete CER response']) {
+          if (!html.includes(required)) fail(file, `Lesson 7 P07 lacks final checkpoint deliverable: ${required}`);
+        }
+      }
       if (l !== 7 && p === 4) {
         const worked = (html.match(/Worked Example [123]/g) || []).length;
         if (worked < 3) fail(file, `Non-Lesson 7 P04 has fewer than three worked examples (${worked}).`);
@@ -197,6 +217,7 @@ ${findings.length === 0 ? 'PASS' : 'FAIL'}
 | Exactly one TOR support box per page | ${findings.some((f) => /TOR support/.test(f.message)) ? 'FAIL' : 'PASS'} |
 | Lesson 7 mapped as dedicated investigation | ${findings.some((f) => /Lesson 7 investigation model/.test(f.message)) ? 'FAIL' : 'PASS'} |
 | Lesson 7 P04 uses Data Collection and Analysis exception | ${findings.some((f) => /P04 Data Collection/.test(f.message)) ? 'FAIL' : 'PASS'} |
+| Lesson 7 pages include concrete question, claim, data/model evidence, and CER deliverables | ${findings.some((f) => /concrete student setup|concrete data-analysis|independent investigation deliverable|final checkpoint deliverable/.test(f.message)) ? 'FAIL' : 'PASS'} |
 | Non-Lesson 7 P04 pages retain three worked examples | ${findings.some((f) => /fewer than three worked examples/.test(f.message)) ? 'FAIL' : 'PASS'} |
 | Lesson 8 has no lesson quiz bank | ${lesson8QuizFiles === 0 ? 'PASS' : 'FAIL'} |
 | XML validates structurally | ${findings.some((f) => /XML parser/.test(f.message)) ? 'FAIL' : 'PASS'} |

@@ -32,6 +32,7 @@ PASS
 | Exactly one TOR support box per page | PASS |
 | Lesson 7 mapped as dedicated investigation | PASS |
 | Lesson 7 P04 uses Data Collection and Analysis exception | PASS |
+| Lesson 7 pages include concrete question, claim, data/model evidence, and CER deliverables | PASS |
 | Non-Lesson 7 P04 pages retain three worked examples | PASS |
 | Lesson 8 has no lesson quiz bank | PASS |
 | XML validates structurally | PASS |

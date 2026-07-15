@@ -225,13 +225,95 @@ function sampleData(lesson) {
   </table>`;
 }
 
+function investigationPacket(unit) {
+  const packets = {
+    1: {
+      question: 'Which evidence source best supports the claim that cells and water-based molecules are foundations for life?',
+      claim: 'Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.',
+      variables: 'Evidence source being compared: microscope observation, cell-theory evidence, water-property model, and macromolecule data.',
+      constants: 'Use only the four evidence sources in this lesson; judge each source by specificity, connection to the claim, and scientific reliability.',
+      rows: [
+        ['Microscope observation', 'Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.', 'Supports cell theory because it shows organisms are made of cells.'],
+        ['Cell-theory evidence', 'Multiple organisms examined under microscopes show repeating cell units.', 'Supports the idea that cells are a basic unit of life.'],
+        ['Water-property model', 'Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.', 'Explains why water can dissolve and move many substances in living systems.'],
+        ['Macromolecule data', 'Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.', 'Connects carbon-based molecules to specific life functions.'],
+      ],
+      limitation: 'The packet uses simulated evidence instead of direct lab measurement, so the conclusion should cite the included evidence only.',
+    },
+    2: {
+      question: 'How do cell structures and membrane transport help a cell maintain homeostasis?',
+      claim: 'Cells maintain homeostasis when structures and membranes regulate what enters, leaves, and responds inside the cell.',
+      variables: 'Comparison being made: high outside solute, equal solute, and low outside solute conditions.',
+      constants: 'Use the same cell type, same time interval, and same membrane model for all comparisons.',
+      rows: [
+        ['High outside solute', 'Cell water level decreases from 100 units to 82 units.', 'Water leaves the cell, showing osmosis affects cell balance.'],
+        ['Equal solute', 'Cell water level remains near 100 units.', 'Balanced conditions help maintain homeostasis.'],
+        ['Low outside solute', 'Cell water level increases from 100 units to 119 units.', 'Water enters the cell, which may disrupt cell function.'],
+        ['Immune response model', 'Pathogen markers are recognized before immune cells respond.', 'Structure recognition helps organisms respond to health threats.'],
+      ],
+      limitation: 'The model simplifies many real cell conditions, so the conclusion should focus on transport and homeostasis only.',
+    },
+    3: {
+      question: 'How do enzyme conditions and cellular energy processes show that matter and energy move through living systems?',
+      claim: 'Cells use enzymes, ATP, photosynthesis, respiration, and cycles to transform and move matter and energy.',
+      variables: 'Comparison being made: enzyme pH condition, process inputs/outputs, and cycle evidence.',
+      constants: 'Use the same enzyme amount when comparing pH and use the same process model when comparing photosynthesis and respiration.',
+      rows: [
+        ['Enzyme at pH 3', 'Reaction rate is 18 product units per minute.', 'Low activity suggests the condition is not optimal for this enzyme.'],
+        ['Enzyme at pH 7', 'Reaction rate is 74 product units per minute.', 'Higher activity supports the claim that conditions affect enzyme function.'],
+        ['Photosynthesis model', 'Carbon dioxide and water become glucose and oxygen using light energy.', 'Shows matter is rearranged and energy is captured.'],
+        ['Respiration model', 'Glucose and oxygen become carbon dioxide and water while ATP is produced.', 'Shows stored chemical energy is transferred to ATP.'],
+      ],
+      limitation: 'The data compare only selected conditions and process models, so they support a focused claim about energy and matter movement.',
+    },
+    4: {
+      question: 'How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?',
+      claim: 'Genetic information can be copied, expressed, changed, inherited, and analyzed using evidence from DNA and inheritance models.',
+      variables: 'Evidence source being compared: DNA sequence, codon effect, Punnett square, cell division model, and biotechnology case data.',
+      constants: 'Use the same fictional trait and the same parent genotypes for all inheritance comparisons.',
+      rows: [
+        ['DNA sequence', 'Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.', 'Shows a mutation changed one codon.'],
+        ['Protein effect', 'Changed codon codes for a different amino acid in the model.', 'Connects mutation to possible phenotype change.'],
+        ['Punnett square', 'Two heterozygous parents produce a 3:1 dominant-to-recessive phenotype ratio.', 'Shows how alleles can be inherited.'],
+        ['Biotechnology evidence', 'A DNA comparison identifies which sample contains the changed sequence.', 'Shows how biotechnology can analyze genetic information.'],
+      ],
+      limitation: 'The case is fictional and simplified, so students should not use personal family or medical information.',
+    },
+    5: {
+      question: 'Which evidence best supports a scientific explanation of evolutionary relationships and change over time?',
+      claim: 'Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.',
+      variables: 'Evidence source being compared: fossil age, trait similarity, molecular similarity, population data, and cladogram position.',
+      constants: 'Use the same group of organisms when comparing traits, molecular evidence, and classification.',
+      rows: [
+        ['Fossil evidence', 'Older fossils appear in lower rock layers; newer fossils show changed limb proportions.', 'Supports change over time.'],
+        ['Molecular evidence', 'Species A and B share 96 percent of compared DNA markers.', 'High similarity supports close relationship.'],
+        ['Population data', 'Trait frequency rises from 22 percent to 61 percent after an environmental change.', 'Supports natural selection when a trait affects survival or reproduction.'],
+        ['Cladogram evidence', 'Two species share the most recent branch point.', 'Supports classification based on evolutionary relationship.'],
+      ],
+      limitation: 'One evidence type is not enough by itself; stronger explanations use multiple lines of evidence.',
+    },
+    6: {
+      question: 'How can ecological data support a decision about biodiversity, resources, and human impact?',
+      claim: 'Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.',
+      variables: 'Evidence source being compared: population trend, limiting factor, food web effect, biodiversity data, and monitoring data.',
+      constants: 'Use the same ecosystem and same monitoring period when comparing data sources.',
+      rows: [
+        ['Population graph', 'Fish population decreases from 480 to 260 over four sampling periods.', 'Shows a population change that needs explanation.'],
+        ['Limiting factor data', 'Dissolved oxygen decreases while water temperature increases.', 'Suggests abiotic factors may limit the population.'],
+        ['Food web evidence', 'A decrease in producers reduces available energy for primary consumers.', 'Connects energy transfer to population effects.'],
+        ['Monitoring data', 'Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.', 'Supports a biodiversity and habitat concern.'],
+      ],
+      limitation: 'Monitoring data show patterns, but a policy decision should consider benefits, costs, and additional evidence.',
+    },
+  };
+  return packets[unit.n];
+}
+
 function labDataTable(unit) {
+  const packet = investigationPacket(unit);
   return `<table style="width: 100%; border-collapse: collapse; font-size: 17px; margin: 10px 0;">
-    <tr style="background: #dbeafe;"><th style="border: 1px solid #94a3b8; padding: 10px;">Investigation Component</th><th style="border: 1px solid #94a3b8; padding: 10px;">Student Evidence to Record</th><th style="border: 1px solid #94a3b8; padding: 10px;">Reasoning Check</th></tr>
-    <tr><td style="border: 1px solid #cbd5e1; padding: 10px;">Question and purpose</td><td style="border: 1px solid #cbd5e1; padding: 10px;">State what the investigation is trying to explain.</td><td style="border: 1px solid #cbd5e1; padding: 10px;">The question must be answerable with unit evidence.</td></tr>
-    <tr><td style="border: 1px solid #cbd5e1; padding: 10px;">Variables or comparison groups</td><td style="border: 1px solid #cbd5e1; padding: 10px;">Identify what changes, what is measured, and what is held steady.</td><td style="border: 1px solid #cbd5e1; padding: 10px;">A fair comparison needs controlled conditions.</td></tr>
-    <tr><td style="border: 1px solid #cbd5e1; padding: 10px;">Data or model observation</td><td style="border: 1px solid #cbd5e1; padding: 10px;">Record numbers, model details, or visual evidence from the packet.</td><td style="border: 1px solid #cbd5e1; padding: 10px;">Evidence must be specific enough to support a claim.</td></tr>
-    <tr><td style="border: 1px solid #cbd5e1; padding: 10px;">Claim-evidence-reasoning</td><td style="border: 1px solid #cbd5e1; padding: 10px;">Write a claim, cite evidence, and explain the biology connection.</td><td style="border: 1px solid #cbd5e1; padding: 10px;">Reasoning must connect the evidence to ${unit.title}.</td></tr>
+    <tr style="background: #dbeafe;"><th style="border: 1px solid #94a3b8; padding: 10px;">Evidence Source or Condition</th><th style="border: 1px solid #94a3b8; padding: 10px;">Data or Observation</th><th style="border: 1px solid #94a3b8; padding: 10px;">How the Student Should Use It</th></tr>
+    ${packet.rows.map((row) => `<tr><td style="border: 1px solid #cbd5e1; padding: 10px;">${row[0]}</td><td style="border: 1px solid #cbd5e1; padding: 10px;">${row[1]}</td><td style="border: 1px solid #cbd5e1; padding: 10px;">${row[2]}</td></tr>`).join('\n    ')}
   </table>`;
 }
 
@@ -257,12 +339,13 @@ ${tor(isLab ? 'Ask for help if you cannot identify the investigation question, v
 
 function pageP02(lesson) {
   if (lesson.number === 7) {
+    const packet = investigationPacket(lesson.unit);
     return `${header(lesson.unit.n, lesson.number)}
 <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.75; color: #1f2933; max-width: 980px; margin: 0 auto 22px auto; background: #eef7ff; border-left: 8px solid #2563eb; border-radius: 10px; padding: 24px; margin-bottom: 18px;"><h1 style="font-size: 30px; margin: 0;">P02 Notebook Task - Part 1</h1></div>
 ${standardTrace(lesson)}
-${card('#7c3aed', '#f5f3ff', 'Investigation Notebook Title', `<p><strong>${lesson.title}: Question, Purpose, and Evidence Setup</strong></p><p>Copy this title into your notebook. Under it, create four labeled sections: Investigation Question, Variables or Comparison Groups, Data/Model Evidence, and CER Draft.</p>`)}
+${card('#7c3aed', '#f5f3ff', 'Investigation Notebook Setup', `<p><strong>${lesson.title}: Question, Purpose, and Evidence Setup</strong></p><p>Copy this title into your notebook. Under it, create these six labeled sections: Investigation Question, Claim Being Tested, Variables or Comparison Groups, Controlled Conditions, Data/Model Evidence, and CER Draft.</p>`)}
 ${card('#0f766e', '#f0fdfa', 'Vocabulary', `<ul style="padding-left: 24px;"><li><strong>Investigation question:</strong> the testable question the evidence is being used to answer.</li><li><strong>Variable:</strong> a factor that changes or is measured in an investigation.</li><li><strong>Control or controlled condition:</strong> what stays the same so the comparison is fair.</li><li><strong>Evidence:</strong> specific data, observation, model detail, or source information that supports a claim.</li><li><strong>CER:</strong> claim, evidence, and reasoning.</li></ul>`)}
-${card('#f59e0b', '#fffbeb', 'Step-by-Step Setup', `<ol style="padding-left: 24px;"><li><strong>Step 1:</strong> Read the investigation purpose: ${lesson.unit.investigation}</li><li><strong>Step 2:</strong> Write one focused question the data can answer. Do not write a question that requires outside research.</li><li><strong>Step 3:</strong> Identify the comparison groups or variables from the table below.</li><li><strong>Step 4:</strong> Mark which evidence will be numerical data, which will be a model, and which will be a source or scenario.</li></ol>${labDataTable(lesson.unit)}<p><strong>Check that:</strong> your question can be answered using the evidence on these lesson pages.</p>`)}
+${card('#f59e0b', '#fffbeb', 'Step-by-Step Setup', `<ol style="padding-left: 24px;"><li><strong>Step 1:</strong> Copy this investigation question: <strong>${packet.question}</strong></li><li><strong>Step 2:</strong> Copy this claim being tested: <strong>${packet.claim}</strong></li><li><strong>Step 3:</strong> Copy the variable or comparison focus: ${packet.variables}</li><li><strong>Step 4:</strong> Copy the controlled conditions: ${packet.constants}</li><li><strong>Step 5:</strong> Read the evidence table below. Put a star next to the two evidence rows that most directly answer the investigation question.</li></ol>${labDataTable(lesson.unit)}<p><strong>Check that:</strong> your notebook has the exact question, claim, variable/comparison focus, controlled conditions, and two starred evidence rows before you continue.</p>`)}
 ${tor('Ask for help if your investigation question cannot be answered with the data and models included in this Lesson 7 packet.')}
 `;
   }
@@ -278,12 +361,13 @@ ${tor('Ask for help if you can name the term but cannot connect it to evidence o
 
 function pageP03(lesson) {
   if (lesson.number === 7) {
+    const packet = investigationPacket(lesson.unit);
     return `${header(lesson.unit.n, lesson.number)}
 <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.75; color: #1f2933; max-width: 980px; margin: 0 auto 22px auto; background: #eef7ff; border-left: 8px solid #2563eb; border-radius: 10px; padding: 24px; margin-bottom: 18px;"><h1 style="font-size: 30px; margin: 0;">P03 Notebook Task - Part 2</h1></div>
 ${standardTrace(lesson)}
-${card('#0f766e', '#f0fdfa', 'Procedure and Evidence Path', `<p>Use this procedure exactly. The goal is not to finish quickly. The goal is to collect enough evidence to support a scientific explanation.</p><ol style="padding-left: 24px;"><li><strong>Procedure Step 1:</strong> Read the investigation purpose and copy the question.</li><li><strong>Procedure Step 2:</strong> Use the data table to identify comparison groups or conditions.</li><li><strong>Procedure Step 3:</strong> Use the model or diagram to identify the biological process.</li><li><strong>Procedure Step 4:</strong> Record at least two exact evidence statements.</li><li><strong>Procedure Step 5:</strong> Decide what claim the evidence supports.</li></ol><p><strong>Safety:</strong> This is a virtual/data investigation. Do not complete any physical experiment or outdoor collection for this lesson.</p>`)}
+${card('#0f766e', '#f0fdfa', 'Procedure and Evidence Path', `<p>Use this procedure exactly. The goal is to build a complete notebook response from the evidence packet.</p><ol style="padding-left: 24px;"><li><strong>Procedure Step 1:</strong> Reread the question: <strong>${packet.question}</strong></li><li><strong>Procedure Step 2:</strong> In your notebook, make a two-column table labeled <strong>Evidence</strong> and <strong>How it supports or does not support the claim</strong>.</li><li><strong>Procedure Step 3:</strong> Choose two evidence rows from P02. Copy the exact data or observation from each selected row into your table.</li><li><strong>Procedure Step 4:</strong> For each selected row, write one sentence explaining how that evidence connects to the claim.</li><li><strong>Procedure Step 5:</strong> Copy this limitation note into your notebook: ${packet.limitation}</li></ol><p><strong>Safety:</strong> This is a virtual/data investigation. Do not complete any physical experiment or outdoor collection for this lesson.</p>`)}
 ${card('#dc2626', '#fef2f2', 'Common Mistake', `<p><strong style="color: #b91c1c;">Incorrect:</strong> "The answer is true because the unit said so."</p><p>This does not cite evidence. It also does not show that you can use the data or model independently.</p><p><strong style="color: #047857;">Correct:</strong> "The claim is supported because the comparison group with the changed condition showed a different measured result, and the model explains why that result fits ${lesson.unit.title}."</p><p><strong>Teachable Explanation:</strong> A lab explanation needs the data and the biology. Data without reasoning is incomplete; reasoning without data is unsupported.</p>`)}
-${card('#f59e0b', '#fffbeb', 'Notebook Verification Check', `<ul style="padding-left: 24px;"><li>Your procedure notes identify what you compared.</li><li>Your evidence notes include at least two exact observations or data points.</li><li>Your explanation names the biology standard being used.</li><li>Your CER draft does not use outside information not included in the lesson.</li></ul>`)}
+${card('#f59e0b', '#fffbeb', 'Notebook Verification Check', `<ul style="padding-left: 24px;"><li>Your procedure notes include the investigation question.</li><li>Your evidence table includes two exact observations or data points from the packet.</li><li>Each evidence row has a sentence explaining why the evidence matters.</li><li>Your limitation note is copied and connected to the claim.</li><li>Your CER draft does not use outside information not included in the lesson.</li></ul>`)}
 ${tor('Ask for help if you are unsure whether a statement is evidence, reasoning, or just an unsupported opinion.')}
 `;
   }
@@ -299,11 +383,12 @@ ${tor('Ask for help if your explanation is general but does not point to a speci
 
 function pageP04(lesson) {
   if (lesson.number === 7) {
+    const packet = investigationPacket(lesson.unit);
     return `${header(lesson.unit.n, lesson.number)}
 <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.75; color: #1f2933; max-width: 980px; margin: 0 auto 22px auto; background: #eef7ff; border-left: 8px solid #2563eb; border-radius: 10px; padding: 24px; margin-bottom: 18px;"><h1 style="font-size: 30px; margin: 0;">P04 Data Collection and Analysis</h1></div>
 ${standardTrace(lesson)}
-${card('#0f766e', '#f0fdfa', 'Investigation Data Set', `<p><strong>Lesson 7 template exception:</strong> This page does not use the normal three worked examples. In a science investigation lesson, P04 is the data collection and analysis page. Use the table as your lab evidence.</p>${labDataTable(lesson.unit)}<p><strong>Data task:</strong> Choose two rows from the table and write one sentence explaining how each row helps answer the investigation question.</p>`)}
-${card('#7c3aed', '#f5f3ff', 'Analysis Steps', `<ol style="padding-left: 24px;"><li><strong>Step 1:</strong> Identify the most direct evidence. It should answer the question without requiring a guess.</li><li><strong>Step 2:</strong> Compare conditions, groups, or model parts. Do not treat all evidence as equally strong.</li><li><strong>Step 3:</strong> Circle one possible source of error or limitation.</li><li><strong>Step 4:</strong> Draft a claim that can be supported by the evidence.</li><li><strong>Step 5:</strong> Add reasoning that uses the unit biology standard, not personal opinion.</li></ol>`)}
+${card('#0f766e', '#f0fdfa', 'Investigation Data Set', `<p><strong>Lesson 7 template exception:</strong> This page does not use the normal three worked examples. In a science investigation lesson, P04 is the data collection and analysis page. Use the table as your lab evidence.</p><p><strong>Question:</strong> ${packet.question}</p><p><strong>Claim being tested:</strong> ${packet.claim}</p>${labDataTable(lesson.unit)}<p><strong>Data task:</strong> Choose the two strongest rows from the table. For each row, copy the exact data or observation and explain how it helps answer the investigation question.</p>`)}
+${card('#7c3aed', '#f5f3ff', 'Analysis Steps', `<ol style="padding-left: 24px;"><li><strong>Step 1:</strong> Underline the evidence row that most directly supports the claim.</li><li><strong>Step 2:</strong> Circle one additional evidence row that gives a different kind of support, such as a model, trend, comparison, or process detail.</li><li><strong>Step 3:</strong> Write one limitation: ${packet.limitation}</li><li><strong>Step 4:</strong> Draft this claim sentence: <strong>${packet.claim}</strong></li><li><strong>Step 5:</strong> Add two evidence sentences and one reasoning sentence that explains the biology connection in your CER draft.</li></ol>`)}
 ${card('#dc2626', '#fef2f2', 'Data Error and Limitation Check', `<p><strong style="color: #b91c1c;">Incorrect:</strong> Ignoring an outlier, vague observation, or missing control because it is inconvenient.</p><p><strong style="color: #047857;">Correct:</strong> Naming the limitation and explaining how it affects confidence in the claim.</p><p><strong>Teachable Explanation:</strong> Reliable science does not hide limitations. It explains what the data can support and what would need more evidence.</p>`)}
 ${tor('Ask for help if you cannot choose the strongest evidence or identify a reasonable limitation after completing the analysis steps.')}
 `;
@@ -332,13 +417,14 @@ ${tor(isLab ? 'Ask for help if Guided Practice feedback shows that you are confu
 
 function pageP06(lesson) {
   const isLab = lesson.number === 7;
+  const packet = isLab ? investigationPacket(lesson.unit) : null;
   return `${header(lesson.unit.n, lesson.number)}
 <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.75; color: #1f2933; max-width: 980px; margin: 0 auto 22px auto; background: #eef7ff; border-left: 8px solid #2563eb; border-radius: 10px; padding: 24px; margin-bottom: 18px;"><h1 style="font-size: 30px; margin: 0;">P06 Independent Work</h1></div>
 ${standardTrace(lesson)}
 ${card('#7c3aed', '#f5f3ff', 'Opening Independent Work Workflow', `<p>Complete this work in your notebook before the checkpoint. Your answers must be self-contained. A reader should understand your thinking without asking you to explain it verbally.</p>`)}
-${card('#0f766e', '#f0fdfa', 'Part A', `<p><strong>${isLab ? 'Investigation Setup:' : 'Concept Evidence:'}</strong> ${isLab ? 'Write the investigation question, identify the variables or comparison groups, and explain why the setup is safe and fair.' : `Write one paragraph explaining ${conceptNoun(lesson)} using at least two vocabulary terms and one piece of evidence.`}</p>`)}
-${card('#f59e0b', '#fffbeb', 'Part B', `<p><strong>${isLab ? 'Data and Model Analysis:' : 'Model or Data Use:'}</strong> ${isLab ? 'Use the provided table or model to record two exact evidence statements. Explain what each one shows.' : 'Create a two-column table with Evidence on the left and What It Means on the right. Include at least three rows.'}</p>`)}
-${card('#16a34a', '#f0fdf4', 'Part C', `<p><strong>${isLab ? 'CER Response:' : 'Application:'}</strong> ${isLab ? 'Write a complete claim-evidence-reasoning paragraph. Include one limitation or error source and explain how it affects confidence in the claim.' : 'Answer this application prompt: How would misunderstanding this lesson idea lead to an incorrect biological explanation? Correct the misunderstanding using evidence.'}</p>`)}
+${card('#0f766e', '#f0fdfa', isLab ? 'Part A: Investigation Setup' : 'Part A: Concept Evidence', `<p><strong>${isLab ? 'Investigation Setup:' : 'Concept Evidence:'}</strong> ${isLab ? `Copy the investigation question: <strong>${packet.question}</strong> Then copy the claim being tested and identify the comparison focus: ${packet.variables}` : `Write one paragraph explaining ${conceptNoun(lesson)} using at least two vocabulary terms and one piece of evidence.`}</p>`)}
+${card('#f59e0b', '#fffbeb', isLab ? 'Part B: Data and Model Analysis' : 'Part B: Model or Data Use', `<p><strong>${isLab ? 'Data and Model Analysis:' : 'Model or Data Use:'}</strong> ${isLab ? 'Choose two evidence rows from the data table. For each row, copy the exact observation or data and write one sentence explaining how it supports, weakens, or clarifies the claim.' : 'Create a two-column table with Evidence on the left and What It Means on the right. Include at least three rows.'}</p>`)}
+${card('#16a34a', '#f0fdf4', isLab ? 'Part C: Complete CER Response' : 'Part C: Application', `<p><strong>${isLab ? 'CER Response:' : 'Application:'}</strong> ${isLab ? `Write one complete CER response. Begin with this claim if the evidence supports it: <strong>${packet.claim}</strong> Include two evidence sentences, one reasoning sentence, and this limitation or a better one you can justify: ${packet.limitation}` : 'Answer this application prompt: How would misunderstanding this lesson idea lead to an incorrect biological explanation? Correct the misunderstanding using evidence.'}</p>`)}
 ${card('#334155', '#f8fafc', 'Notebook Evidence Language', `<p>Your notebook evidence should include complete sentences, labeled data or model evidence, and a clear science explanation. Do not submit only a copied definition or a single answer choice.</p>`)}
 ${tor(isLab ? 'Ask for help if you have data but cannot turn it into a CER paragraph.' : 'Ask for help if your independent work lists terms but does not explain the relationship among them.')}
 `;
@@ -346,11 +432,12 @@ ${tor(isLab ? 'Ask for help if you have data but cannot turn it into a CER parag
 
 function pageP07(lesson) {
   const isLab = lesson.number === 7;
+  const packet = isLab ? investigationPacket(lesson.unit) : null;
   return `${header(lesson.unit.n, lesson.number)}
 <div style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.75; color: #1f2933; max-width: 980px; margin: 0 auto 22px auto; background: #eef7ff; border-left: 8px solid #2563eb; border-radius: 10px; padding: 24px; margin-bottom: 18px;"><h1 style="font-size: 30px; margin: 0;">P07 Checkpoint</h1></div>
 ${standardTrace(lesson)}
 ${card('#dc2626', '#fef2f2', 'Teacher of Record Graded', `<p>This checkpoint is Teacher of Record graded. Submit complete notebook evidence and the checkpoint response according to the course workflow.</p>`)}
-${card('#0f766e', '#f0fdfa', 'Checkpoint Task', `<p>${isLab ? 'Submit your Lesson 7 lab/data investigation response. It must include the investigation question, safety note, variables or comparison groups, procedure summary, data/model evidence, CER paragraph, and limitation/error note.' : `Submit a standards-aligned explanation showing how evidence supports ${conceptNoun(lesson)}. Include a claim, at least two pieces of evidence, and reasoning that uses the lesson vocabulary.`}</p>`)}
+${card('#0f766e', '#f0fdfa', 'Checkpoint Task', `<p>${isLab ? `Submit your Lesson 7 lab/data investigation response to this question: <strong>${packet.question}</strong> Your response must include the copied claim, variable/comparison focus, controlled conditions, two exact evidence statements from the table, one limitation, and a complete CER response.` : `Submit a standards-aligned explanation showing how evidence supports ${conceptNoun(lesson)}. Include a claim, at least two pieces of evidence, and reasoning that uses the lesson vocabulary.`}</p>`)}
 ${card('#7c3aed', '#f5f3ff', 'Notebook Evidence Submission', `<ul style="padding-left: 24px;"><li>P02 vocabulary and setup notes.</li><li>P03 common mistake correction.</li><li>P04 worked example or data analysis notes.</li><li>P06 Part A, Part B, and Part C.</li></ul>`)}
 ${card('#f59e0b', '#fffbeb', 'Checkpoint Submission', `<p>Submit one polished response. Use paragraph form or a clearly labeled CER organizer. If you include a table, explain what the table shows in words.</p>`)}
 ${card('#16a34a', '#f0fdf4', 'Submission Workflow', `<ol style="padding-left: 24px;"><li>Review the mastery criteria below.</li><li>Check that every claim has evidence.</li><li>Submit notebook evidence and checkpoint response.</li><li>Use Teacher of Record feedback to revise if mastery is not met.</li></ol>`)}
@@ -451,12 +538,13 @@ function assessmentItems(lesson, type, count) {
   const pattern = correctPatterns[type];
   const standardList = lesson.standards;
   const lab = lesson.number === 7;
+  const packet = lab ? investigationPacket(lesson.unit) : null;
   const promptsLab = [
-    ['Which statement best identifies the investigation question?', 'The question that can be answered with the included data or model'],
-    ['Which choice correctly identifies a variable or comparison group?', 'The condition or group that changes or is measured in the investigation'],
-    ['Which procedure choice best keeps the investigation safe and fair?', 'Use the embedded virtual or data packet and keep comparison conditions controlled'],
-    ['Which data point is strongest evidence for the claim?', 'The specific observation or value that directly answers the investigation question'],
-    ['Which limitation should be named in the CER response?', 'A possible source of error or missing evidence that affects confidence in the claim'],
+    ['Which statement best identifies the investigation question?', packet ? packet.question : 'The question that can be answered with the included data or model'],
+    ['Which choice correctly identifies the variable or comparison focus?', packet ? packet.variables : 'The condition or group that changes or is measured in the investigation'],
+    ['Which procedure choice best keeps the investigation safe and fair?', packet ? packet.constants : 'Use the embedded virtual or data packet and keep comparison conditions controlled'],
+    ['Which evidence should be used in the CER response?', packet ? packet.rows[0][1] : 'The specific observation or value that directly answers the investigation question'],
+    ['Which limitation should be named in the CER response?', packet ? packet.limitation : 'A possible source of error or missing evidence that affects confidence in the claim'],
   ];
   const promptsNormal = [
     ['Which answer best uses evidence from the model or table?', 'The answer that cites the specific evidence and explains the biology connection'],
@@ -467,7 +555,7 @@ function assessmentItems(lesson, type, count) {
   ];
   const prompts = lab ? promptsLab : promptsNormal;
   const stimulus = lab
-    ? `<table border="1" cellpadding="6"><tr><th>Investigation Evidence</th><th>What Student Records</th></tr><tr><td>Comparison group</td><td>Condition, variable, or model part</td></tr><tr><td>Data/model observation</td><td>Exact evidence from the packet</td></tr><tr><td>CER planning</td><td>Claim, evidence, reasoning, and limitation</td></tr></table>`
+    ? `<p><strong>Investigation Question:</strong> ${packet.question}</p><p><strong>Claim:</strong> ${packet.claim}</p><table border="1" cellpadding="6"><tr><th>Evidence Source or Condition</th><th>Data or Observation</th><th>How to Use It</th></tr>${packet.rows.map((row) => `<tr><td>${row[0]}</td><td>${row[1]}</td><td>${row[2]}</td></tr>`).join('')}</table>`
     : `<table border="1" cellpadding="6"><tr><th>Evidence Type</th><th>Use</th></tr><tr><td>Model</td><td>Shows structure, process, or relationship</td></tr><tr><td>Data table</td><td>Supports or challenges a claim</td></tr><tr><td>Reasoning</td><td>Connects evidence to the Biology standard</td></tr></table>`;
   const questions = [];
   for (let i = 1; i <= count; i += 1) {
