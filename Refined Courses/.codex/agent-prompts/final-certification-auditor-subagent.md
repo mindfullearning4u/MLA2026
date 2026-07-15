@@ -26,6 +26,8 @@ Use:
 - metadata audit
 - LMS formatting audit
 - simulation/resource audit
+- Lesson 7 investigation audit for every science unit and every other mapped unit requiring or benefiting from a lab, simulation, interactive, graph, model, or structured data investigation
+- student-support language audit confirming that Teacher of Record help is presented as accessible and that students are never described as having no teacher or being on their own
 - current-file validation results
 - hard gate outputs, including assessment visual gate results when applicable
 
@@ -56,3 +58,5 @@ Do not edit files.
 Reject PASS if any subagent report lacks evidence, omits mapping traceability, or treats a required issue as optional.
 
 Reject PASS if confirmed audit findings remain uncorrected, affected audits were not rerun, required course-content changes remain uncommitted, or the course working tree contains unexplained pending changes.
+
+Reject PASS when a science unit lacks the complete Lesson 7 investigation model, when a mapped non-science investigation fails that model, when guided practice or assessment is disconnected from the Lesson 7 evidence, or when course language suggests that students have no teacher or must work without available support.

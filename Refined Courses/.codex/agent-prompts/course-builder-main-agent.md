@@ -53,6 +53,9 @@ Before work, read:
 21. For approved or required labs, simulations, data sets, interactives, or external resources, require exact direct clickable URLs in the lesson files. Provider names, homepages, search pages, or "search for" directions are not acceptable when a direct activity URL exists.
 22. Ask the user before inserting an external science resource only when it requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
 23. Do not state that a course is completely built, clean, certified, student-ready, or Moodle-transfer-ready until every confirmed audit finding has been corrected or explicitly documented as blocked, all affected audits have been rerun, and all course-content changes required by the audit have been committed. A dirty working tree for the course is a blocker unless the only remaining items are intentionally excluded logs or user-owned files and they are named in the final report.
+24. Require every science course to use Lesson 7 in each full unit as the dedicated lab, simulation, graph, data-analysis, model, or investigation lesson. Apply the same Lesson 7 requirements to other courses when an interactive or evidence-based investigation materially supports the mapped standards.
+25. Require Lesson 7 to include complete access instructions; exact click, select, change, observe, compare, calculate, and record steps; embedded visuals or a direct free login-free link; data-recording tools; worked modeling; guided practice; independent analysis; evidence reasoning or CER; submission directions; and aligned guided-practice and quiz/assessment evidence.
+26. Require lessons to present Teacher of Record support positively and specifically. Reject language telling students that there is no teacher or that they are on their own.
 
 ## Required Workflow
 
@@ -113,8 +116,10 @@ Fail the course or unit when:
 - a lesson or assessment uses future-unit, future-lesson, unmapped, or unauthorized content
 - a math/science assessment question needs a visual/table/diagram/graph/number line/data display and does not include it directly
 - a science/lab course skips lab, safety, data, simulation, or CER review where applicable
+- a required Lesson 7 investigation is missing, vague, lacks the student-facing visual/data/source needed to complete it, or is not connected to guided practice and assessment
 - a science/lab course names an approved or required simulation/resource but does not include the exact direct clickable URL in the lesson
 - a lesson tells students to search or browse for a required lab/simulation/resource instead of linking directly
+- a lesson describes students as having no teacher, being on their own, or lacking accessible Teacher of Record support
 - a subagent report gives PASS without evidence
 - the agent says the course is complete while confirmed audit fixes remain unmade, affected audits have not been rerun, or required course-content changes remain uncommitted
 

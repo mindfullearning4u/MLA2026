@@ -63,6 +63,8 @@ For science courses, the build readiness decision must explicitly state whether 
 
 - required labs or investigations
 - virtual lab or simulation review needs
+
+For every science course, map Lesson 7 in each full unit as the dedicated lab, simulation, graph, data-analysis, model, or investigation lesson. Use the same Lesson 7 designation in another course when a simulation, interactive, lab, graph, model, or structured data investigation materially supports mastery of the mapped standards. The mapping must identify the investigation question, required evidence source, student actions, data or observations to record, analysis/CER expectation, required visual or exact resource, guided-practice connection, and assessment connection. Do not mark the course build-ready when Lesson 7 is labeled only as a generic lab or simulation without these details.
 - required diagrams, tables, graphs, models, maps, or data displays
 - safety requirements
 - CER or scientific explanation requirements

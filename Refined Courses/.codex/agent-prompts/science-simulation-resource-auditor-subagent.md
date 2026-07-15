@@ -52,6 +52,9 @@ For each unit and lab/data-aligned lesson, determine:
 - whether it supports mastery rather than distraction
 - whether it should be required lab support, extra support, or enrichment
 - what step-by-step student-use directions must appear beside the link in the lesson
+- whether every science unit's Lesson 7 has an appropriate required investigation resource or a complete embedded alternative
+- whether Lesson 7 guided practice and assessment use the same simulation, lab, graph, model, data set, or observations
+- whether optional enrichment is clearly labeled, free, direct, login-free, and excluded from required notebook and assessment submission
 
 If no appropriate resource is found, report the search notes and state `No appropriate free simulation found`.
 

@@ -34,6 +34,8 @@ Check:
 - JSON metadata
 - LMS HTML formatting
 - resources/simulations
+- complete Lesson 7 dedicated investigation for every science unit and for other units when an investigation materially supports the mapped standards, including exact student actions, visuals/data/source, recording tools, worked modeling, guided practice, independent analysis, submission directions, and aligned assessment evidence
+- positive, specific Teacher of Record support language with no statement that students have no teacher or are on their own
 - accreditation/compliance evidence
 
 ## Output

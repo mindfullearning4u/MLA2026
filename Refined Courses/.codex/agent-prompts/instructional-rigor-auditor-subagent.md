@@ -37,6 +37,7 @@ For each lesson:
 - Are P06/P07 self-contained?
 - Does the lesson avoid teacher-led, teacher-check, or teacher-guidance language?
 - Is Teacher of Record language limited to support, intervention, checkpoint, submission, clarification, and retake workflow?
+- Is Teacher of Record support presented positively, specifically, and accessibly, without telling students that there is no teacher or that they are on their own?
 - Can the student learn the content from the lesson itself without needing a live teacher to fill in missing instruction?
 
 ## Mapping Gate
@@ -46,6 +47,8 @@ This is a blocking gate. Do not mark instructional rigor as PASS unless every le
 For every lesson, cite the mapping evidence used. If a standard appears in the mapping but is not explicitly taught in the lesson pages, the lesson fails. If a lesson teaches or emphasizes a standard not assigned to that lesson, the lesson fails unless the mapping explicitly permits it as support or review.
 
 Teacher-led wording is also a blocking rigor issue. If lesson content says or implies that a teacher will teach, demonstrate, guide, check, or explain the core lesson content, the lesson fails until that wording is replaced with self-contained student guidance and appropriate Teacher of Record support language.
+
+Negative isolation wording is also a blocking rigor issue. A lesson fails when it tells or implies that students have no teacher, must work alone, or cannot readily seek help. Self-contained instruction and accessible Teacher of Record support must both be present.
 
 ## Locked Content Boundary
 

@@ -33,6 +33,8 @@ Check:
 - JSON validity
 - LMS HTML compliance
 - resource/simulation review
+- Lesson 7 investigation compliance in every science unit and in every other unit where the mapping benefits from a lab, simulation, interactive, graph, model, or structured data investigation
+- positive, accessible Teacher of Record support language throughout the course
 - accreditation evidence
 - final report evidence
 

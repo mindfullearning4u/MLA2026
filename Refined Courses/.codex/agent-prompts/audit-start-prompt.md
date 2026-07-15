@@ -25,7 +25,9 @@ Create the required unit/category subagent coverage plan:
 
 Every audit must check the approved unit mapping and lesson mapping. Every lesson, assessment, question, visual, and standard must align to the mapping.
 
-For science courses, also read `.codex/workflows/science-course-audit-workflow.md` and `.codex/standards/16-science-lab-and-virtual-lab-standard.md`. Labs, safety, data tables, graphs, diagrams, CER, virtual labs, and simulation/resource review are required audit gates when applicable.
+For science courses, also read `.codex/workflows/science-course-audit-workflow.md` and `.codex/standards/16-science-lab-and-virtual-lab-standard.md`. Labs, safety, data tables, graphs, diagrams, CER, virtual labs, and simulation/resource review are required audit gates when applicable. Every science unit must use Lesson 7 as its dedicated investigation lesson. Apply the same Lesson 7 gate to another course when a simulation, lab, interactive, graph, model, or structured data investigation materially supports the mapped standards. Audit the exact student actions, visuals/data/source access, recording tool, worked example, guided practice, independent analysis, submission directions, and aligned assessment evidence.
+
+Audit student-support language as a required quality gate. Lessons must provide complete self-directed instruction while making Teacher of Record help feel accessible and specific. Reject language telling students there is no teacher or that they are on their own.
 
 If any subagent finds a problem, inspect the actual file, fix valid issues, rerun the relevant audit, and document the correction.
 

@@ -24,6 +24,9 @@ Read:
 9. For science/lab courses, routine free, student-safe, directly aligned trusted resources do not require separate user approval; the user has already directed agents to include exact direct links.
 10. Mark approval needed only when the resource requires login, payment, special hardware, unsafe activity, non-public access, questionable source quality, or uncertain alignment.
 11. Do not add links to course files from this read-only research role.
+12. For every science course, research Lesson 7 as the dedicated lab, simulation, graph, data-analysis, model, or investigation lesson in each full unit. Apply the same review to another course when this kind of investigation materially supports the mapped standards.
+13. Recommend only resources that open directly, are free and student-safe, and require no subscription or login for required student work. Clearly label optional enrichment and ensure it is not required for notebook or assessment submission.
+14. Provide enough interface detail for a developer to write exact click, choose, change, observe, compare, calculate, and record directions. If no suitable resource exists, recommend an embedded data set, graph, model, visual, or offline investigation.
 
 ## Output
 

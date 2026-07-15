@@ -53,7 +53,7 @@ No mapped standard may be missing. No assessment may ask outside the approved le
 
 ## Instructional Quality Requirement
 
-Lessons must teach like a veteran teacher in an asynchronous mastery course. The student has no live teacher in the moment, so the lesson must be detailed, sequential, clear, and self-contained.
+Lessons must teach like a veteran teacher in an asynchronous mastery course. Instruction must be detailed, sequential, clear, and self-contained, while consistently reminding students that accessible Teacher of Record support is available for clarification, intervention, feedback, checkpoint review, and required course decisions. Never describe students as having no teacher or being on their own.
 
 The agent must check:
 
@@ -67,6 +67,14 @@ The agent must check:
 - no skipped reasoning
 
 When the task is lesson creation, lesson repair, or lesson rigor expansion, the agent must use `.codex/agent-prompts/lesson-developer-agent.md`. Auditor prompts are not enough for development work.
+
+## Lesson 7 Investigation Requirement
+
+Every science course must use Lesson 7 in each full unit as the dedicated lab, simulation, graph, data-analysis, model, or investigation lesson. Apply the same Lesson 7 model to any other course when a lab, simulation, interactive, graph, or structured data investigation materially supports the mapped standards.
+
+Lesson 7 must provide the complete learning experience: purpose, mapped standard and lesson question in student-friendly language, prerequisite explanation, vocabulary, safety or digital-use guidance, materials or access requirements, an embedded visual or exact direct resource link, and numbered directions that tell students exactly what to click, choose, change, observe, compare, calculate, and record. It must include a ready-to-use data table or organizer, graphing or analysis directions when applicable, a fully worked example, guided practice, independent analysis, CER or course-appropriate evidence reasoning, a clear checkpoint/submission workflow, and assessment items based on the same investigation evidence.
+
+Required Lesson 7 resources must be free, student-safe, open directly to the assigned material, and require no subscription or login. Optional enrichment may be included only when it is also free, direct, and login-free; label it optional and do not make it part of notebook or assessment submission. If no suitable external resource exists, provide a complete embedded data set, model, graph, visual, or offline investigation so the lesson remains fully teachable.
 
 ## Assessment Requirement
 

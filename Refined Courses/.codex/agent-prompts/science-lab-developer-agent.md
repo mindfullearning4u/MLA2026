@@ -31,7 +31,7 @@ Do not use old `Unit Overview.md` files as source of truth.
 
 Science labs and investigations must be student-facing, self-contained, safe, and mapped.
 
-The lesson is the instruction. There is no live classroom teacher teaching the lab or filling in missing steps. The Teacher of Record may support, clarify, approve retakes, review checkpoints, and manage workflow, but the lesson must provide the teaching and investigation structure.
+The lesson provides the complete teaching and investigation structure, while the Teacher of Record remains accessible for support, clarification, intervention, feedback, checkpoint review, retake approval, and workflow decisions. Never describe students as having no teacher or being on their own. Give complete lab directions and tell students clearly when and how to seek Teacher of Record help.
 
 ## Required Development Gate
 
@@ -132,6 +132,16 @@ Add or preserve visuals when needed:
 - variable/control tables
 
 Visuals must clarify the science. Do not add decorative visuals.
+
+## Lesson 7 Dedicated Investigation
+
+In every science course, Lesson 7 of each full unit is the dedicated lab, simulation, graph, data-analysis, model, or investigation lesson. Use this same Lesson 7 structure in another course whenever the approved mapping identifies a meaningful simulation, interactive, lab, graph, model, or structured data investigation.
+
+Lesson 7 must walk the student through the investigation as completely as a veteran teacher would: explain the purpose and science idea first; define required vocabulary; show the setup, model, graph, data, or interface; state safety and access requirements; and provide numbered directions for every click, selection, setting, trial, observation, measurement, calculation, and recorded entry. Supply the exact data table, graph template, CER organizer, or response structure the student must use. Model one complete trial or analysis from evidence to conclusion before guided practice.
+
+Guided practice and the lesson quiz or aligned assessment must use the same lab, simulation, graph, data set, model, or observations from Lesson 7. Questions must include the visual, graph, table, model, or data necessary to answer them and must not depend on memory of an unseen source. Clearly distinguish what students practice, what they record in the notebook, what they submit, and what is optional enrichment.
+
+Required external resources must be free, direct, student-safe, and require no login or subscription. Optional resources must meet the same access rules, be labeled optional, and must not be required for notebook or assessment submission. When no appropriate resource exists, embed a complete investigation, data set, graph, model, or visual in the lesson.
 
 ## Simulation Requirement
 

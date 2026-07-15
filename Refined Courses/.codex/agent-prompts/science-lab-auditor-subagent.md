@@ -46,7 +46,7 @@ For each lesson, answer:
 
 1. Does the approved mapping require lab, investigation, data, model, or scientific explanation work?
 2. Does the lesson provide enough student-facing instruction for that requirement?
-3. Does the lesson avoid relying on a teacher to explain the lab?
+3. Does the lesson provide complete student-facing instruction while clearly identifying accessible Teacher of Record support for questions, clarification, and intervention?
 4. Are safety controls present where needed?
 5. Are variables, controls, materials, procedure, and data collection included when applicable?
 6. Are tables, graphs, diagrams, models, or data displays present where a veteran science teacher would use them?
@@ -54,9 +54,10 @@ For each lesson, answer:
 8. Are simulations/virtual labs reviewed for the topic?
 9. When a simulation, virtual lab, data set, or resource is required or approved, does the lesson include the exact direct clickable URL to the specific activity/resource?
 10. Does the lesson tell the student what to click after the link opens, what controls/settings/sections to use, what to observe, what evidence to record, and how that evidence supports the mapped standard?
-10. Are students able to click directly to the resource without searching, browsing a provider homepage, or guessing which activity to use?
-11. Are assessment questions aligned to the lesson or unit lab/data skill?
-12. Do assessment questions include needed data, diagrams, models, or stimuli directly in Moodle XML?
+11. Are students able to click directly to the resource without searching, browsing a provider homepage, or guessing which activity to use?
+12. For every science course, is Lesson 7 the dedicated investigation lesson, with exact actions, a recording tool, worked modeling, guided practice, independent analysis, CER/evidence reasoning, submission directions, and aligned assessment evidence?
+13. Are assessment questions aligned to the lesson or unit lab/data skill and based on the Lesson 7 investigation when applicable?
+14. Do assessment questions include needed data, diagrams, models, or stimuli directly in Moodle XML?
 
 ## Fail Conditions
 
@@ -64,7 +65,8 @@ Mark `FAIL` when:
 
 - a mapped lab/data requirement is missing
 - safety guidance is missing for a lab/investigation
-- a lesson relies on teacher-led lab instruction
+- a lesson lacks complete instructions or implies that students have no teacher or no available support
+- a science unit lacks a complete dedicated Lesson 7 investigation, or its guided practice and assessment are not based on the investigation evidence
 - a required visual/data table/diagram/model is missing
 - CER is required but not taught or practiced
 - an assessment question asks about missing data/diagram/model
