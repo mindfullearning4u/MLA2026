@@ -9,11 +9,11 @@
 
 Biology is a laboratory science course focused on living systems, scientific inquiry, data analysis, cells, homeostasis, cellular energy, DNA, genetics, evolution, classification, ecology, interdependence, and human impact.
 
-The course is written for students completing lessons independently in Moodle. A live teacher is not assumed to be present during instruction. Therefore, each lesson must function like a teacher guiding a class: unfamiliar vocabulary is defined before use; processes and relationships are explained in small steps; evidence sources are displayed where students need them; worked examples show how and why an answer is derived; practice directions identify exactly what to observe, record, explain, and submit; and checkpoints state the finished response requirements.
+The course is written for students completing lessons independently in Moodle. Each lesson defines unfamiliar vocabulary before use; explains processes and relationships in small steps; displays evidence sources where students need them; shows how and why an answer is derived; identifies exactly what to observe, record, explain, and submit; and states the finished response requirements. If anything is unclear after students use the lesson steps, examples, and checks, they should contact the Teacher of Record for clarification.
 
 The instructional supports needed for foundational review, grade-level mastery, and deeper application are embedded in the same lesson without labeling students by level. Students who already understand prerequisite ideas may progress more quickly, while students who need more support can use definitions, models, completed examples, reasoning frames, common-mistake corrections, self-checks, and optional resources.
 
-Teacher of Record support remains available for clarification, checkpoint feedback, remediation, revision, and retake workflow. Teacher support supplements the lesson; it does not replace complete student-facing instruction.
+Teacher of Record support remains available for clarification, checkpoint feedback, remediation, revision, and retake workflow. Students should use the lesson directions first and contact the Teacher of Record when they need guidance, feedback, or clarification.
 
 This is a laboratory science course. Lessons 1-6 in each unit teach the core content through the standard seven-page instructional workflow. Lesson 7 in each unit is the dedicated laboratory, simulation, model, graph, or data-investigation lesson. Lesson 8 is the unit synthesis and assessment lesson.
 
@@ -124,7 +124,7 @@ Reproduces the required evidence source and states exactly what to complete in P
 
 ### P07 - Checkpoint
 
-Reproduces the required evidence, states the exact graded question, identifies notebook evidence to submit, defines the response format, gives mastery criteria, and explains the revision or resubmission workflow. A checkpoint must be answerable without a live teacher or an undisclosed source.
+Reproduces the required evidence, states the exact graded question, identifies notebook evidence to submit, defines the response format, gives mastery criteria, and explains the revision or resubmission workflow. A checkpoint must be answerable from the displayed lesson evidence and instructions. If anything remains unclear, students should contact the Teacher of Record.
 
 ### Lesson Quiz
 
