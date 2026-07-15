@@ -13,7 +13,7 @@
     "ELA.K12.EE.1.1",
     "MA.K12.MTR.2.1"
   ],
-  "lessonPurpose": "Synthesize cells, transport, homeostasis, plant/human systems, and health connections without introducing new primary standards.",
+  "lessonPurpose": "Synthesize cells, transport, homeostasis, plant/human systems, and health connections.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -27,70 +27,28 @@
     "Notebook evidence",
     "Guided Practice",
     "Checkpoint submission",
-    "Unit assessment readiness"
+    "Unit Assessment"
   ],
+  "lessonSevenScienceInvestigationException": "Does not apply",
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Unit synthesis across cells, transport, homeostasis, systems, and health.",
+    "labDataInvestigation": "Embedded data/model reasoning aligned to Putting It All Together.",
     "requiredVisuals": [
-      "Mixed stimuli: cell diagrams",
-      "membrane model",
-      "homeostasis scenario",
-      "health data"
+      "Evidence table",
+      "Model or data display",
+      "CER organizer"
     ],
-    "candidateResourcesForApproval": [
-      "Approved resources from Lessons 2-7 only"
-    ],
-    "assessmentStimulus": "Unit-level mixed stimuli from taught lessons",
     "approvedDirectResources": [
       {
-        "name": "OpenStax Biology 2e: Eukaryotic Cells",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
-        "access": "Free public resource; verify availability before Moodle transfer."
-      },
-      {
-        "name": "PhET: Membrane Channels",
-        "exactDirectUrl": "https://phet.colorado.edu/en/simulations/membrane-channels",
-        "access": "Free public resource; verify availability before Moodle transfer."
-      },
-      {
-        "name": "OpenStax Biology 2e: Adaptive Immune Response",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Lesson-specific model, table, scenario, or data display for Putting It All Together."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Putting It All Together",
-  "standards": [
-    "MLA.BIO.CEL.02",
-    "MLA.BIO.CEL.03",
-    "MLA.BIO.CEL.04",
-    "MLA.BIO.CEL.05"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.CEL.02",
-    "MLA.BIO.CEL.03",
-    "MLA.BIO.CEL.04",
-    "MLA.BIO.CEL.05"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "OpenStax Biology 2e: Eukaryotic Cells",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    },
-    {
-      "name": "PhET: Membrane Channels",
-      "exactDirectUrl": "https://phet.colorado.edu/en/simulations/membrane-channels",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    },
-    {
-      "name": "OpenStax Biology 2e: Adaptive Immune Response",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U02_L08_GuidedPractice_MoodleXML.xml",
+  "lessonQuiz": null,
   "unitAssessment": "Moodle XML/BIO_U02_UnitAssessment_MoodleXML.xml"
 }

@@ -2,15 +2,22 @@
   "course": "Biology",
   "unit": "Unit 05",
   "lesson": "Lesson 07",
-  "lessonTitle": "Hominid Evolution Trends",
+  "lessonTitle": "Evolution Evidence, Classification, and Hominid Trends Investigation",
   "mappedStandards": [
-    "MLA.BIO.EVO.04"
+    "MLA.BIO.EVO.01",
+    "MLA.BIO.EVO.02",
+    "MLA.BIO.EVO.03",
+    "MLA.BIO.EVO.04",
+    "MLA.BIO.SCI.02",
+    "MLA.BIO.SCI.03",
+    "MLA.BIO.LAB.03"
   ],
   "supportStandards": [
     "SC.912.L.15.10",
-    "ELA.K12.EE.3.1"
+    "ACT Science",
+    "SAT data and evidence"
   ],
-  "lessonPurpose": "Identify basic trends in hominid evolution.",
+  "lessonPurpose": "Conduct a self-contained investigation using evolution evidence, selection data, classification, origin-of-life evidence, and hominid trend data.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -26,42 +33,34 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": {
+    "status": "Applies",
+    "p04Role": "Data Collection and Analysis instead of standard three worked examples",
+    "guidedPracticeScope": "Investigation question, variables/procedure, data/model evidence, limitation/error, and CER preparation",
+    "quizScope": "Procedure, safety, variables, investigation design, data/model/graph interpretation, evidence selection, limitations, and application"
+  },
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Trend analysis using fossil/trait data.",
+    "labDataInvestigation": "Students analyze fossil, anatomical, molecular, population, cladogram, classification, and hominid trend evidence to support scientific explanations.",
     "requiredVisuals": [
-      "Hominid trend diagram",
-      "Trait comparison table"
+      "Evidence comparison chart",
+      "population frequency graph",
+      "cladogram",
+      "three-domain chart",
+      "origin evidence table",
+      "hominid trait trend table."
     ],
-    "candidateResourcesForApproval": [
-      "Smithsonian Human Origins",
-      "HHMI",
-      "OpenStax Biology 2e"
-    ],
-    "assessmentStimulus": "Hominid trend chart/table",
     "approvedDirectResources": [
       {
-        "name": "Smithsonian Human Origins: Human Evolution Evidence",
-        "exactDirectUrl": "https://humanorigins.si.edu/evidence",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Evolution investigation packet with evidence chart, population data, cladogram, classification table, and trend data."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Hominid Evolution Trends",
-  "standards": [
-    "MLA.BIO.EVO.04"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.EVO.04"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "Smithsonian Human Origins: Human Evolution Evidence",
-      "exactDirectUrl": "https://humanorigins.si.edu/evidence",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U05_L07_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U05_L07_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U05_L07_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

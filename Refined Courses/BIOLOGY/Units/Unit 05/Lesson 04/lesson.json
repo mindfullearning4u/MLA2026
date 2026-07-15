@@ -26,42 +26,26 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": "Does not apply",
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Cladogram/phylogeny interpretation.",
+    "labDataInvestigation": "Embedded data/model reasoning aligned to Classification and Evolutionary Relationships.",
     "requiredVisuals": [
-      "Cladogram",
-      "Classification hierarchy chart"
+      "Evidence table",
+      "Model or data display",
+      "CER organizer"
     ],
-    "candidateResourcesForApproval": [
-      "HHMI BioInteractive",
-      "OpenStax Biology 2e",
-      "CK-12"
-    ],
-    "assessmentStimulus": "Cladogram or classification chart",
     "approvedDirectResources": [
       {
-        "name": "OpenStax Biology 2e: Phylogenies and the History of Life",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/20-introduction",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Lesson-specific model, table, scenario, or data display for Classification and Evolutionary Relationships."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Classification and Evolutionary Relationships",
-  "standards": [
-    "MLA.BIO.EVO.03"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.EVO.03"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "OpenStax Biology 2e: Phylogenies and the History of Life",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/20-introduction",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U05_L04_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U05_L04_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U05_L04_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

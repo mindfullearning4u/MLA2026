@@ -2,16 +2,24 @@
   "course": "Biology",
   "unit": "Unit 01",
   "lesson": "Lesson 07",
-  "lessonTitle": "Molecules and Water as Foundations for Life",
+  "lessonTitle": "Biology Foundations Data Investigation",
   "mappedStandards": [
+    "MLA.BIO.SCI.01",
+    "MLA.BIO.SCI.02",
+    "MLA.BIO.SCI.03",
+    "MLA.BIO.LAB.01",
+    "MLA.BIO.LAB.02",
+    "MLA.BIO.LAB.03",
+    "MLA.BIO.CEL.01",
     "MLA.BIO.ENE.01"
   ],
   "supportStandards": [
     "SC.912.L.18.1",
     "SC.912.L.18.12",
-    "ELA.K12.EE.2.1"
+    "ACT Science",
+    "SAT data and evidence"
   ],
-  "lessonPurpose": "Describe macromolecules and water properties that support life.",
+  "lessonPurpose": "Conduct a self-contained data investigation connecting inquiry, tools, cell theory evidence, macromolecules, and water properties.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -27,52 +35,34 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": {
+    "status": "Applies",
+    "p04Role": "Data Collection and Analysis instead of standard three worked examples",
+    "guidedPracticeScope": "Investigation question, variables/procedure, data/model evidence, limitation/error, and CER preparation",
+    "quizScope": "Procedure, safety, variables, investigation design, data/model/graph interpretation, evidence selection, limitations, and application"
+  },
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Macromolecule and water property model analysis.",
+    "labDataInvestigation": "Students analyze a simulated investigation comparing microscope observations, cell-theory evidence, water-property evidence, and macromolecule data to decide which evidence best supports a biological claim.",
     "requiredVisuals": [
-      "Macromolecule chart",
-      "Water polarity and hydrogen bonding diagram"
+      "Variable/control table",
+      "safety decision table",
+      "microscope field model",
+      "biomolecule data table",
+      "water-property model",
+      "CER organizer."
     ],
-    "candidateResourcesForApproval": [
-      "OpenStax Biology 2e",
-      "CK-12 Biology",
-      "PhET molecule interactions resources if appropriate"
-    ],
-    "assessmentStimulus": "Molecule/water structure diagram or data table",
     "approvedDirectResources": [
       {
-        "name": "OpenStax Biology 2e: Water",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/2-2-water",
-        "access": "Free public resource; verify availability before Moodle transfer."
-      },
-      {
-        "name": "OpenStax Biology 2e: Biological Macromolecules",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/3-introduction",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Mixed investigation packet with procedure excerpt, data table, graph, microscope/tool model, and evidence-source excerpt."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Molecules and Water as Foundations for Life",
-  "standards": [
-    "MLA.BIO.ENE.01"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.ENE.01"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "OpenStax Biology 2e: Water",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/2-2-water",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    },
-    {
-      "name": "OpenStax Biology 2e: Biological Macromolecules",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/3-introduction",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U01_L07_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U01_L07_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U01_L07_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }

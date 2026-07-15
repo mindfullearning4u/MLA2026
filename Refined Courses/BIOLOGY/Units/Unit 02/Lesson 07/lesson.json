@@ -2,17 +2,23 @@
   "course": "Biology",
   "unit": "Unit 02",
   "lesson": "Lesson 07",
-  "lessonTitle": "Health, Environment, Pathogens, and Immunity",
+  "lessonTitle": "Cell Transport, Homeostasis, and Health Investigation",
   "mappedStandards": [
-    "MLA.BIO.CEL.05"
+    "MLA.BIO.CEL.02",
+    "MLA.BIO.CEL.03",
+    "MLA.BIO.CEL.04",
+    "MLA.BIO.CEL.05",
+    "MLA.BIO.LAB.02",
+    "MLA.BIO.LAB.03"
   ],
   "supportStandards": [
     "SC.912.L.14.6",
     "HE.912.C.1.3",
     "HE.912.C.1.5",
-    "HE.912.C.1.7"
+    "HE.912.C.1.7",
+    "ACT Science"
   ],
-  "lessonPurpose": "Explain biological health factors using evidence.",
+  "lessonPurpose": "Conduct a self-contained data investigation connecting cell structure, transport, homeostasis, plant systems, human systems, pathogens, immunity, and health evidence.",
   "pages": [
     "P01.html",
     "P02.html",
@@ -28,53 +34,34 @@
     "Checkpoint submission",
     "Lesson quiz"
   ],
+  "lessonSevenScienceInvestigationException": {
+    "status": "Applies",
+    "p04Role": "Data Collection and Analysis instead of standard three worked examples",
+    "guidedPracticeScope": "Investigation question, variables/procedure, data/model evidence, limitation/error, and CER preparation",
+    "quizScope": "Procedure, safety, variables, investigation design, data/model/graph interpretation, evidence selection, limitations, and application"
+  },
   "labVisualSimulationRequirements": {
-    "labDataInvestigation": "Health factor/pathogen/immunity evidence case analysis.",
+    "labDataInvestigation": "Students compare cell models, osmosis data, homeostasis feedback data, and a fictional pathogen/immunity case to explain how structure supports function.",
     "requiredVisuals": [
-      "Pathogen transmission diagram",
-      "Vaccine/immune response model",
-      "Risk factor table"
+      "Cell diagram",
+      "membrane transport model",
+      "concentration table",
+      "feedback loop",
+      "plant tissue diagram",
+      "immune response evidence table."
     ],
-    "candidateResourcesForApproval": [
-      "CDC",
-      "NIH",
-      "CPALMS health-aligned resources"
-    ],
-    "assessmentStimulus": "Health case data or immune response diagram",
     "approvedDirectResources": [
       {
-        "name": "CDC: How Vaccines Work",
-        "exactDirectUrl": "https://www.cdc.gov/vaccines/basics/index.html",
-        "access": "Free public resource; verify availability before Moodle transfer."
-      },
-      {
-        "name": "OpenStax Biology 2e: Adaptive Immune Response",
-        "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
-        "access": "Free public resource; verify availability before Moodle transfer."
+        "name": "Self-contained Moodle data/model packet",
+        "exactDirectUrl": "Not applicable - all required data and directions are embedded in the lesson and assessment item.",
+        "access": "No outside login, payment, or search required."
       }
-    ]
+    ],
+    "assessmentStimulus": "Cell and transport investigation packet with diagrams, osmosis data, feedback scenario, and health evidence table."
   },
-  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, and retake workflow only.",
-  "title": "Health, Environment, Pathogens, and Immunity",
-  "standards": [
-    "MLA.BIO.CEL.05"
-  ],
-  "primaryStandards": [
-    "MLA.BIO.CEL.05"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "CDC: How Vaccines Work",
-      "exactDirectUrl": "https://www.cdc.gov/vaccines/basics/index.html",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    },
-    {
-      "name": "OpenStax Biology 2e: Adaptive Immune Response",
-      "exactDirectUrl": "https://openstax.org/books/biology-2e/pages/42-2-adaptive-immune-response",
-      "access": "Free public resource; verify availability before Moodle transfer."
-    }
-  ],
+  "asynchronousBoundary": "Lesson pages provide the instruction. Teacher of Record support is for clarification, intervention, checkpoint review, feedback, and retake workflow only.",
   "assessmentFormat": "Moodle XML",
   "guidedPractice": "Moodle XML/BIO_U02_L07_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/BIO_U02_L07_Quiz_MoodleXML.xml"
+  "lessonQuiz": "Moodle XML/BIO_U02_L07_Quiz_MoodleXML.xml",
+  "unitAssessment": null
 }
