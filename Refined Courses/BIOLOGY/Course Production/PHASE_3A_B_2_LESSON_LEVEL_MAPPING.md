@@ -18,6 +18,27 @@ Lesson 7 in every unit is the dedicated lab, simulation, model, or data-investig
 
 Lesson 7 Guided Practice must include five lab/data questions: investigation question or purpose, variable/procedure, data or observation, misconception/error, and CER preparation. Lesson 7 Quiz must include 25 questions covering procedure/safety/setup, variables and investigation design, data/model/graph interpretation, evidence selection, error/limitations, and transfer/application.
 
+## Readiness Audit Alignment
+
+The Biology Lesson 7 Science Investigation Readiness Audit dated 2026-07-14 records a PASS decision for the revised lesson architecture. Lesson production and any future repair must preserve these audit-confirmed controls:
+
+- 48 total lessons and 336 Moodle-fragment HTML pages.
+- Lessons 1-6 and Lesson 8 use the standard heading workflow; Lesson 7 uses the science investigation workflow below.
+- Every page includes exactly one Teacher of Record support box.
+- Lesson 7 P04 is Data Collection and Analysis, not a normal three-worked-example page.
+- P04 in all non-Lesson 7 lessons must retain three worked examples.
+- Lesson 8 has Guided Practice and Unit Assessment only; no Lesson 8 quiz bank is created or certified.
+- Moodle XML assessment scope stays locked to the mapped lesson or unit.
+- Lesson 7 Guided Practice and Lesson Quiz questions must include investigation language and embedded stimulus so students do not need to search across pages or outside resources.
+
+## Assessment Bank Requirements by Lesson Type
+
+| Lesson Type | Guided Practice | Lesson Quiz | Unit Assessment | Required Scope |
+|---|---:|---:|---:|---|
+| Lessons 1-6 | 5 questions | 25 questions | Not applicable | Assigned lesson standards only |
+| Lesson 7 Investigation | 5 lab/data questions | 25 lab/data/investigation questions | Not applicable | Assigned unit investigation standards applied through data/model/CER |
+| Lesson 8 Synthesis | 5 synthesis questions | No quiz bank | 40 questions | Unit standards taught in Lessons 1-7 |
+
 ## Lesson-Level Mapping
 
 | Unit | Lesson | Lesson Title | Primary Standards | Support Standards | Lesson Purpose | Assessment Evidence | Rationale |
@@ -85,3 +106,7 @@ Lesson 7 Guided Practice must include five lab/data questions: investigation que
 | Lab/data skills represented | PASS |
 | Scientific inquiry represented | PASS |
 | Biology identity preserved | PASS |
+| 2026-07-14 readiness audit alignment added | PASS |
+| Lesson 7 Guided Practice and Quiz scope stated | PASS |
+| Lesson 8 no-quiz rule stated | PASS |
+| Assessment counts by lesson type stated | PASS |

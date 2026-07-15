@@ -10,6 +10,16 @@ Each Biology unit uses Lesson 7 as the dedicated lab, simulation, model, or data
 
 Lessons 1-6 teach the core content using the standard ALG1-style seven-page lesson workflow. Lesson 8 synthesizes Lessons 1-7 and contains the Unit Assessment.
 
+## Readiness Audit Alignment
+
+The Biology Lesson 7 Science Investigation Readiness Audit dated 2026-07-14 passed the production gate for the revised science architecture. Unit-level mapping must therefore be interpreted with these controls:
+
+- Every unit has exactly one dedicated investigation lesson: Lesson 7.
+- Lesson 7 applies the unit standards through data/model evidence, procedure reasoning, variables, safety, limitations, and CER.
+- Lesson 8 synthesizes Lessons 1-7 and does not introduce a new primary standard.
+- Required investigation evidence is self-contained in lesson pages and Moodle XML stimulus unless an exact direct external resource is separately inserted with page-level directions.
+- Unit assessment stimulus must include unit-taught models, data, graphs, scenarios, or evidence displays when required by the assessed standard.
+
 ## Unit-Level Standards Map
 
 | Unit | Unit Title | Primary MLA Standards | Primary Florida Alignment | Lab/Data Emphasis | Unit Assessment Evidence |
@@ -100,3 +110,6 @@ Lessons 1-6 teach the core content using the standard ALG1-style seven-page less
 | Lab/data skills represented in every unit | PASS |
 | Scientific inquiry represented | PASS |
 | Biology identity preserved | PASS |
+| 2026-07-14 readiness audit alignment added | PASS |
+| Unit-level Moodle XML evidence requirement stated | PASS |
+| Student search dependency removed from required investigation evidence | PASS |
