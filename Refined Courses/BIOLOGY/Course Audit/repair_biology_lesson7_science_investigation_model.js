@@ -4,8 +4,9 @@ const path = require('path');
 const courseRoot = path.resolve(__dirname, '..');
 const unitsRoot = path.join(courseRoot, 'Units');
 const productionRoot = path.join(courseRoot, 'Course Production');
+const veteranRenderer = require('./biology_rebuild_renderer');
 
-const today = '2026-07-14';
+const today = '2026-07-15';
 
 const standardsText = {
   'MLA.BIO.SCI.01': 'Use scientific inquiry to ask testable biology questions, collect evidence, analyze data, and communicate explanations.',
@@ -624,11 +625,11 @@ function writeCourseOverview() {
 
 Biology is a laboratory science course focused on living systems, scientific inquiry, data analysis, cells, homeostasis, cellular energy, DNA, genetics, evolution, classification, ecology, interdependence, and human impact.
 
-Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
+Instruction is designed for clear student ownership with accessible Teacher of Record support throughout the course. Lessons activate prior knowledge, explain why the learning matters, teach concepts explicitly, display and label the required biology, model complete solutions, guide practice, support independent transfer, and verify mastery. Students are encouraged to contact their Teacher of Record whenever directions, evidence, feedback, or a next step remains unclear.
 
 This is a laboratory science course. Lessons 1-6 in each unit teach the core topics through the standard seven-page instructional workflow. Lesson 7 in each unit is the dedicated lab, simulation, model, or data-investigation lesson. Lesson 7 is a documented science-template exception: P04 is Data Collection and Analysis instead of the normal three-worked-example page, and the Guided Practice and Lesson Quiz assess investigation design, variables, procedure, safety, data/model interpretation, evidence selection, limitations, and CER reasoning. Lesson 8 is the unit synthesis and assessment lesson.
 
-The 2026-07-14 Biology Lesson 7 Science Investigation Readiness Audit confirms that this course now follows the revised science architecture: 48 lessons, 336 Moodle-fragment HTML lesson pages, 102 Moodle XML assessment banks, 1,590 Moodle XML questions, 12 Lesson 7 lab/data assessment banks with investigation language, and zero Lesson 8 quiz banks.
+The rebuilt course contains 48 lessons, 336 Moodle-fragment HTML lesson pages, 102 Moodle XML assessment banks, 1,590 Moodle XML questions, six dedicated Lesson 7 investigations, and zero Lesson 8 quiz banks. Final certification depends on the current generated files and audit reports, not on an earlier version of the course.
 
 ---
 
@@ -653,7 +654,7 @@ Approved unit sequence:
 - Unit 5: Evolution, Classification, and Diversity of Life
 - Unit 6: Ecology, Interdependence, and Human Impact
 
-Each unit begins with a Unit Pretest. Lessons 1-6 follow the standard ALG1-style MLA instructional lesson shell. Lesson 7 is the dedicated science lab/simulation/data-investigation lesson and still includes mapped standards, explicit headings, student-facing directions, guided practice, independent work, checkpoint, and lesson quiz. Lesson 8 is Putting It All Together and contains Guided Practice plus the Unit Assessment instead of a Lesson Quiz.
+Each unit begins with a Unit Pretest. Lessons 1-6 use the MLA page sequence while teaching through biology-specific diagrams, models, data, and explanations. Lesson 7 is the dedicated science lab/simulation/data-investigation lesson and includes the complete question, evidence, procedure, recording directions, data analysis, guided practice, independent work, checkpoint, and lesson quiz. Lesson 8 is Putting It All Together and contains Guided Practice plus the Unit Assessment instead of a Lesson Quiz.
 
 Lesson 7 required investigation evidence is self-contained in the lesson pages and Moodle XML question stimulus. Students are not required to search for a lab, simulation, data set, or outside source to complete the required investigation evidence. If a future resource is added, the exact direct URL and page-level student directions must be inserted where the student uses it.
 
@@ -695,9 +696,9 @@ Mastery requires accurate standards-aligned evidence, scientific reasoning, and 
 
 ---
 
-## Biology Science Architecture Audit Status
+## Biology Science Architecture Requirements
 
-The Biology Lesson 7 Science Investigation Readiness Audit dated 2026-07-14 records a PASS decision. The audit verified:
+The current course is certified only when automated and human review verify all of the following in the generated files:
 
 - ALG1-style Moodle fragment pages with no full HTML shell.
 - Exactly one Teacher of Record support box per page.
@@ -920,6 +921,18 @@ ${lessonRows.join('\n')}
 | Student search dependency removed for required Lesson 7 evidence | PASS |
 `, 'utf8');
 }
+
+// Veteran-teacher rebuild: replace the original generic page/question routines
+// with lesson-specific biology instruction, visible evidence, and transfer tasks.
+pageP01 = veteranRenderer.pageP01;
+pageP02 = veteranRenderer.pageP02;
+pageP03 = veteranRenderer.pageP03;
+pageP04 = veteranRenderer.pageP04;
+pageP05 = veteranRenderer.pageP05;
+pageP06 = veteranRenderer.pageP06;
+pageP07 = veteranRenderer.pageP07;
+assessmentItems = veteranRenderer.assessmentItems;
+unitItems = (unit, type, count) => veteranRenderer.unitItems(unit, type, count, lessonObj);
 
 writeCourseOverview();
 writeUnitMapping();
