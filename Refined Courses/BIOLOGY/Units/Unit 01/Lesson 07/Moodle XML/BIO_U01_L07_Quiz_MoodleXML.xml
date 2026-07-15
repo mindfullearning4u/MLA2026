@@ -1,309 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category"><category><text>$course$/BIOLOGY/Units/Unit 01/Lesson 07/Quiz</text></category></question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q01</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Solvent&lt;/th&gt;&lt;th&gt;Solute&lt;/th&gt;&lt;th&gt;Particles Added&lt;/th&gt;&lt;th&gt;Particles Dispersed&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which condition was controlled in all four particle-dispersion trials?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q01</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Solvent type</text>
-      <feedback format="html">
-        <text>Solvent type was intentionally changed.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Solute type</text>
-      <feedback format="html">
-        <text>Solute type was intentionally compared.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Twenty particles added</text>
-      <feedback format="html">
-        <text>Correct. Every trial began with 20 particles.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Particles dispersed</text>
-      <feedback format="html">
-        <text>Particles dispersed was the measured result.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Which evidence source best supports the claim that cells and water-based molecules are foundations for life?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Material&lt;/th&gt;&lt;th&gt;Initial Temperature&lt;/th&gt;&lt;th&gt;Final Temperature&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;26°C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dry sand&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;38°C&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;How much greater was the sand temperature change than the water temperature change?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q02</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>6°C</text>
-      <feedback format="html">
-        <text>6°C is the water change.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>12°C</text>
-      <feedback format="html">
-        <text>Correct: (38−20) − (26−20) = 18−6 = 12°C.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>18°C</text>
-      <feedback format="html">
-        <text>18°C is the sand change before comparison.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>32°C</text>
-      <feedback format="html">
-        <text>This does not follow the final-minus-initial calculation.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: microscope observation, cell-theory evidence, water-property model, and macromolecule data.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q03</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Solvent&lt;/th&gt;&lt;th&gt;Solute&lt;/th&gt;&lt;th&gt;Particles Added&lt;/th&gt;&lt;th&gt;Particles Dispersed&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which claim is best supported by the charged-particle trials?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q03</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>In this model, polar water dispersed more charged particles than nonpolar oil.</text>
-      <feedback format="html">
-        <text>Correct. The claim matches the 20-versus-0 comparison and stays within the model.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Water disperses every material completely.</text>
-      <feedback format="html">
-        <text>The nonpolar trial contradicts this claim.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Oil is not a biological molecule.</text>
-      <feedback format="html">
-        <text>The table does not test whether oil is biological.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Charged particles caused the solvents to change temperature.</text>
-      <feedback format="html">
-        <text>Temperature was measured in a different investigation.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use only the four evidence sources in this lesson; judge each source by specificity, connection to the claim, and scientific reliability.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Solvent&lt;/th&gt;&lt;th&gt;Solute&lt;/th&gt;&lt;th&gt;Particles Added&lt;/th&gt;&lt;th&gt;Particles Dispersed&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;A student says, &amp;quot;Water dispersed more of every solute.&amp;quot; Which evidence corrects the statement?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q04</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence should be used in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Water dispersed 20 charged particles.</text>
-      <feedback format="html">
-        <text>This supports water for charged solute but does not test every solute.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Oil dispersed 18 nonpolar particles while water dispersed 2.</text>
-      <feedback format="html">
-        <text>Correct. The nonpolar comparison disproves the overgeneralization.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every trial began with 20 particles.</text>
-      <feedback format="html">
-        <text>This is a control and does not compare dispersion.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Oil dispersed 0 charged particles.</text>
-      <feedback format="html">
-        <text>This does not address the nonpolar exception.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q05</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Material&lt;/th&gt;&lt;th&gt;Initial Temperature&lt;/th&gt;&lt;th&gt;Final Temperature&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;26°C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dry sand&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;38°C&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;For a bar graph of temperature change, what belongs on the y-axis?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q05</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which limitation should be named in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Material type</text>
-      <feedback format="html">
-        <text>Material type belongs on the x-axis.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Temperature change in °C</text>
-      <feedback format="html">
-        <text>Correct. The numerical dependent variable belongs on the y-axis.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Initial temperature only</text>
-      <feedback format="html">
-        <text>The graph compares calculated change, not only initial temperature.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Trial title</text>
-      <feedback format="html">
-        <text>The title belongs above the graph.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>The packet uses simulated evidence instead of direct lab measurement, so the conclusion should cite the included evidence only.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q06</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Material&lt;/th&gt;&lt;th&gt;Initial Temperature&lt;/th&gt;&lt;th&gt;Final Temperature&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;26°C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dry sand&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;38°C&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which reasoning connects the temperature evidence to a biological function of water?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q06</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Because water changed less, its hydrogen bonding can help living systems resist rapid temperature changes.</text>
-      <feedback format="html">
-        <text>Correct. It connects the measured pattern to temperature stability and life.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Because sand became warmer, sand is a macromolecule.</text>
-      <feedback format="html">
-        <text>The investigation does not classify sand as a macromolecule.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Because both started at 20°C, temperature never changes.</text>
-      <feedback format="html">
-        <text>Both final values differ from 20°C.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Because water ended at 26°C, polarity is not present.</text>
-      <feedback format="html">
-        <text>Temperature data do not remove water polarity.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Which evidence source best supports the claim that cells and water-based molecules are foundations for life?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q07</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Solvent&lt;/th&gt;&lt;th&gt;Solute&lt;/th&gt;&lt;th&gt;Particles Added&lt;/th&gt;&lt;th&gt;Particles Dispersed&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which pair of values should appear in evidence for a conclusion about charged-particle dispersion?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q07</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>20 in water and 0 in oil</text>
-      <feedback format="html">
-        <text>Correct. These are the matched charged-solute results.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>2 in water and 18 in oil</text>
-      <feedback format="html">
-        <text>These values describe the nonpolar solute.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>20 particles added and 20°C</text>
-      <feedback format="html">
-        <text>These values come from different measurements.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>26°C and 38°C</text>
-      <feedback format="html">
-        <text>These are temperature results, not dispersion results.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: microscope observation, cell-theory evidence, water-property model, and macromolecule data.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U01_L07_QZ_Q08</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the embedded data below.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Solvent&lt;/th&gt;&lt;th&gt;Solute&lt;/th&gt;&lt;th&gt;Particles Added&lt;/th&gt;&lt;th&gt;Particles Dispersed&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water (polar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Charged&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oil (nonpolar)&lt;/td&gt;&lt;td&gt;Nonpolar&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Material&lt;/th&gt;&lt;th&gt;Initial Temperature&lt;/th&gt;&lt;th&gt;Final Temperature&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;26°C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dry sand&lt;/td&gt;&lt;td&gt;20°C&lt;/td&gt;&lt;td&gt;38°C&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which response uses evidence from both investigations?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U01_L07_QUIZ_Q08</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U01_L07_QUIZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence source best supports the claim that cells and water-based molecules are foundations for life?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Living systems depend on cells, water, and carbon-based molecules because these provide structure, transport, and biological function.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Microscope observation&lt;/td&gt;&lt;td&gt;Sample A shows many box-shaped units with visible boundaries; each unit has internal structures.&lt;/td&gt;&lt;td&gt;Supports cell theory because it shows organisms are made of cells.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cell-theory evidence&lt;/td&gt;&lt;td&gt;Multiple organisms examined under microscopes show repeating cell units.&lt;/td&gt;&lt;td&gt;Supports the idea that cells are a basic unit of life.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-property model&lt;/td&gt;&lt;td&gt;Water has partial charges; the oxygen side is slightly negative and hydrogen sides are slightly positive.&lt;/td&gt;&lt;td&gt;Explains why water can dissolve and move many substances in living systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Macromolecule data&lt;/td&gt;&lt;td&gt;Proteins perform cell work, carbohydrates provide quick energy, lipids form membranes, and nucleic acids store information.&lt;/td&gt;&lt;td&gt;Connects carbon-based molecules to specific life functions.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Water dispersed 20 charged particles compared with oil 0, and water changed 6°C compared with sand 18°C.</text>
-      <feedback format="html">
-        <text>Correct. It accurately cites a matched comparison from each data table.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Water is important because living things need it.</text>
-      <feedback format="html">
-        <text>This is a general statement without lab data.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Oil dispersed nonpolar particles, so all lipids dissolve in cells.</text>
-      <feedback format="html">
-        <text>This overgeneralizes beyond the simulated evidence.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Sand warmed more, and therefore charged particles are hot.</text>
-      <feedback format="html">
-        <text>This incorrectly combines unrelated measurements.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use only the four evidence sources in this lesson; judge each source by specificity, connection to the claim, and scientific reliability.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
     <name><text>BIO_U01_L07_QUIZ_Q09</text></name>

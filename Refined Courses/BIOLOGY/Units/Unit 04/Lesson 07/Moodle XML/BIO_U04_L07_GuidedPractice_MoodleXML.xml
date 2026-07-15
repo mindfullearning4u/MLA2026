@@ -1,194 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category"><category><text>$course$/BIOLOGY/Units/Unit 04/Lesson 07/GuidedPractice</text></category></question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L07_GP_Q01</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.GEN.03; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the fictional embedded data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Interphase&lt;/th&gt;&lt;th&gt;Prophase&lt;/th&gt;&lt;th&gt;Metaphase&lt;/th&gt;&lt;th&gt;Anaphase&lt;/th&gt;&lt;th&gt;Telophase&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Early embryo&lt;/td&gt;&lt;td&gt;45&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Adult tissue&lt;/td&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Unregulated model&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Treatment model&lt;/td&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What is the mitotic index of regulated adult tissue?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L07_GP_Q01</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Genetic information can be copied, expressed, changed, inherited, and analyzed using evidence from DNA and inheritance models.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA sequence&lt;/td&gt;&lt;td&gt;Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.&lt;/td&gt;&lt;td&gt;Shows a mutation changed one codon.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protein effect&lt;/td&gt;&lt;td&gt;Changed codon codes for a different amino acid in the model.&lt;/td&gt;&lt;td&gt;Connects mutation to possible phenotype change.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Punnett square&lt;/td&gt;&lt;td&gt;Two heterozygous parents produce a 3:1 dominant-to-recessive phenotype ratio.&lt;/td&gt;&lt;td&gt;Shows how alleles can be inherited.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biotechnology evidence&lt;/td&gt;&lt;td&gt;A DNA comparison identifies which sample contains the changed sequence.&lt;/td&gt;&lt;td&gt;Shows how biotechnology can analyze genetic information.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>15%</text>
-      <feedback format="html">
-        <text>Correct: (7+4+2+2) divided by 100 times 100 equals 15%.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>30%</text>
-      <feedback format="html">
-        <text>30% is the treatment-model result.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>50%</text>
-      <feedback format="html">
-        <text>50% is the unregulated-model result.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>85%</text>
-      <feedback format="html">
-        <text>85 is the interphase count.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L07_GP_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.GEN.03; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the fictional embedded data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Interphase&lt;/th&gt;&lt;th&gt;Prophase&lt;/th&gt;&lt;th&gt;Metaphase&lt;/th&gt;&lt;th&gt;Anaphase&lt;/th&gt;&lt;th&gt;Telophase&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Early embryo&lt;/td&gt;&lt;td&gt;45&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Adult tissue&lt;/td&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Unregulated model&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Treatment model&lt;/td&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which condition has the highest mitotic index?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L07_GP_Q02</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Genetic information can be copied, expressed, changed, inherited, and analyzed using evidence from DNA and inheritance models.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA sequence&lt;/td&gt;&lt;td&gt;Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.&lt;/td&gt;&lt;td&gt;Shows a mutation changed one codon.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protein effect&lt;/td&gt;&lt;td&gt;Changed codon codes for a different amino acid in the model.&lt;/td&gt;&lt;td&gt;Connects mutation to possible phenotype change.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Punnett square&lt;/td&gt;&lt;td&gt;Two heterozygous parents produce a 3:1 dominant-to-recessive phenotype ratio.&lt;/td&gt;&lt;td&gt;Shows how alleles can be inherited.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biotechnology evidence&lt;/td&gt;&lt;td&gt;A DNA comparison identifies which sample contains the changed sequence.&lt;/td&gt;&lt;td&gt;Shows how biotechnology can analyze genetic information.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Early embryo at 55%</text>
-      <feedback format="html">
-        <text>Correct. The four mitotic-stage counts total 55.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Adult tissue at 15%</text>
-      <feedback format="html">
-        <text>This is the lowest result.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Unregulated model at 50%</text>
-      <feedback format="html">
-        <text>This is high but 5 points below the embryo model.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Treatment model at 30%</text>
-      <feedback format="html">
-        <text>This is below both the embryo and unregulated models.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: DNA sequence, codon effect, Punnett square, cell division model, and biotechnology case data.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L07_GP_Q03</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.GEN.03; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the fictional embedded data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;th&gt;Interphase&lt;/th&gt;&lt;th&gt;Prophase&lt;/th&gt;&lt;th&gt;Metaphase&lt;/th&gt;&lt;th&gt;Anaphase&lt;/th&gt;&lt;th&gt;Telophase&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Early embryo&lt;/td&gt;&lt;td&gt;45&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Adult tissue&lt;/td&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Unregulated model&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Treatment model&lt;/td&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why does a high embryo mitotic index not by itself show disease?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L07_GP_Q03</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Genetic information can be copied, expressed, changed, inherited, and analyzed using evidence from DNA and inheritance models.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA sequence&lt;/td&gt;&lt;td&gt;Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.&lt;/td&gt;&lt;td&gt;Shows a mutation changed one codon.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protein effect&lt;/td&gt;&lt;td&gt;Changed codon codes for a different amino acid in the model.&lt;/td&gt;&lt;td&gt;Connects mutation to possible phenotype change.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Punnett square&lt;/td&gt;&lt;td&gt;Two heterozygous parents produce a 3:1 dominant-to-recessive phenotype ratio.&lt;/td&gt;&lt;td&gt;Shows how alleles can be inherited.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biotechnology evidence&lt;/td&gt;&lt;td&gt;A DNA comparison identifies which sample contains the changed sequence.&lt;/td&gt;&lt;td&gt;Shows how biotechnology can analyze genetic information.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Rapid regulated division supports normal development.</text>
-      <feedback format="html">
-        <text>Correct. Biological context and regulation matter.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Embryos contain no DNA.</text>
-      <feedback format="html">
-        <text>Embryonic cells contain DNA.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Mitosis occurs only in disease.</text>
-      <feedback format="html">
-        <text>Mitosis also supports growth and repair.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every high index is a diagnosis.</text>
-      <feedback format="html">
-        <text>A count alone is not a diagnosis.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use the same fictional trait and the same parent genotypes for all inheritance comparisons.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L07_GP_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.GEN.03; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the fictional embedded data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Lane&lt;/th&gt;&lt;th&gt;Bands&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reference control&lt;/td&gt;&lt;td&gt;600 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Variant control&lt;/td&gt;&lt;td&gt;420 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sample A&lt;/td&gt;&lt;td&gt;600 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sample B&lt;/td&gt;&lt;td&gt;420 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sample C&lt;/td&gt;&lt;td&gt;600 bp and 420 bp&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which sample matches only the variant control?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L07_GP_Q04</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Genetic information can be copied, expressed, changed, inherited, and analyzed using evidence from DNA and inheritance models.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA sequence&lt;/td&gt;&lt;td&gt;Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.&lt;/td&gt;&lt;td&gt;Shows a mutation changed one codon.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protein effect&lt;/td&gt;&lt;td&gt;Changed codon codes for a different amino acid in the model.&lt;/td&gt;&lt;td&gt;Connects mutation to possible phenotype change.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Punnett square&lt;/td&gt;&lt;td&gt;Two heterozygous parents produce a 3:1 dominant-to-recessive phenotype ratio.&lt;/td&gt;&lt;td&gt;Shows how alleles can be inherited.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biotechnology evidence&lt;/td&gt;&lt;td&gt;A DNA comparison identifies which sample contains the changed sequence.&lt;/td&gt;&lt;td&gt;Shows how biotechnology can analyze genetic information.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence should be used in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Sample A</text>
-      <feedback format="html">
-        <text>Sample A matches the 600-bp reference control.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Sample B</text>
-      <feedback format="html">
-        <text>Correct. Sample B has only the 420-bp band.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Sample C</text>
-      <feedback format="html">
-        <text>Sample C has both bands.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Reference control</text>
-      <feedback format="html">
-        <text>The reference control is not an unknown sample.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U04_L07_GP_Q05</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.GEN.03; MLA.BIO.GEN.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Virtual-lab evidence:&lt;/strong&gt; Use the fictional embedded data.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Lane&lt;/th&gt;&lt;th&gt;Bands&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reference control&lt;/td&gt;&lt;td&gt;600 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Variant control&lt;/td&gt;&lt;td&gt;420 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sample A&lt;/td&gt;&lt;td&gt;600 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sample B&lt;/td&gt;&lt;td&gt;420 bp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sample C&lt;/td&gt;&lt;td&gt;600 bp and 420 bp&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What can Sample C support?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U04_L07_GP_Q05</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U04_L07_GP_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.CEL.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can DNA, mutation, inheritance, and biotechnology evidence explain variation in a fictional genetics case?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Genetic information can be copied, expressed, changed, inherited, and analyzed using evidence from DNA and inheritance models.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DNA sequence&lt;/td&gt;&lt;td&gt;Original sequence: TAC-GGA-CTT; changed sequence: TAC-GAA-CTT.&lt;/td&gt;&lt;td&gt;Shows a mutation changed one codon.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Protein effect&lt;/td&gt;&lt;td&gt;Changed codon codes for a different amino acid in the model.&lt;/td&gt;&lt;td&gt;Connects mutation to possible phenotype change.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Punnett square&lt;/td&gt;&lt;td&gt;Two heterozygous parents produce a 3:1 dominant-to-recessive phenotype ratio.&lt;/td&gt;&lt;td&gt;Shows how alleles can be inherited.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biotechnology evidence&lt;/td&gt;&lt;td&gt;A DNA comparison identifies which sample contains the changed sequence.&lt;/td&gt;&lt;td&gt;Shows how biotechnology can analyze genetic information.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which limitation should be named in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Both reference and variant fragments were detected in the fictional screen.</text>
-      <feedback format="html">
-        <text>Correct. It describes the observed bands without exceeding the evidence.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A definite medical diagnosis</text>
-      <feedback format="html">
-        <text>A fragment screen alone is not a diagnosis.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A required treatment</text>
-      <feedback format="html">
-        <text>Treatment decisions require additional evidence and professionals.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Disclosure without consent</text>
-      <feedback format="html">
-        <text>Genetic information requires privacy and consent safeguards.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>The case is fictional and simplified, so students should not use personal family or medical information.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
 </quiz>

@@ -1,309 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category"><category><text>$course$/BIOLOGY/Units/Unit 06/Lesson 07/Quiz</text></category></question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q01</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;How much did nitrate increase from S1 to S2?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q01</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>2.1 mg/L</text>
-      <feedback format="html">
-        <text>This is the oxygen change.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>3.3 mg/L</text>
-      <feedback format="html">
-        <text>This is not 4.8 minus 0.6.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>4.2 mg/L</text>
-      <feedback format="html">
-        <text>Correct: 4.8 minus 0.6 equals 4.2 mg/L.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>5.4 mg/L</text>
-      <feedback format="html">
-        <text>This is the S3 oxygen value.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>How can ecological data support a decision about biodiversity, resources, and human impact?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which site has the greatest invasive cover?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q02</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>S1 at 5%</text>
-      <feedback format="html">
-        <text>This is the lowest.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>S2 at 12%</text>
-      <feedback format="html">
-        <text>This is below S3 and S4.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>S3 at 25%</text>
-      <feedback format="html">
-        <text>Correct. S3 has 25% cover.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>S4 at 18%</text>
-      <feedback format="html">
-        <text>S4 has 18%, below S3.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: population trend, limiting factor, food web effect, biodiversity data, and monitoring data.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q03</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which graph setup correctly compares nitrate and dissolved oxygen?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q03</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Sites on x-axis; both mg/L variables as labeled lines on y-axis</text>
-      <feedback format="html">
-        <text>Correct. Both variables share mg/L and require a line key.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Nitrate on both axes</text>
-      <feedback format="html">
-        <text>Identical axes do not compare variables.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>NTU and richness on one unlabeled axis</text>
-      <feedback format="html">
-        <text>These variables have different units.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>No units or key</text>
-      <feedback format="html">
-        <text>Units and a key are required.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use the same ecosystem and same monitoring period when comparing data sources.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement is an observation rather than a causal claim?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q04</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ENE.05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence should be used in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>S2 nitrate was 4.8 mg/L, higher than S1 at 0.6 mg/L.</text>
-      <feedback format="html">
-        <text>Correct. It reports measured values.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Agriculture definitely caused every nitrate molecule.</text>
-      <feedback format="html">
-        <text>This exceeds one-day observational evidence.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Urban land use is the only cause of low oxygen.</text>
-      <feedback format="html">
-        <text>Alternative causes were not ruled out.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The wetland permanently solved the problem.</text>
-      <feedback format="html">
-        <text>S4 values do not fully return to reference levels.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Fish population decreases from 480 to 260 over four sampling periods.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q05</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which policy target is most directly connected to S3 evidence?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q05</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which limitation should be named in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Stormwater treatment focused on turbidity and oxygen stress</text>
-      <feedback format="html">
-        <text>Correct. S3 has highest turbidity and lowest oxygen.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>No future monitoring</text>
-      <feedback format="html">
-        <text>Repeated monitoring is needed.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Only an upstream nitrate buffer</text>
-      <feedback format="html">
-        <text>A nutrient buffer addresses S2 more directly and does not cover S3 evidence alone.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Removing graph labels</text>
-      <feedback format="html">
-        <text>Graph labels are required for evidence communication.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Monitoring data show patterns, but a policy decision should consider benefits, costs, and additional evidence.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q06</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why is repeated seasonal monitoring needed?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q06</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>To determine whether patterns persist across time and conditions</text>
-      <feedback format="html">
-        <text>Correct. Repeated data help distinguish persistent trends from temporary conditions.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>To guarantee the same values</text>
-      <feedback format="html">
-        <text>Environmental values are expected to vary.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>To eliminate all uncertainty after one repeat</text>
-      <feedback format="html">
-        <text>No finite sampling eliminates all uncertainty.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>To avoid using controls</text>
-      <feedback format="html">
-        <text>Consistent methods improve comparability.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>How can ecological data support a decision about biodiversity, resources, and human impact?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q07</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which alternative explanation should be considered for low dissolved oxygen?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q07</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Temperature or flow differences in addition to pollutants</text>
-      <feedback format="html">
-        <text>Correct. Multiple environmental factors can affect dissolved oxygen.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Site names caused oxygen loss</text>
-      <feedback format="html">
-        <text>Names do not alter chemistry.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Richness creates nitrate units</text>
-      <feedback format="html">
-        <text>Richness is a biological count, not a source of units.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The graph changed the water</text>
-      <feedback format="html">
-        <text>Graphing displays data and does not change the system.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: population trend, limiting factor, food web effect, biodiversity data, and monitoring data.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U06_L07_QZ_Q08</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standards:&lt;/strong&gt; MLA.BIO.ECO.03; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Monitoring evidence:&lt;/strong&gt; Use the fictional embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Site&lt;/th&gt;&lt;th&gt;DO mg/L&lt;/th&gt;&lt;th&gt;Nitrate mg/L&lt;/th&gt;&lt;th&gt;Turbidity NTU&lt;/th&gt;&lt;th&gt;Richness&lt;/th&gt;&lt;th&gt;Invasive Cover&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S1&lt;/td&gt;&lt;td&gt;9.2&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S2&lt;/td&gt;&lt;td&gt;7.1&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;12%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S3&lt;/td&gt;&lt;td&gt;5.4&lt;/td&gt;&lt;td&gt;3.9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S4&lt;/td&gt;&lt;td&gt;6.8&lt;/td&gt;&lt;td&gt;2.2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;18%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which response uses evidence and acknowledges limits?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U06_L07_QUIZ_Q08</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U06_L07_QUIZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.ECO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; How can ecological data support a decision about biodiversity, resources, and human impact?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Ecological decisions should use evidence from populations, food webs, biodiversity, resources, and monitoring data.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population graph&lt;/td&gt;&lt;td&gt;Fish population decreases from 480 to 260 over four sampling periods.&lt;/td&gt;&lt;td&gt;Shows a population change that needs explanation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limiting factor data&lt;/td&gt;&lt;td&gt;Dissolved oxygen decreases while water temperature increases.&lt;/td&gt;&lt;td&gt;Suggests abiotic factors may limit the population.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Food web evidence&lt;/td&gt;&lt;td&gt;A decrease in producers reduces available energy for primary consumers.&lt;/td&gt;&lt;td&gt;Connects energy transfer to population effects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monitoring data&lt;/td&gt;&lt;td&gt;Invasive plant coverage rises from 8 percent to 37 percent of the shoreline.&lt;/td&gt;&lt;td&gt;Supports a biodiversity and habitat concern.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>S3 had 5.4 mg/L DO, 18 NTU, and richness 9, supporting intervention and repeated monitoring without proving one cause.</text>
-      <feedback format="html">
-        <text>Correct. It cites multiple indicators and preserves uncertainty.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>S3 data prove one source forever.</text>
-      <feedback format="html">
-        <text>One survey does not prove a permanent single cause.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>The most expensive option is automatically best.</text>
-      <feedback format="html">
-        <text>Cost alone does not establish effectiveness.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>S1 and S4 are identical.</text>
-      <feedback format="html">
-        <text>The sites differ on every listed variable.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use the same ecosystem and same monitoring period when comparing data sources.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
     <name><text>BIO_U06_L07_QUIZ_Q09</text></name>

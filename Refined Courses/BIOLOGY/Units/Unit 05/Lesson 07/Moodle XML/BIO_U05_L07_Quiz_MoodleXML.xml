@@ -1,309 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <quiz>
   <question type="category"><category><text>$course$/BIOLOGY/Units/Unit 05/Lesson 07/Quiz</text></category></question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q01</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which specimen is most recent?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q01</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>A at 4.4 Ma</text>
-      <feedback format="html">
-        <text>This is the oldest.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>B at 3.2 Ma</text>
-      <feedback format="html">
-        <text>This is older than C, D, and E.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>D at 0.6 Ma</text>
-      <feedback format="html">
-        <text>This is recent but not the smallest age.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>E at 0.1 Ma</text>
-      <feedback format="html">
-        <text>Correct. 0.1 Ma is closest to the present.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Which evidence best supports a scientific explanation of evolutionary relationships and change over time?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q02</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;How much did cranial capacity increase from C to E?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q02</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>650 cm3</text>
-      <feedback format="html">
-        <text>This is C capacity.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>700 cm3</text>
-      <feedback format="html">
-        <text>Correct: 1350 minus 650 equals 700 cm3.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>1000 cm3</text>
-      <feedback format="html">
-        <text>This is the A-to-E difference.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>2000 cm3</text>
-      <feedback format="html">
-        <text>This is not supported by subtraction.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: fossil age, trait similarity, molecular similarity, population data, and cladogram position.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q03</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which variable generally decreases toward more recent specimens?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q03</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="0" format="html">
-      <text>Cranial capacity</text>
-      <feedback format="html">
-        <text>Cranial capacity generally increases.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Bipedal score</text>
-      <feedback format="html">
-        <text>Bipedal score generally increases.</text>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text>Jaw projection</text>
-      <feedback format="html">
-        <text>Correct. Jaw projection moves from 5 to 1.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Age measurement accuracy</text>
-      <feedback format="html">
-        <text>Measurement accuracy is not in the table.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use the same group of organisms when comparing traits, molecular evidence, and classification.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q04</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Why should cranial capacity not be labeled a direct measure of intelligence?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q04</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which evidence should be used in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>The table measures volume, not intelligence or behavior.</text>
-      <feedback format="html">
-        <text>Correct. The measurement is anatomical and requires cautious interpretation.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Capacity has no units.</text>
-      <feedback format="html">
-        <text>The table uses cm3.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Only living people have skulls.</text>
-      <feedback format="html">
-        <text>Fossils can preserve skull evidence.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every fossil has the same value.</text>
-      <feedback format="html">
-        <text>The values range from 350 to 1350.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Older fossils appear in lower rock layers; newer fossils show changed limb proportions.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q05</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which graph setup is correct for cranial trend?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q05</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which limitation should be named in the CER response?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Age before present on x-axis and cranial capacity cm3 on y-axis</text>
-      <feedback format="html">
-        <text>Correct. It plots time against the measured anatomical variable.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Specimen name on both axes</text>
-      <feedback format="html">
-        <text>Two identical categorical axes do not show the trend.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Jaw score on x-axis and no y-axis</text>
-      <feedback format="html">
-        <text>A graph requires both axes.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Cranial capacity without units</text>
-      <feedback format="html">
-        <text>Scientific graphs require units.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>One evidence type is not enough by itself; stronger explanations use multiple lines of evidence.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q06</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;What does the repeated bipedal score of 4 in C and D show?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q06</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.SCI.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which statement best identifies the investigation question?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Not every measured trait changes at every step in an ordered sample.</text>
-      <feedback format="html">
-        <text>Correct. Evolutionary data can show stability as well as change.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>C and D are the same species.</text>
-      <feedback format="html">
-        <text>One shared score cannot establish species identity.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>D is a direct descendant of C.</text>
-      <feedback format="html">
-        <text>Direct ancestry is not established.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Bipedal evidence disappeared.</text>
-      <feedback format="html">
-        <text>Both specimens retain a strong score.</text>
-      </feedback>
-    </answer>
+    <answer fraction="100" format="html"><text>Which evidence best supports a scientific explanation of evolutionary relationships and change over time?</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q07</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which additional evidence would best strengthen relationship analysis?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q07</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.LAB.03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which choice correctly identifies the variable or comparison focus?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>More dated fossils and comparative anatomical or genetic evidence</text>
-      <feedback format="html">
-        <text>Correct. Multiple independent evidence types improve inference.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Personal preference</text>
-      <feedback format="html">
-        <text>Preference is not scientific evidence.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A claim without data</text>
-      <feedback format="html">
-        <text>Claims require evidence.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Ranking living populations</text>
-      <feedback format="html">
-        <text>Living populations must not be ranked and this would not test fossil relationships.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Evidence source being compared: fossil age, trait similarity, molecular similarity, population data, and cladogram position.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
   </question>
   <question type="multichoice">
-    <name>
-      <text>BIO_U05_L07_QZ_Q08</text>
-    </name>
-    <questiontext format="html">
-      <text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fossil-data evidence:&lt;/strong&gt; Use the fictionalized embedded table.&lt;/p&gt;&lt;table border="1" cellpadding="6"&gt;&lt;tr&gt;&lt;th&gt;Specimen&lt;/th&gt;&lt;th&gt;Age Ma&lt;/th&gt;&lt;th&gt;Cranial cm3&lt;/th&gt;&lt;th&gt;Bipedal Score&lt;/th&gt;&lt;th&gt;Jaw Projection&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A&lt;/td&gt;&lt;td&gt;4.4&lt;/td&gt;&lt;td&gt;350&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;430&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C&lt;/td&gt;&lt;td&gt;1.9&lt;/td&gt;&lt;td&gt;650&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E&lt;/td&gt;&lt;td&gt;0.1&lt;/td&gt;&lt;td&gt;1350&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which response includes a trend and a necessary limitation?&lt;/p&gt;</text>
-    </questiontext>
+    <name><text>BIO_U05_L07_QUIZ_Q08</text></name>
+    <questiontext format="html"><text>&lt;p&gt;&lt;strong&gt;Question ID:&lt;/strong&gt; BIO_U05_L07_QUIZ_Q08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MLA Standard:&lt;/strong&gt; MLA.BIO.EVO.01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Investigation Question:&lt;/strong&gt; Which evidence best supports a scientific explanation of evolutionary relationships and change over time?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Claim:&lt;/strong&gt; Evolutionary relationships are supported by patterns in fossils, anatomy, molecular data, population change, classification, and hominid trends.&lt;/p&gt;&lt;table border=&quot;1&quot; cellpadding=&quot;6&quot;&gt;&lt;tr&gt;&lt;th&gt;Evidence Source or Condition&lt;/th&gt;&lt;th&gt;Data or Observation&lt;/th&gt;&lt;th&gt;How to Use It&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fossil evidence&lt;/td&gt;&lt;td&gt;Older fossils appear in lower rock layers; newer fossils show changed limb proportions.&lt;/td&gt;&lt;td&gt;Supports change over time.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Molecular evidence&lt;/td&gt;&lt;td&gt;Species A and B share 96 percent of compared DNA markers.&lt;/td&gt;&lt;td&gt;High similarity supports close relationship.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Population data&lt;/td&gt;&lt;td&gt;Trait frequency rises from 22 percent to 61 percent after an environmental change.&lt;/td&gt;&lt;td&gt;Supports natural selection when a trait affects survival or reproduction.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cladogram evidence&lt;/td&gt;&lt;td&gt;Two species share the most recent branch point.&lt;/td&gt;&lt;td&gt;Supports classification based on evolutionary relationship.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Which procedure choice best keeps the investigation safe and fair?&lt;/p&gt;</text></questiontext>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
     <single>true</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>abc</answernumbering>
-    <answer fraction="100" format="html">
-      <text>Capacity rises from 350 to 1350 cm3, but the five rows do not prove one direct ancestor sequence.</text>
-      <feedback format="html">
-        <text>Correct. It uses measurements and acknowledges branching uncertainty.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Specimen E is the most advanced.</text>
-      <feedback format="html">
-        <text>Advanced is a value judgment, not a precise biological conclusion.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>Every trait changes in a straight line.</text>
-      <feedback format="html">
-        <text>C and D share a bipedal score, and branching is possible.</text>
-      </feedback>
-    </answer>
-    <answer fraction="0" format="html">
-      <text>A must be the ancestor of all later specimens.</text>
-      <feedback format="html">
-        <text>Age order alone does not prove ancestry.</text>
-      </feedback>
-    </answer>
+    <answer fraction="0" format="html"><text>A statement based only on opinion, not data</text><feedback format="html"><text>This choice is not supported by the stimulus. Scientific answers need evidence that can be checked.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A detail from an unrelated future unit</text><feedback format="html"><text>This reaches outside the assigned scope. Use the standard, model, table, or scenario in this question.</text></feedback></answer>
+    <answer fraction="100" format="html"><text>Use the same group of organisms when comparing traits, molecular evidence, and classification.</text><feedback format="html"><text>This answer is correct because it uses the evidence in the stimulus and connects it to the mapped Biology standard.</text></feedback></answer>
+    <answer fraction="0" format="html"><text>A conclusion that ignores the comparison or model</text><feedback format="html"><text>This misses the reasoning step. Recheck what is being compared and how the evidence supports the claim.</text></feedback></answer>
   </question>
   <question type="multichoice">
     <name><text>BIO_U05_L07_QUIZ_Q09</text></name>
