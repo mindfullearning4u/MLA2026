@@ -30,6 +30,36 @@ Savvas program ID: `4204212b-5a54-35a0-97fb-d00633f5e83b`
 
 Course total: **64 lessons**, plus eight ungraded unit pretests. The total includes eight final Unit Synthesis lessons, each of which culminates in the graded unit assessment.
 
+## Quiz incorporation map
+
+The following are the default quiz placements for course production. Each quiz appears after the listed lesson and assesses the identified lesson cluster. During assessment inventory, a cluster may be divided into lesson-level quizzes when Savvas provides clearly aligned lesson-level questions. It may not be moved or replaced with newly written questions merely for template consistency.
+
+| Quiz ID | Incorporated after | Lessons assessed | Savvas source family to inventory |
+|---|---|---|---|
+| U1-Q1 | Lesson 1.3 | 1.2-1.3 | Algebra 1 Readiness Test; Skills Review & Practice |
+| U1-Q2 | Lesson 1.6 | 1.4-1.6 | Skills Review & Practice; Student Companion |
+| U2-Q1 | Lesson 2.3 | 2.1-2.3 | Topic 1 lesson resources, MathXL review, and assessment bank |
+| U2-Q2 | Lesson 2.6 | 2.4-2.6 | Topic 1 lesson resources, MathXL review, and assessment bank |
+| U3-Q1 | Lesson 3.4 | 3.1-3.4 | Topic 2 lesson resources, MathXL review, and assessment bank |
+| U3-Q2 | Lesson 3.7 | 3.5-3.7 | Topic 3 lesson resources, MathXL review, and assessment bank |
+| U3-Q3 | Lesson 3.9 | 3.8-3.9 | Topic 3 lesson resources, MathXL review, and assessment bank |
+| U4-Q1 | Lesson 4.3 | 4.1-4.3 | Topic 4 lesson resources, MathXL review, and assessment bank |
+| U4-Q2 | Lesson 4.5 | 4.4-4.5 | Topic 4 lesson resources, MathXL review, and assessment bank |
+| U5-Q1 | Lesson 5.2 | 5.1-5.2 | Topic 5 lesson resources and assessment bank |
+| U5-Q2 | Lesson 5.4 | 5.3-5.4 | Topic 5 lesson resources, MathXL review, and assessment bank |
+| U5-Q3 | Lesson 5.7 | 5.5-5.7 | Topic 6 lesson resources and assessment bank |
+| U5-Q4 | Lesson 5.11 | 5.8-5.11 | Topic 6 lesson resources, MathXL review, and assessment bank |
+| U6-Q1 | Lesson 6.3 | 6.1-6.3 | Topic 7 lesson resources and assessment bank |
+| U6-Q2 | Lesson 6.5 | 6.4-6.5 | Topic 7 lesson resources, MathXL review, and assessment bank |
+| U6-Q3 | Lesson 6.8 | 6.6-6.8 | Topic 8 lesson resources and assessment bank |
+| U6-Q4 | Lesson 6.10 | 6.9-6.10 | Topic 8 lesson resources, MathXL review, and assessment bank |
+| U7-Q1 | Lesson 7.2 | 7.1-7.2 | Topic 9 lesson resources and assessment bank |
+| U7-Q2 | Lesson 7.4 | 7.3-7.4 | Topic 9 lesson resources, MathXL review, and assessment bank |
+| U8-Q1 | Lesson 8.2 | 8.1-8.2 | Topic 10 lesson resources and assessment bank |
+| U8-Q2 | Lesson 8.5 | 8.3-8.5 | Topic 10 lesson resources, MathXL review, and assessment bank |
+
+Quiz questions are transferred only after the source inventory confirms alignment, answer keys, licensing, required graphs/tables/images, duplicate status, and Moodle compatibility. The final Unit Assessment remains separate from these quizzes and stays inside the final Unit Synthesis lesson.
+
 ---
 
 ## Unit 1 — Algebra Readiness Foundations
