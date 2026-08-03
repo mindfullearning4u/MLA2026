@@ -1,21 +1,20 @@
 # Standards Crosswalk Review
 
-Existing source: `mla_algebra_1_standards_crosswalk.xlsx`. Existing map v3 claims 46 MLA standards and no unmapped Florida Algebra I benchmarks.
+## Verified conclusion
 
-## Review findings
+The existing workbook contains 46 unique MLA Algebra 1 rows mapped to 46 unique Florida B.E.S.T. Algebra 1 benchmark codes. Comparison to all 50 Savvas core lesson standards panels found 46/46 required codes and six additional supporting codes.
 
-- The current crosswalk cannot be accepted solely because v3 reports 100% coverage.
-- Publisher lesson-level standards metadata has not yet been extracted for all 50 lessons.
-- Every external code must be verified for current wording, course applicability, grade band, and evidence level.
-- Alignment must distinguish introduced, practiced, assessed/mastered, and supporting coverage.
-- CPALMS, Florida B.E.S.T., Common Core, SAT, and ACT references require an authoritative-source recheck before approval.
+The old Course Unit/Lesson fields are no longer architecture-authoritative because the proposed course uses eight units. The old universal “Lesson Quiz” mastery-evidence label is also invalid because quizzes may be lesson-level or clustered based on Savvas source availability.
 
-## Provisional domain routing
+The proposed verified workbook updates direct Savvas lesson matches and proposed unit placement. Common Core, SAT, and ACT columns are secondary comparability mappings, not Florida compliance evidence.
 
-- Topic 1: algebraic reasoning; equations and inequalities.
-- Topics 2-4: linear relationships, functions, systems, and inequalities.
-- Topics 5-8: exponents, radicals, polynomials, quadratics, and nonlinear models.
-- Topic 9: function families, analysis, and operations.
-- Topic 10: data displays, bivariate data, lines of fit, and two-way tables.
+## Interpretation controls
 
-Disposition: retain the existing workbook as a baseline only. Do not rename it authoritative until lesson-level Savvas metadata and current external standards are reconciled.
+- “Savvas-aligned” means the Florida code appears in a lesson standards panel.
+- It does not mean mastery depth, question quality, licensing, or exportability has been established.
+- Six Savvas-only codes remain supporting/enrichment.
+- Topic 2 heading/objective mismatches require human confirmation before objectives are copied into a lesson blueprint.
+
+## Workbook disposition
+
+Retain the existing crosswalk as the historical baseline. Use `PROPOSED_mla_algebra_1_verified_standards_crosswalk.xlsx` for review; replace the production workbook only after curriculum approval.
