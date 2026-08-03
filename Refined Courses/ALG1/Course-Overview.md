@@ -1,231 +1,116 @@
 # ALG1 - Algebra 1
 **Credit:** 1.0 High School Mathematics Credit  
 **Course Type:** Mastery-Based High School Mathematics Course  
+**Primary Curriculum Alignment:** enVision Florida B.E.S.T. Algebra 1 (2023)
 
 ---
 
 ## Course Description
 
-Algebra 1 is a mastery-based course that develops students' ability to reason abstractly and quantitatively through the study of algebraic relationships. Students explore linear, quadratic, and exponential functions; solve equations and inequalities; analyze and model real-world situations; and interpret data.
+Algebra 1 develops students’ ability to represent, analyze, and solve mathematical and real-world problems using equations, inequalities, functions, systems, polynomials, exponentials, quadratics, radicals, and data. Instruction follows a mastery-based progression that connects conceptual understanding, procedural fluency, modeling, reasoning, and precise mathematical communication.
 
-Students explore algebra through numerical reasoning, symbolic reasoning, mathematical communication, and real-world problem solving. The course emphasizes conceptual understanding, procedural fluency, precision, justification, and the application of algebraic principles to authentic situations.
-
-Instruction emphasizes conceptual understanding, procedural fluency, and application of mathematical reasoning. Students engage in problem-solving tasks that require justification, modeling, and interpretation, preparing them for higher-level mathematics and real-world quantitative demands.
+The approved course architecture follows the content sequence and assessment resources available in enVision Florida B.E.S.T. Algebra 1 (2023) while preserving MLA’s lesson shell, teacher support, notebook evidence, and mastery expectations.
 
 ---
 
 ## Standards Alignment
 
-As a registered private school in the State of Florida, Mindful Learning Academy follows the Florida B.E.S.T. (Benchmarks for Excellent Student Thinking) Standards as its primary academic framework.
+Florida B.E.S.T. Algebra 1 benchmarks are the primary course requirements. The approved crosswalk contains 46 MLA standards mapped one-to-one to 46 required Florida benchmarks. All 46 benchmark codes were located in at least one audited Savvas core lesson standards panel.
 
-To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
+MLA also provides secondary cross-references to Common Core, Digital SAT, and ACT domains. These secondary mappings support comparability and readiness planning; they do not replace Florida course requirements.
 
-- Florida B.E.S.T. Algebra 1 Benchmarks
-- Common Core State Standards
-- SAT College Readiness Standards
-- ACT College and Career Readiness Standards
-
-This multi-framework approach allows students to develop mastery of essential concepts and skills while maintaining alignment with widely recognized academic expectations.
-
-Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
-
-Students residing in states that do not use Florida B.E.S.T. or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
-
-Instruction emphasizes conceptual understanding, procedural fluency, critical thinking, problem-solving, communication, and real-world application. Students demonstrate mastery through a competency-based progression model designed to support college, career, and lifelong learning readiness.
+Six additional codes appearing in Savvas are treated as supporting or enrichment and are not counted as required Algebra 1 outcomes.
 
 ---
 
 ## Learning Objectives / Outcomes
 
-By the end of this course, students will be able to:
+By the end of the course, students will be able to:
 
-- Solve linear equations, inequalities, and systems of equations  
-- Interpret and analyze functions represented algebraically, graphically, and numerically  
-- Model real-world relationships using linear, quadratic, and exponential functions  
-- Perform operations with polynomials and understand their structure  
-- Apply properties of exponents to simplify and evaluate expressions  
-- Analyze data sets and interpret statistical representations  
-- Construct and justify mathematical arguments using precise reasoning  
-- Apply algebraic concepts to real-world problem-solving scenarios  
+- Interpret and rewrite expressions using exponent, radical, and polynomial properties.
+- Solve and model with linear equations, inequalities, absolute-value relationships, and systems.
+- Represent and compare linear, exponential, quadratic, square-root, cubic, and cube-root functions.
+- Analyze domain, range, rate of change, transformations, intercepts, extrema, and other key features.
+- Solve quadratic equations using graphs, factoring, square roots, completing the square, and the quadratic formula.
+- Represent and analyze numerical, categorical, and bivariate data.
+- Interpret association, lines of fit, residuals, correlation, causation, and two-way frequency tables.
+- Apply algebra to financial-literacy and other authentic contexts.
+- Explain reasoning and synthesize multiple concepts in cumulative unit tasks.
 
 ---
 
 ## Prerequisite Knowledge / Skills
 
-Students entering Algebra 1 should have prior experience with the following concepts. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
-
-- Operations with integers, fractions, and decimals  
-- Ratios, proportions, and percent relationships  
-- Basic expressions and equations  
-- Understanding of variables and numerical relationships  
-- Coordinate plane concepts and basic graphing  
-- Interpretation of simple data and patterns  
-
-These prerequisite skills are reinforced and extended throughout the course as needed.
+Students benefit from prior experience with rational-number operations, fractions, decimals, percents, ratios, rates, proportional reasoning, variables, expressions, coordinate graphs, and basic data displays. Unit 1 diagnoses and strengthens these skills before the core Algebra 1 sequence.
 
 ---
 
 ## Course Structure
 
-The course is organized into six units, each designed to build progressively on algebraic concepts and standards mastery.
+The course contains eight units and 64 lessons. Each unit begins with a separate ungraded pretest and ends with a synthesis lesson containing the graded unit assessment.
 
-Approved Algebra 1 unit sequence:
+1. **Algebra Readiness Foundations** — 7 lessons
+2. **Equations and Inequalities** — 7 lessons
+3. **Linear Equations and Linear/Absolute Value Functions** — 10 lessons
+4. **Systems of Equations and Inequalities** — 6 lessons
+5. **Exponents, Radicals, Polynomials, and Factoring** — 12 lessons
+6. **Quadratic Functions and Equations** — 11 lessons
+7. **Extended Function Families and Operations** — 5 lessons
+8. **Data Representation and Analysis** — 6 lessons
 
-- Unit 1: Foundations of Algebra and Expressions  
-Students develop prerequisite skills, algebra readiness, number sense, expression structure, algebraic language, exponent properties, combining like terms, and the distributive property.
-
-- Unit 2: Solving Linear Equations  
-Students develop procedural fluency and conceptual understanding of one-step, two-step, multi-step, variables-on-both-sides, literal, and application-based equations.
-
-- Unit 3: Linear Relationships and Inequalities  
-Students connect equations, graphs, slope, rate of change, linear models, and inequalities using coordinate-plane reasoning and real-world contexts.
-
-- Unit 4: Functions  
-Students develop formal understanding of functions, function notation, domain and range, function behavior, multiple representations, and function comparison.
-
-- Unit 5: Quadratic and Exponential Models  
-Students develop understanding of nonlinear relationships, polynomial readiness, quadratic models, exponential growth and decay, and comparison of linear, quadratic, and exponential models.
-
-- Unit 6: Systems, Data, and Financial Literacy  
-Students apply Algebra 1 concepts through systems of equations, data analysis, trend analysis, financial literacy applications, and multi-step algebraic modeling.
-
-Most lessons follow the MLA instructional workflow:
-
-1. Notebook Task - Part 1
-2. Notebook Task - Part 2
-3. Guided Practice
-4. Independent Work
-5. Checkpoint
-6. Notebook Evidence Submission
-7. Checkpoint Submission
-8. Lesson Quiz
-
-This structure provides multiple opportunities to learn, practice, apply, and demonstrate understanding before advancing.
-
-Each unit also includes:
-
-- Unit Pretest (diagnostic and acceleration eligibility)
-- Standards-aligned lessons
-- Teacher-reviewed submissions
-- Unit Assessment
-
-Instruction follows a mastery-based progression model requiring demonstrated understanding before advancement.
+Unit and lesson lengths follow the curriculum’s content density and prerequisite relationships; units are not forced into a fixed lesson count.
 
 ---
 
 ## Lesson Workflow
 
-Most lessons follow the same learning sequence:
+Lessons use the established MLA course shell and header structure. A typical lesson includes:
 
-Notebook Task Part 1
-->
-Notebook Task Part 2
-->
-Guided Practice
-->
-Independent Work
-->
-Checkpoint
-->
-Notebook Evidence Submission
-->
-Checkpoint Submission
-->
-Lesson Quiz
+1. Lesson Overview and Learning Objectives
+2. Vocabulary when the content requires explicit terminology
+3. Notebook Task
+4. Guided Instruction and Worked Examples
+5. Guided and Independent Practice
+6. Checkpoint or Other Formative Evidence
+7. Help and Teacher-of-Record Support
+8. Quiz only when the approved assessment map places one at that lesson
 
-This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
+Quizzes may assess one lesson or a coherent cluster of lessons. They are placed according to the available Savvas assessment sources rather than automatically attached to every lesson.
+
+The final lesson of every unit is a true synthesis lesson. Students connect the unit’s major ideas, complete cumulative application, and take the unit assessment within that lesson.
 
 ---
 
 ## Assessment Structure
 
-Student learning is evaluated using multiple standards-aligned measures:
-
 ### Unit Pretests
 
-Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
+Every unit begins with an ungraded pretest. It identifies anticipated support needs and is excluded from the final grade. A score of 90% or higher makes the student eligible for a separately administered accelerated pathway. Eligibility does not automatically change the approved unit map or standards requirements.
 
-### Notebook Evidence Submissions (Teacher of Record Graded)
+### Formative Evidence
 
-Includes:
+Lessons use notebook work, guided practice, independent practice, checkpoints, teacher feedback, and suitable Savvas formative resources such as `Try It!`, `Do You Understand?`, `Do You Know How?`, MathXL practice, mixed review, and adaptive practice.
 
-- Notebook Task Part 1
-- Notebook Task Part 2
-- Independent Work
+### Quizzes
 
-Students may also include additional notes, worked examples, lesson annotations, and practice work completed during instruction.
-
-Notebook Evidence demonstrates engagement, organization, note-taking, and the learning process.
-
-### Checkpoint Submissions (Teacher of Record Graded)
-
-Application-based mastery tasks requiring students to demonstrate reasoning, problem-solving, communication, and conceptual understanding.
-
-Checkpoint Submission demonstrates application of concepts, reasoning, communication, and problem-solving.
-
-### Lesson Quizzes
-
-Standards-aligned assessments providing immediate feedback and measuring lesson-level mastery.
-
-Lesson Quiz demonstrates lesson-level mastery and understanding of key concepts and skills.
+Quizzes are included where the approved quiz map identifies an appropriate Savvas lesson-level or clustered assessment source. Not every lesson requires a quiz.
 
 ### Unit Assessments
 
-Comprehensive evaluations measuring mastery of standards taught throughout the unit.
+Every unit assessment is graded and located in the final synthesis lesson. The assessment measures unit-level integration and application rather than functioning as a detached test page.
 
-Unit Assessment demonstrates unit-level mastery and the ability to integrate and apply learning across multiple standards.
-
-### Grading Breakdown
-
-Notebook Evidence = 10%
-
-Checkpoint Submission = 20%
-
-Lesson Quizzes = 30%
-
-Unit Assessments = 40%
-
-This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
+Pretests carry zero grade weight. Final grade weights for notebook evidence, checkpoints, quizzes, and unit assessments are controlled by the approved grading policy and Moodle gradebook configuration.
 
 ---
 
 ## Mastery & Progression Criteria
 
-Mindful Learning Academy follows a mastery-based learning model.
+Students progress by demonstrating understanding through the evidence assigned in each lesson and unit. Support, additional practice, revision, and reassessment may be provided when students have not yet demonstrated mastery.
 
-To progress successfully through the course, students must:
-
-- Complete all required lesson components
-- Submit Notebook Evidence
-- Submit Checkpoint Responses
-- Demonstrate lesson mastery through Lesson Quizzes
-- Complete all Unit Assessments
-
-Mastery is demonstrated through consistent performance across:
-
-- Notebook Evidence Submissions
-- Checkpoint Submissions
-- Lesson Quizzes
-- Unit Assessments
-
-A minimum mastery level of 80% is required before advancement.
-
-Students may be required to revise and resubmit work until mastery is demonstrated.
-
-Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
-
-Revision opportunities, additional practice, remediation, and progress monitoring may be provided when students need support in demonstrating mastery.
+All remedial, standard, and accelerated pathways use the same approved standards architecture. Pathway-specific workload decisions are administered separately. Accelerated students may receive a lighter notebook task, but this does not remove required standards or unit synthesis evidence.
 
 ---
 
 ## College / Skill Readiness Integration
 
-Algebra 1 integrates foundational skills essential for college readiness and future academic success. Students develop:
-
-- Analytical reasoning and problem-solving skills  
-- Interpretation of quantitative data, graphs, and algebraic models  
-- Mathematical communication and justification  
-- Application of algebraic relationships to real-world situations  
-
-Instruction includes structured opportunities aligned with college readiness expectations, preparing students for advanced coursework and future academic benchmarks.
-
+The course develops algebraic reasoning, quantitative modeling, data interpretation, mathematical communication, and problem solving. Secondary Common Core, SAT, and ACT alignments identify related readiness domains while Florida B.E.S.T. remains the primary compliance framework.
