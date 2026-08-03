@@ -2,7 +2,7 @@
 
 ## Recommendation
 
-Approve an eight-unit architecture for detailed standards validation and lesson-blueprint completion. Do not begin Moodle production yet.
+The verified eight-unit architecture was approved on 2026-08-03. Standards validation and the 50-lesson Savvas metadata audit are complete. Do not begin Moodle production until assessment-licensing and implementation gates are cleared.
 
 ## Unit lesson counts
 
@@ -16,6 +16,10 @@ Approve an eight-unit architecture for detailed standards validation and lesson-
 8. Data Analysis: 5
 
 ## Approval conditions
+
+- Review the proposed map and verified 46-benchmark crosswalk.
+- Confirm the six Savvas-only codes remain supporting/enrichment.
+- Resolve the visible Savvas Topic 2 heading/objective inconsistencies.
 
 - Extract per-lesson Savvas objectives, vocabulary, standards, resources, and page identifiers.
 - Reconcile the existing standards workbook with current Florida B.E.S.T./CPALMS and publisher metadata.
