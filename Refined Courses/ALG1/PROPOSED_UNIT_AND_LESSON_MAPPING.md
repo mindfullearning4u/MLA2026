@@ -9,7 +9,7 @@ Savvas program ID: `4204212b-5a54-35a0-97fb-d00633f5e83b`
 1. Every unit begins with an **ungraded Unit Pretest**.
 2. The pretest identifies anticipated support needs. A score of **90% mastery or higher** makes the student eligible for the separately administered accelerated pathway.
 3. Pathway differentiation is outside this architecture. It does not change the unit map, lesson sequence, standards alignment, or required unit evidence.
-4. A quiz is not required after every lesson. Quizzes may assess a coherent cluster of lessons.
+4. Quiz placement must follow the available Savvas assessment structure. A lesson may have its own quiz when Savvas provides an appropriate lesson-level assessment, or a quiz may assess a coherent cluster of lessons when Savvas groups the evidence that way. The architecture must identify the exact Savvas source so approved questions can be incorporated later without constructing an unnecessary parallel question bank.
 5. Every unit ends with a **Unit Synthesis** lesson. This lesson integrates the unit's major concepts, requires cumulative application, and contains the graded unit assessment. It is not an assessment-only lesson.
 6. Unit and lesson counts are determined by Savvas organization, prerequisite relationships, conceptual coherence, workload, and assessment placement—not a fixed eight-lesson template.
 7. Every instructional lesson begins with Lesson Overview and Learning Objectives and ends with Checkpoint and Help & TOR Support.
@@ -48,7 +48,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 1.6 | Coordinate Plane and Graph Reading | Prepare for graphing equations, functions, systems, and data. | Skills Review & Practice | Graph interpretation; checkpoint |
 | 1.7 | Foundations Synthesis and Unit Assessment | Integrate prerequisite skills and verify readiness for core Algebra 1. | Approved readiness evidence set | Cumulative synthesis; **graded Unit 1 Assessment** |
 
-**Optional clustered quizzes:** Lessons 1.2-1.3; Lessons 1.4-1.6.
+**Provisional quiz placement:** Lesson-level or clustered according to the verified Savvas readiness resources. Suggested clusters: Lessons 1.2-1.3 and Lessons 1.4-1.6. Do not create new questions when suitable Savvas questions are available and approved for transfer.
 
 ---
 
@@ -67,7 +67,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 2.6 | Absolute Value Equations and Inequalities | 1-6 | Case reasoning; checkpoint |
 | 2.7 | Equations and Inequalities Synthesis and Unit Assessment | Topic 1 MathXL Review; Mathematical Modeling in 3 Acts: Collecting Cans; Topic 1 assessment resources | Integrated application; **graded Unit 2 Assessment** |
 
-**Optional clustered quizzes:** Lessons 2.1-2.3; Lessons 2.4-2.6.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 2.1-2.3 and Lessons 2.4-2.6 using the corresponding Topic 1 assessment sources.
 
 ---
 
@@ -89,7 +89,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 3.9 | Transforming Absolute Value Functions | 3-5 | Transformation model; checkpoint |
 | 3.10 | Linear and Absolute Value Synthesis and Unit Assessment | Topic 2-3 reviews, modeling tasks, performance tasks, and assessments; Cumulative Assessment 1 placement retained as supporting evidence | Integrated function comparison; **graded Unit 3 Assessment** |
 
-**Optional clustered quizzes:** Lessons 3.1-3.4; Lessons 3.5-3.7; Lessons 3.8-3.9.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 3.1-3.4, Lessons 3.5-3.7, and Lessons 3.8-3.9 using Topic 2-3 assessment sources.
 
 ---
 
@@ -107,7 +107,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 4.5 | Systems of Linear Inequalities | 4-5 | Feasible-region modeling; checkpoint |
 | 4.6 | Systems Synthesis and Unit Assessment | Topic 4 review; Mathematical Modeling in 3 Acts: Get Up There!; performance tasks; Topic 4 assessment; Cumulative Assessment 2 placement | Modeling synthesis; **graded Unit 4 Assessment** |
 
-**Optional clustered quizzes:** Lessons 4.1-4.3; Lessons 4.4-4.5.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 4.1-4.3 and Lessons 4.4-4.5 using Topic 4 assessment sources.
 
 ---
 
@@ -131,7 +131,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 5.11 | Factoring Special Cases | 6-7 | Structure analysis; checkpoint |
 | 5.12 | Exponents and Polynomial Synthesis and Unit Assessment | Topic 5-6 reviews, modeling tasks, performance tasks, assessments; Cumulative Assessment 3 placement | Integrated algebraic model; **graded Unit 5 Assessment** |
 
-**Optional clustered quizzes:** Lessons 5.1-5.2; Lessons 5.3-5.4; Lessons 5.5-5.7; Lessons 5.8-5.11.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 5.1-5.2, Lessons 5.3-5.4, Lessons 5.5-5.7, and Lessons 5.8-5.11 using Topic 5-6 assessment sources.
 
 ---
 
@@ -154,7 +154,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 6.10 | Quadratic Formula and Discriminant | 8-5 | Solution/discriminant analysis; checkpoint |
 | 6.11 | Quadratic Synthesis and Unit Assessment | Topic 7-8 reviews, modeling tasks, performance tasks, assessments; Cumulative Assessment 4 placement | Integrated quadratic modeling; **graded Unit 6 Assessment** |
 
-**Optional clustered quizzes:** Lessons 6.1-6.3; Lessons 6.4-6.5; Lessons 6.6-6.8; Lessons 6.9-6.10.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 6.1-6.3, Lessons 6.4-6.5, Lessons 6.6-6.8, and Lessons 6.9-6.10 using Topic 7-8 assessment sources.
 
 ---
 
@@ -171,7 +171,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 7.4 | Operations With Functions | 9-4 | Function operation evidence; checkpoint |
 | 7.5 | Extended Functions Synthesis and Unit Assessment | Topic 9 review; Mathematical Modeling in 3 Acts: Edgy Tiles; performance tasks; Topic 9 assessment resources | Integrated function analysis; **graded Unit 7 Assessment** |
 
-**Optional clustered quizzes:** Lessons 7.1-7.2; Lessons 7.3-7.4.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 7.1-7.2 and Lessons 7.3-7.4 using Topic 9 assessment sources.
 
 ---
 
@@ -189,7 +189,7 @@ Course total: **64 lessons**, plus eight ungraded unit pretests. The total inclu
 | 8.5 | Analyzing Two-Way Frequency Tables | 10-5 | Association analysis; checkpoint |
 | 8.6 | Data Synthesis and Unit Assessment | Topic 10 review; Mathematical Modeling in 3 Acts: Text Message; performance tasks; Topic 10 assessment; Cumulative Assessment 5 placement | Integrated data investigation; **graded Unit 8 Assessment** |
 
-**Optional clustered quizzes:** Lessons 8.1-8.2; Lessons 8.3-8.5.
+**Provisional quiz placement:** Use Savvas lesson-level quizzes where available; otherwise cluster Lessons 8.1-8.2 and Lessons 8.3-8.5 using Topic 10 assessment sources.
 
 ---
 
@@ -215,7 +215,7 @@ The final lesson in each unit is a cumulative synthesis of that unit's learning 
 |---|---|---|
 | Unit Pretest | Ungraded | Before Lesson 1 of every unit |
 | Lesson Checkpoint | Formative or completion evidence according to approved policy | End of every instructional lesson |
-| Cluster Quiz | Graded/formative according to approved policy; optional | After a coherent lesson cluster, not necessarily every lesson |
+| Lesson Quiz or Cluster Quiz | Graded/formative according to approved policy | After an individual lesson or coherent lesson cluster, matching verified Savvas assessment availability |
 | Performance/Modeling Task | As designated | Instructionally appropriate location |
 | Unit Assessment | Graded | Within the final Unit Synthesis lesson of every unit |
 | Progress Monitoring/EOC Practice | As designated | Course-level checkpoints and end-of-course preparation |
@@ -227,7 +227,7 @@ This proposal preserves the Savvas instructional order except for the documented
 - Verify every lesson's Savvas objectives, vocabulary, resources, and standards metadata.
 - Reconcile Florida B.E.S.T., CPALMS, Common Core, SAT, ACT, and MLA mappings.
 - Confirm financial-literacy coverage or obtain approval for a targeted supplement.
-- Confirm assessment answer keys, licensing, visual dependencies, and Moodle transferability.
+- Identify the exact Savvas source for every planned lesson or cluster quiz, then confirm question availability, answer keys, licensing, visual dependencies, and Moodle transferability before any question transfer.
 - Complete and approve the page-level `LESSON_BLUEPRINT.md`.
 - Produce a final current-versus-proposed change report.
 
