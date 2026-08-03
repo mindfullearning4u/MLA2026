@@ -10,14 +10,14 @@ Savvas program ID: `4204212b-5a54-35a0-97fb-d00633f5e83b`
 2. The pretest identifies anticipated support needs. A score of **90% mastery or higher** makes the student eligible for the separately administered accelerated pathway.
 3. Pathway differentiation is outside this architecture. It does not change the unit map, lesson sequence, standards alignment, or required unit evidence.
 4. A quiz is not required after every lesson. Quizzes may assess a coherent cluster of lessons.
-5. Every unit ends with a **Unit Synthesis and Assessment** lesson. The graded unit assessment is contained in that final lesson.
+5. Every unit ends with a **Unit Synthesis** lesson. This lesson integrates the unit's major concepts, requires cumulative application, and contains the graded unit assessment. It is not an assessment-only lesson.
 6. Unit and lesson counts are determined by Savvas organization, prerequisite relationships, conceptual coherence, workload, and assessment placement—not a fixed eight-lesson template.
 7. Every instructional lesson begins with Lesson Overview and Learning Objectives and ends with Checkpoint and Help & TOR Support.
 8. No Savvas assessment questions are transferred during architecture work.
 
 ## Course summary
 
-| Unit | Title | Savvas basis | Instructional lessons | Final assessment lesson | Total lessons |
+| Unit | Title | Savvas basis | Instructional lessons | Final synthesis lesson containing assessment | Total lessons |
 |---|---|---|---:|---:|---:|
 | 1 | Algebra Readiness Foundations | Readiness Test; Skills Review & Practice; Student Companion | 6 | 1 | 7 |
 | 2 | Equations and Inequalities | Topic 1 | 6 | 1 | 7 |
@@ -28,7 +28,7 @@ Savvas program ID: `4204212b-5a54-35a0-97fb-d00633f5e83b`
 | 7 | Extended Function Families and Operations | Topic 9 | 4 | 1 | 5 |
 | 8 | Data Representation and Analysis | Topic 10 | 5 | 1 | 6 |
 
-Course total: **64 lessons**, plus eight ungraded unit pretests. The total includes eight final Unit Synthesis and Assessment lessons.
+Course total: **64 lessons**, plus eight ungraded unit pretests. The total includes eight final Unit Synthesis lessons, each of which culminates in the graded unit assessment.
 
 ---
 
@@ -207,7 +207,7 @@ Every lesson must end with:
 1. Checkpoint
 2. Help & TOR Support
 
-The final lesson in each unit additionally contains the graded unit assessment. Intermediate instructional pages are determined by content need and may include vocabulary, concept instruction, worked examples, guided exploration, graph analysis, modeling, discussion, independent application, or project work.
+The final lesson in each unit is a cumulative synthesis of that unit's learning and additionally contains the graded unit assessment. The synthesis must connect and apply the unit's major concepts before students complete the assessment; it may not function as an assessment-only container. Intermediate instructional pages are determined by content need and may include vocabulary, concept instruction, worked examples, guided exploration, graph analysis, modeling, discussion, independent application, or project work.
 
 ## Assessment architecture
 
@@ -217,7 +217,7 @@ The final lesson in each unit additionally contains the graded unit assessment. 
 | Lesson Checkpoint | Formative or completion evidence according to approved policy | End of every instructional lesson |
 | Cluster Quiz | Graded/formative according to approved policy; optional | After a coherent lesson cluster, not necessarily every lesson |
 | Performance/Modeling Task | As designated | Instructionally appropriate location |
-| Unit Assessment | Graded | In the final lesson of every unit |
+| Unit Assessment | Graded | Within the final Unit Synthesis lesson of every unit |
 | Progress Monitoring/EOC Practice | As designated | Course-level checkpoints and end-of-course preparation |
 
 ## Validation and approval gate
