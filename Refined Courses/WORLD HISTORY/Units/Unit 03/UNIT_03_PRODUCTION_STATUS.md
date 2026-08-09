@@ -33,17 +33,19 @@ Implementation checkpoint on August 9, 2026:
 - Notebook and Mastery Checkpoint assignments use Rubric grading with an 80-point passing grade.
 - Lessons 1–7 each have a 25-question bank and deliver five random questions.
 - The diagnostic Pretest has ten questions, no prerequisite, and a zero gradebook weight.
-- The Unit Assessment activity has a 40-question bank and delivers ten random questions.
+- The Unit Assessment activity has a 40-question visual-ready bank and delivers ten lesson-stratified random questions: one from every Lesson 1–7 category plus an additional question from Lessons 2, 4, and 6. No lesson contributes more than two delivered questions.
 - Lesson quizzes and the Unit Assessment are set to one initial attempt and 80% mastery.
 - All sixteen Unit 3 assignments use Rubric grading.
 - The Unit Assessment releases after 80% on the Lesson 8 Mastery Checkpoint; Lesson 8 has no regular quiz.
 - Coursewide gradebook weights are verified at Notebook 20%, Checkpoint 20%, Quiz 30%, Unit Assessment 30%, with every Pretest at 0%.
+- Lessons 1–7 now use visual-ready 25-question categories. Each lesson bank embeds ten accessible instructional visuals directly in its questions.
+- The visual-ready Pretest embeds five visuals, and the visual-ready Unit Assessment embeds nineteen visuals.
+- Embedded items include labeled maps, timelines, comparison diagrams, flow diagrams, charts, political and social hierarchies, navigation diagrams, perspective construction, printing-process diagrams, and geocentric/heliocentric models.
+- A Moodle preview verified that an embedded map renders inside the question and that the student is explicitly directed to use both the evidence table and the visual.
 
 Remaining Moodle work:
 
-1. Replace generic evidence-table assessment items with fully instruction-aligned passages, maps, timelines, charts, artwork, artifacts, or scientific diagrams wherever the crosswalk requires those sources or visuals.
-2. Reconfigure the Unit Assessment from one unrestricted ten-question draw to the approved lesson-stratified delivery model.
-3. Open the grading interface for representative Notebook and Mastery Checkpoint assignments and verify that the correct five-criterion, 100-point reusable rubric form is attached, beyond the confirmed Rubric grading-method setting.
-4. Preview every page and assessment as a student and test the complete release chain end to end.
+1. Open the grading interface for representative Notebook and Mastery Checkpoint assignments and verify that the correct five-criterion, 100-point reusable rubric form is attached, beyond the confirmed Rubric grading-method setting.
+2. Preview every page and assessment as a student and test the complete release chain end to end.
 
 Unit 3 must not be labeled student-ready until the Moodle implementation and final audit are complete.
