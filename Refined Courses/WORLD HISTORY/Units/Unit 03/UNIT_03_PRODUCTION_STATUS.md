@@ -45,10 +45,10 @@ Implementation checkpoint on August 9, 2026:
 - All eight Notebook and all eight Mastery Checkpoint assignment descriptions were replaced with World History-specific student directions. Obsolete U.S. Government examples and the confusing old cross-submission sequence were removed.
 - All sixteen Unit 3 assignments were verified to have an active, ready-for-use rubric. The Notebook form has the approved five 20-point criteria, and the Mastery Checkpoint form has the approved five 20-point criteria.
 - The final gradebook audit found stale natural weights. They were corrected and saved: every course Pretest is 0%, Notebook is 20%, Checkpoint is 20%, Quiz is 30%, and Unit Assessment is 30%.
+- The gradebook hierarchy was completed for Units 1–6. Every existing Notebook, Checkpoint, and Lesson Quiz is now inside its matching unit subcategory, and the existing Unit 1–3 Assessments are inside their matching Unit Assessment subcategories. Unit 4–6 Assessment subcategories are ready for their assessments when those activities are created.
 
 Remaining Moodle work:
 
-1. Reorganize the Checkpoint, Quiz, and Unit Assessment gradebook categories so Unit 3 has visible category-level subtotals inside each coursewide category. The Notebook category already has a Unit 3 subtotal.
-2. Perform a true enrolled-student end-to-end release test when a test-student account is available. Administrator preview verified the configured restrictions, but it cannot submit and grade the full chain as an enrolled student.
+1. Perform a true enrolled-student end-to-end release test when a test-student account is available. Administrator preview verified the configured restrictions, but it cannot submit and grade the full chain as an enrolled student.
 
-Unit 3 content and assessments are student-facing and functional. Do not call the gradebook reporting structure fully compliant until the remaining Unit 3 subtotal categories are added.
+Unit 3 content, assessments, and gradebook reporting structure are student-facing and functional.
