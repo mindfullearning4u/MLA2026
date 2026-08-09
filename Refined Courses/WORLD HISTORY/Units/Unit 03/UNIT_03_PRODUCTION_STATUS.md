@@ -22,16 +22,28 @@
 
 ## Moodle implementation state
 
-Moodle Unit 3 still contains the obsolete split-lesson shell and missing-activity restrictions. During implementation on August 7, 2026, MoodleCloud returned a 504 Gateway Time-out when opening the Lesson 1 page editor. No partially loaded editor form was submitted after the timeout.
+Implementation checkpoint on August 9, 2026:
+
+- Lessons 1–8 are consolidated into one correctly named Lesson activity per lesson.
+- All 56 approved P01–P07 HTML pages are saved in Moodle and verified by title.
+- All eight obsolete `Independent Work & Checkpoint` Lesson activities were deleted.
+- All sixteen assignments use the approved `Historian's Notebook Submission` and `Mastery Checkpoint Submission` names.
+- Notebook restrictions now require completion of the corresponding lesson.
+- Mastery Checkpoint restrictions now require completion of the lesson and a passing Notebook grade.
+- Notebook and Mastery Checkpoint assignments use Rubric grading with an 80-point passing grade.
+- Lessons 1–7 each have a 25-question bank and deliver five random questions.
+- The diagnostic Pretest has ten questions, no prerequisite, and a zero gradebook weight.
+- The Unit Assessment activity has a 40-question bank and delivers ten random questions.
+- Lesson quizzes and the Unit Assessment are set to one initial attempt and 80% mastery.
+- All sixteen Unit 3 assignments use Rubric grading.
+- The Unit Assessment releases after 80% on the Lesson 8 Mastery Checkpoint; Lesson 8 has no regular quiz.
+- Coursewide gradebook weights are verified at Notebook 20%, Checkpoint 20%, Quiz 30%, Unit Assessment 30%, with every Pretest at 0%.
 
 Remaining Moodle work:
 
-1. Consolidate each split lesson into one P01–P07 Lesson activity.
-2. Paste and verify the 56 approved HTML pages.
-3. Apply the reusable Notebook and Mastery Checkpoint rubrics to Lessons 1–8.
-4. Import the seven lesson quiz banks, Pretest, and Unit Assessment pool.
-5. Configure random draws, 80% mastery, attempts, review settings, and grade categories.
-6. Repair all release restrictions and remove obsolete split lesson activities.
-7. Preview every page and assessment, then run the final student-view audit.
+1. Replace generic evidence-table assessment items with fully instruction-aligned passages, maps, timelines, charts, artwork, artifacts, or scientific diagrams wherever the crosswalk requires those sources or visuals.
+2. Reconfigure the Unit Assessment from one unrestricted ten-question draw to the approved lesson-stratified delivery model.
+3. Open the grading interface for representative Notebook and Mastery Checkpoint assignments and verify that the correct five-criterion, 100-point reusable rubric form is attached, beyond the confirmed Rubric grading-method setting.
+4. Preview every page and assessment as a student and test the complete release chain end to end.
 
 Unit 3 must not be labeled student-ready until the Moodle implementation and final audit are complete.
