@@ -25,7 +25,7 @@
 Implementation checkpoint on August 9, 2026:
 
 - Lessons 1–8 are consolidated into one correctly named Lesson activity per lesson.
-- All 56 approved P01–P07 HTML pages are saved in Moodle and verified by title.
+- All 56 approved P01–P07 HTML pages are saved in Moodle. The August 9 final audit found that Moodle had escaped the HTML and displayed it as literal code; all 56 pages were re-entered through TinyMCE source mode and now render as formatted student pages.
 - All eight obsolete `Independent Work & Checkpoint` Lesson activities were deleted.
 - All sixteen assignments use the approved `Historian's Notebook Submission` and `Mastery Checkpoint Submission` names.
 - Notebook restrictions now require completion of the corresponding lesson.
@@ -42,10 +42,13 @@ Implementation checkpoint on August 9, 2026:
 - The visual-ready Pretest embeds five visuals, and the visual-ready Unit Assessment embeds nineteen visuals.
 - Embedded items include labeled maps, timelines, comparison diagrams, flow diagrams, charts, political and social hierarchies, navigation diagrams, perspective construction, printing-process diagrams, and geocentric/heliocentric models.
 - A Moodle preview verified that an embedded map renders inside the question and that the student is explicitly directed to use both the evidence table and the visual.
+- All eight Notebook and all eight Mastery Checkpoint assignment descriptions were replaced with World History-specific student directions. Obsolete U.S. Government examples and the confusing old cross-submission sequence were removed.
+- All sixteen Unit 3 assignments were verified to have an active, ready-for-use rubric. The Notebook form has the approved five 20-point criteria, and the Mastery Checkpoint form has the approved five 20-point criteria.
+- The final gradebook audit found stale natural weights. They were corrected and saved: every course Pretest is 0%, Notebook is 20%, Checkpoint is 20%, Quiz is 30%, and Unit Assessment is 30%.
 
 Remaining Moodle work:
 
-1. Open the grading interface for representative Notebook and Mastery Checkpoint assignments and verify that the correct five-criterion, 100-point reusable rubric form is attached, beyond the confirmed Rubric grading-method setting.
-2. Preview every page and assessment as a student and test the complete release chain end to end.
+1. Reorganize the Checkpoint, Quiz, and Unit Assessment gradebook categories so Unit 3 has visible category-level subtotals inside each coursewide category. The Notebook category already has a Unit 3 subtotal.
+2. Perform a true enrolled-student end-to-end release test when a test-student account is available. Administrator preview verified the configured restrictions, but it cannot submit and grade the full chain as an enrolled student.
 
-Unit 3 must not be labeled student-ready until the Moodle implementation and final audit are complete.
+Unit 3 content and assessments are student-facing and functional. Do not call the gradebook reporting structure fully compliant until the remaining Unit 3 subtotal categories are added.
