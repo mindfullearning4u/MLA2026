@@ -1,0 +1,4 @@
+import{readFileSync,writeFileSync}from"node:fs";
+const root=process.argv[2],out=process.argv[3];if(!root||!out)throw Error("Usage: node script <Moodle XML directory> <output>");
+const picks=[[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[1,5],[4,5],[6,5]];const blocks=[`<question type="category"><category><text>$course$/top/Unit 5/Pretest - Production</text></category></question>`];
+for(let i=0;i<picks.length;i++){const[l,idx]=picks[i];const xml=readFileSync(`${root}/WH_U05_L${String(l).padStart(2,"0")}_Quiz_Production_MoodleXML.xml`,`utf8`);const qs=[...xml.matchAll(/<question type="multichoice">[\s\S]*?<\/question>/g)].map(x=>x[0]);let q=qs[idx];const id=`WH_U05_Pretest_Q${String(i+1).padStart(2,"0")}`;q=q.replace(/WH_U05_L\d{2}_Q\d{2}/g,id);blocks.push(q);}writeFileSync(out,`<?xml version="1.0" encoding="UTF-8"?><quiz>${blocks.join("")}</quiz>`,`utf8`);
