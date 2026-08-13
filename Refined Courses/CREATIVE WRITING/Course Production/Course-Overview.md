@@ -1,195 +1,63 @@
-﻿# CW - Creative Writing
+# CW — Creative Writing
+
 **Credit:** 1.0 High School English Elective Credit  
-**Course Type:** Mastery-Based High School Creative Writing Course  
+**Course format:** Mastery-based online course  
+**Structure:** 6 units, 8 lessons per unit  
+**Mastery requirement:** 80%
 
 ---
 
-## Course Description
+## Page 1 — Course Overview
 
-Creative Writing develops students ability to use voice, imagery, figurative language, narrative craft, poetry, creative nonfiction, style, revision, presentation, and publication to create original writing with purpose and audience awareness.
+Creative Writing develops students’ voice, craft, creative discipline, workshop skills, revision habits, and ability to prepare original work for presentation and publication.
 
-Instruction is designed for independent student mastery in an online learning environment. Lessons explicitly teach concepts, model skills, provide worked examples, address common mistakes, guide practice, support independent application, and verify mastery. Students may seek Teacher of Record support for clarification, checkpoint feedback, remediation, and retake workflow when needed.
+### What Students Will Study
 
----
+1. **Foundations of Creative Writing, Voice, and Craft**
+2. **Narrative Craft, Point of View, Character, and Setting**
+3. **Fiction, Theme, Adaptation, and World Building**
+4. **Poetry, Figurative Language, Mood, and Style**
+5. **Revision, Workshop, Portfolio, and Publication**
+6. **Author Portfolio, Presentation, and Publication Synthesis**
 
-## Standards Alignment
-
-As a registered private school in the State of Florida, Mindful Learning Academy follows Florida academic standards and official course expectations as the primary academic framework for this course.
-
-To support students across the United States and prepare them for future academic success, MLA standards are also cross-referenced to:
-
-- Florida B.E.S.T. English Language Arts writing, language, vocabulary, communication, and presentation benchmarks; Common Core writing support; SAT writing expectations; ACT English/reading expectations
-
-Mindful Learning Academy uses the MLA Standards Framework, a competency-based system designed to organize learning outcomes, assessments, and mastery progression. Each MLA standard is mapped to one or more external academic frameworks to ensure comprehensive coverage and academic rigor.
-
-Students residing in states that do not use Florida or Common Core standards should notify the Academy during enrollment. Upon request, MLA can provide information regarding how course competencies align with applicable state-specific academic standards.
-
-Instruction emphasizes conceptual understanding, evidence-based reasoning, academic communication, real-world application, and mastery of the approved unit and lesson mapping.
+By the end of the course, students will be able to develop, revise, explain, present, and publish original narrative, fiction, poetry, and portfolio work using purposeful craft choices.
 
 ---
 
-## Learning Objectives / Outcomes
+## Page 2 — How This Course Works
 
-By the end of this course, students will be able to:
+Each unit contains eight lessons that move from instruction and craft models to practice, original writing, feedback, revision, and mastery.
 
-- Develop writing habits, voice, imagery, figurative language, and vocabulary precision.
-- Create narratives with plot, character, conflict, point of view, pacing, tension, mood, and tone.
-- Write poetry using form, symbolism, sound devices, figurative language, connotation, and denotation.
-- Write creative nonfiction using memoir, reflection, real-world storytelling, and source awareness.
-- Revise writing for tone, sentence flow, clarity, style, feedback, and publication readiness.
-- Build a portfolio that shows growth across genres and revision cycles.
-- Present and publish creative work using oral, digital, and multimedia tools.
-- Demonstrate mastery through writing artifacts, checkpoints, quizzes, and unit assessments.
+Students read lesson pages in order, study the provided models and visuals, complete guided practice, create independent work, submit required notebook and checkpoint evidence, and complete the lesson quiz or unit assessment.
+
+Students must earn **80% or higher** on mastery assessments. When mastery is not yet demonstrated, students follow remediation directions and work with the Teacher of Record before another attempt.
 
 ---
 
-## Prerequisite Knowledge / Skills
+## Page 3 — Expectations and Policies
 
-Students entering this course should have prior experience with the following skills. Foundational skills are reviewed, reinforced, and extended throughout the course as needed.
+Students are expected to:
 
-- English writing foundations, sentence and paragraph control, vocabulary, reading comprehension, revision habits, and willingness to develop original writing.
+- Complete lessons and activities in order.
+- Follow every prompt, length, format, and submission requirement.
+- Create original work and identify borrowed language or source material as directed.
+- Give specific, respectful workshop feedback focused on the writing.
+- Use feedback thoughtfully while retaining responsibility for creative decisions.
+- Revise for purpose, clarity, craft, organization, style, and conventions.
+- Contact the Teacher of Record when a model, direction, feedback note, or task is unclear.
 
-Students are not expected to begin the course with mastery of all course standards. The course teaches required skills step by step and provides practice, examples, feedback, and mastery checks throughout the learning sequence.
-
----
-
-## Course Structure
-
-The course is organized into six units, each designed to build progressively toward standards mastery.
-
-Approved unit sequence:
-
-- Unit 1: Foundations of Creative Writing, Voice, and Craft
-- Unit 2: Narrative Craft, Point of View, Character, and Setting
-- Unit 3: Fiction, Theme, Adaptation, and World Building
-- Unit 4: Poetry, Figurative Language, Mood, and Style
-- Unit 5: Revision, Workshop, Portfolio, and Publication
-- Unit 6: Author Portfolio, Presentation, and Publication Synthesis
-
-Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
-
-This structure provides multiple opportunities to learn, practice, apply, revise, and demonstrate understanding before advancing.
+Students must submit their own writing and may be asked to explain their choices, drafts, feedback, or revision process.
 
 ---
 
-## Lesson Workflow
+## Page 4 — Course Acknowledgement
 
-Lessons 1-7 follow the same learning sequence:
+By continuing, the student confirms understanding that:
 
-Lesson Overview  
-->  
-Notebook Task Part 1  
-->  
-Notebook Task Part 2  
-->  
-Worked Example  
-->  
-Guided Practice  
-->  
-Independent Work  
-->  
-Checkpoint  
-->  
-Notebook Evidence Submission  
-->  
-Checkpoint Submission  
-->  
-Lesson Quiz
+- Creative Writing contains six units and eight lessons per unit.
+- Lessons and activities should be completed in the assigned order.
+- The models, passages, visuals, prompts, and directions on the current page must be used.
+- Original writing, respectful workshop participation, thoughtful revision, and timely help-seeking are required.
+- A minimum score of 80% is required on mastery assessments, with remediation when needed.
 
-This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
-
-Lesson 8 is the exception to the standard lesson workflow. Lesson 8 is Putting It All Together and contains the Unit Assessment instead of a Lesson Quiz.
-
----
-
-## Assessment Structure
-
-Student learning is evaluated using multiple standards-aligned measures:
-
-### Unit Pretests
-
-Diagnostic assessments aligned to MLA standards and cross-referenced academic frameworks. Used to determine readiness, identify learning gaps, and evaluate eligibility for acceleration.
-
-### Notebook Evidence Submissions (Teacher of Record Graded)
-
-Includes:
-
-- Notebook Task Part 1
-- Notebook Task Part 2
-- Independent Work
-
-Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
-
-Notebook Evidence demonstrates engagement, organization, note-taking, reasoning, and the learning process.
-
-### Checkpoint Submissions (Teacher of Record Graded)
-
-Application-based mastery tasks requiring students to demonstrate reasoning, communication, evidence use, and understanding of the lesson standards.
-
-Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
-
-### Guided Practice
-
-Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
-
-### Lesson Quizzes
-
-Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
-
-### Unit Assessments
-
-Comprehensive evaluations measure mastery of standards taught throughout the unit. Unit Assessment appears in Lesson 8, Putting It All Together.
-
-### Grading Breakdown
-
-Notebook Evidence = 10%
-
-Checkpoint Submission = 20%
-
-Lesson Quizzes = 30%
-
-Unit Assessments = 40%
-
-This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
-
----
-
-## Mastery & Progression Criteria
-
-Mindful Learning Academy follows a mastery-based learning model.
-
-To progress successfully through the course, students must:
-
-- Complete all required lesson components.
-- Submit Notebook Evidence.
-- Submit Checkpoint Responses.
-- Demonstrate lesson mastery through Lesson Quizzes.
-- Complete all Unit Assessments.
-- Revise and resubmit work when required to demonstrate mastery.
-
-Mastery is demonstrated through consistent performance across:
-
-- Notebook Evidence Submissions
-- Checkpoint Submissions
-- Lesson Quizzes
-- Unit Assessments
-
-A minimum mastery level of 80% is required before advancement.
-
-Students may be required to revise and resubmit work until mastery is demonstrated. Students are not advanced based solely on time spent in the course. Advancement occurs only after mastery is demonstrated and learning gaps have been addressed.
-
-Revision opportunities, additional practice, remediation, Teacher of Record support, and progress monitoring may be provided when students need support in demonstrating mastery.
-
----
-
-## College / Skill Readiness Integration
-
-This course builds skills essential for creative expression, portfolio development, publication readiness, communication, and advanced writing confidence. Students develop:
-
-- Academic vocabulary and precise communication.
-- Evidence-based reasoning and explanation.
-- Interpretation of visuals, sources, models, data, or discipline-specific examples.
-- Independent learning habits in a mastery-based online environment.
-- Transferable reading, writing, thinking, and communication skills.
-
-Instruction includes structured opportunities aligned with college readiness, career readiness, and lifelong learning expectations.
+**Next step:** Begin **Unit 1, Lesson 1: Creative writing identity and workshop norms**.
