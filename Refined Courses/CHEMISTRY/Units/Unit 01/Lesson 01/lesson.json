@@ -13,14 +13,38 @@
     {"name":"Nature of Science: Data: Analysis and Calculations","exactDirectUrl":"https://www.savvasrealize.com/dashboard/program/25700d59-2c62-3ea9-abe9-d19afceb1304/43/enhanced-toc/item/ea2cb5ba-79e4-3011-80f6-84b9212aca17/25/cv/nonscorable"}
   ],
   "asynchronousBoundary": "Savvas supplies the foundation activity and safety video. Moodle supplies the exact navigation, notebook, evidence, submission, and Tor-support directions.",
+  "moodleLessonActivity": {
+    "name": "U1 L1: Chemistry Foundations: Navigation, Inquiry, and Laboratory Safety",
+    "courseModuleId": 17364,
+    "directUrl": "https://mla.moodlecloud.com/mod/lesson/view.php?id=17364",
+    "internalPageSequence": [
+      "Lesson Overview and Notebook-Evidence Checklist",
+      "Notebook Task 1 — Vocabulary",
+      "Notebook Task 2 — Savvas eText Lesson",
+      "Model, Worked Example, or Guided Exploration",
+      "Lesson Review",
+      "Independent Application",
+      "Checkpoint",
+      "Help and TOR Support"
+    ]
+  },
   "moodleActivities": [
     {
-      "name": "Unit 1 Lesson 1 Foundation Evidence",
+      "name": "U1 L1 Notebook Evidence Submission",
       "type": "assignment",
-      "courseModuleId": 17363,
-      "directUrl": "https://mla.moodlecloud.com/mod/assign/view.php?id=17363",
+      "courseModuleId": 17365,
+      "directUrl": "https://mla.moodlecloud.com/mod/assign/view.php?id=17365",
+      "releaseRestriction": "U1 L1 Moodle Lesson marked complete",
+      "assessedStandards": ["MLA.CHEM.SCI.01", "MLA.CHEM.LAB.01", "MLA.CHEM.LAB.02"]
+    },
+    {
+      "name": "U1 L1 Checkpoint Submission",
+      "type": "assignment",
+      "courseModuleId": 17366,
+      "directUrl": "https://mla.moodlecloud.com/mod/assign/view.php?id=17366",
+      "releaseRestriction": "U1 L1 Moodle Lesson marked complete",
       "assessedStandards": ["MLA.CHEM.SCI.01", "MLA.CHEM.LAB.01", "MLA.CHEM.LAB.02"]
     }
   ],
-  "assessmentFormat": "Standards-tagged Moodle foundation evidence assignment with Teacher of Record feedback and revision."
+  "assessmentFormat": "Biology-matched Moodle Lesson activity followed by separate standards-tagged Notebook Evidence and Checkpoint Submission assignments with Teacher of Record feedback and revision."
 }
