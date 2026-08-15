@@ -92,3 +92,5 @@ The prior subsection-plus-Page architecture remains temporarily preserved until 
 - Live U1 L2 rendering verified: dark `#111827` header with white text, page-specific colored left-border card, white inner content card, and blue `#eff6ff` TOR-support panel.
 - The new-page builder now applies this color system to every subsequently created Chemistry Lesson page.
 - Page-role accent colors: overview blue `#2563eb`; vocabulary/independent teal `#0f766e`; Savvas/checkpoint purple `#7c3aed`; model orange `#ea580c`; review green `#16a34a`; TOR support blue `#2563eb`.
+- All eight U1 L4 internal pages were retrofitted and saved with the verified rendered color-card system.
+- All eight U1 L5 internal pages were retrofitted and saved with the verified rendered color-card system.
