@@ -24,7 +24,7 @@ Only MLA standards appear on student-facing pages. The detailed external alignme
 
 ## Quiz specification
 
-- Pool: 25 questions (`U1 L1 Quiz Bank.gift`)
+- Pool: 30 questions (`U1 L1 Quiz Bank.gift`)
 - Delivered: 5 randomized questions
 - Attempts: 1
 - Mastery: 80%
