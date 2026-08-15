@@ -2,68 +2,16 @@
   "course": "CHEMISTRY",
   "unit": "Unit 01",
   "lesson": "Lesson 01",
-  "title": "What Counts as Chemistry Evidence?",
-  "primaryStandards": [
-    "MLA.CHEM.SCI.01",
-    "MLA.CHEM.SCI.02"
-  ],
-  "supportStandards": [
-    "ELA.K12.EE.1.1",
-    "ELA.K12.EE.2.1"
-  ],
-  "purpose": "Establish scientific inquiry, chemical evidence, and reliable sources.",
-  "order": 1,
-  "pages": [
-    "P01.html",
-    "P02.html",
-    "P03.html",
-    "P04.html",
-    "P05.html",
-    "P06.html",
-    "P07.html"
-  ],
-  "labDataRequirement": "Use a paper-based evidence investigation. No chemicals are handled. Students compare claim cards, observation notes, and data snippets.",
-  "safetyNotes": "This lesson uses written scenarios only. Do not taste, smell, mix, or handle unknown substances to create evidence.",
-  "simulationReview": "Direct simulation/resource link is provided in P01.html and in directSimulationUrl.",
-  "assessmentStimulusNeeded": "Use the Unit 1 matrix requirement for this lesson: embedded scenario, table, graph, model, diagram, or organizer as needed.",
-  "simulationVirtualLabReviewRequired": true,
-  "simulationVirtualLabReviewRequirement": "Required for safety/procedure practice, measurement/data analysis, and particle models",
-  "simulationVirtualLabReviewFocus": "Evidence/source classification using chemical claims, observations, and data",
-  "directSimulationRequired": true,
-  "directSimulationTitle": "PhET Reactants, Products and Leftovers",
-  "directSimulationUrl": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_all.html",
-  "directSimulationStudentTask": "After the simulation opens, use the Sandwich Shop screen as the evidence model for claims and data. Change the starting amounts of the ingredients one at a time. Observe what product is made and which ingredient is left over. Record the starting amounts, product amount, leftover amount, and one claim that is supported by the data.",
-  "simulationReviewImplementation": "Student-facing lesson includes one exact direct simulation/resource link plus adjacent step-by-step directions for what to open, click/use, observe, record, and connect to the lesson standard.",
-  "standards": [
-    "MLA.CHEM.SCI.01",
-    "MLA.CHEM.SCI.02"
-  ],
-  "floridaAlignment": [
-    "ELA.K12.EE.1.1",
-    "ELA.K12.EE.2.1"
-  ],
-  "simulationSourceReference": "CPALMS resources; OpenStax Chemistry 2e scientific method sections; ACS education resources",
-  "directSimulationStudentUseDirections": [
-    "After the simulation opens, use the Sandwich Shop screen as the evidence model for claims and data.",
-    "Change the starting amounts of the ingredients one at a time.",
-    "Observe what product is made and which ingredient is left over.",
-    "Record the starting amounts, product amount, leftover amount, and one claim that is supported by the data."
-  ],
-  "lessonTitle": "What Counts as Chemistry Evidence?",
+  "lessonTitle": "Chemistry Foundations: Navigation, Inquiry, and Laboratory Safety",
+  "mappedStandards": ["MLA.CHEM.SCI.01", "MLA.CHEM.LAB.01", "MLA.CHEM.LAB.02"],
+  "lessonPurpose": "Establish the student workflow for Savvas Chemistry, scientific inquiry, safe laboratory behavior, and accurate chemistry notebook evidence.",
+  "pages": ["P01.html", "P02.html", "P03.html", "P04.html", "P05.html", "P06.html", "P07.html"],
+  "masteryEvidence": ["Chemistry notebook foundation notes", "Completed Savvas inquiry activity", "Completed Savvas data activity", "Foundation evidence submission"],
   "approvedDirectResources": [
-    {
-      "name": "PhET Reactants, Products and Leftovers",
-      "exactDirectUrl": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_all.html",
-      "studentTask": "After the simulation opens, use the Sandwich Shop screen as the evidence model for claims and data. Change the starting amounts of the ingredients one at a time. Observe what product is made and which ingredient is left over. Record the starting amounts, product amount, leftover amount, and one claim that is supported by the data.",
-      "directions": [
-        "After the simulation opens, use the Sandwich Shop screen as the evidence model for claims and data.",
-        "Change the starting amounts of the ingredients one at a time.",
-        "Observe what product is made and which ingredient is left over.",
-        "Record the starting amounts, product amount, leftover amount, and one claim that is supported by the data."
-      ]
-    }
+    {"name":"Nature of Science: Scientific Inquiry and Measurement","exactDirectUrl":"https://www.savvasrealize.com/dashboard/program/25700d59-2c62-3ea9-abe9-d19afceb1304/43/enhanced-toc/item/e79c7daa-b1c8-326b-9987-ed802519d905/23/cv"},
+    {"name":"Lab Safety Video: Introduction to Laboratory Safety","exactDirectUrl":"https://www.savvasrealize.com/dashboard/program/25700d59-2c62-3ea9-abe9-d19afceb1304/43/enhanced-toc/item/dc94ad4f-743c-37fd-b552-69e4a435afd5/9/cv"},
+    {"name":"Nature of Science: Data: Analysis and Calculations","exactDirectUrl":"https://www.savvasrealize.com/dashboard/program/25700d59-2c62-3ea9-abe9-d19afceb1304/43/enhanced-toc/item/ea2cb5ba-79e4-3011-80f6-84b9212aca17/25/cv/nonscorable"}
   ],
-  "assessmentFormat": "Moodle XML",
-  "guidedPractice": "Moodle XML/CHEM_U01_L01_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/CHEM_U01_L01_Quiz_MoodleXML.xml"
+  "asynchronousBoundary": "Savvas supplies the foundation activity and safety video. Moodle supplies the exact navigation, notebook, evidence, submission, and Tor-support directions.",
+  "assessmentFormat": "Foundation evidence submission; a standards-tagged Moodle check will be added with the Unit 1 assessment package."
 }
