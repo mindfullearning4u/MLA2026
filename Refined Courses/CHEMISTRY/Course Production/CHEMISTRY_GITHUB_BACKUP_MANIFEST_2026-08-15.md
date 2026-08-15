@@ -18,13 +18,13 @@ Repository backup branch: `chemistry/savvas-backup-2026-08-15`
 - Unit 4 lesson-title structure is complete: 12 of 12.
 - Total Moodle lesson containers titled and verified: 57 of 57.
 - No unnamed `New subsection` placeholders remain.
-- Moodle page-build checkpoint: 231 of 399 required `P01`-`P07` pages created.
+- Moodle page-build checkpoint: 252 of 399 required `P01`-`P07` pages created.
 - Unit 1 Lesson 1: 7 of 7 populated pages created from the completed local source package.
 - Unit 1 page structure complete: 98 of 98 pages.
 - Unit 2 page structure complete: 133 of 133 pages.
-- Unit 3 page structure: 0 of 84 pages.
+- Unit 3 page structure: 21 of 84 pages; Lessons 1-3 complete.
 - Unit 4 page structure: 0 of 84 pages.
-- Remaining page shells: 168.
+- Remaining page shells: 147.
 
 ## Not yet a completed backup item
 
