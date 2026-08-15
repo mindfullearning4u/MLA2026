@@ -48,3 +48,12 @@ The prior subsection-plus-Page architecture remains temporarily preserved until 
 - Checkpoint Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17372
 - Both assignments require U1 L3 Lesson completion.
 - U1 L3 is restricted until U1 L2 Checkpoint Submission is marked complete.
+
+## U1 L4 shell correction
+
+- Moodle Lesson: https://mla.moodlecloud.com/mod/lesson/view.php?id=17373
+- Eight internal content-page shells: verified in the required Biology order.
+- Notebook Evidence Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17374
+- Checkpoint Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17375
+- Both assignments require U1 L4 Lesson completion.
+- U1 L4 is restricted until U1 L3 Checkpoint Submission is marked complete.
