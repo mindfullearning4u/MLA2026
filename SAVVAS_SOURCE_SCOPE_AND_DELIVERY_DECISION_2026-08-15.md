@@ -26,6 +26,34 @@ MLA course pages will be **student-navigation and accountability pages**, not re
 
 Teacher-only Savvas resources must never be presented as a required student action. When a Savvas item is initially hidden, it must be assigned and made visible before its MLA page is published.
 
+## Required resource-link and evidence protocol
+
+Each assigned Savvas resource must be presented in Moodle as one numbered, complete action. Do not use a generic course-home link when a direct resource URL is available.
+
+Each action must state, in this order:
+
+1. **Click:** a descriptive link whose visible text is the exact Savvas resource title.
+2. **Complete:** the precise student action in Savvas (read, watch, interact, answer, calculate, annotate, or take the quiz).
+3. **Record:** whether the student must write answers in the chemistry notebook, answer directly in Savvas, download and complete a worksheet, or submit no separate evidence.
+4. **Submit:** the exact Moodle submission method. For a completed worksheet, students download it when Savvas permits, complete it, and upload the completed file; if download/upload is unavailable, they submit a clear photograph or scan of every completed page.
+5. **Check:** the required completion evidence, feedback action, score, or revision step.
+
+Every Moodle direction must make the evidence location unambiguous. For example: “Answer the Savvas questions in the activity and copy responses 1–4 into your chemistry notebook,” or “Download the worksheet, complete all pages, then upload the file or clear photographs of all completed pages to this Moodle assignment.”
+
+The Moodle page must never imply that the student should independently search Savvas, infer which resource to open, decide whether to record work, or guess where to submit it.
+
+## Seven-page Moodle navigation model
+
+| Page | Required function |
+|---|---|
+| P01 | Lesson overview, MLA Chemistry standards only, objectives, readiness/materials, and the complete ordered resource path. |
+| P02 | Vocabulary definitions plus exact notebook-writing directions. |
+| P03 | Direct Savvas instructional link(s) and step-by-step read/watch/annotate directions. |
+| P04 | Direct Savvas model, animation, example, or data link and a guided “follow this model” procedure. |
+| P05 | Direct Savvas guided-practice link with explicit response, notebook, feedback, and correction directions. |
+| P06 | Direct Savvas lab, simulation, worksheet, data activity, or application link with explicit evidence-capture and Moodle-submission directions. |
+| P07 | Checkpoint, final evidence checklist, direct Savvas quiz or Investigation Evaluation link, score/revision procedure, and Tor-support route. |
+
 ## Recommended unit structure
 
 The appropriate instructional units are the four Savvas storylines. A short ungraded **Course Start: Savvas Navigation, Laboratory Safety, and Nature of Science** module precedes Unit 1; it is not a content unit and does not alter the unit count.
