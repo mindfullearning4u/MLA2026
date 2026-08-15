@@ -11,10 +11,14 @@ Repository backup branch: `chemistry/savvas-backup-2026-08-15`
 
 ## Moodle build status at this checkpoint
 
-- Four Chemistry units are titled and hidden from students while development continues.
-- Unit 1 has 14 hidden lesson placeholders with titles.
-- Unit 2 placeholder creation has started and remains hidden.
-- Unit 3 and Unit 4 remain hidden until their title placeholders are created.
+- Four Chemistry units are titled and available in the course shell.
+- Unit 1 lesson-title structure is complete: 14 of 14.
+- Unit 2 lesson-title structure is complete: 19 of 19.
+- Unit 3 lesson-title structure is complete: 12 of 12.
+- Unit 4 lesson-title structure is complete: 12 of 12.
+- Total Moodle lesson containers titled and verified: 57 of 57.
+- No unnamed `New subsection` placeholders remain.
+- The seven Moodle lesson pages (`P01`-`P07`) have not yet been created across all 57 lessons.
 
 ## Not yet a completed backup item
 
