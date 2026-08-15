@@ -30,3 +30,12 @@ Chemistry must follow the live Biology Moodle pattern:
 - Direct Savvas links and direct Moodle assignment links are embedded in the appropriate internal pages.
 
 The prior subsection-plus-Page architecture remains temporarily preserved until each replacement is verified. It must be removed after migration so the final course contains only the Biology-matched structure.
+
+## U1 L2 shell correction
+
+- Moodle Lesson: https://mla.moodlecloud.com/mod/lesson/view.php?id=17367
+- Eight internal content-page shells: verified in the required Biology order.
+- Notebook Evidence Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17368
+- Checkpoint Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17369
+- Both assignments require U1 L2 Lesson completion.
+- U1 L2 is restricted until U1 L1 Checkpoint Submission is marked complete.
