@@ -84,3 +84,11 @@ The prior subsection-plus-Page architecture remains temporarily preserved until 
 - Checkpoint Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17384
 - Both assignments require U1 L7 Lesson completion.
 - U1 L7 is restricted until U1 L6 Checkpoint Submission is marked complete.
+
+## Color-rendering correction
+
+- All eight U1 L2 internal pages were converted from plain shell text to Biology-style rendered HTML cards.
+- All eight U1 L3 internal pages were converted to the same rendered HTML-card system.
+- Live U1 L2 rendering verified: dark `#111827` header with white text, page-specific colored left-border card, white inner content card, and blue `#eff6ff` TOR-support panel.
+- The new-page builder now applies this color system to every subsequently created Chemistry Lesson page.
+- Page-role accent colors: overview blue `#2563eb`; vocabulary/independent teal `#0f766e`; Savvas/checkpoint purple `#7c3aed`; model orange `#ea580c`; review green `#16a34a`; TOR support blue `#2563eb`.
