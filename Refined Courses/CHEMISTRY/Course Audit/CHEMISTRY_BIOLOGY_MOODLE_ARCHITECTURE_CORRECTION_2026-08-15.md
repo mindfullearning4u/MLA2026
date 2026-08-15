@@ -96,3 +96,12 @@ The prior subsection-plus-Page architecture remains temporarily preserved until 
 - All eight U1 L5 internal pages were retrofitted and saved with the verified rendered color-card system.
 - All eight U1 L6 internal pages were retrofitted and saved with the verified rendered color-card system.
 - All eight U1 L7 internal pages were retrofitted and saved with the verified rendered color-card system.
+
+## U1 L8 shell correction
+
+- Moodle Lesson: https://mla.moodlecloud.com/mod/lesson/view.php?id=17385
+- Eight styled internal content-page shells: verified in the required Biology order.
+- Notebook Evidence Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17386
+- Checkpoint Submission: https://mla.moodlecloud.com/mod/assign/view.php?id=17387
+- Both assignments require U1 L8 Lesson completion.
+- U1 L8 is restricted until U1 L7 Checkpoint Submission is marked complete.
