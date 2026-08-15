@@ -94,3 +94,5 @@ The prior subsection-plus-Page architecture remains temporarily preserved until 
 - Page-role accent colors: overview blue `#2563eb`; vocabulary/independent teal `#0f766e`; Savvas/checkpoint purple `#7c3aed`; model orange `#ea580c`; review green `#16a34a`; TOR support blue `#2563eb`.
 - All eight U1 L4 internal pages were retrofitted and saved with the verified rendered color-card system.
 - All eight U1 L5 internal pages were retrofitted and saved with the verified rendered color-card system.
+- All eight U1 L6 internal pages were retrofitted and saved with the verified rendered color-card system.
+- All eight U1 L7 internal pages were retrofitted and saved with the verified rendered color-card system.
