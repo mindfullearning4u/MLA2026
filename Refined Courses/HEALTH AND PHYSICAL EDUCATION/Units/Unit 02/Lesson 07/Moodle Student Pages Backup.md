@@ -1,0 +1,735 @@
+# Page 1
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P01 - Overview and Vocabulary" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - heading "P01 — Overview and Vocabulary" [level=1]
+  - heading "Essential Question" [level=3]
+  - text: How can you design, implement, monitor, and modify a safe personal fitness program that matches an individual goal and can realistically be maintained?
+  - heading "Objectives" [level=3]
+  - text: Integrate fitness components, FITT, training principles, safety, monitoring, and sustainability; build and implement a functional program; use evidence to evaluate and modify; justify choices.
+  - heading "MLA Standards" [level=3]
+  - strong: "Primary:"
+  - text: MLA.PEH.FIT.04, MLA.PEH.FIT.05, MLA.PEH.GOL.01, MLA.PEH.GOL.02.
+  - strong: "Supporting:"
+  - text: MLA.PEH.FIT.01, FIT.02, FIT.03, SAF.01, SAF.02, WEL.03.
+  - heading "Notebook — vocabulary review" [level=3]
+  - paragraph:
+    - strong: "Write each term and a concise definition:"
+    - text: personal fitness program, fitness goal, baseline, fitness component, FITT, frequency, intensity, time, type, overload, progression, specificity, recovery, individualization, monitoring, trend, modification, adaptation, barrier, strategy, sustainability, lifestyle, timeline, physical activity, fitness data.
+  - heading "Evidence Checklist" [level=3]
+  - text: Your notebook must include vocabulary review, guided design, implementation log/analysis, and complete personal fitness program. The separate checkpoint uses a new fictional plan.
+  - heading "Safety and Privacy" [level=3]
+  - text: No maximal testing, gym, wearable, special equipment, body measurements, or medical disclosure is required. Use approved/adaptive activities, check environment, and stop for concerning symptoms.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model, checklist, and directions, contact your Teacher of Record if you need help making the program safe, realistic, measurable, or accessible. Do not disclose weight, BMI, diagnosis, or other private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 2
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P02 - Integrated Program-Design Process" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - heading "P02 — Integrated Program-Design Process" [level=1]
+  - heading "Design Pathway" [level=3]
+  - text: GOAL → BASELINE → FITNESS COMPONENT → ACTIVITY → FITT → TRAINING PRINCIPLES → SAFETY → MONITORING → EVALUATE → MODIFY.
+  - heading "Sixteen Decisions" [level=3]
+  - list:
+    - listitem: State the goal and primary component.
+    - listitem: Describe a non-sensitive baseline.
+    - listitem: Identify schedule, space, access, preferences, and barriers.
+    - listitem: Select goal-aligned activity.
+    - listitem: Set all FITT variables.
+    - listitem: Explain specificity.
+    - listitem: Define an appropriate future overload.
+    - listitem: State when evidence would justify progression.
+    - listitem: Include recovery.
+    - listitem: Include general/specific warm-up and gradual cool-down when appropriate.
+    - listitem: Select meaningful monitoring fields.
+    - listitem: Define success indicators.
+    - listitem: Define modification conditions.
+    - listitem: Define safety/stop conditions.
+    - listitem: Evaluate sustainability.
+    - listitem: "Repeat the cycle after evidence: design → participate → record → analyze → maintain/progress/modify."
+  - heading "Quality Checklist" [level=3]
+  - text: Goal-aligned, specific, measurable, safe, progressive, recoverable, realistic, adaptable, and sustainable.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model, checklist, and directions, contact your Teacher of Record if you need help making the program safe, realistic, measurable, or accessible. Do not disclose weight, BMI, diagnosis, or other private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 3
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P03 - Complete Modeled Fitness Program" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - heading "P03 — Complete Modeled Fitness Program" [level=1]
+  - heading "Maya’s Profile" [level=3]
+  - text: "Goal: cardiorespiratory endurance. Baseline: brisk walking about 15 minutes, 3 days/week, moderate effort. Resources: safe route and indoor low-impact option. Four days available, prefers three. Barrier: weather."
+  - heading "Complete Program" [level=3]
+  - table:
+    - rowgroup:
+      - row "Element Decision Why":
+        - columnheader "Element"
+        - columnheader "Decision"
+        - columnheader "Why"
+      - row "Component/Type Cardio; brisk walk or indoor aerobic alternative Sustained aerobic demand matches goal/access.":
+        - cell "Component/Type"
+        - cell "Cardio; brisk walk or indoor aerobic alternative"
+        - cell "Sustained aerobic demand matches goal/access."
+      - row "FITT 3/week; moderate RPE/talk test; 15–20 min; walking/indoor equivalent Begins near baseline.":
+        - cell "FITT"
+        - cell "3/week; moderate RPE/talk test; 15–20 min; walking/indoor equivalent"
+        - cell "Begins near baseline."
+      - row "Preparation General/specific warm-up; gradual cool-down Supports readiness/recovery.":
+        - cell "Preparation"
+        - cell "General/specific warm-up; gradual cool-down"
+        - cell "Supports readiness/recovery."
+      - row "Principles Specific; one modest future Time increase after repeated manageable sessions; recovery Safe overload/progression.":
+        - cell "Principles"
+        - cell "Specific; one modest future Time increase after repeated manageable sessions; recovery"
+        - cell "Safe overload/progression."
+      - row "Monitoring Duration, RPE, talk test, recovery, context Evidence answers whether demand fits.":
+        - cell "Monitoring"
+        - cell "Duration, RPE, talk test, recovery, context"
+        - cell "Evidence answers whether demand fits."
+      - row "Barrier/safety Indoor option in unsafe weather; stop rules Access and safety.":
+        - cell "Barrier/safety"
+        - cell "Indoor option in unsafe weather; stop rules"
+        - cell "Access and safety."
+  - heading "Modeled Reasoning" [level=3]
+  - text: Goal determines component; baseline constrains initial Time; access determines Type alternatives; repeated data—not impatience—determines progression. No paid membership or special equipment supports sustainability.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model, checklist, and directions, contact your Teacher of Record if you need help making the program safe, realistic, measurable, or accessible. Do not disclose weight, BMI, diagnosis, or other private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 4
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P04 - Guided Program Design" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - heading "P04 — Guided Program Design" [level=1]
+  - heading "Devin’s Profile" [level=3]
+  - text: "Goal: muscular endurance. Baseline: controlled body-weight circuit twice weekly for 12 minutes at manageable effort. Resources: chair/resistance band; 25 minutes available on three days. Barrier: equipment sometimes unavailable."
+  - heading "Notebook Guided Plan — required" [level=3]
+  - text: "Complete: goal/component; baseline; constraints; activity; all FITT variables; specificity; possible overload; evidence needed before progression; recovery; warm-up/cool-down; monitoring; safety; barrier strategy; sustainability."
+  - heading "Worked Start" [level=3]
+  - text: Repeated controlled muscular work matches endurance. A chair-supported/no-equipment alternative preserves access and goal. Consider a modest Time or repetitions change only after repeated good movement quality and recovery.
+  - heading "Reasoning Prompts" [level=3]
+  - text: "For every decision: What evidence supports it? What could make it unsafe/unrealistic? What will be monitored? What exact condition causes maintain, progress, reduce, or modify?"
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model, checklist, and directions, contact your Teacher of Record if you need help making the program safe, realistic, measurable, or accessible. Do not disclose weight, BMI, diagnosis, or other private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 5
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P05 - Safe Physical Implementation" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - heading "P05 — Safe Physical Implementation" [level=1]
+  - heading "Required Application" [level=3]
+  - text: Carry out one safe portion of your proposed program or an approved adaptive equivalent. This is learning evidence—not an athletic test.
+  - heading "Before" [level=3]
+  - text: Check space/environment, approval, general and activity-specific preparation, intended RPE/time, modification, and stop conditions.
+  - heading "Notebook Implementation Log" [level=3]
+  - text: Record activity; planned/actual FITT; duration; RPE/talk test; movement quality; warm-up/cool-down; recovery; modification/context; safety decision.
+  - heading "Analyze" [level=3]
+  - text: "Write 5–7 sentences: what matched, what differed, and what evidence supports maintain/progress/reduce/modify. Do not call one session a trend; state what more evidence is needed."
+  - heading "Safety" [level=3]
+  - text: Stop for concerning symptoms or unsafe technique/environment and seek help as appropriate.
+  - heading "TOR Help" [level=3]
+  - paragraph: Use the model and checklist first; then contact your Teacher of Record for help with safety, realism, measurement, or access. Do not disclose private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 6
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - 'heading "P06 - Independent Work: Personal Fitness Program" [level=2]'
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - 'heading "P06 — Independent Work: Personal Fitness Program" [level=1]'
+  - heading "Notebook Assignment — complete functional program" [level=3]
+  - paragraph:
+    - strong: This program and justification belong in the Notebook Submission.
+  - list:
+    - listitem: Goal/component and non-sensitive baseline/timeline.
+    - listitem: Constraints, preference, access, barrier/strategy.
+    - listitem: Activity and all FITT variables.
+    - listitem: Warm-up, main activity, cool-down.
+    - listitem: Specificity, overload, evidence-based progression condition, recovery, individualization.
+    - listitem: Monitoring table and meaningful fields.
+    - listitem: Success and maintain/progress/modify/reduce rules.
+    - listitem: Safety/stop conditions and adaptive/no-equipment alternative.
+    - listitem: Sustainability and P05 evidence.
+    - listitem: 300–400 word evidence-based justification.
+  - heading "Program Template" [level=3]
+  - text: Goal | Baseline | Timeline | Component | Activity | Frequency | Intensity | Time | Type | Warm-up | Main | Cool-down | Recovery | Monitoring | Progression | Modification | Safety | Barrier | Sustainability.
+  - heading "TOR Help" [level=3]
+  - paragraph: Use the model and checklist first; then contact your Teacher of Record for help with safety, realism, measurement, or access. Do not disclose private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 7
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Designing and Implementing a Personal Fitness Program
+  - generic: Lesson
+  - heading "U2 L7 Designing and Implementing a Personal Fitness Program" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L7 Designing and Implementing a Personal Fitness Program":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P07 - Mastery Checkpoint" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+  - heading "P07 — Mastery Checkpoint" [level=1]
+  - heading "New Fictional Program" [level=3]
+  - text: "Avery’s muscular-endurance plan uses a demanding resistance circuit every day for 45 minutes, always maximal, without warm-up/recovery, and increases resistance despite declining quality. Equipment is unavailable two days/week. Log RPE: 7,8,8,9,8,9; quality declines and recovery is poor in four sessions; one session is easier after extra rest."
+  - heading "Submit here — revised plan plus 300–350 words" [level=3]
+  - text: Identify goal/component; evaluate all FITT; apply specificity, overload, progression, recovery, individualization; identify safety/access problems; distinguish repeated pattern from the one easier session; revise FITT, preparation, recovery, monitoring, progression, and equipment alternative; justify every revision with evidence.
+  - strong: Do not submit your own program here.
+  - heading "Mastery" [level=3]
+  - text: Safe, realistic, goal-aligned, evidence-based revision. Mastery 16/20. There is no Lesson 7 quiz.
+  - heading "TOR Help" [level=3]
+  - paragraph: Use the model and checklist first; then contact your Teacher of Record for help with safety, realism, measurement, or access. Do not disclose private health information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
