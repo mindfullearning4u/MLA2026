@@ -1,0 +1,270 @@
+# Notebook Submission and Rubric
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Notebook Evidence Submission
+  - generic: Assignment
+  - heading "U2 L4 Notebook Evidence Submission" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Assignment"
+    - menuitem "Settings"
+    - menuitem "Overrides"
+    - menuitem "Submissions"
+    - menuitem "Advanced grading"
+    - menuitem "Filters"
+    - menuitem "Permissions"
+    - menuitem "Logs"
+    - menuitem "Backup"
+    - menuitem "Restore"
+    - text: 
+- strong: PHYSICAL EDUCATION AND HEALTH
+- text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+- text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+- heading "LESSON 4 NOTEBOOK SUBMISSION" [level=1]
+- heading "Submit one notebook file containing" [level=3]
+- list:
+  - listitem: Vocabulary and definitions.
+  - listitem: Flexibility/mobility and general/activity-specific comparison matrices.
+  - listitem: The four-stage sequence and purpose of each stage.
+  - listitem: Completed safe physical application record.
+  - listitem: All ten guided-analysis responses.
+  - listitem: Independent warm-up, cool-down, recovery plan, and 150–200 word analysis.
+- heading "20-point TOR rubric" [level=3]
+- table:
+  - rowgroup:
+    - row "Criterion Points Expected evidence":
+      - columnheader "Criterion"
+      - columnheader "Points"
+      - columnheader "Expected evidence"
+    - row "Concept accuracy 5 Correct distinctions, sequence, and purposes.":
+      - cell "Concept accuracy"
+      - cell "5"
+      - cell "Correct distinctions, sequence, and purposes."
+    - row "Application evidence 5 Complete, safe record with honest observations.":
+      - cell "Application evidence"
+      - cell "5"
+      - cell "Complete, safe record with honest observations."
+    - row "Analysis and reasoning 5 Claims supported by activity evidence and clear cause/effect.":
+      - cell "Analysis and reasoning"
+      - cell "5"
+      - cell "Claims supported by activity evidence and clear cause/effect."
+    - row "Completeness and communication 5 Every required component is organized and readable.":
+      - cell "Completeness and communication"
+      - cell "5"
+      - cell "Every required component is organized and readable."
+- paragraph:
+  - strong: "Mastery:"
+  - text: 16/20.
+- heading "TOR answer guidance" [level=3]
+- text: Look for controlled range rather than maximum range; gradual general then activity-specific preparation; appropriate cool-down and recovery; modifications based on readiness, environment, and activity demands. Accept varied plans when safe and justified.
+- heading "TOR Help" [level=3]
+- paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+- region "Completion requirements for U2 L4 Notebook Evidence Submission":
+  - strong: "Completion requirements:"
+  - list:
+    - text: •
+    - generic: "To do:"
+    - text: Make a submission
+    - text: •
+    - generic: "To do:"
+    - text: Receive a grade
+    - text: •
+    - generic: "To do:"
+    - text: Receive a passing grade
+- main:
+  - link "Grade":
+    - /url: https://mla.moodlecloud.com/mod/assign/view.php?id=15667&action=grader
+  - heading "Grading summary" [level=3]
+  - table "Grading summary":
+    - caption: Grading summary
+    - rowgroup:
+      - row "Hidden from students No":
+        - rowheader "Hidden from students"
+        - cell "No"
+      - row "Participants 0":
+        - rowheader "Participants"
+        - cell "0"
+      - row "Drafts 0":
+        - rowheader "Drafts"
+        - cell "0"
+      - row "Submitted 0":
+        - rowheader "Submitted"
+        - cell "0"
+      - row "Needs grading 0":
+        - rowheader "Needs grading"
+        - cell "0"
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+```
+
+---
+
+# Mastery Checkpoint and Rubric
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Checkpoint Submission
+  - generic: Assignment
+  - heading "U2 L4 Checkpoint Submission" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Assignment"
+    - menuitem "Settings"
+    - menuitem "Overrides"
+    - menuitem "Submissions"
+    - menuitem "Advanced grading"
+    - menuitem "Filters"
+    - menuitem "Permissions"
+    - menuitem "Logs"
+    - menuitem "Backup"
+    - menuitem "Restore"
+    - text: 
+- strong: PHYSICAL EDUCATION AND HEALTH
+- text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+- text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+- heading "LESSON 4 MASTERY CHECKPOINT" [level=1]
+- heading "Student response" [level=3]
+- text: Write 225–275 words for the Jordan scenario. Identify the first safety issue, design and justify a warm-up/activity/cool-down/recovery sequence, explain dynamic versus static work, select an evidence-based modification, and state when TOR/adult/medical help is needed. Submit this response here; do not submit the nine or ten guided-practice questions as the checkpoint.
+- heading "20-point TOR rubric" [level=3]
+- table:
+  - rowgroup:
+    - row "Criterion Points Expected evidence":
+      - columnheader "Criterion"
+      - columnheader "Points"
+      - columnheader "Expected evidence"
+    - row "Safety priority 5 Recognizes pain/unsafe setting and stops or modifies appropriately.":
+      - cell "Safety priority"
+      - cell "5"
+      - cell "Recognizes pain/unsafe setting and stops or modifies appropriately."
+    - row "Sequence design 5 Logical warm-up, activity, cool-down, recovery.":
+      - cell "Sequence design"
+      - cell "5"
+      - cell "Logical warm-up, activity, cool-down, recovery."
+    - row "Evidence-based reasoning 5 Explains why choices fit Jordan and distinguishes dynamic/static work.":
+      - cell "Evidence-based reasoning"
+      - cell "5"
+      - cell "Explains why choices fit Jordan and distinguishes dynamic/static work."
+    - row "Communication 5 Complete 225–275 word response, clear and specific.":
+      - cell "Communication"
+      - cell "5"
+      - cell "Complete 225–275 word response, clear and specific."
+- paragraph:
+  - strong: "Mastery:"
+  - text: 16/20.
+- heading "TOR answer guidance" [level=3]
+- text: Full-credit responses put safety before completion, use gradual general then specific preparation, avoid forcing painful range, lower intensity during cool-down, and select recovery based on symptoms and context. Escalate sudden/severe or persistent symptoms.
+- heading "TOR Help" [level=3]
+- paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+- region "Completion requirements for U2 L4 Checkpoint Submission":
+  - strong: "Completion requirements:"
+  - list:
+    - text: •
+    - generic: "To do:"
+    - text: Make a submission
+    - text: •
+    - generic: "To do:"
+    - text: Receive a grade
+- main:
+  - link "Grade":
+    - /url: https://mla.moodlecloud.com/mod/assign/view.php?id=15668&action=grader
+  - heading "Grading summary" [level=3]
+  - table "Grading summary":
+    - caption: Grading summary
+    - rowgroup:
+      - row "Hidden from students No":
+        - rowheader "Hidden from students"
+        - cell "No"
+      - row "Participants 0":
+        - rowheader "Participants"
+        - cell "0"
+      - row "Drafts 0":
+        - rowheader "Drafts"
+        - cell "0"
+      - row "Submitted 0":
+        - rowheader "Submitted"
+        - cell "0"
+      - row "Needs grading 0":
+        - rowheader "Needs grading"
+        - cell "0"
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+```
