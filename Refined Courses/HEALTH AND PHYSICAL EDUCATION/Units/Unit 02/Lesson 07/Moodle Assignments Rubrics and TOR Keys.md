@@ -1,0 +1,264 @@
+# Notebook Submission and Rubric
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Notebook Evidence Submission
+  - generic: Assignment
+  - heading "U2 L7 Notebook Evidence Submission" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Assignment"
+    - menuitem "Settings"
+    - menuitem "Overrides"
+    - menuitem "Submissions"
+    - menuitem "Advanced grading"
+    - menuitem "Filters"
+    - menuitem "Permissions"
+    - menuitem "Logs"
+    - menuitem "Backup"
+    - menuitem "Restore"
+    - text: 
+- strong: PHYSICAL EDUCATION AND HEALTH
+- text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+- text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+- heading "P0 — NOTEBOOK SUBMISSION" [level=1]
+- heading "Required evidence" [level=3]
+- text: Vocabulary review; guided Devin program; P05 implementation log and 5–7 sentence analysis; complete personal fitness program; 300–400 word justification.
+- heading "20-point TOR rubric" [level=3]
+- table:
+  - rowgroup:
+    - row "Goal, component, baseline, timeline 3":
+      - cell "Goal, component, baseline, timeline"
+      - cell "3"
+    - row "FITT and activity alignment 4":
+      - cell "FITT and activity alignment"
+      - cell "4"
+    - row "Training principles/recovery 4":
+      - cell "Training principles/recovery"
+      - cell "4"
+    - row "Safety, access, sustainability 3":
+      - cell "Safety, access, sustainability"
+      - cell "3"
+    - row "Monitoring/modification system 3":
+      - cell "Monitoring/modification system"
+      - cell "3"
+    - row "Implementation evidence and reasoning 2":
+      - cell "Implementation evidence and reasoning"
+      - cell "2"
+    - row "Organization 1":
+      - cell "Organization"
+      - cell "1"
+- paragraph:
+  - strong: "Mastery: 16/20."
+- heading "TOR key" [level=3]
+- text: Accept varied programs when goal-aligned, safe, measurable, gradual, recoverable, realistic, adaptable, and justified from baseline/constraints/evidence. Require revision for maximal exertion, no recovery, rapid unsupported progression, ignored barriers/safety, class comparison, or missing evidence.
+- heading "TOR Help" [level=3]
+- paragraph: Use the model and checklist first; then contact your Teacher of Record for help with safety, realism, measurement, or access. Do not disclose private health information.
+- region "Completion requirements for U2 L7 Notebook Evidence Submission":
+  - strong: "Completion requirements:"
+  - list:
+    - text: •
+    - generic: "To do:"
+    - text: Make a submission
+    - text: •
+    - generic: "To do:"
+    - text: Receive a grade
+    - text: •
+    - generic: "To do:"
+    - text: Receive a passing grade
+- main:
+  - link "Grade":
+    - /url: https://mla.moodlecloud.com/mod/assign/view.php?id=15679&action=grader
+  - heading "Grading summary" [level=3]
+  - table "Grading summary":
+    - caption: Grading summary
+    - rowgroup:
+      - row "Hidden from students No":
+        - rowheader "Hidden from students"
+        - cell "No"
+      - row "Participants 0":
+        - rowheader "Participants"
+        - cell "0"
+      - row "Drafts 0":
+        - rowheader "Drafts"
+        - cell "0"
+      - row "Submitted 0":
+        - rowheader "Submitted"
+        - cell "0"
+      - row "Needs grading 0":
+        - rowheader "Needs grading"
+        - cell "0"
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+```
+
+---
+
+# Mastery Checkpoint and Rubric
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L7 Checkpoint Submission
+  - generic: Assignment
+  - heading "U2 L7 Checkpoint Submission" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Assignment"
+    - menuitem "Settings"
+    - menuitem "Overrides"
+    - menuitem "Submissions"
+    - menuitem "Advanced grading"
+    - menuitem "Filters"
+    - menuitem "Permissions"
+    - menuitem "Logs"
+    - menuitem "Backup"
+    - menuitem "Restore"
+    - text: 
+- strong: PHYSICAL EDUCATION AND HEALTH
+- text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+- text: LESSON 7 — DESIGNING AND IMPLEMENTING A PERSONAL FITNESS PROGRAM
+- heading "P0 — MASTERY CHECKPOINT" [level=1]
+- heading "Submit P07 only" [level=3]
+- text: Submit Avery’s revised program plus the 300–350 word evidence-based justification. Your own program belongs in Notebook.
+- heading "20-point TOR rubric" [level=3]
+- table:
+  - rowgroup:
+    - row "Goal/component 2":
+      - cell "Goal/component"
+      - cell "2"
+    - row "FITT evaluation 3":
+      - cell "FITT evaluation"
+      - cell "3"
+    - row "Training principles 3":
+      - cell "Training principles"
+      - cell "3"
+    - row "Safety/modification 3":
+      - cell "Safety/modification"
+      - cell "3"
+    - row "Fitness data interpretation 3":
+      - cell "Fitness data interpretation"
+      - cell "3"
+    - row "Revised program 3":
+      - cell "Revised program"
+      - cell "3"
+    - row "Justification/vocabulary/clarity 3":
+      - cell "Justification/vocabulary/clarity"
+      - cell "3"
+- paragraph:
+  - strong: "Mastery: 16/20."
+- heading "TOR key" [level=3]
+- text: Full mastery identifies all unsafe/excessive features; distinguishes repeated high-RPE/poor-recovery/quality pattern from one easier session; reduces and individualizes FITT; restores preparation/recovery; provides a no-equipment alternative; and uses evidence. Accept different safe, realistic, goal-aligned revisions.
+- heading "TOR Help" [level=3]
+- paragraph: Use the model and checklist first; then contact your Teacher of Record for help with safety, realism, measurement, or access. Do not disclose private health information.
+- region "Completion requirements for U2 L7 Checkpoint Submission":
+  - strong: "Completion requirements:"
+  - list:
+    - text: •
+    - generic: "To do:"
+    - text: Make a submission
+    - text: •
+    - generic: "To do:"
+    - text: Receive a grade
+- main:
+  - link "Grade":
+    - /url: https://mla.moodlecloud.com/mod/assign/view.php?id=15680&action=grader
+  - heading "Grading summary" [level=3]
+  - table "Grading summary":
+    - caption: Grading summary
+    - rowgroup:
+      - row "Hidden from students No":
+        - rowheader "Hidden from students"
+        - cell "No"
+      - row "Participants 0":
+        - rowheader "Participants"
+        - cell "0"
+      - row "Drafts 0":
+        - rowheader "Drafts"
+        - cell "0"
+      - row "Submitted 0":
+        - rowheader "Submitted"
+        - cell "0"
+      - row "Needs grading 0":
+        - rowheader "Needs grading"
+        - cell "0"
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+```
