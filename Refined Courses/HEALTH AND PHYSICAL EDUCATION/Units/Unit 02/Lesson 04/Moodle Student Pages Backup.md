@@ -1,0 +1,709 @@
+# Page 1
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P01 - Overview and Vocabulary" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P01 — Overview and Vocabulary" [level=1]
+  - heading "Essential Question" [level=3]
+  - text: How can flexibility, mobility, warm-up, cool-down, and recovery practices support safe and effective physical activity?
+  - heading "Objectives" [level=3]
+  - text: Distinguish flexibility/mobility, general/activity-specific warm-up, dynamic/static movement, cool-down/recovery; design safe sequences; use controlled range and modifications; analyze physical evidence.
+  - heading "MLA Standards" [level=3]
+  - strong: MLA.PEH.FIT.01, SAF.01, SAF.02
+  - text: ; supporting FIT.03, FIT.05, GOL.02.
+  - heading "Notebook — copy all 17 terms and definitions" [level=3]
+  - strong: "Flexibility:"
+  - text: available joint range.
+  - strong: "Mobility:"
+  - text: active controlled use of range.
+  - strong: "Range of motion:"
+  - text: movement available at a joint/pattern.
+  - strong: "Joint:"
+  - text: place bones meet.
+  - strong: "Dynamic movement:"
+  - text: controlled movement through range.
+  - strong: "Static stretch:"
+  - text: comfortable held position.
+  - strong: "Warm-up:"
+  - text: preparation for activity.
+  - strong: "Cool-down:"
+  - text: gradual reduction after activity.
+  - strong: "Recovery:"
+  - text: return/adaptation process after and between activity.
+  - strong: "Preparation:"
+  - text: readiness actions.
+  - strong: "Movement-specific warm-up:"
+  - text: preparation matching the upcoming task.
+  - strong: "General warm-up:"
+  - text: low-intensity beginning activity.
+  - strong: "Intensity:"
+  - text: how hard the body works.
+  - strong: "Muscle temperature:"
+  - text: thermal state of muscle tissue.
+  - strong: "Controlled movement:"
+  - text: deliberate stable action.
+  - strong: "Duration:"
+  - text: time.
+  - strong: "Adaptation:"
+  - text: change after appropriate repeated challenge.
+  - paragraph:
+    - strong: Write every bold term and provided definition in your notebook.
+  - heading "Path and Safety" [level=3]
+  - text: P01 vocabulary → P02 concepts → P03 models → P04 physical sequence → P05 analysis → P06 independent plans → P07 checkpoint. Never force range, bounce, compare with peers, or continue through concerning pain.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 2
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P02 - Learn the Concept" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P02 — Learn the Concept" [level=1]
+  - heading "Flexibility vs. Mobility" [level=3]
+  - text: Flexibility is available range; mobility is controlled usable movement through appropriate range. They overlap, vary by joint/person, and “more” is not automatically better.
+  - heading "Preparation" [level=3]
+  - text: General warm-up begins with low-intensity movement. Activity-specific warm-up rehearses demands of the upcoming task. Dynamic movement travels through controlled range. Static stretching holds a comfortable position and is not automatically a complete warm-up.
+  - heading "Sequence" [level=3]
+  - strong: WARM-UP → ACTIVITY → COOL-DOWN → RECOVERY.
+  - text: Warm-up supports readiness but does not guarantee injury prevention. Cool-down gradually lowers effort. Recovery can include rest, sleep, hydration, appropriate nutrition, low-intensity movement, and time.
+  - heading "Notebook Summary" [level=3]
+  - text: Create flexibility/mobility and general/activity-specific matrices plus the four-stage sequence with the purpose of each stage.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 3
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P03 - Examples and Guided Practice" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P03 — Examples and Guided Practice" [level=1]
+  - 'heading "Model: Walk/Jog" [level=3]'
+  - text: Easy walking is general preparation; gradual pace increase and controlled leg movement are activity-specific. Starting immediately at the highest planned pace is poorly sequenced.
+  - 'heading "Model: Resistance Activity" [level=3]'
+  - text: Use general movement followed by lower-demand controlled rehearsals of planned patterns. Warm-up should connect to the upcoming activity.
+  - 'heading "Model: Static vs. Dynamic" [level=3]'
+  - text: Holding one static stretch for several minutes and immediately starting vigorous activity is incomplete because it lacks gradual physiological and task-specific preparation.
+  - heading "Notebook Guided Practice" [level=3]
+  - text: A. Match general and activity-specific warm-ups to walking, cycling, bodyweight resistance, basketball, dance, and mobility work. B. Classify six examples as dynamic, static, or neither and explain placement. C. For forced range, bouncing, peer comparison, mild tension, concerning pain, and limited mobility choose continue, modify, stop, or seek help and justify.
+  - heading "Misconceptions" [level=3]
+  - text: Stretching is not identical to warming up; greater flexibility is not always healthier; bouncing is unnecessary; cool-down is gradual; soreness is not proof; recovery matters for everyone.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 4
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P04 - Safe Physical Application" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P04 — Safe Physical Application" [level=1]
+  - heading "Complete This Sequence" [level=3]
+  - text: "1 General warm-up 3–5 minutes: easy walk, march, seated movement, or alternative. 2 Choose 2–4 controlled activity-specific dynamic movements. 3 Complete 5–10 minutes low-risk activity. 4 Gradually cool down. 5 Optional approved comfortable static flexibility—never forced."
+  - heading "Notebook — 12-Part Record" [level=3]
+  - text: Activity; general warm-up; activity-specific preparation; main activity; cool-down; flexibility/mobility movement; RPE before; RPE during; RPE after cool-down; preparation observation; recovery observation; modification.
+  - heading "Safety" [level=3]
+  - text: Use controlled range, no bouncing or forced/painful stretch, stable positions, modifications, and Unit 1 stop rules. Adaptive seated/standing and no-equipment options earn equal credit.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 5
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P05 - Analyze the Activity / Guided Application" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P05 — Analyze the Activity / Guided Application" [level=1]
+  - heading "Notebook — answer all ten" [level=3]
+  - text: 1 How did general and specific warm-ups differ? 2 Why use each? 3 Which movements were dynamic? 4 Was static work used? 5 Where? 6 How did RPE change? 7 What happened during cool-down? 8 What modification was used? 9 How did sequence support safety? 10 What changes would another activity require?
+  - heading "Reasoning Pattern" [level=3]
+  - text: Identify activity demand → choose gradual general preparation → rehearse relevant movement → perform → lower intensity → recover. Explain choices with evidence rather than listing steps only.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 6
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P06 - Independent Work" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P06 — Independent Work" [level=1]
+  - heading "Notebook Task — Four Plans" [level=3]
+  - text: "Design a full sequence for: A cardiorespiratory activity; B muscular-fitness activity; C recreational activity; D low-intensity mobility/recovery activity."
+  - heading "Include for Each" [level=3]
+  - text: General warm-up; activity-specific preparation; flexibility/mobility element; transition to main activity; cool-down; recovery consideration; modification; one safety rule.
+  - heading "Final Analysis" [level=3]
+  - text: Explain in 150–200 words why warm-up and cool-down should vary with activity rather than use exactly the same routine every time.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 7
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery
+  - generic: Lesson
+  - heading "U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L4 Flexibility, Mobility, Warm-Up, Cool-Down, and Recovery":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P07 - Mastery Checkpoint" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "P07 — Mastery Checkpoint" [level=1]
+  - heading "Scenario" [level=3]
+  - text: Jordan plans 15 minutes of brisk walking progressing to light jogging in a small safe space, has limited comfortable ankle mobility, proposes only a long static calf stretch before starting at jogging pace, and proposes stopping suddenly afterward.
+  - heading "Required" [level=3]
+  - text: Evaluate and identify problems; redesign with general and activity-specific preparation; decide dynamic/static placement; design cool-down; identify recovery; modify for mobility/space; name stop condition; justify with concepts.
+  - heading "Submission" [level=3]
+  - text: Submit a structured plan plus 225–275 words in
+  - strong: U2 L4 Mastery Checkpoint Submission
+  - text: . Mastery is 16/20. Forced/bouncing stretch, no preparation, ignored pain, missing modification, or no cool-down reasoning requires revision.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the examples and directions, contact your Teacher of Record if you need help with sequence, movement choice, modification, or safety.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
