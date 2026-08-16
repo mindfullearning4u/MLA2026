@@ -35,5 +35,25 @@ Unit 3 title: **The 1920s, Great Depression, and New Deal**
 
 Lesson 1 status: **PASS â€” student ready.**
 
+## Lesson 2 Audit Evidence
+
+- Official title and investigation focus are preserved.
+- P01â€“P07 render with styled instructional boxes, readable tables, no exposed HTML, and functional Previous/Next controls.
+- P02 contains all 16 vocabulary terms, paced media/technology/advertising instruction, Pause and Review tasks, and a supplied summary.
+- P03 models advertisement analysis and evidence limitations.
+- P04 explicitly teaches continuity and change.
+- P05 models controlled significance comparison; P06 mirrors it through independent evaluation of six technologies.
+- P07 separates notebook evidence from the 375â€“450 word checkpoint.
+- Separate submission directions and attached five-criterion rubrics are present.
+- `U3L2 Q` contains 25 questions and delivers five random questions with one attempt and 80% mastery.
+- P01â€“P07 and quiz XML are backed up to GitHub.
+
+Lesson 2 status: **PASS â€” student ready.**
+
+## Lesson 3 Build Status
+
+- Official shell and four legacy pages inventoried.
+- Conversion to P01â€“P07 is in progress.
+
 Unit 3 is **IN PROGRESS** and is not yet student ready.
 
