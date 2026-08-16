@@ -1,0 +1,1 @@
+Lesson 7 is the culminating performance/application lesson. Per Document B, no regular Lesson 7 quiz is permitted. The Moodle shell quiz was removed during the final Unit 2 audit.
