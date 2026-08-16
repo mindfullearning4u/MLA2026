@@ -1,0 +1,140 @@
+# Notebook Submission and Rubric
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 Notebook Evidence Submission
+  - generic: Assignment
+  - heading "U2 L5 Notebook Evidence Submission" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Assignment"
+    - menuitem "Settings"
+    - menuitem "Overrides"
+    - menuitem "Submissions"
+    - menuitem "Advanced grading"
+    - menuitem "Filters"
+    - menuitem "Permissions"
+    - menuitem "Logs"
+    - menuitem "Backup"
+    - menuitem "Restore"
+    - text: 
+- strong: PHYSICAL EDUCATION AND HEALTH
+- text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+- text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+- heading "LESSON 5 NOTEBOOK SUBMISSION" [level=1]
+- heading "Required notebook evidence" [level=3]
+- text: Submit vocabulary, FITT notes/framework, training-principles organizer, FITT-vs-principles comparison, guided practice, and all four-profile independent work.
+- heading "20-point TOR rubric" [level=3]
+- table:
+  - rowgroup:
+    - row "Criterion Points":
+      - columnheader "Criterion"
+      - columnheader "Points"
+    - row "Vocabulary 2":
+      - cell "Vocabulary"
+      - cell "2"
+    - row "FITT understanding 4":
+      - cell "FITT understanding"
+      - cell "4"
+    - row "Training principles 4":
+      - cell "Training principles"
+      - cell "4"
+    - row "Guided practice 3":
+      - cell "Guided practice"
+      - cell "3"
+    - row "Independent work 6":
+      - cell "Independent work"
+      - cell "6"
+    - row "Organization 1":
+      - cell "Organization"
+      - cell "1"
+- paragraph:
+  - strong: "Mastery: 16/20."
+- heading "TOR key" [level=3]
+- text: Frequency=how often; intensity=how hard; time=how long; type=what activity. Overload=appropriate increased challenge; progression=gradual change; specificity=goal match; recovery=supports response/adaptation; individualization=fits circumstances. Require revision for maximal-effort definitions, changing every variable without reason, removing recovery, or goal mismatch.
+- region "Completion requirements for U2 L5 Notebook Evidence Submission":
+  - strong: "Completion requirements:"
+  - list:
+    - text: •
+    - generic: "To do:"
+    - text: Make a submission
+    - text: •
+    - generic: "To do:"
+    - text: Receive a grade
+    - text: •
+    - generic: "To do:"
+    - text: Receive a passing grade
+- main:
+  - link "Grade":
+    - /url: https://mla.moodlecloud.com/mod/assign/view.php?id=15671&action=grader
+  - heading "Grading summary" [level=3]
+  - table "Grading summary":
+    - caption: Grading summary
+    - rowgroup:
+      - row "Hidden from students No":
+        - rowheader "Hidden from students"
+        - cell "No"
+      - row "Participants 0":
+        - rowheader "Participants"
+        - cell "0"
+      - row "Drafts 0":
+        - rowheader "Drafts"
+        - cell "0"
+      - row "Submitted 0":
+        - rowheader "Submitted"
+        - cell "0"
+      - row "Needs grading 0":
+        - rowheader "Needs grading"
+        - cell "0"
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+```
+
+---
+
+# Mastery Checkpoint and Rubric
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+```
