@@ -1,0 +1,555 @@
+# Page 1
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 FITT and the Principles of Training
+  - generic: Lesson
+  - heading "U2 L5 FITT and the Principles of Training" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L5 FITT and the Principles of Training":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P01 - Overview and Vocabulary" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+  - heading "P01 — Overview and Vocabulary" [level=1]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING" [level=1]
+  - heading "TOR Help" [level=3]
+  - text: After using the model, directions, and safety notes, contact your Teacher of Record if you need help identifying a variable, choosing a safe change, or explaining your reasoning. Do not disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 2
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 FITT and the Principles of Training
+  - generic: Lesson
+  - heading "U2 L5 FITT and the Principles of Training" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L5 FITT and the Principles of Training":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P02 - Learn the Concept" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+  - heading "P02 — Learn the Concept" [level=1]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING" [level=1]
+  - heading "TOR Help" [level=3]
+  - text: After using the model, directions, and safety notes, contact your Teacher of Record if you need help identifying a variable, choosing a safe change, or explaining your reasoning. Do not disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 3
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 FITT and the Principles of Training
+  - generic: Lesson
+  - heading "U2 L5 FITT and the Principles of Training" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L5 FITT and the Principles of Training":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P03 - Examples and Guided Practice" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+  - heading "P03 — Examples and Guided Practice" [level=1]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING" [level=1]
+  - heading "TOR Help" [level=3]
+  - text: After using the model, directions, and safety notes, contact your Teacher of Record if you need help identifying a variable, choosing a safe change, or explaining your reasoning. Do not disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 4
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 FITT and the Principles of Training
+  - generic: Lesson
+  - heading "U2 L5 FITT and the Principles of Training" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L5 FITT and the Principles of Training":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P04 - Apply the Skill / Practice the Concept" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+  - heading "P04 — Apply the Skill / Practice the Concept" [level=1]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING" [level=1]
+  - heading "TOR Help" [level=3]
+  - text: After using the model, directions, and safety notes, contact your Teacher of Record if you need help identifying a variable, choosing a safe change, or explaining your reasoning. Do not disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 5
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 FITT and the Principles of Training
+  - generic: Lesson
+  - heading "U2 L5 FITT and the Principles of Training" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L5 FITT and the Principles of Training":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P05 - Independent Work" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+  - heading "P05 — Independent Work" [level=1]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING" [level=1]
+  - heading "TOR Help" [level=3]
+  - text: After using the model, directions, and safety notes, contact your Teacher of Record if you need help identifying a variable, choosing a safe change, or explaining your reasoning. Do not disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 6
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L5 FITT and the Principles of Training
+  - generic: Lesson
+  - heading "U2 L5 FITT and the Principles of Training" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L5 FITT and the Principles of Training":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P06 - Mastery Checkpoint" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING
+  - heading "P06 — Mastery Checkpoint" [level=1]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 4 — FLEXIBILITY, MOBILITY, WARM-UP, COOL-DOWN, AND RECOVERY
+  - heading "LESSON 5 — FITT AND THE PRINCIPLES OF TRAINING" [level=1]
+  - heading "TOR Help" [level=3]
+  - text: After using the model, directions, and safety notes, contact your Teacher of Record if you need help identifying a variable, choosing a safe change, or explaining your reasoning. Do not disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
