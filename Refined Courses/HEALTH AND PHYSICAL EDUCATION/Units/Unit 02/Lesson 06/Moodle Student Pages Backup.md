@@ -1,0 +1,818 @@
+# Page 1
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P01 - Overview and Vocabulary" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P01 — Overview and Vocabulary" [level=1]
+  - heading "Essential Question" [level=3]
+  - text: How can fitness data determine whether an activity plan should be maintained, progressed, modified, or reduced?
+  - heading "Objectives" [level=3]
+  - text: Classify quantitative and qualitative evidence; identify trends without overusing one data point; interpret logs/graphs; collect safe comparable data; choose and justify maintain, progress, modify, reduce, or stop/seek help decisions.
+  - heading "MLA Standards" [level=3]
+  - strong: "Primary:"
+  - text: MLA.PEH.FIT.02, MLA.PEH.FIT.04, MLA.PEH.GOL.02.
+  - strong: "Supporting:"
+  - text: MLA.PEH.FIT.03, MLA.PEH.SAF.01, MLA.PEH.FIT.05.
+  - heading "Notebook — write all terms and definitions" [level=3]
+  - paragraph:
+    - strong: Copy these terms and definitions.
+  - list:
+    - listitem: Fitness data—evidence about activity/response.
+    - listitem: Activity log—consistent session record.
+    - listitem: Monitoring—collecting and reviewing evidence.
+    - listitem: Baseline—starting point.
+    - listitem: Trend—general direction across multiple observations.
+    - listitem: Pattern—repeated relationship.
+    - listitem: Variable—factor that may change.
+    - listitem: Progress—movement toward a goal.
+    - listitem: Plateau—little observed change.
+    - listitem: Adjustment/modification—purposeful plan change.
+    - listitem: Evaluate—judge using criteria/evidence.
+    - listitem: Data point—one observation.
+    - listitem: Qualitative data—descriptive evidence.
+    - listitem: Quantitative data—numerical evidence.
+    - listitem: RPE—rating of perceived exertion.
+    - listitem: Duration—length.
+    - listitem: Frequency—how often.
+    - listitem: Intensity—how hard.
+    - listitem: Recovery—response/rest supporting continued activity.
+    - listitem: Consistency—using comparable procedures/fields.
+    - listitem: Outlier—an observation noticeably different from others.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 2
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P02 - Learn the Concept" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P02 — Learn the Concept" [level=1]
+  - heading "Plan–Monitor–Adjust Cycle" [level=3]
+  - text: PLAN → PERFORM → RECORD → ANALYZE → DECIDE → ADJUST.
+  - heading "Data Matrix" [level=3]
+  - table:
+    - rowgroup:
+      - row "Quantitative Qualitative":
+        - columnheader "Quantitative"
+        - columnheader "Qualitative"
+      - row "minutes, days/week, repetitions, heart rate, RPE number, distance talk test, movement quality, recovery, enjoyment, environment, difficulty maintaining form":
+        - cell "minutes, days/week, repetitions, heart rate, RPE number, distance"
+        - cell "talk test, movement quality, recovery, enjoyment, environment, difficulty maintaining form"
+  - heading "One Point vs. Trend" [level=3]
+  - text: One difficult session is one data point. A trend requires multiple relevant observations. Sleep, stress, schedule, environment, recovery, and activity type can create variation.
+  - heading "Decision Tree" [level=3]
+  - text: Appropriate challenge + goal alignment + safety → maintain. Consistently easier + good form/recovery → consider small progression. Repeated excessive difficulty/poor recovery → reduce or modify. New barrier → modify. Warning sign → stop and follow safety procedure.
+  - heading "Notebook Summary — copy this" [level=3]
+  - text: Useful logs use consistent fields, honest reporting, clear units, and comparable observations. Data → interpretation → decision. Association does not prove causation, and personal progress is compared with the student’s own baseline—not classmates.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 3
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P03 - Examples and Guided Data Analysis" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P03 — Examples and Guided Data Analysis" [level=1]
+  - heading "Model 1 — progression" [level=3]
+  - text: "Sessions: 15 min at RPE 6, 5, 4, 4; movement controlled; recovery appropriate."
+  - strong: "Reasoning:"
+  - text: several observations show a downward RPE pattern at the same duration. A small Time increase may be justified; changing every variable is not.
+  - heading "Model 2 — reduce/modify" [level=3]
+  - text: Repeated RPE above the assigned range, deteriorating movement quality, and poor recovery support reducing demand or changing the activity—not pushing harder.
+  - heading "Model 3 — schedule change" [level=3]
+  - text: Available weekday time falls from 30 to 15 minutes. Modify Time while preserving an appropriate Type/Intensity; the lifestyle change is evidence, not failure.
+  - heading "Guided Notebook Work" [level=3]
+  - paragraph: "Read this six-session log: durations 15,15,15,20,20,20; RPE 6,5,7,5,4,4; session 3 followed poor sleep; talk test comfortable except session 3; movement controlled; recovery adequate otherwise."
+  - list:
+    - listitem: Identify frequency, duration pattern, intensity pattern, one trend, and one variation.
+    - listitem: Describe a simple graph with session on x-axis and RPE on y-axis.
+    - listitem: State what conclusion is supported and what is not supported.
+    - listitem: "Choose and justify actions for: stable challenge; consistently easier/good recovery; repeated excessive difficulty; warning sign."
+  - paragraph:
+    - strong: "Worked conclusion:"
+    - text: Session 3 is unusual, but sessions 4–6 show lower RPE with adequate recovery. Evidence may support maintaining briefly or a small progression; it does not prove poor sleep caused the high RPE.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 4
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P04 - Safe Physical Application / Data Collection" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P04 — Safe Physical Application / Data Collection" [level=1]
+  - heading "Choose an approved activity" [level=3]
+  - text: Select brisk walking, low-impact aerobic movement, controlled body-weight muscular-endurance activity, or an approved adaptive equivalent. Wearable technology is optional.
+  - heading "Safety First" [level=3]
+  - text: Use a clear space and appropriate intensity. Stop for concerning symptoms, unsafe technique, or environmental danger; seek adult/medical help as appropriate. Do not force a planned session.
+  - heading "Notebook Activity Log — required" [level=3]
+  - text: Complete
+  - strong: two short sessions on different days when practical
+  - text: ". If scheduling requires one lesson period, complete two comparable structured segments. Record: session/date; activity; duration; RPE; talk test when applicable; optional heart rate; movement-quality observation; recovery observation; modification; environmental/context note. This log belongs in the Notebook Submission."
+  - heading "Log Template" [level=3]
+  - table:
+    - rowgroup:
+      - row "Session Activity Duration RPE Talk test/HR Movement & recovery Modification/context":
+        - columnheader "Session"
+        - columnheader "Activity"
+        - columnheader "Duration"
+        - columnheader "RPE"
+        - columnheader "Talk test/HR"
+        - columnheader "Movement & recovery"
+        - columnheader "Modification/context"
+      - row "1":
+        - cell "1"
+        - cell
+        - cell
+        - cell
+        - cell
+        - cell
+        - cell
+      - row "2":
+        - cell "2"
+        - cell
+        - cell
+        - cell
+        - cell
+        - cell
+        - cell
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 5
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P05 - Analyze the Activity Data" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P05 — Analyze the Activity Data" [level=1]
+  - heading "Notebook Analysis — answer all ten" [level=3]
+  - list:
+    - listitem: What remained the same?
+    - listitem: What changed?
+    - listitem: Which evidence is quantitative?
+    - listitem: Which is qualitative?
+    - listitem: Was intensity similar?
+    - listitem: Was one session easier or harder?
+    - listitem: Is there enough evidence for a trend?
+    - listitem: Should activity remain, progress, reduce, or modify?
+    - listitem: What exact evidence supports the decision?
+    - listitem: What additional data would strengthen it?
+  - heading "Reasoning Model" [level=3]
+  - text: "Separate observation from inference. Example: “RPE was 6 then 5” is observation. “The activity may be becoming more manageable” is a cautious inference. Two sessions rarely justify a broad causal claim."
+  - heading "Notebook Transfer Check" [level=3]
+  - text: Your completed log and all ten responses are required Notebook evidence. Honest, complete recording earns credit; higher numbers are not automatically better.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 6
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P06 - Independent Work" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P06 — Independent Work" [level=1]
+  - heading "Notebook Assignment — fictional eight-session log" [level=3]
+  - paragraph:
+    - strong: This entire analysis belongs in your Notebook Submission.
+  - table:
+    - rowgroup:
+      - row "S Minutes RPE Recovery/context":
+        - columnheader "S"
+        - columnheader "Minutes"
+        - columnheader "RPE"
+        - columnheader "Recovery/context"
+      - row "1 20 6 adequate":
+        - cell "1"
+        - cell "20"
+        - cell "6"
+        - cell "adequate"
+      - row "2 20 6 adequate":
+        - cell "2"
+        - cell "20"
+        - cell "6"
+        - cell "adequate"
+      - row "3 20 5 good":
+        - cell "3"
+        - cell "20"
+        - cell "5"
+        - cell "good"
+      - row "4 missed — schedule conflict":
+        - cell "4"
+        - cell "missed"
+        - cell "—"
+        - cell "schedule conflict"
+      - row "5 20 8 poor sleep; unusually difficult":
+        - cell "5"
+        - cell "20"
+        - cell "8"
+        - cell "poor sleep; unusually difficult"
+      - row "6 20 5 good":
+        - cell "6"
+        - cell "20"
+        - cell "5"
+        - cell "good"
+      - row "7 15 5 weekday time reduced":
+        - cell "7"
+        - cell "15"
+        - cell "5"
+        - cell "weekday time reduced"
+      - row "8 15 4 good":
+        - cell "8"
+        - cell "15"
+        - cell "4"
+        - cell "good"
+  - list:
+    - listitem: Summarize the pattern and frequency.
+    - listitem: Compare duration and interpret intensity.
+    - listitem: Identify two trends and one unusual point.
+    - listitem: Explain trend versus single event.
+    - listitem: Evaluate goal support.
+    - listitem: Choose maintain/progress/modify/reduce.
+    - listitem: Name the exact FITT change, if any.
+    - listitem: Connect to overload, progression, specificity, and recovery.
+    - listitem: Address the schedule change.
+    - listitem: Identify one data limitation.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
+
+---
+
+# Page 7
+
+```text
+- status
+- link "Skip to main content":
+  - /url: "#maincontent"
+- navigation "Site navigation":
+  - link "MLA":
+    - /url: https://mla.moodlecloud.com/my/
+  - navigation:
+    - menubar:
+      - menuitem "Home"
+      - menuitem "Dashboard"
+      - menuitem "My courses"
+      - menuitem "Site administration"
+      - text: 
+  - generic: Edit mode
+  - checkbox "Edit mode" [checked]
+  - button "Show notification window with no new notifications":
+    - generic: 
+  - button "Toggle messaging drawer":
+    - generic: 
+  - button "Show notification window with no new notifications":
+    - text: Active Users
+    - progressbar
+    - text: Storage
+    - progressbar
+  - button "User menu": 
+  - text:   
+- button "Open course index":
+  - generic: Open course index
+- button "Open block drawer":
+  - generic: Open block drawer
+- banner:
+  - navigation "Breadcrumb":
+    - list:
+      - link "PEH":
+        - /url: https://mla.moodlecloud.com/course/view.php?id=57
+      - text: /
+      - link "Unit 2 — Fitness Science, Training, and Personal Fitness Development":
+        - /url: https://mla.moodlecloud.com/course/section.php?id=414
+      - listitem: / U2 L6 Monitoring Fitness Data and Modifying Activity
+  - generic: Lesson
+  - heading "U2 L6 Monitoring Fitness Data and Modifying Activity" [level=1]
+- navigation:
+  - menubar:
+    - menuitem "Lesson"
+    - menuitem "Settings"
+    - menuitem "Reports"
+    - menuitem "More "
+- region "Completion requirements for U2 L6 Monitoring Fitness Data and Modifying Activity":
+  - strong: "Completion requirements:"
+  - list:
+    - generic: 
+    - strong: "Done:"
+    - text: View
+    - text: •
+    - generic: "To do:"
+    - text: Go through the activity to the end
+- main:
+  - button "Edit lesson"
+  - button "Edit page contents"
+  - button "Grade essays"
+  - alert:
+    - text: Lesson is currently being previewed.
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+  - heading "P07 - Mastery Checkpoint" [level=2]
+  - strong: PHYSICAL EDUCATION AND HEALTH
+  - text: UNIT 2 — FITNESS SCIENCE, TRAINING, AND PERSONAL FITNESS DEVELOPMENT
+  - text: LESSON 6 — MONITORING FITNESS DATA AND MODIFYING ACTIVITY
+  - heading "P07 — Mastery Checkpoint" [level=1]
+  - heading "Checkpoint — new fictional data" [level=3]
+  - text: "Goal: cardiorespiratory endurance. Baseline: 15-minute moderate walks. Six sessions: minutes 15,15,20,20,20,15; RPE 6,5,5,4,8,5; talk test comfortable except session 5; recovery good except session 5 after heat/poor sleep; weekday schedule later drops to 15 minutes; indoor cycling is available; wearable heart-rate readings are missing twice."
+  - heading "Submit here — table plus 250–300 words" [level=3]
+  - list:
+    - listitem: Classify quantitative and qualitative data.
+    - listitem: Identify two trends and the unusual observation.
+    - listitem: Explain why the unusual point should or should not control the decision.
+    - listitem: Evaluate the plan and choose maintain, progress, modify, or reduce.
+    - listitem: Name an exact FITT change if appropriate.
+    - listitem: Connect to at least two training principles.
+    - listitem: Address schedule/barrier.
+    - listitem: Name one data limitation.
+    - listitem: State what to monitor next.
+  - paragraph:
+    - strong: This checkpoint is the table and 250–300 word justification; do not submit your personal log here.
+  - heading "Mastery Standard" [level=3]
+  - text: Use multiple observations, acknowledge uncertainty, preserve safety, and support every decision with evidence. Mastery is 16/20.
+  - heading "TOR Help" [level=3]
+  - paragraph: After using the model and directions, contact your Teacher of Record if you need help interpreting evidence, selecting a safe action, or completing the log. Do not diagnose a health condition or disclose private medical information.
+  - button "Next"
+  - button "Previous"
+  - alert:
+    - text: You will not see the progress bar because you can edit this lesson
+    - button "Dismiss this notification":
+      - generic: Dismiss this notification
+- contentinfo:
+  - button "Show footer":
+    - generic: "?"
+  - text:     
+- iframe
+```
