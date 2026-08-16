@@ -13,3 +13,13 @@ Audit date: 2026-08-16
 
 Final Unit 2 status: **PASS â€” student ready.**
 
+## Independent Re-verification â€” 2026-08-16
+
+- Rechecked all 56 student-facing lesson pages: 56/56 rendered without raw HTML, contained styled/color instructional elements, and exposed both Previous and Next navigation.
+- Rechecked all 16 assignment directions and all 16 five-criterion rubrics.
+- Rechecked all quiz activities: pretest delivers 10 random questions at one attempt/90%; Lessons 1â€“7 each deliver five random questions at one attempt/80%; the unit assessment delivers 10 random questions at one attempt/80%.
+- Recounted XML banks: seven lesson banks contain 25 questions each, the pretest contains 10, and the unit-assessment pool contains 40.
+- Rechecked visibility and access: all eight legacy duplicates are hidden, no missing-activity restrictions remain, and the unit assessment is gated by Lesson 8 mastery completion.
+
+Re-verification result: **PASS.**
+
