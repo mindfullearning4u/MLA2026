@@ -48,7 +48,6 @@ MLA Physics standard codes will be added after those standards are formally auth
 | 1 | 05 | Types of Forces | Force identification and diagram critique | Force taxonomy; free-body diagrams | Inv. 2 Exp. 2 models/Explain Video | Force scenario/diagram |
 | 1 | 06 | Forces on Systems | System-boundary and interaction analysis | System diagram; force pairs; net-force equation | Inv. 2 Exp. 3 lab/modeling/CER | System/free-body model |
 | 1 | 07 | Earth's Surface Forces | Friction/slope data or safe virtual investigation | Incline diagram; friction/normal-force data | Inv. 2 Exp. 4 resources and Engineering Workbench | Applied force-data scenario |
-| 1 | 08 | Putting It All Together | Mixed motion-and-force synthesis | Graphs, vectors, free-body diagrams, equations | Reuse Inv. 1–2 taught resources only | Unit mixed-stimulus set |
 | 2 | 01 | Universal Gravitation | Force-vs-mass/distance data analysis | `F=Gm₁m₂/r²`; inverse-square graph | Inv. 3 Exp. 1 PhET/data/modeling | Gravity data/graph |
 | 2 | 02 | Orbital Motion | Orbit simulation or centripetal/gravity model | Orbit/free-body diagram; speed-radius evidence | Inv. 3 Exp. 2 Inquiry Lab/PhET/Explain Video | Orbit model/data |
 | 2 | 03 | Kepler's Laws | Planetary-period and orbital-radius analysis | Ellipse model; period-radius table/graph | Inv. 3 Exp. 3 data/modeling resources | Orbital-data table |
@@ -58,7 +57,6 @@ MLA Physics standard codes will be added after those standards are formally auth
 | 2 | 07 | Magnetic Forces and Fields | Magnetic-field mapping/model investigation | Field map; force-direction diagram | Inv. 5 Exp. 1 lab/modeling/Explain Video | Magnetic-field model |
 | 2 | 08 | Inducing Magnetism | Variable-based induction investigation | Coil/core diagram; field-strength table | Inv. 5 Exp. 2 lab or simulation | Induction setup/data |
 | 2 | 09 | Inducing Current | Magnet-coil motion and induced-current data | Generator diagram; current-vs-motion graph | Inv. 5 Exp. 3 PhET/CER/Engineering Workbench | Induced-current graph |
-| 2 | 10 | Putting It All Together | Compare gravitational, electric, magnetic fields | Field maps, inverse-square graphs, induction model | Reuse Inv. 3–5 taught resources only | Unit mixed-stimulus set |
 | 3 | 01 | Atoms and Atomic Structure | Atomic-model evidence comparison | Atomic-model timeline; nuclear diagram | Inv. 6 Exp. 1 PhET/modeling/Explain Video | Model/evidence table |
 | 3 | 02 | Attractive and Repulsive Forces | Particle/force model investigation | Attraction-repulsion diagram; force-scale model | Inv. 6 Exp. 2 simulation/modeling | Force model |
 | 3 | 03 | Material Properties | Conductivity/state/property data classification | Structure-property table; particle models | Inv. 6 Exp. 3 lab/data resources | Property-data table |
@@ -66,7 +64,6 @@ MLA Physics standard codes will be added after those standards are formally auth
 | 3 | 05 | Classifying Energy and Work | Work/energy classification and measurement | Energy-form chart; `W=Fd`; power relation | Inv. 7 Exp. 1 resources/Math Support | Work-energy table |
 | 3 | 06 | Mechanical Energy | Kinetic/potential energy data/model | `KE=½mv²`; `PE=mgh`; energy bars | Inv. 7 Exp. 2 Inquiry Lab/PhET | Energy graph/calculation |
 | 3 | 07 | Conservation of Energy | Open/closed/isolated system investigation | Energy-flow/system diagram; conservation equation | Inv. 7 Exp. 3 CER/modeling/evaluation | Energy-system model |
-| 3 | 08 | Putting It All Together | Materials and work-energy synthesis | Atomic/material model, data, energy bars | Reuse Inv. 6–7 taught resources only | Unit mixed-stimulus set |
 | 4 | 01 | Momentum and Impulse | Force-time and momentum-change data | `p=mv`; `J=FΔt=Δp`; impulse graph | Inv. 8 Exp. 1 lab/PhET/data | Force-time graph |
 | 4 | 02 | Conservation of Momentum | Low-energy or virtual collision trials | Before/after momentum table; system diagram | Inv. 8 Exp. 2 simulation/modeling | Collision data |
 | 4 | 03 | Collisions in Earth's Crust | Geophysical collision/model evidence | Plate/block model; momentum/energy comparison | Inv. 8 Exp. 3 data/CER | Earth-collision model |
@@ -77,7 +74,6 @@ MLA Physics standard codes will be added after those standards are formally auth
 | 4 | 08 | Energy in Electric Circuits | Low-voltage or virtual circuit investigation | Circuit schematic; Ohm/power relations; data table | Inv. 10 Exp. 2 Inquiry Lab/PhET | Circuit data/schematic |
 | 4 | 09 | Power Generation | Generator and energy-transformation analysis | Generator/system diagram; energy-flow chart | Inv. 10 Exp. 3 Engineering Workbench/video | Power-generation model |
 | 4 | 10 | Energy Resources and Conservation | Source/efficiency/cost data comparison | Efficiency graph; resource tradeoff table | Inv. 10 Exp. 4 CER/data/resources | Source/data comparison |
-| 4 | 11 | Putting It All Together | Momentum-thermal-electrical synthesis | Collision, thermal, circuit, and source stimuli | Reuse Inv. 8–10 taught resources only | Unit mixed-stimulus set |
 | 5 | 01 | Properties of Waves | Frequency/wavelength/amplitude measurements | Wave graph; `v=fλ`; data table | Inv. 11 Exp. 1 Inquiry Lab/PhET | Wave graph/data |
 | 5 | 02 | Wave Behavior and Energy | Reflection/refraction/interference/Doppler investigation | Behavior diagrams; frequency-shift graph | Inv. 11 Exp. 2 simulation/modeling | Wave-behavior model |
 | 5 | 03 | Wave Optics | Safe ray tracing or virtual optics lab | Ray diagrams; mirror/lens equations | Inv. 11 Exp. 3 PhET/Math Support | Ray diagram |
@@ -87,7 +83,6 @@ MLA Physics standard codes will be added after those standards are formally auth
 | 5 | 07 | Digital Information | Sampling/encoding/noise investigation | Analog/digital graph; binary/sampling table | Inv. 13 Exp. 1 PhET/Inquiry Lab/Peer Review | Signal/data display |
 | 5 | 08 | Capturing and Transmitting Information | Sensor/optics/communication system analysis | Block diagram; lens/sensor/signal model | Inv. 13 Exp. 2 Engineering Workbench | Instrument/system model |
 | 5 | 09 | Capturing and Transmitting Energy | Energy capture/transfer efficiency comparison | Energy-flow and efficiency diagrams | Inv. 13 Exp. 3 resources/evaluation | Energy-system data |
-| 5 | 10 | Putting It All Together | Wave-radiation-information synthesis | Graph, ray diagram, spectrum, signal model | Reuse Inv. 11–13 taught resources only | Unit mixed-stimulus set |
 | 6 | 01 | Nuclear Particles | Nuclear-model and particle classification | Nuclear diagram; particle/property table | Inv. 14 Exp. 1 PhET/modeling | Nuclear model/table |
 | 6 | 02 | Nuclear Forces | Force-range and stability model analysis | Fundamental-force scale; binding/stability diagram | Inv. 14 Exp. 2 model/Explain Video | Force-scale model |
 | 6 | 03 | Fission and Fusion | Reaction/energy data comparison | Fission/fusion diagrams; mass-energy table | Inv. 14 Exp. 3 PhET/CER/Engineering Workbench | Comparison/data |
@@ -97,7 +92,6 @@ MLA Physics standard codes will be added after those standards are formally auth
 | 6 | 07 | The Sun | Solar structure/energy/spectrum analysis | Solar layers; fusion/energy-flow diagram | Inv. 16 Exp. 1 resources/modeling | Solar model/data |
 | 6 | 08 | Stars | Stellar spectra and H-R diagram investigation | H-R diagram; spectrum; luminosity/temperature data | Inv. 16 Exp. 2 Analyzing Data/PhET | H-R/spectral data |
 | 6 | 09 | The Big Bang | Redshift/background-radiation evidence analysis | Expansion model; redshift graph; evidence table | Inv. 16 Exp. 3 CER/modeling/Explain Video | Cosmology evidence set |
-| 6 | 10 | Putting It All Together | Nuclear-to-cosmic synthesis | Nuclear, decay, dating, stellar, cosmology stimuli | Reuse Inv. 14–16 taught resources only | Unit mixed-stimulus set |
 
 ## Direct Resource and Student-Use Direction Controls
 
@@ -120,7 +114,7 @@ MLA Physics standard codes will be added after those standards are formally auth
 | Requirement | Status |
 |---|---|
 | All six units mapped at resource level | PASS |
-| All 57 lessons mapped at resource level | PASS |
+| All 51 lessons mapped at resource level | PASS |
 | All 51 Savvas Experiences represented | PASS |
 | Inquiry/data/model requirements mapped | PASS |
 | Visual/equation/data-display requirements mapped | PASS |
@@ -133,4 +127,3 @@ MLA Physics standard codes will be added after those standards are formally auth
 ## Final Decision
 
 Physics architecture may proceed to MLA standards creation and subsequent lesson/assessment production only when future work uses this matrix as a required source of truth.
-

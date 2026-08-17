@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document maps the Physics architecture across six conceptually coherent units. Unit and lesson counts are determined by the course content and Savvas depth, not by a fixed template.
+This document maps the Physics architecture across six conceptually coherent units and 51 instructional lessons. The approved unit lesson counts are 7, 9, 7, 10, 9, and 9. Each instructional lesson includes its own Lesson Quiz; the Unit Assessment remains a separate activity after the unit's final lesson. Unit and lesson counts are determined by the course content and Savvas depth, not by a fixed template.
 
 This is architecture only. It does not create MLA standards, lesson content, assessments, HTML, JSON, legacy assessment-bank content, or LMS pages.
 
@@ -40,9 +40,11 @@ Use this document with `Physics_Phase_3A_B_3_Lab_Visual_Simulation_Resource_Mapp
 | All 16 Savvas investigations assigned | PASS |
 | All 51 Savvas Experiences assigned | PASS |
 | Variable lesson counts preserved | PASS |
+| Unit lesson counts are 7, 9, 7, 10, 9, and 9 | PASS |
+| One Lesson Quiz follows every instructional lesson | PASS |
+| Unit Assessments remain separate from instructional lessons | PASS |
 | Florida Physics 1 content inventory represented | PASS |
 | Lab, virtual lab, data, modeling, and engineering expectations represented | PASS |
 | Resource companion matrix required | PASS |
 | MLA standard codes intentionally deferred until MLA standards are authored | PASS |
 | Physics identity preserved | PASS |
-

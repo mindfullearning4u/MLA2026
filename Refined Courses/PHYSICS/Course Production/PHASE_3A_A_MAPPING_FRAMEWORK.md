@@ -16,11 +16,10 @@ This is architecture only. It does not create MLA Physics standards, lesson cont
 | Savvas investigations | 16 |
 | Savvas instructional experiences | 51 |
 | MLA course units | 6, determined by conceptual coherence and prerequisite sequence |
-| Lessons per unit | Variable: 8, 10, 8, 11, 10, 10 |
-| Total lesson rows | 57 |
-| Final lesson in each unit | Putting It All Together |
-| Final-lesson primary-standard rule | No new primary benchmark or concept |
-| Unit assessment location | Final lesson in each unit |
+| Lessons per unit | Variable: 7, 9, 7, 10, 9, 9 |
+| Total lesson rows | 51 |
+| Lesson quiz | One standards-aligned quiz after every instructional lesson |
+| Unit assessment location | Separate activity after the final instructional lesson in each unit |
 | Unit diagnostic | Unit Pretest |
 
 ## Mapping Principles
@@ -30,7 +29,7 @@ This is architecture only. It does not create MLA Physics standards, lesson cont
 3. Closely related Savvas investigations are grouped into units by prerequisite sequence and conceptual coherence.
 4. Nature of Science, mathematical reasoning, data analysis, evidence, technical reading, modeling, laboratory safety, and communication are embedded coursewide.
 5. Florida B.E.S.T. ELA Expectations, MTRs, ELD standards, Common Core science literacy, ACT Science, and SAT evidence/data practices are support alignments unless a lesson directly assesses them.
-6. Each unit ends with a synthesis lesson and Unit Assessment; that lesson introduces no new primary physics content.
+6. Each instructional lesson includes a standards-aligned Lesson Quiz. Each unit ends with a separate Unit Assessment after its final instructional lesson.
 7. Earth/space science is included only where the Savvas Florida Physics 1 course and mapped benchmarks use physics to explain or analyze those contexts.
 8. Resource planning prioritizes the exact Savvas experience, inquiry lab, data-analysis task, CER task, PhET simulation, Engineering Workbench, investigation assessment, and virtual-lab PBA available in the signed-in course.
 
@@ -38,12 +37,12 @@ This is architecture only. It does not create MLA Physics standards, lesson cont
 
 | Unit | Title | Savvas Investigations | Lessons | Sequencing Rationale |
 |---|---|---|---:|---|
-| 1 | Motion and Newtonian Forces | 1–2 | 8 | Establishes vectors, kinematics, free-body reasoning, Newton's laws, and system forces before field interactions and energy. |
-| 2 | Gravitational, Electric, and Magnetic Fields | 3–5 | 10 | Develops action-at-a-distance through gravitational, electric, and magnetic field models, then connects fields to current and induction. |
-| 3 | Matter, Materials, Work, and Energy | 6–7 | 8 | Connects atomic structure and forces in materials to work, mechanical energy, and conservation. |
-| 4 | Momentum, Thermal Systems, and Electrical Energy | 8–10 | 11 | Applies conservation to collisions, then extends system reasoning to heat flow, electric potential, circuits, power generation, and energy choices. |
-| 5 | Waves, Radiation, Information, and Instrumentation | 11–13 | 10 | Builds from mechanical-wave properties to electromagnetic radiation, optics, digital information, sensing, transmission, and instrumentation. |
-| 6 | Nuclear Physics, Geologic Time, and the Universe | 14–16 | 10 | Culminates with nuclear particles and forces, decay and dating, stellar physics, and evidence for the Big Bang. |
+| 1 | Motion and Newtonian Forces | 1–2 | 7 | Establishes vectors, kinematics, free-body reasoning, Newton's laws, and system forces before field interactions and energy. |
+| 2 | Gravitational, Electric, and Magnetic Fields | 3–5 | 9 | Develops action-at-a-distance through gravitational, electric, and magnetic field models, then connects fields to current and induction. |
+| 3 | Matter, Materials, Work, and Energy | 6–7 | 7 | Connects atomic structure and forces in materials to work, mechanical energy, and conservation. |
+| 4 | Momentum, Thermal Systems, and Electrical Energy | 8–10 | 10 | Applies conservation to collisions, then extends system reasoning to heat flow, electric potential, circuits, power generation, and energy choices. |
+| 5 | Waves, Radiation, Information, and Instrumentation | 11–13 | 9 | Builds from mechanical-wave properties to electromagnetic radiation, optics, digital information, sensing, transmission, and instrumentation. |
+| 6 | Nuclear Physics, Geologic Time, and the Universe | 14–16 | 9 | Culminates with nuclear particles and forces, decay and dating, stellar physics, and evidence for the Big Bang. |
 
 ## Coursewide Support Standards
 
@@ -68,7 +67,7 @@ This is architecture only. It does not create MLA Physics standards, lesson cont
 | Investigation/Lab Evidence | Variables, procedure, safety, measurements, analysis, model evaluation, and CER response. |
 | Checkpoint | Independent application of the primary benchmark and selected support expectations. |
 | Lesson Quiz | Standards-aligned verification for instructional lessons. |
-| Unit Assessment | Mixed-stimulus synthesis in the final lesson using only concepts taught earlier in the unit. |
+| Unit Assessment | Separate mixed-stimulus synthesis activity after the final instructional lesson in the unit. |
 
 ## Laboratory, Simulation, and Resource Controls
 
@@ -76,26 +75,25 @@ Physics lessons must preserve inquiry, measurement, mathematical modeling, data 
 
 The controlling companion matrix is `Physics_Phase_3A_B_3_Lab_Visual_Simulation_Resource_Mapping.md`. Future lesson, assessment, and LMS work must use it before production.
 
-## Final-Lesson Control
+## Unit-Completion Control
 
-The final lesson of each unit must:
+After the final instructional lesson in each unit:
 
-- be titled **Putting It All Together**;
-- contain the Unit Assessment;
-- synthesize benchmarks and concepts already taught in the unit;
-- introduce no new primary benchmark or physics concept;
-- include mixed evidence such as diagrams, graphs, equations, models, data, and technical text.
+- students complete that lesson's Notebook Evidence, Checkpoint, and Lesson Quiz;
+- the Unit Assessment appears as a separate Moodle activity;
+- the Unit Assessment synthesizes benchmarks and concepts taught across the unit;
+- a dedicated synthesis lesson is added only when the content genuinely requires one.
 
 ## Mapping Validation Rules
 
 | Rule | Validation Method |
 |---|---|
 | 51 Savvas instructional experiences represented | Match every Savvas Investigation 1–16 Experience title to a lesson row. |
-| 57 lesson rows required | Count 51 instructional rows plus 6 synthesis rows. |
-| Variable unit and lesson counts preserved | Verify 6 units with 8/10/8/11/10/10 lessons. |
-| Final lesson no-new-content rule | Compare each final lesson with prior lessons in its unit. |
+| 51 lesson rows required | Count the 51 Savvas Experience-based instructional rows. |
+| Variable unit and lesson counts preserved | Verify 6 units with 7/9/7/10/9/9 lessons. |
+| Lesson quizzes represented | Verify one Lesson Quiz is mapped for every instructional lesson. |
+| Unit Assessments separate | Verify each Unit Assessment follows the final instructional lesson as a separate activity. |
 | Florida alignment complete | Verify content benchmark coverage against the Phase 2A inventory. |
 | Inquiry and data expectations represented | Verify Nature of Science, investigation, graph, and model evidence across units. |
 | Resource companion matrix required | Verify the Phase 3A-B-3 matrix is referenced before production. |
 | Physics identity preserved | Verify Earth/space and materials contexts remain physics-driven. |
-
