@@ -2,132 +2,135 @@
 
 ## Purpose
 
-This document standardizes the Physics lab, visual, simulation, resource, and assessment-stimulus map under the updated MLA science architecture requirements. It extends the existing `PHYSICS_LAB_AND_VIRTUAL_LAB_MATRIX.md` by adding official source controls, candidate resource locations, assessment stimulus requirements, and production gates.
+This document identifies where Physics lessons require labs, data investigations, simulations, visuals, models, diagrams, equations, tables, graphs, safety controls, Savvas resource review, student-use directions, and assessment stimuli.
 
-This is architecture only. It does not insert links into lessons, approve third-party resources, create student-facing lesson content, create Moodle XML, create HTML, or replace final human approval.
+This is a production source-of-truth document. It does not create lesson content, assessments, Moodle XML, or HTML.
 
 ## Official Source Control
 
 | Source Type | Required Source | Physics Use |
 |---|---|---|
-| Florida course source | CPALMS Physics 1 course record, course number `2003380`, course record `23835`, current version `2024 - And Beyond (current)` | Primary source for Physics 1 course identity, benchmark list, course notes, laboratory expectation, and embedded support standards. |
-| Florida science benchmarks | CPALMS / Florida NGSSS science benchmark records for `SC.912.*` standards | Primary content standards for Physics. |
-| Florida B.E.S.T. ELA Expectations | CPALMS embedded ELA expectations and Florida B.E.S.T. ELA source records when referenced | Used only for evidence citation, technical reading, inference, collaboration, format, voice, and tone in science communication. |
-| Florida MTR expectations | CPALMS embedded MTR expectations | Used only for measurement, graphing, vectors, equations, modeling, data analysis, and quantitative reasoning support. |
-| Common Core Literacy in Science and Technical Subjects | Common Core literacy support references when needed for science reading/writing alignment | Support only; not a replacement for Florida Physics benchmarks. |
-| ACT readiness | Official ACT College and Career Readiness Standards, Science | Support for data interpretation, scientific investigation, model evaluation, and evidence reasoning. |
-| SAT readiness | Official College Board Digital SAT Suite framework / SAT data and evidence expectations | Support for command of evidence, graphics, quantitative information, and synthesis across text/data. |
+| Course program | Signed-in Savvas *Experience Physics* course | Controls investigation sequence, Experience titles, in-course phenomena, evaluations, Engineering Workbench tasks, and instructional resources. |
+| Florida course correlation | Savvas Florida Physics 1 Course Standards Correlation | Controls the benchmark inventory and identifies locations of Inquiry Labs, CER, Analyzing Data, PhET Simulation, Explain Video, Modeling, Investigation Assessment, Virtual Lab PBA, and Engineering Workbench resources. |
+| Florida standards | CPALMS / Florida `SC.912.*`, embedded B.E.S.T. ELA, and MTR records | Controls content, literacy, and mathematical-reasoning alignment. |
+| Readiness frameworks | Official ACT Science and College Board SAT frameworks | Supports data interpretation, investigation, model evaluation, command of evidence, graphics, and quantitative reasoning. |
 
 ## Architecture Gate
 
-Lesson development, assessment development, Moodle XML production, or Moodle transfer must not begin until this mapping is reviewed against:
+Lesson or assessment production must use this file together with:
 
-- `PHASE_2A_A_2_MLA_STANDARD_INVENTORY.md`
-- `PHASE_2A_B_CROSSWALK_DRAFT.md`
-- `PHASE_3A_B_1_UNIT_LEVEL_MAPPING.md`
-- `PHASE_3A_B_2_LESSON_LEVEL_MAPPING.md`
-- `PHYSICS_LAB_AND_VIRTUAL_LAB_MATRIX.md`
-- `.codex/standards/16-science-lab-and-virtual-lab-standard.md`
+- `Physics_Phase_2A_Crosswalk_Draft.md`
+- `Physics_Phase_3A_A_Mapping_Framework.md`
+- `Physics_Phase_3A_B_1_Unit_Level_Mapping.md`
+- `Physics_Phase_3A_B_2_Lesson_Level_Mapping.md`
 
-If a lesson below identifies a required visual, data display, equation model, vector diagram, force diagram, ray diagram, circuit diagram, investigation, or simulation review, the lesson developer and assessment developer must treat it as required unless the main agent documents a standards-based reason for excluding it.
+MLA Physics standard codes will be added after those standards are formally authored.
 
 ## Unit-Level Lab and Visual Requirement Matrix
 
-| Unit | Required Lab/Data Focus | Required Visuals/Models/Data Displays | Simulation or Virtual Lab Review | Safety Notes | Assessment Stimulus Requirement |
+| Unit | Required Lab/Data Focus | Required Visuals/Models/Data Displays | Savvas Review Requirement | Safety Notes | Assessment Stimulus Requirement |
 |---|---|---|---|---|---|
-| Unit 1 | Inquiry, lab safety, measurement, graphing, precision/error, scalar/vector reasoning, position, velocity, acceleration | Safety diagrams, measurement tools, data tables, motion graphs, vector diagrams, reference-frame models | Required for graphing, vector representation, and kinematics | No moving-object physical investigation unless safe and supervised; virtual/video data preferred | Include motion graphs, vector diagrams, measurement tables, and reference-frame scenarios |
-| Unit 2 | Force interactions, Newton's laws, gravity, Earth-Moon-Sun mechanics, momentum interactions, fundamental forces | Free-body diagrams, force interaction diagrams, force-mass-acceleration data, gravity graphs, orbital models, collision data | Required for forces, gravity, orbital systems, and collisions | No collision/drop/force apparatus without TOR-approved controls; virtual data preferred | Include force diagrams, system diagrams, gravity data, orbital models, and collision/momentum data |
-| Unit 3 | Energy forms, transformations, conservation, work, power, thermal systems, momentum conservation | Energy flow diagrams, system boundary models, work/power data tables, thermal particle diagrams, before/after collision tables | Required for energy conservation, work/power, thermal models, and collisions | Avoid heat/impact experiments without TOR approval; use simulations/data/models | Include energy diagrams, work/power tables, thermal models, and momentum conservation data |
-| Unit 4 | Wave properties, media, sound/frequency shifts, electromagnetic spectrum, reference frames, optics | Wave graphs, medium comparison models, Doppler diagrams, EM spectrum charts, ray diagrams, lens/mirror diagrams | Required for waves, Doppler effect, EM spectrum, ray optics, lenses, and mirrors | Use simulations/models; do not require lasers, lenses, mirrors, or sound-level tools without approval | Include wave data, spectrum charts, Doppler scenarios, ray diagrams, and lens/mirror stimuli |
-| Unit 5 | Static charge, electric fields, materials, circuits, power, electromagnetism, technology systems | Charge diagrams, field-line diagrams, conductor/insulator tables, circuit diagrams, current-voltage-resistance data, power tables, device system models | Required for charge, fields, circuits, power, and electromagnetism | No physical circuits/electrical devices without TOR-approved controls; virtual circuits preferred | Include field models, circuit diagrams, Ohm's law data, power tables, and device/system diagrams |
-| Unit 6 | Cosmic-scale systems, forces at scale, atomic models, modern physics, reference frames, theories/laws, reliability, applied decisions | Scale models, cosmic system diagrams, atomic model timelines, reference-frame diagrams, model/theory/law comparison tables, evidence decision matrices | Required for cosmic-scale models, atomic model history, reference frames, and applied decisions | Use data/model-based investigations only; no unsafe physical activities | Include cosmic/scale models, atomic evidence tables, reference-frame scenarios, and claims/source stimuli |
+| 1 | Motion measurement; vector/data analysis; acceleration; force/mass trials; friction and system forces | Motion maps; vector diagrams; position/velocity/acceleration graphs; free-body diagrams; `F=ma` models | Review Inv. 1–2 phenomena, Experiences, Inquiry Labs, PhET, Modeling, evaluations, Virtual Lab PBA, and Engineering Workbench | Use low-energy motion setups; secure ramps/carts; no uncontrolled projectiles or human-impact trials | Graphs, motion diagrams, vector components, free-body diagrams, force data |
+| 2 | Inverse-square data; orbit models; electrostatics; field mapping; magnetism and induction | Orbit diagrams; force-vs-distance graphs; electric/magnetic field maps; circuit/current and induction diagrams | Review Inv. 3–5 Experiences, PhET simulations, Inquiry Labs, CER, data tasks, evaluations, and Engineering Workbench | No mains electricity, high voltage, strong magnets near devices/medical equipment, or unsafe suspended masses | Inverse-square graph, orbit model, field map, Coulomb data, induction evidence |
+| 3 | Atomic/material models; conductivity/property data; work/power and energy-conservation investigations | Atomic models; structure-property tables; energy bar charts; work/power tables; system diagrams | Review Inv. 6–7 Experiences, Inquiry Labs, PhET, Explain Videos, evaluations, Virtual Lab PBA, and Engineering Workbench | No unknown materials, high loads, hot materials, or unsafe mechanical lifting | Atomic/material model, property table, work-energy data, conservation diagram |
+| 4 | Momentum/collision data; thermal transfer; circuit measurement; power and resource data | Impulse graphs; momentum tables; particle/heat-flow models; circuit schematics; power and efficiency graphs | Review Inv. 8–10 Experiences, labs, data tasks, PhET, CER, evaluations, Virtual Lab PBA, and Engineering Workbench | Low-energy collisions only; no hot plates, flames, mains voltage, exposed conductors, or pressure hazards without approval | Collision table/graph, thermal curve, heat-transfer diagram, circuit/power data, source comparison |
+| 5 | Wave measurement; refraction/optics; spectra; signal encoding; sensors and transmission | Wave graphs; ray diagrams; EM spectrum; duality models; binary/sampling graphs; sensor/system diagrams | Review Inv. 11–13 Experiences, Inquiry Labs, PhET, CER, Analyzing Data, Peer Review, evaluations, and Engineering Workbench | No lasers directed at eyes, intense UV/IR sources, unsafe sound levels, or unapproved optical/radiation devices | Wave graph, ray diagram, spectrum, signal/data display, instrumentation model |
+| 6 | Nuclear/decay data; half-life and dating; solar/stellar spectra; H-R diagrams; redshift and cosmology evidence | Nuclear and force-scale models; decay curves; isotope tables; geologic timeline; H-R diagram; spectra/redshift graphs | Review Inv. 14–16 Experiences, PhET, CER, Analyzing Data, evaluations, Virtual Lab PBA, and Engineering Workbench | No radioactive sources or radiation-producing equipment; use simulations, public data, and models | Nuclear model, decay/dating data, stellar graph/spectrum, cosmology evidence set |
 
-## Lesson-Level Lab, Visual, Simulation, and Resource Matrix
+## Lesson-Level Resource Matrix
 
-| Unit | Lesson | Lesson Title | Required Lab/Data/Investigation Planning | Required Visuals/Models/Data Displays | Required or Recommended Exact Direct Resource Location | Assessment Stimulus Needed |
+| Unit | Lesson | Lesson Title | Required Investigation/Data Planning | Required Visuals / Equations / Displays | Savvas Resource Review | Assessment Stimulus |
 |---|---:|---|---|---|---|---|
-| 1 | 01 | Physics as a Science | Physics inquiry and evidence investigation | CER organizer; evidence table | CPALMS resources; OpenStax College Physics; PhET introductory activities | Evidence/claim table |
-| 1 | 02 | Lab Safety, Tools, and Measurement | Safety, measurement, and tool-selection investigation | Apparatus/safety diagrams; measurement table | CPALMS resources; OpenStax College Physics; NSTA safety resources | Safety scenario and measurement/tool diagram |
-| 1 | 03 | Data Tables, Graphs, and Models | Graphing/data/model investigation | Data table; line graph; model diagram | PhET; Concord Consortium; OpenStax College Physics | Data table and graph |
-| 1 | 04 | Precision, Error, and Evidence | Measurement uncertainty and error analysis | Repeated-measurement table; error model | OpenStax College Physics; CK-12; Concord data resources | Measurement/error data |
-| 1 | 05 | Scalars, Vectors, and Units | Vector/scalar representation investigation | Vector arrows; unit table; quantity classification chart | CK-12; OpenStax College Physics | Vector/scalar diagram |
-| 1 | 06 | Position and Velocity | Position-time/velocity-time graph investigation | Position-time graph; velocity-time graph; reference-frame diagram | PhET Moving Man; video-analysis data; OpenStax | Motion graph stimulus |
-| 1 | 07 | Acceleration and Motion Models | Acceleration and motion model investigation | Motion graphs; acceleration model | PhET Moving Man; CK-12; OpenStax | Acceleration graph/model |
-| 1 | 08 | Putting It All Together | Unit synthesis across inquiry, safety, measurement, vectors, and kinematics | Mixed stimuli: measurement table, motion graph, vector diagram, reference frame | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
-| 2 | 01 | Force Interactions | Force interaction model investigation | Interaction diagram; free-body diagram | PhET Forces and Motion; OpenStax College Physics | Force diagram |
-| 2 | 02 | Newton's First and Second Laws | Force-mass-acceleration data investigation | F = ma table/graph; free-body diagram | PhET Forces and Motion; OpenStax | Force/data graph |
-| 2 | 03 | Newton's Third Law and System Interactions | Paired-force interaction investigation | Action-reaction pair diagram; system diagram | PhET Forces and Motion; CK-12 | Interaction diagram |
-| 2 | 04 | Gravity and Mass-Distance Relationships | Gravity data/model investigation | Mass-distance-force graph; gravity model | PhET Gravity Force Lab; NASA resources; OpenStax | Gravity graph/model |
-| 2 | 05 | Earth, Moon, and Sun Mechanics | Orbital motion model investigation | Orbital model; force/motion diagram | NASA; PhET Gravity and Orbits; OpenStax | Orbital model |
-| 2 | 06 | Momentum as a Force Interaction | Collision/momentum interaction investigation | Before/after collision table; momentum model | PhET Collision Lab; OpenStax | Collision data/model |
-| 2 | 07 | Fundamental Forces | Fundamental force comparison investigation | Range/magnitude comparison chart | OpenStax College Physics; CERN/NASA educational resources | Force comparison chart |
-| 2 | 08 | Putting It All Together | Unit synthesis across Newton's laws, gravity, momentum, and fundamental forces | Mixed stimuli: free-body diagram, gravity graph, orbital model, collision data | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
-| 3 | 01 | Forms of Energy | Energy classification/model investigation | Energy form chart; system diagram | PhET Energy Skate Park; OpenStax | Energy model/chart |
-| 3 | 02 | Energy Transformations | Energy transformation investigation | Energy flow diagram; transformation table | PhET Energy Skate Park; OpenStax | Energy transformation diagram |
-| 3 | 03 | Conservation of Energy | Conservation/system boundary investigation | Open/closed/isolated system models; energy bar chart | PhET Energy Skate Park; OpenStax | Conservation model/data |
-| 3 | 04 | Work | Work data/calculation investigation | Force-distance table; work equation organizer | OpenStax; CK-12 | Work data table |
-| 3 | 05 | Power | Power rate data investigation | Work-time-power table; comparison graph | OpenStax; CK-12 | Power data table |
-| 3 | 06 | Heat, Temperature, and Matter States | Thermal model and particle-motion investigation | Particle motion diagrams; temperature/kinetic energy model | PhET States of Matter; OpenStax | Thermal particle model |
-| 3 | 07 | Momentum Conservation in Energy Systems | Momentum conservation collision investigation | Before/after momentum table; system model | PhET Collision Lab; OpenStax | Momentum data table |
-| 3 | 08 | Putting It All Together | Unit synthesis across energy, work, power, thermal systems, and momentum | Mixed stimuli: energy diagram, work/power data, thermal model, collision table | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
-| 4 | 01 | Wave Properties | Wave variable investigation | Wavelength/frequency/amplitude diagram; wave data table | PhET Wave on a String; OpenStax | Wave diagram/data |
-| 4 | 02 | Waves Across Media | Wave medium comparison investigation | Medium comparison model; wave speed data | PhET Wave Interference; OpenStax | Medium comparison model |
-| 4 | 03 | Sound and Frequency Shifts | Doppler/frequency shift investigation | Source-observer diagram; frequency data | PhET Sound; OpenStax | Doppler scenario/model |
-| 4 | 04 | Electromagnetic Waves | EM spectrum analysis | EM spectrum chart; wavelength-frequency-energy table | NASA EM spectrum; OpenStax | EM spectrum chart |
-| 4 | 05 | Light Speed and Frames of Reference | Reference-frame model investigation | Frame-of-reference diagram; light-speed scenario | OpenStax; NASA/ESA educational resources | Reference-frame scenario |
-| 4 | 06 | Reflection, Refraction, and Ray Diagrams | Ray diagram investigation | Reflection/refraction ray diagrams | PhET Bending Light; OpenStax | Ray diagram |
-| 4 | 07 | Lenses, Mirrors, and Image Location | Lens/mirror image investigation | Lens/mirror ray diagrams; image-distance table | PhET Geometric Optics; OpenStax | Lens/mirror diagram |
-| 4 | 08 | Putting It All Together | Unit synthesis across waves, sound, EM waves, reference frames, and optics | Mixed stimuli: wave graph, EM chart, ray diagram, lens/mirror data | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
-| 5 | 01 | Static Charge | Charge interaction investigation | Charge configuration diagram | PhET Balloons and Static Electricity; OpenStax | Charge interaction diagram |
-| 5 | 02 | Electric Fields and Potential | Electric field/potential model investigation | Field-line diagram; potential energy model | PhET Charges and Fields; OpenStax | Field model |
-| 5 | 03 | Conductors, Semiconductors, and Insulators | Material behavior classification investigation | Material classification table; electron model | OpenStax; CK-12 | Material classification table |
-| 5 | 04 | Current, Voltage, and Resistance | Circuit variable data investigation | Circuit diagram; current-voltage-resistance table | PhET Circuit Construction Kit; OpenStax | Circuit diagram/data |
-| 5 | 05 | Power in Circuits | Circuit power data investigation | Power equation organizer; energy-use table | PhET Circuit Construction Kit; OpenStax | Circuit power table |
-| 5 | 06 | Electromagnetism in Devices | Electromagnetic device model investigation | Motor/generator/device system diagram; field model | PhET Faraday's Law; OpenStax | Device/field diagram |
-| 5 | 07 | Circuit and Technology Systems | Circuit/technology system analysis | Series/parallel circuit diagram; system data | PhET Circuit Construction Kit; OpenStax | Technology system/circuit stimulus |
-| 5 | 08 | Putting It All Together | Unit synthesis across charge, fields, materials, circuits, power, and devices | Mixed stimuli: charge model, field diagram, circuit data, device system | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
-| 6 | 01 | Matter in the Universe | Cosmic matter pattern investigation | Matter distribution model; scale diagram | NASA; OpenStax Astronomy/Physics; CPALMS resources | Cosmic scale/model stimulus |
-| 6 | 02 | Physical Forces at Cosmic Scale | Cosmic force/scale model investigation | Force-at-scale diagram; comparison table | NASA; OpenStax; PhET gravity resources | Scale/force model |
-| 6 | 03 | Atomic Models and Evidence | Atomic model evidence investigation | Atomic model timeline; evidence table | OpenStax; PhET Rutherford Scattering; CK-12 | Atomic model evidence table |
-| 6 | 04 | Modern Physics and Reference Frames | Reference-frame investigation | Reference-frame diagram; scenario table | OpenStax; NASA/ESA resources | Reference-frame stimulus |
-| 6 | 05 | Models, Theories, and Laws | Nature-of-science comparison investigation | Model/theory/law comparison chart | CPALMS resources; OpenStax | Comparison table |
-| 6 | 06 | Science, Reliability, and Change | Reliability and source evidence investigation | Replication/reliability evidence table | CPALMS resources; NASA/NOAA/official science agencies | Claims/source table |
-| 6 | 07 | Physics-Informed Decisions | Applied physics decision investigation | Benefit/risk/evidence organizer; technology data | NASA; DOE; NIST; OpenStax | Decision/source/data stimulus |
-| 6 | 08 | Putting It All Together | Unit synthesis across cosmic systems, atomic models, modern physics, and applied decisions | Mixed stimuli: cosmic model, atomic evidence, reference-frame scenario, claims table | Use exact direct resources and embedded sources from Lessons 1-7 only | Unit-level mixed stimuli |
+| 1 | 01 | Displacement and Velocity | Motion measurement and frame-of-reference data | Motion map; vectors; `v=Δx/Δt`; position-time graph | Inv. 1 Exp. 1 content, lab/data/modeling, Math Support | Motion map or graph |
+| 1 | 02 | Acceleration | Velocity-time trials and slope analysis | Velocity/acceleration graphs; `a=Δv/Δt` | Inv. 1 Exp. 2 lab, PhET/modeling, Explain Video | Motion-data graph |
+| 1 | 03 | Circular and Projectile Motion | Two-dimensional motion/model comparison | Component vectors; trajectory and circular-motion diagrams | Inv. 1 Exp. 3 simulation/modeling and evaluation | Vector/trajectory model |
+| 1 | 04 | Force, Mass, and Acceleration | Controlled mass-force-acceleration trials | Free-body diagram; `ΣF=ma`; data table | Inv. 2 Exp. 1 Inquiry Lab/PhET/data task | Force-mass data |
+| 1 | 05 | Types of Forces | Force identification and diagram critique | Force taxonomy; free-body diagrams | Inv. 2 Exp. 2 models/Explain Video | Force scenario/diagram |
+| 1 | 06 | Forces on Systems | System-boundary and interaction analysis | System diagram; force pairs; net-force equation | Inv. 2 Exp. 3 lab/modeling/CER | System/free-body model |
+| 1 | 07 | Earth's Surface Forces | Friction/slope data or safe virtual investigation | Incline diagram; friction/normal-force data | Inv. 2 Exp. 4 resources and Engineering Workbench | Applied force-data scenario |
+| 1 | 08 | Putting It All Together | Mixed motion-and-force synthesis | Graphs, vectors, free-body diagrams, equations | Reuse Inv. 1–2 taught resources only | Unit mixed-stimulus set |
+| 2 | 01 | Universal Gravitation | Force-vs-mass/distance data analysis | `F=Gm₁m₂/r²`; inverse-square graph | Inv. 3 Exp. 1 PhET/data/modeling | Gravity data/graph |
+| 2 | 02 | Orbital Motion | Orbit simulation or centripetal/gravity model | Orbit/free-body diagram; speed-radius evidence | Inv. 3 Exp. 2 Inquiry Lab/PhET/Explain Video | Orbit model/data |
+| 2 | 03 | Kepler's Laws | Planetary-period and orbital-radius analysis | Ellipse model; period-radius table/graph | Inv. 3 Exp. 3 data/modeling resources | Orbital-data table |
+| 2 | 04 | Coulomb's Law | Charge/distance force trials or simulation | `F=kq₁q₂/r²`; force graph | Inv. 4 Exp. 1 PhET/CER/modeling | Coulomb data |
+| 2 | 05 | Electric Fields | Field mapping and potential model | Field-line maps; potential/energy diagram | Inv. 4 Exp. 2 simulation/modeling | Electric-field map |
+| 2 | 06 | Electric Current | Current measurement in safe virtual/low-voltage circuit | Charge-flow diagram; current data | Inv. 4 Exp. 3 lab/PhET; circuit Math Support | Circuit/current table |
+| 2 | 07 | Magnetic Forces and Fields | Magnetic-field mapping/model investigation | Field map; force-direction diagram | Inv. 5 Exp. 1 lab/modeling/Explain Video | Magnetic-field model |
+| 2 | 08 | Inducing Magnetism | Variable-based induction investigation | Coil/core diagram; field-strength table | Inv. 5 Exp. 2 lab or simulation | Induction setup/data |
+| 2 | 09 | Inducing Current | Magnet-coil motion and induced-current data | Generator diagram; current-vs-motion graph | Inv. 5 Exp. 3 PhET/CER/Engineering Workbench | Induced-current graph |
+| 2 | 10 | Putting It All Together | Compare gravitational, electric, magnetic fields | Field maps, inverse-square graphs, induction model | Reuse Inv. 3–5 taught resources only | Unit mixed-stimulus set |
+| 3 | 01 | Atoms and Atomic Structure | Atomic-model evidence comparison | Atomic-model timeline; nuclear diagram | Inv. 6 Exp. 1 PhET/modeling/Explain Video | Model/evidence table |
+| 3 | 02 | Attractive and Repulsive Forces | Particle/force model investigation | Attraction-repulsion diagram; force-scale model | Inv. 6 Exp. 2 simulation/modeling | Force model |
+| 3 | 03 | Material Properties | Conductivity/state/property data classification | Structure-property table; particle models | Inv. 6 Exp. 3 lab/data resources | Property-data table |
+| 3 | 04 | Structure and Function | Material selection/design evidence | Microstructure model; criteria/tradeoff matrix | Inv. 6 Exp. 4 Engineering Workbench/CER | Design evidence matrix |
+| 3 | 05 | Classifying Energy and Work | Work/energy classification and measurement | Energy-form chart; `W=Fd`; power relation | Inv. 7 Exp. 1 resources/Math Support | Work-energy table |
+| 3 | 06 | Mechanical Energy | Kinetic/potential energy data/model | `KE=½mv²`; `PE=mgh`; energy bars | Inv. 7 Exp. 2 Inquiry Lab/PhET | Energy graph/calculation |
+| 3 | 07 | Conservation of Energy | Open/closed/isolated system investigation | Energy-flow/system diagram; conservation equation | Inv. 7 Exp. 3 CER/modeling/evaluation | Energy-system model |
+| 3 | 08 | Putting It All Together | Materials and work-energy synthesis | Atomic/material model, data, energy bars | Reuse Inv. 6–7 taught resources only | Unit mixed-stimulus set |
+| 4 | 01 | Momentum and Impulse | Force-time and momentum-change data | `p=mv`; `J=FΔt=Δp`; impulse graph | Inv. 8 Exp. 1 lab/PhET/data | Force-time graph |
+| 4 | 02 | Conservation of Momentum | Low-energy or virtual collision trials | Before/after momentum table; system diagram | Inv. 8 Exp. 2 simulation/modeling | Collision data |
+| 4 | 03 | Collisions in Earth's Crust | Geophysical collision/model evidence | Plate/block model; momentum/energy comparison | Inv. 8 Exp. 3 data/CER | Earth-collision model |
+| 4 | 04 | Temperature | Particle-motion and temperature data | Particle model; temperature-kinetic graph | Inv. 9 Exp. 1 PhET/data | Particle/data graph |
+| 4 | 05 | Thermal Equilibrium and Heat Flow | Safe heat-transfer data or virtual lab | Conduction/convection/radiation diagrams; heating curve | Inv. 9 Exp. 2 lab/PhET | Heat-flow data |
+| 4 | 06 | Heat Flow Within Earth | Earth heat-flow model/data analysis | Mantle convection and heat-flux diagrams | Inv. 9 Exp. 3 model/Explain Video | Earth heat-flow model |
+| 4 | 07 | Electric Potential | Potential difference and energy model | Potential map; `ΔU=qΔV` | Inv. 10 Exp. 1 simulation/Math Support | Potential diagram |
+| 4 | 08 | Energy in Electric Circuits | Low-voltage or virtual circuit investigation | Circuit schematic; Ohm/power relations; data table | Inv. 10 Exp. 2 Inquiry Lab/PhET | Circuit data/schematic |
+| 4 | 09 | Power Generation | Generator and energy-transformation analysis | Generator/system diagram; energy-flow chart | Inv. 10 Exp. 3 Engineering Workbench/video | Power-generation model |
+| 4 | 10 | Energy Resources and Conservation | Source/efficiency/cost data comparison | Efficiency graph; resource tradeoff table | Inv. 10 Exp. 4 CER/data/resources | Source/data comparison |
+| 4 | 11 | Putting It All Together | Momentum-thermal-electrical synthesis | Collision, thermal, circuit, and source stimuli | Reuse Inv. 8–10 taught resources only | Unit mixed-stimulus set |
+| 5 | 01 | Properties of Waves | Frequency/wavelength/amplitude measurements | Wave graph; `v=fλ`; data table | Inv. 11 Exp. 1 Inquiry Lab/PhET | Wave graph/data |
+| 5 | 02 | Wave Behavior and Energy | Reflection/refraction/interference/Doppler investigation | Behavior diagrams; frequency-shift graph | Inv. 11 Exp. 2 simulation/modeling | Wave-behavior model |
+| 5 | 03 | Wave Optics | Safe ray tracing or virtual optics lab | Ray diagrams; mirror/lens equations | Inv. 11 Exp. 3 PhET/Math Support | Ray diagram |
+| 5 | 04 | Electromagnetic Waves and Their Properties | Spectrum data and wave-relation analysis | EM spectrum; wavelength-frequency-energy table | Inv. 12 Exp. 1 simulation/Explain Video | Spectrum/data |
+| 5 | 05 | Particle-Wave Duality | Competing-model evidence analysis | Wave/particle comparison; experiment diagram | Inv. 12 Exp. 2 CER/modeling | Model/evidence comparison |
+| 5 | 06 | EM Radiation and Matter | Absorption/transmission/reflection data | Interaction diagram; exposure/risk table | Inv. 12 Exp. 3 Analyzing Data/resources | Radiation-matter data |
+| 5 | 07 | Digital Information | Sampling/encoding/noise investigation | Analog/digital graph; binary/sampling table | Inv. 13 Exp. 1 PhET/Inquiry Lab/Peer Review | Signal/data display |
+| 5 | 08 | Capturing and Transmitting Information | Sensor/optics/communication system analysis | Block diagram; lens/sensor/signal model | Inv. 13 Exp. 2 Engineering Workbench | Instrument/system model |
+| 5 | 09 | Capturing and Transmitting Energy | Energy capture/transfer efficiency comparison | Energy-flow and efficiency diagrams | Inv. 13 Exp. 3 resources/evaluation | Energy-system data |
+| 5 | 10 | Putting It All Together | Wave-radiation-information synthesis | Graph, ray diagram, spectrum, signal model | Reuse Inv. 11–13 taught resources only | Unit mixed-stimulus set |
+| 6 | 01 | Nuclear Particles | Nuclear-model and particle classification | Nuclear diagram; particle/property table | Inv. 14 Exp. 1 PhET/modeling | Nuclear model/table |
+| 6 | 02 | Nuclear Forces | Force-range and stability model analysis | Fundamental-force scale; binding/stability diagram | Inv. 14 Exp. 2 model/Explain Video | Force-scale model |
+| 6 | 03 | Fission and Fusion | Reaction/energy data comparison | Fission/fusion diagrams; mass-energy table | Inv. 14 Exp. 3 PhET/CER/Engineering Workbench | Comparison/data |
+| 6 | 04 | Radioactive Decay | Simulated decay trials and half-life graphing | Decay curve; isotope table | Inv. 15 Exp. 1 PhET/simulation | Decay graph |
+| 6 | 05 | Radiometric Dating | Parent-daughter data calculations | Half-life equation/model; dating table | Inv. 15 Exp. 2 Analyzing Data/Math Support | Isotope-age data |
+| 6 | 06 | Geologic Time | Multiple-source evidence synthesis | Geologic timeline; uncertainty/evidence table | Inv. 15 Exp. 3 CER/Virtual Lab PBA | Evidence set/timeline |
+| 6 | 07 | The Sun | Solar structure/energy/spectrum analysis | Solar layers; fusion/energy-flow diagram | Inv. 16 Exp. 1 resources/modeling | Solar model/data |
+| 6 | 08 | Stars | Stellar spectra and H-R diagram investigation | H-R diagram; spectrum; luminosity/temperature data | Inv. 16 Exp. 2 Analyzing Data/PhET | H-R/spectral data |
+| 6 | 09 | The Big Bang | Redshift/background-radiation evidence analysis | Expansion model; redshift graph; evidence table | Inv. 16 Exp. 3 CER/modeling/Explain Video | Cosmology evidence set |
+| 6 | 10 | Putting It All Together | Nuclear-to-cosmic synthesis | Nuclear, decay, dating, stellar, cosmology stimuli | Reuse Inv. 14–16 taught resources only | Unit mixed-stimulus set |
 
-## Resource Approval Controls
+## Direct Resource and Student-Use Direction Controls
 
-- Candidate resources are not automatically approved for embedding.
-- The resource auditor must verify each candidate is free for student access, age-appropriate, stable, and aligned to the exact lesson standard.
-- The main agent must ask for user approval before inserting external links into lesson files.
-- If a resource requires login, payment, special hardware, unsafe equipment, mature content, or non-public access, reject it unless explicitly approved.
-- Lessons must include all required context, data, diagrams, equations, models, tables, or instructions directly in the lesson or Moodle XML item. Students must not be forced to hunt elsewhere to understand the task.
+- Savvas resources are signed-in course resources. Lesson files must name the exact pathway: **Investigation → Experience → resource title/type**. Do not use vague directions such as “find the simulation.”
+- For every Savvas lab, PhET simulation, virtual lab, data task, or Engineering Workbench activity, provide adjacent steps stating what to open, what controls or sections to use, what variables to change, what evidence to record, and how the evidence supports the benchmark.
+- When a Savvas resource is unavailable outside the licensed course, lessons must contain enough context, data, diagrams, equations, and instructions for students to understand the task; do not expose or reproduce copyrighted Savvas content beyond permitted use.
+- External resources may supplement but not replace the mapped Savvas Experience. Use exact direct student links only after verifying public access, age appropriateness, safety, and alignment.
+- Assessment items must embed their required graphs, diagrams, tables, equations, or source excerpts rather than requiring students to hunt through the course.
 
 ## Safety Controls
 
-Physics lab planning must default to safe virtual labs, simulations, public data sets, teacher-provided data, videos, models, or paper/data investigations unless a physical activity is explicitly approved.
-
-Do not require students to use electricity, circuits, heat, moving projectiles, falling objects, lasers, lenses, mirrors, magnets, heavy objects, sound-level tools, or household experiments without TOR/school-approved safety controls.
+- Use low-energy, classroom-safe motion and collision setups; prohibit launches toward people or property.
+- Use batteries or approved low-voltage supplies only. Never direct students to use mains electricity, improvised high voltage, exposed conductors, or damaged components.
+- Keep strong magnets away from medical devices, magnetic storage, electronics, and pinch hazards.
+- Do not use unapproved lasers, intense ultraviolet/infrared sources, radioactive materials, radiation-producing equipment, flames, hot plates, pressure vessels, or uncontrolled heat sources.
+- Prefer Savvas virtual labs, PhET simulations, teacher-provided data, and models whenever physical controls cannot be verified.
 
 ## Architecture Validation
 
 | Requirement | Status |
 |---|---|
-| Official CPALMS Physics 1 source identified | PASS |
-| Florida course number identified | PASS |
-| Florida science benchmark source identified | PASS |
-| Florida B.E.S.T. / ELA support source use bounded | PASS |
-| Common Core support use bounded | PASS |
-| ACT Science readiness support identified | PASS |
-| SAT evidence/data support identified | PASS |
-| Unit-level lab/data requirements mapped | PASS |
-| Unit-level visual/model/data-display requirements mapped | PASS |
-| Lesson-level lab/data/investigation requirements mapped | PASS |
-| Lesson-level simulation/virtual lab review needs mapped | PASS |
-| Candidate resource locations documented for direct-link review | PASS |
+| All six units mapped at resource level | PASS |
+| All 57 lessons mapped at resource level | PASS |
+| All 51 Savvas Experiences represented | PASS |
+| Inquiry/data/model requirements mapped | PASS |
+| Visual/equation/data-display requirements mapped | PASS |
+| Savvas simulation and resource review required | PASS |
+| Exact in-course pathway and student-use directions required | PASS |
 | Assessment stimulus needs identified | PASS |
-| Lesson production still blocked until this matrix is used by lesson developers | PASS |
+| Physics-specific safety boundaries stated | PASS |
+| MLA standard codes deferred until standards creation | PASS |
 
 ## Final Decision
 
-Physics architecture is approved to proceed to lesson and assessment audit only after all future Physics agents use this file as a required source of truth.
+Physics architecture may proceed to MLA standards creation and subsequent lesson/assessment production only when future work uses this matrix as a required source of truth.
+

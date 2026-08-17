@@ -1,49 +1,48 @@
 # Physics Phase 3A-B-1: Unit-Level Mapping
 
+## Purpose
+
+This document maps the Physics architecture across six conceptually coherent units. Unit and lesson counts are determined by the course content and Savvas depth, not by a fixed template.
+
+This is architecture only. It does not create MLA standards, lesson content, assessments, HTML, JSON, legacy assessment-bank content, or LMS pages.
+
 ## Required Companion Mapping
 
-The unit-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
+Use this document with `Physics_Phase_3A_B_3_Lab_Visual_Simulation_Resource_Mapping.md`. The companion file controls required labs, investigations, simulations, visuals, models, equations, data displays, safety notes, Savvas resource review, and assessment stimuli.
 
-That companion file identifies the required labs, investigations, simulations, virtual labs, visuals, models, diagrams, equations, data displays, safety notes, candidate resource locations, and assessment stimuli for each unit and lesson. Lesson development, assessment development, Moodle XML production, and Moodle transfer must not proceed from this file alone.
+## Unit-Level Standards Map
+
+| Unit | Unit Title | Savvas Source | Primary Florida Alignment | Lab/Data Emphasis | Unit Assessment Evidence |
+|---|---|---|---|---|---|
+| 1 | Motion and Newtonian Forces | Investigations 1–2; 7 Savvas Experiences | `SC.912.P.12.1`; `SC.912.P.12.2`; `SC.912.P.12.3` | Motion diagrams; vectors; position/velocity/acceleration graphs; force measurements; free-body diagrams; system models | Analyze a motion-and-force scenario using graphs, vectors, Newton's laws, and evidence. |
+| 2 | Gravitational, Electric, and Magnetic Fields | Investigations 3–5; 9 Savvas Experiences | `SC.912.E.5.6`; `SC.912.P.12.4`; `SC.912.P.10.10`; `SC.912.P.10.13`; supporting `SC.912.P.10.15` and `SC.912.P.10.18` | Inverse-square data; orbit models; field maps; Coulomb data; magnetic-field models; induction data | Compare gravitational, electric, and magnetic interactions and apply field models to evidence. |
+| 3 | Matter, Materials, Work, and Energy | Investigations 6–7; 7 Savvas Experiences | `SC.912.P.8.1`; `SC.912.P.8.3`; `SC.912.P.10.1`; `SC.912.P.10.2`; `SC.912.P.10.3`; `SC.912.P.10.10`; `SC.912.P.10.14` | Atomic/material models; property data; work/power calculations; energy bar charts; conservation models | Explain material behavior and solve work-energy problems using models and conservation. |
+| 4 | Momentum, Thermal Systems, and Electrical Energy | Investigations 8–10; 10 Savvas Experiences | `SC.912.P.12.5`; `SC.912.P.10.1`; `SC.912.P.10.2`; `SC.912.P.10.4`; `SC.912.P.10.5`; `SC.912.P.10.13`; `SC.912.P.10.15` | Collision data; impulse/momentum graphs; thermal data; heat-flow models; circuit measurements; power/energy data | Use conservation and system models to analyze collisions, thermal transfer, circuits, and energy decisions. |
+| 5 | Waves, Radiation, Information, and Instrumentation | Investigations 11–13; 9 Savvas Experiences | `SC.912.P.10.18`; `SC.912.P.10.20`; `SC.912.P.10.21`; `SC.912.P.10.22`; supporting `SC.912.P.12.7` and `SC.912.P.12.9` | Wave data; reflection/refraction; ray diagrams; spectra; signal encoding; sensor/transmission models | Interpret wave, radiation, optics, and information stimuli to explain how energy and information are transmitted. |
+| 6 | Nuclear Physics, Geologic Time, and the Universe | Investigations 14–16; 9 Savvas Experiences | `SC.912.P.8.3`; `SC.912.P.10.1`; `SC.912.P.10.2`; `SC.912.P.10.10`; `SC.912.E.5.2`; supporting `SC.912.P.10.21`, `SC.912.P.12.7`, and `SC.912.P.12.9` | Nuclear models; decay data; half-life graphs; radiometric dating; stellar spectra; H-R diagrams; expansion evidence | Evaluate nuclear, geologic-time, stellar, and cosmological claims using models, quantitative evidence, and source reasoning. |
 
 ## Unit Mapping Detail
 
-| Unit | Title | Primary Standards | Support Standards | Lab/Data Emphasis | Unit Assessment Evidence |
-|---:|---|---|---|---|---|
-| 1 | Scientific Thinking, Measurement, and Motion | MLA.PHYS.SCI.01; MLA.PHYS.LAB.01; MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.MOT.01; MLA.PHYS.MOT.02 | MLA.PHYS.SCI.02; MLA.PHYS.SCI.03 | Lab safety, procedures, tools, measurement, units, variables, data tables, graphs, precision, error, scalar/vector representations, position, velocity, and acceleration data. | Unit Assessment synthesizes inquiry, lab safety, measurement, data displays, vector/scalar reasoning, and kinematics. |
-| 2 | Forces and Newtonian Mechanics | MLA.PHYS.FOR.01; MLA.PHYS.FOR.02; MLA.PHYS.FOR.03; MLA.PHYS.ENE.05 | MLA.PHYS.SCI.01; MLA.PHYS.LAB.02; MLA.PHYS.MOT.01; MLA.PHYS.MOT.02 | Force interaction models, Newton's laws investigations, mass/force/acceleration data, gravity and orbital models, collision evidence, and force-scale comparisons. | Unit Assessment synthesizes Newton's laws, gravitational/orbital systems, fundamental forces, and momentum interactions. |
-| 3 | Work, Energy, Momentum, and Thermal Systems | MLA.PHYS.ENE.01; MLA.PHYS.ENE.02; MLA.PHYS.ENE.03; MLA.PHYS.ENE.04; MLA.PHYS.ENE.05 | MLA.PHYS.SCI.01; MLA.PHYS.LAB.03; MLA.PHYS.FOR.01 | Energy-transfer models, conservation evidence, work and power calculations, thermal data, matter-state models, collision data, and uncertainty/error reasoning. | Unit Assessment synthesizes energy forms, conservation, work, power, heat, temperature, matter states, and momentum. |
-| 4 | Waves, Sound, Light, and Optics | MLA.PHYS.WAV.01; MLA.PHYS.WAV.02; MLA.PHYS.WAV.03; MLA.PHYS.WAV.04; MLA.PHYS.MOT.03 | MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.ENE.01 | Wave simulations, frequency/wavelength data, sound/light models, electromagnetic spectrum evidence, optics ray diagrams, lens/mirror models, and graph interpretation. | Unit Assessment synthesizes wave properties, Doppler shifts, EM spectrum, optics, and frame-of-reference concepts. |
-| 5 | Electricity, Magnetism, and Matter | MLA.PHYS.ELE.01; MLA.PHYS.ELE.02; MLA.PHYS.ELE.03; MLA.PHYS.ELE.04 | MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.WAV.03; MLA.PHYS.ENE.01 | Charge and field models, material classification evidence, circuit simulations, Ohm's law data, series/parallel circuit models, power data, and electromagnetic device analysis. | Unit Assessment synthesizes static electricity, fields, materials, circuits, power, and electromagnetic applications. |
-| 6 | Modern, Cosmic, and Applied Physics Systems | MLA.PHYS.APP.01; MLA.PHYS.APP.02; MLA.PHYS.SCI.02; MLA.PHYS.SCI.03 | MLA.PHYS.FOR.02; MLA.PHYS.FOR.03; MLA.PHYS.MOT.03; MLA.PHYS.ELE.04 | Cosmic-scale models, atomic model evidence, reference-frame models, reliability and claims analysis, technology-supported investigations, and final physics evidence synthesis. | Unit Assessment synthesizes cosmic-scale matter patterns, atomic models, modern physics ideas, models, laws, theories, and physics-informed decisions. |
+| Unit | Primary Content | Coursewide Support | Rationale |
+|---|---|---|---|
+| 1 | Kinematics, vectors, acceleration, circular/projectile motion, Newton's laws, force types, systems, surface forces | Nature of Science; B.E.S.T. evidence; MTR graphing/modeling; ACT-IOD/SIN; SAT data analysis | Motion representations and Newtonian dynamics form the prerequisite language for later physics. |
+| 2 | Universal gravitation, orbits, Kepler's laws, Coulomb's law, electric fields/current, magnetic fields, magnetism and current induction | Nature of Science models; MTR proportional/inverse-square reasoning; ACT-EMI; SAT evidence | The field sequence unifies action-at-a-distance interactions and transitions naturally into electromagnetism. |
+| 3 | Atomic structure, attractive/repulsive forces, material properties, structure/function, energy forms, work, mechanical energy, conservation | Nature of Science model revision; MTR calculations; technical reading | Microscopic forces explain materials; work and energy then provide a system-level account of change. |
+| 4 | Momentum, impulse, collisions, temperature, equilibrium, heat flow, electric potential, circuits, power generation, energy resources | Nature of Science decision-making; MTR quantitative reasoning; ACT-IOD/SIN/EMI | Conservation and systems reasoning connect mechanical, thermal, and electrical phenomena. |
+| 5 | Wave properties, behavior, optics, electromagnetic waves, duality, radiation/matter, digital information, capture/transmission | Model evaluation; diagrams; data/graphics; technical communication | The sequence moves from general wave behavior to light, radiation, information, and engineered instruments. |
+| 6 | Nuclear particles/forces, fission/fusion, decay, dating, geologic time, Sun, stars, Big Bang | Inference from indirect evidence; model limits; source evaluation; scale reasoning | The final unit synthesizes energy, forces, waves, models, and evidence across subatomic to cosmic scales. |
 
-## Unit Coverage Validation
+## Unit-Level Validation
 
-| Validation Item | Result |
+| Requirement | Status |
 |---|---|
-| Six units mapped | PASS |
-| Every unit has eight planned lessons | PASS |
-| Every MLA Physics standard appears in unit mapping | PASS |
-| Every unit primary standard is assigned for primary instruction in Lessons 1-7 | PASS |
-| Support standards are consistently treated as support unless explicitly listed as primary | PASS |
-| Lab/visual/simulation/resource companion matrix required | PASS |
-| Physics identity remains distinct from other science courses | PASS |
+| Six coherent units mapped | PASS |
+| All 16 Savvas investigations assigned | PASS |
+| All 51 Savvas Experiences assigned | PASS |
+| Variable lesson counts preserved | PASS |
+| Florida Physics 1 content inventory represented | PASS |
+| Lab, virtual lab, data, modeling, and engineering expectations represented | PASS |
+| Resource companion matrix required | PASS |
+| MLA standard codes intentionally deferred until MLA standards are authored | PASS |
+| Physics identity preserved | PASS |
 
-## Architecture Rationale
-
-Unit 6 is titled `Modern, Cosmic, and Applied Physics Systems` to keep SC.912.E.5.2 and SC.912.E.5.6 within Physics scope. Cosmic content is limited to matter distribution, physical forces, Newtonian relationships, model use, and evidence-based physics decisions.
-
-Momentum progression is intentional. Unit 2 uses momentum as a force-interaction and Newtonian mechanics concept. Unit 3 uses momentum conservation within energy systems and collisions. This keeps the standard coherent across both mechanics and conservation contexts.
-
-## Domain Coverage by Unit
-
-| Domain | Primary Unit Placement |
-|---|---|
-| SCI | Units 1 and 6 |
-| LAB | Unit 1, with support threading through Units 2-5 |
-| MOT | Units 1 and 4 |
-| FOR | Unit 2 |
-| ENE | Units 2 and 3 |
-| WAV | Unit 4 |
-| ELE | Unit 5 |
-| APP | Unit 6 |

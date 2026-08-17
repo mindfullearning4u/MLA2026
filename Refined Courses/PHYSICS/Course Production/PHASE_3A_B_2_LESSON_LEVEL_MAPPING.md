@@ -1,95 +1,89 @@
-﻿# Physics Phase 3A-B-2: Lesson-Level Mapping
+# Physics Phase 3A-B-2: Lesson-Level Mapping
 
 ## Purpose
 
-This document maps all 48 Physics lessons across six units. It identifies unit number, lesson number, lesson title, primary standards, support standards, lesson purpose, assessment evidence, and rationale.
+This document maps 57 Physics lessons across six units: 51 lessons anchored to every named Savvas Experience and six unit-synthesis lessons. Lesson counts vary with topic depth.
 
-This is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
+This is architecture only. It does not create MLA standards, lessons, assessments, HTML, JSON, legacy assessment-bank content, or LMS pages.
 
 ## Required Companion Mapping
 
-This lesson-level map must be used with `PHASE_3A_B_3_LAB_VISUAL_SIMULATION_MAPPING.md`.
-
-That companion file identifies, for every lesson, required lab/data/investigation planning, required visuals/models/equations/data displays, required or recommended exact direct resource locations, and required assessment stimuli. No Physics lesson, assessment, Moodle XML item, or Moodle transfer package is production-ready if it ignores that companion matrix.
+Use this map with `Physics_Phase_3A_B_3_Lab_Visual_Simulation_Resource_Mapping.md`. MLA Physics standard codes will be added after the standards are formally authored; until then, official Florida benchmarks control primary alignment.
 
 ## Lesson-Level Mapping
 
-| Unit | Lesson | Lesson Title | Primary Standards | Support Standards | Lesson Purpose | Assessment Evidence | Rationale |
+| Unit | Lesson | Savvas Anchor / Lesson Title | Primary Florida Standards | Support Standards | Lesson Purpose | Assessment Evidence | Rationale |
 |---|---:|---|---|---|---|---|---|
-| 1 | 01 | Physics as a Science | MLA.PHYS.SCI.01 | MLA.PHYS.SCI.02 | Establish physics inquiry, evidence, and investigation expectations. | Notebook evidence, guided practice, checkpoint, lesson quiz | Students need evidence rules before lab and quantitative physics work. |
-| 1 | 02 | Lab Safety, Tools, and Measurement | MLA.PHYS.LAB.01 | MLA.PHYS.SCI.01 | Apply lab safety, measurement tools, procedures, and apparatus expectations. | Safety/procedure evidence, guided practice, checkpoint, lesson quiz | Safe procedure is required for laboratory science. |
-| 1 | 03 | Data Tables, Graphs, and Models | MLA.PHYS.LAB.02 | MLA.PHYS.SCI.01 | Represent physical evidence using tables, graphs, diagrams, and models. | Data/model evidence, guided practice, checkpoint, lesson quiz | Physics depends on accurate representation of measurements and relationships. |
-| 1 | 04 | Precision, Error, and Evidence | MLA.PHYS.LAB.03 | MLA.PHYS.LAB.02 | Analyze precision, uncertainty, patterns, and evidence-based claims. | Data analysis evidence, guided practice, checkpoint, lesson quiz | Data limitations and patterns support valid conclusions. |
-| 1 | 05 | Scalars, Vectors, and Units | MLA.PHYS.MOT.01 | MLA.PHYS.LAB.02 | Distinguish scalar and vector quantities and appropriate representations. | Representation evidence, guided practice, checkpoint, lesson quiz | Motion and force reasoning require clear quantity types. |
-| 1 | 06 | Position and Velocity | MLA.PHYS.MOT.02 | MLA.PHYS.LAB.03 | Analyze position and velocity using frames of reference and data displays. | Motion graph evidence, guided practice, checkpoint, lesson quiz | Kinematics begins with position and velocity relationships. |
-| 1 | 07 | Acceleration and Motion Models | MLA.PHYS.MOT.02 | MLA.PHYS.SCI.03 | Extend motion analysis to acceleration and model-based explanations. | Motion model evidence, guided practice, checkpoint, lesson quiz | Acceleration completes the foundational kinematics model. |
-| 1 | 08 | Putting It All Together | MLA.PHYS.SCI.01; MLA.PHYS.LAB.01; MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.MOT.01; MLA.PHYS.MOT.02 | MLA.PHYS.SCI.02; MLA.PHYS.SCI.03 | Synthesize inquiry, safety, measurement, data, vectors, and kinematics. | Unit Assessment | Lesson 8 uses only standards taught in Unit 1 Lessons 1-7. |
-| 2 | 01 | Force Interactions | MLA.PHYS.FOR.01 | MLA.PHYS.MOT.01 | Introduce forces as interactions that change motion. | Force model evidence, guided practice, checkpoint, lesson quiz | Newtonian mechanics begins with interaction reasoning. |
-| 2 | 02 | Newton's First and Second Laws | MLA.PHYS.FOR.01 | MLA.PHYS.MOT.02 | Apply Newton's first and second laws to motion changes. | Calculation/model evidence, guided practice, checkpoint, lesson quiz | Force and acceleration relationships require quantitative reasoning. |
-| 2 | 03 | Newton's Third Law and System Interactions | MLA.PHYS.FOR.01 | MLA.PHYS.SCI.01 | Analyze paired force interactions in physical systems. | Interaction evidence, guided practice, checkpoint, lesson quiz | System interaction reasoning supports later momentum work. |
-| 2 | 04 | Gravity and Mass-Distance Relationships | MLA.PHYS.FOR.02 | MLA.PHYS.LAB.02 | Describe gravitational force using mass and distance relationships. | Graph/model evidence, guided practice, checkpoint, lesson quiz | Gravitational reasoning extends Newtonian mechanics. |
-| 2 | 05 | Earth, Moon, and Sun Mechanics | MLA.PHYS.FOR.02 | MLA.PHYS.MOT.02 | Apply Newtonian principles to Earth, Moon, and Sun relationships. | Orbital model evidence, guided practice, checkpoint, lesson quiz | CPALMS Physics 1 includes physical principles in orbital relationships. |
-| 2 | 06 | Momentum as a Force Interaction | MLA.PHYS.ENE.05 | MLA.PHYS.LAB.02 | Introduce momentum through interactions and collisions in Newtonian systems. | Collision evidence, guided practice, checkpoint, lesson quiz | Momentum appears here as an interaction concept before Unit 3 conservation synthesis. |
-| 2 | 07 | Fundamental Forces | MLA.PHYS.FOR.03 | MLA.PHYS.SCI.01 | Compare the magnitude, range, and role of fundamental forces. | Comparison evidence, guided practice, checkpoint, lesson quiz | Fundamental forces complete the unit's force-scale progression. |
-| 2 | 08 | Putting It All Together | MLA.PHYS.FOR.01; MLA.PHYS.FOR.02; MLA.PHYS.FOR.03; MLA.PHYS.ENE.05 | MLA.PHYS.SCI.01; MLA.PHYS.LAB.02; MLA.PHYS.MOT.01; MLA.PHYS.MOT.02 | Synthesize Newton's laws, gravitational systems, momentum interactions, and fundamental forces. | Unit Assessment | Lesson 8 uses only standards taught in Unit 2 Lessons 1-7. |
-| 3 | 01 | Forms of Energy | MLA.PHYS.ENE.01 | MLA.PHYS.SCI.01 | Differentiate forms of energy in physical systems. | Energy model evidence, guided practice, checkpoint, lesson quiz | Energy categories frame system analysis. |
-| 3 | 02 | Energy Transformations | MLA.PHYS.ENE.01 | MLA.PHYS.LAB.03 | Recognize transformations among forms of energy using evidence. | Transformation evidence, guided practice, checkpoint, lesson quiz | Energy transformations connect observations to physical models. |
-| 3 | 03 | Conservation of Energy | MLA.PHYS.ENE.02 | MLA.PHYS.FOR.01 | Apply conservation of energy to open, closed, and isolated systems. | Conservation evidence, guided practice, checkpoint, lesson quiz | System boundaries are required for valid conservation reasoning. |
-| 3 | 04 | Work | MLA.PHYS.ENE.03 | MLA.PHYS.LAB.03 | Compare and calculate work in physical systems. | Work calculation evidence, guided practice, checkpoint, lesson quiz | Work connects forces to energy transfer. |
-| 3 | 05 | Power | MLA.PHYS.ENE.03 | MLA.PHYS.LAB.03 | Compare and calculate power in physical systems. | Power calculation evidence, guided practice, checkpoint, lesson quiz | Power extends work reasoning to rate of energy transfer. |
-| 3 | 06 | Heat, Temperature, and Matter States | MLA.PHYS.ENE.04 | MLA.PHYS.SCI.01 | Explain heat transfer, temperature, average molecular kinetic energy, and states of matter. | Thermal model evidence, guided practice, checkpoint, lesson quiz | Thermal reasoning connects particle motion to observable systems. |
-| 3 | 07 | Momentum Conservation in Energy Systems | MLA.PHYS.ENE.05 | MLA.PHYS.ENE.02 | Apply conservation of linear momentum to collisions and system interactions. | Collision/system evidence, guided practice, checkpoint, lesson quiz | Unit 3 treats momentum as conservation within energy and collision systems. |
-| 3 | 08 | Putting It All Together | MLA.PHYS.ENE.01; MLA.PHYS.ENE.02; MLA.PHYS.ENE.03; MLA.PHYS.ENE.04; MLA.PHYS.ENE.05 | MLA.PHYS.SCI.01; MLA.PHYS.LAB.03; MLA.PHYS.FOR.01 | Synthesize energy forms, transformations, conservation, work, power, thermal systems, and momentum conservation. | Unit Assessment | Lesson 8 uses only standards taught in Unit 3 Lessons 1-7. |
-| 4 | 01 | Wave Properties | MLA.PHYS.WAV.01 | MLA.PHYS.LAB.02 | Describe wave properties and relationships among wave variables. | Wave data evidence, guided practice, checkpoint, lesson quiz | Wave variables provide the foundation for sound, light, and optics. |
-| 4 | 02 | Waves Across Media | MLA.PHYS.WAV.01 | MLA.PHYS.LAB.03 | Explain how wave properties change across media. | Wave model evidence, guided practice, checkpoint, lesson quiz | Media effects develop wave-system reasoning. |
-| 4 | 03 | Sound and Frequency Shifts | MLA.PHYS.WAV.02 | MLA.PHYS.LAB.03 | Describe frequency shifts caused by relative motion. | Frequency evidence, guided practice, checkpoint, lesson quiz | Doppler reasoning connects waves to relative motion. |
-| 4 | 04 | Electromagnetic Waves | MLA.PHYS.WAV.03 | MLA.PHYS.ENE.01 | Compare electromagnetic spectrum regions and applications. | Spectrum evidence, guided practice, checkpoint, lesson quiz | Spectrum reasoning connects wavelength, frequency, energy, and technology. |
-| 4 | 05 | Light Speed and Frames of Reference | MLA.PHYS.MOT.03 | MLA.PHYS.WAV.03 | Explain light speed and frame-of-reference concepts at course level. | Reference-frame evidence, guided practice, checkpoint, lesson quiz | This bridges wave behavior and modern physics without leaving Physics scope. |
-| 4 | 06 | Reflection, Refraction, and Ray Diagrams | MLA.PHYS.WAV.04 | MLA.PHYS.LAB.02 | Construct and interpret ray diagrams. | Optics diagram evidence, guided practice, checkpoint, lesson quiz | Ray diagrams make optical systems visible. |
-| 4 | 07 | Lenses, Mirrors, and Image Location | MLA.PHYS.WAV.04 | MLA.PHYS.LAB.03 | Use lens and mirror relationships to locate images. | Optics calculation evidence, guided practice, checkpoint, lesson quiz | Lens and mirror equations complete the optics progression. |
-| 4 | 08 | Putting It All Together | MLA.PHYS.WAV.01; MLA.PHYS.WAV.02; MLA.PHYS.WAV.03; MLA.PHYS.WAV.04; MLA.PHYS.MOT.03 | MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.ENE.01 | Synthesize wave properties, sound, EM waves, reference frames, lenses, and mirrors. | Unit Assessment | Lesson 8 uses only standards taught in Unit 4 Lessons 1-7. |
-| 5 | 01 | Static Charge | MLA.PHYS.ELE.01 | MLA.PHYS.LAB.02 | Relate charge configurations to electrical interactions. | Charge model evidence, guided practice, checkpoint, lesson quiz | Charge interactions begin the electricity progression. |
-| 5 | 02 | Electric Fields and Potential | MLA.PHYS.ELE.01 | MLA.PHYS.LAB.03 | Relate electric fields, forces, potential, and potential energy. | Field model evidence, guided practice, checkpoint, lesson quiz | Field and potential models explain electrical systems. |
-| 5 | 03 | Conductors, Semiconductors, and Insulators | MLA.PHYS.ELE.02 | MLA.PHYS.WAV.03 | Differentiate materials by electrical behavior. | Material classification evidence, guided practice, checkpoint, lesson quiz | Material behavior prepares students for circuits and devices. |
-| 5 | 04 | Current, Voltage, and Resistance | MLA.PHYS.ELE.03 | MLA.PHYS.LAB.02 | Explain and analyze current, voltage, and resistance relationships. | Circuit data evidence, guided practice, checkpoint, lesson quiz | Circuit variables require quantitative relationship reasoning. |
-| 5 | 05 | Power in Circuits | MLA.PHYS.ELE.03 | MLA.PHYS.ENE.01 | Relate electrical power to circuit behavior. | Circuit power evidence, guided practice, checkpoint, lesson quiz | Power connects electricity to energy use. |
-| 5 | 06 | Electromagnetism in Devices | MLA.PHYS.ELE.04 | MLA.PHYS.WAV.03 | Apply electricity and electromagnetism concepts to devices. | Device/system evidence, guided practice, checkpoint, lesson quiz | Applied electromagnetism connects concepts to technology systems. |
-| 5 | 07 | Circuit and Technology Systems | MLA.PHYS.ELE.04 | MLA.PHYS.LAB.03 | Analyze circuit and technology systems using evidence and data. | Technology system evidence, guided practice, checkpoint, lesson quiz | Systems analysis prepares students for unit synthesis. |
-| 5 | 08 | Putting It All Together | MLA.PHYS.ELE.01; MLA.PHYS.ELE.02; MLA.PHYS.ELE.03; MLA.PHYS.ELE.04 | MLA.PHYS.LAB.02; MLA.PHYS.LAB.03; MLA.PHYS.WAV.03; MLA.PHYS.ENE.01 | Synthesize static electricity, fields, materials, circuits, power, and electromagnetic applications. | Unit Assessment | Lesson 8 uses only standards taught in Unit 5 Lessons 1-7. |
-| 6 | 01 | Matter in the Universe | MLA.PHYS.APP.01 | MLA.PHYS.FOR.02 | Identify patterns in matter distribution and physical forces at cosmic scale. | Cosmic system evidence, guided practice, checkpoint, lesson quiz | SC.912.E.5.2 is addressed through physics systems and forces, not Earth/Space course expansion. |
-| 6 | 02 | Physical Forces at Cosmic Scale | MLA.PHYS.APP.01 | MLA.PHYS.FOR.03 | Explain cosmic-scale systems through physical forces and scale reasoning. | Scale/model evidence, guided practice, checkpoint, lesson quiz | Cosmic applications preserve Physics identity while supporting CPALMS expectations. |
-| 6 | 03 | Atomic Models and Evidence | MLA.PHYS.APP.02 | MLA.PHYS.SCI.02 | Explain how evidence changed atomic models over time. | Atomic model evidence, guided practice, checkpoint, lesson quiz | Atomic model development connects modern physics to evidence. |
-| 6 | 04 | Modern Physics and Reference Frames | MLA.PHYS.APP.02 | MLA.PHYS.MOT.03 | Explain modern physics concepts involving reference frames at course level. | Reference-frame evidence, guided practice, checkpoint, lesson quiz | This connects relativity concepts to earlier motion and light standards. |
-| 6 | 05 | Models, Theories, and Laws | MLA.PHYS.SCI.03 | MLA.PHYS.APP.02 | Distinguish models, theories, laws, consensus, and scientific explanations. | Explanation evidence, guided practice, checkpoint, lesson quiz | Nature-of-science reasoning supports interpretation of modern physics claims. |
-| 6 | 06 | Science, Reliability, and Change | MLA.PHYS.SCI.02 | MLA.PHYS.SCI.03 | Evaluate scientific reliability, replication, creativity, durability, and change. | Claims evaluation, guided practice, checkpoint, lesson quiz | Students need reliability criteria before final applied decisions. |
-| 6 | 07 | Physics-Informed Decisions | MLA.PHYS.SCI.03 | MLA.PHYS.ELE.04 | Use physics evidence and reasoning to evaluate decisions and applications. | Evidence argument, guided practice, checkpoint, lesson quiz | The final instructional lesson prepares students for course synthesis. |
-| 6 | 08 | Putting It All Together | MLA.PHYS.APP.01; MLA.PHYS.APP.02; MLA.PHYS.SCI.02; MLA.PHYS.SCI.03 | MLA.PHYS.FOR.02; MLA.PHYS.FOR.03; MLA.PHYS.MOT.03; MLA.PHYS.ELE.04 | Synthesize cosmic-scale systems, atomic models, modern physics concepts, models, laws, theories, and physics-informed decisions. | Unit Assessment | Lesson 8 uses only standards taught in Unit 6 Lessons 1-7. |
+| 1 | 01 | Inv. 1 Exp. 1: Displacement and Velocity | `SC.912.P.12.1`; `SC.912.P.12.2` | `SC.912.N.1.1`; MTR 2/3/5 | Represent position, displacement, speed, and velocity with vectors, equations, and graphs. | Motion diagram/graph, checkpoint, quiz | Establishes the representations required for all later motion analysis. |
+| 1 | 02 | Inv. 1 Exp. 2: Acceleration | `SC.912.P.12.2` | `SC.912.N.1.6`; MTR 3/5/6 | Analyze changing velocity and acceleration from motion data and graphs. | Data/graph analysis, checkpoint, quiz | Acceleration connects kinematics to force. |
+| 1 | 03 | Inv. 1 Exp. 3: Circular and Projectile Motion | `SC.912.P.12.1`; `SC.912.P.12.2` | `SC.912.N.3.5`; MTR 2/7 | Resolve two-dimensional motion and distinguish projectile and circular-motion models. | Vector/model evidence, checkpoint, quiz | Extends one-dimensional motion before Newtonian dynamics. |
+| 1 | 04 | Inv. 2 Exp. 1: Force, Mass, and Acceleration | `SC.912.P.12.3` | `SC.912.N.1.1`; MTR 3/6 | Apply Newton's second law qualitatively and quantitatively. | Force-data analysis, checkpoint, quiz | Makes the kinematics-to-dynamics transition. |
+| 1 | 05 | Inv. 2 Exp. 2: Types of Forces | `SC.912.P.12.3` | B.E.S.T. EE.2/3; `SC.912.N.3.5` | Identify contact and noncontact forces and construct free-body diagrams. | Force classification/diagram, checkpoint, quiz | Accurate force identification precedes system analysis. |
+| 1 | 06 | Inv. 2 Exp. 3: Forces on Systems | `SC.912.P.12.3` | MTR 2/4/6; `SC.912.N.1.6` | Define systems, calculate net force, and apply Newton's laws to interactions. | System/free-body evidence, checkpoint, quiz | System boundaries prevent common force-pair errors. |
+| 1 | 07 | Inv. 2 Exp. 4: Earth's Surface Forces | `SC.912.P.12.3` | `SC.912.N.4.1`; MTR 7 | Apply friction, normal force, tension, and gravity to surface-motion contexts. | Applied scenario, checkpoint, quiz | Consolidates dynamics in authentic contexts. |
+| 1 | 08 | Putting It All Together | Unit 1 benchmarks already taught | B.E.S.T. EE.1; MTR 6 | Synthesize motion graphs, vectors, free-body diagrams, and Newton's laws. | Unit Assessment | Introduces no new primary content. |
+| 2 | 01 | Inv. 3 Exp. 1: Universal Gravitation | `SC.912.P.12.4`; `SC.912.P.10.10` | MTR 3/5/6 | Model how gravitational force depends on mass and distance. | Inverse-square data/model, checkpoint, quiz | Establishes the first quantitative field interaction. |
+| 2 | 02 | Inv. 3 Exp. 2: Orbital Motion | `SC.912.E.5.6`; `SC.912.P.12.4` | `SC.912.N.3.5`; MTR 2/7 | Explain orbital motion using gravitational force and motion principles. | Orbit model/data, checkpoint, quiz | Applies gravitation to interacting celestial systems. |
+| 2 | 03 | Inv. 3 Exp. 3: Kepler's Laws | `SC.912.E.5.6` | `SC.912.N.3.3`; MTR 5/6 | Interpret planetary data through Kepler's laws and connect them to Newtonian gravitation. | Orbital-data analysis, checkpoint, quiz | Links empirical laws to an explanatory theory. |
+| 2 | 04 | Inv. 4 Exp. 1: Coulomb's Law | `SC.912.P.10.13`; `SC.912.P.10.10` | MTR 3/5/6 | Calculate and compare electric forces using charge and distance. | Coulomb-data analysis, checkpoint, quiz | Parallels gravitation while establishing charge-specific behavior. |
+| 2 | 05 | Inv. 4 Exp. 2: Electric Fields | `SC.912.P.10.13` | `SC.912.N.3.5`; MTR 2 | Represent electric fields, force, potential, and potential energy. | Field-map/model evidence, checkpoint, quiz | Field representations support circuits and electromagnetic energy. |
+| 2 | 06 | Inv. 4 Exp. 3: Electric Current | `SC.912.P.10.15` | MTR 3/7; `SC.912.N.1.1` | Relate moving charge to current and introduce circuit evidence. | Current/circuit data, checkpoint, quiz | Bridges electrostatics to electromagnetism and later circuits. |
+| 2 | 07 | Inv. 5 Exp. 1: Magnetic Forces and Fields | `SC.912.P.10.10`; supporting `SC.912.P.10.18` | `SC.912.N.3.5`; MTR 2 | Model magnetic forces, poles, and fields. | Field model, checkpoint, quiz | Establishes the magnetic component of electromagnetism. |
+| 2 | 08 | Inv. 5 Exp. 2: Inducing Magnetism | Supporting `SC.912.P.10.18` | `SC.912.N.1.1`; ACT-SIN | Investigate how magnetic effects are produced and changed. | Investigation/model evidence, checkpoint, quiz | Develops causal reasoning about changing fields and materials. |
+| 2 | 09 | Inv. 5 Exp. 3: Inducing Current | `SC.912.P.10.15`; supporting `SC.912.P.10.18` | ACT-IOD/EMI; MTR 5 | Analyze electromagnetic induction and factors affecting induced current. | Induction data, checkpoint, quiz | Prepares students for power generation. |
+| 2 | 10 | Putting It All Together | Unit 2 benchmarks already taught | B.E.S.T. EE.1; MTR 6 | Compare field interactions and apply gravitational, electric, and magnetic models. | Unit Assessment | Introduces no new primary content. |
+| 3 | 01 | Inv. 6 Exp. 1: Atoms and Atomic Structure | `SC.912.P.8.3` | `SC.912.N.2.4`; `SC.912.N.3.5` | Explain how evidence changed atomic models and identify relevant atomic structure. | Model/evidence comparison, checkpoint, quiz | Provides the particle basis for material properties. |
+| 3 | 02 | Inv. 6 Exp. 2: Attractive and Repulsive Forces | `SC.912.P.10.10` | `SC.912.N.3.5`; MTR 2 | Relate microscopic attractions and repulsions to structure and stability. | Force-model evidence, checkpoint, quiz | Connects atomic structure to observable matter. |
+| 3 | 03 | Inv. 6 Exp. 3: Material Properties | `SC.912.P.8.1`; `SC.912.P.10.14` | ACT-IOD; B.E.S.T. EE.3 | Use structure and charge behavior to classify and explain material properties. | Property-data analysis, checkpoint, quiz | Applies particle and force models to real materials. |
+| 3 | 04 | Inv. 6 Exp. 4: Structure and Function | `SC.912.P.10.14`; `SC.912.N.4.1` | ACT-EMI; B.E.S.T. EE.1 | Evaluate how material structure supports function and design. | Structure-function argument, checkpoint, quiz | Connects material physics to engineering decisions. |
+| 3 | 05 | Inv. 7 Exp. 1: Classifying Energy and Work | `SC.912.P.10.1`; `SC.912.P.10.3` | MTR 3/7 | Distinguish energy forms and relate work to energy transfer. | Classification/calculation, checkpoint, quiz | Establishes energy language and quantitative work. |
+| 3 | 06 | Inv. 7 Exp. 2: Mechanical Energy | `SC.912.P.10.1`; `SC.912.P.10.3` | MTR 2/3/6 | Calculate kinetic and potential energy, work, and power. | Energy calculation/model, checkpoint, quiz | Develops the quantitative mechanical-energy model. |
+| 3 | 07 | Inv. 7 Exp. 3: Conservation of Energy | `SC.912.P.10.2` | `SC.912.N.3.3`; ACT-EMI | Apply energy conservation using system boundaries and energy representations. | Energy-bar/system evidence, checkpoint, quiz | Conservation becomes the organizing principle for later systems. |
+| 3 | 08 | Putting It All Together | Unit 3 benchmarks already taught | B.E.S.T. EE.1; MTR 6 | Synthesize material models, work, power, energy, and conservation. | Unit Assessment | Introduces no new primary content. |
+| 4 | 01 | Inv. 8 Exp. 1: Momentum and Impulse | `SC.912.P.12.5` | MTR 3/5/6 | Relate force-time effects, impulse, and momentum change. | Force-time graph/calculation, checkpoint, quiz | Introduces momentum as a second conservation framework. |
+| 4 | 02 | Inv. 8 Exp. 2: Conservation of Momentum | `SC.912.P.12.5` | `SC.912.N.3.3`; ACT-IOD | Analyze isolated-system interactions and collision data. | Collision-data analysis, checkpoint, quiz | Applies conservation to interacting objects. |
+| 4 | 03 | Inv. 8 Exp. 3: Collisions in Earth's Crust | `SC.912.P.12.5`; supporting `SC.912.N.4.1` | ACT-EMI; MTR 7 | Apply momentum and energy reasoning to geophysical collision contexts. | Model/evidence explanation, checkpoint, quiz | Preserves a physics lens in an Earth-science application. |
+| 4 | 04 | Inv. 9 Exp. 1: Temperature | `SC.912.P.10.5` | ACT-IOD; MTR 5 | Relate temperature to average molecular kinetic energy. | Particle/data evidence, checkpoint, quiz | Establishes the microscopic basis for thermal systems. |
+| 4 | 05 | Inv. 9 Exp. 2: Thermal Equilibrium and Heat Flow | `SC.912.P.10.4`; `SC.912.P.10.5` | `SC.912.N.1.1`; MTR 6 | Explain equilibrium and conduction, convection, and radiation. | Thermal investigation/data, checkpoint, quiz | Extends conservation to energy transfer by heat. |
+| 4 | 06 | Inv. 9 Exp. 3: Heat Flow Within Earth | `SC.912.P.10.4`; `SC.912.N.4.1` | ACT-EMI; B.E.S.T. EE.1 | Apply heat-transfer models to Earth's interior and surface processes. | Heat-flow model/argument, checkpoint, quiz | Provides a system-scale application of thermal physics. |
+| 4 | 07 | Inv. 10 Exp. 1: Electric Potential | `SC.912.P.10.13` | MTR 2/3 | Relate electric potential and potential energy to charge configurations. | Potential model/calculation, checkpoint, quiz | Connects field concepts to electrical energy. |
+| 4 | 08 | Inv. 10 Exp. 2: Energy in Electric Circuits | `SC.912.P.10.15` | ACT-IOD/SIN; MTR 3/6 | Analyze current, voltage, resistance, and power in circuits. | Circuit data/calculation, checkpoint, quiz | Builds quantitative circuit literacy. |
+| 4 | 09 | Inv. 10 Exp. 3: Power Generation | `SC.912.P.10.1`; `SC.912.P.10.15`; supporting `SC.912.P.10.18` | `SC.912.N.4.1`; ACT-EMI | Explain power generation through energy transformation and induction. | System/energy-flow evidence, checkpoint, quiz | Integrates induction, circuits, and energy conservation. |
+| 4 | 10 | Inv. 10 Exp. 4: Energy Resources and Conservation | `SC.912.P.10.1`; `SC.912.P.10.2`; `SC.912.N.4.1` | B.E.S.T. EE.1/4/6; SAT-RW | Evaluate energy resources, efficiency, tradeoffs, and conservation claims. | Evidence-based decision, checkpoint, quiz | Applies physics to societal energy choices. |
+| 4 | 11 | Putting It All Together | Unit 4 benchmarks already taught | B.E.S.T. EE.1; MTR 6 | Synthesize momentum, thermal transfer, circuits, power, and energy decisions. | Unit Assessment | Introduces no new primary content. |
+| 5 | 01 | Inv. 11 Exp. 1: Properties of Waves | `SC.912.P.10.20` | MTR 2/3/5 | Measure and relate amplitude, wavelength, frequency, period, and wave speed. | Wave-data analysis, checkpoint, quiz | Establishes the variables used throughout the wave unit. |
+| 5 | 02 | Inv. 11 Exp. 2: Wave Behavior and Energy | `SC.912.P.10.20`; `SC.912.P.10.21` | ACT-IOD/EMI | Analyze reflection, refraction, diffraction, interference, resonance, and Doppler shift. | Wave-model/data evidence, checkpoint, quiz | Connects wave properties to observable behavior and energy transfer. |
+| 5 | 03 | Inv. 11 Exp. 3: Wave Optics | `SC.912.P.10.20`; `SC.912.P.10.22` | MTR Geometry/Trigonometry | Construct ray diagrams and analyze images formed by mirrors and lenses. | Ray-diagram/calculation, checkpoint, quiz | Applies wave behavior to optical systems. |
+| 5 | 04 | Inv. 12 Exp. 1: Electromagnetic Waves and Their Properties | `SC.912.P.10.18`; `SC.912.P.12.7` | ACT-IOD; SAT graphics | Relate EM wavelength, frequency, speed, and energy across the spectrum. | Spectrum/data evidence, checkpoint, quiz | Extends wave principles to electromagnetic radiation. |
+| 5 | 05 | Inv. 12 Exp. 2: Particle-Wave Duality | Supporting `SC.912.P.10.18`; `SC.912.N.2.4`; `SC.912.N.3.5` | ACT-EMI; SAT evidence | Evaluate complementary wave and particle models of light. | Model comparison, checkpoint, quiz | Highlights model limits and evidence-driven revision. |
+| 5 | 06 | Inv. 12 Exp. 3: EM Radiation and Matter | `SC.912.P.10.18`; supporting `SC.912.P.12.9` | `SC.912.N.4.1`; B.E.S.T. EE.1 | Explain absorption, transmission, reflection, and interactions of radiation with matter. | Evidence/risk analysis, checkpoint, quiz | Supports informed reasoning about radiation technologies and exposure. |
+| 5 | 07 | Inv. 13 Exp. 1: Digital Information | `SC.912.P.10.20` | ACT-IOD; SAT-RW synthesis | Explain how information is represented, encoded, sampled, and evaluated. | Signal/data model, checkpoint, quiz | Connects physical signals to digital representation. |
+| 5 | 08 | Inv. 13 Exp. 2: Capturing and Transmitting Information | `SC.912.P.10.18`; `SC.912.P.10.20`; `SC.912.P.10.22` | `SC.912.N.1.1`; ACT-SIN | Analyze how sensors, optics, and waves capture and transmit information. | Instrument/signal investigation, checkpoint, quiz | Integrates optics, waves, and engineering design. |
+| 5 | 09 | Inv. 13 Exp. 3: Capturing and Transmitting Energy | `SC.912.P.10.18`; `SC.912.P.10.20` | `SC.912.N.4.1`; ACT-EMI | Compare systems that capture, transform, and transmit wave energy. | System efficiency/model evidence, checkpoint, quiz | Distinguishes energy transfer from information transfer while connecting both. |
+| 5 | 10 | Putting It All Together | Unit 5 benchmarks already taught | B.E.S.T. EE.1; MTR 6 | Synthesize waves, optics, radiation, digital information, and instrumentation. | Unit Assessment | Introduces no new primary content. |
+| 6 | 01 | Inv. 14 Exp. 1: Nuclear Particles | `SC.912.P.8.3`; `SC.912.P.10.10` | `SC.912.N.3.5` | Model nuclear structure and identify particles relevant to nuclear change. | Nuclear-model evidence, checkpoint, quiz | Establishes the structure needed for nuclear forces and reactions. |
+| 6 | 02 | Inv. 14 Exp. 2: Nuclear Forces | `SC.912.P.10.10` | ACT-EMI; `SC.912.N.3.5` | Compare fundamental-force ranges and explain nuclear stability. | Force-scale/model evidence, checkpoint, quiz | Connects nuclear structure to strong and weak interactions. |
+| 6 | 03 | Inv. 14 Exp. 3: Fission and Fusion | `SC.912.P.10.1`; `SC.912.P.10.2`; `SC.912.P.10.10` | `SC.912.N.4.1`; ACT-EMI | Compare fission and fusion, mass-energy change, applications, and evidence. | Comparison/data argument, checkpoint, quiz | Applies force and energy ideas to nuclear processes. |
+| 6 | 04 | Inv. 15 Exp. 1: Radioactive Decay | `SC.912.P.8.3`; `SC.912.P.10.10` | `SC.912.N.1.1`; MTR 5 | Model probabilistic decay and interpret half-life data. | Decay graph/data, checkpoint, quiz | Establishes the quantitative evidence used in dating. |
+| 6 | 05 | Inv. 15 Exp. 2: Radiometric Dating | `SC.912.N.1.6`; `SC.912.N.3.5` | MTR 3/5/6; ACT-IOD | Use decay models and isotope data to estimate ages and uncertainty. | Dating calculation/data analysis, checkpoint, quiz | Applies indirect measurement and model-based inference. |
+| 6 | 06 | Inv. 15 Exp. 3: Geologic Time | `SC.912.N.1.6`; `SC.912.N.2.4` | B.E.S.T. EE.1; SAT evidence | Synthesize radiometric and geologic evidence to explain deep time. | Evidence synthesis, checkpoint, quiz | Connects quantitative dating to a broader evidence framework. |
+| 6 | 07 | Inv. 16 Exp. 1: The Sun | `SC.912.E.5.2`; `SC.912.P.10.1`; `SC.912.P.10.10` | ACT-IOD; `SC.912.N.3.5` | Explain solar structure and energy using nuclear and radiation models. | Solar model/data, checkpoint, quiz | Applies nuclear physics to the nearest star. |
+| 6 | 08 | Inv. 16 Exp. 2: Stars | `SC.912.E.5.2`; `SC.912.P.10.18`; `SC.912.P.10.21` | ACT-IOD/EMI; SAT graphics | Infer stellar properties and evolution from spectra, luminosity, temperature, and motion. | H-R/spectral data, checkpoint, quiz | Uses indirect evidence to analyze stellar systems. |
+| 6 | 09 | Inv. 16 Exp. 3: The Big Bang | `SC.912.E.5.2`; supporting `SC.912.P.10.21`, `SC.912.P.12.7`, `SC.912.P.12.9` | `SC.912.N.2.4`; `SC.912.N.3.5`; SAT evidence | Evaluate expansion, redshift, background radiation, and model-based evidence for cosmic history. | Cosmology evidence argument, checkpoint, quiz | Culminates the course with evidence and model evaluation across cosmic scales. |
+| 6 | 10 | Putting It All Together | Unit 6 benchmarks already taught | B.E.S.T. EE.1; MTR 6 | Synthesize nuclear physics, decay, dating, stellar evidence, and cosmology. | Unit Assessment | Introduces no new primary content. |
 
 ## Lesson-Level Validation
 
 | Requirement | Status |
 |---|---|
-| 48 lesson rows mapped | PASS |
-| 6 units represented | PASS |
-| 8 lessons per unit represented | PASS |
-| Every Lesson 8 titled Putting It All Together | PASS |
-| Every Lesson 8 contains Unit Assessment evidence | PASS |
-| No Lesson 8 introduces a new primary standard | PASS |
-| Lessons 1-7 use MLA assessment language | PASS |
-| Lab/data skills represented | PASS |
-| Lesson-level lab/visual/simulation/resource companion matrix required | PASS |
-| Mathematical modeling represented | PASS |
-| Quantitative reasoning represented | PASS |
-| Scientific inquiry represented | PASS |
+| 57 lesson rows mapped | PASS |
+| 51 named Savvas Experiences represented once | PASS |
+| Six variable-length units represented | PASS |
+| Every unit ends with Putting It All Together | PASS |
+| Every final lesson contains Unit Assessment evidence | PASS |
+| No final lesson introduces new primary content | PASS |
+| Lab/data/modeling skills represented | PASS |
+| Resource companion matrix required | PASS |
+| MLA standard assignment deferred until standards creation | PASS |
 | Physics identity preserved | PASS |
 
-## Lesson 8 Validation
-
-| Unit | Lesson 8 Title | Primary Standards Taught Earlier in Unit? | New Primary Standard Introduced? | Unit Assessment Evidence | Status |
-|---:|---|---|---|---|---|
-| 1 | Putting It All Together | Yes | No | Yes | PASS |
-| 2 | Putting It All Together | Yes | No | Yes | PASS |
-| 3 | Putting It All Together | Yes | No | Yes | PASS |
-| 4 | Putting It All Together | Yes | No | Yes | PASS |
-| 5 | Putting It All Together | Yes | No | Yes | PASS |
-| 6 | Putting It All Together | Yes | No | Yes | PASS |
