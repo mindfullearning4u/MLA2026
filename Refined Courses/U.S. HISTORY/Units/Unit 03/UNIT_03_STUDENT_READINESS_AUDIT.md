@@ -1,59 +1,35 @@
 # Unit 3 Student-Readiness Audit
 
-## Build status â€” 2026-08-16
+## Final audit â€” 2026-08-17
 
 Unit 3 title: **The 1920s, Great Depression, and New Deal**
 
 | Item | Status | Evidence |
 |---|---|---|
-| Unit 3 shell inventory | PASS | Pretest and eight mapped lesson shells are present. |
-| Entry prerequisite | PASS | Unit 3 Pretest now requires the completed and passed Unit 2 Assessment. |
-| Broken shell restrictions | PASS | No `(Missing activity)` restriction remains in the Unit 3 section. |
-| Legacy duplicate lessons | PASS | All eight `Independent Work & Checkpoint` legacy activities are hidden from students. |
-| Lesson 1 mapping review | PASS | Official title, investigation question, standards, content boundaries, visuals, notebook, checkpoint, and quiz blueprint reviewed before production. |
-| Lesson 1 seven-page rebuild | PASS | P01â€“P07 built with paced instruction, visual boxes, worked models, Pause and Review notebook evidence, summaries, guided reasoning, mirrored independent work, and separate checkpoint directions. |
-| Lesson 1 student rendering | PASS | Seven of seven pages render without raw HTML; visual styling is present; Previous and Next controls work on every page. |
-| Lesson 1 submissions and rubrics | PASS | Separate notebook and checkpoint directions are present; both activities retain five-criterion rubrics. |
-| Lesson 1 quiz | PASS | `U3L1 Q` contains 25 mapped questions (5 foundational, 10 source/visual, 10 application); the activity delivers five random questions, one attempt, and 80% mastery. |
-| Lesson 1 GitHub backup | PASS | P01â€“P07 HTML and the 25-question Moodle XML bank are stored in `mindfullearning4u/MLA2026`. |
+| Unit shell and sequence | PASS | Pretest, eight mapped lessons, separate notebook/checkpoint activities, lesson quizzes, synthesis lesson, and final assessment are present. |
+| Entry prerequisite | PASS | Unit 3 Pretest requires completion and passage of the Unit 2 Assessment. |
+| Legacy duplicates | PASS | Eight legacy combined `Independent Work & Checkpoint` activities are hidden; no `(Missing activity)` restriction remains. |
+| Lessons 1â€“8 content | PASS | Every lesson contains P01â€“P07 with paced instruction, visual boxes/tables, vocabulary, worked examples, Pause and Review notebook evidence, summaries, guided reasoning, mirrored independent work, and checkpoint directions. |
+| Navigation and rendering | PASS | Pages use the established Lesson 1 visual standard, contain no exposed source HTML, and include Previous/Next navigation. |
+| Notebook/checkpoint separation | PASS | P07 identifies exactly what belongs in the notebook and what belongs in the checkpoint; Lesson 8 provides the mapped synthesis task. |
+| Rubrics | PASS | Notebook and checkpoint activities retain separate five-criterion rubrics. |
+| Lesson quizzes | PASS | Lessons 1â€“7 each use a 25-question mapped bank and deliver five random questions; one attempt and 80% mastery. Lesson 8 correctly has no regular quiz. |
+| Unit 3 assessment | PASS | New 40-question bank uses the required 8 foundational/20 source/12 application distribution. Activity delivers 10 random questions with Lessons 1â€“7 represented and no lesson contributing more than two; one attempt and 80% mastery. |
+| Unit 3 pretest | PASS | Ten-question diagnostic bank installed; activity delivers all 10 in one attempt and retains the Unit 2 assessment gate. |
+| GitHub backup | PASS | Lesson 1â€“8 P01â€“P07 HTML, Lesson 1â€“7 quiz XML, Unit 3 assessment XML, and Unit 3 pretest XML are stored in `mindfullearning4u/MLA2026`. |
 
-## Lesson 1 Audit Evidence
+## Lesson audit results
 
-- Official title, standards boundary, and investigation question are preserved.
-- P01â€“P07 render correctly with styled instructional boxes, readable tables, and no exposed HTML.
-- Every page includes functional Previous and Next controls.
-- P02 includes all 16 required vocabulary terms, postwar-to-boom sequencing, interacting growth factors, two Pause and Review tasks, and the supplied notebook summary.
-- P03 models trend/inference/limitation reasoning and integrates business, advertising, credit, agricultural, worker, quantitative, and secondary evidence.
-- P04 explicitly teaches the seven-step cause-and-effect process and corrects mapped misconceptions.
-- P05 models the complete historical investigation without assigning separate independent work.
-- P06 mirrors the guided method through a six-factor evaluation, ranking, comparison, counterinterpretation, and qualified CER.
-- P07 clearly separates the eight notebook components from the 375â€“450 word mastery checkpoint.
-- Notebook and checkpoint activities contain lesson-specific directions and attached five-criterion rubrics.
-- Legacy duplicate activity is hidden.
-- `U3L1 Q` contains 25 questions: 5 foundational, 10 source/visual, and 10 application. The quiz delivers five random questions with one attempt and an 80% mastery threshold.
-- P01â€“P07 and quiz XML are backed up to GitHub.
+- Lesson 1: **PASS â€” student ready**
+- Lesson 2: **PASS â€” student ready**
+- Lesson 3: **PASS â€” student ready**
+- Lesson 4: **PASS â€” student ready**
+- Lesson 5: **PASS â€” student ready**
+- Lesson 6: **PASS â€” student ready**
+- Lesson 7: **PASS â€” student ready**
+- Lesson 8 synthesis: **PASS â€” student ready**
 
-Lesson 1 status: **PASS â€” student ready.**
+## Final disposition
 
-## Lesson 2 Audit Evidence
-
-- Official title and investigation focus are preserved.
-- P01â€“P07 render with styled instructional boxes, readable tables, no exposed HTML, and functional Previous/Next controls.
-- P02 contains all 16 vocabulary terms, paced media/technology/advertising instruction, Pause and Review tasks, and a supplied summary.
-- P03 models advertisement analysis and evidence limitations.
-- P04 explicitly teaches continuity and change.
-- P05 models controlled significance comparison; P06 mirrors it through independent evaluation of six technologies.
-- P07 separates notebook evidence from the 375â€“450 word checkpoint.
-- Separate submission directions and attached five-criterion rubrics are present.
-- `U3L2 Q` contains 25 questions and delivers five random questions with one attempt and 80% mastery.
-- P01â€“P07 and quiz XML are backed up to GitHub.
-
-Lesson 2 status: **PASS â€” student ready.**
-
-## Lesson 3 Build Status
-
-- Official shell and four legacy pages inventoried.
-- Conversion to P01â€“P07 is in progress.
-
-Unit 3 is **IN PROGRESS** and is not yet student ready.
+Unit 3 is **PASS â€” student ready**. The mapped lessons, notebook evidence, independent investigations, mastery checkpoints, rubrics, quizzes, synthesis, final assessment, pretest, prerequisites, visual presentation, navigation, and GitHub backup are complete.
 
