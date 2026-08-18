@@ -13,4 +13,4 @@ Audit completed August 18, 2026.
 - Unused Lesson 6–8 shells and unused Lesson 5 quiz shell: 12/12 hidden from students: PASS
 - Gradebook: Pretest 0%; Notebook 20%; Checkpoint 20%; Quiz 30%; Unit Assessment 30%: PASS
 - Moodle student-readiness audit: PASS
-- GitHub backup: ready for final publication
+- GitHub backup: root files and Lessons 1–5 published and verified: PASS
