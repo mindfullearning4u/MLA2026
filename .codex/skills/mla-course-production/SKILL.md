@@ -20,6 +20,7 @@ description: Build, revise, audit, and publish Mindful Learning Academy courses 
 - For pretests, quizzes, submissions, rubrics, unit assessments, or gradebook configuration, read [assessment-and-gradebook.md](references/assessment-and-gradebook.md).
 - Before declaring work complete, read [qa-and-publishing.md](references/qa-and-publishing.md).
 - For student-facing HTML, copy and adapt [lesson-page-template.html](assets/lesson-page-template.html). Keep inline CSS for Moodle compatibility.
+- For any Moodle dashboard, orientation, or lesson-page task, read [VISUAL_REFERENCE_INDEX.md](assets/visual-references/VISUAL_REFERENCE_INDEX.md) and inspect every applicable screenshot before building or auditing.
 
 ## Operating principles
 
