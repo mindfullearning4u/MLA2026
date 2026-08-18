@@ -13,4 +13,4 @@
 - Unused Lesson 6 quiz and Lesson 7–8 shell activities: PASS — hidden from students and excluded from grading
 - Moodle final audit: PASS — Unit 5 is student-ready
 - Local GitHub backup content: PASS
-- GitHub remote sync: PENDING final commit
+- GitHub remote sync: PASS — Unit 5 root assessments and Lessons 1–6 are committed to the course backup
