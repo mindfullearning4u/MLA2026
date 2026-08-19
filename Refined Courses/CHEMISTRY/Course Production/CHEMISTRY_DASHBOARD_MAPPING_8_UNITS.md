@@ -1,0 +1,114 @@
+# Chemistry Dashboard Mapping — Eight-Unit Structure
+
+**Status:** Authoritative Moodle dashboard architecture
+
+**Rule:** Every instructional lesson includes a Moodle Lesson, Notebook Evidence Submission, Checkpoint Submission, and Lesson Quiz. Each unit ends with a Unit Assessment after the final lesson quiz. There are no separate “Putting It All Together” lesson shells.
+
+## Assessment and Release Pattern
+
+1. Unit Pretest.
+2. Lesson 01 → Notebook Evidence → Checkpoint → Lesson 01 Quiz.
+3. Each later lesson unlocks after the preceding lesson quiz.
+4. The final instructional lesson includes its normal lesson quiz.
+5. The Unit Assessment unlocks after the final lesson quiz.
+
+## Unit and Lesson Map
+
+### Unit 1: Scientific Practices, Laboratory Safety, and Matter — 7 lessons
+
+1. What Counts as Chemistry Evidence?
+2. Lab Safety, Tools, and Procedures
+3. Measurement, Units, and Significant Figures
+4. Data Tables, Graphs, Precision, and Uncertainty
+5. States of Matter and Particle Models
+6. Physical and Chemical Properties and Changes
+7. Models, Laws, Theories, and Chemistry Decisions
+
+### Unit 2: Atomic Structure and Periodic Patterns — 7 lessons
+
+1. Atomic Theory and Experimental Evidence
+2. Protons, Neutrons, Electrons, and Atomic Structure
+3. Isotopes, Atomic Mass, and Atomic Identity
+4. Electron Arrangement and Periodic Position
+5. Periodic Trends and Chemical Properties
+6. Quantized Energy and Atomic Energy Levels
+7. Electromagnetic Spectrum and Atomic Applications
+
+### Unit 3: Bonding, Compounds, and Solutions — 8 lessons
+
+1. Why Atoms Bond
+2. Ionic Bonding and Formula Units
+3. Covalent Bonding and Molecular Compounds
+4. Metallic Bonding and Material Properties
+5. Intermolecular Forces
+6. Chemical Formulas and Compound Composition
+7. Nomenclature and Chemical Communication
+8. Water, Solutions, and Concentration Reasoning
+
+### Unit 4: Chemical Quantities, Reactions, and Stoichiometry — 9 lessons
+
+1. The Mole Concept and Molar Relationships
+2. Percent Composition and Empirical Formulas
+3. Concentrations of Solutions
+4. Evidence and Modeling of Chemical Reactions
+5. Predicting Outcomes and Reaction Types
+6. Reactions in Aqueous Solution
+7. Chemical Equations and Conservation of Mass
+8. Stoichiometry and Reaction Quantities
+9. Limiting Reagent, Percent Yield, and Data Analysis
+
+### Unit 5: Thermochemistry and Gases — 6 lessons
+
+1. Forms of Energy and Energy Transformations
+2. Temperature and Molecular Kinetic Energy
+3. Potential Energy Diagrams
+4. Endothermic and Exothermic Processes
+5. Ideal Gases and Kinetic Molecular Theory
+6. Phase Transitions and Particle Motion
+
+### Unit 6: Reaction Rates, Equilibrium, Acids, and Bases — 7 lessons
+
+1. Reaction Rates and Concentration
+2. Temperature, Catalysts, and Reaction Rates
+3. Dynamic Equilibrium
+4. Acids, Bases, and Ions in Solution
+5. pH and Quantitative Acid-Base Reasoning
+6. Chemistry, Technology, and Society
+7. Real-World Chemistry Applications
+
+### Unit 7: Redox, Organic, and Nuclear Chemistry — 9 lessons
+
+1. Oxidation vs. Reduction
+2. Modeling Redox Reactions
+3. Electrochemical Cells
+4. Hydrocarbons
+5. Functional Groups and Polymers
+6. The Chemistry of Life
+7. Radioactivity and Half-Life
+8. Fission and Fusion
+9. Nuclear Technologies
+
+### Unit 8: Green Chemistry and Science in Society — 3 lessons
+
+1. Industrial Chemicals and the Environment
+2. Principles of Green Chemistry
+3. Designing Sustainable Chemical Processes
+
+## Totals
+
+- 56 instructional lessons
+- 56 lesson quizzes
+- 8 unit pretests
+- 8 unit assessments
+- 0 “Putting It All Together” lesson shells
+
+## Moodle Dashboard Requirement
+
+Each lesson subsection must contain only:
+
+1. Moodle Lesson activity
+2. Notebook Evidence Submission
+3. Checkpoint Submission
+4. Lesson Quiz
+
+The Unit Assessment is a unit-level quiz placed after the final lesson subsection. All activities must use completion tracking, remain visible to students, and follow the release sequence defined above.
