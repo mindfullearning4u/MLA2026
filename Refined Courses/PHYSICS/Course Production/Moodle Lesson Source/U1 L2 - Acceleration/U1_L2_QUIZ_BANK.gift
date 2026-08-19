@@ -1,0 +1,176 @@
+$CATEGORY: PHY/U1 L2 Acceleration
+
+::PHY-U1-L2-Q01::Acceleration is defined as {
+~change in position divided by time.#That is average velocity.
+=change in velocity divided by elapsed time.#Correct. Average acceleration is Δv/Δt.
+~velocity multiplied by time.#That relates to displacement for constant velocity.
+~distance divided by time.#That is average speed.
+}
+
+::PHY-U1-L2-Q02::Which unit is appropriate for acceleration? {
+~m#Meters measure position or displacement.
+~m/s#Meters per second measure velocity.
+=m/s²#Correct. Acceleration is velocity change per unit time.
+~s/m#This is not the standard acceleration unit.
+}
+
+::PHY-U1-L2-Q03::A car's velocity changes from 5 m/s to 17 m/s in 4 s. What is its average acceleration? {
+~5.5 m/s²#This does not use the velocity change correctly.
+~12 m/s²#Twelve is the velocity change, not acceleration.
+~-3 m/s²#The velocity increases in the positive direction.
+=3 m/s²#Correct. (17 - 5) / 4 = 3 m/s².
+}
+
+::PHY-U1-L2-Q04::What does the slope of a velocity-time graph represent? {
+=acceleration#Correct. Change in velocity divided by change in time is acceleration.
+~displacement#Displacement is the signed area under the graph.
+~position#Position is not the slope of this graph.
+~speed only#The slope includes direction through its sign.
+}
+
+::PHY-U1-L2-Q05::A horizontal line above zero on a velocity-time graph represents {
+~positive acceleration.#Acceleration is zero because slope is zero.
+=constant positive velocity and zero acceleration.#Correct. Velocity is positive and unchanging.
+~an object at rest.#At rest would lie on the time axis.
+~constant negative acceleration.#The slope is not negative.
+}
+
+::PHY-U1-L2-Q06::If an object has positive velocity and negative acceleration, the object is necessarily {
+~speeding up.#Opposite signs mean speed decreases at that instant.
+=slowing down.#Correct. Acceleration opposes the positive velocity.
+~moving in a circle.#One-dimensional signs do not imply circular motion.
+~at rest.#Its velocity is stated to be positive.
+}
+
+::PHY-U1-L2-Q07::An object has negative velocity and negative acceleration. What happens to its speed? {
+~It must decrease.#Velocity and acceleration have the same sign.
+~It remains constant.#Nonzero acceleration changes velocity.
+=It increases.#Correct. Acceleration in the same direction as velocity increases speed.
+~It becomes zero immediately.#No such conclusion follows.
+}
+
+::PHY-U1-L2-Q08::A bicycle slows from 12 m/s to 4 m/s in 2 s. What is its average acceleration? {
+~4 m/s²#The sign should show acceleration opposite the chosen positive motion direction.
+~-8 m/s²#This is the velocity change, not change per time.
+=-4 m/s²#Correct. (4 - 12) / 2 = -4 m/s².
+~8 m/s²#Both division and sign are incorrect.
+}
+
+::PHY-U1-L2-Q09::Near Earth's surface and ignoring air resistance, freely falling objects have an acceleration of approximately {
+~0 m/s²#Gravity produces nonzero acceleration.
+=9.8 m/s² downward.#Correct. The gravitational acceleration is about 9.8 m/s² downward.
+~9.8 m/s upward in every case.#The acceleration is downward even while an object moves upward.
+~98 m/s² downward.#This is ten times too large.
+}
+
+::PHY-U1-L2-Q10::At the highest point of a ball's upward flight, its instantaneous velocity and acceleration are {
+~both zero.#Gravity still acts at the top.
+~velocity upward and acceleration zero.#The instantaneous velocity is zero at the turning point.
+=velocity zero and acceleration downward.#Correct. The ball momentarily stops, but gravitational acceleration remains downward.
+~both downward.#Velocity is zero at the exact highest point.
+}
+
+::PHY-U1-L2-Q11::What does the signed area under an acceleration-time graph represent? {
+~displacement#Displacement is area under a velocity-time graph.
+~position#Position is not obtained directly from this area.
+=change in velocity#Correct. Integrating acceleration over time gives Δv.
+~average speed#The area does not directly give average speed.
+}
+
+::PHY-U1-L2-Q12::A constant positive slope on a velocity-time graph indicates {
+~constant velocity.#Constant velocity has zero slope.
+=constant positive acceleration.#Correct. A straight rising line has constant positive slope.
+~increasing acceleration.#Increasing acceleration would produce a changing slope.
+~negative displacement only.#Displacement depends on the graph's signed area.
+}
+
+::PHY-U1-L2-Q13::Which position-time graph behavior indicates positive acceleration? {
+~a straight horizontal line#That indicates zero velocity and zero acceleration.
+~a straight line with negative slope#That indicates constant negative velocity.
+~a curve whose slope becomes more negative#That indicates negative acceleration.
+=a curve whose slope becomes more positive with time#Correct. Increasing positive velocity means positive acceleration.
+}
+
+::PHY-U1-L2-Q14::A train's velocity changes from -6 m/s to +2 m/s in 4 s. Its average acceleration is {
+=+2 m/s²#Correct. [2 - (-6)] / 4 = 2 m/s².
+~-2 m/s²#The velocity change is positive.
+~+1 m/s²#The change is 8 m/s over 4 s.
+~-1 m/s²#Both magnitude and sign are incorrect.
+}
+
+::PHY-U1-L2-Q15::Why does a negative acceleration not always mean an object is slowing down? {
+~Acceleration never affects speed.#Acceleration can change both speed and direction.
+=If velocity is also negative, negative acceleration can increase the speed.#Correct. Same-sign velocity and acceleration increase velocity magnitude.
+~Speed can never decrease.#Speed can increase or decrease.
+~Negative signs have no physical meaning.#Signs encode direction relative to the coordinate choice.
+}
+
+::PHY-U1-L2-Q16::A car starts from rest and accelerates at 2 m/s² for 5 s. What is its final velocity? {
+~2.5 m/s#This divides rather than multiplies.
+~7 m/s#Initial velocity and time were incorrectly added.
+=10 m/s#Correct. vf = vi + at = 0 + (2)(5) = 10 m/s.
+~25 m/s#Time was squared without using the correct relationship.
+}
+
+::PHY-U1-L2-Q17::An acceleration-time graph is a horizontal line at -3 m/s² for 4 s. What is the change in velocity? {
+~+12 m/s#The sign should remain negative.
+~-0.75 m/s#This divides rather than multiplies.
+~+7 m/s#This does not represent the graph area.
+=-12 m/s#Correct. Δv = aΔt = (-3)(4) = -12 m/s.
+}
+
+::PHY-U1-L2-Q18::Two objects of different masses fall in a vacuum from the same height. Which statement is correct? {
+~The heavier object accelerates more.#Mass does not change free-fall acceleration in a vacuum.
+=Both accelerate downward at the same rate.#Correct. Ignoring air resistance, both have acceleration g downward.
+~The lighter object has zero acceleration.#Gravity acts on both objects.
+~Their accelerations point upward.#Gravitational acceleration points downward.
+}
+
+::PHY-U1-L2-Q19::Which information is necessary to calculate average acceleration? {
+~total distance and average speed#Those do not determine velocity change.
+~mass and force only#Force and mass can find acceleration, but not by the average-acceleration definition requested.
+=initial velocity, final velocity, and elapsed time#Correct. These provide Δv/Δt.
+~position and mass#These are insufficient.
+}
+
+::PHY-U1-L2-Q20::A velocity-time line crosses from positive velocity to negative velocity while maintaining a constant negative slope. The object {
+~only slows down during the entire interval.#After crossing zero, its speed increases in the negative direction.
+~only speeds up during the entire interval.#Before crossing zero, it slows down.
+=slows to rest, reverses direction, then speeds up.#Correct. Constant negative acceleration changes positive velocity through zero to negative velocity.
+~has zero acceleration at the crossing.#The slope remains negative at the crossing.
+}
+
+::PHY-U1-L2-Q21::Which graph features are required for a scientifically usable acceleration graph? {
+~a title only#A title alone is insufficient.
+~color and decorative symbols#Decoration does not establish quantitative meaning.
+~a trend line with no axis labels#The variables and units would be unknown.
+=a title, labeled axes, appropriate scale, and units#Correct. These features allow the graph to be interpreted and checked.
+}
+
+::PHY-U1-L2-Q22::A student's acceleration calculation has the correct number but no units or direction. Why is it incomplete? {
+=Acceleration is a vector quantity and must include units and directional information.#Correct. Magnitude alone does not fully specify acceleration.
+~Only the direction matters.#Magnitude and units also matter.
+~Acceleration is scalar but always needs a compass direction.#Acceleration is vector, not scalar.
+~Units are optional when the arithmetic is correct.#Units are essential to a physical result.
+}
+
+::PHY-U1-L2-Q23::A cart's velocity changes by +15 m/s during a 3 s interval. What is its average acceleration? {
+~+45 m/s²#This multiplies instead of divides.
+=+5 m/s²#Correct. +15 m/s divided by 3 s is +5 m/s².
+~-5 m/s²#The given velocity change is positive.
+~+12 m/s²#The subtraction is not applicable to these given values.
+}
+
+::PHY-U1-L2-Q24::Which claim is best supported by equally spaced velocity values increasing by 2 m/s each second? {
+~The object has constant velocity.#Velocity changes each second.
+~The object has decreasing acceleration.#The velocity changes by the same amount each second.
+=The object has constant acceleration of 2 m/s².#Correct. Equal velocity changes in equal times indicate constant acceleration.
+~The object is at rest.#Its velocity is changing and nonzero after the start.
+}
+
+::PHY-U1-L2-Q25::Which response best demonstrates complete acceleration reasoning? {
+~A final number with no work.#The result cannot be checked or interpreted fully.
+~A graph with unlabeled axes.#The quantities and units are unclear.
+~A statement that the object speeds up because acceleration is negative.#The effect depends on the velocity sign.
+=An equation, substitution, calculation with units, sign and direction, plus a graph or explanation consistent with the result.#Correct. This supplies traceable quantitative and representational evidence.
+}
