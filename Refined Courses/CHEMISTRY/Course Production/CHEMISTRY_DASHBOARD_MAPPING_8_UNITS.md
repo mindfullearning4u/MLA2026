@@ -112,3 +112,15 @@ Each lesson subsection must contain only:
 4. Lesson Quiz
 
 The Unit Assessment is a unit-level quiz placed after the final lesson subsection. All activities must use completion tracking, remain visible to students, and follow the release sequence defined above.
+
+
+## Course Overview and Expectations Shell
+
+Moodle Lesson activity ID: 17798. This course-level orientation must be completed before U1 PRETEST becomes available.
+
+1. P01 | Welcome and Course Overview
+2. P02 | How to Complete Chemistry Lessons
+3. P03 | Evidence, Submissions, and Assessments
+4. P04 | Expectations, Support, and Readiness
+
+The Course Overview and Expectations Lesson appears first in the orientation section, followed by Announcements. The obsolete standalone P02 Page resource was removed.
