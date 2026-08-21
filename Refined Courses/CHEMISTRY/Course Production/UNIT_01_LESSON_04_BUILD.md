@@ -75,3 +75,11 @@ The extra Help and TOR Support placeholder was deleted. TOR support remains embe
 - Student notebook and submission expectations are explicit.
 - Quiz questions match only the content taught and practiced in Lesson 4.
 
+## Revision after student-view review
+
+- P02 now provides all eight vocabulary terms and definitions directly; students are not required to search the eText for definitions.
+- P03 particle-model boxes were rebuilt with visible blue particles and motion arrows. Student view confirms that solid, liquid, and gas models render correctly.
+- P05 now includes a visible four-column example table and a downloadable, one-page fillable PDF with standardized rows for solid, liquid, and gas.
+- Worksheet backup: `Refined Courses/CHEMISTRY/Worksheets/Unit 01/CHEM_U1_L4_STATES_OF_MATTER_EVIDENCE_TABLE.pdf`
+- The fillable PDF contains 11 verified form fields and a completed plasma example that is not one of the required observation rows.
+
