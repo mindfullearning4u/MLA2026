@@ -31,6 +31,8 @@ The eText directions use exact Savvas page numbers and visible headings:
 
 Savvas does not use an **Accuracy and Precision** heading in this resource. Precision and uncertainty are therefore taught directly in the MLA lesson instead of being presented as a Savvas reading heading.
 
+The guided model includes a rendered line graph titled **Effect of Water Temperature on Mass Dissolved** directly beneath Step 2, â€œChoose a display.â€ The graph uses the worked-example table values, labels temperature as the independent x-axis variable, labels mass dissolved as the dependent y-axis variable, uses even scales, plots and labels all four values, and visually demonstrates the increasing trend.
+
 ## Evidence
 
 - **Notebook Evidence:** eight vocabulary terms, Savvas Question 1 aâ€“e, MLA graph task, and review corrections.
