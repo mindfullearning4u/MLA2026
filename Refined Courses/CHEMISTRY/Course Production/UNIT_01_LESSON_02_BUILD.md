@@ -19,11 +19,11 @@
 **Savvas location:** Nature of Science → Scientific Inquiry and Measurement  
 **Direct resource:** [Scientific Inquiry and Measurement](https://www.savvasrealize.com/dashboard/program/25700d59-2c62-3ea9-abe9-d19afceb1304/43/enhanced-toc/item/e79c7daa-b1c8-326b-9987-ed802519d905/23/cv/nonscorable)
 
-Students are directed to read only pages 8–12 and stop after the percent-error example on page 12. The earlier general scientific-inquiry pages are not assigned.
+Students read only pages 8–12 and stop after the percent-error example on page 12.
 
 ## P01 — Overview
 
-Focuses on measurement, SI and chemistry units, instrument precision, significant figures, scientific notation, and percent error. Lists MLA.CHEM.LAB.02 and MLA.CHEM.MAT.03.
+Focuses on measurement, SI and chemistry units, instrument precision, significant figures, scientific notation, and percent error.
 
 ## P02 — Vocabulary
 
@@ -31,48 +31,41 @@ MLA provides concise definitions for measurement, SI units, accuracy, estimated 
 
 ## P03 — Lesson
 
-Direct teaching only; no student work. Covers:
-
-- numbers and units
-- instrument-limited precision
-- significant-figure rules
-- scientific notation
-- percent-error formula and interpretation
+Direct teaching only; no student work. Covers numbers and units, instrument-limited precision, significant figures, scientific notation, and percent error.
 
 ## P04 — Practice, Model, and Guided Explanation
 
-No student work is required. Four complete models demonstrate:
-
-1. recording a graduated-cylinder measurement
-2. counting significant figures
-3. converting to scientific notation
-4. calculating and interpreting percent error
-
-Each model explains what information matters, each calculation step, why the method is appropriate, and how to check the result.
+No student work is required. Four complete models demonstrate instrument reading, significant figures, scientific notation, and percent error.
 
 ## P05 — Independent Application
 
-Students complete six problems involving unit selection, significant figures, scientific notation, standard notation, percent error, and appropriate instrument reporting.
+Students complete six problems involving unit selection, significant figures, notation, percent error, and instrument reporting.
 
 ## P06 — Lesson Review
 
-Provides a concise rule summary and answer check for the six Independent Application problems. Students correct errors and identify the reason for each correction.
+The page explicitly tells students:
+
+> On the previous page, **Independent Application**, you completed six measurement problems in your notebook. Compare each response with the possible answers on the review page.
+
+Students correct every incorrect response and write one short sentence explaining each correction. If all six responses are correct, they write: **“All six Independent Application responses checked—no corrections needed.”**
+
+The corrected Independent Application is included with U1 L2 Notebook Evidence. The review never uses vague directions such as “check your work” without naming the exact previous page and task.
 
 ## P07 — Checkpoint
 
-Five independent application problems assess appropriate measurement precision, significant figures, scientific notation, percent error, and instrument limitations.
+Five independent problems assess measurement precision, significant figures, scientific notation, percent error, and instrument limitations.
 
 ## Evidence
 
 - **Notebook Evidence:** vocabulary, six Independent Application problems, and corrections.
-- **Checkpoint Submission:** five numbered checkpoint problems with formulas, calculations, units, and appropriately rounded answers.
+- **Checkpoint Submission:** five numbered checkpoint problems with calculations, units, and appropriately rounded answers.
 
 ## Rendering Verification
 
 All seven pages were checked in Moodle student view:
 
 - no literal HTML displayed
-- one Chemistry course banner per page
+- one Chemistry banner per page
 - correct colored content card per page
 - correct page sequence
 - direct Savvas link included
