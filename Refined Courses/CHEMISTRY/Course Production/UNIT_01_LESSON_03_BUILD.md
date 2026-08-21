@@ -21,6 +21,16 @@
 
 Students use only Question 1, parts aâ€“e, on page 1 of the worksheet. Questions 2â€“3 are not assigned. MLA supplies the direct lesson, complete worked model, graph task, answer check, and checkpoint.
 
+The eText directions use exact Savvas page numbers and visible headings:
+
+- Page 1: **Types of Data**, including data tables.
+- Page 2: **Organizing and Visualizing Data**, **Using Graphs**, **Line Graphs**, and **Bar Graphs**.
+- Page 3: **Scatter Plots**, including data-set limitations.
+- Page 8: **Inferences From Data**, including trends and points outside the normal pattern.
+- Students stop at the end of page 8 and do not read pages 9â€“12 for this lesson.
+
+Savvas does not use an **Accuracy and Precision** heading in this resource. Precision and uncertainty are therefore taught directly in the MLA lesson instead of being presented as a Savvas reading heading.
+
 ## Evidence
 
 - **Notebook Evidence:** eight vocabulary terms, Savvas Question 1 aâ€“e, MLA graph task, and review corrections.
