@@ -8,8 +8,8 @@
 ## Page Sequence
 
 1. Lesson Overview and Evidence Checklist
-2. Vocabulary — Laboratory Safety
-3. Lesson — Laboratory Safety, Tools, and Procedures
+2. Vocabulary
+3. Lesson
 4. Practice, Model, and Guided Explanation
 5. Independent Application — Laboratory Safety Decisions
 6. Lesson Review — Laboratory Safety
@@ -44,9 +44,9 @@ The following MLA definitions are provided because the Savvas videos demonstrate
 
 Students record the eight provided definitions in their notebooks. They are not directed to search the entire Savvas text.
 
-## P03 — Direct Instruction
+## P03 — Lesson
 
-This page teaches without requiring student responses.
+This page provides direct instruction without requiring student responses.
 
 Savvas resources:
 
@@ -72,15 +72,7 @@ Three complete models cover eye exposure, cracked glassware, and a corrosion pic
 
 ## P05 — Independent Application
 
-Students independently analyze five situations:
-
-1. Heating a test tube pointed toward another person.
-2. An unlabeled bottle containing a clear liquid.
-3. Powder being brushed into the trash with a bare hand.
-4. Removing goggles while chemicals remain in use.
-5. Returning unused chemical to a stock bottle.
-
-Each response uses three labels: **Hazard, Safest Action, and Why**.
+Students independently analyze five safety situations. Each response uses three labels: **Hazard, Safest Action, and Why**.
 
 ## P06 — Lesson Review
 
@@ -88,14 +80,7 @@ Concise before/during/after laboratory summary. No new concepts or vocabulary ar
 
 ## P07 — Checkpoint
 
-Four applied situations assess MLA.CHEM.LAB.01:
-
-1. Splattering liquid and missing goggles.
-2. Chemical exposure to clothing and skin.
-3. A chemical with flame and health-hazard pictograms.
-4. Broken glass with chemical residue.
-
-Each response must identify the hazard, state the safest action, and justify how the action reduces risk. Students submit the four responses in the separate U1 L1 Checkpoint Submission.
+Four applied situations assess MLA.CHEM.LAB.01. Each response must identify the hazard, state the safest action, and justify how the action reduces risk.
 
 ## Moodle Release Sequence
 
