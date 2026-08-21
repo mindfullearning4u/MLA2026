@@ -21,6 +21,12 @@
 
 Students use only Question 1, parts aâ€“e, on page 1 of the worksheet. Questions 2â€“3 are not assigned. MLA supplies the direct lesson, complete worked model, graph task, answer check, and checkpoint.
 
+Independent Application directions require notebook completion rather than worksheet printing:
+
+- Part A: students write responses 1aâ€“1e directly in the notebook, naming the best display and explaining each choice. They do not download or print the worksheet.
+- Part B: students draw the graph directly in the notebook and answer Questions 1â€“4 beneath the graph.
+- Notebook Evidence consists of clear photos or a scan showing Part A, the completed Part B graph, and all four numbered Part B responses.
+
 The eText directions use exact Savvas page numbers and visible headings:
 
 - Page 1: **Types of Data**, including data tables.
