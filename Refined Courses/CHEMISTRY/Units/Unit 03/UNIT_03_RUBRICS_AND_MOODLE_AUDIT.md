@@ -86,3 +86,18 @@ Each Unit 3 assignment was opened through **Advanced grading** and verified for 
 ## TOR grading note
 
 Grade only the evidence explicitly required in that lesson's Moodle pages and answer sheet. Do not deduct points for work the lesson did not request. When a student has corrected independent work after the Lesson Review, grade the corrected submission while using the original work and corrections as evidence of the student's process.
+
+## Final student-readiness verification — 2026-08-23
+
+- All eight lessons contain the required seven-page instructional sequence.
+- Student-facing page rendering, colored workflow blocks, PDF links, simulation links, and detailed navigation directions were checked.
+- Extra final-page TOR-help blocks were removed from Lessons 1 and 2.
+- Lessons 5, 6, 7, and 8 now link directly to the correct Notebook Evidence Submission from Independent Application.
+- Lesson 8 Checkpoint links directly to the correct Checkpoint Submission.
+- Lesson quizzes use 25-question banks and display 5 random questions per one-attempt activity.
+- The Unit 3 pretest uses a 40-question bank and displays 10 random questions in one attempt.
+- The Unit Assessment uses a 40-question bank and displays 10 random questions in one attempt.
+- Quiz and Unit Assessment mastery is 80%; a TOR intervention is required before an additional attempt is released.
+- GitHub now contains the live Lesson 8 pages, its 25-question quiz-bank backup, and a balanced 40-question Unit 3 pretest backup.
+
+**Final status:** Unit 3 is ready for instructor audit and student use.
