@@ -2,55 +2,46 @@
   "course": "Chemistry",
   "unit": "Unit 04",
   "lesson": "Lesson 02",
-  "title": "Reaction Types",
+  "title": "Percent Composition and Empirical Formulas",
   "standards": [
-    "MLA.CHEM.REA.01"
+    "MLA.CHEM.REA.02",
+    "MLA.CHEM.LAB.02"
   ],
-  "floridaAlignment": [
-    "SC.912.P.8.8"
-  ],
-  "productionStatus": "Draft lesson built for audit",
+  "productionStatus": "Student-ready; checklist passed",
   "pageModel": "P01-P07",
   "noTeacherLedInstruction": true,
-  "requiredLabVisualSimulationEvidence": "Reaction classification investigation using equation tables and flowcharts. No reaction performance is required.",
-  "assessmentStimulusExpectation": "Reaction equation classification table",
-  "generatedDate": "2026-07-08",
-  "simulationVirtualLabReviewRequired": true,
-  "simulationVirtualLabReviewRequirement": "Required for balancing equations, conservation, mole/stoichiometry, and reaction classification",
-  "simulationVirtualLabReviewFocus": "Reaction classification investigation",
-  "directSimulationRequired": true,
-  "directSimulationTitle": "PhET Balancing Chemical Equations",
-  "directSimulationUrl": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_all.html",
-  "directSimulationStudentTask": "After the simulation opens, start with the introduction or balance-equation screen. Select one equation from the lesson activity and change coefficients only, not subscripts. Turn on atom counts, bar charts, or balance indicators if those tools are available. Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model.",
-  "simulationReviewImplementation": "Student-facing lesson includes one exact direct simulation/resource link plus adjacent step-by-step directions for what to open, click/use, observe, record, and connect to the lesson standard.",
-  "simulationSourceReference": "OpenStax Chemistry 2e; CK-12",
-  "directSimulationStudentUseDirections": [
-    "After the simulation opens, start with the introduction or balance-equation screen.",
-    "Select one equation from the lesson activity and change coefficients only, not subscripts.",
-    "Turn on atom counts, bar charts, or balance indicators if those tools are available.",
-    "Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model."
-  ],
-  "lessonTitle": "Reaction Types",
-  "primaryStandards": [
-    "MLA.CHEM.REA.01"
-  ],
-  "supportStandards": [
-    "SC.912.P.8.8"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "PhET Balancing Chemical Equations",
-      "exactDirectUrl": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_all.html",
-      "studentTask": "After the simulation opens, start with the introduction or balance-equation screen. Select one equation from the lesson activity and change coefficients only, not subscripts. Turn on atom counts, bar charts, or balance indicators if those tools are available. Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model.",
-      "directions": [
-        "After the simulation opens, start with the introduction or balance-equation screen.",
-        "Select one equation from the lesson activity and change coefficients only, not subscripts.",
-        "Turn on atom counts, bar charts, or balance indicators if those tools are available.",
-        "Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model."
-      ]
-    }
-  ],
-  "assessmentFormat": "Moodle XML",
-  "guidedPractice": "Moodle XML/CHEM_U04_L02_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/CHEM_U04_L02_Quiz_MoodleXML.xml"
+  "savvas": {
+    "investigation": "Investigation 5",
+    "experience": "Experience 3: Percent Composition and Empirical Formulas",
+    "eTextUrl": "https://www.savvasrealize.com/dashboard/content/viewer/standalone/loader/view?contentId=dec819b0-ab0e-3a2c-95d6-007189b1d112&contentVersion=10&locale=en",
+    "modelTitle": "Model Percent Composition",
+    "modelUrl": "https://www.savvasrealize.com/dashboard/content/viewer/standalone/loader/view/nonscorable?contentId=c8c07fd3-06e0-3a73-a8b0-f34d0be5a60b&contentVersion=47&locale=en",
+    "linksAndDirectionsVerified": true
+  },
+  "answerSheets": {
+    "independent": "Answer Sheets/CHEM_U4_L2_INDEPENDENT_APPLICATION_ANSWER_SHEET.pdf",
+    "checkpoint": "Answer Sheets/CHEM_U4_L2_CHECKPOINT_ANSWER_SHEET.pdf",
+    "matchStudentPrompts": true
+  },
+  "assessment": {
+    "bank": "Moodle XML/CHEM_U04_L02_Quiz_MoodleXML.xml",
+    "bankQuestions": 25,
+    "randomDraw": 5,
+    "attempts": 1,
+    "masteryPercent": 80,
+    "alignedToLesson": true
+  },
+  "rubrics": {
+    "notebook": "Notebook Evidence Rubric",
+    "checkpoint": "Checkpoint Rubric",
+    "pointsEach": 100,
+    "activeInMoodle": true
+  },
+  "releaseRestriction": "Quiz opens after U4 L2 Checkpoint Submission is marked complete",
+  "studentViewAudit": {
+    "colorsAndBlocks": true,
+    "torHelpBoxes": true,
+    "noEscapedHtml": true,
+    "completed": "2026-08-27"
+  }
 }
