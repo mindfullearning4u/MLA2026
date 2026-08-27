@@ -2,57 +2,55 @@
   "course": "Chemistry",
   "unit": "Unit 04",
   "lesson": "Lesson 03",
-  "title": "Chemical Equations and Conservation of Mass",
+  "title": "Concentrations of Solutions",
   "standards": [
-    "MLA.CHEM.REA.02"
+    "MLA.CHEM.SOL.01",
+    "MLA.CHEM.LAB.02"
   ],
-  "floridaAlignment": [
-    "SC.912.P.8.9",
-    "MA.K12.MTR.6.1"
-  ],
-  "productionStatus": "Draft lesson built for audit",
   "pageModel": "P01-P07",
   "noTeacherLedInstruction": true,
-  "requiredLabVisualSimulationEvidence": "Conservation and balancing model analysis using atom inventory tables. PhET balancing may be used only as an assigned virtual resource.",
-  "assessmentStimulusExpectation": "Equation/atom-count table",
-  "generatedDate": "2026-07-08",
-  "simulationVirtualLabReviewRequired": true,
-  "simulationVirtualLabReviewRequirement": "Required for balancing equations, conservation, mole/stoichiometry, and reaction classification",
-  "simulationVirtualLabReviewFocus": "Conservation/balancing model analysis",
-  "directSimulationRequired": true,
-  "directSimulationTitle": "PhET Balancing Chemical Equations",
-  "directSimulationUrl": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_all.html",
-  "directSimulationStudentTask": "After the simulation opens, start with the introduction or balance-equation screen. Select one equation from the lesson activity and change coefficients only, not subscripts. Turn on atom counts, bar charts, or balance indicators if those tools are available. Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model.",
-  "simulationReviewImplementation": "Student-facing lesson includes one exact direct simulation/resource link plus adjacent step-by-step directions for what to open, click/use, observe, record, and connect to the lesson standard.",
-  "simulationSourceReference": "PhET Balancing Chemical Equations; OpenStax Chemistry 2e",
-  "directSimulationStudentUseDirections": [
-    "After the simulation opens, start with the introduction or balance-equation screen.",
-    "Select one equation from the lesson activity and change coefficients only, not subscripts.",
-    "Turn on atom counts, bar charts, or balance indicators if those tools are available.",
-    "Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model."
-  ],
-  "lessonTitle": "Chemical Equations and Conservation of Mass",
-  "primaryStandards": [
-    "MLA.CHEM.REA.02"
-  ],
-  "supportStandards": [
-    "SC.912.P.8.9",
-    "MA.K12.MTR.6.1"
-  ],
-  "approvedDirectResources": [
-    {
-      "name": "PhET Balancing Chemical Equations",
-      "exactDirectUrl": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_all.html",
-      "studentTask": "After the simulation opens, start with the introduction or balance-equation screen. Select one equation from the lesson activity and change coefficients only, not subscripts. Turn on atom counts, bar charts, or balance indicators if those tools are available. Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model.",
-      "directions": [
-        "After the simulation opens, start with the introduction or balance-equation screen.",
-        "Select one equation from the lesson activity and change coefficients only, not subscripts.",
-        "Turn on atom counts, bar charts, or balance indicators if those tools are available.",
-        "Record the unbalanced equation, final coefficients, atom counts on both sides, and the conservation rule shown by the model."
-      ]
-    }
-  ],
-  "assessmentFormat": "Moodle XML",
-  "guidedPractice": "Moodle XML/CHEM_U04_L03_GuidedPractice_MoodleXML.xml",
-  "lessonQuiz": "Moodle XML/CHEM_U04_L03_Quiz_MoodleXML.xml"
+  "savvas": {
+    "title": "Concentrations of Solutions",
+    "exactDirectUrl": "https://www.savvasrealize.com/dashboard/content/viewer/standalone/loader/view?contentId=77b49f96-8c62-38b0-bcf9-3755bb031230&contentVersion=10&locale=en",
+    "directionsVerified": true
+  },
+  "simulation": {
+    "title": "PhET Molarity",
+    "exactDirectUrl": "https://phet.colorado.edu/sims/html/molarity/latest/molarity_all.html",
+    "directionsVerified": true
+  },
+  "answerSheets": {
+    "independentApplication": "Answer Sheets/CHEM_U4_L3_INDEPENDENT_APPLICATION_ANSWER_SHEET.pdf",
+    "checkpoint": "Answer Sheets/CHEM_U4_L3_CHECKPOINT_ANSWER_SHEET.pdf",
+    "moodlePromptsMatch": true
+  },
+  "moodle": {
+    "lessonActivityId": 17505,
+    "notebookAssignmentId": 17506,
+    "checkpointAssignmentId": 17507,
+    "quizId": 17761,
+    "lessonPages": [
+      16055,
+      16056,
+      16057,
+      16058,
+      16059,
+      16060,
+      16061
+    ],
+    "rubricAreaIds": {
+      "notebook": 4677,
+      "checkpoint": 4678
+    },
+    "quizAttempts": 1,
+    "quizGradeToPass": "4.00/5.00",
+    "releaseAfterCheckpointId": 17507
+  },
+  "quiz": {
+    "bankFile": "Moodle XML/CHEM_U04_L03_Quiz_MoodleXML.xml",
+    "bankQuestionCount": 25,
+    "activityRandomQuestionCount": 5
+  },
+  "status": "Lesson pages and rubrics completed; student-view rendering audited; quiz bank imported and activity configuration in final correction",
+  "updatedDate": "2026-08-27"
 }
