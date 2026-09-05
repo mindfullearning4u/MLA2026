@@ -1,6 +1,6 @@
-﻿# CW - Creative Writing
-**Credit:** 1.0 High School English Elective Credit  
-**Course Type:** Mastery-Based High School Creative Writing Course  
+# CW - Creative Writing
+**Credit:** 1.0 High School English Elective Credit
+**Course Type:** Mastery-Based High School Creative Writing Course
 
 ---
 
@@ -59,12 +59,12 @@ The course is organized into six units, each designed to build progressively tow
 
 Approved unit sequence:
 
-- Unit 1: Foundations of Creative Expression
-- Unit 2: Narrative Writing
-- Unit 3: Poetry and Language
-- Unit 4: Creative Nonfiction
-- Unit 5: Style and Revision
-- Unit 6: Portfolio and Publication
+- Unit 1: Foundations of Creative Writing, Voice, and Craft
+- Unit 2: Narrative Craft, Point of View, Character, and Setting
+- Unit 3: Fiction, Theme, Adaptation, and World Building
+- Unit 4: Poetry, Figurative Language, Mood, and Style
+- Unit 5: Revision, Workshop, Portfolio, and Publication
+- Unit 6: Author Portfolio, Presentation, and Publication Synthesis
 
 Each unit begins with a Unit Pretest. Lessons 1-7 then follow the standard MLA instructional workflow. Lesson 8 is the synthesis lesson and contains the Unit Assessment instead of a Lesson Quiz.
 
@@ -76,24 +76,22 @@ This structure provides multiple opportunities to learn, practice, apply, revise
 
 Lessons 1-7 follow the same learning sequence:
 
-Lesson Overview  
-->  
-Notebook Task Part 1  
-->  
-Notebook Task Part 2  
-->  
-Worked Example  
-->  
-Guided Practice  
-->  
-Independent Work  
-->  
-Checkpoint  
-->  
-Notebook Evidence Submission  
-->  
-Checkpoint Submission  
-->  
+Lesson Overview
+->
+Vocabulary and Definitions
+->
+Lesson
+->
+Worked Example
+->
+Independent Work
+->
+Checkpoint
+->
+Notebook Evidence Submission
+->
+Checkpoint Submission
+->
 Lesson Quiz
 
 This consistent structure helps students build understanding, receive feedback, demonstrate mastery, and prepare for success on unit assessments.
@@ -112,11 +110,10 @@ Diagnostic assessments aligned to MLA standards and cross-referenced academic fr
 
 ### Notebook Evidence Submissions (Teacher of Record Graded)
 
-Includes:
+Includes only:
 
-- Notebook Task Part 1
-- Notebook Task Part 2
-- Independent Work
+- Lesson vocabulary with complete definitions
+- Independent Work responses or products
 
 Students may also include additional notes, worked examples, annotations, planning work, source notes, data work, response drafts, revision notes, and practice work completed during instruction.
 
@@ -128,10 +125,6 @@ Application-based mastery tasks requiring students to demonstrate reasoning, com
 
 Checkpoint Submission demonstrates application of course skills in contexts that require explanation, support, organization, and communication.
 
-### Guided Practice
-
-Guided Practice provides immediate lesson-level practice with teachable feedback before independent work and assessment.
-
 ### Lesson Quizzes
 
 Standards-aligned quizzes appear in Lessons 1-7 and verify mastery of taught lesson skills before students advance.
@@ -142,13 +135,15 @@ Comprehensive evaluations measure mastery of standards taught throughout the uni
 
 ### Grading Breakdown
 
-Notebook Evidence = 10%
+Unit Pretests = 0%
+
+Notebook Evidence = 20%
 
 Checkpoint Submission = 20%
 
 Lesson Quizzes = 30%
 
-Unit Assessments = 40%
+Unit Assessments = 30%
 
 This multi-measure approach ensures that mastery is demonstrated through multiple forms of evidence rather than a single assessment.
 
