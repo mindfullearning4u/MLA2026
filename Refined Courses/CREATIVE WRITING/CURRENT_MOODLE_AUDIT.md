@@ -3,9 +3,18 @@
 **Course:** Creative Writing
 **Moodle course ID:** 48
 **Audit date:** September 5, 2026
-**Status:** Partial source migration; exact live-content synchronization pending
+**Status:** Live lesson and orientation content captured; assessment question exports and full archive pending
 
-The prior completion statements below describe the intended course requirements, not a completed verification of every live page or question. Commit 8ed00f952 reorganized existing repository content; it did not capture all subsequent Moodle content revisions.
+Commit 8ed00f952 reorganized existing repository content. The subsequent September 5 capture replaces all 288 lesson HTML files in Units with the current rendered Moodle HTML. All four orientation pages are preserved under Live Moodle Source/Orientation. Each lesson has a live-source.json recording the source URL, page IDs, page names, navigation, and capture time. This verifies capture and structure, not instructional-quality approval.
+
+## Completed live content capture
+
+- 48 lessons, 288 HTML pages, and 48 navigation/source records.
+- All 48 lessons have the exact six expected page names in order.
+- Four orientation pages captured directly from their editor HTML fields.
+- All 54 assessment activity question lists and bank references captured under Live Moodle Source/Assessments.
+- Bank inventory files are partial and are not complete question/answer exports.
+- Existing GIFT/XML assessment files remain legacy copies until current answers and feedback are captured and compared.
 
 ## Live gradebook verification
 
@@ -20,7 +29,6 @@ Verified directly in Moodle course 48 on September 5, 2026:
 ## Outstanding backup work
 
 - Obtain the requested full Moodle archive, currently shown as Process pending.
-- Capture and compare all 288 live lesson pages and four orientation pages against repository copies.
 - Capture and compare the current pretest, quiz, and unit-assessment questions and settings. File presence and successful parsing do not prove content synchronization or alignment.
 
 ## Course structure
@@ -62,4 +70,4 @@ Verified directly in Moodle course 48 on September 5, 2026:
 
 ## Human-audit note
 
-The Moodle course remains the live delivery copy. No full Moodle backup archive has yet been added to this repository. Do not treat the current source files as a verified exact recovery copy of the finalized live course.
+The Moodle course remains the live delivery copy. No full Moodle backup archive has yet been added to this repository. The current lesson HTML and orientation captures are recovery sources for their page content. The repository is not yet a complete verified recovery copy of assessments and course settings.
