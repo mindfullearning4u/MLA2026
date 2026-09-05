@@ -3,7 +3,25 @@
 **Course:** Creative Writing
 **Moodle course ID:** 48
 **Audit date:** September 5, 2026
-**Status:** Ready for human audit
+**Status:** Partial source migration; exact live-content synchronization pending
+
+The prior completion statements below describe the intended course requirements, not a completed verification of every live page or question. Commit 8ed00f952 reorganized existing repository content; it did not capture all subsequent Moodle content revisions.
+
+## Live gradebook verification
+
+Verified directly in Moodle course 48 on September 5, 2026:
+
+- All six pretests: 0.0%, with weight override enabled.
+- Notebook category: 20.0%, with weight override enabled; 48 submissions.
+- Checkpoint category: 20.0%, with weight override enabled; 48 submissions.
+- Quiz category: 30.0%, with weight override enabled; 42 quizzes.
+- Unit Assessment category: 30.0%, with weight override enabled; all six final assessments.
+
+## Outstanding backup work
+
+- Obtain the requested full Moodle archive, currently shown as Process pending.
+- Capture and compare all 288 live lesson pages and four orientation pages against repository copies.
+- Capture and compare the current pretest, quiz, and unit-assessment questions and settings. File presence and successful parsing do not prove content synchronization or alignment.
 
 ## Course structure
 
@@ -30,7 +48,7 @@
 - Checkpoint is weighted at 20%.
 - Pretests, lesson quizzes, and unit assessments were reviewed against their corresponding lesson and unit topics.
 
-## Completion checks
+## Required completion checks (not yet certified for this backup)
 
 - Lesson Overview identifies focus, standards/skills, learning goals, workflow, mastery evidence, and support.
 - Vocabulary pages define lesson-specific language; unfamiliar contextual terms are defined or assigned for definition.
@@ -44,4 +62,4 @@
 
 ## Human-audit note
 
-This repository record documents the current Creative Writing course design and the automated source checks completed before commit. The Moodle course remains the live delivery copy; the source files and Moodle backup archive in this repository are the recovery copies.
+The Moodle course remains the live delivery copy. No full Moodle backup archive has yet been added to this repository. Do not treat the current source files as a verified exact recovery copy of the finalized live course.
