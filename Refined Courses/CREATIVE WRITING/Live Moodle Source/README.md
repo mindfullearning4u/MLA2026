@@ -1,13 +1,5 @@
-# Live Moodle source capture
+# Finalized Moodle recovery source
 
-Captured September 5, 2026 from Creative Writing, Moodle course 48.
+Source: backup-moodle2-course-48-CW-20260910-2113-nu.mbz
 
-- `Orientation/P01.html` through `P04.html`: exact editor HTML for Course Overview, How This Course Works, Expectations and Policies, and Course Acknowledgement.
-- `../Units/Unit NN/Lesson NN/P01.html` through `P06.html`: current content HTML read from the expanded Moodle lesson display. Browser HTML normalization may differ from raw editor formatting while preserving rendered content.
-- Each lesson's `live-source.json`: source URL, capture time, page IDs, page titles, and navigation labels/jumps.
-- `Assessments/activity-inventory.json`: 54 live assessment activities.
-- `Assessments/<activity-id>.json`: current question list, fixed-question links or random-bank references. These records do not contain complete answers or feedback.
-- `Assessments/<activity-id>-bank.json`: partial question-bank inventories; not a substitute for full XML exports.
-- `Questions/CW_U01_PRE_Q01.json` through `CW_U01_PRE_Q10.json`: complete Unit 1 pretest question editor fields, including question HTML, answer HTML, scores, feedback, and behavior settings. Other question banks remain pending.
-
-Assessment GIFT/XML files elsewhere in the course tree have not yet been verified against current Moodle answers and feedback. A full course archive remains pending in Moodle. Consult `../CURRENT_MOODLE_AUDIT.md` for the precise completion status.
+`Export XML` contains exact Moodle records, including all question versions and category mappings, activity settings, navigation, rubrics, gradebook and content-bank definitions. `Assets/index.json` maps original filenames to preserved payloads. Lesson HTML is in the unit/lesson folders; four orientation pages are in `Orientation`; assignment instructions and readable rubrics are in `Submissions`. Use the `.mbz` archive for complete Moodle restoration. Standalone HTML preserves the source markup but Moodle-hosted interactions may require Moodle restoration to run. The lesson assessment XML files contain the active bank questions; the archive preserves full version history.

@@ -1,4 +1,6 @@
 # CW - Creative Writing
+> Finalized September 10, 2026 Moodle backup: the authoritative four course overview and expectations pages are in [Live Moodle Source/Orientation](Live%20Moodle%20Source/Orientation). This planning overview is retained for reference; the exact exported content and settings take precedence. See [CURRENT_MOODLE_AUDIT.md](CURRENT_MOODLE_AUDIT.md) and [Moodle Backup](Moodle%20Backup).
+
 **Credit:** 1.0 High School English Elective Credit
 **Course Type:** Mastery-Based High School Creative Writing Course
 

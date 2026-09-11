@@ -1,87 +1,30 @@
-# CREATIVE WRITING - Unit 01 Overview: Foundations of Creative Expression
+# Unit 1: Foundations of Creative Writing, Voice, and Craft
 
----
+Current Moodle course 48 unit outline, captured September 5, 2026.
 
-## Unit Overview
+## Lessons
 
-This unit establishes the foundation for creative writing. Students develop writing habits, explore voice and imagery, practice observation, use academic vocabulary to analyze and discuss writing craft, and apply standard English conventions in original writing.
+1. [Creative writing identity and workshop norms](Lesson%2001/P01.html)
+2. [Voice, tone, and writer purpose](Lesson%2002/P01.html)
+3. [Academic and craft vocabulary](Lesson%2003/P01.html)
+4. [Reading complex craft models](Lesson%2004/P01.html)
+5. [Inference and writer choices](Lesson%2005/P01.html)
+6. [Evidence-based craft reasoning](Lesson%2006/P01.html)
+7. [Inclusive academic and social communication](Lesson%2007/P01.html)
+8. [Putting It All Together: Unit 1 synthesis](Lesson%2008/P01.html)
 
-Emphasis is placed on voice, sensory detail, figurative language, image-making, writing routines, precision, conventions, and reflective response. Students begin building a writer's notebook as a record of ideas, drafts, craft observations, and revision choices.
+## Learning sequence and assessment
 
-Instruction and assessment are aligned to selected Florida B.E.S.T. ELA Standards with an emphasis on creative production, language control, interpretation, and communication. Students are expected to demonstrate writing fluency and conceptual understanding through original writing, vocabulary application, conventions, and craft reflection.
+Each lesson has six pages: Lesson Overview; Vocabulary and Definitions; Lesson; Worked Example; Independent Work; Checkpoint. Submit vocabulary and Independent Work through Notebook Evidence, and Checkpoint responses separately. Lessons 1–7 use lesson quizzes; Lesson 8 leads to the unit assessment.
 
----
+The diagnostic pretest has 10 fixed questions. Lesson quizzes draw 5 questions from 25-question banks. The unit assessment draws 10 questions from its 40-question bank. Grade weights: pretest 0%; Notebook 20%; Checkpoint 20%; Quiz 30%; Unit Assessment 30%. See the captured settings for exact completion, attempt, and release conditions.
 
-## Primary B.E.S.T. Benchmarks
+## Authoritative recovery sources
 
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.9.V.1.1 | Integrate academic vocabulary appropriate to grade level in speaking and writing. |
-| ELA.9.C.3.1 | Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level. |
+- The six HTML pages and live-source.json inside each lesson directory.
+- [Live unit outline and activity links](../../Live%20Moodle%20Source/Units/Unit-01.json).
+- [Assessment settings and bank mappings](../../Live%20Moodle%20Source/Assessments/).
+- [Submission instructions and rubrics](../../Live%20Moodle%20Source/Submissions/).
 
----
+This is a backup of live course content, not a new instructional-quality certification.
 
-## Prerequisite and Supporting Concepts
-
-Students are expected to have prior knowledge of:
-- generating ideas for writing;
-- writing in complete sentences;
-- using descriptive details;
-- participating in discussion;
-- revising writing based on a clear purpose.
-
-These concepts support creative expression, craft discussion, and clear written communication in this unit.
-
-| Standard Code | Standard Description |
-|--------------|----------------------|
-| ELA.9.C.1.2 | Write narratives using narrative techniques, varied transitions, and a clearly established point of view. |
-
----
-
-## Lesson Breakdown
-
-| Lesson | Lesson Title | Primary Standard(s) | Assessment |
-|--------|--------------|---------------------|------------|
-| Lesson 1 | Writing Habits and the Writer's Notebook | ELA.9.V.1.1 | Quiz |
-| Lesson 2 | Voice and Creative Observation | ELA.9.V.1.1, ELA.9.C.1.2 | Quiz |
-| Lesson 3 | Imagery and Sensory Detail | ELA.9.V.1.1, ELA.9.C.1.2 | Quiz |
-| Lesson 4 | Figurative Language as Creative Choice | ELA.9.V.1.1, ELA.9.C.1.2 | Quiz |
-| Lesson 5 | Craft Vocabulary in Speaking and Writing | ELA.9.V.1.1 | Quiz |
-| Lesson 6 | Conventions in Original Writing | ELA.9.C.3.1 | Quiz |
-| Lesson 7 | Foundational Creative Response | ELA.9.C.1.2, ELA.9.V.1.1, ELA.9.C.3.1 | Quiz |
-| Lesson 8 | Unit Assessment | All Unit Benchmarks | Unit Assessment |
-
----
-
-## Unit Assessment Alignment
-
-The Unit Assessment evaluates student mastery of all benchmarks addressed in this unit. Students must demonstrate consistent proficiency across:
-
-- conceptual understanding;
-- writing habits;
-- voice and imagery;
-- academic vocabulary use;
-- standard English conventions;
-- original creative response.
-
-Assessment items require students to discuss craft using academic vocabulary, apply standard English conventions, and produce original creative writing that demonstrates control of voice, imagery, and language.
-
----
-
-## Mastery Expectation
-
-Students are expected to demonstrate a minimum of 80% mastery across all required instructional components, including Notebook Evidence, Checkpoints, Quizzes, and the Unit Assessment.
-
-Students are not advanced to the next unit until mastery is achieved. Mastery is determined through consistent performance across multiple measures and is not based on a single assessment.
-
-The Unit Assessment is required for all students and contributes to the overall mastery determination.
-
-Students participating in the Accelerated Path must meet additional expectations. Please refer to the official Accelerated Path Overview document for full eligibility, requirements, and continuation criteria.
-
----
-
-## Problem-Solving Connection
-
-This unit helps students make intentional choices as writers. Students learn to select language, details, and conventions that communicate a clear creative effect for an audience.
-
----
