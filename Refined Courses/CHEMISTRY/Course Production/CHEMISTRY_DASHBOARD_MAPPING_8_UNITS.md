@@ -12,17 +12,28 @@
 4. The final instructional lesson includes its normal lesson quiz.
 5. The Unit Assessment unlocks after the final lesson quiz.
 
+## MLA Chemistry Lesson Workflow
+
+1. Overview and Evidence Checklist
+2. Vocabulary
+3. Lesson — direct instruction and notes; no student work
+4. Practice, Model, and Guided Explanation — fully worked demonstration; no student work
+5. Independent Application
+6. Lesson Review
+7. Checkpoint
+
+Savvas is used selectively as a resource library for eText sections, videos, worksheets, laboratories, simulations, and assessments. MLA supplies direct instruction, worked examples, and added rigor when needed. Every Savvas link must identify exactly what to open, what to complete, where to stop, and what evidence to submit.
+
 ## Unit and Lesson Map
 
-### Unit 1: Scientific Practices, Laboratory Safety, and Matter — 7 lessons
+### Unit 1: Foundations of Chemistry — Safety, Measurement, Matter, and Application — 6 lessons
 
-1. What Counts as Chemistry Evidence?
-2. Lab Safety, Tools, and Procedures
-3. Measurement, Units, and Significant Figures
-4. Data Tables, Graphs, Precision, and Uncertainty
-5. States of Matter and Particle Models
-6. Physical and Chemical Properties and Changes
-7. Models, Laws, Theories, and Chemistry Decisions
+1. Laboratory Safety, Tools, and Procedures
+2. Measurement, Units, Significant Figures, and Percent Error
+3. Data Analysis, Graphing, Precision, and Uncertainty
+4. Matter, States of Matter, and Particle Models
+5. Physical and Chemical Properties and Changes
+6. Applying Chemistry Skills — Evidence-Based Investigation
 
 ### Unit 2: Atomic Structure and Periodic Patterns — 7 lessons
 
@@ -96,8 +107,8 @@
 
 ## Totals
 
-- 56 instructional lessons
-- 56 lesson quizzes
+- 55 instructional lessons
+- 55 lesson quizzes
 - 8 unit pretests
 - 8 unit assessments
 - 0 “Putting It All Together” lesson shells
@@ -111,8 +122,7 @@ Each lesson subsection must contain only:
 3. Checkpoint Submission
 4. Lesson Quiz
 
-The Unit Assessment is a unit-level quiz placed after the final lesson subsection. All activities must use completion tracking, remain visible to students, and follow the release sequence defined above.
-
+The Unit Assessment is placed directly after the final lesson quiz. All activities use completion tracking, remain visible to students, and follow the release sequence defined above.
 
 ## Course Overview and Expectations Shell
 
@@ -123,4 +133,4 @@ Moodle Lesson activity ID: 17798. This course-level orientation must be complete
 3. P03 | Evidence, Submissions, and Assessments
 4. P04 | Expectations, Support, and Readiness
 
-The Course Overview and Expectations Lesson appears first in the orientation section, followed by Announcements. The obsolete standalone P02 Page resource was removed.
+The Course Overview and Expectations Lesson appears first in the orientation section, followed by Announcements.
