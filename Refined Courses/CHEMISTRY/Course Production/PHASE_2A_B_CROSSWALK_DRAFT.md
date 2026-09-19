@@ -1,72 +1,82 @@
-# Chemistry Phase 2A-B: Crosswalk Draft
+# Chemistry Full Standards Crosswalk and Validation
 
-## Crosswalk Purpose
+## Validation decision
 
-This crosswalk connects every MLA Chemistry standard to official CPALMS Florida Chemistry 1 standards and embedded Florida B.E.S.T. literacy expectations, Common Core Literacy in Science and Technical Subjects expectations, ACT Science readiness, SAT science reading/data expectations, college readiness, workforce readiness, and scientific literacy.
+The revised 8-unit, 61-lesson architecture provides a defensible instructional home for all 26 MLA Chemistry standards and all 35 controlling CPALMS science benchmarks listed for Chemistry 1 in the approved repository inventory. Florida B.E.S.T., MTR, ELD, Common Core science literacy, ACT Science, and Digital SAT expectations are supporting skill correlations; they do not replace the Chemistry content standards.
 
-This document is architecture only. It does not create lessons, assessments, HTML content, JSON content, legacy assessment-bank content, or LMS pages.
+## Official frameworks used
 
-## Common Cross-Framework Abbreviations
+- CPALMS Chemistry 1, course 2003340: https://www.cpalms.org/PreviewCourse/Preview/23853
+- Florida B.E.S.T. ELA Standards: https://www.fldoe.org/file/7539/elabeststandardsfinal.pdf
+- Common Core Literacy in Science and Technical Subjects: https://corestandards.org/wp-content/uploads/2023/09/ELA_Standards1.pdf
+- Digital SAT Suite Assessment Framework: https://satsuite.collegeboard.org/media/pdf/assessment-framework-for-digital-sat-suite.pdf
+- ACT Science framework: https://www.act.org/content/act/en/products-and-services/the-act/test-preparation/act-exam-sections-and-structure.html
 
-| Abbreviation | Meaning |
+## Correlation key
+
+- **ACT-IOD:** Interpretation of Data
+- **ACT-SIN:** Scientific Investigation
+- **ACT-EMI:** Evaluating Scientific Arguments and Models with Evidence
+- **SAT-II:** Information and Ideas
+- **SAT-CE:** Command of Evidence, textual or quantitative
+- **SAT-INF:** Inferences
+- **RST:** Common Core Reading Standards for Literacy in Science and Technical Subjects
+- **WHST:** Common Core Writing Standards for Literacy in Science and Technical Subjects
+
+## Complete MLA standards validation matrix
+
+| MLA standard | MLA competency | Controlling Florida alignment | B.E.S.T./MTR/ELD support | CCSS support | ACT/SAT support | Primary revised placement and Savvas evidence |
+|---|---|---|---|---|---|---|
+| SCI.01 | Ask testable chemistry questions, plan investigations, collect evidence, and communicate explanations. | SC.912.N.1.1 | EE.1.1, EE.5.1, MTR.1.1, ELD.SC.1 | RST.3, RST.7; WHST.2, 7, 9 | ACT-SIN, ACT-EMI; SAT-CE | U1 L1â€“L4; Nature of Science inquiry/measurement and lab-safety resources; reinforced in every investigation |
+| SCI.02 | Explain scientific methods, reliability, replication, creativity, durability, and change in knowledge. | SC.912.N.1.2, 1.4, 1.5, 1.7; N.2.4, 2.5 | EE.1.1â€“3.1 | RST.1, 6, 8, 9 | ACT-SIN, ACT-EMI; SAT-II, SAT-INF | U1 L1â€“L3 and U8 L1; Nature of Science resources |
+| SCI.03 | Distinguish questions, observations, inferences, models, theories, laws, consensus, and science-based decisions. | SC.912.N.1.6; N.2.2; N.3.2, 3.3, 3.5; N.4.1 | EE.1.1, 3.1, 6.1 | RST.1, 6â€“9; WHST.1 | ACT-EMI; SAT-CE, SAT-INF | U1 L2â€“L3; U8 L1â€“L4; Models and Communication, Science and Society, Green Chemistry |
+| LAB.01 | Apply safety, apparatus, handling, measurement, and procedural expectations. | SC.912.N.1.1 and Chemistry 1 laboratory course notes | EE.2.1, 5.1; ELD.SC.1 | RST.3; WHST.2 | ACT-SIN | U1 L4; Lab Safety Videos; reinforced in every approved lab/virtual lab |
+| LAB.02 | Use measurement, significant figures, scientific notation, units, tables, graphs, and models. | SC.912.N.1.1 | MTR.2.1, 3.1, 5.1, 7.1 | RST.3, 7; WHST.2 | ACT-IOD, ACT-SIN; SAT-CE quantitative | U1 L1â€“L2; U4 L1â€“L10; measurement, data, quantities, and stoichiometry resources |
+| LAB.03 | Analyze precision, uncertainty, patterns, reasonableness, and chemical evidence. | SC.912.N.1.1 | EE.1.1, 3.1; MTR.5.1, 6.1, 7.1 | RST.7â€“9; WHST.1, 9 | ACT-IOD, ACT-EMI; SAT-CE, SAT-INF | U1 L2â€“L3; reinforced through investigation data and evaluations |
+| MAT.01 | Differentiate states and explain phase transitions using particles. | SC.912.P.8.1; P.12.11 | EE.1.1, MTR.2.1 | RST.7; WHST.2 | ACT-IOD, ACT-EMI; SAT-CE | U1 L5â€“L6; States of Matter and Modeling Phase Changes |
+| MAT.02 | Distinguish physical/chemical properties and changes. | SC.912.P.8.2 | EE.3.1 | RST.1, 7 | ACT-EMI; SAT-INF | U1 L5â€“L6 and U4 L5â€“L7; physical-material and reaction evidence |
+| MAT.03 | Classify matter and describe systems with units, notation, and significant figures. | SC.912.N.1.1 | MTR.2.1, 3.1, 6.1 | RST.3, 7 | ACT-IOD; SAT-CE quantitative | U1 L1â€“L2; U4 L1â€“L4 |
+| ATO.01 | Explain atomic theory and evidence-driven model change. | SC.912.P.8.3 | EE.1.1, 3.1 | RST.1, 6, 8, 9 | ACT-EMI; SAT-CE, SAT-INF | U2 L1â€“L4; Particle Nature, Modeling Atoms, Bohr Model, Modern Atomic Theory |
+| ATO.02 | Describe protons, neutrons, electrons, mass, charge, and location. | SC.912.P.8.4 | EE.2.1; MTR.2.1 | RST.4, 7 | ACT-IOD; SAT-CE quantitative | U2 L1â€“L5; atomic diagrams, models, and particle evidence |
+| ATO.03 | Relate electrons, quantized energy, periodic position, and properties. | SC.912.P.8.5; P.10.9 | MTR.5.1 | RST.7, 9 | ACT-IOD, ACT-EMI; SAT-CE | U2 L3â€“L8; Bohr, electrons, periodic table, and trends |
+| ATO.04 | Relate wavelength, frequency, energy, and atomic applications. | SC.912.P.10.18 | MTR.2.1, 5.1 | RST.7 | ACT-IOD; SAT-CE quantitative | U2 L3; Atomic Emission Spectra and the Bohr Model |
+| BON.01 | Distinguish intramolecular bonding from hydrogen bonding and van der Waals attractions. | SC.912.P.8.6 | EE.3.1, MTR.5.1 | RST.4, 7 | ACT-EMI; SAT-INF | U3 L1â€“L4, L6â€“L8; bonding and structure-property resources |
+| BON.02 | Interpret formulas and models as composition and structure. | SC.912.P.8.7 | MTR.2.1, 5.1 | RST.4, 7 | ACT-IOD; SAT-CE quantitative | U3 L1, L3, L5â€“L6; U4 L3; formula/model resources |
+| BON.03 | Use nomenclature and formulas to communicate composition. | SC.912.P.8.7 | EE.5.1, 6.1 | RST.4; WHST.2 | SAT-II | U3 L5; Names and Formulas of Compounds; reinforced U7 L4â€“L5 |
+| REA.01 | Characterize reaction types, including redox and acid-base reactions. | SC.912.P.8.8 | EE.3.1, MTR.5.1 | RST.7 | ACT-IOD, ACT-EMI; SAT-INF | U4 L5â€“L7; U6 L5/L7; U7 L1â€“L2 |
+| REA.02 | Apply mole reasoning and conservation to reaction quantities. | SC.912.P.8.9 | MTR.2.1, 3.1, 6.1, 7.1 | RST.3, 7; WHST.2 | ACT-IOD; SAT-CE quantitative | U4 L1â€“L4 and L8â€“L10; quantities and stoichiometry |
+| REA.03 | Differentiate and model chemical and nuclear reactions. | SC.912.P.10.12 | EE.1.1, 3.1 | RST.7â€“9 | ACT-EMI; SAT-CE, SAT-INF | U7 L7â€“L9; Nuclear Processes investigation |
+| ENE.01 | Distinguish energy forms and transformations in chemical systems. | SC.912.P.10.1 | EE.3.1, MTR.2.1 | RST.7 | ACT-IOD, ACT-EMI | U5 L1â€“L3; reinforced U7 L3/L8 |
+| ENE.02 | Relate temperature to average molecular kinetic energy. | SC.912.P.10.5 | MTR.5.1, 6.1 | RST.7 | ACT-IOD; SAT-CE quantitative | U1 L6; U5 L3â€“L7 |
+| ENE.03 | Interpret potential-energy diagrams and endothermic/exothermic processes. | SC.912.P.10.6, 10.7 | MTR.2.1, 5.1 | RST.7 | ACT-IOD, ACT-EMI; SAT-CE | U5 L1â€“L3; reinforced U6 L2/L4 |
+| GAS.01 | Explain ideal-gas and phase behavior using kinetic molecular theory. | SC.912.P.12.10, 12.11 | MTR.2.1, 3.1, 7.1 | RST.3, 7 | ACT-IOD; SAT-CE quantitative | U1 L5â€“L6; U5 L4â€“L7 |
+| GAS.02 | Explain water, solutions, concentration, and solvent interactions. | SC.912.L.18.12 | EE.1.1, MTR.3.1, 7.1 | RST.7; WHST.2 | ACT-IOD, ACT-EMI; SAT-CE | U3 L8â€“L9; U4 L4; Water, Solutions, Concentration resources |
+| GAS.03 | Relate acids/bases to hydronium, hydroxyl, and pH. | SC.912.P.8.11 | MTR.2.1, 3.1, 6.1 | RST.4, 7 | ACT-IOD; SAT-CE quantitative | U6 L5â€“L8; Acid-Base Equilibria investigation |
+| GAS.04 | Explain concentration, temperature, catalysts, rates, and dynamic equilibrium. | SC.912.P.12.12, 12.13 | EE.1.1, 3.1; MTR.5.1, 6.1 | RST.7â€“9; WHST.1 | ACT-IOD, ACT-EMI; SAT-CE, SAT-INF | U6 L1â€“L4 and L8; Reaction Rates and Equilibrium resources |
+
+## Controlling CPALMS science-benchmark accounting
+
+| Domain | Benchmarks accounted for |
 |---|---|
-| CCSS-RST | Common Core Reading Standards for Literacy in Science and Technical Subjects: cite evidence, determine central ideas, follow technical procedures, analyze data/visuals, evaluate explanations, compare sources, read technical texts. |
-| CCSS-WHST | Common Core Writing Standards for Literacy in Science and Technical Subjects: write explanations/arguments, use evidence, conduct research, gather information, write routinely. |
-| ACT-SCI | ACT Science readiness: interpretation of data, scientific investigation, evaluation of models/inferences/experimental results. |
-| SAT-SCI | SAT science-related reading and data expectations: command of evidence, words in context, analysis of quantitative information, interpretation of graphics, synthesis across texts/data. |
-| College Ready | Entry-level postsecondary science readiness: technical reading, quantitative reasoning, lab/data reasoning, academic communication, and chemical problem solving. |
-| Workforce Ready | Career readiness: safety, procedures, measurement, data recording, quality control, collaboration, source evaluation, and technical communication. |
-| Scientific Literacy | Public-facing science literacy: evidence evaluation, model understanding, uncertainty, chemical risk, energy/material decisions, and claims analysis. |
+| Nature of science | SC.912.N.1.1, 1.2, 1.4, 1.5, 1.6, 1.7; N.2.2, 2.4, 2.5; N.3.2, 3.3, 3.5; N.4.1 |
+| Matter and atomic structure | SC.912.P.8.1â€“8.9 and P.8.11, excluding codes not listed for the course |
+| Energy and nuclear chemistry | SC.912.P.10.1, 10.5, 10.6, 10.7, 10.9, 10.12, 10.18 |
+| Gases, phases, rates, equilibrium | SC.912.P.12.10, 12.11, 12.12, 12.13 |
+| Water and solutions | SC.912.L.18.12 |
 
-## MLA Chemistry Crosswalk
+## Evidence and assessment controls
 
-| MLA Standard | Florida Alignment | Common Core Alignment | ACT Alignment | SAT Alignment | College Readiness | Workforce Readiness | Scientific Literacy |
-|---|---|---|---|---|---|---|---|
-| MLA.CHEM.SCI.01 | SC.912.N.1.1 | CCSS-RST procedural reading; CCSS-WHST explanatory writing | Experimental design; variable control | Data interpretation; evidence use | Plans investigations and explains results | Follows procedures, safety, and documentation expectations | Understands how chemistry evidence is generated |
-| MLA.CHEM.SCI.02 | SC.912.N.1.2; SC.912.N.1.4; SC.912.N.1.5; SC.912.N.1.7; SC.912.N.2.4; SC.912.N.2.5 | Evidence evaluation; source comparison; argument writing | Evaluation of claims and replication | Command of evidence; source evaluation | Evaluates scientific reliability and change | Assesses reliability of technical information | Understands science as durable, testable, and revisable |
-| MLA.CHEM.SCI.03 | SC.912.N.1.6; SC.912.N.2.2; SC.912.N.3.2; SC.912.N.3.3; SC.912.N.3.5; SC.912.N.4.1 | Technical vocabulary; explanatory texts; models | Model evaluation and inference | Scientific text interpretation | Distinguishes models, laws, theories, and societal uses | Communicates technical distinctions accurately | Applies chemistry reasoning to decisions |
-| MLA.CHEM.LAB.01 | SC.912.N.1.1 | Procedure reading; technical sequence | Scientific investigation | Interpreting methods and results | Uses safe, valid inquiry methods | Applies lab safety and quality-control procedures | Understands responsible chemical investigation |
-| MLA.CHEM.LAB.02 | SC.912.N.1.1; MA.K12.MTR.1.1-MA.K12.MTR.7.1 | Quantitative text, units, and graphs | Data representation and calculation | Quantitative evidence and graphics | Represents chemical data accurately | Uses measurement and records data | Interprets numerical chemical evidence |
-| MLA.CHEM.LAB.03 | SC.912.N.1.1; MA.K12.MTR.1.1-MA.K12.MTR.7.1 | Data interpretation; evidence writing | Trends, uncertainty, and analysis | Graph and data claims | Interprets data and limitations | Uses data for decisions and troubleshooting | Evaluates chemical data claims |
-| MLA.CHEM.MAT.01 | SC.912.P.8.1; SC.912.P.12.11 | Process explanation; diagrams | Model interpretation | Science text/data synthesis | Explains states and phases | Applies particle model reasoning | Understands matter states and phase change |
-| MLA.CHEM.MAT.02 | SC.912.P.8.2 | Compare/contrast technical text | Classification of observations | Evidence-based classification | Distinguishes properties and changes | Identifies material changes accurately | Distinguishes physical and chemical change |
-| MLA.CHEM.MAT.03 | SC.912.N.1.1 | Technical measurement text | Quantitative reasoning | Numerical evidence | Uses significant figures and scientific notation | Measures and reports data accurately | Understands precision in chemical claims |
-| MLA.CHEM.ATO.01 | SC.912.P.8.3 | Historical scientific explanation | Model evaluation | Evidence and model development | Explains theory revision from evidence | Applies model-change reasoning | Understands atomic theory as evidence-based |
-| MLA.CHEM.ATO.02 | SC.912.P.8.4 | Diagram and model interpretation | Model structure analysis | Graphics and text evidence | Describes atomic particles and structure | Uses atomic vocabulary precisely | Understands atomic composition |
-| MLA.CHEM.ATO.03 | SC.912.P.8.5; SC.912.P.10.9 | Patterns and structure reading | Trend analysis | Quantitative and graphical evidence | Explains periodic trends and energy levels | Uses periodic table as a technical tool | Understands periodic organization |
-| MLA.CHEM.ATO.04 | SC.912.P.10.18 | Technical spectrum texts and diagrams | Model and data comparison | Graphics and quantitative evidence | Connects energy, frequency, wavelength | Applies spectrum information | Understands electromagnetic applications |
-| MLA.CHEM.BON.01 | SC.912.P.8.6 | Structure/function reading | Model comparison | Scientific diagram interpretation | Explains bonding and attractions | Applies material-property reasoning | Understands molecular attraction claims |
-| MLA.CHEM.BON.02 | SC.912.P.8.7 | Formula and diagram interpretation | Representation analysis | Symbolic and graphical evidence | Interprets chemical formulas | Communicates composition accurately | Reads chemical formulas in public contexts |
-| MLA.CHEM.BON.03 | SC.912.P.8.7 | Technical vocabulary and accepted formats | Classification and representation | Formula evidence | Uses compound names/formulas accurately | Applies naming/labeling conventions | Interprets chemical labels and formulas |
-| MLA.CHEM.REA.01 | SC.912.P.8.8 | Process classification; evidence writing | Pattern and reaction analysis | Science text/data interpretation | Classifies chemical reactions | Recognizes reaction patterns | Understands chemical change types |
-| MLA.CHEM.REA.02 | SC.912.P.8.9 | Quantitative procedures; evidence writing | Calculation and data interpretation | Quantitative science evidence | Applies mole and mass calculations | Uses proportional reasoning and accuracy | Understands conservation and quantities |
-| MLA.CHEM.REA.03 | SC.912.P.10.12 | Compare/contrast technical explanations | Model comparison | Evidence synthesis | Distinguishes chemical and nuclear change | Communicates hazard/process distinctions | Understands chemical vs nuclear claims |
-| MLA.CHEM.ENE.01 | SC.912.P.10.1 | Energy texts and diagrams | Model interpretation | Energy evidence | Explains energy transformations | Applies energy reasoning | Understands energy forms in chemical systems |
-| MLA.CHEM.ENE.02 | SC.912.P.10.5 | Cause/effect and graph interpretation | Trend analysis | Quantitative evidence | Explains temperature and kinetic energy | Uses thermal reasoning | Interprets temperature-energy claims |
-| MLA.CHEM.ENE.03 | SC.912.P.10.6; SC.912.P.10.7 | Graph interpretation; process explanation | Energy diagram analysis | Quantitative graph evidence | Interprets thermochemical diagrams | Applies process-energy reasoning | Understands heat flow in reactions |
-| MLA.CHEM.GAS.01 | SC.912.P.12.10; SC.912.P.12.11 | Model and graph interpretation | Data trends and models | Quantitative graphics | Explains gas behavior and phase changes | Applies pressure/temperature/volume reasoning | Understands gas behavior evidence |
-| MLA.CHEM.GAS.02 | SC.912.L.18.12 | Technical vocabulary; structure/function text | Model and data interpretation | Science text synthesis | Explains water and solution interactions | Applies solvent/solution reasoning | Understands solution claims |
-| MLA.CHEM.GAS.03 | SC.912.P.8.11 | Quantitative pH text and scales | Data interpretation | Numerical evidence | Explains acid/base relationships | Uses pH and concentration reasoning | Interprets acid/base safety claims |
-| MLA.CHEM.GAS.04 | SC.912.P.12.12; SC.912.P.12.13 | Cause/effect explanation; graph interpretation | Rates and equilibrium models | Data-supported inference | Explains rate and equilibrium factors | Applies process optimization reasoning | Understands catalysts and equilibrium claims |
+Every unit has one zero-weight pretest. Every lesson has separate Notebook Evidence and Checkpoint submissions. Every lesson except the final lesson in a unit has a Lesson Quiz. The final lesson retains instruction, notebook evidence, and checkpoint evidence; the comprehensive Unit Assessment replaces only that final lessonâ€™s quiz.
 
-## Embedded Standards Crosswalk Controls
+Assessments must use the cross-framework skills authentically:
 
-| Embedded Framework | Coursewide Use |
-|---|---|
-| ELA.K12.EE.1.1-ELA.K12.EE.6.1 | Evidence citation, complex text reading, inference, collaboration, technical formats, voice, and tone are embedded in reading, lab communication, explanation, and argumentation tasks. |
-| MA.K12.MTR.1.1-MA.K12.MTR.7.1 | Mathematical reasoning, representation, fluency, discussion, pattern recognition, reasonableness, and real-world application are embedded in measurement, stoichiometry, gas, pH, rate, and data analysis. |
-| ELD.K12.ELL.SC.1; ELD.K12.ELL.SI.1 | Science language, discourse, and instructional communication support are embedded coursewide. |
+- tables, graphs, diagrams, and quantitative evidence for ACT-IOD and SAT quantitative command of evidence;
+- experimental tools, variables, procedures, constraints, and extensions for ACT-SIN;
+- competing models, claims, source reliability, conclusions, and limitations for ACT-EMI, SAT inference, and Common Core RST.8â€“9;
+- technical reading and explanatory/argumentative evidence for Florida B.E.S.T., RST, and WHST;
+- correct units, labels, precision, and reasonableness for Florida MTR support.
 
-## Crosswalk Validation
+## Final status
 
-| Requirement | Status |
-|---|---|
-| Every MLA Chemistry standard has Florida alignment | PASS |
-| Common Core literacy alignment included | PASS |
-| ACT Science readiness alignment included | PASS |
-| SAT science reading/data alignment included | PASS |
-| College readiness alignment included | PASS |
-| Workforce readiness alignment included | PASS |
-| Scientific literacy alignment included | PASS |
-| Chemistry identity preserved | PASS |
-| Adjacent science scope controlled | PASS |
+The 26-standard MLA framework remains valid, but its controlling instructional map is now the 8-unit, 61-lesson recommendation rather than the forced 6-unit, 48-lesson architecture. Before Moodle publication, GitHubâ€™s older architecture and mapping documents must be superseded or formally archived, and all unit/lesson titles, assessments, restrictions, orientation pages, and gradebook references must be reconciled to the approved revision.
+
