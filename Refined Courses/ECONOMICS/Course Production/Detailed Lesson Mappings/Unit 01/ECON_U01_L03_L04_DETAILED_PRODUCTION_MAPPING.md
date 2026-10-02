@@ -1,0 +1,2556 @@
+CODEX PRODUCTION PROMPT
+
+MINDFUL LEARNING ACADEMY
+ECONOMICS
+
+UNIT 1 — ECONOMIC FOUNDATIONS, CHOICE, AND ECONOMIC SYSTEMS
+
+DETAILED PRODUCTION MAPPING
+
+LESSON 3 — INCENTIVES, MARGINAL THINKING, AND ECONOMIC DECISION-MAKING
+LESSON 4 — ECONOMIC SYSTEMS AND BROAD ECONOMIC GOALS
+
+==================================================
+AUTHORITY AND BUILD CONTROL
+==================================================
+
+You are building detailed production specifications for:
+
+MINDFUL LEARNING ACADEMY
+ECONOMICS
+COURSE CODE: ECON
+0.5 CREDIT
+
+UNIT 1
+Economic Foundations, Choice, and Economic Systems
+
+This prompt covers:
+
+UNIT 1 LESSON 3
+Incentives, Marginal Thinking, and Economic Decision-Making
+
+UNIT 1 LESSON 4
+Economic Systems and Broad Economic Goals
+
+Follow:
+
+- Economics Document A — Course Production Standard
+- Economics Document B — Standards Framework, Crosswalk, and Course Map
+- Economics Document C — Course Overview and Expectations
+- approved Unit 1 Lessons 1–2 mapping
+- established MLA Moodle production conventions
+
+Document A controls HOW the course is built.
+
+Document B controls WHAT the course teaches.
+
+This prompt provides the detailed instructional requirements for Lessons 3 and 4.
+
+Do not compress these lessons into summaries.
+
+Do not assume prior mastery beyond Lessons 1–2.
+
+Moodle must provide the substantive instruction.
+
+The Teacher of Record supports learning but is not the routine lecturer.
+
+==================================================
+UNIT 1 SEQUENCE POSITION
+==================================================
+
+Lesson 1 established:
+
+Scarcity
+→ Choice
+→ Tradeoff
+→ Opportunity Cost
+
+Lesson 2 established:
+
+Factors of Production
+→ Production
+→ PPF
+→ Efficiency
+→ Opportunity Cost
+→ Productive Capacity
+
+Lesson 3 now adds:
+
+Incentives
+→ Costs and Benefits
+→ Marginal Thinking
+→ Structured Economic Decision-Making
+
+Lesson 4 then broadens analysis from individual decisions to societies:
+
+Scarcity
+→ Three Economic Questions
+→ Economic Systems
+→ Economic Goals
+→ Tradeoffs Between Goals
+
+Lesson 5 will complete the unit with:
+
+Entrepreneurship
+→ Innovation
+→ Productivity
+→ Economic Growth
+
+Do not prematurely teach Unit 2 market-model content.
+
+==================================================
+LESSON 3
+INCENTIVES, MARGINAL THINKING, AND ECONOMIC DECISION-MAKING
+==================================================
+
+LESSON TYPE:
+
+Economic Reasoning / Decision-Making Lesson
+
+PAGE COUNT:
+
+6 instructional pages
+
+QUIZ:
+
+YES
+
+==================================================
+LESSON 3 PRIMARY STANDARDS
+==================================================
+
+PRIMARY MLA:
+
+MLA.ECON.REA.01
+Economic Reasoning and Decision-Making
+
+SUPPORTING MLA:
+
+MLA.ECON.FND.01
+Scarcity, Choice, and Opportunity Cost
+
+MLA.ECON.DAT.01
+Economic Data, Graphs, and Models
+
+==================================================
+LESSON 3 FLORIDA ALIGNMENT
+==================================================
+
+PRIMARY:
+
+SS.912.E.2.2
+Apply an economic decision-making model to public-policy choices.
+
+SUPPORTING / PREVIEW:
+
+SS.912.E.1.7
+Marginal-cost reasoning related to firm decision-making.
+
+IMPORTANT:
+
+Lesson 3 teaches marginal reasoning conceptually.
+
+Do NOT teach full firm marginal-cost/output analysis here.
+
+Full firm analysis belongs later in Unit 2.
+
+==================================================
+LESSON 3 ESSENTIAL QUESTION
+==================================================
+
+How do incentives, costs, benefits, and marginal thinking help individuals, businesses, and governments make economic decisions?
+
+==================================================
+LESSON 3 LEARNING OBJECTIVES
+==================================================
+
+Students will be able to:
+
+1. Define incentive.
+2. Distinguish positive incentives from negative incentives.
+3. Explain how incentives can affect behavior.
+4. Distinguish intended from unintended responses to incentives.
+5. Identify economic costs and benefits.
+6. Distinguish total thinking from marginal thinking.
+7. Define marginal cost.
+8. Define marginal benefit.
+9. Compare marginal benefit with marginal cost.
+10. Apply a structured economic decision-making model.
+11. Explain why a rational economic choice can differ among people when preferences or information differ.
+12. Evaluate a simple public-policy choice using costs, benefits, incentives, tradeoffs, and alternatives.
+
+==================================================
+LESSON 3 REQUIRED VOCABULARY
+==================================================
+
+Incentive
+
+Positive incentive
+
+Negative incentive
+
+Cost
+
+Benefit
+
+Marginal
+
+Marginal cost
+
+Marginal benefit
+
+Decision-making
+
+Alternative
+
+Criterion
+
+Constraint
+
+Tradeoff
+
+Opportunity cost
+
+Consequence
+
+Intended consequence
+
+Unintended consequence
+
+Rational choice
+
+Preference
+
+Evidence
+
+Students receive:
+
+- definition;
+- example;
+- economic context.
+
+==================================================
+CORE CONCEPT 1 — INCENTIVES
+==================================================
+
+Teach:
+
+An incentive is something that encourages or discourages behavior.
+
+Incentives can change the costs or benefits associated with a choice.
+
+Examples:
+
+- discount for purchasing before a deadline;
+- late fee;
+- sales commission;
+- tax credit;
+- penalty;
+- reward;
+- performance bonus.
+
+Do not frame incentives only as money.
+
+Nonmonetary incentives may include:
+
+- time;
+- convenience;
+- recognition;
+- access;
+- rules;
+- privileges.
+
+==================================================
+POSITIVE VS NEGATIVE INCENTIVES
+==================================================
+
+POSITIVE INCENTIVE:
+
+Adds or increases a benefit.
+
+Example:
+
+A business offers a bonus for meeting a productivity target.
+
+NEGATIVE INCENTIVE:
+
+Adds or increases a cost or penalty.
+
+Example:
+
+A city imposes a fine for illegal dumping.
+
+Critical rule:
+
+“Positive” does NOT mean morally good.
+
+“Negative” does NOT mean morally bad.
+
+These terms describe how the incentive changes perceived benefits or costs.
+
+==================================================
+INCENTIVES CHANGE BEHAVIOR — BUT NOT PERFECTLY
+==================================================
+
+Teach:
+
+An incentive may influence behavior without guaranteeing a particular response.
+
+People may respond differently because of:
+
+- preferences;
+- information;
+- constraints;
+- alternative opportunities;
+- expected consequences.
+
+Do NOT teach:
+
+“Incentive X always causes behavior Y.”
+
+Use:
+
+“Incentive X may make behavior Y more or less attractive.”
+
+==================================================
+INTENDED AND UNINTENDED CONSEQUENCES
+==================================================
+
+Teach:
+
+Policies and decisions can produce:
+
+INTENDED CONSEQUENCES
+
+and
+
+UNINTENDED CONSEQUENCES.
+
+Example:
+
+A school cafeteria reduces the price of a healthier meal option.
+
+Intended:
+
+Increase purchases of that meal.
+
+Possible unintended:
+
+Demand exceeds prepared supply and food runs out early.
+
+Do not make every unintended consequence automatically negative.
+
+Some may be neutral or beneficial.
+
+==================================================
+CORE CONCEPT 2 — COSTS AND BENEFITS
+==================================================
+
+Teach:
+
+Economic decisions often involve comparing expected costs with expected benefits.
+
+Costs may include:
+
+- money;
+- time;
+- effort;
+- risk;
+- opportunity cost.
+
+Benefits may include:
+
+- income;
+- convenience;
+- enjoyment;
+- productivity;
+- safety;
+- access.
+
+Do not imply all benefits can be measured precisely in dollars.
+
+==================================================
+CORE CONCEPT 3 — MARGINAL THINKING
+==================================================
+
+Teach carefully:
+
+MARGINAL means:
+
+additional
+or
+one more unit.
+
+MARGINAL BENEFIT:
+
+The additional benefit from one more unit of an activity.
+
+MARGINAL COST:
+
+The additional cost from one more unit of an activity.
+
+Economic decision-makers often compare:
+
+MB
+
+with
+
+MC.
+
+At an introductory level:
+
+If marginal benefit exceeds marginal cost, doing more may make sense.
+
+If marginal cost exceeds marginal benefit, doing more may not make sense.
+
+If they are approximately equal, the decision may be near the efficient stopping point under the model.
+
+Do not overstate this as a universal moral rule.
+
+==================================================
+REQUIRED MARGINAL MODEL
+==================================================
+
+Scenario:
+
+A student is deciding how many hours to spend reviewing for an economics test.
+
+Provide a fictional table:
+
+HOURS OF REVIEW | ADDITIONAL EXPECTED BENEFIT | ADDITIONAL COST
+
+1 | High | Low
+2 | High | Moderate
+3 | Moderate | Moderate
+4 | Low | High
+5 | Very Low | High
+
+Model reasoning:
+
+Hours 1–3 may provide benefits worth the added cost.
+
+By Hour 4:
+
+marginal benefit has declined while marginal cost has increased.
+
+The question is not:
+
+“Is studying good?”
+
+The question is:
+
+“Is one additional hour worth its added cost?”
+
+==================================================
+NUMERIC MARGINAL EXAMPLE
+==================================================
+
+Use a simple fictional business example:
+
+ADDITIONAL DELIVERY ROUTE | ADDITIONAL REVENUE | ADDITIONAL COST
+
+1 | $500 | $250
+2 | $400 | $300
+3 | $325 | $320
+4 | $250 | $340
+
+Analyze:
+
+Route 1:
+MB > MC
+
+Route 2:
+MB > MC
+
+Route 3:
+MB > MC by a small amount
+
+Route 4:
+MC > MB
+
+Therefore:
+
+The firm would not normally add Route 4 under this simplified marginal model.
+
+Do not introduce profit-maximizing graph analysis yet.
+
+==================================================
+TOTAL VS MARGINAL
+==================================================
+
+Critical distinction:
+
+TOTAL BENEFIT
+
+is not the same as
+
+MARGINAL BENEFIT.
+
+TOTAL COST
+
+is not the same as
+
+MARGINAL COST.
+
+Students must understand:
+
+Marginal analysis asks:
+
+“What changes if I do ONE MORE unit?”
+
+==================================================
+CORE CONCEPT 4 — RATIONAL CHOICE
+==================================================
+
+Teach:
+
+In economics, rational choice generally means selecting an option that best serves the decision-maker’s objectives given:
+
+- preferences;
+- information;
+- constraints.
+
+It does NOT mean:
+
+- morally correct;
+- emotionally detached;
+- universally best;
+- guaranteed to succeed.
+
+Two rational decision-makers can make different choices if:
+
+- preferences differ;
+- information differs;
+- constraints differ.
+
+==================================================
+CORE CONCEPT 5 — MLA ECONOMIC DECISION-MAKING MODEL
+==================================================
+
+Use the following model consistently:
+
+STEP 1
+Define the economic problem.
+
+STEP 2
+Identify the scarce resource or constraint.
+
+STEP 3
+Identify realistic alternatives.
+
+STEP 4
+Identify relevant decision criteria.
+
+STEP 5
+Compare expected costs and benefits.
+
+STEP 6
+Identify incentives.
+
+STEP 7
+Identify tradeoffs and opportunity costs.
+
+STEP 8
+Consider likely consequences.
+
+STEP 9
+Consider possible unintended consequences.
+
+STEP 10
+Choose and justify the best-supported alternative.
+
+==================================================
+DECISION CRITERIA
+==================================================
+
+Teach students that criteria depend on the decision.
+
+Possible criteria:
+
+- cost;
+- benefit;
+- time;
+- safety;
+- effectiveness;
+- access;
+- feasibility;
+- economic impact.
+
+Do not assume the lowest-cost option is always best.
+
+==================================================
+PUBLIC POLICY BOUNDARY
+==================================================
+
+Lesson 3 introduces economic analysis of public policy.
+
+Use fictional or neutral scenarios.
+
+Do NOT require political advocacy.
+
+Students should evaluate:
+
+- alternatives;
+- costs;
+- benefits;
+- incentives;
+- tradeoffs;
+- evidence.
+
+Avoid:
+
+“Which policy do you personally support?”
+
+Prefer:
+
+“Which alternative is best supported by the stated criteria and evidence?”
+
+==================================================
+LESSON 3 PAGE ARCHITECTURE
+==================================================
+
+P01
+Overview and Vocabulary
+
+P02
+Incentives and Behavioral Responses
+
+P03
+Marginal Costs and Marginal Benefits
+
+P04
+Economic Decision-Making Model and Guided Practice
+
+P05
+Independent Work
+
+P06
+Mastery Checkpoint
+
+Then:
+
+Lesson 3 Notebook Submission
+
+Lesson 3 Mastery Checkpoint Submission
+
+Lesson 3 Quiz
+
+==================================================
+P01 REQUIREMENTS
+==================================================
+
+Include:
+
+- title;
+- Essential Question;
+- objectives;
+- MLA standards;
+- verified Florida standards;
+- prerequisite knowledge;
+- vocabulary;
+- evidence checklist;
+- TOR Help Box.
+
+PREREQUISITE:
+
+Students must understand:
+
+- scarcity;
+- choice;
+- tradeoffs;
+- opportunity cost.
+
+Notebook evidence:
+
+1. Vocabulary
+2. Incentives organizer
+3. Marginal-analysis notes
+4. Decision-making model
+5. Independent Work
+
+==================================================
+P02 — INCENTIVES
+==================================================
+
+Teach:
+
+- definition;
+- positive/negative incentives;
+- monetary/nonmonetary incentives;
+- behavior change;
+- intended/unintended consequences.
+
+Use at least 5 examples from different contexts:
+
+- consumer;
+- business;
+- worker;
+- school/community;
+- government policy.
+
+==================================================
+REQUIRED INCENTIVE ANALYSIS TABLE
+==================================================
+
+Columns:
+
+Scenario
+
+Incentive
+
+Positive or Negative
+
+Whose Behavior Is Targeted?
+
+Expected Response
+
+Possible Unintended Response
+
+Include at least 4 modeled rows.
+
+==================================================
+P03 — MARGINAL THINKING
+==================================================
+
+Teach:
+
+- marginal meaning;
+- marginal benefit;
+- marginal cost;
+- one-more-unit reasoning;
+- total vs marginal;
+- diminishing additional benefit where applicable.
+
+Use:
+
+1 numeric table
+
+and
+
+1 nonnumeric example.
+
+==================================================
+COMMON MISCONCEPTIONS — LESSON 3
+==================================================
+
+MISCONCEPTION 1:
+
+A positive incentive is always a good policy.
+
+CORRECTION:
+
+Positive describes added benefit, not whether the outcome is desirable.
+
+---
+
+MISCONCEPTION 2:
+
+A negative incentive is always harmful.
+
+CORRECTION:
+
+Negative describes an added cost or penalty.
+
+---
+
+MISCONCEPTION 3:
+
+If an incentive exists, everyone will respond the same way.
+
+CORRECTION:
+
+Responses depend on preferences, information, and constraints.
+
+---
+
+MISCONCEPTION 4:
+
+Marginal cost means total cost.
+
+CORRECTION:
+
+Marginal cost is the added cost of one more unit.
+
+---
+
+MISCONCEPTION 5:
+
+Marginal benefit means all benefits received.
+
+CORRECTION:
+
+It means the added benefit from one more unit.
+
+---
+
+MISCONCEPTION 6:
+
+Economic rationality means there is one correct choice for everyone.
+
+CORRECTION:
+
+Different preferences and constraints can support different rational choices.
+
+---
+
+MISCONCEPTION 7:
+
+The cheapest option is always economically best.
+
+CORRECTION:
+
+Economic decision-making compares multiple relevant costs and benefits.
+
+==================================================
+P04 — GUIDED DECISION-MAKING
+==================================================
+
+Create one fully modeled decision.
+
+Scenario:
+
+A fictional town has $200,000 for one transportation improvement.
+
+Options:
+
+A. Repair a heavily used intersection
+B. Add bus shelters
+C. Expand a bicycle path
+
+Provide fictional evidence for:
+
+- number of users affected;
+- cost;
+- expected benefit;
+- implementation time;
+- maintenance needs.
+
+Model all 10 MLA decision steps.
+
+Do not tell students that public value can be measured only by number of users.
+
+Show multiple criteria.
+
+==================================================
+GUIDED PRACTICE
+==================================================
+
+Provide at least 8 items:
+
+2 incentives
+
+2 unintended consequences
+
+2 marginal-analysis items
+
+2 structured decision-making items.
+
+At least 2 should require written reasoning.
+
+Feedback must explain why.
+
+==================================================
+P05 — INDEPENDENT WORK
+==================================================
+
+TITLE:
+
+Independent Work — Incentives and Economic Decision-Making
+
+Create 12 items.
+
+PART A
+Incentives — 4
+
+PART B
+Marginal Thinking — 4
+
+PART C
+Decision Analysis — 4
+
+==================================================
+PART A REQUIREMENTS
+==================================================
+
+Students:
+
+- identify incentive;
+- classify positive/negative;
+- identify target behavior;
+- predict likely response.
+
+Include one question where:
+
+the incentive may produce an unintended effect.
+
+==================================================
+PART B REQUIREMENTS
+==================================================
+
+Use a NEW marginal table.
+
+Students determine:
+
+- marginal benefit;
+- marginal cost;
+- whether to add another unit;
+- stopping point under simplified assumptions.
+
+==================================================
+PART C REQUIREMENTS
+==================================================
+
+Provide a fictional economic decision involving:
+
+- scarce resource;
+- three alternatives;
+- criteria;
+- costs;
+- benefits.
+
+Students complete a shortened MLA model:
+
+1. problem;
+2. alternatives;
+3. criteria;
+4. costs/benefits;
+5. incentive;
+6. opportunity cost;
+7. likely consequence;
+8. recommendation + reasoning.
+
+==================================================
+NOTEBOOK EVIDENCE — LESSON 3
+==================================================
+
+Required:
+
+1. Vocabulary
+2. Incentives organizer
+3. Marginal-analysis model
+4. Economic decision-making model notes
+5. Independent Work
+
+==================================================
+LESSON 3 NOTEBOOK RUBRIC — 35 POINTS
+==================================================
+
+Vocabulary — 5
+
+Incentive Analysis — 6
+
+Marginal Analysis — 7
+
+Decision-Making Model — 6
+
+Independent Work Accuracy — 7
+
+Economic Reasoning — 3
+
+Identification / Completeness — 1
+
+TOTAL:
+35
+
+==================================================
+TOR NOTEBOOK KEY — LESSON 3
+==================================================
+
+Full mastery requires:
+
+- correct incentive identification;
+- correct positive/negative classification;
+- recognition that incentives influence but do not guarantee behavior;
+- correct marginal-cost/marginal-benefit reasoning;
+- correct use of opportunity cost;
+- decision supported by stated criteria and evidence.
+
+Accept multiple recommendations in open decision items IF:
+
+- alternative is feasible;
+- relevant evidence is used;
+- costs and benefits are addressed;
+- tradeoff is identified.
+
+Do not grade based on TOR policy preference.
+
+==================================================
+AUTOMATIC REVISION TRIGGERS
+==================================================
+
+Require revision if student:
+
+- equates positive incentive with morally good;
+- equates marginal cost with total cost;
+- repeatedly compares total benefit to marginal cost;
+- ignores scenario evidence;
+- gives unsupported recommendation;
+- fails to identify opportunity cost;
+- treats incentive response as guaranteed.
+
+==================================================
+P06 — LESSON 3 MASTERY CHECKPOINT
+==================================================
+
+Use a NEW fictional policy/business scenario.
+
+Required elements:
+
+- scarce resource;
+- 3 alternatives;
+- costs;
+- benefits;
+- one explicit incentive;
+- one possible unintended consequence;
+- marginal decision table.
+
+Student must:
+
+1. identify the incentive;
+2. explain expected behavioral response;
+3. identify possible unintended consequence;
+4. compare marginal benefit and cost;
+5. identify appropriate stopping decision;
+6. identify opportunity cost;
+7. select best-supported alternative;
+8. justify using evidence.
+
+==================================================
+LESSON 3 CHECKPOINT RUBRIC — 30 POINTS
+==================================================
+
+Incentive — 4
+
+Behavioral Response — 4
+
+Unintended Consequence — 3
+
+Marginal Analysis — 6
+
+Opportunity Cost — 4
+
+Alternative Selection — 3
+
+Evidence-Based Reasoning — 5
+
+Vocabulary Accuracy — 1
+
+TOTAL:
+30
+
+==================================================
+TOR CHECKPOINT KEY — LESSON 3
+==================================================
+
+Codex must generate an exact TOR grading key based on the final fictional Lesson 3 Checkpoint scenario.
+
+The key must be complete enough that the TOR does not need to infer the expected economic reasoning.
+
+The final key must include:
+
+1. INCENTIVE IDENTIFICATION
+
+Specify:
+
+- the exact incentive in the scenario;
+- whether it is positive or negative;
+- whose behavior the incentive is intended to influence;
+- what behavior is being encouraged or discouraged.
+
+Do not accept vague responses such as:
+
+“the reward”
+
+unless the specific incentive is identified.
+
+==================================================
+2. EXPECTED BEHAVIORAL RESPONSE
+==================================================
+
+Specify the expected response supported by the scenario.
+
+The key must explicitly state that:
+
+an incentive may influence behavior
+
+but
+
+does not guarantee that every individual will respond in the same way.
+
+Accept alternative responses only if they are economically plausible and supported by the scenario.
+
+==================================================
+3. UNINTENDED CONSEQUENCE
+==================================================
+
+Identify at least one defensible unintended consequence built into the fictional scenario.
+
+The key must distinguish:
+
+INTENDED OUTCOME
+
+from
+
+UNINTENDED CONSEQUENCE.
+
+Accept other unintended consequences only when they:
+
+- logically follow from the incentive;
+- do not contradict the scenario;
+- are economically plausible.
+
+Do not accept unrelated negative outcomes merely because they are possible.
+
+==================================================
+4. MARGINAL ANALYSIS
+==================================================
+
+Provide the exact marginal-benefit and marginal-cost information from the checkpoint table.
+
+For every relevant unit, specify:
+
+- marginal benefit;
+- marginal cost;
+- comparison:
+  MB > MC
+  MB = MC
+  or
+  MB < MC.
+
+If numeric:
+
+recompute all values independently.
+
+The key must identify the economically supported stopping decision.
+
+Example structure:
+
+Unit 1:
+MB = $___
+MC = $___
+Decision:
+continue because MB > MC.
+
+Unit 2:
+MB = $___
+MC = $___
+Decision:
+continue because MB > MC.
+
+Unit 3:
+MB = $___
+MC = $___
+Decision:
+do not add another unit because MC > MB.
+
+Do not accept a student stopping point that contradicts the table unless the student identifies a scenario-specific constraint not captured by the simplified marginal model and explains it correctly.
+
+==================================================
+5. OPPORTUNITY COST
+==================================================
+
+Specify:
+
+- the chosen alternative;
+- the next-best forgone alternative;
+- the exact opportunity cost.
+
+The key must reject:
+
+- the monetary cost of the chosen option when that is not the next-best forgone alternative;
+- the total of all rejected alternatives;
+- the benefit received from the chosen alternative.
+
+If the fictional scenario does not provide enough information to determine the next-best alternative, the correct answer must explicitly be:
+
+INSUFFICIENT INFORMATION
+
+and the key must explain why.
+
+==================================================
+6. ALTERNATIVE SELECTION
+==================================================
+
+Identify the alternative best supported by the final scenario data and the stated decision criteria.
+
+The key must list the criteria used.
+
+Possible criteria may include:
+
+- cost;
+- expected benefit;
+- feasibility;
+- number of people affected;
+- time;
+- risk;
+- resource use;
+- effectiveness.
+
+If more than one alternative is defensible, state that explicitly.
+
+Accept an alternative conclusion only when the student:
+
+1. uses the stated criteria;
+2. cites relevant evidence;
+3. identifies the tradeoff;
+4. does not contradict quantitative information.
+
+Do not grade based on TOR preference.
+
+==================================================
+7. EVIDENCE-BASED REASONING
+==================================================
+
+A full-credit explanation must contain all of the following:
+
+A. CLAIM
+
+Clearly identifies the recommended choice or conclusion.
+
+B. EVIDENCE
+
+Uses at least the required scenario evidence.
+
+C. ECONOMIC MECHANISM
+
+Explains how:
+
+- incentives;
+- marginal costs/benefits;
+- scarcity;
+- tradeoffs;
+- opportunity cost
+
+support the conclusion where applicable.
+
+D. CONSEQUENCE
+
+Identifies at least one likely consequence.
+
+==================================================
+8. ACCEPTABLE ALTERNATIVE REASONING
+==================================================
+
+The TOR key must identify any alternate responses that should receive full or partial credit.
+
+Examples:
+
+- different but defensible unintended consequence;
+- different recommended alternative supported by different stated criteria;
+- equivalent wording for marginal reasoning;
+- equivalent economic vocabulary.
+
+Do not require identical wording.
+
+Require equivalent economic meaning.
+
+==================================================
+9. INCORRECT REASONING / MISCONCEPTIONS
+==================================================
+
+The TOR key must identify the following as incorrect or revision-triggering when present:
+
+- “positive incentive” means morally good;
+- “negative incentive” means morally bad;
+- incentive guarantees behavior;
+- marginal cost equals total cost;
+- marginal benefit equals total benefit;
+- comparing total benefit to marginal cost;
+- continuing an additional unit when MC > MB without justification;
+- stopping when MB > MC without scenario-based constraint;
+- opportunity cost equals every rejected option;
+- recommendation without evidence;
+- recommendation based only on personal preference;
+- ignoring explicit numerical data;
+- describing unintended consequence as the intended goal.
+
+==================================================
+10. PARTIAL-CREDIT GUIDANCE
+==================================================
+
+Where the rubric permits partial credit, specify objective thresholds.
+
+Example:
+
+INCENTIVE — 4 points
+
+4:
+Correct incentive, type, target behavior, and affected actor.
+
+3:
+Correct incentive and target behavior but incomplete type/actor identification.
+
+2:
+Identifies relevant incentive but explanation is incomplete.
+
+1:
+Recognizes a reward/penalty exists but misidentifies its economic role.
+
+0:
+No relevant incentive identified.
+
+Use equivalent objective guidance for:
+
+- behavioral response;
+- unintended consequence;
+- marginal analysis;
+- opportunity cost;
+- alternative selection;
+- evidence-based reasoning.
+
+Do not use subjective descriptors such as:
+
+“excellent”
+“strong”
+“thoughtful.”
+
+==================================================
+11. AUTOMATIC REVISION TRIGGERS
+==================================================
+
+Require revision when the student:
+
+- cannot distinguish marginal from total;
+- repeatedly reverses MB and MC;
+- gives an unsupported stopping decision;
+- cannot identify opportunity cost;
+- treats incentive response as guaranteed;
+- selects an alternative while ignoring required evidence;
+- provides only personal opinion on the policy/business decision;
+- omits economic reasoning from the final recommendation.
+
+==================================================
+12. TOR KEY FINAL VALIDATION
+==================================================
+
+Before publication verify:
+
+- every checkpoint question has a corresponding answer;
+- all numerical values match the final scenario;
+- all marginal calculations are recomputed;
+- opportunity cost is internally consistent;
+- the rubric and TOR key use the same criteria;
+- alternate defensible responses are documented;
+- revision triggers are explicit;
+- no political or policy preference is embedded in grading.
+
+The final Lesson 3 Mastery Checkpoint must be fully gradable from this key without the TOR needing to create additional criteria.
+
+==================================================
+LESSON 3 QUIZ BLUEPRINT
+==================================================
+
+5 foundational
+
+10 interpretation
+
+10 application/reasoning
+
+Required topics:
+
+- incentives;
+- positive/negative incentives;
+- intended/unintended consequences;
+- marginal benefit;
+- marginal cost;
+- total vs marginal;
+- economic decision-making;
+- rational choice;
+- tradeoffs/opportunity cost.
+
+At least:
+
+5 marginal-analysis items
+
+4 incentive scenarios
+
+3 unintended-consequence items
+
+3 decision-model items.
+
+==================================================
+LESSON 3 PRODUCTION READINESS
+==================================================
+
+Lesson 3 is complete only when:
+
+- 6 pages exist;
+- incentives are accurately taught;
+- positive/negative distinction is precise;
+- marginal thinking is explicitly modeled;
+- total vs marginal distinction is taught;
+- numeric marginal table exists;
+- 10-step MLA decision model exists;
+- Guided Practice exists;
+- 12-item Independent Work exists;
+- Notebook exists;
+- 35-point rubric exists;
+- TOR key exists;
+- new-scenario Checkpoint exists;
+- 30-point rubric exists;
+- TOR key exists;
+- 25-question quiz bank exists;
+- Moodle delivers 5;
+- mastery threshold is 80%.
+
+==================================================
+LESSON 4
+ECONOMIC SYSTEMS AND BROAD ECONOMIC GOALS
+==================================================
+
+LESSON TYPE:
+
+Comparative Systems / Economic Analysis Lesson
+
+PAGE COUNT:
+
+6 instructional pages
+
+QUIZ:
+
+YES
+
+==================================================
+LESSON 4 PRIMARY STANDARDS
+==================================================
+
+PRIMARY MLA:
+
+MLA.ECON.FND.03
+Economic Systems and Economic Goals
+
+SUPPORTING MLA:
+
+MLA.ECON.REA.01
+Economic Reasoning and Decision-Making
+
+MLA.ECON.DAT.01
+Economic Data, Graphs, and Models
+
+==================================================
+LESSON 4 FLORIDA ALIGNMENT
+==================================================
+
+PRIMARY:
+
+SS.912.E.1.3
+Compare how different economic systems answer fundamental economic questions.
+
+SS.912.E.2.1
+Identify broad economic goals.
+
+==================================================
+LESSON 4 ESSENTIAL QUESTION
+==================================================
+
+How do different economic systems organize production and distribution, and what tradeoffs arise when societies pursue different economic goals?
+
+==================================================
+LESSON 4 LEARNING OBJECTIVES
+==================================================
+
+Students will be able to:
+
+1. Identify the three basic economic questions.
+2. Explain why every society must answer those questions.
+3. Define traditional, command, market, and mixed economic systems.
+4. Compare how systems determine production and allocation.
+5. Explain the roles of households, businesses, government, customs, and markets in different systems.
+6. Explain why modern economies are generally mixed rather than purely one type.
+7. Identify major broad economic goals.
+8. Analyze potential tradeoffs among economic goals.
+9. Distinguish efficiency from equity.
+10. Distinguish economic freedom from economic security.
+11. Evaluate a fictional economic system using evidence rather than political labels.
+12. Explain why economic systems exist on a continuum.
+
+==================================================
+LESSON 4 REQUIRED VOCABULARY
+==================================================
+
+Economic system
+
+Traditional economy
+
+Command economy
+
+Market economy
+
+Mixed economy
+
+Allocation
+
+Production
+
+Distribution
+
+Consumption
+
+Private property
+
+Public ownership
+
+Economic freedom
+
+Economic efficiency
+
+Economic equity
+
+Economic security
+
+Economic growth
+
+Full employment
+
+Price stability
+
+Competition
+
+Consumer sovereignty
+
+Central planning
+
+Market mechanism
+
+Students receive definitions and contextual examples.
+
+==================================================
+CORE CONCEPT 1 — THREE BASIC ECONOMIC QUESTIONS
+==================================================
+
+Every society must answer:
+
+1. WHAT will be produced?
+
+2. HOW will goods and services be produced?
+
+3. FOR WHOM will goods and services be produced?
+
+Explain:
+
+Scarcity makes these questions unavoidable.
+
+They apply regardless of economic system.
+
+==================================================
+WHAT TO PRODUCE
+==================================================
+
+Examples:
+
+- consumer goods;
+- capital goods;
+- public services;
+- food;
+- housing;
+- transportation.
+
+Question asks:
+
+Which goods and services receive scarce resources?
+
+==================================================
+HOW TO PRODUCE
+==================================================
+
+Questions include:
+
+- labor-intensive or capital-intensive?
+- which technology?
+- which resources?
+- public or private production?
+- production method?
+
+Do not introduce advanced production theory.
+
+==================================================
+FOR WHOM TO PRODUCE
+==================================================
+
+Teach:
+
+How output is distributed among members of society.
+
+Possible mechanisms include:
+
+- ability to pay;
+- wages/income;
+- government allocation;
+- custom;
+- need;
+- eligibility.
+
+Do not frame one mechanism as inherently morally superior.
+
+==================================================
+CORE CONCEPT 2 — TRADITIONAL ECONOMY
+==================================================
+
+Teach:
+
+Economic decisions are strongly influenced by:
+
+- customs;
+- traditions;
+- long-established social roles.
+
+Do NOT present traditional economies as:
+
+- primitive;
+- unintelligent;
+- universally isolated.
+
+Explain that traditional practices may exist alongside markets and government systems.
+
+==================================================
+CORE CONCEPT 3 — COMMAND ECONOMY
+==================================================
+
+Teach:
+
+Major economic decisions are made substantially through centralized authority or planning.
+
+Potential features:
+
+- public/state ownership of major resources;
+- production targets;
+- administrative allocation;
+- controlled prices/wages in some systems.
+
+Avoid equating every government program with a command economy.
+
+==================================================
+CORE CONCEPT 4 — MARKET ECONOMY
+==================================================
+
+Teach:
+
+Economic decisions are coordinated primarily through:
+
+- private ownership;
+- voluntary exchange;
+- prices;
+- competition;
+- consumer and producer decisions.
+
+Do not teach that a market economy means:
+
+“no government exists.”
+
+==================================================
+CORE CONCEPT 5 — MIXED ECONOMY
+==================================================
+
+Teach:
+
+Modern economies commonly combine:
+
+- market mechanisms;
+- private ownership;
+- government activity;
+- regulation;
+- public services.
+
+A mixed economy is not simply:
+
+“half capitalism and half command.”
+
+Different mixed economies combine institutions differently.
+
+==================================================
+ECONOMIC SYSTEM CONTINUUM
+==================================================
+
+Required visual:
+
+Traditional influence
+Government planning
+Market coordination
+
+Show that actual economies can contain varying combinations.
+
+Do NOT place every country on a simplistic political spectrum without evidence.
+
+==================================================
+PURE MODEL VS REAL ECONOMY
+==================================================
+
+Critical distinction:
+
+Economic-system categories are models.
+
+Real economies rarely match a pure textbook type.
+
+Students should analyze institutions and decision mechanisms rather than relying only on labels.
+
+==================================================
+CORE CONCEPT 6 — BROAD ECONOMIC GOALS
+==================================================
+
+Teach the major goals:
+
+ECONOMIC FREEDOM
+
+Ability to make economic choices.
+
+---
+
+ECONOMIC EFFICIENCY
+
+Using resources in ways that maximize valued output and minimize waste under the stated objective.
+
+---
+
+ECONOMIC EQUITY
+
+Fairness in economic outcomes or opportunities.
+
+Critical:
+
+Equity involves value judgments about what is fair.
+
+Do not define it as mathematical equality.
+
+---
+
+ECONOMIC SECURITY
+
+Protection against significant economic risks or loss of basic economic stability.
+
+---
+
+FULL EMPLOYMENT
+
+A high level of employment for those willing and able to work.
+
+Do NOT define as literal zero unemployment.
+
+---
+
+PRICE STABILITY
+
+Avoiding rapid or unpredictable changes in the overall price level.
+
+---
+
+ECONOMIC GROWTH
+
+Increasing an economy's productive capacity/output over time.
+
+==================================================
+ECONOMIC GOAL TRADEOFFS
+==================================================
+
+Teach:
+
+Economic goals can complement one another.
+
+They can also conflict.
+
+Examples:
+
+A policy designed to increase security may affect:
+
+- cost;
+- freedom;
+- efficiency.
+
+A policy designed to maximize efficiency may raise questions about:
+
+- equity;
+- security.
+
+Do NOT claim:
+
+“Freedom always conflicts with equality”
+
+or similar ideological absolutes.
+
+Use scenario-specific analysis.
+
+==================================================
+EFFICIENCY VS EQUITY
+==================================================
+
+This distinction is essential.
+
+EFFICIENCY asks:
+
+How effectively are scarce resources being used toward a stated goal?
+
+EQUITY asks:
+
+How fair are the distribution or opportunities?
+
+A policy may:
+
+- improve both;
+- reduce both;
+- improve one while reducing the other.
+
+Do not assume a tradeoff exists in every case.
+
+==================================================
+POSITIVE VS NORMATIVE CONNECTION
+==================================================
+
+Reconnect Document A concept.
+
+Example:
+
+POSITIVE:
+
+“The program costs $5 million and increases access for 20,000 residents.”
+
+NORMATIVE:
+
+“The program is fair.”
+
+The second statement involves a value judgment unless fairness has been operationally defined.
+
+==================================================
+SYSTEM COMPARISON MATRIX
+==================================================
+
+Required columns:
+
+System
+
+Primary Decision Mechanism
+
+Ownership Pattern
+
+How “What” Is Determined
+
+How “How” Is Determined
+
+How “For Whom” Is Determined
+
+Potential Strengths
+
+Potential Limitations
+
+Use:
+
+Traditional
+
+Command
+
+Market
+
+Mixed
+
+Do not write propaganda-style strengths/weaknesses.
+
+Use economically neutral descriptions.
+
+==================================================
+LESSON 4 PAGE ARCHITECTURE
+==================================================
+
+P01
+Overview and Vocabulary
+
+P02
+Three Economic Questions
+
+P03
+Traditional, Command, Market, and Mixed Systems
+
+P04
+Broad Economic Goals and Tradeoffs
+
+P05
+Guided Practice and Independent Work
+
+P06
+Mastery Checkpoint
+
+Then:
+
+Lesson 4 Notebook Submission
+
+Lesson 4 Mastery Checkpoint Submission
+
+Lesson 4 Quiz
+
+==================================================
+P01 REQUIREMENTS
+==================================================
+
+Include:
+
+- Unit
+- Lesson
+- title
+- Essential Question
+- objectives
+- MLA standards
+- verified Florida standards
+- prerequisite knowledge
+- vocabulary
+- evidence checklist
+- TOR Help Box.
+
+PREREQUISITES:
+
+Students should understand:
+
+- scarcity;
+- opportunity cost;
+- factors of production;
+- incentives;
+- economic decision-making.
+
+Notebook evidence:
+
+1. Vocabulary
+2. Three Economic Questions organizer
+3. Systems Comparison Matrix
+4. Economic Goals organizer
+5. Independent Work
+
+==================================================
+P02 — THREE ECONOMIC QUESTIONS
+==================================================
+
+Use one fictional society.
+
+Example:
+
+Island community has:
+
+- farmland;
+- skilled workers;
+- fishing resources;
+- limited machinery;
+- growing population.
+
+Ask:
+
+WHAT should be produced?
+
+HOW should it be produced?
+
+FOR WHOM should it be produced?
+
+Model how different economic systems could answer differently.
+
+==================================================
+P03 — ECONOMIC SYSTEMS
+==================================================
+
+Teach each system separately before comparison.
+
+For each include:
+
+1. primary coordinating mechanism;
+2. ownership characteristics;
+3. decision-making structure;
+4. potential advantages;
+5. potential limitations;
+6. one neutral example.
+
+Avoid identifying current countries as pure systems.
+
+If real countries are used:
+
+state clearly that modern countries have mixed characteristics.
+
+==================================================
+REQUIRED VISUALS — LESSON 4
+==================================================
+
+VISUAL 1
+
+Three Economic Questions:
+
+WHAT?
+
+HOW?
+
+FOR WHOM?
+
+---
+
+VISUAL 2
+
+Economic Systems Continuum / Combination Model
+
+---
+
+VISUAL 3
+
+Four-System Comparison Matrix
+
+---
+
+VISUAL 4
+
+Broad Economic Goals Wheel or Matrix
+
+Economic Freedom
+Economic Efficiency
+Economic Equity
+Economic Security
+Full Employment
+Price Stability
+Economic Growth
+
+---
+
+VISUAL 5
+
+Goal Tradeoff Matrix
+
+Policy / Decision
+
+Primary Goal
+
+Secondary Effect
+
+Possible Tradeoff
+
+All visuals require accessible text alternatives.
+
+==================================================
+P04 — ECONOMIC GOALS
+==================================================
+
+Teach all seven goals.
+
+Use neutral scenarios.
+
+Example:
+
+A government funds worker retraining during an economic transition.
+
+Possible goals:
+
+- economic security;
+- employment;
+- growth.
+
+Possible tradeoffs:
+
+- current government cost;
+- opportunity cost of other spending.
+
+Do not evaluate based on political preference.
+
+==================================================
+COMMON MISCONCEPTIONS — LESSON 4
+==================================================
+
+MISCONCEPTION 1:
+
+A traditional economy means no trade occurs.
+
+CORRECTION:
+
+Tradition may strongly influence decisions while exchange can still occur.
+
+---
+
+MISCONCEPTION 2:
+
+A command economy means every single decision is made by one person.
+
+CORRECTION:
+
+Centralized planning can involve institutions, agencies, and administrative systems.
+
+---
+
+MISCONCEPTION 3:
+
+A market economy means government has no role.
+
+CORRECTION:
+
+Pure market models differ from real mixed economies.
+
+---
+
+MISCONCEPTION 4:
+
+A mixed economy is exactly 50% market and 50% command.
+
+CORRECTION:
+
+Mixed economies vary greatly in institutions and government involvement.
+
+---
+
+MISCONCEPTION 5:
+
+Efficiency means fairness.
+
+CORRECTION:
+
+Efficiency and equity are different economic goals.
+
+---
+
+MISCONCEPTION 6:
+
+Full employment means 100% of adults have jobs.
+
+CORRECTION:
+
+Some unemployment exists even in strong labor markets.
+
+---
+
+MISCONCEPTION 7:
+
+Economic systems can be ranked objectively from best to worst without criteria.
+
+CORRECTION:
+
+Evaluation requires defined goals, evidence, tradeoffs, and criteria.
+
+==================================================
+GUIDED PRACTICE
+==================================================
+
+Provide at least 10 guided items.
+
+Required distribution:
+
+2 three-economic-question items
+
+4 system-identification/comparison items
+
+2 economic-goal items
+
+2 goal-tradeoff items.
+
+At least 3 require explanation.
+
+==================================================
+P05 — INDEPENDENT WORK
+==================================================
+
+TITLE:
+
+Independent Work — Economic Systems and Economic Goals
+
+Create 15 items.
+
+PART A
+Three Economic Questions — 3
+
+PART B
+Economic Systems — 6
+
+PART C
+Economic Goals and Tradeoffs — 6
+
+==================================================
+PART A
+==================================================
+
+Provide a new fictional community.
+
+Students identify:
+
+WHAT
+
+HOW
+
+FOR WHOM
+
+and explain why scarcity makes each decision necessary.
+
+==================================================
+PART B
+==================================================
+
+Use fictional economies rather than partisan/current-country labels.
+
+Students:
+
+- identify system characteristics;
+- compare decision mechanisms;
+- analyze ownership;
+- identify whether a scenario shows:
+  traditional;
+  command;
+  market;
+  mixed characteristics.
+
+At least one scenario must show a MIXED set of characteristics so students cannot rely on one keyword.
+
+==================================================
+PART C
+==================================================
+
+Provide fictional policy/economic decisions.
+
+Students identify:
+
+- primary economic goal;
+- secondary goal;
+- possible tradeoff;
+- evidence.
+
+Include:
+
+- efficiency vs equity;
+- growth vs current consumption;
+- security vs resource cost;
+- price stability;
+- employment.
+
+==================================================
+REQUIRED INDEPENDENT RESPONSE
+==================================================
+
+Final short response:
+
+A fictional country is considering two economic reforms.
+
+Provide data on:
+
+- output;
+- access;
+- employment;
+- cost;
+- government role.
+
+Student must:
+
+1. identify goals;
+2. compare alternatives;
+3. identify tradeoffs;
+4. recommend one option based on stated criteria;
+5. explain why another reasonable decision-maker might choose differently if priorities differ.
+
+This reinforces:
+
+economic reasoning
+without requiring ideological agreement.
+
+==================================================
+NOTEBOOK EVIDENCE — LESSON 4
+==================================================
+
+Required:
+
+1. Vocabulary
+2. Three Economic Questions organizer
+3. Systems Comparison Matrix
+4. Economic Goals organizer
+5. Independent Work
+
+==================================================
+LESSON 4 NOTEBOOK RUBRIC — 40 POINTS
+==================================================
+
+Vocabulary — 5
+
+Three Economic Questions — 6
+
+Economic Systems — 10
+
+Economic Goals — 8
+
+Tradeoff Analysis — 5
+
+Independent Work Reasoning — 5
+
+Identification / Completeness — 1
+
+TOTAL:
+40
+
+==================================================
+TOR NOTEBOOK KEY — LESSON 4
+==================================================
+
+Full mastery requires:
+
+- correct three economic questions;
+- accurate system characteristics;
+- mixed economies recognized as combinations;
+- economic goals correctly distinguished;
+- efficiency and equity not conflated;
+- tradeoffs supported with scenario evidence.
+
+For recommendation questions:
+
+Accept more than one conclusion if:
+
+- stated criteria are applied;
+- evidence supports recommendation;
+- tradeoff is acknowledged;
+- economic terminology is accurate.
+
+Do not grade political viewpoint.
+
+==================================================
+AUTOMATIC REVISION TRIGGERS
+==================================================
+
+Require revision if student:
+
+- states market economy means no government;
+- states command economy means literally every choice centrally dictated;
+- treats mixed economy as exact 50/50;
+- confuses efficiency with equity;
+- defines full employment as zero unemployment;
+- ranks systems as “best” or “worst” without criteria/evidence;
+- gives policy recommendation without identifying tradeoff.
+
+==================================================
+P06 — LESSON 4 MASTERY CHECKPOINT
+==================================================
+
+Use a NEW fictional economy.
+
+Provide:
+
+- production structure;
+- ownership pattern;
+- decision process;
+- government role;
+- traditional practices;
+- price mechanism;
+- policy proposal;
+- economic-goal data.
+
+Student must:
+
+1. identify how WHAT is determined;
+2. identify how HOW is determined;
+3. identify how FOR WHOM is determined;
+4. classify dominant system characteristics;
+5. explain why the economy may still be mixed;
+6. identify two broad economic goals;
+7. identify one potential goal tradeoff;
+8. distinguish one positive statement from one normative claim;
+9. evaluate one proposed policy using evidence;
+10. justify conclusion economically.
+
+==================================================
+LESSON 4 CHECKPOINT RUBRIC — 35 POINTS
+==================================================
+
+Three Economic Questions — 6
+
+System Classification — 6
+
+Mixed-System Reasoning — 4
+
+Economic Goals — 6
+
+Tradeoff — 4
+
+Positive vs Normative — 3
+
+Evidence-Based Policy Analysis — 5
+
+Vocabulary / Clarity — 1
+
+TOTAL:
+35
+
+==================================================
+TOR CHECKPOINT KEY — LESSON 4
+==================================================
+
+Codex must create an exact key from the final fictional scenario.
+
+Specify:
+
+- correct economic-question responses;
+- dominant system features;
+- evidence of mixed characteristics;
+- correct economic goals;
+- acceptable tradeoff explanations;
+- positive statement;
+- normative statement;
+- acceptable policy conclusions.
+
+Allow multiple policy conclusions ONLY when evidence and criteria support them.
+
+==================================================
+LESSON 4 QUIZ
+==================================================
+
+CREATE QUIZ:
+
+YES
+
+Question Bank:
+
+25
+
+Delivered:
+
+5
+
+Attempts:
+
+1
+
+Mastery:
+
+80%
+
+==================================================
+LESSON 4 QUIZ BANK BLUEPRINT
+==================================================
+
+FOUNDATIONAL:
+5
+
+INTERPRETATION:
+10
+
+APPLICATION/REASONING:
+10
+
+Required topics:
+
+- what/how/for whom;
+- traditional economy;
+- command economy;
+- market economy;
+- mixed economy;
+- private/public ownership;
+- market mechanism;
+- central planning;
+- economic freedom;
+- efficiency;
+- equity;
+- security;
+- growth;
+- full employment;
+- price stability;
+- goal tradeoffs;
+- positive vs normative.
+
+At least:
+
+5 system-scenario items
+
+4 economic-goal scenarios
+
+3 tradeoff items
+
+2 mixed-economy items
+
+2 positive-vs-normative items.
+
+==================================================
+UNIT 1 LESSONS 3–4 SEQUENCE QA
+==================================================
+
+Verify the progression:
+
+LESSON 3:
+
+Individual / firm / government choice
+
+using:
+
+- incentives;
+- marginal analysis;
+- costs;
+- benefits;
+- tradeoffs.
+
+LESSON 4:
+
+Societal organization
+
+using:
+
+- economic systems;
+- economic goals;
+- institutional decision mechanisms;
+- tradeoffs among goals.
+
+Students should see that:
+
+the same scarcity problem exists at both levels.
+
+What changes is:
+
+HOW choices are organized and made.
+
+==================================================
+CONTENT ACCURACY QA
+==================================================
+
+Verify:
+
+1. Incentives influence but do not guarantee behavior.
+2. Positive/negative incentive is not treated as moral language.
+3. Marginal means additional.
+4. Marginal cost is not total cost.
+5. Marginal benefit is not total benefit.
+6. Rational choice is not equated with moral correctness.
+7. Decision model uses evidence and criteria.
+8. Three basic economic questions are accurately taught.
+9. Economic systems are treated as models.
+10. Real economies are not described as pure without qualification.
+11. Mixed economy is not described as exact 50/50.
+12. Market economy is not described as absence of government.
+13. Efficiency is distinguished from equity.
+14. Full employment is not defined as 100% employment.
+15. Economic goals are not treated as automatically compatible or incompatible.
+16. Policy analysis remains neutral.
+17. Positive and normative claims are distinguished.
+
+==================================================
+ACCESSIBILITY QA
+==================================================
+
+Verify:
+
+- tables include headers;
+- visuals have alt text;
+- economic-system comparison does not rely on color;
+- goal/tradeoff matrices are screen-reader accessible;
+- mobile layout is readable;
+- all numeric marginal examples have text explanations.
+
+==================================================
+CODEX BUILD ORDER
+==================================================
+
+Build in this sequence:
+
+1. Read approved Unit 1 Lessons 1–2.
+2. Build Lesson 3 P01–P06.
+3. Build Lesson 3 Notebook.
+4. Build Lesson 3 Notebook rubric.
+5. Build Lesson 3 TOR key.
+6. Build Lesson 3 Checkpoint.
+7. Build Lesson 3 Checkpoint rubric.
+8. Build Lesson 3 TOR key.
+9. Build Lesson 3 25-question quiz bank.
+10. Validate Lesson 3.
+11. Build Lesson 4 P01–P06.
+12. Build Lesson 4 Notebook.
+13. Build Lesson 4 Notebook rubric.
+14. Build Lesson 4 TOR key.
+15. Build Lesson 4 Checkpoint.
+16. Build Lesson 4 Checkpoint rubric.
+17. Build Lesson 4 TOR key.
+18. Build Lesson 4 25-question quiz bank.
+19. Validate Lesson 4.
+20. Run Unit 1 Lessons 1–4 sequence QA.
+21. Update repository documentation.
+
+Do not begin Lesson 5 until Lessons 3 and 4 pass validation.
+
+END CODEX PRODUCTION PROMPT
+
+ECONOMICS
+UNIT 1
+LESSONS 3 AND 4
+DETAILED PRODUCTION MAPPING
